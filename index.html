@@ -27,6 +27,10 @@
     }
     header a:hover { opacity:0.65; }
 
+    .header-links {
+      display:flex; gap:18px;
+    }
+
     /* Hero image */
     main.hero {
       flex:1;
@@ -50,6 +54,7 @@
     /* Mobile tweaks */
     @media (max-width: 600px) {
       header { padding:12px 18px; font-size:16px; }
+      .header-links { gap:12px; }
       footer { font-size:12px; padding:10px; }
     }
   </style>
@@ -57,7 +62,10 @@
 <body>
   <header>
     <div><a href="/">gsinet.co.uk</a></div>
-    <div><a href="mailto:rob@gsinet.co.uk?subject=Web%20Enquiry">Email</a></div>
+    <div class="header-links">
+      <a href="mailto:rob@gsinet.co.uk?subject=Web%20Enquiry">email</a>
+      <a href="https://g4dge.cloudflareaccess.com/">remote access</a>
+    </div>
   </header>
 
   <main class="hero">
