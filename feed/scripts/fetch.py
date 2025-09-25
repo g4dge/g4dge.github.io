@@ -3,6 +3,7 @@ import json, time, hashlib, re
 from pathlib import Path
 import xml.etree.ElementTree as ET
 
+import requests
 import feedparser
 import yaml
 
@@ -15,22 +16,22 @@ RULES = BASE / "config" / "rules.yml"
 OUT   = BASE / "data"   / "items.json"
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
+UA = "Rob-AntiFeed/1.0 (+https://g4dge.github.io/feed) Python-Requests"
+TIMEOUT = 20
+
 def parse_opml(path: Path):
-    """Return a list of {'title','url'} from OPML (supports nested outlines)."""
     feeds = []
     tree = ET.parse(path)
     root = tree.getroot()
-
     def walk(node):
         for child in node:
             if child.tag.lower() == "outline":
                 xml_url = child.attrib.get("xmlUrl") or child.attrib.get("xmlurl")
                 typ = (child.attrib.get("type") or "").lower()
                 text = child.attrib.get("text") or child.attrib.get("title") or ""
-                if xml_url and (typ in ("rss", "atom", "")):  # some OPML omit 'type'
+                if xml_url and (typ in ("rss", "atom", "")):
                     feeds.append({"title": text, "url": xml_url})
                 walk(child)
-
     walk(root)
     return feeds
 
@@ -63,8 +64,7 @@ def norm_item(entry, feed_title):
     ts = _iso_from_entry(entry)
     link = (entry.get("link") or "").strip()
     raw_uid = link if link else f"{entry.get('title','')}{ts}"
-    uid = hashlib.sha1(raw_uid.encode("utf-8")).hexdigest()   # <-- FIX
-
+    uid = hashlib.sha1(raw_uid.encode("utf-8")).hexdigest()
     return {
         "id": uid,
         "title": (entry.get("title") or "").strip(),
@@ -73,6 +73,17 @@ def norm_item(entry, feed_title):
         "isoDate": ts,
         "source": feed_title or "",
     }
+
+def fetch_entries(url: str):
+    """Fetch via requests (custom UA) then parse with feedparser."""
+    try:
+        r = requests.get(url, headers={"User-Agent": UA}, timeout=TIMEOUT)
+        r.raise_for_status()
+        d = feedparser.parse(r.content)
+        return d
+    except Exception as e:
+        print(f"[error] Fetch {url}: {e}")
+        return feedparser.parse(b"")
 
 def main():
     rules = {
@@ -87,18 +98,22 @@ def main():
     print(f"[info] OPML: {len(feeds)} feeds from {OPML}")
 
     items = []
-    total = 0
+    total_raw = 0
     for f in feeds:
-        url = f["url"]
-        d = feedparser.parse(url)
-        total += len(d.entries or [])
+        url, title = f["url"], (f["title"] or "")
+        d = fetch_entries(url)
+        raw = len(d.entries or [])
+        total_raw += raw
+        kept = 0
         if getattr(d, "bozo", 0):
-            print(f"[warn] Parse issue on {url}: {getattr(d, 'bozo_exception', '')}")
+            print(f"[warn] Parse issue on {title} ({url}): {getattr(d, 'bozo_exception', '')}")
         for e in d.entries or []:
             if keep_item(e, rules):
-                items.append(norm_item(e, f["title"] or ""))
+                items.append(norm_item(e, title))
+                kept += 1
+        print(f"[info] {title or url}: raw={raw} kept={kept}")
 
-    print(f"[info] Pulled {total} entries, kept {len(items)} after filters")
+    print(f"[info] Total: raw={total_raw} kept={len(items)}")
 
     # De-dup newest first; prefer link, fallback to id
     seen, dedup = set(), []
