@@ -1,5 +1,120 @@
 [
   {
+    "id": "0eb8006eea9757ec83b7cb5b6519e6aa10fa4b88",
+    "title": "Nintendo of America boss Doug Bowser is retiring",
+    "link": "https://www.theverge.com/news/786068/nintendo-of-america-president-doug-bowser-retirement",
+    "summary": "One of Nintendo’s most recognizable names is stepping down. Today the company announced that the aptly named Doug Bowser, who took over as president of Nintendo of America from Reggie Fils-Aimé in 2019, will be retiring. He’ll stay on until the end of the year — December 31st, to be precise — and will be [&#8230;]",
+    "isoDate": "2025-09-25T21:21:12Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Andrew Webster",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News",
+      "Nintendo"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "befb9ee0b591cbc2ea5a40e58d68bd7768cc5971",
+    "title": "Nvidia is letting anyone use its AI voice animation tech",
+    "link": "https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source",
+    "summary": "Nvidia is open-sourcing Audio2Face, its AI-powered tool that generates realistic facial animations for 3D avatars — all based on audio input. The change means developers can now use the tool and its underlying framework to create realistic 3D characters for their games and apps. Nvidia’s Audio2Face works by analyzing the “acoustic features” of a voice, [&#8230;]",
+    "isoDate": "2025-09-25T21:16:23Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Emma Roth",
+    "tags": [
+      "Gaming",
+      "News",
+      "Nvidia",
+      "Tech"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5ad48674cc6733551d5a44743d0d6bce67d1aa84",
+    "title": "High above the equator, Russia is stalking satellites used by NATO armed forces",
+    "link": "https://arstechnica.com/space/2025/09/in-a-major-policy-shift-germany-considers-offensive-weapons-in-space/",
+    "summary": "\"Russia and China already occupy important strategic hills and mountains in space.\"",
+    "isoDate": "2025-09-25T20:54:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "germany",
+      "military space",
+      "Nato",
+      "russia"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235231209-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "48f691a29a92beaf44755aff8ccfe54e8e8f65ed",
+    "title": "Silicon Valley’s latest argument against regulating AI: that would literally be the antichrist",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation",
+    "summary": "In a four-part series of religious lectures in San Francisco, Peter Thiel - yes, that Peter Thiel - has argued that the End Times are nigh and that a biblical Antichrist - yes, that Antichrist - will come to earth in the form of onerous government regulations placed on science, technology and AI. These are, [&#8230;]",
+    "isoDate": "2025-09-25T20:49:43Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Tina Nguyen",
+    "tags": [
+      "AI",
+      "Policy",
+      "Politics"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c5886c77b9f1c9fe8f3b86ec51e9240267237c48",
+    "title": "Microsoft cuts off Azure phone surveillance support for Israeli military",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/microsoft_cuts_off_azure_phone/",
+    "summary": "<h4>Brad Smith says 'we do not provide technology to facilitate mass surveillance of civilians'</h4> <p>The president of Microsoft has said it's cutting parts of the Israeli military off from Azure after reports that the army was using the platform in a mass surveillance operation against Palestinians in the West Bank and Gaza.…</p>",
+    "isoDate": "2025-09-25T20:47:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Iain Thomson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "13b8b5db5ca2bed3ebba18899ca3a47cca1448e7",
+    "title": "ChatGPT Pulse delivers morning updates based on your chat history",
+    "link": "https://arstechnica.com/ai/2025/09/chatgpt-pulse-delivers-morning-updates-based-on-your-chat-history/",
+    "summary": "New mobile chatbot feature analyzes conversations overnight.",
+    "isoDate": "2025-09-25T20:30:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "agentic AI",
+      "AI agents",
+      "AI assistants",
+      "AI development tools",
+      "ChatGPT",
+      "gmail",
+      "google",
+      "google calendar",
+      "machine learning",
+      "mobile",
+      "openai",
+      "personalization",
+      "sam altman"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/chatgpt_pulse-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "71318d5b56f74402189ab105f851ef1316aa0751",
     "title": "Microsoft says this new cooling method could enable more powerful chips and efficient data centers",
     "link": "https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency",
@@ -213,39 +328,6 @@
     "pinned": false
   },
   {
-    "id": "511a2676dd42b67fd953ed22e1e8d486578e839b",
-    "title": "OpenAI really, really wants you to start your day with ChatGPT Pulse",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse",
-    "summary": "OpenAI's latest personalization play for ChatGPT: You can now allow the chatbot to learn about you via your transcripts and phone activity (think: connected apps like your calendar, email, and Google Contacts), and based on that data, it'll research things it thinks you'll like and present you with a daily \"pulse\" on them. The new [&#8230;]",
-    "isoDate": "2025-09-25T17:00:00Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Hayden Field",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "07caa5016e4987007ad8b4f44111720cbc846f58",
-    "title": "Jackery’s newest Explorer 240D power station is already over 30 percent off",
-    "link": "https://www.theverge.com/tech/785833/jackery-explorer-240d-bose-quietcomfor-earbuds-deal-sale",
-    "summary": "Jackery’s new Explorer 240D is a 256Wh portable power station that weighs less than seven pounds, and it’s currently available at Amazon for an early-bird price of $139 ($70 off). It offers pure DC output of up to 200W, and can power up to four gadgets at once when no outlet is nearby. For instance, [&#8230;]",
-    "isoDate": "2025-09-25T16:56:28Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Brandon Russell",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Tech"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "7580400602afffb6791f83327b77e6597f7cfb78",
     "title": "Harness pitches AI agents as your new DevOps taskmasters",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/harness_agentic_ai_devops/",
@@ -255,25 +337,6 @@
     "category": "Tech",
     "author": "Tim Anderson",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "78e7e0b6a18cf1e0f9a94829d4715a81bd0ed475",
-    "title": "LG’s new TV is designed to be easier for seniors to use",
-    "link": "https://www.theverge.com/news/785808/lg-easy-smart-tv-senior-citizens-redesigned-remote",
-    "summary": "LG is launching a new TV in South Korea designed specifically for elderly users who may struggle to navigate and operate modern smart TVs. The LG Easy TV features a simplified home screen with a larger font and a smaller selection of apps that cater to seniors. The TV offers picture and sound adjustments tailored [&#8230;]",
-    "isoDate": "2025-09-25T16:21:38Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Gadgets",
-      "LG",
-      "News",
-      "Tech",
-      "TVs"
-    ],
     "image": "",
     "pinned": false
   },
@@ -330,25 +393,6 @@
       "FTC"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2234419194-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e126cea169abb50a8d0d20a2a07d5a1926f57606",
-    "title": "Amazon is bringing back Rick Moranis for the Spaceballs sequel",
-    "link": "https://www.theverge.com/news/785797/amazon-spaceballs-2-rick-moranis-dark-helmet-sequel-cast-photo",
-    "summary": "Amazon MGM Studios is working on a Spaceballs sequel, and a new cast photo confirms that Rick Moranis will be back after a decades-long break from live-action films to reprise his role as Dark Helmet. Moranis’ last live-action movie was Honey, We Shrunk Ourselves, released in 1997, and while Deadline reported earlier this year that [&#8230;]",
-    "isoDate": "2025-09-25T16:05:25Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Jay Peters",
-    "tags": [
-      "Amazon",
-      "Entertainment",
-      "Film",
-      "News",
-      "Tech"
-    ],
-    "image": "",
     "pinned": false
   },
   {
@@ -940,28 +984,6 @@
     "pinned": false
   },
   {
-    "id": "d388bc4a8409312cf1c1ebdae1bd8632dd4e76f0",
-    "title": "Meet the first person to own over 40,000 paid Steam games",
-    "link": "https://arstechnica.com/gaming/2025/09/meet-the-first-person-to-own-over-40000-paid-steam-games/",
-    "summary": "Feeling any better about your backlog yet?",
-    "isoDate": "2025-09-24T17:08:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "Achievements",
-      "badges",
-      "collection",
-      "digital",
-      "gaming",
-      "Steam",
-      "Valve"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/sonixsteam-500x500-1758732307.png",
-    "pinned": false
-  },
-  {
     "id": "76e5424c02f8b482e15a96265bc926531141532d",
     "title": "Tesla Adds a Live Activity for Tesla Service",
     "link": "https://www.notateslaapp.com/news/3150/tesla-adds-a-live-activity-for-tesla-service",
@@ -985,26 +1007,6 @@
     "author": "Dan Robinson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b821dbb8d2a148a43a14790b598e1bcd1af7fa0a",
-    "title": "Anti-vaccine allies cheer as Trump claims shots have “too much liquid”",
-    "link": "https://arstechnica.com/health/2025/09/trump-pacifies-anti-vaccine-allies-by-trashing-shots-alongside-tylenol/",
-    "summary": "Why babies don't pop like water balloons when they get vaccines—and other info for Trump.",
-    "isoDate": "2025-09-24T16:25:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anti-vaccine",
-      "antigens",
-      "Trump",
-      "tylenol",
-      "vaccines"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-500x500.jpg",
     "pinned": false
   },
   {
@@ -1304,19 +1306,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a64892a6681fd1e8401a0bec7e5a1de5afe303b8",
-    "title": "Nearly half of businesses suffered deepfaked phone calls against staff",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/gartner_ai_attack/",
-    "summary": "<h4>AI attacks on the rise</h4> <p>A survey of cybersecurity bosses has shown that 62 percent reported attacks on their staff using AI over the last year, either by the use of prompt injection attacks or faking out their systems using phony audio or video generated by AI.…</p>",
-    "isoDate": "2025-09-23T20:08:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Iain Thomson",
     "tags": [],
     "image": "",
     "pinned": false
