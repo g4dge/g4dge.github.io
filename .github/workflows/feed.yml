@@ -20,7 +20,7 @@ jobs:
       - name: Install deps
         run: pip install feedparser pyyaml
       - name: Fetch feeds
-        run: python /feeds/scripts/fetch.py
+        run: python feed/scripts/fetch.py
       - name: Commit & push
         run: |
           git config user.name "anti-feed-bot"
