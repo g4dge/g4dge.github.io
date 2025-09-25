@@ -16,16 +16,16 @@ jobs:
         uses: actions/checkout@v4
 
       # --- Debug helpers (safe to keep) ---
-      - name: Debug: show workflow used
+      - name: "Debug: show workflow used"
         run: cat .github/workflows/feed.yml
 
-      - name: Debug: list candidates
+      - name: "Debug: list candidates"
         run: |
           pwd
           git rev-parse --short HEAD
           find . -maxdepth 4 -type f -name "fetch.py" -printf "%p\n"
 
-      - name: Debug: show the file we will run
+      - name: "Debug: show the file we will run"
         run: |
           nl -ba feed/scripts/fetch.py | sed -n '1,140p'
 
