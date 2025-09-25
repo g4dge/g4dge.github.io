@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Rob’s Anti-Feed</title>
+<style>
+  body { font: 16px/1.5 system-ui, sans-serif; margin: 2rem auto; max-width: 800px; }
+  header { display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem; }
+  article { padding:1rem; border:1px solid #eee; border-radius:12px; margin:0 0 12px 0; }
+  time { opacity:.7; font-size:.9em; }
+  .tag { font-size:.75em; padding:.15em .5em; border:1px solid #ddd; border-radius:999px; margin-left:.4em; }
+</style>
+<header>
+  <h1>Rob’s Anti-Feed</h1>
+  <small>Chronological • No algorithm • No ads</small>
+</header>
+<main id="feed">Loading…</main>
+<script>
+(async () => {
+  const res = await fetch('data/items.json', { cache: 'no-store' });
+  const items = await res.json();
+  const feed = document.getElementById('feed');
+  feed.innerHTML = '';
+  for (const it of items) {
+    const el = document.createElement('article');
+    el.innerHTML = `
+      <h2><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a></h2>
+      <time datetime="${it.isoDate}">${new Date(it.isoDate).toLocaleString()}</time>
+      ${it.source ? `<span class="tag">${it.source}</span>` : ''}
+      ${it.category ? `<span class="tag">${it.category}</span>` : ''}
+      <p>${(it.summary || '').slice(0, 260)}${(it.summary||'').length>260?'…':''}</p>
+    `;
+    feed.appendChild(el);
+  }
+})();
+</script>
+</html>
