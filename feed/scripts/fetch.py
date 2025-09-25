@@ -7,7 +7,7 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 OPML = ROOT / "config" / "sources.opml"
 RULES = ROOT / "config" / "rules.yml"
-OUT = ROOT / "data" / "items.json"
+OUT = ROOT / "feed" / "data" / "items.json"
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
 def parse_opml(path):
