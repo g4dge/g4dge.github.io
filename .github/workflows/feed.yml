@@ -2,7 +2,7 @@ name: Build Anti-Feed
 
 on:
   schedule:
-    - cron: "7 * * * *"   # hourly at :07 UTC
+    - cron: '7 * * * *'   # hourly at :07 UTC
   workflow_dispatch:
 
 jobs:
@@ -12,61 +12,59 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout (full history)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0         # so we can pull/rebase
+          persist-credentials: true
 
-      # --- Debug helpers (safe to keep) ---
-      - name: "Debug: show workflow used"
+      # --- Debug (keep while we stabilise) ---
+      - name: "Debug - show workflow used"
         run: cat .github/workflows/feed.yml
 
-      - name: "Debug: list candidates"
+      - name: "Debug - list key files"
         run: |
           pwd
           git rev-parse --short HEAD
-          find . -maxdepth 4 -type f -name "fetch.py" -printf "%p\n"
-       
-      - name: "Debug: show the file we will run"
+          ls -la feed/config || true
+          ls -la feed/scripts || true
+
+      - name: "Debug - show OPML (first 120 lines)"
         run: |
-          nl -ba feed/scripts/fetch.py | sed -n '1,140p'
+          echo "Path: feed/config/sources.opml"
+          sed -n '1,120p' feed/config/sources.opml || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install deps
         run: pip install feedparser pyyaml requests
 
-      - name: "Debug: show OPML"
-        run: |
-          echo "Contents of feed/config/sources.opml:"
-          cat feed/config/sources.opml
-
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
-
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0      # needed so we can pull/rebase
 
       - name: Commit & push
         run: |
           set -e
-          git config user.name "anti-feed-bot"
+          git config user.name  "anti-feed-bot"
           git config user.email "actions@users.noreply.github.com"
-          git pull --rebase origin main
+          # rebase on latest remote to avoid 'fetch first' errors
+          git pull --rebase origin main || true
           git add feed/data/items.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "update feed"
-            # simple retry in case two runs race each other
-            for i in 1 2 3; do
-              if git push origin main; then
-                break
-              fi
-              echo "Push failed, rebasing and retrying ($i)…"
-              git pull --rebase origin main
-            done
+            exit 0
           fi
+          git commit -m "update feed"
+          # retry push up to 3 times in case of races
+          for i in 1 2 3; do
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push failed, rebasing and retrying ($i)…"
+            git pull --rebase origin main || true
+          done
+          echo "Push failed after retries."
+          exit 1
