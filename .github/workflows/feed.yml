@@ -45,10 +45,28 @@ jobs:
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
 
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # needed so we can pull/rebase
+
       - name: Commit & push
         run: |
+          set -e
           git config user.name "anti-feed-bot"
           git config user.email "actions@users.noreply.github.com"
           git pull --rebase origin main
           git add feed/data/items.json
-          git diff --cached --quiet && echo "No changes to commit." || (git commit -m "update feed" && git push origin main)
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "update feed"
+            # simple retry in case two runs race each other
+            for i in 1 2 3; do
+              if git push origin main; then
+                break
+              fi
+              echo "Push failed, rebasing and retrying ($i)…"
+              git pull --rebase origin main
+            done
+          fi
