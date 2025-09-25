@@ -5,6 +5,10 @@ on:
     - cron: '7 * * * *'   # hourly at :07 UTC
   workflow_dispatch:
 
+concurrency:
+  group: anti-feed-build
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,12 +19,17 @@ jobs:
       - name: Checkout (full history)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0         # so we can pull/rebase
+          fetch-depth: 0
           persist-credentials: true
-      - name: Sync to latest main
+          ref: main
+
+      # Always start from a CLEAN copy of origin/main (no merges/rebases)
+      - name: Sync to latest main (clean)
         run: |
+          set -e
           git fetch origin main
-          git checkout -B main origin/main
+          git reset --hard origin/main
+          git clean -fdx
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,13 +42,15 @@ jobs:
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
 
-      - name: Commit & push
+      - name: Commit & push (clean push; retry with clean regen)
         run: |
           set -e
           git config user.name  "anti-feed-bot"
           git config user.email "actions@users.noreply.github.com"
 
-          git add feed/data/items.json
+          # stage ONLY the generated artefact
+          git add -A feed/data/items.json
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -47,19 +58,25 @@ jobs:
 
           git commit -m "update feed"
 
-          # Try a straight push first
-          if git push origin main; then
+          # Try push; if rejected, re-sync HARD, REGENERATE, and push again
+          if git push origin HEAD:main; then
             exit 0
           fi
 
-          echo "Push rejected; re-syncing and regenerating once…"
-          # Re-sync to remote tip, then REGENERATE the artefact and push again
-          git fetch origin main
-          git checkout -B main origin/main
+          echo "Push rejected; retrying with clean re-sync and regen…"
+          for i in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            git clean -fdx
+            python feed/scripts/fetch.py
+            git add -A feed/data/items.json
+            # commit may be empty if nothing changed after re-sync
+            git commit -m "update feed (retry $i)" || true
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Retry $i failed; will try again…"
+          done
 
-          # re-run the generator to make items.json match the latest tree
-          python feed/scripts/fetch.py
-
-          git add feed/data/items.json
-          git commit -m "update feed (after re-sync)" || true
-          git push origin main
+          echo "Push failed after retries."
+          exit 1
