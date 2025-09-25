@@ -29,9 +29,5 @@ exclude_tags: []                  # drop if any tag matches
 
 # Per-source caps (limit firehosey feeds)
 max_per_source:
-  # "The Verge": 40
-  # "arstechnica.com": 50
-#pin:
-#  - title: "Weekly Economist Espresso (manual pick)"
-#    url: "https://example.com/espresso"
-#    note: "Always worth a glance."
+  "theverge.com": 10
+  "arstechnica.com": 10
