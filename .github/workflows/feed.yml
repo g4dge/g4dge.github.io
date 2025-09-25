@@ -23,8 +23,8 @@ jobs:
           persist-credentials: true
           ref: main
 
-      # Always start from a CLEAN copy of origin/main (no merges/rebases)
-      - name: Sync to latest main (clean)
+      # Always start from the exact remote tip, with a clean tree
+      - name: Clean sync to origin/main
         run: |
           set -e
           git fetch origin main
@@ -42,41 +42,21 @@ jobs:
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
 
-      - name: Commit & push (clean push; retry with clean regen)
+      - name: Commit & push (force-with-lease for generated file)
         run: |
           set -e
           git config user.name  "anti-feed-bot"
           git config user.email "actions@users.noreply.github.com"
 
-          # stage ONLY the generated artefact
+          # Stage only the generated artefact
           git add -A feed/data/items.json
 
+          # Nothing to commit? Bail cleanly.
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
           git commit -m "update feed"
-
-          # Try push; if rejected, re-sync HARD, REGENERATE, and push again
-          if git push origin HEAD:main; then
-            exit 0
-          fi
-
-          echo "Push rejected; retrying with clean re-sync and regen…"
-          for i in 1 2 3; do
-            git fetch origin main
-            git reset --hard origin/main
-            git clean -fdx
-            python feed/scripts/fetch.py
-            git add -A feed/data/items.json
-            # commit may be empty if nothing changed after re-sync
-            git commit -m "update feed (retry $i)" || true
-            if git push origin HEAD:main; then
-              exit 0
-            fi
-            echo "Retry $i failed; will try again…"
-          done
-
-          echo "Push failed after retries."
-          exit 1
+          # Avoid merge/rebase entirely for this generated file
+          git push --force-with-lease origin HEAD:main
