@@ -17,22 +17,10 @@ jobs:
         with:
           fetch-depth: 0         # so we can pull/rebase
           persist-credentials: true
-
-      # --- Debug (keep while we stabilise) ---
-      - name: "Debug - show workflow used"
-        run: cat .github/workflows/feed.yml
-
-      - name: "Debug - list key files"
+      - name: Sync to latest main
         run: |
-          pwd
-          git rev-parse --short HEAD
-          ls -la feed/config || true
-          ls -la feed/scripts || true
-
-      - name: "Debug - show OPML (first 120 lines)"
-        run: |
-          echo "Path: feed/config/sources.opml"
-          sed -n '1,120p' feed/config/sources.opml || true
+          git fetch origin main
+          git checkout -B main origin/main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -50,21 +38,28 @@ jobs:
           set -e
           git config user.name  "anti-feed-bot"
           git config user.email "actions@users.noreply.github.com"
-          # rebase on latest remote to avoid 'fetch first' errors
-          git pull --rebase origin main || true
+
           git add feed/data/items.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
+
           git commit -m "update feed"
-          # retry push up to 3 times in case of races
-          for i in 1 2 3; do
-            if git push origin main; then
-              exit 0
-            fi
-            echo "Push failed, rebasing and retrying ($i)…"
-            git pull --rebase origin main || true
-          done
-          echo "Push failed after retries."
-          exit 1
+
+          # Try a straight push first
+          if git push origin main; then
+            exit 0
+          fi
+
+          echo "Push rejected; re-syncing and regenerating once…"
+          # Re-sync to remote tip, then REGENERATE the artefact and push again
+          git fetch origin main
+          git checkout -B main origin/main
+
+          # re-run the generator to make items.json match the latest tree
+          python feed/scripts/fetch.py
+
+          git add feed/data/items.json
+          git commit -m "update feed (after re-sync)" || true
+          git push origin main
