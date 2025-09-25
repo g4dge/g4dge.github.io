@@ -4,10 +4,12 @@ import feedparser
 import xml.etree.ElementTree as ET
 import yaml
 
-ROOT = Path(__file__).resolve().parents[1]
-OPML = ROOT / "config" / "sources.opml"
-RULES = ROOT / "config" / "rules.yml"
-OUT = ROOT / "feed" / "data" / "items.json"
+ROOT = Path(__file__).resolve().parents[2]
+BASE = ROOT / "feed"
+
+OPML  = BASE / "config" / "sources.opml"
+RULES = BASE / "config" / "rules.yml"
+OUT   = BASE / "data"   / "items.json"
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
 def parse_opml(path):
