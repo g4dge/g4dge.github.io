@@ -1,5 +1,84 @@
 <!doctype html>
 <html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>gsinet.co.uk</title>
+  <style>
+    * { box-sizing:border-box; margin:0; padding:0; }
+    body,html { height:100%; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color:#111; }
+
+    /* Layout containers */
+    body { display:flex; flex-direction:column; }
+
+    /* Header */
+    header {
+      position:fixed; top:0; left:0; right:0;
+      display:flex; justify-content:space-between; align-items:center;
+      padding:18px 32px;
+      background:rgba(255,255,255,0.85);
+      backdrop-filter: blur(8px);
+      font-size:18px; font-weight:500;
+      z-index:10;
+    }
+    header a {
+      color:#111; text-decoration:none;
+      transition:opacity .2s;
+    }
+    header a:hover { opacity:0.65; }
+
+    .header-links {
+      display:flex; gap:18px;
+    }
+
+    /* Hero image */
+    main.hero {
+      flex:1;
+      width:100%;
+      display:flex; align-items:center; justify-content:center;
+      overflow:hidden;
+    }
+    .hero img {
+      width:100%; height:100%;
+      object-fit:cover;
+    }
+
+    /* Footer */
+    footer {
+      text-align:center;
+      font-size:14px;
+      padding:12px;
+      background:rgba(255,255,255,0.85);
+    }
+
+    /* Mobile tweaks */
+    @media (max-width: 600px) {
+      header { padding:12px 18px; font-size:16px; }
+      .header-links { gap:12px; }
+      footer { font-size:12px; padding:10px; }
+    }
+  </style>
+
+    <!-- Standard favicons -->
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+  <link rel="shortcut icon" href="icons/favicon.ico">
+
+  <!-- Android/Chrome -->
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="icons/android-chrome-512x512.png">
+
+  <!-- Apple (optional, but won’t hurt) -->
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+  <!-- Web manifest -->
+  <link rel="manifest" href="icons/site.webmanifest">
+  
+</head>
+
+
+<!doctype html>
+<html lang="en">
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Rob’s Anti-Feed</title>
@@ -11,7 +90,7 @@
   .tag { font-size:.75em; padding:.15em .5em; border:1px solid #ddd; border-radius:999px; margin-left:.4em; }
 </style>
 <header>
-  <h1>Rob’s Anti-Feed</h1>
+  <h1>Anti-Feed</h1>
   <small>Chronological • No algorithm • No ads</small>
 </header>
 <main id="feed">Loading…</main>
