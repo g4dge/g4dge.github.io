@@ -1,0 +1,11 @@
+blocklist_keywords:
+  - sponsored
+  - partner content
+  - black friday
+min_title_length: 10
+max_items: 500     # keep history lightweight on Pages
+
+pin:
+  - title: "Weekly Economist Espresso (manual pick)"
+    url: "https://example.com/espresso"
+    note: "Always worth a glance."
