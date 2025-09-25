@@ -27,6 +27,19 @@ jobs:
       - name: Install deps
         run: pip install feedparser pyyaml
 
+      - name: Debug: show workflow used
+        run: cat .github/workflows/feed.yml
+
+      - name: Debug: list candidates
+        run: |
+          pwd
+          git rev-parse --short HEAD
+          find . -maxdepth 4 -type f -name "fetch.py" -printf "%p\n"
+
+      - name: Debug: show the file we will run
+        run: |
+         nl -ba feed/scripts/fetch.py | sed -n '1,140p'
+
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
 
