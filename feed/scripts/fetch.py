@@ -20,18 +20,31 @@ UA = "Rob-AntiFeed/1.0 (+https://g4dge.github.io/feed) Python-Requests"
 TIMEOUT = 20
 
 def parse_opml(path: Path):
+    """Collect feeds from OPML, tolerating different attribute casings and layouts."""
     feeds = []
     tree = ET.parse(path)
     root = tree.getroot()
+
     def walk(node):
-        for child in node:
-            if child.tag.lower() == "outline":
-                xml_url = child.attrib.get("xmlUrl") or child.attrib.get("xmlurl")
-                typ = (child.attrib.get("type") or "").lower()
-                text = child.attrib.get("text") or child.attrib.get("title") or ""
-                if xml_url and (typ in ("rss", "atom", "")):
+        for child in list(node):
+            # Strip any XML namespace
+            tag = child.tag.split('}', 1)[-1].lower()
+            if tag == "outline":
+                attrs = {k.lower(): v for k, v in child.attrib.items()}
+                # Accept common variants
+                xml_url = (
+                    attrs.get("xmlurl")
+                    or attrs.get("url")
+                    or attrs.get("htmlurl")
+                )
+                text = attrs.get("text") or attrs.get("title") or ""
+                if xml_url:
                     feeds.append({"title": text, "url": xml_url})
+                # Recurse into nested outlines
                 walk(child)
+            else:
+                walk(child)
+
     walk(root)
     return feeds
 
@@ -45,7 +58,7 @@ def keep_item(entry, rules):
     if len(title) < int(rules.get("min_title_length", 0)):
         return False
     text = f"{title} {(entry.get('summary') or '')}".casefold()
-    for kw in rules.get("blocklist_keywords", []) or []:
+    for kw in (rules.get("blocklist_keywords") or []):
         if re.search(rf"\b{re.escape(str(kw).casefold())}\b", text):
             return False
     return True
@@ -79,8 +92,7 @@ def fetch_entries(url: str):
     try:
         r = requests.get(url, headers={"User-Agent": UA}, timeout=TIMEOUT)
         r.raise_for_status()
-        d = feedparser.parse(r.content)
-        return d
+        return feedparser.parse(r.content)
     except Exception as e:
         print(f"[error] Fetch {url}: {e}")
         return feedparser.parse(b"")
