@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>Rob's Sources</title></head>
+  <body>
+    <outline text="Tech">
+      <outline text="Ars Technica" type="rss" xmlUrl="https://arstechnica.com/feed/"/>
+      <outline text="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
+    </outline>
+    <outline text="Long Reads">
+      <outline text="Aeon" type="rss" xmlUrl="https://aeon.co/feed.rss"/>
+    </outline>
+  </body>
+</opml>
