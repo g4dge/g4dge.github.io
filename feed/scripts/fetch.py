@@ -1,53 +1,74 @@
-import json, time, hashlib, re, os
+#!/usr/bin/env python3
+import json, time, hashlib, re
 from pathlib import Path
-import feedparser
 import xml.etree.ElementTree as ET
+
+import feedparser
 import yaml
 
-ROOT = Path(__file__).resolve().parents[2]
+# ----- Paths (repo root → /feed subtree) -----
+ROOT = Path(__file__).resolve().parents[2]  # repo root (from feed/scripts/*)
 BASE = ROOT / "feed"
 
 OPML  = BASE / "config" / "sources.opml"
 RULES = BASE / "config" / "rules.yml"
-OUT   = BASE / "data"   / "items.json"
+OUT   = BASE / "data" / "items.json"
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
-def parse_opml(path):
-    tree = ET.parse(path)
-    feeds = []
-    for node in tree.iter():
-        if node.tag == "outline" and node.attrib.get("type") == "rss":
-            feeds.append({
-                "title": node.attrib.get("text") or node.attrib.get("title"),
-                "url": node.attrib["xmlUrl"]
-            })
-    return feeds
+# ----- Helpers -----
+def _safe_yaml_load(path: Path):
+    if not path.exists():
+        return {}
+    data = yaml.safe_load(path.read_text(encoding="utf-8"))
+    return data or {}
 
-def load_rules(path):
-    if not path.exists(): return {"blocklist_keywords": [], "min_title_length": 0, "max_items": 500, "pin": []}
-    return yaml.safe_load(path.read_text())
+def parse_opml(path: Path):
+    """Return a list of {'title','url'} from OPML (supports nested outlines)."""
+    feeds = []
+    tree = ET.parse(path)
+    root = tree.getroot()
+
+    def walk(node):
+        for child in node:
+            if child.tag.lower() == "outline":
+                xml_url = child.attrib.get("xmlUrl") or child.attrib.get("xmlurl")
+                typ = (child.attrib.get("type") or "").lower()
+                text = child.attrib.get("text") or child.attrib.get("title") or ""
+                if xml_url and (typ in ("rss", "atom", "")):  # some OPML omit 'type'
+                    feeds.append({"title": text, "url": xml_url})
+                # recurse into nested outlines
+                walk(child)
+
+    walk(root)
+    return feeds
 
 def keep_item(entry, rules):
     title = (entry.get("title") or "").strip()
-    if len(title) < rules.get("min_title_length", 0): return False
-    text = " ".join([title, entry.get("summary","")]).lower()
-    for kw in rules.get("blocklist_keywords", []):
-        if re.search(rf"\b{re.escape(kw.lower())}\b", text):
+    if len(title) < int(rules.get("min_title_length", 0)):
+        return False
+    text = f"{title} {(entry.get('summary') or '')}".casefold()
+    for kw in rules.get("blocklist_keywords", []) or []:
+        if re.search(rf"\b{re.escape(str(kw).casefold())}\b", text):
             return False
     return True
 
-def norm_item(entry, feed_title):
-    # isoDate: fallback order
-    ts = None
-    for k in ["published_parsed", "updated_parsed"]:
-        if entry.get(k):
-            ts = time.strftime("%Y-%m-%dT%H:%M:%SZ", entry[k])
-            break
-    if not ts:
-        ts = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+def _iso_from_entry(entry):
+    # Try multiple date fields; feedparser gives time.struct_time when parsed
+    for k in ("published_parsed", "updated_parsed"):
+        t = entry.get(k)
+        if t:
+            try:
+                return time.strftime("%Y-%m-%dT%H:%M:%SZ", t)
+            except Exception:
+                pass
+    # Last resort: now
+    return time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
 
+def norm_item(entry, feed_title):
+    ts = _iso_from_entry(entry)
     link = (entry.get("link") or "").strip()
-    # Build a stable unique id from link or title+timestamp
+
+    # Stable unique id (bytes for hashlib)
     raw_uid = link if link else f"{entry.get('title','')}{ts}"
     uid = hashlib.sha1(raw_uid.encode("utf-8")).hexdigest()
 
@@ -57,42 +78,73 @@ def norm_item(entry, feed_title):
         "link": link,
         "summary": (entry.get("summary") or "").strip(),
         "isoDate": ts,
-        "source": feed_title,
+        "source": feed_title or "",
     }
 
 def main():
+    rules = {
+        "blocklist_keywords": [],
+        "min_title_length": 0,
+        "max_items": 500,
+        "pin": [],
+    }
+    rules.update(_safe_yaml_load(RULES))
+
     feeds = parse_opml(OPML)
-    rules = load_rules(RULES)
+    if not feeds:
+        print(f"[warn] No feeds found in {OPML}")
+    else:
+        print(f"[info] Found {len(feeds)} feeds in {OPML}")
+
     items = []
+    total_entries = 0
+
     for f in feeds:
-        d = feedparser.parse(f["url"])
-        for e in d.entries:
+        url = f["url"]
+        d = feedparser.parse(url)
+        if getattr(d, "bozo", 0):
+            # bozo signifies a parse problem; still may have entries
+            print(f"[warn] Parse issue on {url}: {getattr(d, 'bozo_exception', '')}")
+        count_before = len(d.entries or [])
+        total_entries += count_before
+
+        for e in d.entries or []:
             if keep_item(e, rules):
                 items.append(norm_item(e, f["title"] or ""))
-    # de-dup by link, newest first
-    seen = set(); dedup=[]
-    for it in sorted(items, key=lambda x: x["isoDate"], reverse=True):
-        if it["link"] in seen: continue
-        seen.add(it["link"]); dedup.append(it)
-        print(f"Wrote {len(dedup)} items to {OUT}")
 
-    # pin manual items to the top (if provided)
-    for p in rules.get("pin", []):
+    print(f"[info] Pulled {total_entries} raw entries, kept {len(items)} after filters")
+
+    # De-dup: prefer link when present, otherwise fall back to id
+    seen = set()
+    dedup = []
+    for it in sorted(items, key=lambda x: x["isoDate"], reverse=True):
+        key = it["link"] or it["id"]
+        if key in seen:
+            continue
+        seen.add(key)
+        dedup.append(it)
+
+    # Pin manual items to the top
+    for p in (rules.get("pin") or []):
+        link = p.get("url", "")
+        title = p.get("title", "")
+        note = p.get("note", "")
+        uid = hashlib.sha1((link or title).encode("utf-8")).hexdigest()
         dedup.insert(0, {
-            "id": hashlib.sha1(p["url"].encode()).hexdigest(),
-            "title": p["title"],
-            "link": p["url"],
-            "summary": p.get("note",""),
+            "id": uid,
+            "title": title,
+            "link": link,
+            "summary": note,
             "isoDate": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-            "source": "Pinned"
+            "source": "Pinned",
         })
 
-    # cap history
+    # Cap history
     max_items = int(rules.get("max_items", 500))
     dedup = dedup[:max_items]
 
-    OUT.write_text(json.dumps(dedup, indent=2))
-    print(f"Wrote {len(dedup)} items to {OUT}")
+    OUT.write_text(json.dumps(dedup, indent=2, ensure_ascii=False))
+    print(f"[ok] Wrote {len(dedup)} items to {OUT}")
 
 if __name__ == "__main__":
     main()
