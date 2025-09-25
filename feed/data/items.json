@@ -1,5 +1,66 @@
 [
   {
+    "id": "71318d5b56f74402189ab105f851ef1316aa0751",
+    "title": "Microsoft says this new cooling method could enable more powerful chips and efficient data centers",
+    "link": "https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency",
+    "summary": "Microsoft is making advances with a new way to cool microchips that it says could lead to more energy-efficient data centers in the future. It's a method called microfluidics that involves liquid coolant flowing directly into the silicon. After lab tests, Microsoft found that this strategy can remove heat up to three times better than [&#8230;]",
+    "isoDate": "2025-09-25T20:23:20Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Justine Calma",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Climate",
+      "Energy",
+      "Microsoft",
+      "Report",
+      "Science",
+      "Tech"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e1cf78ea6ae61aea4df4a64ae310c1b0ec9832fb",
+    "title": "X2 Elite is Qualcomm’s latest attempt to bring Apple’s M-series magic to the PC",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/qualcomm_details_x2_elite/",
+    "summary": "<h4>Plus the Snapdragon 8 Elite turns 5</h4> <p>Qualcomm revealed the second act in its bid to overtake Intel and AMD as the leading laptop CPU maker this week with the paper launch of its Snapdragon X2 Elite and Elite Extreme processors. The company seeks to bring the kind of battery life and performance Apple has gotten out of its Arm-based M-series silicon to the Windows market.…</p>",
+    "isoDate": "2025-09-25T20:17:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "99d27fd3f11f460c6bb0f5bba20fd2d044802150",
+    "title": "North Korea's Lazarus Group shares its malware with IT work scammers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/lazarus_group_shares_malware_with_it_scammers/",
+    "summary": "<h4>Keeping Pyongyang's coffers full</h4> <p>North Korean-linked crews connected to the pervasive IT worker scams have upped their malware game, using more advanced tools, including a backdoor that has much of the same code as Pyongyang's infamous Lazarus Group deploys.…</p>",
+    "isoDate": "2025-09-25T19:59:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "559f395cc1e4686e74ccd2a7745ba48989114bab",
+    "title": "Amazon will refund $1.5B to 35M customers allegedly duped into paying for Prime",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/amazon_will_refund_15b_to/",
+    "summary": "<h4>Former FTC chair Khan not happy her legal wrath ended in settlement worth just 14% of Amazon's quarterly net</h4> <p>Amazon has settled the Federal Trade Commission's case against it for making it too hard to quit Prime, and while it naturally didn't admit to any wrongdoing, it's still going to pay out one of the largest settlements in FTC history to make the matter go away. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-09-25T19:29:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e497a98028374dc7591f185e985e7bceaa25c5e0",
     "title": "This Energizer laptop claims to have a battery that keeps going and going and going",
     "link": "https://www.theverge.com/news/785857/this-energizer-laptop-claims-to-have-a-battery-that-keeps-going-and-going-and-going",
@@ -308,25 +369,6 @@
       "Robotics"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gemini-Robotics-1.5_Agentic-Capabilitiies-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9444a031ab4d192950b4c1222282683217a37226",
-    "title": "Google DeepMind’s new AI models can search the web to help robots complete tasks",
-    "link": "https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search",
-    "summary": "Google DeepMind says its upgraded AI models enable robots to complete more complex tasks —&#160;and even tap into the web for help. During a press briefing, Google DeepMind’s head of robotics, Carolina Parada, told reporters that the company’s new AI models work in tandem to allow robots to “think multiple steps ahead” before taking action [&#8230;]",
-    "isoDate": "2025-09-25T16:00:00Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Emma Roth",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Robot",
-      "Tech"
-    ],
-    "image": "",
     "pinned": false
   },
   {
@@ -1280,32 +1322,6 @@
     "pinned": false
   },
   {
-    "id": "2212caf0b11d56dd9c5fe8b08985d198d694f7b3",
-    "title": "SonicWall releases rootkit-busting firmware update following wave of attacks",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/sonicwall_rootkitbooting_firmware_update/",
-    "summary": "<h4>Security vendor's no good, very bad <span class=\"strike\">week</span> year</h4> <p>SonicWall on Monday released a firmware update that the security vendor says will remove rootkit malware deployed in recent attacks targeting Secure Mobile Access (SMA) 100 appliances.…</p>",
-    "isoDate": "2025-09-23T19:37:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c60d1713df47cf1b12b4d315d713bdf818e9599e",
-    "title": "AI coding hype overblown, Bain shrugs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/developers_genai_little_productivity_gains/",
-    "summary": "<h4>Tried by two-thirds of firms, ignored by most devs, and productivity barely moved</h4> <p>Software development was one of the first areas to adopt generative AI, but the promised revolution has so far delivered only modest productivity gains, and Bain says only a full rethink of the software lifecycle will shift the dial.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-09-23T18:31:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "79bffdd93e4844299c3e3660b3fd0aedc9355965",
     "title": "First 500kW Tesla Supercharger Now Under Construction in California",
     "link": "https://www.notateslaapp.com/news/3158/first-500kw-tesla-supercharger-now-under-construction-in-california",
@@ -1316,19 +1332,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/0x0-supercharger_11.jpg/50b8da67e79ab2b54ab258e82a2b4169/0x0-supercharger_11.jpg",
-    "pinned": false
-  },
-  {
-    "id": "46061982d72ad556c488c2c809f66e8950cc0534",
-    "title": "Third time's the charm? SolarWinds (again) patches critical Web Help Desk RCE",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/23/solarwinds_patches_rce/",
-    "summary": "<h4>Or maybe 3 strikes, you're out?</h4> <p>SolarWinds on Tuesday released a hotfix - again - for a critical, 9.8-severity flaw in its Web Help Desk IT ticketing software that could allow a remote, unauthenticated attacker to run commands on a host machine. …</p>",
-    "isoDate": "2025-09-23T17:00:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
