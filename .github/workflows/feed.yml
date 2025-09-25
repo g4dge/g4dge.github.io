@@ -35,7 +35,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install deps
-        run: pip install feedparser pyyaml
+        run: pip install feedparser pyyaml requests
 
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
