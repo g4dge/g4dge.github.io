@@ -45,15 +45,19 @@ def norm_item(entry, feed_title):
             break
     if not ts:
         ts = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
-    link = entry.get("link") or ""
-    uid = hashlib.sha1((link or (entry.get("title","")+ts))).hexdigest()
+
+    link = (entry.get("link") or "").strip()
+    # Build a stable unique id from link or title+timestamp
+    raw_uid = link if link else f"{entry.get('title','')}{ts}"
+    uid = hashlib.sha1(raw_uid.encode("utf-8")).hexdigest()
+
     return {
         "id": uid,
-        "title": entry.get("title","").strip(),
+        "title": (entry.get("title") or "").strip(),
         "link": link,
         "summary": (entry.get("summary") or "").strip(),
         "isoDate": ts,
-        "source": feed_title
+        "source": feed_title,
     }
 
 def main():
@@ -70,6 +74,7 @@ def main():
     for it in sorted(items, key=lambda x: x["isoDate"], reverse=True):
         if it["link"] in seen: continue
         seen.add(it["link"]); dedup.append(it)
+        print(f"Wrote {len(dedup)} items to {OUT}")
 
     # pin manual items to the top (if provided)
     for p in rules.get("pin", []):
