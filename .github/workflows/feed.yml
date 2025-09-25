@@ -25,6 +25,11 @@ jobs:
           git rev-parse --short HEAD
           find . -maxdepth 4 -type f -name "fetch.py" -printf "%p\n"
 
+      - name: "Debug: show OPML"
+        run: |
+          echo "Path: feed/config/sources.opml"
+          sed -n '1,120p' feed/config/sources.opml
+        
       - name: "Debug: show the file we will run"
         run: |
           nl -ba feed/scripts/fetch.py | sed -n '1,140p'
