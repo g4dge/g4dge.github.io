@@ -39,8 +39,8 @@ jobs:
 
       - name: "Debug: show OPML"
         run: |
-          echo "Path: feed/config/sources.opml"
-          sed -n '1,120p' feed/config/sources.opml
+          echo "Contents of feed/config/sources.opml:"
+          cat feed/config/sources.opml
 
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
