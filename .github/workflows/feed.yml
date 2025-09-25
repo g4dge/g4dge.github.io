@@ -2,7 +2,6 @@ name: Build Anti-Feed
 
 on:
   schedule:
-    # Every hour at :07 (UTC). Adjust as you fancy; Pages uses UTC, you're Europe/London.
     - cron: "7 * * * *"
   workflow_dispatch:
 
@@ -10,20 +9,30 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # allow commit back to the repo
+      contents: write
     steps:
       - uses: actions/checkout@v4
+
+      - name: Debug tree (quick peek)
+        run: |
+          pwd
+          ls -la
+          find . -maxdepth 3 -type f \( -name "fetch.py" -o -name "sources.opml" -o -name "rules.yml" -o -name "index.html" \)
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: Install deps
         run: pip install feedparser pyyaml
+
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
+
       - name: Commit & push
         run: |
           git config user.name "anti-feed-bot"
           git config user.email "actions@users.noreply.github.com"
           git add feed/data/items.json
-          git diff --quiet && echo "No changes." || (git commit -m "update feed" && git push)
+          git diff --cached --quiet && echo "No changes to commit." || (git commit -m "update feed" && git push)
