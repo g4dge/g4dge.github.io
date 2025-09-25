@@ -2,6 +2,7 @@
 import json, time, hashlib, re
 from pathlib import Path
 import xml.etree.ElementTree as ET
+from urllib.parse import urlparse
 
 import requests
 import feedparser
@@ -19,49 +20,58 @@ OUT.parent.mkdir(parents=True, exist_ok=True)
 UA = "Rob-AntiFeed/1.0 (+https://g4dge.github.io/feed) Python-Requests"
 TIMEOUT = 20
 
+def now_iso():
+    return time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+
 def parse_opml(path: Path):
-    """Collect feeds from OPML, tolerating different attribute casings and layouts."""
+    """Collect feeds; retain the parent group as 'category'."""
     feeds = []
     tree = ET.parse(path)
     root = tree.getroot()
 
-    def walk(node):
+    def walk(node, group=None):
         for child in list(node):
-            # Strip any XML namespace
             tag = child.tag.split('}', 1)[-1].lower()
             if tag == "outline":
                 attrs = {k.lower(): v for k, v in child.attrib.items()}
-                # Accept common variants
-                xml_url = (
-                    attrs.get("xmlurl")
-                    or attrs.get("url")
-                    or attrs.get("htmlurl")
-                )
-                text = attrs.get("text") or attrs.get("title") or ""
+                xml_url = attrs.get("xmlurl") or attrs.get("url") or attrs.get("htmlurl")
+                text    = attrs.get("text") or attrs.get("title") or ""
                 if xml_url:
-                    feeds.append({"title": text, "url": xml_url})
-                # Recurse into nested outlines
-                walk(child)
+                    feeds.append({"title": text, "url": xml_url, "category": group or ""})
+                # Recurse; if this is a folder, pass its name as group
+                walk(child, group=text or group)
             else:
-                walk(child)
-
-    walk(root)
+                walk(child, group)
+    walk(root, None)
     return feeds
 
 def load_rules(path: Path):
-    if not path.exists(): return {}
-    data = yaml.safe_load(path.read_text(encoding="utf-8"))
-    return data or {}
+    defaults = {
+        "min_title_length": 0,
+        "max_items": 500,
+        "max_age_days": 36500,
+        "include_keywords": [],
+        "blocklist_keywords": [],
+        "include_sources": [],
+        "exclude_sources": [],
+        "include_authors": [],
+        "exclude_authors": [],
+        "include_tags": [],
+        "exclude_tags": [],
+        "max_per_source": {},
+        "pin": [],
+    }
+    if not path.exists(): return defaults
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    defaults.update(data)
+    return defaults
 
-def keep_item(entry, rules):
-    title = (entry.get("title") or "").strip()
-    if len(title) < int(rules.get("min_title_length", 0)):
-        return False
-    text = f"{title} {(entry.get('summary') or '')}".casefold()
-    for kw in (rules.get("blocklist_keywords") or []):
-        if re.search(rf"\b{re.escape(str(kw).casefold())}\b", text):
-            return False
-    return True
+def to_domain(url: str) -> str:
+    try:
+        host = urlparse(url).netloc.lower()
+        return host[4:] if host.startswith("www.") else host
+    except Exception:
+        return ""
 
 def _iso_from_entry(entry):
     for k in ("published_parsed", "updated_parsed"):
@@ -71,13 +81,39 @@ def _iso_from_entry(entry):
                 return time.strftime("%Y-%m-%dT%H:%M:%SZ", t)
             except Exception:
                 pass
-    return time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    return now_iso()
 
-def norm_item(entry, feed_title):
-    ts = _iso_from_entry(entry)
+def _age_days(iso_ts: str) -> float:
+    try:
+        t_struct = time.strptime(iso_ts, "%Y-%m-%dT%H:%M:%SZ")
+        return (time.mktime(time.gmtime()) - time.mktime(t_struct)) / 86400.0
+    except Exception:
+        return 0.0
+
+def extract_first_image(entry):
+    # media_thumbnail / media_content / enclosure
+    for key in ("media_thumbnail", "media_content"):
+        arr = entry.get(key)
+        if isinstance(arr, list) and arr:
+            url = arr[0].get("url")
+            if url: return url
+    for enc in entry.get("enclosures", []) or []:
+        if enc.get("type","").startswith("image/") and enc.get("href"):
+            return enc["href"]
+    return ""
+
+def collect_tags(entry):
+    tags = []
+    for t in entry.get("tags", []) or []:
+        term = t.get("term") or t.get("label")
+        if term: tags.append(term)
+    return tags
+
+def norm_item(entry, feed_title, category):
+    ts   = _iso_from_entry(entry)
     link = (entry.get("link") or "").strip()
     raw_uid = link if link else f"{entry.get('title','')}{ts}"
-    uid = hashlib.sha1(raw_uid.encode("utf-8")).hexdigest()
+    uid  = hashlib.sha1(raw_uid.encode("utf-8")).hexdigest()
     return {
         "id": uid,
         "title": (entry.get("title") or "").strip(),
@@ -85,10 +121,14 @@ def norm_item(entry, feed_title):
         "summary": (entry.get("summary") or "").strip(),
         "isoDate": ts,
         "source": feed_title or "",
+        "category": category or "",
+        "author": (entry.get("author") or "").strip(),
+        "tags": collect_tags(entry),
+        "image": extract_first_image(entry) or "",
+        "pinned": False,
     }
 
 def fetch_entries(url: str):
-    """Fetch via requests (custom UA) then parse with feedparser."""
     try:
         r = requests.get(url, headers={"User-Agent": UA}, timeout=TIMEOUT)
         r.raise_for_status()
@@ -97,35 +137,87 @@ def fetch_entries(url: str):
         print(f"[error] Fetch {url}: {e}")
         return feedparser.parse(b"")
 
-def main():
-    rules = {
-        "blocklist_keywords": [],
-        "min_title_length": 0,
-        "max_items": 500,
-        "pin": [],
-    }
-    rules.update(load_rules(RULES))
+def matches_any(text: str, needles):
+    if not needles: return False
+    t = (text or "").casefold()
+    for n in needles:
+        if not n: continue
+        if str(n).casefold() in t:
+            return True
+    return False
 
-    feeds = parse_opml(OPML)
+def allowed_by_lists(item, rules):
+    # Keywords
+    text = f"{item['title']} {item['summary']}"
+    if rules["include_keywords"] and not matches_any(text, rules["include_keywords"]):
+        return False
+    if matches_any(text, rules["blocklist_keywords"]):
+        return False
+
+    # Age
+    if _age_days(item["isoDate"]) > float(rules["max_age_days"]):
+        return False
+
+    # Source allow/deny (by title or domain)
+    dom = to_domain(item["link"])
+    src_hit = item["source"] or dom
+    if rules["include_sources"]:
+        if all(s.casefold() not in (src_hit.casefold(), dom) for s in rules["include_sources"]):
+            return False
+    for s in rules["exclude_sources"]:
+        if s and (s.casefold() in src_hit.casefold() or s.casefold() == dom):
+            return False
+
+    # Author allow/deny
+    auth = (item.get("author") or "").casefold()
+    if rules["include_authors"] and not any(a and a.casefold() in auth for a in rules["include_authors"]):
+        return False
+    if any(a and a.casefold() in auth for a in rules["exclude_authors"]):
+        return False
+
+    # Tags allow/deny
+    tags = [t.casefold() for t in (item.get("tags") or [])]
+    if rules["include_tags"] and not any(x and str(x).casefold() in tags for x in rules["include_tags"]):
+        return False
+    if any(x and str(x).casefold() in tags for x in rules["exclude_tags"]):
+        return False
+
+    # Title length
+    if len(item["title"]) < int(rules["min_title_length"]):
+        return False
+
+    return True
+
+def main():
+    rules  = load_rules(RULES)
+    feeds  = parse_opml(OPML)
     print(f"[info] OPML: {len(feeds)} feeds from {OPML}")
 
     items = []
-    total_raw = 0
+    per_source_count = {}
+
     for f in feeds:
-        url, title = f["url"], (f["title"] or "")
+        url, title, category = f["url"], (f["title"] or ""), (f.get("category") or "")
         d = fetch_entries(url)
         raw = len(d.entries or [])
-        total_raw += raw
         kept = 0
-        if getattr(d, "bozo", 0):
-            print(f"[warn] Parse issue on {title} ({url}): {getattr(d, 'bozo_exception', '')}")
-        for e in d.entries or []:
-            if keep_item(e, rules):
-                items.append(norm_item(e, title))
-                kept += 1
-        print(f"[info] {title or url}: raw={raw} kept={kept}")
 
-    print(f"[info] Total: raw={total_raw} kept={len(items)}")
+        # per-source cap (match by title or domain)
+        cap_key = title or to_domain(url)
+        cap = int(rules.get("max_per_source", {}).get(cap_key, 10**9))
+        per_source_count.setdefault(cap_key, 0)
+
+        for e in d.entries or []:
+            it = norm_item(e, title, category)
+            if not allowed_by_lists(it, rules):
+                continue
+            if per_source_count[cap_key] >= cap:
+                continue
+            items.append(it)
+            per_source_count[cap_key] += 1
+            kept += 1
+
+        print(f"[info] {title or url}: raw={raw} kept={kept} cap={cap} sofar={per_source_count[cap_key]}")
 
     # De-dup newest first; prefer link, fallback to id
     seen, dedup = set(), []
@@ -141,8 +233,8 @@ def main():
         uid = hashlib.sha1((link or title).encode("utf-8")).hexdigest()
         dedup.insert(0, {
             "id": uid, "title": title, "link": link, "summary": note,
-            "isoDate": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-            "source": "Pinned",
+            "isoDate": now_iso(), "source": "Pinned", "category": "", "author": "",
+            "tags": [], "image": "", "pinned": True,
         })
 
     # Cap

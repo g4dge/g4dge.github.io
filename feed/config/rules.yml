@@ -1,8 +1,37 @@
-blocklist_keywords: []
-min_title_length: 1
-max_items: 500     # keep history lightweight on Pages
+# ---- Global filters ----
+min_title_length: 12              # ignore one-word fluff
+max_items: 600                    # history cap
+max_age_days: 7                  # ignore older than N days
 
-pin:
-  - title: "Weekly Economist Espresso (manual pick)"
-    url: "https://example.com/espresso"
-    note: "Always worth a glance."
+# Keep only if ANY of these appear (OR). Leave empty to disable.
+include_keywords: []              # e.g., ["AI", "privacy", "EU", "GPU"]
+
+# Drop if ANY matches (case-insensitive; substrings are fine)
+blocklist_keywords:
+  - sponsored
+  - advertorial
+  - black friday
+  - deal
+  - giveaway
+  - rumour
+
+# Source filters (match by source title OR domain)
+include_sources: []               # e.g., ["Ars Technica", "theverge.com"]
+exclude_sources: []               # e.g., ["example.com"]
+
+# Author filters (exact-ish match, case-insensitive)
+include_authors: []
+exclude_authors: []
+
+# Tag/category filters (as provided by feed; case-insensitive)
+include_tags: []                  # keep only if any tag matches (leave empty to allow all)
+exclude_tags: []                  # drop if any tag matches
+
+# Per-source caps (limit firehosey feeds)
+max_per_source:
+  # "The Verge": 40
+  # "arstechnica.com": 50
+#pin:
+#  - title: "Weekly Economist Espresso (manual pick)"
+#    url: "https://example.com/espresso"
+#    note: "Always worth a glance."
