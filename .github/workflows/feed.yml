@@ -2,7 +2,7 @@ name: Build Anti-Feed
 
 on:
   schedule:
-    - cron: "7 * * * *"
+    - cron: "7 * * * *"   # hourly at :07 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,23 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Debug tree (quick peek)
-        run: |
-          pwd
-          ls -la
-          find . -maxdepth 3 -type f \( -name "fetch.py" -o -name "sources.opml" -o -name "rules.yml" -o -name "index.html" \)
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install deps
-        run: pip install feedparser pyyaml
-
+      # --- Debug helpers (safe to keep) ---
       - name: Debug: show workflow used
         run: cat .github/workflows/feed.yml
 
@@ -38,7 +27,15 @@ jobs:
 
       - name: Debug: show the file we will run
         run: |
-         nl -ba feed/scripts/fetch.py | sed -n '1,140p'
+          nl -ba feed/scripts/fetch.py | sed -n '1,140p'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install feedparser pyyaml
 
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
