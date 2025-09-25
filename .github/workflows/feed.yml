@@ -24,12 +24,7 @@ jobs:
           pwd
           git rev-parse --short HEAD
           find . -maxdepth 4 -type f -name "fetch.py" -printf "%p\n"
-
-      - name: "Debug: show OPML"
-        run: |
-          echo "Path: feed/config/sources.opml"
-          sed -n '1,120p' feed/config/sources.opml
-        
+       
       - name: "Debug: show the file we will run"
         run: |
           nl -ba feed/scripts/fetch.py | sed -n '1,140p'
@@ -42,6 +37,11 @@ jobs:
       - name: Install deps
         run: pip install feedparser pyyaml requests
 
+      - name: "Debug: show OPML"
+        run: |
+          echo "Path: feed/config/sources.opml"
+          sed -n '1,120p' feed/config/sources.opml
+
       - name: Fetch feeds
         run: python feed/scripts/fetch.py
 
@@ -49,5 +49,6 @@ jobs:
         run: |
           git config user.name "anti-feed-bot"
           git config user.email "actions@users.noreply.github.com"
+          git pull --rebase origin main
           git add feed/data/items.json
-          git diff --cached --quiet && echo "No changes to commit." || (git commit -m "update feed" && git push)
+          git diff --cached --quiet && echo "No changes to commit." || (git commit -m "update feed" && git push origin main)
