@@ -1,5 +1,103 @@
 [
   {
+    "id": "d56b840f1fa4e466ad7fa7c7e8b5503cae106767",
+    "title": "Can AI detect hedgehogs from space? Maybe if you find brambles first.",
+    "link": "https://arstechnica.com/ai/2025/09/can-ai-detect-hedgehogs-from-space-maybe-if-you-find-brambles-first/",
+    "summary": "Cambridge researchers use satellite-based bramble detection as a proxy for mapping hedgehog habitats.",
+    "isoDate": "2025-09-26T22:22:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "cambridge",
+      "computer vision",
+      "Ecology",
+      "environmental monitoring",
+      "field validation",
+      "habitat mapping",
+      "iNaturalist",
+      "machine learning",
+      "remote sensing",
+      "satellite imagery",
+      "Sentinel satellites",
+      "TESSERA",
+      "wildlife conservation"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/uk_hedgehog_1-500x500-1758922155.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fa44ac03330a3f836229bcac4936522688917e21",
+    "title": "Woman hospitalized with pain and vomiting—diet soda cured her",
+    "link": "https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/",
+    "summary": "Doctor's dissolve mass in woman's stomach by getting her to chug soda.",
+    "isoDate": "2025-09-26T22:02:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "bezoar",
+      "coca-cola",
+      "New England Journal of Medicine"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2207002011-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f90f38cc88f4ae2ba1e4ced5941ce32a7ae55e8c",
+    "title": "LG’s $1,800 TV for seniors makes misguided assumptions",
+    "link": "https://arstechnica.com/gadgets/2025/09/lgs-1800-tv-for-seniors-comes-with-an-upcharge-and-ai-button/",
+    "summary": "Op-ed: A dumb TV would be better.",
+    "isoDate": "2025-09-26T21:46:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "LG",
+      "TVs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2509-lg-easytv-1-500x500-1758917141.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c290c5be83a4db2f7d8df9adb07ba41489cd23ae",
+    "title": "Microsoft Photos will soon auto-categorize your pictures",
+    "link": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
+    "summary": "Microsoft is testing a way that will make it easier to sift through all the clutter in your photo library. An update coming to all Windows 11 Insiders on Copilot Plus PCs introduces a new AI-powered feature on the Photos app that will place images of receipts, screenshots, identity documents, and handwritten notes in their [&#8230;]",
+    "isoDate": "2025-09-26T21:40:35Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "News",
+      "Tech",
+      "Windows"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7ddab336da71556b30e4deabf6f7b37a169af36d",
+    "title": "Reports: EA set to be sold to private investors for up to $50 billion",
+    "link": "https://arstechnica.com/gaming/2025/09/reports-ea-set-to-be-sold-to-private-investors-for-up-to-50-billion/",
+    "summary": "Saudi investment fund, Jared Kushner are reportedly among the interested buyers",
+    "isoDate": "2025-09-26T21:23:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1251294572-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "0658e47501f8a2c35fbfd0ca6929b2296b4af47c",
     "title": "ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide",
     "link": "https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air",
@@ -206,24 +304,6 @@
       "Film",
       "Meta",
       "News",
-      "Tech"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1ff7ab43bf9ab817198254786ccff61841d95677",
-    "title": "Pentagon can call DJI a Chinese Military Company, court rules",
-    "link": "https://www.theverge.com/news/786540/dji-loses-chinese-military-company-lawsuit-dod",
-    "summary": "Last October, dronemaker DJI sued the US Department of Defense, arguing it should no longer face the stigma of being listed as a “Chinese Military Company” and continue to risk business as a result. It just lost. While US District Court judge Paul Friedman “cannot conclude” that DJI is “indirectly owned by the Chinese Communist [&#8230;]",
-    "isoDate": "2025-09-26T17:29:15Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Sean Hollister",
-    "tags": [
-      "Drones",
-      "News",
-      "Policy",
       "Tech"
     ],
     "image": "",
@@ -831,35 +911,6 @@
     "pinned": false
   },
   {
-    "id": "13b8b5db5ca2bed3ebba18899ca3a47cca1448e7",
-    "title": "ChatGPT Pulse delivers morning updates based on your chat history",
-    "link": "https://arstechnica.com/ai/2025/09/chatgpt-pulse-delivers-morning-updates-based-on-your-chat-history/",
-    "summary": "New mobile chatbot feature analyzes conversations overnight.",
-    "isoDate": "2025-09-25T20:30:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "agentic AI",
-      "AI agents",
-      "AI assistants",
-      "AI development tools",
-      "ChatGPT",
-      "gmail",
-      "google",
-      "google calendar",
-      "machine learning",
-      "mobile",
-      "openai",
-      "personalization",
-      "sam altman"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/chatgpt_pulse-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e1cf78ea6ae61aea4df4a64ae310c1b0ec9832fb",
     "title": "X2 Elite is Qualcomm’s latest attempt to bring Apple’s M-series magic to the PC",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/qualcomm_details_x2_elite/",
@@ -909,79 +960,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8570d09442dff2491c893e9347c87fe11e224167",
-    "title": "Study: Planned budget cuts would hurt drug development badly",
-    "link": "https://arstechnica.com/science/2025/09/study-planned-budget-cuts-would-hurt-drug-development-badly/",
-    "summary": "Drug patents frequently cite research that the NIH wouldn't be able to fund.",
-    "isoDate": "2025-09-25T18:34:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "drugs",
-      "grants",
-      "NIH",
-      "patents",
-      "science funding"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2234956387-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2ec4789563f0dbfe722c47f2629b15e9f98f4b2e",
-    "title": "Experts urge caution about using ChatGPT to pick stocks",
-    "link": "https://arstechnica.com/information-technology/2025/09/experts-urge-caution-about-using-chatgpt-to-pick-stocks/",
-    "summary": "AI-selected portfolios might perform well in a growing market, but experts warn of downturn risks.",
-    "isoDate": "2025-09-25T18:10:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI assistants",
-      "AI in finance",
-      "AI risks",
-      "chatbots",
-      "ChatGPT",
-      "eToro",
-      "financial advice",
-      "gemini",
-      "google",
-      "investment",
-      "machine learning",
-      "openai",
-      "retail investors",
-      "robo-advisory",
-      "Stock Market",
-      "UBS"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/robot_stocks-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b7531664444b5d2c4209faae714f6b5ab37e9e00",
-    "title": "Amazon blamed AI for layoffs, then hired cheap H1-B workers, senators allege",
-    "link": "https://arstechnica.com/tech-policy/2025/09/amazon-blamed-ai-for-layoffs-then-hired-cheap-h1-b-workers-senators-allege/",
-    "summary": "Tech firms pressed to explain if H-1B workers are paid less than US workers.",
-    "isoDate": "2025-09-25T17:56:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "Amazon",
-      "apple",
-      "google",
-      "H-1B visas",
-      "meta",
-      "microsoft"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1573672488-500x500.jpg",
     "pinned": false
   },
   {
