@@ -1,5 +1,117 @@
 [
   {
+    "id": "1963deb6fa27e95dbe3ce96cc9e2de955496a3f3",
+    "title": "Rocket Report: Keeping up with Kuiper; New Glenn’s second flight slips",
+    "link": "https://arstechnica.com/space/2025/09/rocket-report-keeping-up-with-kuiper-new-glenns-second-flight-slips/",
+    "summary": "Amazon plans to conduct two launches of Kuiper broadband satellites just days apart.",
+    "isoDate": "2025-09-26T12:45:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Security",
+      "Space",
+      "ariane 6",
+      "artemis II",
+      "astra",
+      "blue origin",
+      "Firefly Aerospace",
+      "moon",
+      "NASA",
+      "new glenn",
+      "rocket report",
+      "space launch system",
+      "spacex",
+      "starship",
+      "VIPER"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/9333639-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3d482aa6d8a2a9c6850278aee6b9882f937b9cab",
+    "title": "A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles",
+    "link": "https://www.theverge.com/report/785828/microsoft-xbox-ally-x-pricing-next-gen-consoles-report",
+    "summary": "When Microsoft announced the launch date of its first Asus-powered handhelds without announcing prices, I had hoped it was a sign the leaked prices were too high. I had hoped Microsoft would subsidize them the same way it subsidized the Xbox itself. Maybe it would send a shockwave through the handheld market like the Steam [&#8230;]",
+    "isoDate": "2025-09-26T12:30:00Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Sean Hollister",
+    "tags": [
+      "Analysis",
+      "Gaming",
+      "Microsoft",
+      "PC Gaming",
+      "Report",
+      "Tech",
+      "Xbox"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9b970fd7aeba7d2b3ffa811ceceb5aedd828bc1e",
+    "title": "Raspberry Pi 500+ puts the Pi, 16GB of RAM, and a real SSD in a mechanical keyboard",
+    "link": "https://arstechnica.com/gadgets/2025/09/raspberry-pi-supercharges-its-keyboard-pc-with-16gb-ram-ssd-mechanical-switches/",
+    "summary": "Keyboard uses low-profile Gateron Blue switches and an RP2040 controller.",
+    "isoDate": "2025-09-26T12:16:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "raspberry pi 400",
+      "raspberry pi 5",
+      "raspberry pi 500"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/500-clicky-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b3799e2e2c36fc713049fbe24afd1a2cbd0310c8",
+    "title": "Volvo North America confirms staff data stolen following ransomware attack on IT supplier",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/volvo_north_america_confirms_staff/",
+    "summary": "<h4>The downstream consequences of Miljödata’s ransomware attack continue to affect major organizations</h4> <p>Volvo North America is the latest large organization to announce attackers accessed employee data after a ransomware attack struck its HR system provider.…</p>",
+    "isoDate": "2025-09-26T12:13:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0d79e4af298ad63ed5edbab94e8c5dcf259f9ddb",
+    "title": "Your OnePlus phone is probably at risk from a major SMS vulnerability",
+    "link": "https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184",
+    "summary": "The majority of OnePlus phones in use today may be vulnerable to a security flaw that leaves SMS and MMS data exposed, and it won’t be patched until mid-October. Only OnePlus phones still running 2020’s OxygenOS 11 or earlier are believed to be safe from the flaw. Security company Rapid7 was first to discover the [&#8230;]",
+    "isoDate": "2025-09-26T12:12:08Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Dominic Preston",
+    "tags": [
+      "Mobile",
+      "News",
+      "OnePlus",
+      "Tech"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e1264cb174e86b1f47e06e09786c82ae5c25639a",
+    "title": "SpaceX Dragon huffs, puffs... and fizzles out as NASA aborts ISS boost",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/iss_reboost_attempt_aborted/",
+    "summary": "<h4>Meanwhile, Katalyst wins $30M contract to stop Swift telescope falling out of the sky</h4> <p>NASA has made progress with plans to boost the rapidly decaying orbit of the Swift observatory while calling an abrupt halt to an attempt to reboost the International Space Station (ISS) using SpaceX's Dragon.…</p>",
+    "isoDate": "2025-09-26T11:29:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "712aed6e48cb6d37b6788a55b37655c2c8768df4",
     "title": "The UK announces mandatory digital ID plans",
     "link": "https://www.theverge.com/news/786323/uk-digital-id-plans-mandatory-immigration-crackdown",
@@ -424,23 +536,6 @@
     "pinned": false
   },
   {
-    "id": "48f691a29a92beaf44755aff8ccfe54e8e8f65ed",
-    "title": "Silicon Valley’s latest argument against regulating AI: that would literally be the Antichrist",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation",
-    "summary": "In a four-part series of religious lectures in San Francisco, Peter Thiel - yes, that Peter Thiel - has argued that the End Times are nigh and that a biblical Antichrist - yes, that Antichrist - will come to Earth in the form of onerous government regulations placed on science, technology, and AI. These are, [&#8230;]",
-    "isoDate": "2025-09-25T20:49:43Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Tina Nguyen",
-    "tags": [
-      "AI",
-      "Policy",
-      "Politics"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "c5886c77b9f1c9fe8f3b86ec51e9240267237c48",
     "title": "Microsoft cuts off Azure phone surveillance support for Israeli military",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/microsoft_cuts_off_azure_phone/",
@@ -480,28 +575,6 @@
       "sam altman"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/chatgpt_pulse-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "71318d5b56f74402189ab105f851ef1316aa0751",
-    "title": "Microsoft says this new cooling method could enable more powerful chips and efficient data centers",
-    "link": "https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency",
-    "summary": "Microsoft is making advances with a new way to cool microchips that it says could lead to more energy-efficient data centers in the future. It's a method called microfluidics that involves liquid coolant flowing directly into the silicon. After lab tests, Microsoft found that this strategy can remove heat up to three times better than [&#8230;]",
-    "isoDate": "2025-09-25T20:23:20Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Justine Calma",
-    "tags": [
-      "AI",
-      "Analysis",
-      "Climate",
-      "Energy",
-      "Microsoft",
-      "Report",
-      "Science",
-      "Tech"
-    ],
-    "image": "",
     "pinned": false
   },
   {
@@ -921,27 +994,6 @@
     "pinned": false
   },
   {
-    "id": "10c8799a904d9b09bd9dab1e307ea09225eba2a1",
-    "title": "DeepMind’s robotic ballet: An AI for coordinating manufacturing robots",
-    "link": "https://arstechnica.com/science/2025/09/deepminds-robotic-ballet-an-ai-for-coordinating-manufacturing-robots/",
-    "summary": "An AI figures out how robots can get jobs done without getting in each other's way.",
-    "isoDate": "2025-09-25T11:15:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "AI",
-      "Google",
-      "Science",
-      "Computer science",
-      "deepmind",
-      "manufacturing",
-      "Robotics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2223136363-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "10a0c5db0937f11f589a06b453c21deaa2a275b5",
     "title": "Bcachefs goes DKMS after Torvalds' kernel banishment",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/bcachefs_dkms_modules/",
@@ -1114,34 +1166,6 @@
     "pinned": false
   },
   {
-    "id": "fa5905ae8565c75a8f180211e3eba8d508da31b6",
-    "title": "The crew of Artemis II will fly on Integrity during mission to the Moon",
-    "link": "https://arstechnica.com/space/2025/09/introducing-integrity-artemis-ii-astronauts-name-their-orion-ride-to-the-moon/",
-    "summary": "<em>Integrity</em>, this is Houston, you are go for the Moon...",
-    "isoDate": "2025-09-24T22:35:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Robert Pearlman",
-    "tags": [
-      "Space",
-      "artemis II",
-      "Canadian Space Agency",
-      "Christina Koch",
-      "Integrity",
-      "Jeremy Hansen",
-      "moon",
-      "name",
-      "NASA",
-      "orion spacecraft",
-      "Reid Wiseman",
-      "Space exploration",
-      "space history",
-      "victor glover"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092425b-lg-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "153ce4d3d9dee7e8dcd36525beb407d2ec53ace7",
     "title": "Tree-hugging hippie datacenter runs entirely on green hydrogen and wastes zero water",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/lambda_nvidia_hydrogen/",
@@ -1298,19 +1322,6 @@
     "pinned": false
   },
   {
-    "id": "10e5054427598b3cd8237597cb30ac7dc6b9f63f",
-    "title": "Cybercriminals cash out with casino giant's employee data",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/boyd_gaming_casino_breach/",
-    "summary": "<h4>Attackers hit jackpot after targeting Boyd Gaming</h4> <p>Hotel and casino operator Boyd Gaming has disclosed a cyberattack to US regulators, warning that hackers may have stolen personal information belonging to employees and other individuals.…</p>",
-    "isoDate": "2025-09-24T12:22:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "c10554577e312fd182d4a8a177e368fd120c6d21",
     "title": "Panasonic’s New Battery Could Add up to 100 Miles of Range to a Tesla",
     "link": "https://www.notateslaapp.com/news/3161/panasonics-new-battery-could-add-up-to-100-miles-of-range-to-a-tesla",
@@ -1321,19 +1332,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2021/tesla-structural-battery-pack.webp/aa9af7713ff3e87076a41d0b6be34dd2/tesla-structural-battery-pack.jpg",
-    "pinned": false
-  },
-  {
-    "id": "23408f7fb7009c059b9b9d65a5d117e3fee5b041",
-    "title": "Workers: Yes, RTO makes sense. No, we’re not going to do it",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/workers_yes_rto_makes_sense/",
-    "summary": "<h4>Report uncovers widespread clock blocking, coffee badging</h4> <p>UK workers totally understand why bosses want to get them back into the office – but would still jump ship if they were forced to give up remote working.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-09-24T11:54:30Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
