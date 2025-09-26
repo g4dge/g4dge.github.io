@@ -1,5 +1,132 @@
 [
   {
+    "id": "c993522ea3dcd9804c95f5d61cb58a4a2006ae1b",
+    "title": "Microsoft spots fresh XCSSET malware strain hiding in Apple dev projects",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/microsoft_xcsset_macos/",
+    "summary": "<h4>Upgraded nasty slips into Xcode builds, steals crypto, and disables macOS defenses</h4> <p>The long-running XCSSET malware strain has evolved again, with Microsoft warning of a new macOS variant that expands its bag of tricks while continuing to target developers.…</p>",
+    "isoDate": "2025-09-26T15:23:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8007da9bdbcb3c664117479b74bc1772760e5412",
+    "title": "Dear LA, you deserve better than the Clippers’ carbon scandal",
+    "link": "https://www.theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change",
+    "summary": "We watched LA burn this year. If you're not from around here, you might have seen it unfold in the news like so many other infernos. Neighborhoods in ashes. People in shock. I was nearby when it happened in January, visiting home from New York to attend a family member's funeral. As a climate journalist, [&#8230;]",
+    "isoDate": "2025-09-26T15:15:50Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Justine Calma",
+    "tags": [
+      "Analysis",
+      "Climate",
+      "Entertainment",
+      "Environment",
+      "Report",
+      "Science",
+      "Sports"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fc397a91db45402fff0b88c135edb7ad44fbf7d2",
+    "title": "Salesforce facing multiple lawsuits after Salesloft breach",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/salesforce_class_actions/",
+    "summary": "<h4>CRM giant denies security shortcomings as claims allege stolen data used for ID theft</h4> <p>Salesforce is facing a wave of lawsuits in the wake of a cyberattack that exposed customer data.…</p>",
+    "isoDate": "2025-09-26T15:15:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "14635a8d94280df8cc9bb7d38e8a627d04f37cd1",
+    "title": "Google fuses SQL, Python, and Spark in Colab Enterprise push",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/google_colab_enterprise_update/",
+    "summary": "<h4>Move comes as Snowflake and Databricks chase the same all-in-one analytics dream</h4> <p>Google is promising a single notebook environment for machine learning and data analytics, integrating SQL, Python, and Apache Spark in one place.…</p>",
+    "isoDate": "2025-09-26T15:01:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b3ec41fbce5a6bd979d2e403e6e6758f955a1910",
+    "title": "50+ scientific societies sign letter objecting to Trump executive order",
+    "link": "https://arstechnica.com/science/2025/09/50-scientific-societies-sign-letter-objecting-to-trump-executive-order/",
+    "summary": "Letter urges Congress to take action to safeguard integrity of independent peer-review system.",
+    "isoDate": "2025-09-26T14:42:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Policy",
+      "Science",
+      "Grant funding",
+      "grant review process",
+      "Science policy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198935406-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c944cac2908c1e1ff8e517ab642dc58163918418",
+    "title": "‘An attacker's playground:’ Crims exploit GoAnywhere perfect-10 bug",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/an_apts_playground_goanywhere_perfect10/",
+    "summary": "<h4>Researchers say tens of thousands of instances remain publicly reachable</h4> <p>Security researchers have confirmed that threat actors have exploited the maximum-severity vulnerability affecting Fortra's GoAnywhere managed file transfer (MFT), and chastised the vendor for a lack of transparency.…</p>",
+    "isoDate": "2025-09-26T14:32:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "868f140b0e9262cc0fe2e7fca07c4b4778d52490",
+    "title": "Suno’s upgraded AI music generator is technically impressive, but still soulless",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review",
+    "summary": "When it's not trying to fend off lawsuits from major record labels, Suno is still working on refining its AI music creation tool. The latest model, Suno v5, is an obvious technical improvement over its previous version, v4.5+. But it still can't seem to escape the bland emptiness that pervades most AI art. There are [&#8230;]",
+    "isoDate": "2025-09-26T14:30:00Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Terrence O’Brien",
+    "tags": [
+      "AI",
+      "Creators",
+      "Entertainment",
+      "Hands-on",
+      "Music",
+      "Report",
+      "Reviews",
+      "Tech"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d292a4848a8d784362f55c4b47c7cdd728dab702",
+    "title": "LockBit's new variant is 'most dangerous yet,' hitting Windows, Linux and VMware ESXi",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/lockbits_new_variant_is_most/",
+    "summary": "<h4>Operation Cronos didn’t kill LockBit – it just came back meaner</h4> <p>Trend Micro has sounded the alarm over the new LockBit 5.0 ransomware strain, which it warns is \"significantly more dangerous\" than past versions due to its newfound ability to simultaneously target Windows, Linux, and VMware ESXi environments. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-09-26T14:28:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1313b61a25c81d2692e6ba1a409a4ddbb1c22a44",
     "title": "I’ve got a bone to pick with ‘getting credit’ from your fitness tracker",
     "link": "https://www.theverge.com/column/786346/optimizer-wearables-fitness-tracking-health-anxiety-paranoia",
@@ -467,23 +594,6 @@
     "pinned": false
   },
   {
-    "id": "383a519f43c66c25fac5ccb6d714e5716340900a",
-    "title": "Hell yeah, I want a Gundam keyboard with Topre switches",
-    "link": "https://www.theverge.com/news/785991/realforce-gx1-mobile-suit-gundam-mechanical-keyboard-limited-edition-collaboration",
-    "summary": "Japanese keyboard brand Realforce is teaming up with the Mobile Suit Gundam franchise and releasing four limited edition mechanical keyboards inspired by popular Gundam designs. The four keyboards are based on the Z Gundam and Hyaku Shiki from Zeta Gundam and the Nu Gundam and Sazabi of Char’s Counterattack fame. Realforce’s Japanese site indicates reservations [&#8230;]",
-    "isoDate": "2025-09-25T23:58:10Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Antonio G. Di Benedetto",
-    "tags": [
-      "Keyboards",
-      "News",
-      "Tech"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "1184218181ef6f969a80e1395355b79a30740e0f",
     "title": "Google to merge Android and ChromeOS in 2026, because AI",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/google_android_chromeos/",
@@ -568,24 +678,6 @@
       "TVs"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1678218591-500x500-1758832154.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0eb8006eea9757ec83b7cb5b6519e6aa10fa4b88",
-    "title": "Nintendo of America boss Doug Bowser is retiring",
-    "link": "https://www.theverge.com/news/786068/nintendo-of-america-president-doug-bowser-retirement",
-    "summary": "One of Nintendo’s most recognizable names is stepping down. Today the company announced that the aptly named Doug Bowser, who took over as president of Nintendo of America from Reggie Fils-Aimé in 2019, will be retiring. He’ll stay on until the end of the year — December 31st, to be precise — and will be [&#8230;]",
-    "isoDate": "2025-09-25T21:21:12Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Andrew Webster",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "Nintendo"
-    ],
-    "image": "",
     "pinned": false
   },
   {
@@ -1002,26 +1094,6 @@
     "pinned": false
   },
   {
-    "id": "a58ddc72466cb6bf296bdacdf4165adbbb38ecc0",
-    "title": "As many as 2 million Cisco devices affected by actively exploited 0-day",
-    "link": "https://arstechnica.com/security/2025/09/as-many-as-2-million-cisco-devices-affected-by-actively-exploited-0-day/",
-    "summary": "Search shows 2 million vulnerable Cisco SNMP interfaces exposed to the Internet.",
-    "isoDate": "2025-09-25T12:43:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "Cisco",
-      "exploit",
-      "zero-day",
-      "zero-day vulnerability"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1601469961-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e5b01537f589fe3e37b40613eada5aead008efe5",
     "title": "Oracle saddles up with $18B debt amid AI infrastructure gamble",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/oracle_18_billion_debt/",
@@ -1293,71 +1365,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "47fff53b74a239b98694bdbd9d432123dc8595c5",
-    "title": "Zorin OS 18 beta makes Linux look like anything but Linux",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/zorin_os_18_beta/",
-    "summary": "<h4>Windows, macOS, Cinnamon, even iPadOS – all just a layout switch away</h4> <p>Although Zorin doesn't aim to closely track its Ubuntu upstream, version 18 of its eponymous OS has been a long time coming.…</p>",
-    "isoDate": "2025-09-24T16:15:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2d4f0311b9a22bdcf31186f8cb9ba5cff2a69c54",
-    "title": "US Navy: I can't quit you, Azure",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/us_navy_cloud_azure_lock/",
-    "summary": "<h4>AWS, Google, and Oracle admitted they can't support current setup</h4> <p>Microsoft has the US Navy over a barrel, as the service admits it can't separate its custom-built cloud environment from Azure infrastructure without a complete rebuild \"from the ground up.\" …</p>",
-    "isoDate": "2025-09-24T16:10:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9589ec2e33395afc77e1de99d575f0288d04c844",
-    "title": "AI hype train may jump the tracks over $2T infrastructure bill, warns Bain",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/bain_ai_costs/",
-    "summary": "<h4>Industry looks like it's going to come up short – by about $800B</h4> <p>The AI craze is fueling massive growth in infrastructure, but the industry will need to hit $2 trillion in revenue by 2030 to keep funding this habit. Consultants at Bain &amp; Company think it is going to come up short.…</p>",
-    "isoDate": "2025-09-24T15:45:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "60b41585bf60de68f4278bbfabba0532d3ee7e7e",
-    "title": "US banking giant Citi pilots agentic AI with 5,000 staff",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/citi_pilots_agentic_ai/",
-    "summary": "<h4>Financial services firm admits it may mean fewer staff</h4> <p>US banking giant Citi has revved the Stylus Workspaces AI platform it has been rolling out to employees, touting that it is \"now powered by agentic AI.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-09-24T14:43:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "eed683c8599f495cba1ae414d0dba0494b23a822",
-    "title": "Google warns China-linked spies lurking in 'numerous' enterprises",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/24/google_china_spy_report/",
-    "summary": "<h4>Mandiant CTO anticipates 'hearing about this campaign for the next one to two years'</h4> <p>Unknown intruders – likely China-linked spies – have broken into \"numerous\" enterprise networks since March and deployed backdoors, providing access for their long-term IP and other sensitive data stealing missions, all the while remaining undetected on average for 393 days, according to Google Threat Intelligence.…</p>",
-    "isoDate": "2025-09-24T14:17:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
