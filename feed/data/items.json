@@ -1,5 +1,31 @@
 [
   {
+    "id": "bbc014809f69a888c927d9fa859e41ab84c5c1ef",
+    "title": "UK may already be at war with Russia, ex-MI5 head suggests",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/uk_russia_cyber_war/",
+    "summary": "<h4>Baroness Manningham-Buller cites Kremlin sabotage, cyberattacks, and assassinations as signs of an undeclared conflict</h4> <p>The former head of MI5 says hostile cyberattacks and intelligence operations directed by The Kremlin indicate the UK might already be at war with Russia.…</p>",
+    "isoDate": "2025-09-29T14:45:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Danny Palmer",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5cc7595788f15a69dd7ff22c562332d81264778a",
+    "title": "Fork yeah: Valkey 9 sharpens edge against Redis",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/valkey_9/",
+    "summary": "<h4>Open source database adds multi-tenant clustering, safer shutdowns, and eyes life beyond caching</h4> <p>Open source key-value database Valkey is set for its ninth iteration next month, promising improved resource optimization and availability.…</p>",
+    "isoDate": "2025-09-29T14:32:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "aa42e90c2f68f84f86414e356420df35a283e5c1",
     "title": "OpenAI’s parental controls are out — here’s what you should know",
     "link": "https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know",
@@ -61,7 +87,7 @@
     "id": "33685f964d81a9b2d1acfac588f2e294658c62eb",
     "title": "Ford’s CEO isn’t impressed with Apple CarPlay Ultra",
     "link": "https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carplay-ultra-decoder",
-    "summary": "The list of car companies looking askance at Apple’s newly release, all-encompassing version of CarPlay is growing longer. In an interview on Decoder, Ford CEO Jim Farley said he is taking a wait-and-see approach about whether to authorize Apple CarPlay Ultra in Ford’s vehicles. After years of teasing, Apple launched the CarPlay Ultra earlier this [&#8230;]",
+    "summary": "The list of car companies looking askance at Apple's newly release, all-encompassing version of CarPlay is growing longer. In an interview on Decoder, Ford CEO Jim Farley said he is taking a wait-and-see approach about whether to authorize Apple CarPlay Ultra in Ford's vehicles. After years of teasing, Apple launched the CarPlay Ultra earlier this [&#8230;]",
     "isoDate": "2025-09-29T14:00:00Z",
     "source": "The Verge",
     "category": "Tech",
@@ -69,9 +95,7 @@
     "tags": [
       "Apple",
       "Cars",
-      "Decoder",
       "Ford",
-      "Podcasts",
       "Tech",
       "Transportation"
     ],
@@ -268,7 +292,7 @@
       "Nordschleife",
       "Nurburgring"
     ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2024Ford_Mustang-GTD_RoadToTheRing_28-500x500-1758919610.jpg",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/corvette-vs-mustang-500x500.jpg",
     "pinned": false
   },
   {
@@ -331,7 +355,7 @@
   },
   {
     "id": "24e87b4b27b64fbf3d78ad036cbce214f2bb379f",
-    "title": "Oh the joy: OpenNvidia may be the AI generation's WinTel",
+    "title": "OpenNvidia may be the AI generation's WinTel",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/nvidia_openai_alliance_opinion_column/",
     "summary": "<h4>Duo could dominate in the same way Microsoft and Intel ruled PCs for decades</h4> <p><strong>Opinion</strong>  The OpenAI and Nvidia $100 billion partnership sure sounds impressive. $100 billion isn't chicken feed, even as more and more tech companies cross the trillion-dollar mark. But what does it really mean?…</p>",
     "isoDate": "2025-09-29T10:15:10Z",
@@ -512,25 +536,6 @@
     "category": "Tech",
     "author": "Simon Sharwood",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f514855ac938ea20f7a241a5143c85cfc9335181",
-    "title": "Apple&#8217;s &#8216;Veritas&#8217; chatbot is reportedly an employee-only test of Siri&#8217;s AI upgrades",
-    "link": "https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot",
-    "summary": "According to Bloomberg’s Mark Gurman Apple is testing Siri’s upcoming revamp using an internal chatbot called Veritas. The company’s struggles as it tries to keep pace in the AI race are no secret. The next-gen Siri has been delayed multiple times and the debut of Apple Intelligence was met with a tepid response. Veritas gives [&#8230;]",
-    "isoDate": "2025-09-28T21:01:41Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "Apple",
-      "Apple Rumors",
-      "News",
-      "Tech"
-    ],
     "image": "",
     "pinned": false
   },
@@ -1299,32 +1304,6 @@
     "pinned": false
   },
   {
-    "id": "1184218181ef6f969a80e1395355b79a30740e0f",
-    "title": "Google to merge Android and ChromeOS in 2026, because AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/google_android_chromeos/",
-    "summary": "<h4>You'll see the results next year, but it's not the end of Googly lappies</h4> <p><strong>Video</strong>  Google has confirmed it will merge its ChromeOS and Android operating systems, and that the mobile OS will emerge triumphant.…</p>",
-    "isoDate": "2025-09-25T23:01:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Iain Thomson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c5886c77b9f1c9fe8f3b86ec51e9240267237c48",
-    "title": "Microsoft cuts off Azure phone surveillance support for Israeli military",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/25/microsoft_cuts_off_azure_phone/",
-    "summary": "<h4>Brad Smith says 'we do not provide technology to facilitate mass surveillance of civilians'</h4> <p>The president of Microsoft has said it's cutting parts of the Israeli military off from Azure after reports that the army was using the platform in a mass surveillance operation against Palestinians in the West Bank and Gaza.…</p>",
-    "isoDate": "2025-09-25T20:47:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Iain Thomson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "9718db4a3cff49724840192773ffcb04c80b452d",
     "title": "Forget the Tesla Phone: SpaceX to Add Starlink Connectivity to Every Phone",
     "link": "https://www.notateslaapp.com/news/3162/forget-the-tesla-phone-spacex-plans-to-add-starlink-connectivity-to-every-phone",
@@ -1524,19 +1503,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/modely_1.jpg/b350b3bb224c3ddb3bb66b7a04fa953a/modely_1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6244b73f3a94b1673635df03172cfcf5f8b0578e",
-    "title": "Tesla Offering Recent Model S and Model X Buyers 'Luxe Package' for $2,000",
-    "link": "https://www.notateslaapp.com/news/3155/tesla-offering-recent-model-s-and-model-x-buyers-luxe-package-for-2000",
-    "summary": "Tesla is offering recent Model S/X owners who bought FSD the chance to add the Luxe Package, including Lifetime Free Supercharging, for just $2,000.&hellip; <a href=\"https://www.notateslaapp.com/news/3155/tesla-offering-recent-model-s-and-model-x-buyers-luxe-package-for-2000\">Read More</a>",
-    "isoDate": "2025-09-22T14:54:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/luxe-package.webp/e8e9e9f3c05bc7483cadcb21b867980f/luxe-package.jpg",
     "pinned": false
   }
 ]
