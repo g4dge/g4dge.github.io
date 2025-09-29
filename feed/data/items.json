@@ -1,5 +1,92 @@
 [
   {
+    "id": "d94d0b5245f9455f7c75628e4a7d62832bcfd9f6",
+    "title": "Anthropic says its new AI model “maintained focus” for 30 hours on multistep tasks",
+    "link": "https://arstechnica.com/ai/2025/09/anthropic-says-its-new-ai-model-maintained-focus-for-30-hours-on-multistep-tasks/",
+    "summary": "Latest Claude model beats OpenAI and Google on coding tests.",
+    "isoDate": "2025-09-29T22:10:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "AI agents",
+      "AI assistants",
+      "AI benchmarks",
+      "AI coding",
+      "AI computer use",
+      "AI development tools",
+      "Anthropic",
+      "code agents",
+      "computer use model",
+      "Computer-Using Agent",
+      "generative ai",
+      "large language models",
+      "machine learning",
+      "open source",
+      "Programming",
+      "Simon Willison"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/sonnet45-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "756a408adce75d5625bf4e561a00f2813a6d10e0",
+    "title": "Microsoft is bringing its Windows engineering teams back together again",
+    "link": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
+    "summary": "Windows is coming back together. Microsoft is bringing its key Windows engineering teams under a single organization again, as part of a reorg being announced today. Windows chief Pavan Davuluri, who was just promoted to president of Windows and devices earlier this month, shared the changes to Microsoft's Windows teams in an internal memo. \"This [&#8230;]",
+    "isoDate": "2025-09-29T22:07:32Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Tom Warren",
+    "tags": [
+      "Exclusive",
+      "Microsoft",
+      "Report",
+      "Tech",
+      "Windows"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8e0da62877de8813ef283206dac7806a58fe6775",
+    "title": "Tile&#8217;s lack of encryption could make tracker owners vulnerable to stalking",
+    "link": "https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted",
+    "summary": "Security researchers are shining the spotlight on a serious security vulnerability that could enable stalkers to track victims using their own Tile tags, as well as other unwanted violations of security and privacy. Research outlined by Wired shows that Tile’s anti-theft mode, which makes its trackers “invisible” on the Tile network, counteracts measures to prevent [&#8230;]",
+    "isoDate": "2025-09-29T22:03:30Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Emma Roth",
+    "tags": [
+      "News",
+      "Privacy",
+      "Security",
+      "Tech"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "34b35a9fd7f708361f328ae8c23eb101b3fa5fdc",
+    "title": "Sports piracy site Streameast returns after US government let domain expire",
+    "link": "https://arstechnica.com/gadgets/2025/09/sports-piracy-site-streameast-returns-after-us-government-let-domain-expire/",
+    "summary": "ICE's HSI branch shut down Streameast in 2024.",
+    "isoDate": "2025-09-29T21:43:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "piracy",
+      "sports",
+      "streaming"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-177052632-500x500-1759175762.jpg",
+    "pinned": false
+  },
+  {
     "id": "ae6f3a440f64e93083f7b7fdf2e614e62023bc62",
     "title": "Your AI conversations are a secret new treasure trove for marketers",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/profound_browser_extension_privacy_concern/",
@@ -53,7 +140,7 @@
     "id": "2a37ff5c97041368dd1e1927f0b9b91ab79da7a9",
     "title": "One line of malicious npm code led to massive Postmark email heist",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/postmark_mcp_server_code_hijacked/",
-    "summary": "<h4>MCP plus open source plus typosquatting … what could possibly go wrong?</h4> <p>A fake npm package posing as Postmark's MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgoing messages to an attacker-controlled address.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>MCP plus open source plus typosquatting equals trouble</h4> <p>A fake npm package posing as Postmark's MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgoing messages to an attacker-controlled address.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-09-29T20:44:35Z",
     "source": "The Register",
     "category": "Tech",
@@ -279,27 +366,6 @@
     "pinned": false
   },
   {
-    "id": "a57da64712be2176a7f05e62f1aca9d4a9009971",
-    "title": "Alexa Plus is smarter — but it’s not yet smart enough",
-    "link": "https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home",
-    "summary": "This week, Amazon will launch new Echo hardware designed to supercharge Alexa Plus, the AI-powered upgrade to its voice assistant. I've been using Alexa Plus for the last few months as part of its Early Access program, and while the new assistant is off to a promising start, it's still clearly a work in progress. [&#8230;]",
-    "isoDate": "2025-09-29T15:45:00Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Jennifer Pattison Tuohy",
-    "tags": [
-      "Amazon",
-      "Amazon Alexa",
-      "Analysis",
-      "Report",
-      "Reviews",
-      "Smart Home Reviews",
-      "Tech"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "6caa2d395298a1c28f233a902a8689b40833b010",
     "title": "Tesla May Abandon Iconic Door Handles Under China’s New Safety Standards",
     "link": "https://www.notateslaapp.com/news/3168/tesla-may-abandon-iconic-door-handles-under-chinas-new-safety-standards",
@@ -362,7 +428,7 @@
   },
   {
     "id": "6e74465a2ca479ef907d508281914bce35857ab6",
-    "title": "Russia-backed Indian oil company loses bid to compel SAP support as sanctions bite",
+    "title": "Russia-backed Indian oil company loses bid to force SAP support as sanctions bite",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/nayara_sap_sanctions/",
     "summary": "<h4>Delhi High Court denies urgent relief after vendor halts services citing EU rules</h4> <p>An Indian court has refused urgent relief to an SAP customer after the vendor withheld support due to EU sanctions introduced in the summer.…</p>",
     "isoDate": "2025-09-29T13:54:38Z",
@@ -515,7 +581,7 @@
   },
   {
     "id": "24e87b4b27b64fbf3d78ad036cbce214f2bb379f",
-    "title": "OpenNvidia may be the AI generation's WinTel",
+    "title": "OpenNvidia could become the AI generation's WinTel",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/nvidia_openai_alliance_opinion_column/",
     "summary": "<h4>Duo could dominate in the same way Microsoft and Intel ruled PCs for decades</h4> <p><strong>Opinion</strong>  The OpenAI and Nvidia $100 billion partnership sure sounds impressive. $100 billion isn't chicken feed, even as more and more tech companies cross the trillion-dollar mark. But what does it really mean?…</p>",
     "isoDate": "2025-09-29T10:15:10Z",
@@ -940,40 +1006,6 @@
       "youtube music"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/YTP_YTLabs-500x468.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4f0f94ab2fbafe5694c0c39a52d4c080dcdcae68",
-    "title": "Sinclair gets nothing it asked for, puts Jimmy Kimmel back on anyway",
-    "link": "https://arstechnica.com/tech-policy/2025/09/sinclair-gets-nothing-it-asked-for-puts-jimmy-kimmel-back-on-anyway/",
-    "summary": "Sorry, Brendan Carr: Sinclair and Nexstar stop preempting Kimmel on ABC affiliates.",
-    "isoDate": "2025-09-26T20:26:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "jimmy kimmel",
-      "nexstar",
-      "sinclair"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-return-500x500-1758739137.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8e5df1fb9de5929073750a3c890fe41d4eb8f0b3",
-    "title": "You should care more about the stabilizers in your mechanical keyboard—here’s why",
-    "link": "https://arstechnica.com/gadgets/2025/09/you-should-care-more-about-the-stabilizers-in-your-mechanical-keyboard-heres-why/",
-    "summary": "Don't know what a keyboard stabilizer is? You're about to find out.",
-    "isoDate": "2025-09-26T20:19:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Features",
-      "Tech"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Stabs-15-500x500.jpg",
     "pinned": false
   },
   {
