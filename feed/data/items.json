@@ -1,5 +1,81 @@
 [
   {
+    "id": "ae6f3a440f64e93083f7b7fdf2e614e62023bc62",
+    "title": "Your AI conversations are a secret new treasure trove for marketers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/profound_browser_extension_privacy_concern/",
+    "summary": "<h4>And they may not be seeking proper consent</h4> <p><strong>ai-pocalypse</strong>  Profound is a startup that promises to help companies understand how they appear in AI responses to customer queries. But one expert in the field thinks the AI analytics startup has been sucking up information on users' AI conversations without proper consent.…</p>",
+    "isoDate": "2025-09-29T21:15:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b7323d05901e7a303bb3866351f15febae9d1b9c",
+    "title": "EA will be a very different company under private ownership",
+    "link": "https://arstechnica.com/gaming/2025/09/how-private-ownership-will-change-electronic-arts/",
+    "summary": "Analysts see trouble for studios like BioWare, potential for Saudi meddling.",
+    "isoDate": "2025-09-29T21:07:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "Electronic Arts",
+      "private equity"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/saudi-ea-its-in-the-game-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e93e56256555c7f3d735b4339f36a87917b4a581",
+    "title": "PlayStation is getting a big, fancy art book full of unused designs",
+    "link": "https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes",
+    "summary": "It’s been 30 years since the original PlayStation was released in North America and Europe after first debuting in Japan nine months earlier. To mark the occasion, Sony has announced a “large-format photography book” featuring 400 pages filled with photos of prototypes of controllers and consoles the public hasn’t seen before, as well as concept [&#8230;]",
+    "isoDate": "2025-09-29T21:00:20Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News",
+      "PlayStation",
+      "Sony",
+      "Tech"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2a37ff5c97041368dd1e1927f0b9b91ab79da7a9",
+    "title": "One line of malicious npm code led to massive Postmark email heist",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/postmark_mcp_server_code_hijacked/",
+    "summary": "<h4>MCP plus open source plus typosquatting … what could possibly go wrong?</h4> <p>A fake npm package posing as Postmark's MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgoing messages to an attacker-controlled address.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-09-29T20:44:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8328fd7030e7e45d8bb90890539a5d7bc2b94be9",
+    "title": "Asahi runs dry as online attackers take down Japanese brewer",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/asahi_hacking_outage/",
+    "summary": "<h4>No personal info gulped as yet, but don't call for help</h4> <p>Japan's largest brewery biz, Asahi, has shut down distribution systems following an online attack, and local drinkers will just have to make do with stocks as they stand.…</p>",
+    "isoDate": "2025-09-29T20:42:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Iain Thomson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "c6dfa55f3940837ff17ac6eb484b3d86af647569",
     "title": "FAA decides it trusts Boeing enough to certify the safety of its own planes again",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/",
@@ -259,42 +335,6 @@
     "category": "Tech",
     "author": "Lindsay Clark",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "aa42e90c2f68f84f86414e356420df35a283e5c1",
-    "title": "OpenAI’s ChatGPT parental controls are rolling out — here’s what you should know",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know",
-    "summary": "OpenAI has rolled out some long-awaited parental controls for ChatGPT to all web users, with mobile coming “soon,” according to the company.&#160; The controls, announced last month, allow for reducing or removing certain content — like sexual roleplay and the ability to generate images — and reducing the level of personalization on ChatGPT conversations by [&#8230;]",
-    "isoDate": "2025-09-29T14:26:39Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Hayden Field",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f972ba552109e3f3cd0cb073b7df0a4fcbf243ac",
-    "title": "GameSir’s clip-on controller turns smartphones into Game Boys",
-    "link": "https://www.theverge.com/news/787200/gamesir-controller-smartphone-nintendo-game-boy-tokyo-game-show",
-    "summary": "Over the past weekend at the Tokyo Game Show, GameSir demonstrated a new controller that turns your smartphone into a Game Boy. Unlike the company’s GameSir G8 Plus that offers similar functionality by clamping on to the top and bottom of a phone turned sideways recreating the ergonomics of the Nintendo Switch, this new controller [&#8230;]",
-    "isoDate": "2025-09-29T14:05:25Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Entertainment",
-      "Gadgets",
-      "Gaming",
-      "News",
-      "Phones"
-    ],
     "image": "",
     "pinned": false
   },
@@ -950,25 +990,6 @@
     "pinned": false
   },
   {
-    "id": "d8e5fa664baf2dc204d1a9c4ed9903a774d987ff",
-    "title": "Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry",
-    "link": "https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/",
-    "summary": "Responders ask for $25 million to contain the disease. They have $2.2 million.",
-    "isoDate": "2025-09-26T18:25:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "Congo",
-      "ebola",
-      "USAID",
-      "WHO"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2014/11/13717624625_c584569b9b_k-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "803136025191400e02ee931cbddb09446d9b687d",
     "title": "Tesla Offers Buyers at Giga Texas 24-Hour Robotaxi Access to Pick up New Vehicle",
     "link": "https://www.notateslaapp.com/news/3166/tesla-offers-buyers-at-giga-texas-24-hour-robotaxi-access-to-pick-up-new-vehicle",
@@ -1241,45 +1262,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4dea405cfc673da42a5d84a70daf6f2d06720756",
-    "title": "Microsoft agrees to 11th hour Win 10 end of life concessions",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/not_in_eu_and_want/",
-    "summary": "<h4>Consumer org forces Redmond to expunge list of requirements for free ESU in Euro Economic Area, just need a Microsoft account</h4> <p><strong>Updated</strong>  Microsoft will give consumers in the European Economic Area no-strings extended support for the soon-to be-EOL Windows 10.…</p>",
-    "isoDate": "2025-09-26T08:22:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8d1e336b41caabd177d8494122728568207ff0f5",
-    "title": "Just using open source software isn't radical any more. Europe needs to dig deeper",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/open_source_in_europe_2025/",
-    "summary": "<h4>Companies must realize they can be more than pure consumers, and public sector ought to go beyond 'promotion'</h4> <p><strong>Feature</strong>  It is 2025. Linux will turn 34 and the Free Software Foundation (FSF) 40. For the EU and Europe at large, which is famously <a href=\"https://www.theregister.com/2013/12/16/munich_signs_off_on_open_source_project\" target=\"_blank\">experimental</a> with <a href=\"https://www.theregister.com/2024/04/04/germanys_northernmost_state_ditches_windows/\" target=\"_blank\">government</a> <a href=\"https://assets.publishing.service.gov.uk/media/5a789aade5274a277e68e04d/open_source.pdf\" target=\"_blank\">deployments</a> of open source tech, behind <a href=\"https://www.gov.uk/government/publications/open-source-guidance\" target=\"_blank\">initiatives</a> to promote <a href=\"https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-strategy-history/european-union-public-licence_en\" target=\"_blank\">open licensing</a>, and whose governments promote equal opportunity for FOSS vendors in <a href=\"https://commission.europa.eu/news-and-media/news/european-parliament-and-commission-launch-free-open-source-software-european-public-services-fosseps-2022-02-11_en\" target=\"_blank\">public tendering</a>, it's a crunch point.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-09-26T07:30:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Udo Seidel",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0f763797a32dc26d4221186d292529039de0bfb2",
-    "title": "Hardware inspector fired for spotting an error he wasn't trained to find",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/on_call/",
-    "summary": "<h4>Manager's quality control priorities were upside down</h4> <p><strong>On Call</strong>  Welcome again to On Call, <i>The Register's</i> weekly column in which readers share stories of earnestly trying to fix broken tech, and end up feeling broken afterwards.…</p>",
-    "isoDate": "2025-09-26T06:28:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
