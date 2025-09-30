@@ -1,9 +1,48 @@
 [
   {
+    "id": "c360d8111c40891c320bb35cbf365adfa8d6b87c",
+    "title": "Feds cut funding to program that shared cyber threat info with local governments",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/cisa_kills_cis_agreement/",
+    "summary": "<h4>The federal government's not the only thing shutting down on Oct. 1</h4> <p>The US Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday will cut its ties to - and funding for -  the Center for Internet Security, a nonprofit that provides free and low-cost cybersecurity services to state and local governments.…</p>",
+    "isoDate": "2025-09-30T00:16:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6bde9f4d792a130c5984210790cccefedcc91e28",
+    "title": "California cops confused after trying to give ticket to self-driving car",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/california_cops_self_driving/",
+    "summary": "<h4>Don't tell Elon, he'd have Tesla's Robotaxis going ludicrous speed</h4> <p>Police in a Silicon Valley suburb were flummoxed last weekend after pulling over a self-driving Waymo robo-taxi for making an illegal turn, then finding no driver they could issue with a ticket.…</p>",
+    "isoDate": "2025-09-29T23:57:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Iain Thomson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d7248ae74b917750372a4c0887af72355740ce64",
+    "title": "Whitebridge AI created false and alarming reputation reports, complaint alleges",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/whitebridge_ai_reputation_reports_complaint/",
+    "summary": "<h4>Privacy group Noyb wants Lithuania to throw the GDPR book at 'em</h4> <p>Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling \"reputation reports\" based on unlawfully collected data and AI misinformation.…</p>",
+    "isoDate": "2025-09-29T23:22:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "cbd2f7ad3e658f2c310226191a1e343582e13bde",
     "title": "YouTube caves to Trump with $24.5 million settlement",
     "link": "https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement",
-    "summary": "YouTube has settled a lawsuit President Donald Trump filed against the company in 2021, according to The Wall Street Journal. Trump filed sweeping lawsuits against Google-owned YouTube, Meta (then Facebook) and X (then Twitter) after he was suspended from the platforms, and now all three companies have settled with the president. YouTube will pay $24.5 [&#8230;]",
+    "summary": "YouTube has settled a lawsuit President Donald Trump filed against the company in 2021, according to The Wall Street Journal. Trump filed sweeping lawsuits against Google-owned YouTube, Meta (then Facebook), and X (then Twitter) after he was suspended from the platforms, and now all three companies have settled with the president. YouTube will pay $24.5 [&#8230;]",
     "isoDate": "2025-09-29T23:16:33Z",
     "source": "The Verge",
     "category": "Tech",
@@ -40,7 +79,7 @@
     "id": "bcb81c1b9a7636ea3eff788e792c54cd22960665",
     "title": "SB 53, the landmark AI transparency bill, is now law in California",
     "link": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
-    "summary": "Senate Bill 53, the landmark AI transparency bill that has divided AI companies and made headlines for months, is now officially law in California.&#160; On Monday, California governor Gavin Newsom signed the “Transparency in Frontier Artificial Intelligence Act,” which was authored by Senator Scott Wiener (D-San Francisco). It’s the second draft of such a bill, [&#8230;]",
+    "summary": "Senate Bill 53, the landmark AI transparency bill that has divided AI companies and made headlines for months, is now officially law in California.&#160; On Monday, California Gov. Gavin Newsom signed the “Transparency in Frontier Artificial Intelligence Act,” which was authored by Sen. Scott Wiener (D-CA). It’s the second draft of such a bill, as [&#8230;]",
     "isoDate": "2025-09-29T23:01:43Z",
     "source": "The Verge",
     "category": "Tech",
@@ -292,31 +331,6 @@
     "category": "Tech",
     "author": "Brandon Vigliarolo",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f9514087e7388d83a8a0b576801ef29f0ab3af3b",
-    "title": "RidePods is the first iPhone game you control with AirPods",
-    "link": "https://www.theverge.com/news/787396/ride-pods-race-with-head-apple-airpods-spatial-audio-motion-controls",
-    "summary": "Developer Ali Tanis has released the first game for iPhones and iPads that’s played using Apple’s AirPods as a wearable motion controller. The RidePods &#8211; Race with Head gameplay is relatively basic – you’re just steering a motorcycle through oncoming traffic at high speeds – but instead of swiping the screen or tiling your phone, [&#8230;]",
-    "isoDate": "2025-09-29T18:16:22Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Apple",
-      "Apps",
-      "Entertainment",
-      "Gadgets",
-      "Gaming",
-      "Headphones",
-      "iOS",
-      "iPad",
-      "iPhone",
-      "News",
-      "Tech"
-    ],
     "image": "",
     "pinned": false
   },
@@ -1224,19 +1238,6 @@
     "pinned": false
   },
   {
-    "id": "c29bad83ec2b4476105b186c56536c7f7244ac79",
-    "title": "UK and US security agencies order urgent fixes as Cisco firewall bugs exploited in wild",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/cisco_firewall_flaws/",
-    "summary": "<h4>CISA gives feds 24 hours to patch, NCSC urges rapid action as flaws linked to ArcaneDoor spies</h4> <p>Cybersecurity agencies on both sides of the Atlantic are sounding the alarm over Cisco firewall vulnerabilities that are being exploited by an \"advanced threat actor.\"…</p>",
-    "isoDate": "2025-09-26T10:22:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "9bcaf45a08e3e10a99d79448fe4a28badc0259e2",
     "title": "Should we edit nature?",
     "link": "https://aeon.co/essays/should-we-intervene-in-evolution-the-ethics-of-editing-nature?utm_source=rss-feed",
@@ -1245,19 +1246,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "David Farrier",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5f5cd3f8e99eddf816995f250dd1bf50f9a7dc8a",
-    "title": "UK to roll out mandatory digital ID for right to work by 2029",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/uk_digital_id_confirmed/",
-    "summary": "<h4>Prime Minister Starmer revives controversial scheme despite past denials, sparking civil liberties backlash</h4> <p>The UK government plans to issue all legal residents a digital identity by the end of the current Parliament, which could run until August 2029, with its use required to get a job.…</p>",
-    "isoDate": "2025-09-26T09:50:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1289,19 +1277,6 @@
     "tags": [
       "Media"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4d760de2a96fec01aad71a9e92807e3b856227a5",
-    "title": "Brits warned as illegal robo-callers with offshored call centers fined half a million",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/brits_warned_as_illegal_robocallers/",
-    "summary": "<h4>It’s amazing the number of calls Jo, Helen, and Ian get through</h4> <p>The UK's data protection watchdog fined two Brit businesses with offshore call centers £550,000 (c $735,000) over illegal automated marketing calls.…</p>",
-    "isoDate": "2025-09-26T08:44:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
     "image": "",
     "pinned": false
   },
