@@ -1,5 +1,60 @@
 [
   {
+    "id": "97d1e98ae6f884388406ba9377587cd256b9015b",
+    "title": "Researchers find a carbon-rich moon-forming disk around giant exoplanet",
+    "link": "https://arstechnica.com/science/2025/09/researchers-find-a-carbon-rich-moon-forming-disk-around-giant-exoplanet/",
+    "summary": "Lots of carbon molecules but little sign of water in a super-Jupiter's disk.",
+    "isoDate": "2025-09-30T21:14:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "astronomy",
+      "astrophysics",
+      "JWST",
+      "Moon formation",
+      "planet formation"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/image-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "5d8fd992ee6d4248ce14cc06d3a58cdc0bc05ce2",
+    "title": "How “prebunking” can restore public trust and other September highlights",
+    "link": "https://arstechnica.com/science/2025/09/research-roundup-six-cool-stories-we-almost-missed/",
+    "summary": "The evolution of Taylor Swift's dialect, a rare Einstein cross, neutrino laser beams, and more.",
+    "isoDate": "2025-09-30T20:49:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "acoustics",
+      "astronomy",
+      "astrophysics",
+      "ghost sharks",
+      "Linguistics",
+      "Physics",
+      "psychology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/prebunking-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2e407124930a5450b67250458ecbe9e7994f109d",
+    "title": "Microsoft moves to the uncanny valley with creepy Copilot avatars that stare at you and say your name",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/microsoft_copilot_avatars/",
+    "summary": "<h4>Yep, we're sure that will win folks over</h4> <p>Microsoft is testing talking avatars for Copilot to see if users feel more at ease chatting with a face instead of just a text box. Our US Editor tried them out, only to find the digital stare was more creepy than comforting.…</p>",
+    "isoDate": "2025-09-30T20:37:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Iain Thomson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "d02279a030658abde4ef4fc64175242675ee357c",
     "title": "Intel and AMD trusted enclaves, the backbone of network security, fall to physical attacks",
     "link": "https://arstechnica.com/security/2025/09/intel-and-amd-trusted-enclaves-the-backbone-of-network-security-fall-to-physical-attacks/",
@@ -193,24 +248,6 @@
     "pinned": false
   },
   {
-    "id": "1c339b371c495ce0d5c97b1ab6435599dab40d9a",
-    "title": "You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000",
-    "link": "https://www.theverge.com/news/788916/lg-ultrafine-32u990a-32-inch-6k-monitor-thunderbolt-5-preorder",
-    "summary": "LG first announced its new 32-inch UltraFine monitor at CES 2025. The company still bills it as the “world’s first 6K monitor with Thunderbolt 5 connectivity” built right in. Ahead of the display launching in South Korea and Japan in September, followed by a US launch next month, LG has shared more specs and pricing [&#8230;]",
-    "isoDate": "2025-09-30T18:27:23Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Gadgets",
-      "LG",
-      "News",
-      "Tech"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "d9d878009a6208c45786b01e0d2f25f2d05c6dff",
     "title": "Blood-red bot stalks the burbs armed with . . . groceries",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/bloodred_bot_stalks_the_streets/",
@@ -237,24 +274,6 @@
     "pinned": false
   },
   {
-    "id": "e88fff1af9dd8dad0084ecfda72c4838b6177413",
-    "title": "Imgur is blocking users in the UK",
-    "link": "https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation",
-    "summary": "The image-sharing site Imgur has shut off access to UK users after the country’s data watchdog warned the platform of a fine, as reported earlier by the BBC. In a post on Imgur’s help page, Imgur confirms that users in the UK can no longer log in, view content, or upload images starting September 30th, [&#8230;]",
-    "isoDate": "2025-09-30T17:40:22Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Emma Roth",
-    "tags": [
-      "News",
-      "Policy",
-      "Social Media",
-      "Tech"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "d4ea711e7d11c88331c765d658b2f74b68738737",
     "title": "Musk Teases Major Tesla Smart Summon Upgrade for Parking Garages",
     "link": "https://www.notateslaapp.com/news/3187/musk-teases-major-tesla-smart-summon-upgrade-for-parking-garages",
@@ -268,80 +287,6 @@
     "pinned": false
   },
   {
-    "id": "8b32bd39d364b0decb935b184d2f304131ed769b",
-    "title": "Microsoft is giving Copilot AI faces you can chat with",
-    "link": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
-    "summary": "Microsoft is trying to make Copilot more approachable by giving the AI assistant an animated face to talk with. The experimental “Portraits” feature in Copilot Labs is currently available in the US, UK, and Canada, and provides 40 stylized human avatars that respond with natural expressions during real-time voice conversations. Announcing the new feature on [&#8230;]",
-    "isoDate": "2025-09-30T17:12:48Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Jess Weatherbed",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "News",
-      "Tech"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d63c4727018354dd7e25544332aa87e7538a8f4e",
-    "title": "Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure",
-    "link": "https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort",
-    "summary": "Beats has announced a new version of the Fit Pro wireless earbuds that launched in late 2021, which are now called the Powerbeats Fit. The most notable upgrade is a redesigned wing tip that Beats says is 20 percent more flexible, improving comfort while also keeping the earbuds more securely anchored in your ear. The [&#8230;]",
-    "isoDate": "2025-09-30T17:10:38Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Apple",
-      "Audio",
-      "Beats",
-      "Gadgets",
-      "Headphones",
-      "News",
-      "Tech"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7d1805686bb603052a6f39aa8470e40159bbd5f8",
-    "title": "OpenAI’s new social video app will let you deepfake your friends",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends",
-    "summary": "OpenAI has a new version of the Sora AI video generator that it launched at the end of last year, and it’s arriving today alongside a new social video app, also called Sora, for iPhones. The currently invite-only app resembles TikTok with a feed of videos you can shuffle through. But instead of encouraging people [&#8230;]",
-    "isoDate": "2025-09-30T17:06:39Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Hayden Field",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "26dae4d8065df8f1e2e1ea50f049024552a5e211",
-    "title": "Microsoft’s Windows 11 2025 update is available now",
-    "link": "https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta",
-    "summary": "Microsoft is rolling out its annual Windows 11 update (known as version 25H2) today. After testing the update in the Windows Insider Release Preview ring last month, version 25H2 is now starting to roll out to all Windows 11 users through Windows Update. The 25H2 update isn’t a huge one, so it won’t take long [&#8230;]",
-    "isoDate": "2025-09-30T17:00:00Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Tom Warren",
-    "tags": [
-      "Microsoft",
-      "News",
-      "Tech",
-      "Windows"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "c3f26a5afa04bf34df6a2d05583a3a15eb5d56b2",
     "title": "Tesla on the wrong tracks with Fail Self Driving, Senators worry",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/senators_inquiry_tesla_fsd_rail_crossings/",
@@ -351,45 +296,6 @@
     "category": "Tech",
     "author": "Dan Robinson",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "022a888bc3f9d16e6278eb1b47f955dedb9dbb15",
-    "title": "Apple’s M5 iPad Pro might have leaked in Russia",
-    "link": "https://www.theverge.com/news/788743/apple-ipad-pro-m5-russia-leak-youtube-wylsacom",
-    "summary": "A Russian YouTuber just posted a video unboxing what appears to be an unannounced iPad Pro with an M5 chip. Rumors have indicated that Apple would launch an M5 iPad Pro as early as October, and this video could be our first look at the actual product. Externally, this new M5 iPad Pro doesn’t appear [&#8230;]",
-    "isoDate": "2025-09-30T16:44:59Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Jay Peters",
-    "tags": [
-      "Apple",
-      "Apple Rumors",
-      "Gadgets",
-      "iPad",
-      "News",
-      "Tech"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "082b0ebabfc9cedc601e82ef15e38fbe37745ecf",
-    "title": "The Trump phone is late",
-    "link": "https://www.theverge.com/news/788673/the-trump-phone-is-late",
-    "summary": "I’ve got bad news if you’ve been impatiently awaiting the release of the Trump Mobile T1: it looks like the gold-tinted, bargain basement smartphone with “American values” is running late. It was initially meant to launch in September, but with only a few hours of the month left, that’s looking increasingly unlikely. The T1 was [&#8230;]",
-    "isoDate": "2025-09-30T16:28:05Z",
-    "source": "The Verge",
-    "category": "Tech",
-    "author": "Dominic Preston",
-    "tags": [
-      "Gadgets",
-      "Mobile",
-      "News",
-      "Phones",
-      "Tech"
-    ],
     "image": "",
     "pinned": false
   },
@@ -952,23 +858,6 @@
     "pinned": false
   },
   {
-    "id": "b7323d05901e7a303bb3866351f15febae9d1b9c",
-    "title": "EA will be a very different company under private ownership",
-    "link": "https://arstechnica.com/gaming/2025/09/how-private-ownership-will-change-electronic-arts/",
-    "summary": "Analysts see trouble for studios like BioWare, potential for Saudi meddling.",
-    "isoDate": "2025-09-29T21:07:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "Electronic Arts",
-      "private equity"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/saudi-ea-its-in-the-game-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2a37ff5c97041368dd1e1927f0b9b91ab79da7a9",
     "title": "One line of malicious npm code led to massive Postmark email heist",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/postmark_mcp_server_code_hijacked/",
@@ -1018,26 +907,6 @@
     "author": "Iain Thomson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5de4e41601788036c6b73a61c315e8f8b1c0e43b",
-    "title": "F-Droid says Google’s new sideloading restrictions will kill the project",
-    "link": "https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/",
-    "summary": "F-Droid sees Google's plans as a threat to FOSS apps.",
-    "isoDate": "2025-09-29T19:09:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "apps",
-      "google",
-      "open source",
-      "play store"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-500x500-1749567268.jpg",
     "pinned": false
   },
   {
@@ -1362,19 +1231,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/who_me/",
     "summary": "<h4>An early career lesson in the power of documentation, and the importance of exploration</h4> <p><strong>Who, Me?</strong>  <i>The Register</i> has very few rules, but one we always observe on a Monday morning is to present a new installment of Who, Me? – the reader-contributed column in which you share stories of breaking the rules, without breaking your career in the process.…</p>",
     "isoDate": "2025-09-29T06:30:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a635cb3149c7bca0734081157e6fcae1a53658a3",
-    "title": "NASA administrator says US should have ‘village’ on Moon in a decade",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/nasa_moon_prediction_iac_2025/",
-    "summary": "<h4><i>The Register</i> is at the world’s biggest space gabfest and just heard the world's top 6 space agency leaders speak</h4> <p><strong>IAC 2025</strong>  If the USA’s space strategy succeeds, it will run a “village” on the moon in a decade, NASA administrator Sean Duffy told the International Aeronautical Congress (IAC) in Sydney today.…</p>",
-    "isoDate": "2025-09-29T06:23:48Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
