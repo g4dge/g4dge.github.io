@@ -1,5 +1,48 @@
 [
   {
+    "id": "d0b4bacd332bd33f6e7069a418d474871af450db",
+    "title": "Healthcare lags in Windows 11 upgrades – and lives may depend on it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/windows_11_healthcare/",
+    "summary": "<h4>Most orgs still on Windows 10, so maybe don't get ill after October 14</h4> <p><strong>Interview</strong>  Enterprise plans for the end of Windows 10 should already be well underway, but some sectors are lagging, and there are other potential time bombs for administrators to worry about, according to asset management outfit Lansweeper.…</p>",
+    "isoDate": "2025-09-30T08:27:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0dd228d82370946708121343d7918f680cae6e44",
+    "title": "Opera launches its AI browser, but you&#8217;ll have to pay to try it",
+    "link": "https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost",
+    "summary": "A limited number of people will get to try out Opera’s AI browser, Neon, starting today for $19.90 per month.&#160; The Norwegian software company first announced the “agentic browser” in May, but details were sparse. Now, we know that Opera Neon includes different AI agents that are tailored to specific tasks. One simply called Tasks [&#8230;]",
+    "isoDate": "2025-09-30T08:00:00Z",
+    "source": "The Verge",
+    "category": "Tech",
+    "author": "Elissa Welle",
+    "tags": [
+      "AI",
+      "News",
+      "Tech"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c368f1077a07dd1a125422ba91813092d3d5b872",
+    "title": "Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/",
+    "summary": "<h4>Impact? Nope, don't worry, be happy, says Linux veteran</h4> <p><strong>Opinion</strong>  There has been considerable worry about the impact of the European Union's Cyber Resilience Act on open source programmers. Linux stable kernel maintainer Greg Kroah-Hartman says, however, that there won't be much of an impact at all.…</p>",
+    "isoDate": "2025-09-30T07:45:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Steven J. Vaughan-Nichols",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "c1e037e4b425d828b74f80bdec5fa4e21b5883df",
     "title": "Logitech’s MX Master 4 adds haptic feedback, mostly just for fun",
     "link": "https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price",
@@ -1227,32 +1270,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/first_supercharging_highway_sign.jpg/3eb0c3259f8eece618345e51ddeb06dd/first_supercharging_highway_sign.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3b5b82d83c762f53d7457d1ee91cd73846698394",
-    "title": "Software CEO tells Catholic uni panel AI won't take out jobs, but it could take out brains",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/ai_catholic_uni/",
-    "summary": "<h4>As exorcist convention decries AI's potential for 'necromancy'</h4> <p>The CEO of a software testing company told a panel at Catholic University of America that AI will not create mass unemployment – though it could make people more stupid.…</p>",
-    "isoDate": "2025-09-26T13:32:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9a71fb86b44856a19f5dcb0ed227764665b36be8",
-    "title": "Prompt injection – and a $5 domain – trick Salesforce Agentforce into leaking sales",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/",
-    "summary": "<h4>More fun with AI agents and their security holes</h4> <p>A now-fixed flaw in Salesforce’s Agentforce could have allowed external attackers to steal sensitive customer data via prompt injection, according to security researchers who published a proof-of-concept attack on Thursday. They were aided by an expired trusted domain that they were able to buy for a measly five bucks.…</p>",
-    "isoDate": "2025-09-26T12:53:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
