@@ -1,5 +1,80 @@
 [
   {
+    "id": "605a724f9d6cd9c2d15e6d980a57418182d5c261",
+    "title": "Raspberry Pi prices hiked as AI gobbles all the memory",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/raspberry_pi_price_hikes/",
+    "summary": "<h4>Another thing you can blame on the hypefest: demand sends HBM costs up 120% in a year</h4> <p>Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls \"insatiable demand for high-bandwidth memory (HBM) for AI applications.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-01T12:31:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f671a3d65b244a7e7915306cd1393739d3950e05",
+    "title": "3.7M breach notification letters set to flood North America's mailboxes",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/north_american_data_breaches/",
+    "summary": "<h4>Allianz Life and WestJet lead the way, along with a niche software shop</h4> <p>A trio of companies disclosed data breaches this week affecting approximately 3.7 million customers and employees across North America.…</p>",
+    "isoDate": "2025-10-01T12:24:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5e20abf497709a045ee056448ca400914c694c0d",
+    "title": "JetBrains wants to train AI models on your code snippets",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/jetbrains_wants_your_code_to_train_ai/",
+    "summary": "<h4>Dangles free product licenses in return for code-related data for its training</h4> <p>IDE and developer tools biz JetBrains believes training AI models on public datasets is insufficient, and is offering free product licenses to organizations that are willing to share detailed code-related data.…</p>",
+    "isoDate": "2025-10-01T12:09:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "767bc228063d04c2d585c47785d4a22275485c5a",
+    "title": "In their own words: The Artemis II crew on the frenetic first hours of their flight",
+    "link": "https://arstechnica.com/space/2025/10/in-their-own-words-the-artemis-ii-crew-on-the-frenetic-first-hours-of-their-flight/",
+    "summary": "\"Then you go do like, the most energetic thing you've ever done in your life.\"",
+    "isoDate": "2025-10-01T11:30:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Features",
+      "Space",
+      "artemis II",
+      "astronauts",
+      "moon",
+      "NASA",
+      "orion",
+      "sls",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250731-PH-RNS01_0008large-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6b48a252a548874221944b17159da05e68f54fb3",
+    "title": "Autonomous AI adoption stalls amid trust and governance crisis",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/gartner_ai_agents/",
+    "summary": "<h4>Only 15% considering deployments and just 7% say it'll replace humans in next four years</h4> <p>Enterprises aren't keen on letting autonomous agents take the wheel amid fears over trust and security as research once again shows that AI hype is crashing against the rocks of reality.…</p>",
+    "isoDate": "2025-10-01T11:25:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6d607ff0c66db3a5d39a914eee516c857a5af107",
     "title": "Judge dismisses Arm's last legal claim against Qualcomm in licensing spat",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/arms_last_legal_claim_against/",
@@ -885,24 +960,6 @@
     "pinned": false
   },
   {
-    "id": "3985cc442e851d6709353cb2573561c1766b23d7",
-    "title": "Scientists unlock secret to Venus flytrap’s hair-trigger response",
-    "link": "https://arstechnica.com/science/2025/09/scientists-unlock-secret-to-venus-flytraps-hair-trigger-response/",
-    "summary": "Ion channel at base of plant's sensory hairs amplifies initial signals above critical threshold.",
-    "isoDate": "2025-09-30T09:00:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "botany",
-      "carnivorous plants",
-      "venus flytrap"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/venus-flytrap-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a91a2c95dea442a7d57cd8f31ef0e61631c3b8f1",
     "title": "From the archives: The Silver Man ‘alien’ photo is merely retouched reality",
     "link": "https://www.skeptic.org.uk/2025/09/from-the-archives-the-silver-man-alien-photo-is-merely-retouched-reality/",
@@ -1140,45 +1197,6 @@
     "pinned": false
   },
   {
-    "id": "bbc014809f69a888c927d9fa859e41ab84c5c1ef",
-    "title": "UK may already be at war with Russia, ex-MI5 head suggests",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/uk_russia_cyber_war/",
-    "summary": "<h4>Baroness Manningham-Buller cites Kremlin sabotage, cyberattacks, and assassinations as signs of an undeclared conflict</h4> <p>The former head of MI5 says hostile cyberattacks and intelligence operations directed by The Kremlin indicate the UK might already be at war with Russia.…</p>",
-    "isoDate": "2025-09-29T14:45:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Danny Palmer",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5cc7595788f15a69dd7ff22c562332d81264778a",
-    "title": "Fork yeah: Valkey 9 sharpens edge against Redis",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/valkey_9/",
-    "summary": "<h4>Open source database adds multi-tenant clustering, safer shutdowns, and eyes life beyond caching</h4> <p>Open source key-value database Valkey is set for its ninth iteration next month, promising improved resource optimization and availability.…</p>",
-    "isoDate": "2025-09-29T14:32:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6e74465a2ca479ef907d508281914bce35857ab6",
-    "title": "Russia-backed Indian oil company loses bid to force SAP support as sanctions bite",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/nayara_sap_sanctions/",
-    "summary": "<h4>Delhi High Court denies urgent relief after vendor halts services citing EU rules</h4> <p>An Indian court has refused urgent relief to an SAP customer after the vendor withheld support due to EU sanctions introduced in the summer.…</p>",
-    "isoDate": "2025-09-29T13:54:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "a4ac789fad66ca8e8aad97bc338395a444840c7f",
     "title": "Tesla FSD V14 Hits Swedish Roads in Joint Tesla–Government Assessment",
     "link": "https://www.notateslaapp.com/news/3167/tesla-fsd-v14-hits-swedish-roads-in-joint-tesla-government-assessment",
@@ -1189,19 +1207,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/171.jpeg/7053b690e076eba000a3148aba223f0d/171.jpg",
-    "pinned": false
-  },
-  {
-    "id": "08e356b41b290602a4abcca6c16d34439978ec1f",
-    "title": "Google's dev registration plan 'will end the F-Droid project'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/29/googles_dev_registration_plan_will/",
-    "summary": "<h4>Open source Android app store cannot exist if Google's plans go ahead, says F-Droid board member</h4> <p>The F-Droid project, which distributes open source apps for Android, will end if Google goes ahead with its plans to enforce developer registration for app installation, according to the project's board member Marc Prud'hommeaux.…</p>",
-    "isoDate": "2025-09-29T13:22:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1434,19 +1439,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-service-live-activity.webp/6cdd1fc8b85db2f26781f8eb2456bfb2/tesla-app-service-live-activity.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c10554577e312fd182d4a8a177e368fd120c6d21",
-    "title": "Panasonic’s New Battery Could Add up to 100 Miles of Range to a Tesla",
-    "link": "https://www.notateslaapp.com/news/3161/panasonics-new-battery-could-add-up-to-100-miles-of-range-to-a-tesla",
-    "summary": "Panasonic, a key Tesla cell supplier, is aiming to develop a new high-capacity battery within the next two years that offers a 25% energy density boost.&hellip; <a href=\"https://www.notateslaapp.com/news/3161/panasonics-new-battery-could-add-up-to-100-miles-of-range-to-a-tesla\">Read More</a>",
-    "isoDate": "2025-09-24T12:19:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2021/tesla-structural-battery-pack.webp/aa9af7713ff3e87076a41d0b6be34dd2/tesla-structural-battery-pack.jpg",
     "pinned": false
   }
 ]
