@@ -1,5 +1,64 @@
 [
   {
+    "id": "024a01840e6332fd920cde02dd3bd56a7b1b15e2",
+    "title": "Hyundai gives the Ioniq 5 a huge price cut for model-year 2026",
+    "link": "https://arstechnica.com/cars/2025/10/hyundai-gives-the-ioniq-5-a-huge-price-cut-for-model-year-2026/",
+    "summary": "The Korean automaker's price cut comes in as the clean vehicle tax credit dies.",
+    "isoDate": "2025-10-01T20:27:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Hyundai Ioniq 5"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/2025-Ioniq-5-XRT-first-drive-5-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6f21daebdef1d3797e7ceb609d2ce2f6cc2948a0",
+    "title": "US gov shutdown leaves IT projects hanging, security defenders a skeleton crew",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/",
+    "summary": "<h4>The longer the shutdown, the less likely critical IT overhauls happen, ex Social Security CISO tells <i>The Register</i></h4> <p>The US government shut down at 1201 ET on October 1, halting non-essential IT modernization and leaving cybersecurity operations to run on skeleton crews.…</p>",
+    "isoDate": "2025-10-01T19:48:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "bded291eeb65a8397706c09444219223594f1941",
+    "title": "'Delightful' root-access bug in Red Hat OpenShift AI allows full cluster takeover",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/critical_red_hat_openshift_ai_bug/",
+    "summary": "<h4>Who wouldn't want root access on cluster master nodes?</h4> <p>A 9.9 out of 10 severity bug in Red Hat's OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.…</p>",
+    "isoDate": "2025-10-01T19:35:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cefb995e7f986e74d56dab54da82440deca79fbc",
+    "title": "Cable nostalgia persists as streaming gets more expensive, fragmented",
+    "link": "https://arstechnica.com/gadgets/2025/10/cable-nostalgia-lives-on-as-streaming-gets-more-expensive-fragmented/",
+    "summary": "Cord reviving isn't common but points to discontent with today's streaming options.",
+    "isoDate": "2025-10-01T19:30:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "cable",
+      "streaming"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1365874365-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "4417794213cb02197f52b92bdaf76b4563a84408",
     "title": "OpenAI’s Sora 2 lets users insert themselves into AI videos with sound",
     "link": "https://arstechnica.com/ai/2025/10/openais-sora-2-lets-users-insert-themselves-into-ai-videos-with-sound/",
@@ -824,54 +883,6 @@
     "pinned": false
   },
   {
-    "id": "addfd8e893b97769b470aefad28ee013e4379326",
-    "title": "After threatening ABC over Kimmel, FCC chair may eliminate TV ownership caps",
-    "link": "https://arstechnica.com/tech-policy/2025/09/after-threatening-abc-over-kimmel-fcc-chair-may-eliminate-tv-ownership-caps/",
-    "summary": "FCC is required to review TV rules and is more likely to scrap them under Carr.",
-    "isoDate": "2025-09-30T19:44:25Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "brendan carr",
-      "fcc ownership cap",
-      "nexstar",
-      "sinclair"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/fcc-protester-sign-500x500-1759258985.jpg",
-    "pinned": false
-  },
-  {
-    "id": "519a1fae3716f58919bf8114534edf1619f4d4da",
-    "title": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
-    "link": "https://arstechnica.com/ai/2025/09/with-new-agent-mode-for-excel-and-word-microsoft-touts-vibe-working/",
-    "summary": "Agent Mode in Word, Excel works like vibe coding tools but for knowledge work.",
-    "isoDate": "2025-09-30T19:34:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Tech",
-      "Anthropic",
-      "copilot",
-      "Excel",
-      "LLM",
-      "microsoft",
-      "microsoft 365",
-      "Microsoft Copilot",
-      "openai",
-      "Powerpoint",
-      "vibe coding",
-      "vibe working",
-      "vibe writing",
-      "Word"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/M365-Blog_09292025_agentMode_Hero_v1-809x455-1-500x455.webp",
-    "pinned": false
-  },
-  {
     "id": "0a8264dc6474b7cb6902b6ff51ffee8388f6a6a0",
     "title": "Second time unlucky for Firefly as an Alpha rocket stage explodes",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/firefly_alpha_stage_rocket_explodes/",
@@ -1169,32 +1180,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3a8ea38b5954a6767a28846e7a928f008308f9e5",
-    "title": "VMware bungles cloud management portal upgrade, twice in two weeks",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/vmware_cloud_portal_upgrade_problems/",
-    "summary": "<h4>Promises to get it right this coming weekend</h4> <p>VMware has bungled a portal upgrade project that aims to give its customers a superior experience when managing their clouds.…</p>",
-    "isoDate": "2025-09-30T05:29:49Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1c526c9979d6d746fa48d596ef9e5d948f8226e2",
-    "title": "YouTube coughs up $24.5 million to make Trump 'censorship' case go away",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/09/30/youtube_trump_settlement/",
-    "summary": "<h4>Alphabet's vid-streamer will fund construction of a ballroom The Donald adores</h4> <p>YouTube has agreed to pay $24.5 million to end the case brought by US president Donald Trump, who alleged the vid-streamer had infringed his freedom of speech.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-09-30T02:51:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
