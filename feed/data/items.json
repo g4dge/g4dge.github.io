@@ -1,5 +1,77 @@
 [
   {
+    "id": "30eb0f70098bfdbc23cfd54160027b6e824aa9dc",
+    "title": "Why iRobot’s founder won’t go within 10 feet of today’s walking robots",
+    "link": "https://arstechnica.com/ai/2025/10/why-irobots-founder-wont-go-within-10-feet-of-todays-walking-robots/",
+    "summary": "Rodney Brooks says humanoid robots pose hidden safety challenges and won't learn dexterity from video alone.",
+    "isoDate": "2025-10-02T21:10:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Tech",
+      "Agility Robotics",
+      "AI development tools",
+      "AI research",
+      "boston dynamics",
+      "dexterity",
+      "Elon Musk",
+      "Figure",
+      "humanoid robots",
+      "iRobot",
+      "machine learning",
+      "manipulation",
+      "MIT",
+      "openai",
+      "optimus",
+      "Rethink Robotics",
+      "robot AI",
+      "Robotics",
+      "robots",
+      "rodney brooks",
+      "safety",
+      "Tesla",
+      "walking robots"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/optimus_header_1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0f36cd61aacceb3f6583cbbd490416ab82927dd9",
+    "title": "Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/02/microsoft_maia_dc/",
+    "summary": "<h4>Pivot will hinge on success of next-gen Maia accelerator</h4> <p>Microsoft buys a lot of GPUs from both Nvidia and AMD. But moving forward, Redmond's leaders want to shift the majority of its AI workloads from GPUs to its own homegrown accelerators.…</p>",
+    "isoDate": "2025-10-02T20:41:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9fcd5cef40fd6e209344699a8e0ac16912c912b9",
+    "title": "RFK Jr. drags feet on COVID-19 vaccine recommendations, delaying shots for kids",
+    "link": "https://arstechnica.com/health/2025/10/rfk-jr-drags-feet-on-covid-19-vaccine-recommendations-delaying-shots-for-kids/",
+    "summary": "The delayed sign-off means low-income kids don’t have access to the shots.",
+    "isoDate": "2025-10-02T20:34:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ACIP",
+      "CDC",
+      "COVID-19 vaccines",
+      "robert f kennedy jr",
+      "vaccines"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "ff60d82cb3d6f9ab6835f95c02f417b67872df4e",
     "title": "College student went on a destructive rampage, then confessed to ChatGPT, cops say",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/02/chatgpt_vandalism_spree/",
@@ -889,26 +961,6 @@
     "pinned": false
   },
   {
-    "id": "fadb1b48de3965f8949829c6d505bfd91264fe10",
-    "title": "How automakers are reacting to the end of the $7,500 EV tax credit",
-    "link": "https://arstechnica.com/cars/2025/10/its-october-1-so-the-electric-vehicle-tax-credit-is-dead-now/",
-    "summary": "Tesla is raising lease prices; Ford and GM may have found a loophole.",
-    "isoDate": "2025-10-01T15:00:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "EV adoption",
-      "Ford",
-      "General Motors",
-      "IRS clean vehicle tax credit",
-      "Tesla"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1365310049-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b56f7439813ba998d8abef71c3a8d4890eed5e5b",
     "title": "OpenStack in the pink with Flamingo release that escapes ancient Python constrictions",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/openstack_flamingo_release/",
@@ -945,26 +997,6 @@
     "author": "Dan Robinson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ab73e7703e9cdb24a9c7a9884219e2ad6f363c71",
-    "title": "Hands-on with Fallout 76’s next expansion: Yep, it has Walton Goggins",
-    "link": "https://arstechnica.com/gaming/2025/10/hands-on-with-fallout-76s-next-expansion-yep-it-has-walton-goggins/",
-    "summary": "TV tie-ins aside, it's the combat tweaks over the past year that really matter.",
-    "isoDate": "2025-10-01T14:00:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Gaming",
-      "bethesda",
-      "Bethesda Game Studios",
-      "Fallout",
-      "fallout 76",
-      "Fallout 76 Burning Springs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/FO76_BurningSprings_0925-3-500x500-1759325499.jpg",
     "pinned": false
   },
   {
@@ -1157,19 +1189,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/swift_blockchain_plan/",
     "summary": "<h4>SWIFT and 30 banks promise to bake it into international payment infrastructure</h4> <p>Blockchains are still synonymous with the wild world of cryptocurrencies, but on Monday, 30 banks and SWIFT – the world’s most important cross-border payment service – made them an utterly mainstream part of the global financial system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-10-01T06:29:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0d55f27a91fb84b8440b82aba9b6f85c00131988",
-    "title": "Taliban impose tele-ban and take Afghanistan offline",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/afghanistan_goes_offline/",
-    "summary": "<h4>No internet or phones, which means no banks or commercial aviation, but lots more misery</h4> <p>Afghanistan has dropped off the global internet.…</p>",
-    "isoDate": "2025-10-01T04:23:56Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
