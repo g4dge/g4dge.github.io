@@ -1,5 +1,50 @@
 [
   {
+    "id": "49fad1f1bce2112f97ee501b2c45d7f5a3f9de66",
+    "title": "AI devs close to scraping bottom of data barrel",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/ai_training_requires_more_data/",
+    "summary": "<h4>Analysts at Goldman Sachs Global Institute say training is starting to hit its limits, enterprise info troves may be last hope</h4> <p>Those spiffy AI systems that tech companies keep promising require mountains of training data, but high-quality sources may have already run out—unless enterprises can unlock the information trapped behind their firewalls, according to Goldman Sachs…</p>",
+    "isoDate": "2025-10-03T14:20:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3e2e60a76bd9e09a31eeb14ad0ca26175aedac56",
+    "title": "Apple ices ICE agent tracker app under government heat",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/apple_iceblock/",
+    "summary": "<h4>Cupertino yanks ICEBlock citing safety risks for law enforcement</h4> <p>Apple has deep-sixed an app that tracks the movements of US Immigration and Customs Enforcement (ICE) agents – apparently bowing to government pressure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-03T13:49:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "633a96eb4ff24752f547ddcd7b35a3076b5284ad",
+    "title": "Illinois utility tries using electric school buses for bidirectional charging",
+    "link": "https://arstechnica.com/cars/2025/10/illinois-utility-tries-using-electric-school-buses-for-bidirectional-charging/",
+    "summary": "School buses are usually parked when the grid is under its biggest strain.",
+    "isoDate": "2025-10-03T13:36:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Sarah Mattalian, Inside Climate News",
+    "tags": [
+      "Cars",
+      "electric bus",
+      "EVs",
+      "syndication",
+      "V2G"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/18C1102_002-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "eb1c582c2463b63df16e581a4da5a84c75f60ee9",
     "title": "Munich Airport chaos after drone sightings spook air traffic control",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/munich_airport_drone/",
@@ -1104,24 +1149,6 @@
     "pinned": false
   },
   {
-    "id": "3a35defd9d7e776efba85892c5add15b2bff898f",
-    "title": "Can today’s AI video models accurately model how the real world works?",
-    "link": "https://arstechnica.com/ai/2025/10/can-todays-ai-video-models-accurately-model-how-the-real-world-works/",
-    "summary": "New research shows highly inconsistent performance on a variety of physical reasoning tasks.",
-    "isoDate": "2025-10-01T16:43:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "google",
-      "Veo 3",
-      "video"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/robohands-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "50c4710731027173066bb5a8e03b1c16555c3e23",
     "title": "Hundreds of orgs urge Microsoft: don’t kill off free Windows 10 updates",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/hundreds_businesses_urge_microsoft_not_end_win10_support/",
@@ -1143,32 +1170,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "22ddf0cb8e627eb790c12808aa9d3a5e17b2f7a3",
-    "title": "SpaceX rockets toward next Starship launch, set for October 13",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/spacex_sets_the_eve_of/",
-    "summary": "<h4>Once more with feeling...</h4> <p>SpaceX has named the date when it will try for another Starship launch without anything exploding. October 13, which is both the Columbus Day / Indigenous People's Day holiday and the last day of Windows 10 support, is the current target.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-01T15:32:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b56f7439813ba998d8abef71c3a8d4890eed5e5b",
-    "title": "OpenStack in the pink with Flamingo release that escapes ancient Python constrictions",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/openstack_flamingo_release/",
-    "summary": "<h4>Project boss pleased to be getting on top of technical debt</h4> <p>OpenStack has delivered its 32nd major release, named \"Flamingo.\"…</p>",
-    "isoDate": "2025-10-01T15:00:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1414,19 +1415,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-2.webp/1f410f01d8bab65ac419a69a02d7a7eb/tesla-robotaxi-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "13fc85b25fda7cb4b27614ebaa6cf800e5bbe22e",
-    "title": "Tesla Superchargers Get First-Ever Highway Sign",
-    "link": "https://www.notateslaapp.com/news/3165/tesla-superchargers-get-first-ever-highway-sign",
-    "summary": "The first-ever official highway sign for a Tesla Supercharger has appeared in Arizona, a move aimed at the growing number of non-Tesla EVs using the network.&hellip; <a href=\"https://www.notateslaapp.com/news/3165/tesla-superchargers-get-first-ever-highway-sign\">Read More</a>",
-    "isoDate": "2025-09-26T13:53:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/first_supercharging_highway_sign.jpg/3eb0c3259f8eece618345e51ddeb06dd/first_supercharging_highway_sign.jpg",
     "pinned": false
   }
 ]
