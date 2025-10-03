@@ -1,5 +1,35 @@
 [
   {
+    "id": "6f43f8fadc723b1e0c088c974a1f250d3288d710",
+    "title": "Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds",
+    "link": "https://arstechnica.com/health/2025/10/most-americans-want-aca-tax-credits-extended-even-57-of-maga-supporters/",
+    "summary": "Without the extension, premiums for plans on the ACA Marketplace will more than double.",
+    "isoDate": "2025-10-03T21:56:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ACA",
+      "health care"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2238395456-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4d7962d7bcf1da96ad58d9963975322fd5e110e5",
+    "title": "ICE plans to scour Facebook, TikTok, X, and even defunct Google+ for illegal immigration leads",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/ice_contractors_social_media_spy/",
+    "summary": "<h4>Draft solicitation calls for nearly 30 contractors to mine social media and other open-source data</h4> <p>US Immigration and Customs Enforcement (ICE) is seeking contractors to trawl social media and other open-source data for potential immigration enforcement leads, assuming public posts can yield actionable intelligence.…</p>",
+    "isoDate": "2025-10-03T21:44:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7b361c13f22e0ad6f0d4c39f392f8a219445807a",
     "title": "Tesla Update 2025.26.11 Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.26.11/release-notes",
@@ -85,7 +115,7 @@
     "id": "53f4d7ebef237b254889513f2476867a944ab3f2",
     "title": "'Retired' cybercrime group demands $989M not to leak 1B Salesforce records",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/scattered_lapsus_hunters_latest_leak/",
-    "summary": "<h4>CRM giant insists its platform wasn’t breached</h4> <p>Despite at least three arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 to prevent what it claims is about 1 billion stolen records from being published online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>CRM giant insists its platform wasn’t breached</h4> <p>Despite multiple arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 to prevent what it claims is about 1 billion stolen records from being published online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-10-03T19:53:12Z",
     "source": "The Register",
     "category": "Tech",
@@ -930,24 +960,6 @@
     "pinned": false
   },
   {
-    "id": "44cdf0d0dc03be4c88b3e843f2dd0da476f3a3da",
-    "title": "Japan is running out of its favorite beer after ransomware attack",
-    "link": "https://arstechnica.com/security/2025/10/japan-is-running-out-of-its-favorite-beer-after-ransomware-attack/",
-    "summary": "Asahi Super Dry production at Japanese breweries halted after cyberattack.",
-    "isoDate": "2025-10-02T13:44:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Harry Dempsey and Leo Lewis, Financial Times",
-    "tags": [
-      "Security",
-      "cyberattack",
-      "ransomware",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/asahi-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "59a51708dbcf21a11d4b19c94c794d72c3e26def",
     "title": "Apple's AirPods Pro 3 are still chuck-and-buy-again specials",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/02/apple_airpods_pro_3/",
@@ -1190,19 +1202,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bded291eeb65a8397706c09444219223594f1941",
-    "title": "'Delightful' root-access bug in Red Hat OpenShift AI allows full cluster takeover",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/critical_red_hat_openshift_ai_bug/",
-    "summary": "<h4>Who wouldn't want root access on cluster master nodes?</h4> <p>A 9.9 out of 10 severity bug in Red Hat's OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.…</p>",
-    "isoDate": "2025-10-01T19:35:44Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
