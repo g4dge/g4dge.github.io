@@ -1,5 +1,39 @@
 [
   {
+    "id": "9245f7fb6ded02eff49df34fc205b13fa2df6e96",
+    "title": "A biological 0-day? Threat-screening tools may miss AI-designed proteins",
+    "link": "https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/",
+    "summary": "Ordering DNA for AI-designed toxins doesn't always raise red flags.",
+    "isoDate": "2025-10-03T20:12:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "AI",
+      "Science",
+      "biohazards",
+      "bioterrorism",
+      "protein design",
+      "risk assessment",
+      "security"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "53f4d7ebef237b254889513f2476867a944ab3f2",
+    "title": "'Retired' cybercrime group demands $989M not to leak 1B Salesforce records",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/scattered_lapsus_hunters_latest_leak/",
+    "summary": "<h4>CRM giant insists its platform wasn’t breached</h4> <p>Despite at least three arrests and talk of retirement, a crew now calling itself Scattered LAPSUS$ Hunters has reemerged with a data-leak site listing about 40 companies’ Salesforce environments, and is demanding $989.45 to prevent what it claims is about 1 billion stolen records from being published online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-03T19:53:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "c5404ad014f43ef7a9aa4cceec6b6c67ca48973f",
     "title": "Google goes straight to shell with AI command line coding tool",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/google_ai_command_line/",
@@ -1072,27 +1106,6 @@
     "pinned": false
   },
   {
-    "id": "b9c8d1586d81e13afb67d43ee7b8824f801c0f99",
-    "title": "Meet the Arc spacecraft: It aims to deliver cargo anywhere in the world in an hour",
-    "link": "https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/",
-    "summary": "\"The key discriminator is, does this make a difference in the moment it's needed?\"",
-    "isoDate": "2025-10-02T02:00:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "ARC",
-      "inversion",
-      "Military",
-      "rocket cargo",
-      "space",
-      "space force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Arc-On-Orbit-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b7c553b01e540a7816b0b7d69e591a0e331d743f",
     "title": "Meta will listen into AI conversations to personalize ads",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/meta_ai_use_informs_ads/",
@@ -1179,19 +1192,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bbd8b878aa6bb0b97a6f1356837f3fc8ad61a7a7",
-    "title": "Aurora immutable KDE Plasma workstation: Big, slow, and confusing",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/01/aurora_immutable_kde_workstation/",
-    "summary": "<h4>Based on Universal Blue, it's akin to Fedora Kinoite with knobs on… A lot of knobs</h4> <p>Aurora, a relatively young distro from Austria, bills itself as \"your stable, privacy-respecting and ultimate productivity OS.\" These are rather bold claims, though many other Linux distros make the same promise.…</p>",
-    "isoDate": "2025-10-01T17:49:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
