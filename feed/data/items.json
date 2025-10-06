@@ -1,5 +1,31 @@
 [
   {
+    "id": "caf75592b1dcfca98e0b67a2727ca2b54831f869",
+    "title": "An idea that won't sink: China planning underwater datacenter deployment",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/underwater_dc_china/",
+    "summary": "<h4>Under the sea, under the sea... bit barnacle's better, down where it's wetter, take it from me</h4> <p>China is persevering with underwater datacenters - a deployment off the coast near Shanghai is expected to save on the energy costs of cooling compute infrastructure thanks to ocean currents.…</p>",
+    "isoDate": "2025-10-06T12:44:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b7d79a9257bc4664b77ead469d0e92aadc92ae82",
+    "title": "Thieves steal IDs and payment info after data leaks from Discord support vendor",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/discord_support_data_breach/",
+    "summary": "<h4>Outsourcing your helpdesk always seems like a good idea – until someone else's breach becomes your problem</h4> <p>Discord has confirmed customers' data was stolen – but says the culprit wasn't its own servers, just a compromised support vendor.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-06T12:18:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "a9deaf25961a70af0fec5484b983765039d39e94",
     "title": "Elon Musk tries to make Apple and mobile carriers regret choosing Starlink rivals",
     "link": "https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/",
@@ -55,7 +81,7 @@
     "id": "226a5e91419e775eb43275d53e72670b1eb4267c",
     "title": "Here’s the real reason Endurance sank",
     "link": "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/",
-    "summary": "The ship wasn't designed to withstand the powerful ice compression forces—and Shackleton knew it",
+    "summary": "The ship wasn't designed to withstand the powerful ice compression forces—and Shackleton knew it.",
     "isoDate": "2025-10-06T10:00:40Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -1240,32 +1266,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Maryam Mahjoba & Asad Nariman",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3b185c5630fb3c66529ff8a527bfae9936d426d0",
-    "title": "Avio bags €40M ESA contract for reusable rocket stage, but don't hold your breath",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/02/esa_avio_upper_stage/",
-    "summary": "<h4>Industry insiders whisper more about posturing than practical progress</h4> <p>Italian rocket company Avio has signed a €40 million contract with the European Space Agency (ESA) to develop a reusable upper stage, a project already drawing skepticism from industry watchers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-02T09:55:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0fb3587df3003395dc9cbc9983ed1beef18fee25",
-    "title": "Cybercrims claim raid on 28,000 Red Hat repos, say they have sensitive customer files",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/02/cybercrims_claim_raid_on_28000/",
-    "summary": "<h4>570GB of data claimed to be stolen by the Crimson Collective</h4> <p>A hacking crew claims to have broken into Red Hat's private GitLab repositories, exfiltrating some 570GB of compressed data, including sensitive documents belonging to customers. …</p>",
-    "isoDate": "2025-10-02T09:25:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
