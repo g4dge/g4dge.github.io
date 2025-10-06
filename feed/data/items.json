@@ -1,5 +1,49 @@
 [
   {
+    "id": "d3d37d7855a45edc76e9cd17f1b4e0bb9688fd67",
+    "title": "Stargate is nowhere near big enough to make OpenAI's tie-ups with AMD and Nvidia work",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/stargate_openai_amd/",
+    "summary": "<h4>Since revealing Stargate in January, Altman and friends have brought about 200 MW online - they'll need at least 16 GW to claim their red and green prize</h4> <p><strong>Comment</strong>  AMD has issued OpenAI a warrant for roughly 10 percent of its stock. In exchange, the AI model giant will work with its partners (such as Oracle) to deploy up to 6 gigawatts' worth of AMD GPUs.…</p>",
+    "isoDate": "2025-10-06T21:05:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fc41b931f51e8999a0657f0db06bc07e43184a63",
+    "title": "Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias",
+    "link": "https://arstechnica.com/tech-policy/2025/10/ted-cruz-picks-a-fight-with-wikipedia-accusing-platform-of-left-wing-bias/",
+    "summary": "Cruz sends letter demanding answers from Wikimedia Foundation.",
+    "isoDate": "2025-10-06T20:45:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "ted cruz",
+      "Wikimedia Foundation",
+      "wikipedia"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ted-cruz-500x500-1759781343.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9552de5cb4e524a60c23f4507da3c02acf88f002",
+    "title": "OpenAI tells developers ChatGPT is ready to be their gatekeeper",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/openai_opens_chatgpt_to_referring/",
+    "summary": "<h4>Integrate your apps via their Apps SDK and maybe they'll send you some business</h4> <p>OpenAI on Monday pitched its coding tools to software developers in the hope of generating the usage and revenue necessary to recoup the vast sums it spends to create and run its AI services.…</p>",
+    "isoDate": "2025-10-06T20:36:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7bdda3797c81947b6a043061965ccc010e2ec540",
     "title": "OpenAI wants to make ChatGPT into a universal app frontend",
     "link": "https://arstechnica.com/ai/2025/10/openai-wants-to-make-chatgpt-into-a-universal-app-frontend/",
@@ -844,24 +888,6 @@
     "pinned": false
   },
   {
-    "id": "cdc8b646f5a2db72ffaa42ad81fce5f87734d94a",
-    "title": "Rally Arcade Classics is a fun ’90s-throwback racing game",
-    "link": "https://arstechnica.com/gaming/2025/10/rally-arcade-classics-is-a-fun-90s-throwback-racing-game/",
-    "summary": "If you like games that handle like <em>Project Gotham Racing</em>, you might love this.",
-    "isoDate": "2025-10-03T15:18:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Gaming",
-      "game review",
-      "Rally Arcade Classics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/PressKit_Imatge_27-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f75b20089c90e81b9bc27bd708e087689fb2d3a1",
     "title": "Red Hat fesses up to GitLab breach after attackers brag of data theft",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/red_hat_gitlab_breach/",
@@ -1176,32 +1202,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/myp-v2l.webp/292d8ce0d52dad773c5fc0112e625046/myp-v2l.jpg",
-    "pinned": false
-  },
-  {
-    "id": "00fa56c23ead2f54b3944d60c78ab07aac87645e",
-    "title": "Subpoena tracking platform blames outage on AWS social engineering attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/02/subpoena_tracking_platform_outage_blamed/",
-    "summary": "<h4>Software maker Kodex said its domain registrar fell for a fraudulent legal order</h4> <p>A software platform used by law enforcement agencies and major tech companies to manage subpoenas and data requests went dark this week after attackers socially engineered AWS into freezing its domain.…</p>",
-    "isoDate": "2025-10-02T17:04:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "50b64094ef8121d53035213f863d08bdef4ba112",
-    "title": "Only way to move Space Shuttle Discovery is to chop it into pieces, White House told",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/02/dismantling_discovery/",
-    "summary": "<h4>Smithsonian warns that dismantling orbiter for relocation is history in the wrecking</h4> <p>How would you move Space Shuttle Discovery from Virginia to Texas? The White House Office of Management and Budget asked NASA and the Smithsonian Institution and the response was to dismantle it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-02T16:39:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
