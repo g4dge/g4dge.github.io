@@ -1,5 +1,38 @@
 [
   {
+    "id": "7b1cd14e6ef172c7136fcea6de9eedcd58709c5c",
+    "title": "Level-10 vuln lurking in Redis source code for 13 years could allow remote code execution",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/",
+    "summary": "<h4>No evidence of exploitation … yet</h4> <p>A 13-year-old critical flaw in Redis servers, rated a perfect 10 out of 10 in severity, can let an authenticated user trigger remote code execution.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-06T17:29:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7e085dda2654d76889ca23bfeac2079946c73db4",
+    "title": "Trump’s EPA sued for axing $7 billion solar energy program",
+    "link": "https://arstechnica.com/tech-policy/2025/10/trumps-epa-sued-for-clawing-back-7b-in-solar-energy-funds/",
+    "summary": "\"Solar for All\" was designed to drop energy bills by $350 million, lawsuit says.",
+    "isoDate": "2025-10-06T17:28:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "clean energy",
+      "Donald Trump",
+      "Environmental Protection Agency",
+      "EPA",
+      "Solar energy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-599836043-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "743bfe85682b1992091e7cd7bc4dac1e80a62b48",
     "title": "OpenAI IP promises ring hollow to Sora losers",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/openai_makes_empty_promises_to/",
@@ -869,25 +902,6 @@
     "pinned": false
   },
   {
-    "id": "633a96eb4ff24752f547ddcd7b35a3076b5284ad",
-    "title": "Illinois utility tries using electric school buses for bidirectional charging",
-    "link": "https://arstechnica.com/cars/2025/10/illinois-utility-tries-using-electric-school-buses-for-bidirectional-charging/",
-    "summary": "School buses are usually parked when the grid is under its biggest strain.",
-    "isoDate": "2025-10-03T13:36:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Sarah Mattalian, Inside Climate News",
-    "tags": [
-      "Cars",
-      "electric bus",
-      "EVs",
-      "syndication",
-      "V2G"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/18C1102_002-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "eb1c582c2463b63df16e581a4da5a84c75f60ee9",
     "title": "Munich Airport chaos after drone sightings spook air traffic control",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/munich_airport_drone/",
@@ -1202,19 +1216,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/99.jpeg/895b914a5bba08f169c971c2d65e9b46/99.jpg",
-    "pinned": false
-  },
-  {
-    "id": "87239444ee526788aaad71cafbf05ab0874f92cb",
-    "title": "Mad man builds chatbot in Minecraft with redstone, Python, and patience",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/02/minecraft_ai_chatbot/",
-    "summary": "<h4>Replies are slow and it's prone to gibberish – just like any other AI</h4> <p>Never mind Doom running on a potato, or whatever – the next generation of ridiculous computing belongs to Minecraft YouTuber Sammyuri, who built a working chatbot in the perennially popular voxel building sandbox.…</p>",
-    "isoDate": "2025-10-02T15:27:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
