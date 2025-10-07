@@ -1,5 +1,57 @@
 [
   {
+    "id": "21942cb13ec07a65c7ba283d87fdfbfb388c1544",
+    "title": "Tesla’s new cut-price EVs: A $39,990 Model Y and $36,990 Model 3",
+    "link": "https://arstechnica.com/cars/2025/10/teslas-new-cut-price-evs-a-39990-model-y-and-36990-model-3/",
+    "summary": "A smaller battery and less standard equipment cuts prices, but not by enough.",
+    "isoDate": "2025-10-07T22:22:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Tesla",
+      "tesla model 3",
+      "Tesla Model Y"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ModelYStandard_84-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6aae2c6fdbc14a94893692d3d574bc39deb90449",
+    "title": "Google declares AI bug hunting season open, sets a $30K max reward",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/google_ai_bug_bounty/",
+    "summary": "<h4>Jailbreaks, direct prompt injection not allowed</h4> <p>Google on Monday rolled out a new AI Vulnerability Reward Program to encourage researchers to find and report flaws in its AI systems, with rewards of up to $30,000 for a single qualifying report.…</p>",
+    "isoDate": "2025-10-07T22:19:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b137b38c288a238c261e9341d9453ed99200d7ee",
+    "title": "After RFK Jr.’s shenanigans, COVID shot access will be a lot like last year",
+    "link": "https://arstechnica.com/health/2025/10/after-rfk-jr-s-shenanigans-covid-shot-access-will-be-a-lot-like-last-year/",
+    "summary": "Most people can get vaccinated at their local pharmacy like normal.",
+    "isoDate": "2025-10-07T21:24:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ACIP",
+      "CDC",
+      "COVID-19 vaccines",
+      "cvs",
+      "vaccines",
+      "Walgreens"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2168151364-scaled-500x500-1738683916.jpg",
+    "pinned": false
+  },
+  {
     "id": "cc4df488ffeff9288f924123cd8aa066a819d05f",
     "title": "2025 Nobel Prize in Physics awarded for macroscale quantum tunneling",
     "link": "https://arstechnica.com/science/2025/10/2025-nobel-prize-in-physics-awarded-for-macroscale-quantum-tunneling/",
@@ -801,26 +853,6 @@
     "pinned": false
   },
   {
-    "id": "fe1400204f24063a462d5b69fbcf5c14636a72e7",
-    "title": "OpenAI, Jony Ive struggle with technical details on secretive new AI gadget",
-    "link": "https://arstechnica.com/ai/2025/10/openai-jony-ive-struggle-with-technical-details-on-secretive-new-ai-gadget/",
-    "summary": "ChatGPT maker working with former Apple design boss to launch personal assistant.",
-    "isoDate": "2025-10-06T13:21:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Tim Bradshaw in London, Cristina Criddle, Michael Acton, and Ryan McMorrow, Financial Times",
-    "tags": [
-      "AI",
-      "Jony Ive",
-      "openai",
-      "sam altman",
-      "syndication",
-      "wearables"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/altman-ive-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "900b462d8db2b6e3485624beb51de150e478f87e",
     "title": "Radiant Group won't touch kids' data now, but apparently hospitals are fair game",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/radiant_group_hospital/",
@@ -870,33 +902,6 @@
     "author": "Carly Page",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a9deaf25961a70af0fec5484b983765039d39e94",
-    "title": "Elon Musk tries to make Apple and mobile carriers regret choosing Starlink rivals",
-    "link": "https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/",
-    "summary": "SpaceX Starlink's mobile power play: 50 MHz of spectrum and 15,000 new satellites.",
-    "isoDate": "2025-10-06T11:00:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Features",
-      "Policy",
-      "Space",
-      "apple",
-      "ast spacemobile",
-      "AT&T",
-      "features",
-      "globalstar",
-      "iphone",
-      "spacex",
-      "starlink",
-      "t-mobile",
-      "verizon"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-500x500.jpg",
     "pinned": false
   },
   {
@@ -1144,19 +1149,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c5404ad014f43ef7a9aa4cceec6b6c67ca48973f",
-    "title": "Google goes straight to shell with AI command line coding tool",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/google_ai_command_line/",
-    "summary": "<h4>Devs live in terminals - now Jules does too</h4> <p>In the beginning was the command line, and despite all the machine-learning froth, developers still live there. That is why Google has shoved its Jules coding agent into a terminal with a new tool it calls Jules Tools.…</p>",
-    "isoDate": "2025-10-03T18:46:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
