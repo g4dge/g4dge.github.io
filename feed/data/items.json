@@ -1,5 +1,35 @@
 [
   {
+    "id": "8904ea5877771d4d679ebbbd62d2ef79224ee05b",
+    "title": "Employees regularly paste company secrets into ChatGPT",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/",
+    "summary": "<h4>Microsoft Copilot, not so much</h4> <p>Employees could be opening up to OpenAI in ways that put sensitive data at risk. According to a study by security biz LayerX, a large number of corporate users paste Personally Identifiable Information (PII) or Payment Card Industry (PCI) numbers right into ChatGPT, even if they're using the bot without permission.…</p>",
+    "isoDate": "2025-10-07T20:18:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "719f8209c55ae4fe9ef33ab4f26b75908616ff71",
+    "title": "Microsoft removes even more Microsoft account workarounds from Windows 11 build",
+    "link": "https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/",
+    "summary": "Microsoft has locked down well-documented workarounds in recent test builds.",
+    "isoDate": "2025-10-07T19:47:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "windows 11",
+      "windows 11 25h2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-listing-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "2b735753b92411b29248a24d2e4beecba142ba62",
     "title": "Ars Live: Is the AI bubble about to pop? Ed Zitron is on with Ars at 3:30pm EDT today",
     "link": "https://arstechnica.com/ai/2025/10/ars-live-is-the-ai-bubble-about-to-pop-a-live-chat-with-ed-zitron/",
@@ -1007,29 +1037,6 @@
     "pinned": false
   },
   {
-    "id": "dfb80e5b1f9989f17cb237f99ec94ef6c4e27750",
-    "title": "ICE wants to build a 24/7 social media surveillance team",
-    "link": "https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/",
-    "summary": "ICE plans to hire contractors to scan platforms to target people for deportation.",
-    "isoDate": "2025-10-04T13:21:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dell Cameron, WIRED.com",
-    "tags": [
-      "Biz & IT",
-      "Policy",
-      "Security",
-      "digital surveillance",
-      "federal surveillance",
-      "Government surveillance",
-      "immigration",
-      "immigration and customs enforcement",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ice-protest-500x500-1759511392.jpg",
-    "pinned": false
-  },
-  {
     "id": "9a1fe786d78750054682e03a48c247521fe45f74",
     "title": "Tesla Updates European Model 3; New Battery, Bumper Camera, and Stalk",
     "link": "https://www.notateslaapp.com/news/3203/tesla-updates-european-model-3-new-battery-bumper-camera-and-stalks",
@@ -1183,19 +1190,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2022/solar-home.jpg/ad92357506ad0ce9ec9f74f0508c6fa5/solar-home.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f75b20089c90e81b9bc27bd708e087689fb2d3a1",
-    "title": "Red Hat fesses up to GitLab breach after attackers brag of data theft",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/red_hat_gitlab_breach/",
-    "summary": "<h4>Open source giant admits intruders broke into dedicated consulting instance, but insists core products untouched</h4> <p>What started as cyber crew bragging has now been confirmed by Red Hat: someone gained access to its consulting GitLab system and walked away with data.…</p>",
-    "isoDate": "2025-10-03T14:42:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
