@@ -1,5 +1,100 @@
 [
   {
+    "id": "b79f1f0877921b197c10557bd7621488cdc7e25f",
+    "title": "Arduino “retains its brand and mission” following acquisition by Qualcomm",
+    "link": "https://arstechnica.com/gadgets/2025/10/arduino-retains-its-brand-and-mission-following-acquisition-by-qualcomm/",
+    "summary": "Qualcomm claims Arduino will keep its own branding and \"open-source ethos.\"",
+    "isoDate": "2025-10-07T16:30:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "Arduino",
+      "Qualcomm"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ArduinoUnoQ-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "c00b1d24a2b0fd01821b4e09d65a4e7d81e56511",
+    "title": "Nearly a year after attack, US medical scanning biz gets clear image of stolen patient data",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/10_months_later_us_medical/",
+    "summary": "<h4>No fraud monitoring and no apology after miscreants make off with medical, financial data</h4> <p>Florida-based Doctors Imaging Group has admitted that the sensitive medical and financial data of 171,862 patients was stolen during the course of a November 2024 cyberattack.…</p>",
+    "isoDate": "2025-10-07T16:15:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "bb1344bd73b007bd97177357238b8edf5fdad511",
+    "title": "Play Store changes coming this month as SCOTUS declines to freeze antitrust remedies",
+    "link": "https://arstechnica.com/gadgets/2025/10/supreme-court-refuses-to-pause-play-store-changes-while-google-appeals-antitrust-case/",
+    "summary": "The first app store changes are due in a few weeks, with the major changes coming next summer.",
+    "isoDate": "2025-10-07T15:56:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "antitrust",
+      "apps",
+      "google",
+      "play store"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay-500x500-1759849988.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "6635321df99f0a7a326f2e138e00678babe3106a",
+    "title": "Police and military radio maker BK Technologies cops to cyber break-in",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/police_and_military_radio_maker_bk_admits_breach/",
+    "summary": "<h4>Florida comms outfit serving cops, firefighters, and the military says hackers pinched some employee data but insists its systems stayed online</h4> <p>BK Technologies, the Florida-based maker of mission-critical radios for US police, fire, and defense customers, has confessed to a cyber intrusion that briefly rattled its IT systems last month.…</p>",
+    "isoDate": "2025-10-07T15:55:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c1dae24d32e854d8b32244f0e37117a26ae0efd4",
+    "title": "Newest developer beta backtracks on one iPadOS 26 multitasking decision",
+    "link": "https://arstechnica.com/gadgets/2025/10/newest-developer-beta-backtracks-on-one-ipados-26-multitasking-decision/",
+    "summary": "Apple had removed many of the iPad's old multitasking modes in the new update.",
+    "isoDate": "2025-10-07T15:42:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Tech",
+      "apple",
+      "iPadOS",
+      "ipados 26"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-WWDC25-iPadOS-26-hero-250609-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ae239d711e1a9595d6e2573433b8b2ba8a045497",
+    "title": "OpenAI bans suspected Chinese accounts using ChatGPT to plan surveillance",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/openai_bans_suspected_china_accounts/",
+    "summary": "<h4>It also banned some suspected Russian accounts trying to create influence campaigns and malware</h4> <p>OpenAI has banned ChatGPT accounts believed to be linked to Chinese government entities attempting to use AI models to surveil individuals and social media accounts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-07T15:36:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "95be18f8da2ddac020ace5a8d9e200c7516c9d92",
     "title": "Trio who made foundational quantum computing discovery bag Nobel physics prize",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/trio_who_showed_macroscale_quantum/",
@@ -53,7 +148,7 @@
   },
   {
     "id": "148eaf8ba98f6c3113a21935cca383f16a656407",
-    "title": "How your mouse could eavesdrop and rat you out",
+    "title": "How your mouse could eavesdrop on you and rat you out",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/mouse_microphone_security/",
     "summary": "<h4>Mic-E-Mouse can roar by literally vibe hacking speech</h4> <p>The mouse sitting next to you can be turned into a microphone thanks to some cunning use of its sensors to pick up vibrations from your voice in an attack dubbed Mic-E-Mouse.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-10-07T13:03:10Z",
@@ -987,27 +1082,6 @@
     "pinned": false
   },
   {
-    "id": "9245f7fb6ded02eff49df34fc205b13fa2df6e96",
-    "title": "A biological 0-day? Threat-screening tools may miss AI-designed proteins.",
-    "link": "https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/",
-    "summary": "Ordering DNA for AI-designed toxins doesn't always raise red flags.",
-    "isoDate": "2025-10-03T20:12:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "AI",
-      "Science",
-      "biohazards",
-      "bioterrorism",
-      "protein design",
-      "risk assessment",
-      "security"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "53f4d7ebef237b254889513f2476867a944ab3f2",
     "title": "'Retired' cybercrime group demands ransom not to leak 1B Salesforce records",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/scattered_lapsus_hunters_latest_leak/",
@@ -1031,53 +1105,6 @@
     "author": "Thomas Claburn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a590bf5bc364fb001b06a50b2326223e961d8714",
-    "title": "Google confirms Android dev verification will have free and paid tiers, no public list of devs",
-    "link": "https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/",
-    "summary": "Google promises verification will make Android safer, but at what cost?",
-    "isoDate": "2025-10-03T18:31:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "apps",
-      "google",
-      "play store",
-      "privacy",
-      "security"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2b735753b92411b29248a24d2e4beecba142ba62",
-    "title": "Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron.",
-    "link": "https://arstechnica.com/ai/2025/10/ars-live-is-the-ai-bubble-about-to-pop-a-live-chat-with-ed-zitron/",
-    "summary": "Join a live discussion on October 7 about the AI gold rush.",
-    "isoDate": "2025-10-03T17:49:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI bubble",
-      "AI criticism",
-      "ars live",
-      "Ars Live Conversations",
-      "Benj Edwards",
-      "ChatGPT",
-      "chatgtp",
-      "Ed Zitron",
-      "machine learning",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-500x500.jpg",
     "pinned": false
   },
   {
@@ -1141,45 +1168,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3e2e60a76bd9e09a31eeb14ad0ca26175aedac56",
-    "title": "Apple ices ICE agent tracker app under government heat",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/apple_iceblock/",
-    "summary": "<h4>Cupertino yanks ICEBlock citing safety risks for law enforcement</h4> <p>Apple has deep-sixed an app that tracks the movements of US Immigration and Customs Enforcement (ICE) agents – apparently bowing to government pressure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-03T13:49:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "eb1c582c2463b63df16e581a4da5a84c75f60ee9",
-    "title": "Munich Airport chaos after drone sightings spook air traffic control",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/munich_airport_drone/",
-    "summary": "<h4>Overnight shutdown leaves thousands stuck as Oktoberfest crowds stretch city security</h4> <p>Munich Airport was temporarily closed last night following reports of drones buzzing around the area.…</p>",
-    "isoDate": "2025-10-03T12:58:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bbdc21a739311c0a55f5c4376d6446e433e22581",
-    "title": "Big money is nervous about AI hype, but not ready to call it a bubble",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/ai_bubble_watch_markets/",
-    "summary": "<h4>Exploding valuations and mountains of debt, and yet....</h4> <p><strong>Analysis</strong>  In an employee share sell-off this week, OpenAI achieved <a href=\"https://www.theregister.com/2025/10/02/openai_ropes_in_samsung_and/\" target=\"_blank\">a nominal value of $500 billion</a>. In terms of valuation, the posterchild of GenAI — which is yet to make a profit — left in its dust companies like Toyota, the world's largest automaker.…</p>",
-    "isoDate": "2025-10-03T12:23:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
