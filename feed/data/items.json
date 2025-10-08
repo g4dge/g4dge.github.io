@@ -1,5 +1,90 @@
 [
   {
+    "id": "0d5c1e4cc6d92bbb48cabe4a79bb5d745e2d7d6c",
+    "title": "IBM's big iron to get Spyre AI accelerator upgrade this month",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/ibm_z17_spyre_accelerator/",
+    "summary": "<h4>Giving the mainframe customers what they want</h4> <p>IBM's Spyre Accelerator is set to be generally available later this month, delivering a boost to the AI capabilities of its enterprise-grade hardware including the z17 mainframe, LinuxONE 5, and Power11 systems.…</p>",
+    "isoDate": "2025-10-08T16:09:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2742ac829bcb765455111f9263e9cf036a0825e9",
+    "title": "Vandals deface ads for AI necklaces that listen to all your conversations",
+    "link": "https://arstechnica.com/tech-policy/2025/10/vandals-deface-ads-for-ai-necklaces-that-listen-to-all-your-conversations/",
+    "summary": "Critics attacked subway ads to defend human friends and broadly criticize AI.",
+    "isoDate": "2025-10-08T16:07:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai companions",
+      "ai friends",
+      "ai wearables",
+      "Artificial Intelligence",
+      "chatbots",
+      "companion bots"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2182000985-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4ff5d7d4372e95fc1ab019a7f6cbe8155fd1a813",
+    "title": "Building ordered polymers with metal",
+    "link": "https://arstechnica.com/science/2025/10/building-ordered-polymers-with-metal/",
+    "summary": "Structured polymers called metal-organic frameworks get the chemistry Nobel.",
+    "isoDate": "2025-10-08T15:53:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "chemistry",
+      "chemistry Nobel",
+      "metal organic framework",
+      "nobel prizes"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/image-500x500-1759936906.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "49b21bb47c345445fd94344a356bece0e2143e59",
+    "title": "Actually, we are going to tell you the odds of recovering New Glenn’s second launch",
+    "link": "https://arstechnica.com/space/2025/10/the-second-new-glenn-rolls-to-the-launch-pad-and-they-expect-to-recover-this-one/",
+    "summary": "To be financially sustainable, New Glenn must be reused often.",
+    "isoDate": "2025-10-08T15:35:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "blue origin",
+      "new glenn",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/NG-2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2bddb574867f6fee0c6bec78d7af5fc86164fa6f",
+    "title": "Exchange Online will start archiving your oldest emails before your inbox bursts",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/microsoft_archiving_move/",
+    "summary": "<h4>Microsoft promises fewer 'mailbox full' errors in face of message deluge</h4> <p>Microsoft's latest attempt to make the dreaded \"mailbox full\" response a thing of the past is rolling out in October and November. Threshold-based auto-archiving is coming to Exchange Online.…</p>",
+    "isoDate": "2025-10-08T15:30:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "f804e4060ddeef89213348786dec62cd4d4c91ec",
     "title": "Tesla Launches Standard Model 3 and Model Y: Comparison of Features",
     "link": "https://www.notateslaapp.com/news/3211/tesla-launches-standard-model-3-and-model-y-comparison-of-features",
@@ -886,25 +971,6 @@
     "pinned": false
   },
   {
-    "id": "746bfe3098e7f65a99695df2a5501d7d669cd931",
-    "title": "The neurons that let us see what isn’t there",
-    "link": "https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/",
-    "summary": "A standard optical illusion triggers specific neurons in the visual system of mice.",
-    "isoDate": "2025-10-06T18:45:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Federica Sgorbissa",
-    "tags": [
-      "Science",
-      "Biology",
-      "Neuroscience",
-      "optical illusions",
-      "visual system"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Kanizsa_triangle-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "7b1cd14e6ef172c7136fcea6de9eedcd58709c5c",
     "title": "Level-10 vuln lurking in Redis source code for 13 years could allow remote code execution",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/",
@@ -918,26 +984,6 @@
     "pinned": false
   },
   {
-    "id": "7e085dda2654d76889ca23bfeac2079946c73db4",
-    "title": "Trump’s EPA sued for axing $7 billion solar energy program",
-    "link": "https://arstechnica.com/tech-policy/2025/10/trumps-epa-sued-for-clawing-back-7b-in-solar-energy-funds/",
-    "summary": "\"Solar for All\" was designed to drop energy bills by $350 million, lawsuit says.",
-    "isoDate": "2025-10-06T17:28:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "clean energy",
-      "Donald Trump",
-      "Environmental Protection Agency",
-      "EPA",
-      "Solar energy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-599836043-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "743bfe85682b1992091e7cd7bc4dac1e80a62b48",
     "title": "OpenAI IP promises ring hollow to Sora losers",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/openai_makes_empty_promises_to/",
@@ -948,26 +994,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1c913ef8f29bca66fe1c3b0ca8bd50fcaf120dc2",
-    "title": "Deloitte will refund Australian government for AI hallucination-filled report",
-    "link": "https://arstechnica.com/ai/2025/10/deloitte-will-refund-australian-government-for-ai-hallucination-filled-report/",
-    "summary": "Consulting firm quietly admitted to GPT-4o use after fake citations were found in August.",
-    "isoDate": "2025-10-06T16:30:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "australia",
-      "ChatGPT",
-      "deloitte",
-      "government",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-758288217-500x500.jpg",
     "pinned": false
   },
   {
@@ -1140,19 +1166,6 @@
     "pinned": false
   },
   {
-    "id": "a0115b922f1dbbfbcfab2e56ddc3915aacba79ad",
-    "title": "Clop crew hits Oracle E-Business Suite users with fresh zero-day",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/clop_oracle_ebs_zeroday/",
-    "summary": "<h4>Big Red rushes out patch for 9.8-rated flaw after crooks exploit it for data theft and extortion</h4> <p>Oracle rushed out an emergency fix over the weekend for a zero-day vulnerability in its E-Business Suite (EBS) that criminal crew Clop has already abused for data theft and extortion.…</p>",
-    "isoDate": "2025-10-06T09:40:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "8c1da97225b805e6f7c3f681a2bbdc258558a380",
     "title": "Nibiru and Planet Nine – have scientists found the home of the Annunaki?",
     "link": "https://www.skeptic.org.uk/2025/10/nibiru-and-planet-nine-have-scientists-found-the-home-of-the-annunaki/",
@@ -1164,19 +1177,6 @@
     "tags": [
       "Ancient Aliens"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b24703549c26805f300eeec3c08ee5817c20c278",
-    "title": "Leak suggests US government is fibbing over FEMA security failings",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/infosec_in_brief/",
-    "summary": "<h4>Plus, PAN under attack, IT whistleblowers get a payout, and China kills online scammers</h4> <p><strong>Infosec in brief</strong>  On August 29, the US Federal Emergency Management Agency fired its CISO, CIO, and 22 other staff for incompetence but insisted it wasn't in response to an online attack. New material suggests FEMA's claim may be false.…</p>",
-    "isoDate": "2025-10-06T08:55:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Iain Thomson",
-    "tags": [],
     "image": "",
     "pinned": false
   },
