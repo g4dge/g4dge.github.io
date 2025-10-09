@@ -1,5 +1,90 @@
 [
   {
+    "id": "ea86bb17ef43cfccf9a22d63e24c940e962b3ff0",
+    "title": "Windows 11 gets a fresh Start in latest Canary build",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/windows_11_canary_build/",
+    "summary": "<h4>Meanwhile, Microsoft resurrects Edit and kills .NET 3.5 SP1 on demand</h4> <p>It's taken a while, but Microsoft has finally made its redesigned Start menu available to Canary Channel Windows Insiders, while also removing .NET Framework 3.5 SP1 as a Feature On Demand, and adding Edit, the command-line text editor.…</p>",
+    "isoDate": "2025-10-09T14:15:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8f4d386ce23db860ba4657d7c181dea82ae8e687",
+    "title": "We’re about to find many more interstellar interlopers—here’s how to visit one",
+    "link": "https://arstechnica.com/features/2025/10/were-about-to-find-many-more-interstellar-interlopers-heres-how-to-visit-one/",
+    "summary": "\"You don't have to claim that they're aliens to make these exciting.\"",
+    "isoDate": "2025-10-09T14:14:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Features",
+      "Science",
+      "Space",
+      "alan stern",
+      "comet",
+      "comet interceptor",
+      "european space agency",
+      "interstellar object",
+      "juno",
+      "NASA",
+      "swri"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/STScI-01K1X6XDR76ZD4FYJ9VTWN1ERB-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3476d4d75252f8d5c8da89d611833e5dde71ab12",
+    "title": "How Easter Island’s giant statues “walked” to their final platforms",
+    "link": "https://arstechnica.com/science/2025/10/how-easter-islands-giant-statues-walked-to-their-final-platforms/",
+    "summary": "Workers with ropes could make the moai \"walk\" in zig-zag motion along roads tailor-made for the purpose.",
+    "isoDate": "2025-10-09T14:00:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "anthropology",
+      "Archaeology",
+      "easter island",
+      "experimental archaeology",
+      "Physics",
+      "rapa nui"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/easter5-500x500-1759926981.jpg",
+    "pinned": false
+  },
+  {
+    "id": "84a8cf158c83e5f37e91be9a3b3b75640ddb69df",
+    "title": "Kubernetes kicks down Azure Front Door",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/kubernetes_azure_outage/",
+    "summary": "<h4>This time outage was not actually Microsoft's fault</h4> <p>If you struggled to access the Azure Portal or Microsoft Entra this morning, you weren't alone – Microsoft has blamed a Kubernetes crash for the outage.…</p>",
+    "isoDate": "2025-10-09T13:46:38Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "50448b0da3c8d547d0edf8e990e9e13055881fb5",
+    "title": "Clearview AI sees red as UK tribunal sides with regulator over $10M GDPR fine",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/ico_clearview_ai_tribunal/",
+    "summary": "<h4>Court says ICO can chase US outfit for unlawfully hoovering up Brits' selfies</h4> <p>The UK General Regulatory Chamber's Upper Tribunal (UT) has ruled in favor of the Information Commissioner's Office (ICO), which appealed against a 2023 decision that it could not fine Clearview AI over GDPR violations.…</p>",
+    "isoDate": "2025-10-09T13:42:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "bc6c1d7c11de67ad374e3fe86022d65938a892f3",
     "title": "SonicWall breach hits every cloud backup customer after 5% claim goes up in smoke",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/sonicwall_breach_hits_every_cloud/",
@@ -69,7 +154,7 @@
     "id": "f48bc1766c8ad0c2a46c3e4a875e2a36a6f387d7",
     "title": "Panther Lake sets stage for Intel's 2 nm comeback, but many details still TBD",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/intel_panther_lake/",
-    "summary": "<h4>Notebook chip promises 8 to16 cores and up to 180 TOPS of total AI performance when it hits shelves in January</h4> <p>Intel has begun clawing back production from TSMC with the introduction of its Panther Lake processors, the company's first chip based on its long-awaited 18A process tech.…</p>",
+    "summary": "<h4>Notebook chip promises 8 to 16 cores and up to 180 TOPS of total AI performance when it hits shelves in January</h4> <p>Intel has begun clawing back production from TSMC with the introduction of its Panther Lake processors, the company's first chip based on its long-awaited 18A process tech.…</p>",
     "isoDate": "2025-10-09T13:00:12Z",
     "source": "The Register",
     "category": "Tech",
@@ -754,27 +839,6 @@
     "pinned": false
   },
   {
-    "id": "f3b0645a6be404f9e7a31e4b3feacc25d10944b3",
-    "title": "Floating electrons on a sea of helium",
-    "link": "https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/",
-    "summary": "Yes, it's another potential qubit. But it's also some very cool physics.",
-    "isoDate": "2025-10-08T11:08:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "electrons",
-      "liquid helium",
-      "Physics",
-      "quantum computing",
-      "quantum mechanics",
-      "qubits"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1397148346-500x500-1759878419.jpg",
-    "pinned": false
-  },
-  {
     "id": "2a274bc4af4e29f5f69b603688d01808003aa5f0",
     "title": "Telecoms wholesaler ICUK restores services after two-day DDoS pelting",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/telecoms_wholesaler_icuk_restores_services/",
@@ -852,24 +916,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "21942cb13ec07a65c7ba283d87fdfbfb388c1544",
-    "title": "Tesla’s standard-range Model 3, Model Y join the lineup",
-    "link": "https://arstechnica.com/cars/2025/10/teslas-new-cut-price-evs-a-39990-model-y-and-36990-model-3/",
-    "summary": "A smaller battery and less standard equipment cuts prices, but not by enough.",
-    "isoDate": "2025-10-07T22:22:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Tesla",
-      "tesla model 3",
-      "Tesla Model Y"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ModelYStandard_84-500x500.jpg",
     "pinned": false
   },
   {
@@ -1148,45 +1194,6 @@
     "pinned": false
   },
   {
-    "id": "b35c7c22928d2b9cdef5d970968aa16f73cdece0",
-    "title": "Google DeepMind minds the patch with AI flaw-fixing scheme",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/google_deepmind_patches_holes/",
-    "summary": "<h4>CodeMender has been generating fixes for vulnerabilities in open source projects</h4> <p>Google says its AI-powered security repair tool CodeMender has been helping secure open source projects through automated patch creation, subject to human approval.…</p>",
-    "isoDate": "2025-10-07T07:03:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "eee2329f9b61259846de7f903bcfc861cf81aa61",
-    "title": "Cerebras CEO insists dinner-plate-sized chip startup will still go public",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/cerebras_ipo_rest/",
-    "summary": "<h4>Inference service launched a month before IPO filing turns out to have been a much bigger business than initially thought</h4> <p>Just days after announcing a $1.1 billion Series G funding round, AI chip startup Cerebras Systems pulled its S-1 IPO filing without so much as an explanation. …</p>",
-    "isoDate": "2025-10-06T23:30:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1389ff0b2a6bba5e3d6a32f3d33464fc5eaa1e07",
-    "title": "Microsoft blames Medusa ransomware affiliates for GoAnywhere exploits while Fortra keeps head buried",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/microsoft_blames_medusa_ransomware_affiliates/",
-    "summary": "<h4>You can't find anything bad if you don't look, right?</h4> <p>Medusa ransomware affiliates are among those exploiting a maximum-severity bug in Fortra's GoAnywhere managed file transfer (MFT) product, according to Microsoft Threat Intelligence.…</p>",
-    "isoDate": "2025-10-06T23:13:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "46d4de18706c202651f78f7f8ac8d3de5d9cdeb5",
     "title": "Tesla Named as Key Beneficiary in Proposed US Auto Tariff Relief Plan",
     "link": "https://www.notateslaapp.com/news/3207/tesla-named-as-key-beneficiary-in-proposed-us-auto-tariff-relief-plan",
@@ -1216,7 +1223,7 @@
     "id": "af573071a009e5eb19b07eb2f547430babe9ea22",
     "title": "Bernard Carr: physics of the observer",
     "link": "https://aeon.co/videos/are-observers-fundamental-to-physics-or-simply-byproducts-of-it?utm_source=rss-feed",
-    "summary": "<p><img alt=\"A man speaking in a warmly lit pub with vintage decor in the background.\" src=\"https://images.aeonmedia.co/images/ae316c8b-ce8c-49c2-9cef-9f2a4e72740a/screenshot-_2764.png?width=1200&amp;quality=75&amp;format=auto\" /></p><p>What role, if any, does the observer play in fundamental physics? A cosmologist lays out the leading theories in the field</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/are-observers-fundamental-to-physics-or-simply-byproducts-of-it?utm_source=rss-feed\">Watch on Aeon</a></p>",
+    "summary": "<p><img alt=\"Photo of an older man in a checked shirt and brown jacket speaking, bar with framed photos in the background.\" src=\"https://images.aeonmedia.co/images/e03c7a96-72cc-42a4-ba92-539fb2ec68a9/bernard-carr-physics-of-the-observer-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>What role, if any, does the observer play in fundamental physics? A cosmologist lays out the leading theories in the field</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/are-observers-fundamental-to-physics-or-simply-byproducts-of-it?utm_source=rss-feed\">Watch on Aeon</a></p>",
     "isoDate": "2025-10-06T10:01:00Z",
     "source": "Aeon",
     "category": "Long Reads",
