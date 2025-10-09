@@ -1,5 +1,31 @@
 [
   {
+    "id": "a0416f2582f1ec6bc46faa2b24b38f128a8b5cca",
+    "title": "GitHub Copilot Chat turns blabbermouth with crafty prompt injection attack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/github_copilot_chat_vulnerability/",
+    "summary": "<h4>AI assistant could be duped into leaking code and tokens via sneaky markdown</h4> <p>GitHub's Copilot Chat, the chatbot meant to help developers code faster, could be helping attackers to steal code instead.…</p>",
+    "isoDate": "2025-10-09T17:15:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "bc860f64d77c5c27d2d84776ea5306644eaa8fb0",
+    "title": "Discord says 70,000 photo IDs compromised in customer service breach",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/discord_photo_ids_leaked/",
+    "summary": "<h4>No word on why the outsourced supplier was storing this data in the first place</h4> <p>Communication platform provider Discord has admitted that around 70,000 users had their government IDs stolen as part of its recent data breach.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-09T16:59:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9a0fdf2be98d8aab05aeae16c6a20b4626eb8604",
     "title": "US PC shipments hit the buffers as Trump’s tariffs take their toll",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/us_pc_shipments_flat_trump_tarriffs/",
@@ -1129,32 +1155,6 @@
     "pinned": false
   },
   {
-    "id": "08e69b07848ee449f03bdddea09eeb2c7bc1e43e",
-    "title": "Qualcomm solders Arduino to its edge AI ambitions, debuts Raspberry Pi rival",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/qualcomm_arduino_acquisition/",
-    "summary": "<h4>Cali chip giant insists single-board computer house will remain independent</h4> <p>Qualcomm has acquired Arduino, maker of microcontrollers (and now single-board computers), in a move designed to boost its presence in edge computing, as evidenced by a new Arduino product based on one of its Dragonwing chips.…</p>",
-    "isoDate": "2025-10-07T13:35:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "148eaf8ba98f6c3113a21935cca383f16a656407",
-    "title": "How your mouse could eavesdrop on you and rat you out",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/mouse_microphone_security/",
-    "summary": "<h4>Mic-E-Mouse can roar by literally vibe hacking speech</h4> <p>The mouse sitting next to you can be turned into a microphone thanks to some cunning use of its sensors to pick up vibrations from your voice in an attack dubbed Mic-E-Mouse.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-07T13:03:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Iain Thomson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "e2aeb350be4668f2b5fbd44000ecf9aecb74d930",
     "title": "Tesla Update 2025.32.8.5 (FSD Supervised V14.1) Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.32.8.5/release-notes",
@@ -1356,19 +1356,6 @@
       "Society"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4dcb53b2647100af015dfd384d82647ececef430",
-    "title": "Tesla Adds Vehicle-to-Load (V2L) Support to Model Y Performance",
-    "link": "https://www.notateslaapp.com/news/3193/tesla-adds-vehicle-to-load-v2l-support-to-model-y-performance",
-    "summary": "The new Tesla Model Y Performance is the first S3XY vehicle to get Vehicle-to-Load (V2L), a feature trickled from the Cybertruck, allowing it to power devices.&hellip; <a href=\"https://www.notateslaapp.com/news/3193/tesla-adds-vehicle-to-load-v2l-support-to-model-y-performance\">Read More</a>",
-    "isoDate": "2025-10-02T17:09:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/myp-v2l.webp/292d8ce0d52dad773c5fc0112e625046/myp-v2l.jpg",
     "pinned": false
   }
 ]
