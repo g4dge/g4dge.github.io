@@ -1,5 +1,57 @@
 [
   {
+    "id": "7fcf71cb4395512e02714e38ddc971fc03a98bc5",
+    "title": "Discord says hackers stole government IDs of 70,000 users",
+    "link": "https://arstechnica.com/security/2025/10/discord-says-hackers-stole-government-ids-of-70000-users/",
+    "summary": "As more sites require IDs for user age verification, expect more such breaches to come.",
+    "isoDate": "2025-10-09T18:24:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "age verification",
+      "discord",
+      "id",
+      "privacy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0899c9e44a26c1090703bb139affb1c6e07e416b",
+    "title": "Rubik’s Cube gets a $299 update, complete with IPS screens and its own apps",
+    "link": "https://arstechnica.com/culture/2025/10/rubiks-cube-reimagined-as-a-multi-game-multi-screened-gadget-for-299/",
+    "summary": "The Rubik's WOWCube is a 2×2 cube with modern twists.",
+    "isoDate": "2025-10-09T18:10:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Culture",
+      "Gaming",
+      "puzzles",
+      "Rubik's Cube",
+      "Toys"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_5476-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ab0bb6b598d82eee0011fff29e2da6f66914d453",
+    "title": "Space Shuttle war of words takes off as senator blasts 'woke Smithsonian'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/cornyn_smithsonian_shuttle_comments/",
+    "summary": "<h4>Houston, we have a custody battle</h4> <p><strong>Exclusive</strong>  The war of words over the possible relocation of Space Shuttle Discovery has ratcheted up, with the office of Senator John Cornyn (R-TX) telling <em>The Register</em> that the orbiter belongs in Houston \"whether the woke Smithsonian and its cronies in Congress like it or not.\"…</p>",
+    "isoDate": "2025-10-09T18:00:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "a0416f2582f1ec6bc46faa2b24b38f128a8b5cca",
     "title": "GitHub Copilot Chat turns blabbermouth with crafty prompt injection attack",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/github_copilot_chat_vulnerability/",
@@ -797,24 +849,6 @@
     "pinned": false
   },
   {
-    "id": "49b21bb47c345445fd94344a356bece0e2143e59",
-    "title": "Actually, we are going to tell you the odds of recovering New Glenn’s second launch",
-    "link": "https://arstechnica.com/space/2025/10/the-second-new-glenn-rolls-to-the-launch-pad-and-they-expect-to-recover-this-one/",
-    "summary": "To be financially sustainable, New Glenn must be reused often.",
-    "isoDate": "2025-10-08T15:35:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "blue origin",
-      "new glenn",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/NG-2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2bddb574867f6fee0c6bec78d7af5fc86164fa6f",
     "title": "Exchange Online will start archiving your oldest emails before your inbox bursts",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/microsoft_archiving_move/",
@@ -1124,32 +1158,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bb658a51ad3c77850f01a52a304ce78d070addd8",
-    "title": "JetBrains backs open AI coding standard that could gnaw at VS Code dominance",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/jetbrains_acp_vs_code/",
-    "summary": "<h4>Google and Zed have already adopted ACP – will Microsoft now follow?</h4> <p>JetBrains has joined Google and Zed Industries in adopting the fledgling Agent Client Protocol (ACP), a standard for how AI agents interact with code editors and integrated development environments (IDEs).…</p>",
-    "isoDate": "2025-10-07T14:58:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "acbfae53a3875493ab14d4ab091606e905db3a9d",
-    "title": "Clop raid on Oracle E-Business Suite started months ago, researchers warn",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/clop_oracle_ebs/",
-    "summary": "<h4>Strap in, admins. Exploits began in August and now the code is out there</h4> <p>Security boffins say the Clop cybercriminal gang has been rummaging through Oracle's E-Business Suite (EBS) for months – and now the exploit code's out there for anyone to grab.…</p>",
-    "isoDate": "2025-10-07T14:10:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
