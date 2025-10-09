@@ -1,5 +1,48 @@
 [
   {
+    "id": "a97c97d30355ab130b4df13f7f6235178b17f38e",
+    "title": "Everything we know about Ferrari’s first electric vehicle",
+    "link": "https://arstechnica.com/cars/2025/10/everything-we-know-about-ferraris-first-electric-vehicle/",
+    "summary": "Four motors, 800 V, more than 1,000 horsepower, and it's all made in-house.",
+    "isoDate": "2025-10-09T08:30:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "ferrari",
+      "Ferrari Elettrica"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/H5A9253-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d43505bacc686129648e0d3ca346a49a0b473a33",
+    "title": "McKinsey wonders how to sell AI apps with no measurable benefits",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/mckinsey_ai_monetization/",
+    "summary": "<h4>Consultant says software vendors risk hiking prices without cutting costs or boosting productivity</h4> <p>Software vendors keen to monetize AI should tread cautiously, since they risk inflating costs for their customers without delivering any promised benefits such as reducing employee head count.…</p>",
+    "isoDate": "2025-10-09T08:28:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "eeacdeaefe7dc31082809351ef6a549ef914399b",
+    "title": "Hobble your AI agents to prevent them from hurting you too badly",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/zenity_ai_agent_security_summit_recap/",
+    "summary": "<h4>That's the main takeaway from the Zenity AI Agent Security Summit</h4> <p>Michael Bargury, CTO of AI security company Zenity, welcomed attendees to the company's AI Agent Security Summit on Wednesday with an unexpected admission.…</p>",
+    "isoDate": "2025-10-09T07:27:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9e427b814151c88166286afcd78e313465b0561b",
     "title": "One NASA science mission saved from Trump’s cuts, but others still in limbo",
     "link": "https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/",
@@ -727,24 +770,6 @@
     "pinned": false
   },
   {
-    "id": "6dfaadf8d7651e328a2a655272af1213d605d427",
-    "title": "Ted Cruz doesn’t seem to understand Wikipedia, lawyer for Wikimedia says",
-    "link": "https://arstechnica.com/tech-policy/2025/10/wikipedia-rebuts-ted-cruz-attack-says-cruz-just-doesnt-understand-the-site/",
-    "summary": "Wikipedia host's lawyer wants to help Ted Cruz understand how the platform works.",
-    "isoDate": "2025-10-07T20:43:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "ted cruz",
-      "Wikimedia Foundation",
-      "wikipedia"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ted-cruz-with-phone-500x500-1759867733.jpg",
-    "pinned": false
-  },
-  {
     "id": "4cd4fa7f961c1077efe3c0888af35d1177e1ef02",
     "title": "China is building a thriving semi industry off US leftovers, export controls be damned",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/china_chip_gear/",
@@ -1132,32 +1157,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fd3a1332a50af4cf2b3638ac58171d2660c799e7",
-    "title": "Lowercase leaving you cold? Introducing Retrocide",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/retrocide/",
-    "summary": "<h4>Dropping descenders to achieve a perfect baseline</h4> <p>Nostalgia fans rejoice – a new monospaced display font has made its debut, and this time every glyph shares the same baseline height with no descenders to interfere with the character flow.…</p>",
-    "isoDate": "2025-10-06T16:02:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0a218f78eac5ffe0d96dab75238db2ebcee5afca",
-    "title": "Deloitte refunds Aussie gov after AI fabrications slip into $440K welfare report",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/deloitte_ai_report_australia/",
-    "summary": "<h4>Big Four consultancy billed Canberra top dollar, only for investigators to find bits written by a chatbot</h4> <p>Deloitte has agreed to refund part of an Australian government contract after admitting it used generative AI to produce a report riddled with fake citations, phantom footnotes, and even a made-up quote from a Federal Court judgment.…</p>",
-    "isoDate": "2025-10-06T15:55:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
