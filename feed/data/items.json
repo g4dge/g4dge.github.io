@@ -1,5 +1,84 @@
 [
   {
+    "id": "bc6c1d7c11de67ad374e3fe86022d65938a892f3",
+    "title": "SonicWall breach hits every cloud backup customer after 5% claim goes up in smoke",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/sonicwall_breach_hits_every_cloud/",
+    "summary": "<h4>Affects users regardless of when their backups were created</h4> <p>SonicWall has admitted that all customers who used its cloud backup service to store firewall configuration files were affected by a cybersecurity incident first disclosed in mid-September, walking back earlier assurances that only a small fraction of users were impacted.…</p>",
+    "isoDate": "2025-10-09T13:30:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7f3f4b11fd6b2e6e7c55f7b0968c062cb35d1ca0",
+    "title": "Tax credits for electric cars are no more. What’s next for the US EV industry?",
+    "link": "https://arstechnica.com/cars/2025/10/tax-credits-for-electric-cars-are-no-more-whats-next-for-the-us-ev-industry/",
+    "summary": "Dozens of new models are in the pipeline.",
+    "isoDate": "2025-10-09T13:18:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Gearino, Inside Climate News",
+    "tags": [
+      "Cars",
+      "bevs",
+      "EV",
+      "EV tax credit",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/2023-Rivian-R1S-2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a9c1aec12a9468acb7cdc3acff1d11e2d7e2527a",
+    "title": "Intel's open source future in question as exec says he's done carrying the competition",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/intel_open_source_commitment/",
+    "summary": "<h4>Kevork Kechichian says x86 giant's contributions should benefit Intel first</h4> <p>Over the years, Intel has established itself as a paragon of the open source community, but that could soon change under the x86 giant's new leadership.  …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-09T13:05:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "02fcb34dbdced0ef219b85f215c4de5ec9381523",
+    "title": "Intel’s next-generation Panther Lake laptop chips could be a return to form",
+    "link": "https://arstechnica.com/gadgets/2025/10/intels-next-generation-panther-lake-laptop-chips-could-be-a-return-to-form/",
+    "summary": "New laptop CPUs replace confusing bifurcated Lunar Lake and Arrow Lake lineups.",
+    "isoDate": "2025-10-09T13:00:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "AMD",
+      "core ultra",
+      "CPUs",
+      "Intel",
+      "intel core ultra",
+      "panther lake"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Client-Strategic-Overview-13-2-500x500-1759990587.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "f48bc1766c8ad0c2a46c3e4a875e2a36a6f387d7",
+    "title": "Panther Lake sets stage for Intel's 2 nm comeback, but many details still TBD",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/intel_panther_lake/",
+    "summary": "<h4>Notebook chip promises 8 to16 cores and up to 180 TOPS of total AI performance when it hits shelves in January</h4> <p>Intel has begun clawing back production from TSMC with the introduction of its Panther Lake processors, the company's first chip based on its long-awaited 18A process tech.…</p>",
+    "isoDate": "2025-10-09T13:00:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5f7e9290452d226f1f8f307d7476ac29f45c7a64",
     "title": "SoftBank snaps up ABB's robotics biz for $5.4B to fuel 'physical AI' dreams",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/softbank_snaps_up_abbs_robotics/",
@@ -807,47 +886,6 @@
     "pinned": false
   },
   {
-    "id": "b137b38c288a238c261e9341d9453ed99200d7ee",
-    "title": "Despite RFK Jr.’s shenanigans, COVID shot access will be a lot like last year",
-    "link": "https://arstechnica.com/health/2025/10/after-rfk-jr-s-shenanigans-covid-shot-access-will-be-a-lot-like-last-year/",
-    "summary": "Most people can get vaccinated at their local pharmacy like normal.",
-    "isoDate": "2025-10-07T21:24:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "ACIP",
-      "CDC",
-      "COVID-19 vaccines",
-      "cvs",
-      "vaccines",
-      "Walgreens"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2168151364-scaled-500x500-1738683916.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cc4df488ffeff9288f924123cd8aa066a819d05f",
-    "title": "2025 Nobel Prize in Physics awarded for macroscale quantum tunneling",
-    "link": "https://arstechnica.com/science/2025/10/2025-nobel-prize-in-physics-awarded-for-macroscale-quantum-tunneling/",
-    "summary": "John Clarke, Michel H. Devoret, and John Martinis built an electrical circuit-based oscillator on a microchip.",
-    "isoDate": "2025-10-07T21:05:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "Nobel Prize in Physics",
-      "nobel prizes",
-      "Physics",
-      "Quantum tunneling",
-      "quantum weirdness"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/nobel1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4cd4fa7f961c1077efe3c0888af35d1177e1ef02",
     "title": "China is building a thriving semi industry off US leftovers, export controls be damned",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/china_chip_gear/",
@@ -1144,45 +1182,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1599ca23e8ff639fbd5ac1b4da8747570832dd0d",
-    "title": "Amazon turns James Bond into the Man Without the Golden Gun",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/amazon_007_without_golden_gun/",
-    "summary": "<h4>Prime Video bowdlerized Bond just in time for 007's special day</h4> <p>In more than 60 years of adventures, James Bond has faced off against villains ranging from Blofeld to Le Chiffre. But none of them has managed to do what Jeff Bezos and his henchmen did to the international superspy: take his weapons away.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-06T22:47:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Avram Piltch",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "db9934f25794618fd9e9ffdafa7f02c8187e3b3c",
-    "title": "Senate report says AI will take 97M US jobs in the next 10 years, but those numbers come from ChatGPT",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/ai_job_losses_us_senate_report/",
-    "summary": "<h4>Bernie Sanders calls for a robot tax and a 32-hour work week in response</h4> <p><strong>ai-pocalypse</strong>  A US Senate committee led by Bernie Sanders (I-VT) has produced a report claiming that about 97 million US jobs could be lost to AI and automation over the next decade. There's just one problem: it got those figures from ChatGPT.…</p>",
-    "isoDate": "2025-10-06T22:27:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Iain Thomson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a121334e11355dd629c5be0d03ee5459b074372a",
-    "title": "Starlink is burning up one or two satellites a day in Earth’s atmosphere",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/starlink_vaporizes_satellites_daily/",
-    "summary": "<h4>Kessler syndrome is bad; atmospheric incineration may be worse, says astrophysicist Jonathan McDowell</h4> <p>If you had to guess how many Starlink satellites burn up in Earth's atmosphere on an average day, how many would you pick? This isn't a trick question - SpaceX is deorbiting about one or two satellites daily, and that number is only going to grow. …</p>",
-    "isoDate": "2025-10-06T21:43:42Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
