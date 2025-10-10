@@ -1,5 +1,82 @@
 [
   {
+    "id": "74e15ceba0977661e0c3f177a8a62b1f77bb4876",
+    "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
+    "link": "https://arstechnica.com/security/2025/10/payroll-pirate-phishing-scam-that-takes-over-workday-accounts-steals-paychecks/",
+    "summary": "Among other things, the scammers bypass multi-factor authentication.",
+    "isoDate": "2025-10-10T18:07:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "mfa",
+      "multi factor authentication",
+      "phishing"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/phishing-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "2e9e94248d7bdc352a00dd654276de7c1db1cc6a",
+    "title": "Ransomware crims that exploited SharePoint 0-days add Velociraptor to their arsenal",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/ransomware_velociraptor/",
+    "summary": "<h4>And they’re likely still abusing the same SharePoint flaws for initial access</h4> <p>The ransomware gang caught exploiting Microsoft SharePoint zero-days over the summer has added a new tool to its arsenal: Velociraptor, an open-source digital forensics and incident response app not previously tied to ransomware incidents.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-10T17:58:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "39a54bf7b155e81221cfaf42c8cf8b9d263db56c",
+    "title": "Termite farmers fine-tune their weed control",
+    "link": "https://arstechnica.com/science/2025/10/termite-farmers-fine-tune-their-weed-control/",
+    "summary": "The termites know how much of their agricultural area has been taken over by weeds.",
+    "isoDate": "2025-10-10T17:45:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "agriculture",
+      "Biology",
+      "entomology",
+      "termites"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-90066564-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b2c34973f4e39103254b1ed06bab7f8dbd988088",
+    "title": "Tesla Update 2025.38.3 - Official Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2025.38.3/release-notes",
+    "summary": "Tesla software update 2025.38.3 includes Tron Mode, 3D Buildings, Dashcam Viewer Updates, Side Cameras Recording, New Scroll Wheel Functions, Grok (Beta), Onboarding Guide, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.38.3/release-notes\">View Release Notes</a>",
+    "isoDate": "2025-10-10T17:45:06Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.38.3/2025.38.3-tron-mode.png",
+    "pinned": false
+  },
+  {
+    "id": "8cb2a4bac80b9ab02014f5d3220c2c199b1627e5",
+    "title": "Kyndryl sued for firing non-white workers, disabled vet",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/kyndryl_sued_for_firing_nonwhite/",
+    "summary": "<h4>Security team cuts allegedly targeted workers based on race, national origin, age, and whistleblowing</h4> <p>Five former members of Kyndryl's internal IT security team have sued the IBM spinoff alleging that they were terminated as part of a campaign targeting employees based on their race, national origin, age, disability, and whistleblowing activities.…</p>",
+    "isoDate": "2025-10-10T17:30:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "a2630437ae6e92b6db6dcd4c3ef352a47e2a41ef",
     "title": "Tesla App Update (4.49.6) Adds Support for Standard Models, Builds Visualizations Dynamically",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.49.6/release-notes",
@@ -819,27 +896,6 @@
     "pinned": false
   },
   {
-    "id": "3476d4d75252f8d5c8da89d611833e5dde71ab12",
-    "title": "How Easter Island’s giant statues “walked” to their final platforms",
-    "link": "https://arstechnica.com/science/2025/10/how-easter-islands-giant-statues-walked-to-their-final-platforms/",
-    "summary": "Workers with ropes could make the moai \"walk\" in zig-zag motion along roads tailor-made for the purpose.",
-    "isoDate": "2025-10-09T14:00:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "anthropology",
-      "Archaeology",
-      "easter island",
-      "experimental archaeology",
-      "Physics",
-      "rapa nui"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/easter5-500x500-1759926981.jpg",
-    "pinned": false
-  },
-  {
     "id": "84a8cf158c83e5f37e91be9a3b3b75640ddb69df",
     "title": "Kubernetes kicks down Azure Front Door",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/kubernetes_azure_outage/",
@@ -876,25 +932,6 @@
     "author": "Carly Page",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7f3f4b11fd6b2e6e7c55f7b0968c062cb35d1ca0",
-    "title": "Tax credits for electric cars are no more. What’s next for the US EV industry?",
-    "link": "https://arstechnica.com/cars/2025/10/tax-credits-for-electric-cars-are-no-more-whats-next-for-the-us-ev-industry/",
-    "summary": "Dozens of new models are in the pipeline.",
-    "isoDate": "2025-10-09T13:18:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Gearino, Inside Climate News",
-    "tags": [
-      "Cars",
-      "bevs",
-      "EV",
-      "EV tax credit",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/2023-Rivian-R1S-2-500x500.jpg",
     "pinned": false
   },
   {
@@ -1158,32 +1195,6 @@
     "pinned": false
   },
   {
-    "id": "0d5c1e4cc6d92bbb48cabe4a79bb5d745e2d7d6c",
-    "title": "IBM's big iron to get Spyre AI accelerator upgrade this month",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/ibm_z17_spyre_accelerator/",
-    "summary": "<h4>Giving the mainframe customers what they want</h4> <p>IBM's Spyre Accelerator is set to be generally available later this month, delivering a boost to the AI capabilities of its enterprise-grade hardware including the z17 mainframe, LinuxONE 5, and Power11 systems.…</p>",
-    "isoDate": "2025-10-08T16:09:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2bddb574867f6fee0c6bec78d7af5fc86164fa6f",
-    "title": "Exchange Online will start archiving your oldest emails before your inbox bursts",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/microsoft_archiving_move/",
-    "summary": "<h4>Microsoft promises fewer 'mailbox full' errors in face of message deluge</h4> <p>Microsoft's latest attempt to make the dreaded \"mailbox full\" response a thing of the past is rolling out in October and November. Threshold-based auto-archiving is coming to Exchange Online.…</p>",
-    "isoDate": "2025-10-08T15:30:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "f804e4060ddeef89213348786dec62cd4d4c91ec",
     "title": "Tesla Launches Standard Model 3 and Model Y: Comparison of Features",
     "link": "https://www.notateslaapp.com/news/3211/tesla-launches-standard-model-3-and-model-y-comparison-of-features",
@@ -1382,19 +1393,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2024.2/2024.2-improved-driving-visualization.png",
-    "pinned": false
-  },
-  {
-    "id": "a1400612fce477cf4df93ba9da284196fc22260b",
-    "title": "Tesla App Update 4.49.5 Hints at Improved Dashcam Streaming, Unreal Engine and Vehicle Sharing",
-    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.49.5/release-notes",
-    "summary": "Tesla app update 4.49.5 includes Unreal Engine Autopilot Visualization, Improved Dashcam Streaming, App Maintenance Now Uses Vehicle Records, Vehicle Sharing, More Virtual Queue Changes, Robotaxi Updates. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.49.5/release-notes\">View Release Notes</a>",
-    "isoDate": "2025-10-03T17:37:23Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/unreal-vis.webp/1cd167a45787c07bee48d56473a81f2c/unreal-vis.jpg",
     "pinned": false
   }
 ]
