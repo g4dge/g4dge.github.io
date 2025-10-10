@@ -1,5 +1,72 @@
 [
   {
+    "id": "a2630437ae6e92b6db6dcd4c3ef352a47e2a41ef",
+    "title": "Tesla App Update (4.49.6) Adds Support for Standard Models, Builds Visualizations Dynamically",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.49.6/release-notes",
+    "summary": "Tesla app update 4.49.6 includes Support for Standard Models, Dynamic Vehicle Models, Different Types of Front Bumper Cameras. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.49.6/release-notes\">View Release Notes</a>",
+    "isoDate": "2025-10-10T17:15:30Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-49-6/tesla-app-model-3-standard.webp/750742af881931e86e671c80a4b5e402/tesla-app-model-3-standard.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e352b6c62956be31c9fdce0d53816dd680fb2e8c",
+    "title": "UK regulators plan to force Google changes under new competition law",
+    "link": "https://arstechnica.com/google/2025/10/uk-antitrust-regulator-takes-aim-at-googles-search-dominance/",
+    "summary": "The CMA will focus on regulating search and search advertising, but not Gemini (for now).",
+    "isoDate": "2025-10-10T16:58:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "antitrust",
+      "google",
+      "search",
+      "United Kindgom"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4868612d21845c04f44c34ae918facb861cca7c4",
+    "title": "AMD and Sony’s PS6 chipset aims to rethink the current graphics pipeline",
+    "link": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/",
+    "summary": "Project Amethyst focuses on efficient machine learning, new compression techniques.",
+    "isoDate": "2025-10-10T16:45:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "AMD",
+      "chipset",
+      "GPU",
+      "pipeline",
+      "raytracing",
+      "Sony"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/amethyst-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c8c1f7e0027295b7eaa4b05a8b9d2fec8ccdffc4",
+    "title": "Senate says Nvidia chips are for America first as China tightens import controls",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/nvidia_chips_us_china/",
+    "summary": "<h4>Xi to the left of me, Trump is to the right; Huang I am, stuck in the middle with GPUs</h4> <p>The US Senate has passed a provision that would give US firms first dibs on advanced chips, just as China tightens customs checks on Nvidia GPUs, leaving the company caught between competing policies across the Pacific.…</p>",
+    "isoDate": "2025-10-10T16:28:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "886f88dd2df184e8eca6da45ee94f3baa30ae9af",
     "title": "Zero-day in file-sharing software leads to RCE, and attacks are ongoing",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/zeroday_in_filesharing_software_leads/",
@@ -844,27 +911,6 @@
     "pinned": false
   },
   {
-    "id": "02fcb34dbdced0ef219b85f215c4de5ec9381523",
-    "title": "Intel’s next-generation Panther Lake laptop chips could be a return to form",
-    "link": "https://arstechnica.com/gadgets/2025/10/intels-next-generation-panther-lake-laptop-chips-could-be-a-return-to-form/",
-    "summary": "New laptop CPUs replace confusing bifurcated Lunar Lake and Arrow Lake lineups.",
-    "isoDate": "2025-10-09T13:00:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "AMD",
-      "core ultra",
-      "CPUs",
-      "Intel",
-      "intel core ultra",
-      "panther lake"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Client-Strategic-Overview-13-2-500x500-1759990587.jpeg",
-    "pinned": false
-  },
-  {
     "id": "f48bc1766c8ad0c2a46c3e4a875e2a36a6f387d7",
     "title": "Panther Lake sets stage for Intel's 2 nm comeback, but many details still TBD",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/intel_panther_lake/",
@@ -894,7 +940,7 @@
     "id": "9981faba132a75d7e555cee153c5f92095896db5",
     "title": "Tesla Update 2025.38 Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.38/release-notes",
-    "summary": "Tesla software update 2025.38 includes 3D Buildings, Dashcam Viewer Updates, Grok (Beta), New Scroll Wheel Functions, Onboarding Guide, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.38/release-notes\">View Release Notes</a>",
+    "summary": "Tesla software update 2025.38 includes 3D Buildings, Dashcam Viewer Updates, Side Cameras Recording, New Scroll Wheel Functions, Grok (Beta), Onboarding Guide, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.38/release-notes\">View Release Notes</a>",
     "isoDate": "2025-10-09T11:56:33Z",
     "source": "Not a Tesla App",
     "category": "Tech",
@@ -953,23 +999,6 @@
     "author": "Violeta Ruiz",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a97c97d30355ab130b4df13f7f6235178b17f38e",
-    "title": "Everything we know about Ferrari’s first electric vehicle",
-    "link": "https://arstechnica.com/cars/2025/10/everything-we-know-about-ferraris-first-electric-vehicle/",
-    "summary": "Four motors, 800 V, more than 1,000 horsepower, and it's all made in-house.",
-    "isoDate": "2025-10-09T08:30:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "ferrari",
-      "Ferrari Elettrica"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/H5A9253-500x500.jpg",
     "pinned": false
   },
   {
@@ -1165,19 +1194,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/standard/modelystandard_99.jpg/bbae4e718ab3bf9bb86b76a2e48a22cd/modelystandard_99.jpg",
-    "pinned": false
-  },
-  {
-    "id": "519d21a878d9907d66c156e4b2ce6517e8824a4a",
-    "title": "IBM invites CockroachDB to infest its mainframes with PostgreSQL",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/08/ibm_cockroachdb_mainframe_postgres/",
-    "summary": "<h4>Vendors promote bridge to modern architecture for legacy systems, but Db2 not going anywhere just yet</h4> <p>IBM has signed an OEM agreement with Cockroach Labs – maker of the distributed PostgreSQL-like cloud RDBMS CockroachDB – in a bid to help modernize mission-critical applications reliant on mainframe hardware.…</p>",
-    "isoDate": "2025-10-08T13:48:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
