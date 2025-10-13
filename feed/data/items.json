@@ -1,5 +1,64 @@
 [
   {
+    "id": "23f6a7961e9b75007891ed8a3d102fcb7f29f769",
+    "title": "Bose kills SoundTouch: Smart speakers go dumb in Feb",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/bose_reminds_users_that_nothing/",
+    "summary": "<h4>Cloud support to be ditched on older hardware, customers left with pricey paperweights</h4> <p>Audio equipment biz Bose is discontinuing cloud support for its SoundTouch product line, effectively reducing the premium devices to basic speakers with limited functionality.…</p>",
+    "isoDate": "2025-10-13T17:18:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "675edfe1424a96f64ce4ecefc17bded901f2ea93",
+    "title": "Apple TV+ streaming service is renamed to just “Apple TV”",
+    "link": "https://arstechnica.com/apple/2025/10/apple-tv-streaming-service-is-renamed-to-just-apple-tv/",
+    "summary": "Apple unifies its remaining streaming offerings by dropping the \"+\".",
+    "isoDate": "2025-10-13T17:16:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Apple",
+      "Tech",
+      "apple",
+      "Apple TV",
+      "Apple TV Plus",
+      "streaming"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/sever2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e94ea21e6a058da4e001c5fd26d28eca95942da6",
+    "title": "Vodafone keels over, cutting off millions of mobile and broadband customers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/vodafone_outage/",
+    "summary": "<h4>Outage knocks out phones, broadband – even telco's own status page</h4> <p>Vodafone fell over in the UK this afternoon, with <i>Register</i> readers reporting that many services including mobile coverage, internet services, and even the company's own status page went down.…</p>",
+    "isoDate": "2025-10-13T16:49:36Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2662fc71ef9bb2891d12c9621a775bc734eb3db0",
+    "title": "Broadcom cozies up to OpenAI for 10 GW custom chip love-in",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/openai_broadcom_deal/",
+    "summary": "<h4>Every human deserves their own accelerator, says ChatGPT creator</h4> <p>Broadcom has cuddled up with OpenAI as the ChatGPT outfit looks for ever more help building out the vast infrastructure it needs to deliver on its dreams of advanced intelligence – and possibly even a profit some day.…</p>",
+    "isoDate": "2025-10-13T16:29:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3411cf0719ede8373c3b785c79bf0458ff57b433",
     "title": "Scattered Lapsus$ Hunters rage-quit the internet (again), promise to return next year",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/scattered_lapsus_hunters_hiatus/",
@@ -810,27 +869,6 @@
     "pinned": false
   },
   {
-    "id": "4868612d21845c04f44c34ae918facb861cca7c4",
-    "title": "AMD and Sony’s PS6 chipset aims to rethink the current graphics pipeline",
-    "link": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/",
-    "summary": "Project Amethyst focuses on efficient machine learning, new compression techniques.",
-    "isoDate": "2025-10-10T16:45:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "AMD",
-      "chipset",
-      "GPU",
-      "pipeline",
-      "raytracing",
-      "Sony"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/amethyst-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c8c1f7e0027295b7eaa4b05a8b9d2fec8ccdffc4",
     "title": "Senate says Nvidia chips are for America first as China tightens import controls",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/nvidia_chips_us_china/",
@@ -1156,45 +1194,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a0416f2582f1ec6bc46faa2b24b38f128a8b5cca",
-    "title": "GitHub Copilot Chat turns blabbermouth with crafty prompt injection attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/github_copilot_chat_vulnerability/",
-    "summary": "<h4>AI assistant could be duped into leaking code and tokens via sneaky markdown</h4> <p>GitHub's Copilot Chat, the chatbot meant to help developers code faster, could be helping attackers to steal code instead.…</p>",
-    "isoDate": "2025-10-09T17:15:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bc860f64d77c5c27d2d84776ea5306644eaa8fb0",
-    "title": "Discord says 70,000 photo IDs compromised in customer service breach",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/discord_photo_ids_leaked/",
-    "summary": "<h4>No word on why the outsourced supplier was storing this data in the first place</h4> <p>Communication platform provider Discord has admitted that around 70,000 users had their government IDs stolen as part of its recent data breach.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-09T16:59:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9a0fdf2be98d8aab05aeae16c6a20b4626eb8604",
-    "title": "US PC shipments hit the buffers as Trump’s tariffs take their toll",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/us_pc_shipments_flat_trump_tarriffs/",
-    "summary": "<h4>Rest of the world surges on Windows 10 end-of-life upgrades</h4> <p><strong>WORLD WAR FEE</strong>  The global PC market is ticking upward as Windows 10's end-of-life nears, except in North America, where tariff shocks and economic jitters have slowed demand.…</p>",
-    "isoDate": "2025-10-09T16:31:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
