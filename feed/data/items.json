@@ -1,5 +1,48 @@
 [
   {
+    "id": "0c074d971b7a2b9ba7682366cb46334e93640793",
+    "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
+    "link": "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/",
+    "summary": "Jeep has pulled the update; owners are advised to ignore it if it already downloaded.",
+    "isoDate": "2025-10-13T14:10:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Jeep Wrangler 4xe",
+      "ota software update"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2024Wrangler4xe-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9a3b9c104d1a2952abf1cc3c1fc6035ebeee51d2",
+    "title": "Android 'Pixnapping' attack can capture app data like 2FA codes",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/android_pixnapping_attack_captures_2fa_codes/",
+    "summary": "<h4>GPU-based timing attack inspired by decade-old iframe technique</h4> <p>Security researchers have resurrected a 12-year-old data-stealing attack on web browsers to pilfer sensitive info from Android devices.…</p>",
+    "isoDate": "2025-10-13T14:00:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ebc38bba8be4ec9a68224589f4ba7fbfde8d158d",
+    "title": "Microsoft 'illegally' tracked students via 365 Education, says data watchdog",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/microsoft_365_education_gdpr/",
+    "summary": "<h4>Redmond argued schools, education authorities are responsible for GDPR</h4> <p>An Austrian digital privacy group has claimed victory over Microsoft after the country's data protection regulator ruled the software giant \"illegally\" tracked students via its 365 Education platform and used their data.…</p>",
+    "isoDate": "2025-10-13T13:38:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Paul Kunert",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "76c6d01d6f53037b26471ac936428ea936569290",
     "title": "SpaceX limbers up for Starship flight 11 as launch pad faces retirement",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/spacex_starship_flight_11/",
@@ -954,26 +997,6 @@
     "pinned": false
   },
   {
-    "id": "708d4afe107e487a8053d80f9f3ea90db810b1df",
-    "title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting",
-    "link": "https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/",
-    "summary": "The committee aims to take on the entire childhood vaccine schedule.",
-    "isoDate": "2025-10-09T22:17:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "ACIP",
-      "anti-vaccine",
-      "CDC",
-      "rfk jr",
-      "vaccines"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3f480e9452277cf331d9ffbe6d0c73470f97c8df",
     "title": "First Look at Tesla's New 3D Buildings and Maps in Update 2025.38 [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3222/first-look-at-teslas-new-3d-buildings-and-maps-in-update-202538-video",
@@ -1143,32 +1166,6 @@
     "pinned": false
   },
   {
-    "id": "9eb317ef44685922c6d8eb0cbc1000c42ffe96f4",
-    "title": "China moves to extend control over tech industry's critical rare earths",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/china_moves_to_extend_control/",
-    "summary": "<h4>New laws restrict goods that are manufactured outside of China</h4> <p>China is hitting back at US export restrictions with some of its own, tightening its control on so-called rare earth minerals and introducing laws that require companies to get licenses before they can ship goods containing rare earths, even those made outside of the country.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-09T15:01:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ea86bb17ef43cfccf9a22d63e24c940e962b3ff0",
-    "title": "Windows 11 gets a fresh Start in latest Canary build",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/windows_11_canary_build/",
-    "summary": "<h4>Meanwhile, Microsoft resurrects Edit and kills .NET 3.5 SP1 on demand</h4> <p>It's taken a while, but Microsoft has finally made its redesigned Start menu available to Canary Channel Windows Insiders, while also removing .NET Framework 3.5 SP1 as a Feature On Demand, and adding Edit, the command-line text editor.…</p>",
-    "isoDate": "2025-10-09T14:15:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "9981faba132a75d7e555cee153c5f92095896db5",
     "title": "Tesla Update 2025.38 Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.38/release-notes",
@@ -1326,19 +1323,6 @@
     "author": "Guilherme Klein Martins",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "46d4de18706c202651f78f7f8ac8d3de5d9cdeb5",
-    "title": "Tesla Named as Key Beneficiary in Proposed US Auto Tariff Relief Plan",
-    "link": "https://www.notateslaapp.com/news/3207/tesla-named-as-key-beneficiary-in-proposed-us-auto-tariff-relief-plan",
-    "summary": "Tesla was named a beneficiary of a proposed tariff relief plan that would reward automakers with high US production content, potentially boosting margins.&hellip; <a href=\"https://www.notateslaapp.com/news/3207/tesla-named-as-key-beneficiary-in-proposed-us-auto-tariff-relief-plan\">Read More</a>",
-    "isoDate": "2025-10-06T14:03:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_62.jpg/015acc6002be2e07e527f507cf366bb0/group_62.jpg",
     "pinned": false
   }
 ]
