@@ -1,5 +1,83 @@
 [
   {
+    "id": "3411cf0719ede8373c3b785c79bf0458ff57b433",
+    "title": "Scattered Lapsus$ Hunters rage-quit the internet (again), promise to return next year",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/scattered_lapsus_hunters_hiatus/",
+    "summary": "<h4>'We will never stop,' say crooks, despite retiring twice in the space of a month</h4> <p>The Scattered Lapsus$ Hunters (SLSH) cybercrime collective - compriseed primarily of teenagers and twenty-somethings - announced it will go dark until 2026 following the FBI's seizure of its clearweb site.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-13T16:17:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3df31bb3be51216def6a695b5f72d78add2ce1ab",
+    "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
+    "link": "https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/",
+    "summary": "New design sets a high standard for post-quantum readiness.",
+    "isoDate": "2025-10-13T16:15:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Features",
+      "Security",
+      "diffie-hellman elliptic curve",
+      "ML-KEM",
+      "Module-Lattice-Based Key-Encapsulation Mechanism",
+      "post-quantum encryption",
+      "signal messenger"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "34842ff13840143e7a702af975f6af8fd28e5069",
+    "title": "4chan fined $26K for refusing to assess risks under UK Online Safety Act",
+    "link": "https://arstechnica.com/tech-policy/2025/10/4chan-fined-26k-for-refusing-to-assess-risks-under-uk-online-safety-act/",
+    "summary": "4chan fine may test if US will intervene to block UK’s Online Safety Act.",
+    "isoDate": "2025-10-13T15:49:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "4chan",
+      "censorship",
+      "FCC",
+      "First Amendment",
+      "free speech",
+      "Kiwi Farms",
+      "Ofcom",
+      "online safety act",
+      "united kingdom"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1814351886-500x500-1760368754.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cfc661fc5f801ff7b3f4b5d40ae771141c6c43d4",
+    "title": "Hans Koenigsmann, who investigated all of SpaceX’s rocket failures, is going to space",
+    "link": "https://arstechnica.com/space/2025/10/one-of-spacexs-earliest-employees-is-going-to-space-via-blue-origin/",
+    "summary": "\"I've always been interested to experience Max Q from the inside.\"",
+    "isoDate": "2025-10-13T15:33:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "blue origin",
+      "hans koengismann",
+      "new shepard",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-621034912-500x500-1760304707.jpg",
+    "pinned": false
+  },
+  {
     "id": "8629f12d9c995f02864a97d45a98e97f4f7575a1",
     "title": "Bun 1.3 stuffs everything and kitchen sink into JS runtime",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/bun_13_full_of_features/",
@@ -805,22 +883,6 @@
     "pinned": false
   },
   {
-    "id": "cb808b9d97d182f94d869a70ece4511849d00c23",
-    "title": "OpenAI will stop saving most ChatGPT users’ deleted chats",
-    "link": "https://arstechnica.com/tech-policy/2025/10/openai-no-longer-forced-to-save-deleted-chats-but-some-users-still-affected/",
-    "summary": "Court ends controversial order forcing OpenAI to save deleted ChatGPT logs.",
-    "isoDate": "2025-10-10T14:58:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1386719483-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c439a01b2e5ad09cd74b7ad60d8fb95bf488bb8f",
     "title": "Pro-Russia hacktivist group dies of cringe after falling into researchers' trap",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/russia_hacktivists_honeytrap/",
@@ -831,41 +893,6 @@
     "author": "Connor Jones",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1b1136a45f6228ced548e60c12beafa62f7a4d6c",
-    "title": "Boring Company cited for almost 800 environmental violations in Las Vegas",
-    "link": "https://arstechnica.com/tech-policy/2025/10/boring-company-cited-for-almost-800-environmental-violations-in-las-vegas/",
-    "summary": "Violations include digging without permits and dumping wastewater into storm drains.",
-    "isoDate": "2025-10-10T14:10:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Anjeanette Damon, ProPublica, and Dayvid Figler, City Cast Las Vegas",
-    "tags": [
-      "Policy",
-      "boring company",
-      "Elon Musk",
-      "syndication",
-      "Tesla"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1311708478-2-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2ce0ae9d896e6ec1ad00306f3a1ed1d71797f0d3",
-    "title": "It’s back! The 2027 Chevy Bolt gets an all-new LFP battery, but what else?",
-    "link": "https://arstechnica.com/cars/2025/10/its-back-the-2027-chevy-bolt-gets-an-all-new-lfp-battery-but-what-else/",
-    "summary": "255 miles of range, new infotainment, but where did all the torque go?",
-    "isoDate": "2025-10-10T14:00:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Chevrolet Bolt"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Chevrolet-Bolt-2027-Pack-500x500.jpg",
     "pinned": false
   },
   {
@@ -1168,19 +1195,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9fa167a926867ec3847b79a4102a9acae27e6c4e",
-    "title": "Gartner warns agentic AI startups: Prepare to be consolidated",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/gartner_agentic_ai_correction/",
-    "summary": "<h4>Analyst predicts over-supply will trigger a market correction in favor of deep-pocketed incumbents</h4> <p>Gartner has signaled that the supply of \"agentic AI\" in terms of models, platforms, and products far outstrips demand, creating a situation that will lead to consolidation and market correction.…</p>",
-    "isoDate": "2025-10-09T15:33:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
