@@ -1,5 +1,95 @@
 [
   {
+    "id": "8629f12d9c995f02864a97d45a98e97f4f7575a1",
+    "title": "Bun 1.3 stuffs everything and kitchen sink into JS runtime",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/bun_13_full_of_features/",
+    "summary": "<h4>All-in-one toolkit or over-ambitious feature creep? You decide</h4> <p>Version 1.3 of the Bun JavaScript runtime and toolkit has landed, pushing forward the project's goal to consolidate fragmented JavaScript toolchains into a single solution. Yet the rapid expansion has some developers questioning whether Bun is trying to do too much, too fast.…</p>",
+    "isoDate": "2025-10-13T15:17:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7508038bcd3c13bc0b9c94de86cd11cfc768244d",
+    "title": "Layoffs, a “coding error,” chaos: Trump admin ravages the health dept.",
+    "link": "https://arstechnica.com/health/2025/10/mass-firings-at-us-health-dept-partially-reversed-but-still-devastating/",
+    "summary": "Reports suggest the hardest hit is the CDC, which is already struggling to function.",
+    "isoDate": "2025-10-13T15:14:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "CDC",
+      "health department",
+      "HHS",
+      "layoffs",
+      "robert f kennedy jr",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2228551722-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "85ffdd2c055d7dcba790973651c265b9cfcecec3",
+    "title": "Tesla Releases FSD V14.1.1 to Address Tester Feedback",
+    "link": "https://www.notateslaapp.com/news/3232/tesla-releases-fsd-v1411-to-address-tester-feedback",
+    "summary": "Tesla has released FSD V14.1.1 to early testers, a quick bug-fix update aimed at addressing the  smoothness issues reported in the initial V14.1 build.&hellip; <a href=\"https://www.notateslaapp.com/news/3232/tesla-releases-fsd-v1411-to-address-tester-feedback\">Read More</a>",
+    "isoDate": "2025-10-13T15:10:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_52.jpg/25dc7dbde319434d0d2d61903c265f5c/group_52.jpg",
+    "pinned": false
+  },
+  {
+    "id": "667c2ac71ab35796ddbc6f9afef90720e1745c46",
+    "title": "Keep losing your key fob? Ford’s new “Truckle” is the answer.",
+    "link": "https://arstechnica.com/cars/2025/10/keep-losing-your-key-fob-fords-new-truckle-is-the-answer/",
+    "summary": "Keep your pants up and your F-150 unlocked at the same time.",
+    "isoDate": "2025-10-13T14:57:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Ford",
+      "Truckle"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Truckle_7-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "eae036ea4fef26a58803faede877f9b9303e9bcb",
+    "title": "Benioff retreats from idea of sending troops in to clean up San Francisco",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/marc_benioffs_new_dream_force/",
+    "summary": "<h4>Salesforce CEO praises Trump before walking back criticism of city's policing</h4> <p>San Francisco’s political establishment rounded on Marc Benioff over the weekend after the Salesforce founder backed the idea of sending in the National Guard to clean up the city’s streets.…</p>",
+    "isoDate": "2025-10-13T14:36:36Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a7c5a5dd948f8fe7bd0dffb02f5266d234aa32ec",
+    "title": "Tesla Introduces New 'Marine Blue' Color; How It Compares to Tesla's Other Blue Options",
+    "link": "https://www.notateslaapp.com/news/3229/tesla-introduces-new-marine-blue-color-how-it-compares-to-teslas-other-blue-options",
+    "summary": "Tesla introduces a new rich and deep Marine Blue for the Model Y Premium and Performance in Europe.&hellip; <a href=\"https://www.notateslaapp.com/news/3229/tesla-introduces-new-marine-blue-color-how-it-compares-to-teslas-other-blue-options\">Read More</a>",
+    "isoDate": "2025-10-13T14:36:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/marine_blue_2.jpg/6a2c786cebca75b5a4279216ce12f7e5/marine_blue_2.jpg",
+    "pinned": false
+  },
+  {
     "id": "0c074d971b7a2b9ba7682366cb46334e93640793",
     "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
     "link": "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/",
@@ -37,7 +127,7 @@
     "isoDate": "2025-10-13T13:38:03Z",
     "source": "The Register",
     "category": "Tech",
-    "author": "Paul Kunert",
+    "author": "Joe Fay",
     "tags": [],
     "image": "",
     "pinned": false
@@ -831,31 +921,6 @@
     "pinned": false
   },
   {
-    "id": "bd8acdbc248bb1c954447443fdd4ce70bb4adedd",
-    "title": "Rocket Report: Bezos’ firm will package satellites for launch; Starship on deck",
-    "link": "https://arstechnica.com/space/2025/10/rocket-report-bezos-firm-will-package-satellites-for-launch-starship-on-deck/",
-    "summary": "The long, winding road for Franklin Chang-Diaz's plasma rocket engine takes another turn.",
-    "isoDate": "2025-10-10T12:39:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "blue origin",
-      "falcon 9",
-      "Gilmour space",
-      "NASA",
-      "new glenn",
-      "rocket report",
-      "spacex",
-      "stoke space",
-      "united launch alliance"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ng-2-roll-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "77c9cdb2f3cd12a167a264dd56a687ff35cdcb83",
     "title": "UK slaps 'strategic market status' on Google, unlocking power to pry open search",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/cma_google_strategic_status/",
@@ -879,25 +944,6 @@
     "author": "Lindsay Clark",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "171f55d20e5b95cca1900624d74b74a990e6cf42",
-    "title": "“Like putting on glasses for the first time”—how AI improves earthquake detection",
-    "link": "https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/",
-    "summary": "AI is “comically good” at detecting small earthquakes—here’s why that matters.",
-    "isoDate": "2025-10-10T11:00:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kai Williams",
-    "tags": [
-      "AI",
-      "Features",
-      "Science",
-      "earthquakes",
-      "seismology"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/earthquake-detection-500x500.jpg",
     "pinned": false
   },
   {
@@ -1135,32 +1181,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7746545f5f8652ff8a11a63aea15f41a673d5e1e",
-    "title": "Humans flunk the Turing test for voices as bots get chattier",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/voice_clone_detection_study/",
-    "summary": "<h4>Coin toss odds for spotting a deepfake, study finds. And that's before the machines learn to sing</h4> <p>Think you can distinguish between a human voice and a robot? Think again, because the numbers are starting to say otherwise. …</p>",
-    "isoDate": "2025-10-09T15:15:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Owen Hughes",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7ba27b7082e4702cf5577b26892380aba3d51bfa",
-    "title": "Meta will move React to Linux Foundation to address vendor dominance fears",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/09/meta_react_foundation/",
-    "summary": "<h4>Independent technical governance will hope to unite fractured ecosystem</h4> <p>Meta will contribute React, React Native, and JSX (JavaScript XML) to a new React Foundation, part of the Linux Foundation, and said that \"it is important that no single company or organization is overrepresented.\"…</p>",
-    "isoDate": "2025-10-09T15:05:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
     "tags": [],
     "image": "",
     "pinned": false
