@@ -1,5 +1,89 @@
 [
   {
+    "id": "3ab87bf77ab3b843e9967f8a938d71a182b6b11b",
+    "title": "Microsoft seeding Washington schools with free AI to get kids and teachers hooked",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/microsoft_ai_schools/",
+    "summary": "<h4>To the slop trough, kiddos!</h4> <p>Not content to shove Copilot into every corner of the enterprise it can think of, Microsoft has announced plans to force feed AI to students across its home state of Washington. …</p>",
+    "isoDate": "2025-10-14T17:08:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "38a402747372ad35c6c64961542527ac206626ae",
+    "title": "OpenAI unveils “wellness” council; suicide prevention expert not included",
+    "link": "https://arstechnica.com/tech-policy/2025/10/openai-unveils-wellness-council-suicide-prevention-expert-not-included/",
+    "summary": "OpenAI reveals which experts are steering ChatGPT mental health upgrades.",
+    "isoDate": "2025-10-14T17:00:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI therapy",
+      "ChatGPT",
+      "child safety",
+      "openai",
+      "suicide prevention"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2207496721-500x500-1760454212.jpg",
+    "pinned": false
+  },
+  {
+    "id": "43053d84fa994fa6f7127c41877a5dd49b114f75",
+    "title": "Nvidia sells tiny new computer that puts big AI on your desktop",
+    "link": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/",
+    "summary": "The 1 petaflop DGX Spark system runs AI models with 200 billion parameters locally for $4K.",
+    "isoDate": "2025-10-14T16:58:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Tech",
+      "Acer",
+      "AI chips",
+      "AI development tools",
+      "AI GPU",
+      "AI infrastructure",
+      "ai supercomputer",
+      "ASUS",
+      "desktop computing",
+      "DGX Spark",
+      "Elon Musk",
+      "google",
+      "Grace Blackwell",
+      "HP",
+      "Jensen Huang",
+      "machine learning",
+      "msi",
+      "NVIDIA",
+      "openai",
+      "Project DIGITS",
+      "spacex"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/dgx_spark-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "270873ddae868dedcba9e9fe08c2fd79f4295027",
+    "title": "Chinese gang used ArcGIS as a backdoor for a year – and no one noticed",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/chinese_hackers_arcgis_backdoor/",
+    "summary": "<h4>Crims turned trusted mapping software into a hideout - no traditional malware required</h4> <p>A Chinese state-backed cybergang known as Flax Typhoon spent more than a year burrowing inside an ArcGIS server, quietly turning the trusted mapping software into a covert backdoor.…</p>",
+    "isoDate": "2025-10-14T16:48:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "70125f0d844abe0be17243a910b187f1b2130d98",
     "title": "GM’s EV push will cost it $1.6 billion in Q3 with end of the tax credit",
     "link": "https://arstechnica.com/cars/2025/10/gms-ev-push-will-cost-it-1-6-billion-in-q3-with-end-of-the-tax-credit/",
@@ -303,7 +387,6 @@
     "category": "Tech",
     "author": "Stephen Clark",
     "tags": [
-      "Science",
       "Space",
       "launch",
       "NASA",
@@ -1016,43 +1099,6 @@
     "pinned": false
   },
   {
-    "id": "874d95b83085f096f9b915d203486863a26db431",
-    "title": "Apple ups the reward for finding major exploits to $2 million",
-    "link": "https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/",
-    "summary": "With bonuses, maximum rewards can be as high as $5 million.",
-    "isoDate": "2025-10-11T11:15:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Lily Hay Newman, wired.com",
-    "tags": [
-      "Apple",
-      "Security",
-      "apple",
-      "bug bounty",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2014/09/apple-logo-500x500.png",
-    "pinned": false
-  },
-  {
-    "id": "c7b6b9880236a66c765344674f0517763e3857a3",
-    "title": "How close are we to solid state batteries for electric vehicles?",
-    "link": "https://arstechnica.com/cars/2025/10/how-close-are-we-to-solid-state-batteries-for-electric-vehicles/",
-    "summary": "Superionic materials promise greater range, faster charges and more safety.",
-    "isoDate": "2025-10-11T10:30:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "M. Mitchell Waldrop, Knowable Magazine",
-    "tags": [
-      "Cars",
-      "EVs",
-      "solid state batteries",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/solid-state-batteries-1600x600-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6dcc8ef6a3e629e2e09fa8d39d091416886e7520",
     "title": "Weird ideas welcome: VC fund looking to make science fiction factual",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/11/deep_future_fund/",
@@ -1178,32 +1224,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "886f88dd2df184e8eca6da45ee94f3baa30ae9af",
-    "title": "Zero-day in file-sharing software leads to RCE, and attacks are ongoing",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/zeroday_in_filesharing_software_leads/",
-    "summary": "<h4>Usually we’d say patch up… not this time</h4> <p>Security research firm Huntress is warning all users of Gladinet's CentreStack and Triofox file-sharing tools to urgently apply an available mitigation, as a zero-day is being actively exploited and there's no patch available.…</p>",
-    "isoDate": "2025-10-10T15:56:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "11657eeb6250f0043684de4ef17dd8760ea480ce",
-    "title": "Microsoft lets bosses spot teams that are dodging Copilot",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/microsoft_copilot_viva_insights/",
-    "summary": "<h4>Viva Insights turns AI guzzling into a leaderboard</h4> <p>Microsoft is adding Copilot adoption benchmarks to Viva Insights, a tool that lets managers monitor teams to spot those that are gulping down the AI Kool-Aid fastest.…</p>",
-    "isoDate": "2025-10-10T15:30:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1395,19 +1415,6 @@
       "Cancer"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "63ac62516a098f29e6284233995f6fca3f7abb6d",
-    "title": "The New Features in Tesla FSD V14.1: Sloth Mode, Parking at Destination & UI Improvements",
-    "link": "https://www.notateslaapp.com/news/3209/the-new-features-in-tesla-fsd-v141-sloth-mode-parking-at-destination-ui-improvements",
-    "summary": "We take a look at the major features in Tesla's FSD v14.1, which includes improvements to Autopark, UI improvements and much more.&hellip; <a href=\"https://www.notateslaapp.com/news/3209/the-new-features-in-tesla-fsd-v141-sloth-mode-parking-at-destination-ui-improvements\">Read More</a>",
-    "isoDate": "2025-10-07T17:01:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v14-ui.webp/0527c768d39954fea0ff5eb4fb506ce5/fsd-v14-ui.jpg",
     "pinned": false
   }
 ]
