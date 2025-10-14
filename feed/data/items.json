@@ -1,5 +1,94 @@
 [
   {
+    "id": "70125f0d844abe0be17243a910b187f1b2130d98",
+    "title": "GM’s EV push will cost it $1.6 billion in Q3 with end of the tax credit",
+    "link": "https://arstechnica.com/cars/2025/10/gms-ev-push-will-cost-it-1-6-billion-in-q3-with-end-of-the-tax-credit/",
+    "summary": "With EV demand predicted to plummet, GM has rejiggered its production plans.",
+    "isoDate": "2025-10-14T15:16:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "EV adoption",
+      "General Motors",
+      "IRS clean vehicle tax credit"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2165725341-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "96cc9888bedb0de95ddb005e49b6d873f0f59fb6",
+    "title": "DGX Spark, Nvidia’s tiniest supercomputer, tackles large models at solid speeds",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/dgx_spark_review/",
+    "summary": "<h4>This relatively affordable AI workstation isn’t about going fast; it’s about doing everything well enough</h4> <p><strong>hands on</strong>  Nvidia bills its long-anticipated DGX Spark as the \"world's smallest AI supercomputer,\" and, at $3,000 to $4,000 (depending on config and OEM), you might be expecting the Arm-based mini-PC to outperform its less-expensive siblings.…</p>",
+    "isoDate": "2025-10-14T15:00:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1390522760a3cd9aec2fa4532ea1785e796ef0e6",
+    "title": "Windows 10 support “ends” today, but it’s just the first of many deaths",
+    "link": "https://arstechnica.com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-many-deaths/",
+    "summary": "End users can get an extra year of security updates relatively easily.",
+    "isoDate": "2025-10-14T14:58:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "windows 10",
+      "windows 10 22h2",
+      "windows 11",
+      "windows 11 25h2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/win10-wallpaper-scaled-500x500-1760443589.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4eaceea5ae876dfd66daf3eb2fb65871afbcc983",
+    "title": "Researchers intercept unencrypted satellite traffic from space blabbermouths",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/unencrypted_satellite_comms/",
+    "summary": "<h4>University team picks up voice calls, texts, and corporate data from orbit with off-the-shelf kit</h4> <p>Geostationary satellites are broadcasting large volumes of unencrypted data to Earth, including private voice calls and text messages as well as consumer internet traffic, researchers have discovered.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-14T14:45:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "01cdbe33b8c35a7efda03026cb0a4ba9701c498a",
+    "title": "Tesla to Add 15 New Visualizations to FSD [Photos & Video]",
+    "link": "https://www.notateslaapp.com/news/3234/tesla-to-add-15-new-visualizations-to-fsd-photos-video",
+    "summary": "Tesla is set to introduce 15 new visualizations into FSD. We take a look at all the new models.&hellip; <a href=\"https://www.notateslaapp.com/news/3234/tesla-to-add-15-new-visualizations-to-fsd-photos-video\">Read More</a>",
+    "isoDate": "2025-10-14T14:35:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/new-visualizations.webp/21df874e1758be3b604ca9efc053fed4/new-visualizations.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1db4875a0752df6dff155cc61346e3ce86b527bb",
+    "title": "KuzuDB says so long and thanks for all the commits, marooning community",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/kuzudb_abandoned/",
+    "summary": "<h4>Users left wondering whether to fork it or forget it as another FOSS project bites the dust</h4> <p>The KuzuDB embedded graph database, open source under the MIT license, has been abandoned by its creator and sponsor Kùzu Inc, leaving its community pondering whether to fork or find an alternative.…</p>",
+    "isoDate": "2025-10-14T14:32:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "4a3fbc06412de2f40f1cd3354703afb4969408ed",
     "title": "Asahi breach leaves bitter taste as brewer fears personal data slurped",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/asahi_breach_update/",
@@ -230,7 +319,7 @@
   },
   {
     "id": "6adce4dbe899f0c542375f0b70ef5f43292996fb",
-    "title": "EU biometric border system launches, suffers teeting problems",
+    "title": "EU biometric border system launch hits inevitable teething problems",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/eu_biometric_border_system_launches/",
     "summary": "<h4>Malfunctioning equipment and manual processing cause 90-minute waits</h4> <p>The European Union's new biometric Exit/Entry System (EES) got off to a chaotic start at Prague's international airport, with travelers facing lengthy queues and malfunctioning equipment forcing border staff to process arrivals manually.…</p>",
     "isoDate": "2025-10-14T06:45:11Z",
@@ -1003,45 +1092,6 @@
     "pinned": false
   },
   {
-    "id": "9a2f2a9582dafca2d3ecbd922b1859051d05ccc1",
-    "title": "Trump admin fires more health employees amid government shutdown",
-    "link": "https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/",
-    "summary": "HHS would not say how many are being let go, but union says \"thousands.\"",
-    "isoDate": "2025-10-10T21:48:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "HHS",
-      "lay off",
-      "Russ Vought"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2177324845-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "12b66621ff4ef1e760d2c264389775b897435706",
-    "title": "Putin OKs plan to turn Russian spacecraft into flying billboards",
-    "link": "https://arstechnica.com/space/2025/10/putin-oks-plan-to-turn-russian-spacecraft-into-flying-billboards/",
-    "summary": "This Soyuz mission is brought to you by the Wagner Group.",
-    "isoDate": "2025-10-10T21:10:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "advertising",
-      "launch",
-      "roscosmos",
-      "russia",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/51a-104-049-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "58efa797f8dbebb9eef06c5b9acf93a7204e3d9c",
     "title": "OpenAI GPT-5: great taste, less filling, now with 30% less bias",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/openai_gpt5_bias/",
@@ -1169,45 +1219,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/vis-wall-connector.webp/44871f2d33a4cb5932cc116bd66ab4d0/vis-wall-connector.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c439a01b2e5ad09cd74b7ad60d8fb95bf488bb8f",
-    "title": "Pro-Russia hacktivist group dies of cringe after falling into researchers' trap",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/russia_hacktivists_honeytrap/",
-    "summary": "<h4>Forescout's phony water plant fooled TwoNet into claiming a fake cyber victory – then it quietly shut up shop</h4> <p>Security researchers say they duped pro-Russia cybercriminals into targeting a fake critical infrastructure organization, which the crew later claimed - via their Telegram group - to be a real-world attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-10T14:16:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bf0eab2717bde7565d41e56f4fec39c8f8438f33",
-    "title": "Climate goals go up in smoke as US datacenters turn to coal",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/datacenter_coal_power/",
-    "summary": "<h4>High gas prices and surging AI demand send operators back to the dirtiest fuel in the stack</h4> <p>US datacenters are experiencing a significant shift toward coal-powered energy due to elevated natural gas prices and rapidly growing electricity demand.…</p>",
-    "isoDate": "2025-10-10T13:44:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2daa2baceb314f1173b666bee9a5edd505c8be17",
-    "title": "Microsoft warns of 'payroll pirate' crew looting US university salaries",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/microsoft_payroll_pirate/",
-    "summary": "<h4>Crooks phish campus staff, slip into HR systems, and quietly reroute paychecks</h4> <p>Microsoft's Threat Intelligence team has sounded the alarm over a new financially-motivated cybercrime spree that is raiding US university payroll systems.…</p>",
-    "isoDate": "2025-10-10T13:21:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
