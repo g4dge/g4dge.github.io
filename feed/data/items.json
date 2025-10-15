@@ -1,7 +1,66 @@
 [
   {
+    "id": "f28fa138c6349a99a9884132fa036062def21018",
+    "title": "Cisco: Most companies don't know what they're doing with AI",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/cisco_ai_readiness_index/",
+    "summary": "<h4>Only 13% are AI-ready; the rest are bolting it on and hoping for ROI</h4> <p>Contrary to popular belief, you can't succeed in business (or AI) without really trying. Many orgs are jumping on the AI bandwagon without the infrastructure they need to make it work or track results, Cisco says. Most haven't even defined what they want their AI agents to do.…</p>",
+    "isoDate": "2025-10-15T16:15:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8af260b0bbbbfb3b5888a51ab2d916e85ea41527",
+    "title": "Google’s AI videos get a big upgrade with Veo 3.1",
+    "link": "https://arstechnica.com/google/2025/10/googles-ai-videos-get-a-big-upgrade-with-veo-3-1/",
+    "summary": "Veo 3.1 is coming to the Gemini app and the Flow filmmaking tool.",
+    "isoDate": "2025-10-15T16:00:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "Ai video",
+      "Artificial Intelligence",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Veo-3.1-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "dbfa0900e703b62c0bcbff741cce1d67aaf5fbfa",
+    "title": "'Highly sophisticated' government goons hacked F5, stole source code and undisclosed bug details",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/highly_sophisticated_government_hackers_breached/",
+    "summary": "<h4>And they swiped a limited amount of customers' config data</h4> <p>Security shop F5 today said \"highly sophisticated nation-state\" hackers broke into its network and stole BIG-IP source code, undisclosed vulnerability details, and customer configuration data belonging to a \"small percentage\" of its users.…</p>",
+    "isoDate": "2025-10-15T15:50:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fdf539f1199071bc65867b9173338c7ac66723e6",
+    "title": "Devs are writing VS Code extensions that blab secrets by the bucketload",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/vc_code_extension_leaks/",
+    "summary": "<h4>Vibe coding may have played a role in what took researchers months to fix</h4> <p>Developers of VS Code extensions are leaking sensitive secrets left, right and center, according to researchers who worked with Microsoft to combat an issue that could have led to some nasty supply chain attacks.…</p>",
+    "isoDate": "2025-10-15T15:35:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1800eed557a356edc00cb31c7be0983cbdd40023",
-    "title": "ChatGPT will soon allow erotic chats for verified adults only",
+    "title": "ChatGPT erotica coming soon with age verification, CEO says",
     "link": "https://arstechnica.com/ai/2025/10/chatgpt-will-soon-allow-erotic-chats-for-verified-adults-only/",
     "summary": "Sam Altman claims new tools can detect mental distress while relaxing limits for adults.",
     "isoDate": "2025-10-15T15:14:52Z",
@@ -973,29 +1032,6 @@
     "pinned": false
   },
   {
-    "id": "79c6efa1a1ee05e89d0b4fdf601961a6f3283626",
-    "title": "Google’s Photoshop-killer AI model is coming to search, Photos, and NotebookLM",
-    "link": "https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/",
-    "summary": "After more than 5 billion AI image edits, Nano Banana is expanding.",
-    "isoDate": "2025-10-13T19:52:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "Artificial Intelligence",
-      "generative ai",
-      "google",
-      "google notebookLM",
-      "Google photos",
-      "search"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/BananaLens-2096x1182.width-2200.format-webp-copy-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "245781caa852fe99b8fd34e986928c4f7ab3b683",
     "title": "Microsoft's OneDrive spots your mates, remembers their faces, and won't forget easily",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/",
@@ -1160,32 +1196,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "72317a4410060ea0dbfc69826d93fb1e19dd886c",
-    "title": "End of Windows 10 support is the perfect time for the Windows 11 installer to fail",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/windows_11_media_creation/",
-    "summary": "<h4>Microsoft admits its media creation tool 'might not work as expected'</h4> <p>Microsoft has broken its own Windows 11 media creation tool just as millions of users face a deadline to abandon Windows 10 — and with less than 24 hours until support officially ends.…</p>",
-    "isoDate": "2025-10-13T12:13:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "88758eb36368fe50e2e11f3a157eab90d45efe80",
-    "title": "Fujitsu pumps £280M into UK arm to keep lights on after Horizon scandal",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/fujitsu_uk_280m_funding/",
-    "summary": "<h4>Parent firm's cash keeps division afloat as Post Office inquiry nears final report</h4> <p>Fujitsu's UK business has received £280 million ($374 million) in equity from its Japanese owner in the last two years to meet ongoing funding and capital requirements.…</p>",
-    "isoDate": "2025-10-13T11:32:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
