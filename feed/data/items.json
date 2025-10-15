@@ -1,5 +1,74 @@
 [
   {
+    "id": "ab0094393c1a3ed54d402faf00e189ab3d31b90d",
+    "title": "Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets",
+    "link": "https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/",
+    "summary": "\"We're trying to crawl, then walk, then run into our reuse strategy.\"",
+    "isoDate": "2025-10-15T20:22:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "NASA",
+      "orion",
+      "reuse",
+      "sls rocket",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/jsc2025e016293large-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "76afb5cfe91a62923f09e64f3f6602efbd023815",
+    "title": "Japan tells OpenAI to stop spiriting away its copyrighted anime",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/japan_openai_copyrighted_anime/",
+    "summary": "<h4>Tokyo cries foul over Sora slop abusing 'irreplaceable treasures' of anime, manga - oh, and copyright law</h4> <p>OpenAI’s Sora 2 video generator has gone viral, particularly among users churning out anime that looks suspiciously like Studio Ghibli and other copyrighted works. Alarmed by the threat to one of its prized cultural exports, Japan has reportedly lodged a formal request that the American firm knock it off.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-15T20:15:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "29facfaba81b0529963292044007f8079257b0d0",
+    "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
+    "link": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
+    "summary": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
+    "isoDate": "2025-10-15T20:05:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "big-ip",
+      "breach",
+      "f5"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1202018501-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7918fbe5030d4565e65d3395e7deb57ff07874c5",
+    "title": "CDC tormented: HR workers summoned from furlough to lay off themselves, others",
+    "link": "https://arstechnica.com/health/2025/10/cdc-tormented-hr-workers-summoned-from-furlough-to-lay-off-themselves-others/",
+    "summary": "Traumatized CDC has lost 33% of its workforce this year, union says.",
+    "isoDate": "2025-10-15T19:23:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "CDC",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2228551722-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "551a67826d925a4d0447121320a637f9d5f5dd6f",
     "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
     "link": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
@@ -714,24 +783,6 @@
     "pinned": false
   },
   {
-    "id": "70125f0d844abe0be17243a910b187f1b2130d98",
-    "title": "GM’s EV push will cost it $1.6 billion in Q3 with end of the tax credit",
-    "link": "https://arstechnica.com/cars/2025/10/gms-ev-push-will-cost-it-1-6-billion-in-q3-with-end-of-the-tax-credit/",
-    "summary": "With EV demand predicted to plummet, GM has rejiggered its production plans.",
-    "isoDate": "2025-10-14T15:16:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "EV adoption",
-      "General Motors",
-      "IRS clean vehicle tax credit"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2165725341-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "96cc9888bedb0de95ddb005e49b6d873f0f59fb6",
     "title": "DGX Spark, Nvidia’s tiniest supercomputer, tackles large models at solid speeds",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/dgx_spark_review/",
@@ -742,25 +793,6 @@
     "author": "Tobias Mann",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1390522760a3cd9aec2fa4532ea1785e796ef0e6",
-    "title": "Windows 10 support “ends” today, but it’s just the first of many deaths",
-    "link": "https://arstechnica.com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-many-deaths/",
-    "summary": "End users can get an extra year of security updates relatively easily.",
-    "isoDate": "2025-10-14T14:58:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "windows 10",
-      "windows 10 22h2",
-      "windows 11",
-      "windows 11 25h2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/win10-wallpaper-scaled-500x500-1760443589.jpg",
     "pinned": false
   },
   {
@@ -826,39 +858,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b5431657d3a1354c761182761e713b9bc589ad9b",
-    "title": "OpenAI wants to stop ChatGPT from validating users’ political views",
-    "link": "https://arstechnica.com/ai/2025/10/openai-wants-to-stop-chatgpt-from-validating-users-political-views/",
-    "summary": "New paper reveals reducing \"bias\" means making ChatGPT stop mirroring users' political language.",
-    "isoDate": "2025-10-14T13:51:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI alignment",
-      "AI behavior",
-      "AI bias",
-      "AI criticism",
-      "AI ethics",
-      "AI objectivity",
-      "AI research",
-      "Alignment research",
-      "Anthropic",
-      "ChatGPT",
-      "cultural bias",
-      "generative ai",
-      "large language models",
-      "machine learning",
-      "openai",
-      "political bias",
-      "rlhf"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/political_fracture_1-500x500.jpg",
     "pinned": false
   },
   {
@@ -1185,19 +1184,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "76c6d01d6f53037b26471ac936428ea936569290",
-    "title": "SpaceX limbers up for Starship flight 11 as launch pad faces retirement",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/spacex_starship_flight_11/",
-    "summary": "<h4>Another flawless demonstration or unplanned explosion await</h4> <p><strong>Updated</strong>  SpaceX is counting down to today's 11th flight test of its monster Starship rocket, with weather looking suitable for the opening of the launch window at 18:15 CT (or around 17:00 CT, if the company's billionaire boss is to be believed).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-13T13:31:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
