@@ -1,5 +1,91 @@
 [
   {
+    "id": "d205ab15473879daa457f72521f1d23daafc60d7",
+    "title": "Believing misinformation is a “win” for some people, even when proven false",
+    "link": "https://arstechnica.com/science/2025/10/believing-misinformation-is-a-win-for-some-people-even-when-proven-false/",
+    "summary": "\"Winning\" means prioritizing independence from outside influence over being right.",
+    "isoDate": "2025-10-15T13:37:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andy Stein and Abraham Rutchick, The Conversation",
+    "tags": [
+      "Science",
+      "authoritarianism",
+      "misinformation",
+      "psychology",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/womanmask-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "46e5007bc657bd7eee9dec2d9cecccec001a611b",
+    "title": "With considerably less fanfare, Apple releases a second-generation Vision Pro",
+    "link": "https://arstechnica.com/gadgets/2025/10/with-considerably-less-fanfare-apple-releases-a-second-generation-vision-pro/",
+    "summary": "Reports suggest that Apple has de-prioritized Vision Pro development internally.",
+    "isoDate": "2025-10-15T13:27:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Tech",
+      "apple",
+      "Apple Vision Pro",
+      "vision pro",
+      "visionOS"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-Vision-Pro-hero-251015-1-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "c6bb66632f1f77e3d618ead40c9a1ba4bc97c271",
+    "title": "ASML shrugs off China slump with faith in AI-fueled chip demand",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/asml_q3_2025/",
+    "summary": "<h4>Beijing's self-reliance push and US export limits hit orders</h4> <p>Europe's tech darling ASML has warned Chinese demand for its chipmaking kit will plummet next year, as Beijing doubles down on home-grown alternatives in response to Uncle Sam's export restrictions and trade war shenanigans.…</p>",
+    "isoDate": "2025-10-15T13:22:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "995dfaf3d055ecedf1402a5010b532a430904909",
+    "title": "Raspberry Pi OS, LMDE, Peppermint OS join the Debian 13 club",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/raspberry_pi_os_lmde_debian_13/",
+    "summary": "<h4>Downstream Linux projects line up behind the latest release</h4> <p>A month after Debian 13.1's release, some of the more visible downstream forks, including Raspberry Pi OS, have decided it's time to incorporate the latest version of the main OS into their builds.…</p>",
+    "isoDate": "2025-10-15T13:14:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d29b18d305f82b1e9b76baea6c0de9574a0837ee",
+    "title": "ROG Xbox Ally X: The Ars Technica review",
+    "link": "https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-review/",
+    "summary": "The first portable “Xbox” fails to unify a messy world of competing PC gaming platforms.",
+    "isoDate": "2025-10-15T13:00:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Features",
+      "Gaming",
+      "Handheld Gaming",
+      "microsoft",
+      "ROG Ally",
+      "xbox ally",
+      "xbox rog ally"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/rogpromo-500x500-1760476764.jpg",
+    "pinned": false
+  },
+  {
     "id": "e4ccdc575d6db3a2a191375c0b8db34211aba689",
     "title": "AI startup Augment scraps 'unsustainable' pricing, users say new model is 10x worse",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/augment_pricing_model/",
@@ -239,7 +325,7 @@
     "id": "676163b18c2dc5a85db7eb6e67ab80d706e49bba",
     "title": "Trump admin pressured Facebook into removing ICE-tracking group",
     "link": "https://arstechnica.com/tech-policy/2025/10/trump-admin-pressured-facebook-into-removing-ice-tracking-group/",
-    "summary": "Pam Bondi claims Facebook group was used to “dox and target” ICE agents",
+    "summary": "Pam Bondi claims Facebook group was used to “dox and target” ICE agents.",
     "isoDate": "2025-10-14T20:44:02Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -946,71 +1032,6 @@
     "pinned": false
   },
   {
-    "id": "3df31bb3be51216def6a695b5f72d78add2ce1ab",
-    "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
-    "link": "https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/",
-    "summary": "New design sets a high standard for post-quantum readiness.",
-    "isoDate": "2025-10-13T16:15:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Features",
-      "Security",
-      "diffie-hellman elliptic curve",
-      "ML-KEM",
-      "Module-Lattice-Based Key-Encapsulation Mechanism",
-      "post-quantum encryption",
-      "signal messenger"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "34842ff13840143e7a702af975f6af8fd28e5069",
-    "title": "4chan fined $26K for refusing to assess risks under UK Online Safety Act",
-    "link": "https://arstechnica.com/tech-policy/2025/10/4chan-fined-26k-for-refusing-to-assess-risks-under-uk-online-safety-act/",
-    "summary": "4chan fine may test if US will intervene to block UK’s Online Safety Act.",
-    "isoDate": "2025-10-13T15:49:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "4chan",
-      "censorship",
-      "FCC",
-      "First Amendment",
-      "free speech",
-      "Kiwi Farms",
-      "Ofcom",
-      "online safety act",
-      "united kingdom"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1814351886-500x500-1760368754.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cfc661fc5f801ff7b3f4b5d40ae771141c6c43d4",
-    "title": "Hans Koenigsmann, who investigated all of SpaceX’s rocket failures, is going to space",
-    "link": "https://arstechnica.com/space/2025/10/one-of-spacexs-earliest-employees-is-going-to-space-via-blue-origin/",
-    "summary": "\"I've always been interested to experience Max Q from the inside.\"",
-    "isoDate": "2025-10-13T15:33:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "blue origin",
-      "hans koengismann",
-      "new shepard",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-621034912-500x500-1760304707.jpg",
-    "pinned": false
-  },
-  {
     "id": "8629f12d9c995f02864a97d45a98e97f4f7575a1",
     "title": "Bun 1.3 stuffs everything and kitchen sink into JS runtime",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/bun_13_full_of_features/",
@@ -1154,19 +1175,6 @@
     "pinned": false
   },
   {
-    "id": "af723c4bda1f2ec94d60a41170ee9d2694912521",
-    "title": "Dutch government puts Nexperia on a short leash over chip security fears",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/nexperia_special_measures/",
-    "summary": "<h4>Minister invokes powers to stop firm shifting knowledge to China, citing governance shortcomings</h4> <p>The Dutch government has placed Nexperia - a Chinese-owned semiconductor company that previously operated Britain's Newport Wafer Fab — under special administrative measures, citing serious governance failures that threaten European tech security.…</p>",
-    "isoDate": "2025-10-13T11:01:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "8431c33dc6d48b38828970a4d8d04a144d78dba0",
     "title": "Holes in the web",
     "link": "https://aeon.co/essays/generative-ai-has-access-to-a-small-slice-of-human-knowledge?utm_source=rss-feed",
@@ -1175,19 +1183,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Deepak Varuvel Dennison",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "269e08233d66cbba60247be25e43e2f2c554e304",
-    "title": "We're all going to be paying AI's Godzilla-sized power bills",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/ai_power_bills/",
-    "summary": "<h4>Even if you never use it, you'll be paying for it thanks to datacenters' never-ending hunger for electricity</h4> <p><strong>Opinion</strong>  When I was a wet-behind-the-ears developer running my programs on an IBM 360, a mainframe that was slower than a Raspberry Pi Zero W, my machine used about 50 kilowatts (kW). I thought that was a lot of power. Little did I know what was coming.…</p>",
-    "isoDate": "2025-10-13T09:45:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Steven J. Vaughan-Nichols",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1419,19 +1414,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/standard/modelystandard_99.jpg/bbae4e718ab3bf9bb86b76a2e48a22cd/modelystandard_99.jpg",
-    "pinned": false
-  },
-  {
-    "id": "883f01abb86d5cbefc986d2a5bb342d73324bcd1",
-    "title": "Musk Updates Tesla's FSD V14 Roadmap, Sets Timelines for V14.2 and V14.3",
-    "link": "https://www.notateslaapp.com/news/3212/musk-updates-teslas-fsd-v14-roadmap-sets-timelines-for-v142-and-v143",
-    "summary": "With FSD V14.1 rolling out, Elon Musk has revealed a multi-stage roadmap for V14.2 and a sentient V14.3, both expected in the coming weeks pending safety tests.&hellip; <a href=\"https://www.notateslaapp.com/news/3212/musk-updates-teslas-fsd-v14-roadmap-sets-timelines-for-v142-and-v143\">Read More</a>",
-    "isoDate": "2025-10-08T13:18:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-x/model-x_82-fsd.jpg/086d50867bcbb31069b3fdcdd185632e/model-x_82-fsd.jpg",
     "pinned": false
   }
 ]
