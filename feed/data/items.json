@@ -1,7 +1,41 @@
 [
   {
+    "id": "551a67826d925a4d0447121320a637f9d5f5dd6f",
+    "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
+    "link": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
+    "summary": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
+    "isoDate": "2025-10-15T18:53:00Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "AI alignment",
+      "AI benchmarks",
+      "AI coding",
+      "AI development tools",
+      "AI models",
+      "AI programming",
+      "AI safety",
+      "Amazon Bedrock",
+      "Anthropic",
+      "API",
+      "Claude Haiku",
+      "Claude Sonnet",
+      "code agents",
+      "GitHub",
+      "google cloud",
+      "large language models",
+      "machine learning",
+      "Vertex AI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/haiku45_hero-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "18fbe70215d79268dd122cb29c991a3f00dff27f",
-    "title": "California says landlords can’t make tenants pay for an ISP they don’t want",
+    "title": "ISPs angry about California law that lets renters opt out of forced payments",
     "link": "https://arstechnica.com/tech-policy/2025/10/california-says-landlords-cant-make-tenants-pay-for-an-isp-they-dont-want/",
     "summary": "Gov. Newsom signs broadband billing law hated by the cable industry.",
     "isoDate": "2025-10-15T18:26:20Z",
@@ -974,29 +1008,6 @@
     "pinned": false
   },
   {
-    "id": "df9270f40e306d8bda7b8c00d0b82b0868ed94d1",
-    "title": "SpaceX finally got exactly what it needed from Starship V2",
-    "link": "https://arstechnica.com/space/2025/10/after-year-of-hardships-spacexs-starship-finally-flirts-with-perfection/",
-    "summary": "This was the last flight of SpaceX's second-gen Starship design. Version 3 arrives next year.",
-    "isoDate": "2025-10-14T07:05:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "launch",
-      "NASA",
-      "spacex",
-      "Starbase",
-      "starship",
-      "starship flight 11",
-      "super heavy",
-      "texas"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11recap1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6adce4dbe899f0c542375f0b70ef5f43292996fb",
     "title": "EU biometric border system launch hits inevitable teething problems",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/eu_biometric_border_system_launches/",
@@ -1187,19 +1198,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fcbd35f13a95dc085974ac5186367fad6358ce35",
-    "title": "Datacenter water use? California governor says don't ask, don't tell",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/13/california_datacenter_water_bill/",
-    "summary": "<h4>Bid for transparency on consumption evaporates with Newsom veto</h4> <p>California Governor Gavin Newsom has vetoed legislation requiring data centers to disclose their water consumption, even as he champions efforts to address the state's water scarcity challenges.…</p>",
-    "isoDate": "2025-10-13T13:07:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1418,19 +1416,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/25-9-1/robotaxi-low-battery.webp/3c1dfdff8aa2114fd70d0a424b5978a6/robotaxi-low-battery.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9534e64c5dffd2da5ec66eb08a04bc81f32515f8",
-    "title": "The Most Impressive Tesla FSD V14 Videos You Need to See",
-    "link": "https://www.notateslaapp.com/news/3210/the-most-impressive-tesla-fsd-v14-videos-you-need-to-see",
-    "summary": "A look at the best videos of Tesla's FSD V14.1. We take a look at it handling construction, emergency vehicles, parking garages and more.&hellip; <a href=\"https://www.notateslaapp.com/news/3210/the-most-impressive-tesla-fsd-v14-videos-you-need-to-see\">Read More</a>",
-    "isoDate": "2025-10-08T19:15:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-drive-thru.webp/e12cd9d283242113a403ef16dac9be83/fsd-drive-thru.jpg",
     "pinned": false
   }
 ]
