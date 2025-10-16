@@ -1,5 +1,58 @@
 [
   {
+    "id": "635d45dcd02337bf0b8532156875ac5878667c84",
+    "title": "Tech industry grad hiring crashes 46% as bots do junior work",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/uk_tech_grad_jobs/",
+    "summary": "<h4>GenAI meets Gen Z – only one gets the job</h4> <p><strong>ai-pocalypse</strong>  The UK tech sector is cutting graduate jobs dramatically – down 46 percent in the past year, with another 53 percent drop projected, according to figures from the Institute of Student Employers (ISE).…</p>",
+    "isoDate": "2025-10-16T11:18:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1e3b970c9766052c3024aed034fc8ae36b91f662",
+    "title": "Inside the web infrastructure revolt over Google’s AI Overviews",
+    "link": "https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/",
+    "summary": "Cloudflare CEO Matthew Prince is making sweeping changes to force Google's hand.",
+    "isoDate": "2025-10-16T11:00:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "Features",
+      "Google",
+      "Tech",
+      "cloudflare",
+      "google",
+      "Matthew Prince",
+      "media",
+      "RAG",
+      "retrieval augmented generation",
+      "robots.txt",
+      "search engines",
+      "web crawlers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Co-founder_and_CEO_of_Cloudflare_Matthew_Prince-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6e0a4964c07f274889f96054ce6cdbcd7e58ce67",
+    "title": "Firefox 144 brings fixes, features, and farewells for 32-bit Linux die-hards",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/firefox_and_tbird_144/",
+    "summary": "<h4>Mozilla hardens its browser and toys with AI search while closing the door on legacy systems</h4> <p>New versions of both Mozilla's browser and its subsidiary MZLA's messaging client are here – with some bad news for users of older kit.…</p>",
+    "isoDate": "2025-10-16T10:41:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "bf8514f7ed7b315f54c13b3a5bc39b5017068d79",
     "title": "Listening to whales",
     "link": "https://aeon.co/videos/what-would-it-mean-if-we-were-able-to-speak-with-whales?utm_source=rss-feed",
@@ -910,27 +963,6 @@
     "pinned": false
   },
   {
-    "id": "9075a5a990da79fab98a22a88e3ddfe36437f046",
-    "title": "Google will let Gemini schedule meetings for you in Gmail",
-    "link": "https://arstechnica.com/google/2025/10/gemini-can-now-help-schedule-meetings-in-gmail/",
-    "summary": "Help Me Schedule creates a meeting widget based on the context of your message.",
-    "isoDate": "2025-10-14T18:24:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "Artificial Intelligence",
-      "gemini",
-      "gmail",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-500x500-1743791269.jpg",
-    "pinned": false
-  },
-  {
     "id": "3ab87bf77ab3b843e9967f8a938d71a182b6b11b",
     "title": "Microsoft seeding Washington schools with free AI to get kids and teachers hooked",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/microsoft_ai_schools/",
@@ -1164,19 +1196,6 @@
       "Archive",
       "Paranormal"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "60952c64b0b896d56f0c9da833630acde28af403",
-    "title": "Ubuntu 25.10 lands: Rustier and Wayland-ier, but Flatpak is broken",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/ubuntu_2510_is_here/",
-    "summary": "<h4>Canonical's Questing Quokka waddles in at 5.7 GB with AppArmor woes</h4> <p>The latest interim release of Ubuntu is here, showcasing some significant changes. This isn't a long-term release, yet many of its differences will be in 26.04 next year.…</p>",
-    "isoDate": "2025-10-14T08:15:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
     "image": "",
     "pinned": false
   },
