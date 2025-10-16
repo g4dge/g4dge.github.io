@@ -1,5 +1,54 @@
 [
   {
+    "id": "05e74a1b6f20e9d75556e4acd24d89366a121703",
+    "title": "Feeling lonely? Microsoft Copilot can now listen to your every word, watch your screen",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/microsoft_copilot_updates/",
+    "summary": "<h4>We've seen this before and it was called Cortana or Clippy</h4> <p>As if pulling support for Windows 10 was not punishment enough for long-suffering customers, Microsoft has decided to shove Copilot down everyone's throats with a new voice activation feature and even more control over your PC. Soon, a Copilot box may even replace the search box on your taskbar.…</p>",
+    "isoDate": "2025-10-16T16:50:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "29dd86ea1ed334c1319416de2ff606a2853b7149",
+    "title": "Open source GZDoom community splinters after creator inserts AI-generated code",
+    "link": "https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/",
+    "summary": "<em>UZDoom</em> fork promises to fix other top-down leadership problems with the decades-old mod.",
+    "isoDate": "2025-10-16T16:48:00Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Gaming",
+      "civil war",
+      "developers",
+      "disagreement",
+      "Doom",
+      "gzdoom",
+      "id Software",
+      "open source"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/gzdoom-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "c11ca57331af1d43ad35804232faad08076cc815",
+    "title": "Salesforce's Benioff warns of AI 'false prophets' while promising true profits by 2030",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/salesforce_benioff_false_prophets/",
+    "summary": "<h4>CRM messiah preaches data discipline while rivals chase LLM miracles</h4> <p>Salesforce CEO Marc Benioff has warned investors to beware \"false prophets\" peddling AI salvation, as the CRM giant bets on its \"agentic enterprise\" vision to drive annual revenue past $60 billion by 2030.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-16T16:46:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "fe538ba51c517242723e09b9b012b14bacf7b32b",
     "title": "OpenAI thinks Elon Musk funded its biggest critics—who also hate Musk",
     "link": "https://arstechnica.com/tech-policy/2025/10/openai-thinks-elon-musk-funded-its-biggest-critics-who-also-hate-musk/",
@@ -965,7 +1014,7 @@
     "id": "9bcdcc05251fae72377247aa92867134f1bb1edb",
     "title": "Trump's anti-sustainability agenda comes to Eurozone",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/europe_sustainability_canalys/",
-    "summary": "<h4>ESG kicked like a 'toxic political football' amid greenwashing</h4> <p><strong>Canalys Forums 2025</strong>  US President Donald Trump released a wrecking ball that smashed through environmental, social, and governance (ESG) policies stateside – and it's now swinging across the Atlantic, according to analysts.…</p>",
+    "summary": "<h4>ESG kicked like a 'toxic political football' amid greenwashing</h4> <p><strong>canalys emea forum 2025</strong>  US President Donald Trump released a wrecking ball that smashed through environmental, social, and governance (ESG) policies stateside – and it's now swinging across the Atlantic, according to analysts.…</p>",
     "isoDate": "2025-10-15T09:00:14Z",
     "source": "The Register",
     "category": "Tech",
@@ -1068,25 +1117,6 @@
     "pinned": false
   },
   {
-    "id": "26292009b832c0dc1cd845ff1662cc809be714ff",
-    "title": "NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”",
-    "link": "https://arstechnica.com/security/2025/10/nato-boss-mocks-russian-navy-which-is-on-the-hunt-for-red-october-the-nearest-mechanic/",
-    "summary": "A Russian sub surfaces off of Western Europe. Is it damaged?",
-    "isoDate": "2025-10-14T21:17:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nate Anderson",
-    "tags": [
-      "Security",
-      "Cyberattacks",
-      "russia",
-      "Russian navy",
-      "submarine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/french-ships-shadows-russian-sub-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "5cc2eabafad133c9cd4e05ff12c117539ae570e2",
     "title": "18 zettaFLOPS of new AI compute coming online from Oracle late next year",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/oracle_amd_nvidia/",
@@ -1152,19 +1182,6 @@
     "pinned": false
   },
   {
-    "id": "4eaceea5ae876dfd66daf3eb2fb65871afbcc983",
-    "title": "Researchers intercept unencrypted satellite traffic from space blabbermouths",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/unencrypted_satellite_comms/",
-    "summary": "<h4>University team picks up voice calls, texts, and corporate data from orbit with off-the-shelf kit</h4> <p><strong>Updated</strong>  Geostationary satellites are broadcasting large volumes of unencrypted data to Earth, including private voice calls and text messages as well as consumer internet traffic, researchers have discovered.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-14T14:45:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "01cdbe33b8c35a7efda03026cb0a4ba9701c498a",
     "title": "Tesla to Add 15 New Visualizations to FSD [Photos & Video]",
     "link": "https://www.notateslaapp.com/news/3234/tesla-to-add-15-new-visualizations-to-fsd-photos-video",
@@ -1175,19 +1192,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/new-visualizations.webp/21df874e1758be3b604ca9efc053fed4/new-visualizations.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1db4875a0752df6dff155cc61346e3ce86b527bb",
-    "title": "KuzuDB says so long and thanks for all the commits, marooning community",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/kuzudb_abandoned/",
-    "summary": "<h4>Users left wondering whether to fork it or forget it as another FOSS project bites the dust</h4> <p>The KuzuDB embedded graph database, open source under the MIT license, has been abandoned by its creator and sponsor Kùzu Inc, leaving its community pondering whether to fork or find an alternative.…</p>",
-    "isoDate": "2025-10-14T14:32:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
