@@ -1,5 +1,31 @@
 [
   {
+    "id": "7a6af0e57cb9e1748145a59c3ffc5b96224137f8",
+    "title": "Microsoft kills 9.9-rated ASP.NET Core bug – 'our highest ever' score",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/microsoft_aspnet_core_vulnerability/",
+    "summary": "<h4>Flaw in Kestrel web server allowed request smuggling, impact depends on hosting setup and application code</h4> <p>Microsoft has patched an ASP.NET Core vulnerability with a CVSS score of 9.9, which security program manager Barry Dorrans said was \"our highest ever.\" The flaw is in the Kestrel web server component and enables security bypass.…</p>",
+    "isoDate": "2025-10-16T13:32:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9ce2c4d4134638447c82a8b385fb3d7aa17adcf5",
+    "title": "Windows 11 update breaks localhost, prompting mass uninstall workaround",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/windows_11_update_localhost/",
+    "summary": "<h4>Microsoft's quality control department caught napping again</h4> <p>Microsoft's October Windows 11 update has managed the impressive feat of breaking localhost, leaving developers unable to access web applications running on their own machines.…</p>",
+    "isoDate": "2025-10-16T13:11:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Owen Hughes",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "fa446c6f744c1b483ffd3dad1ed5a73d95ec006f",
     "title": "Senator presses Cisco over firewall flaws that burned US agency",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/cisco_senate_scrutiny/",
@@ -1140,32 +1166,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "70ad930efb07e09c1b0889f9a99128392f278d12",
-    "title": "Shadow AI: Staffers are bringing AI tools they use at home to work, warns Microsoft",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/microsoft_warns_of_the_dangers/",
-    "summary": "<h4>Bring Your Copilot To Work Day, anyone?</h4> <p>Microsoft, the corporation that just 13 days ago implored customers to bring their Copilot to work, has now published a report warning of the dangers of Shadow AI.…</p>",
-    "isoDate": "2025-10-14T12:04:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d724682529785f726922388e147bfdae63dbebc4",
-    "title": "Lance takes aim at Parquet in file format joust",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/lance_parquet/",
-    "summary": "<h4>Challenger seeks to unseat incumbent for machine learning workloads</h4> <p>A fledgling file format that aims to address limitations in the widely-used Parquet is under review for adoption by an open source foundation.…</p>",
-    "isoDate": "2025-10-14T11:34:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
