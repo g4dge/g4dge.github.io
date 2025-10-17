@@ -1,7 +1,94 @@
 [
   {
+    "id": "fef86489a2cb2a66f2e0587ab1448a665f702277",
+    "title": "Teen haunted by fake nudes sues to kill nudify app, block Telegram bots",
+    "link": "https://arstechnica.com/tech-policy/2025/10/teen-haunted-by-fake-nudes-sues-to-kill-nudify-app-block-telegram-bots/",
+    "summary": "Lawsuit accuses nudify apps of training on teen victims' images.",
+    "isoDate": "2025-10-17T17:14:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI-generated images",
+      "csam",
+      "fake nudes",
+      "ncii",
+      "nudify apps"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1204474749-500x500-1760718197.jpg",
+    "pinned": false
+  },
+  {
+    "id": "30f373c609f28df81990612c1890befce964f044",
+    "title": "Tesla May No Longer Include Key Cards With New Vehicles",
+    "link": "https://www.notateslaapp.com/news/3240/tesla-may-no-longer-include-key-cards-with-new-vehicles",
+    "summary": "Tesla has removed mentions of included key cards from its manuals; they may be a paid accessory for new Model 3 and Model Y Standard trims.&hellip; <a href=\"https://www.notateslaapp.com/news/3240/tesla-may-no-longer-include-key-cards-with-new-vehicles\">Read More</a>",
+    "isoDate": "2025-10-17T17:05:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2021/key-card-1.jpg/5c7692cc905244ccc02976ffa7a0aa9a/key-card-1.jpg",
+    "pinned": false
+  },
+  {
+    "id": "57d73bc9c7d57ad158d99b18f39e0857e69b5f30",
+    "title": "Thou shalt not let AI run amok: Vatican wants global rules",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/vatican_seminar_calls_for_global/",
+    "summary": "<h4>'AI is a tool', Pope tells attendees</h4> <p>Recently, Salesforce CEO Marc Benioff warned investors to avoid the \"false prophets\" of AI. Now, the Pope has brought real theological weight to the bot debate, hosting a Vatican seminar that called for global AI regulation and fair distribution of the technology's benefits.…</p>",
+    "isoDate": "2025-10-17T17:01:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "85a33924cda1ae0c11dbe88e61c8996451bb4b38",
+    "title": "NASA’s next Moonship reaches last stop before launch pad",
+    "link": "https://arstechnica.com/space/2025/10/nasas-next-moonship-reaches-last-stop-before-launch-pad/",
+    "summary": "Preparations for the Artemis II mission continue despite the federal government shutdown.",
+    "isoDate": "2025-10-17T16:54:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "artemis",
+      "artemis II",
+      "human spaceflight",
+      "Kennedy Space Center",
+      "launch",
+      "Lockheed Martin",
+      "moon",
+      "NASA",
+      "orion",
+      "space launch system",
+      "vehicle assembly building"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/orion_transfer_artii-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f14d67d504e0954e65fc631f90c45572dbafdf5b",
+    "title": "Hyperscalers try to beat the heat with larger racks, more air flow",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/hyperscaler_datacenter_ocp/",
+    "summary": "<h4>Most datacenters to ditch 19-inch standard for 21-inch OCP kit by 2030</h4> <p>Datacenters are set to standardize on the larger, 21-inch rack format by 2030, according to Omdia, as hyperscalers and server makers fully embrace it, leaving enterprises to the existing 19-inch standard.…</p>",
+    "isoDate": "2025-10-17T16:32:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3bc227c392d7a57f1ae58234fca131917f6b69ea",
-    "title": "Backblaze, owner of 317,230 HDDs, says HDDs are “lasting longer”",
+    "title": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
     "link": "https://arstechnica.com/gadgets/2025/10/backblaze-owner-of-317230-hdds-says-hdds-are-lasting-longer/",
     "summary": "Backup firm brings a unique, informed perspective to HDD failure rates.",
     "isoDate": "2025-10-17T16:27:02Z",
@@ -887,33 +974,6 @@
     "pinned": false
   },
   {
-    "id": "1e3b970c9766052c3024aed034fc8ae36b91f662",
-    "title": "Inside the web infrastructure revolt over Google’s AI Overviews",
-    "link": "https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/",
-    "summary": "Cloudflare CEO Matthew Prince is making sweeping changes to force Google's hand.",
-    "isoDate": "2025-10-16T11:00:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Features",
-      "Google",
-      "Tech",
-      "cloudflare",
-      "google",
-      "Matthew Prince",
-      "media",
-      "RAG",
-      "retrieval augmented generation",
-      "robots.txt",
-      "search engines",
-      "web crawlers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Co-founder_and_CEO_of_Cloudflare_Matthew_Prince-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6e0a4964c07f274889f96054ce6cdbcd7e58ce67",
     "title": "Firefox 144 brings fixes, features, and farewells for 32-bit Linux die-hards",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/firefox_and_tbird_144/",
@@ -1083,26 +1143,6 @@
     "pinned": false
   },
   {
-    "id": "da520ae5452ad9cb34ab22420754f5914b9fc809",
-    "title": "Army general says he’s using AI to improve “decision-making”",
-    "link": "https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/",
-    "summary": "\"AI is one thing that, as a commander, it’s been very, very interesting for me.\"",
-    "isoDate": "2025-10-15T21:31:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "army",
-      "decision making",
-      "general",
-      "Military",
-      "Weapons"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2219849110-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "1bbe0714a653064f91e62def7342dee2686393eb",
     "title": "OpenAI's ChatGPT is so popular that almost no one will pay for it",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/openais_chatgpt_popular_few_pay/",
@@ -1189,32 +1229,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fdf539f1199071bc65867b9173338c7ac66723e6",
-    "title": "Devs are writing VS Code extensions that blab secrets by the bucketload",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/vc_code_extension_leaks/",
-    "summary": "<h4>Vibe coding may have played a role in what took researchers months to fix</h4> <p>Developers of VS Code extensions are leaking sensitive secrets left, right and center, according to researchers who worked with Microsoft to combat an issue that could have led to some nasty supply chain attacks.…</p>",
-    "isoDate": "2025-10-15T15:35:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6023873220653f81107706a0bc49eb88d7539ab4",
-    "title": "Microsoft veteran explains Windows quirk that made videos play in Paint",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/15/windows_paint_video_chen/",
-    "summary": "<h4>Raymond Chen says the OS used green-screen overlays to fake video playback – with curious side effects</h4> <p>Microsoft veteran Raymond Chen has answered a lingering Windows question – why did video screenshots keep playing in Paint?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-15T14:14:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1420,19 +1434,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.38.3/2025.38.3-tron-mode.png",
-    "pinned": false
-  },
-  {
-    "id": "a2630437ae6e92b6db6dcd4c3ef352a47e2a41ef",
-    "title": "Tesla App Update (4.49.6) Adds Support for Standard Models, Builds Visualizations Dynamically",
-    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.49.6/release-notes",
-    "summary": "Tesla app update 4.49.6 includes Support for Standard Models, Dynamic Vehicle Models, Different Types of Front Bumper Cameras. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.49.6/release-notes\">View Release Notes</a>",
-    "isoDate": "2025-10-10T17:15:30Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-49-6/tesla-app-model-3-standard.webp/750742af881931e86e671c80a4b5e402/tesla-app-model-3-standard.jpg",
     "pinned": false
   }
 ]
