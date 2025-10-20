@@ -1,5 +1,81 @@
 [
   {
+    "id": "0113629163cb97cc0ca2efe1b49e860379670f5d",
+    "title": "Windows 11 tiptoes further into dark mode with new dialogs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/windows_11_more_dark_mode_dialogs/",
+    "summary": "<h4>Some portions of the OS are still stuck on light</h4> <p>Windows 11 launched way back in October 2021 and has become Microsoft’s must-have OS thanks to the impending end-of-life for Windows 10. After all that time, there are still significant portions of the OS that don’t do dark mode. However, Redmond is making significant progress, bringing a couple of key dialog boxes into compliance.…</p>",
+    "isoDate": "2025-10-20T20:23:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "19ddf885336ecc6b5d5727cffcc182f1bb6ac11c",
+    "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones",
+    "link": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
+    "summary": "Selected testers will have to sign an NDA and use a disguised case.",
+    "isoDate": "2025-10-20T20:14:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "google",
+      "Google Pixel",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-4-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d3c3fab0a8ecf7e7edc3a59688019d338ad83095",
+    "title": "Breaking down rare earth element magnets for recycling",
+    "link": "https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/",
+    "summary": "New method extracts desirable elements from waste magnets using less energy and acid.",
+    "isoDate": "2025-10-20T20:01:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Doug Johnson",
+    "tags": [
+      "Science",
+      "chemistry",
+      "rare earth elements",
+      "recycling"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1359528962-e1760988838500-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4a40bee641d7ffe3efd8fb58e4dbd2943ffd02ac",
+    "title": "Today is when the Amazon brain drain finally sent AWS down the spout",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
+    "summary": "<h4>When your best engineers log off for good, don’t be surprised when the cloud forgets how DNS works</h4> <p><strong>column</strong>  \"It's always DNS\" is a long-standing sysadmin saw, and with good reason: a disproportionate number of outages are at their heart DNS issues. And so today, as AWS is still repairing its downed cloud as this article goes to press, it becomes clear that the culprit is once again DNS. But if you or I know this, AWS certainly does.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-20T19:55:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Corey Quinn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5d81103f9b52cb421237ae7422afdc5af6b135eb",
+    "title": "Xubuntu downloads section injection threatens users with crypto infection",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/xubuntu_website_compromised/",
+    "summary": "<h4>Attempted exploit was a feeble effort to target Windows users</h4> <p>Someone managed to insert a compromised file into the downloads section of the website for Xubuntu, the official Ubuntu flavor with the Xfce desktop environment. The malware was designed to steal cryptocurrency, but so far, there are no reports of actual theft.…</p>",
+    "isoDate": "2025-10-20T19:19:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3a022f4c50e7bd1d62c0061be98d258e03f791e2",
     "title": "Do animals fall for optical illusions? It’s complicated.",
     "link": "https://arstechnica.com/science/2025/10/do-animals-fall-for-optical-illusions-its-complicated/",
@@ -791,23 +867,6 @@
     "pinned": false
   },
   {
-    "id": "2184784763628a8e533fb8bd8da9d76dec695111",
-    "title": "3 years, 4 championships, but 0 Le Mans wins: Assessing the Porsche 963",
-    "link": "https://arstechnica.com/cars/2025/10/3-years-4-championships-but-0-le-mans-wins-assessing-the-porsche-963/",
-    "summary": "Riding high in IMSA but pulling out of WEC paints a complicated picture for the factory team.",
-    "isoDate": "2025-10-17T14:57:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Porsche 963",
-      "Racing"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMSA2025PetitLeMans_JT19117-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c9f90db59ba4a0ddefe8ec49aadc798ae9b5914c",
     "title": "Tesla to Add Remote Screen Sharing Feature in Future Update",
     "link": "https://www.notateslaapp.com/news/3244/tesla-to-add-remote-screen-sharing-feature-in-future-update",
@@ -818,25 +877,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/modelypremium_59_cropped-screen.webp/c047bc9a5be2f823880618a0ef4bc5b6/modelypremium_59_cropped-screen.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4daedd82f398f285b59c6cfc0297bd858738b144",
-    "title": "Teachers get an F on AI-generated lesson plans",
-    "link": "https://arstechnica.com/ai/2025/10/teachers-get-an-f-on-ai-generated-lesson-plans/",
-    "summary": "AI-generated lesson plans fall short on inspiring students and promoting critical thinking.",
-    "isoDate": "2025-10-17T14:16:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Torrey Trust and Robert Maloy, The Conversation",
-    "tags": [
-      "AI",
-      "AI-generated lesson plans",
-      "education",
-      "syndication",
-      "teachers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1287663546-500x500.jpg",
     "pinned": false
   },
   {
@@ -1216,45 +1256,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7a6af0e57cb9e1748145a59c3ffc5b96224137f8",
-    "title": "Microsoft kills 9.9-rated ASP.NET Core bug – 'our highest ever' score",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/microsoft_aspnet_core_vulnerability/",
-    "summary": "<h4>Flaw in Kestrel web server allowed request smuggling, impact depends on hosting setup and application code</h4> <p>Microsoft has patched an ASP.NET Core vulnerability with a CVSS score of 9.9, which security program manager Barry Dorrans said was \"our highest ever.\" The flaw is in the Kestrel web server component and enables security bypass.…</p>",
-    "isoDate": "2025-10-16T13:32:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9ce2c4d4134638447c82a8b385fb3d7aa17adcf5",
-    "title": "Windows 11 update breaks localhost, prompting mass uninstall workaround",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/windows_11_update_localhost/",
-    "summary": "<h4>Microsoft's quality control department caught napping again</h4> <p><strong>Updated</strong>  Microsoft's October Windows 11 update has managed the impressive feat of breaking localhost, leaving developers unable to access web applications running on their own machines.…</p>",
-    "isoDate": "2025-10-16T13:11:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Owen Hughes",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fa446c6f744c1b483ffd3dad1ed5a73d95ec006f",
-    "title": "Senator presses Cisco over firewall flaws that burned US agency",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/cisco_senate_scrutiny/",
-    "summary": "<h4>Bill Cassidy letter asks if Switchzilla sat on critical flaws before feds were forced into emergency patching</h4> <p>US Senator Bill Cassidy has fired off a pointed letter to Cisco over the firewall flaws that allegedly let hackers breach \"at least one federal agency.\"…</p>",
-    "isoDate": "2025-10-16T12:44:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
