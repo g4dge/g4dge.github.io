@@ -1,5 +1,44 @@
 [
   {
+    "id": "3b1f37a4f5274a3e2b33bd33b83f7eb34c3b73af",
+    "title": "AWS outage exposes Achilles heel: central control plane",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/aws_outage_chaos/",
+    "summary": "<h4>Too many services depend not just on one cloud provider, but on one location</h4> <p><strong>Analysis</strong>  Amazon's US-EAST-1 region outage caused widespread chaos, taking websites and services offline even in Europe and raising some difficult questions. After all, cloud operations are supposed to have some built-in resiliency, right?…</p>",
+    "isoDate": "2025-10-20T16:01:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2d53f79cb1c165ef1e34ecd3d4b39f0215120edd",
+    "title": "In '90s Microsoft, you either shipped code or shipped out",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/hiring_firing_microsoft_plummer/",
+    "summary": "<h4>Hiring and firing at the Windows giant more The Bachelor than Survivor</h4> <p>Microsoft has made headlines for mass layoffs in recent times, but former company engineer Dave Plummer has explained how things were done a quarter of a century ago – and what it was like living through the tech giant's notorious stack ranking system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-20T15:38:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "99a5045e2bcc8c3fcde1fff32ae70f0addc7c00a",
+    "title": "Tesla Design Chief Confirms Updated Roadster Reveal Still Happening This Year",
+    "link": "https://www.notateslaapp.com/news/3254/tesla-design-chief-confirms-updated-roadster-reveal-still-happening-this-year",
+    "summary": "Tesla’s Franz von Holzhausen teases the 2025 Roadster re-reveal and iconic paint colors in a new podcast episode.&hellip; <a href=\"https://www.notateslaapp.com/news/3254/tesla-design-chief-confirms-updated-roadster-reveal-still-happening-this-year\">Read More</a>",
+    "isoDate": "2025-10-20T15:31:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2022/roadster.jpg/830d0221c7307bb9c17470a0c5374a8e/roadster.jpg",
+    "pinned": false
+  },
+  {
     "id": "623095daee1fb8181b4c8f64dde86964222fb57e",
     "title": "Kamala Harris Admits It Was a ‘Big Mistake’ to Leave Tesla Out of 2021 EV Summit [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3253/kamala-harris-admits-it-was-a-big-mistake-to-leave-tesla-out-of-2021-ev-summit-video",
@@ -380,7 +419,7 @@
   },
   {
     "id": "c3ac9f043831e2334a73c17bb876242c18a82688",
-    "title": "With deadline looming, 4 of 9 universities reject Trump’s “compact” to remake higher ed",
+    "title": "With deadline looming, 5 of 9 universities reject Trump’s “compact” to remake higher ed",
     "link": "https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/",
     "summary": "But Trump is pressuring the other five.",
     "isoDate": "2025-10-17T22:14:59Z",
@@ -1229,32 +1268,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "635d45dcd02337bf0b8532156875ac5878667c84",
-    "title": "Tech industry grad hiring crashes 46% as bots do junior work",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/uk_tech_grad_jobs/",
-    "summary": "<h4>GenAI meets Gen Z – only one gets the job</h4> <p><strong>ai-pocalypse</strong>  The UK tech sector is cutting graduate jobs dramatically – down 46 percent in the past year, with another 53 percent drop projected, according to figures from the Institute of Student Employers (ISE).…</p>",
-    "isoDate": "2025-10-16T11:18:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6e0a4964c07f274889f96054ce6cdbcd7e58ce67",
-    "title": "Firefox 144 brings fixes, features, and farewells for 32-bit Linux die-hards",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/firefox_and_tbird_144/",
-    "summary": "<h4>Mozilla hardens its browser and toys with AI search while closing the door on legacy systems</h4> <p>New versions of both Mozilla's browser and its subsidiary MZLA's messaging client are here – with some bad news for users of older kit.…</p>",
-    "isoDate": "2025-10-16T10:41:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
