@@ -1,5 +1,51 @@
 [
   {
+    "id": "abed037371f5cedd365b441e80443d41aaf76e0c",
+    "title": "SpaceX launches 10,000th Starlink satellite, with no sign of slowing down",
+    "link": "https://arstechnica.com/space/2025/10/spacex-launches-10000th-starlink-satellite-with-no-sign-of-slowing-down/",
+    "summary": "Sunday was not a day of rest for SpaceX.",
+    "isoDate": "2025-10-20T18:38:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlinkstack-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "64e474a598194ef297a4c101f577f1db3abc51ea",
+    "title": "Musk’s $1 trillion Tesla pay plan draws some protest ahead of likely approval",
+    "link": "https://arstechnica.com/tech-policy/2025/10/musks-1-trillion-pay-plan-doesnt-force-him-to-keep-focus-on-tesla-critics-say/",
+    "summary": "Proxy firm says plan doesn't ensure that Musk's \"focus and time remain on Tesla.\"",
+    "isoDate": "2025-10-20T17:55:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Elon Musk",
+      "Tesla"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/musk-cybertruck-500x500-1760980572.jpg",
+    "pinned": false
+  },
+  {
+    "id": "52d05cca60a1ea7e414c33c56845e571199fdaf9",
+    "title": "China blames US for cyber break-in, claims America is world's biggest bit burglar",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/china_accuses_us_cyber_warfare/",
+    "summary": "<h4>'US is … the greatest source of chaos in cyberspace'</h4> <p>China has blamed the US for a \"major cyberattack\" against its National Time Service Center, alleging it could have disrupted the country's communications, financial, and transportation networks, and even caused power outages.…</p>",
+    "isoDate": "2025-10-20T17:27:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3b1f37a4f5274a3e2b33bd33b83f7eb34c3b73af",
     "title": "AWS outage exposes Achilles heel: central control plane",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/aws_outage_chaos/",
@@ -869,27 +915,6 @@
     "pinned": false
   },
   {
-    "id": "4c6644d0a2cae56032d44d787674f2f5ba419f50",
-    "title": "Yes, everything online sucks now—but it doesn’t have to",
-    "link": "https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/",
-    "summary": "Ars chats with Cory Doctorow about his new book <em>Enshittification</em>.",
-    "isoDate": "2025-10-17T10:30:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Features",
-      "Tech",
-      "books",
-      "Cory Doctorow",
-      "enshittification",
-      "online culture"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6e2459ffe40d31a09ab4e9e38e45de5819b2840e",
     "title": "A poet on Mars",
     "link": "https://aeon.co/essays/why-i-wonder-if-virginia-woolf-was-autistic?utm_source=rss-feed",
@@ -1034,21 +1059,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "33da77a4be0f3ca47873fa3810c1e631efb538e8",
-    "title": "RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again",
-    "link": "https://arstechnica.com/health/2025/10/rfk-jr-s-maha-wants-to-make-chemtrail-conspiracy-theories-great-again/",
-    "summary": "It's unclear if Kennedy will follow through, but he supports the conspiracy theory.",
-    "isoDate": "2025-10-16T22:41:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1182820491-500x500.jpg",
     "pinned": false
   },
   {
@@ -1242,32 +1252,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2c532134dc610e063acb171dfa3dc4646a1518e4",
-    "title": "Axiom Space ejects CEO after six months, installs NASA veteran as replacement",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/axiom_space_ceo/",
-    "summary": "<h4>Jonathan Cirtain at the helm as revolving door swings for private corp</h4> <p><strong>Updated</strong>  Axiom Space has ousted its CEO after just six months, hiring Jonathan Cirtain to replace Tejpaul Bhatia.…</p>",
-    "isoDate": "2025-10-16T12:15:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a554af04700a2cc063181b1f4ae35bd2d921d074",
-    "title": "Auction house Sotheby's finds its data on the block after cyberattack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/sothebys_breach/",
-    "summary": "<h4>Alert says financial account information lifted from systems</h4> <p>Auction house Sotheby's says it was breached on July 24, and those behind the intrusion stole an unspecified amount of data, including Social Security numbers and financial account information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-16T11:52:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
