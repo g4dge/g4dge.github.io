@@ -1,5 +1,76 @@
 [
   {
+    "id": "cef63ba7b3f77c183eb09962d441e60c62a146e3",
+    "title": "FDA slows down on drug reviews, approvals amid Trump admin chaos",
+    "link": "https://arstechnica.com/health/2025/10/fda-slows-down-on-drug-reviews-approvals-amid-trump-admin-chaos/",
+    "summary": "The ongoing shutdown also means no new drug submissions are being accepted.",
+    "isoDate": "2025-10-21T20:08:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "drug approvals",
+      "fda",
+      "reviews"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3d72a5882bf8cafc0cd03c6d2167637518eac49f",
+    "title": "It’s troll vs. troll in Netflix’s Trolls trailer",
+    "link": "https://arstechnica.com/culture/2025/10/troll-2-trailer-is-a-godzilla-inspired-monster-mash/",
+    "summary": "Norwegian director Roar Uthaug's sequel to his 2022 film <em>Troll</em> knows to not take itself too seriously.",
+    "isoDate": "2025-10-21T19:58:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "film trailers",
+      "Netflix",
+      "Norwegian mythology",
+      "streaming television",
+      "troll 2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/troll1-500x500-1761073842.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cec0ccc110f814df3f101052421592c125e1d6ef",
+    "title": "Elon Musk just declared war on NASA’s acting administrator, apparently",
+    "link": "https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/",
+    "summary": "\"Sean said that NASA might benefit from being part of the Cabinet.\"",
+    "isoDate": "2025-10-21T19:45:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "china",
+      "isaacman",
+      "NASA",
+      "Sean Duffy",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/54441425446_25b87f0fd0_k-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a4dc74f195540dbd65dcc2ada0698a706478a8ea",
+    "title": "MCP attack abuses predictable session IDs to hijack AI agents",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/mcp_prompt_hijacking_attack/",
+    "summary": "<h4>The vuln affects the Oat++ MCP implementation</h4> <p>A security flaw in the Oat++ implementation of Anthropic's Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and inject malicious responses via the oatpp-mcp server.…</p>",
+    "isoDate": "2025-10-21T19:36:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "04ba38816adcc653109b70af94ccbed79db4cd42",
     "title": "Tesla Adds FSD Subscription Option in Australia & New Zealand, Cheaper for Vehicles with EAP",
     "link": "https://www.notateslaapp.com/news/3256/tesla-adds-fsd-subscription-option-in-australia-new-zealand-cheaper-for-vehicles-with-eap",
@@ -14,7 +85,7 @@
   },
   {
     "id": "41eb830a401b80cf450d872f4a85c16b7b9f21fc",
-    "title": "New iOS and macOS betas add “tinted” toggle to tone down Liquid Glass",
+    "title": "Upcoming iOS and macOS 26.1 update will let you fog up your Liquid Glass",
     "link": "https://arstechnica.com/gadgets/2025/10/new-ios-and-macos-betas-add-tinted-toggle-to-tone-down-liquid-glass/",
     "summary": "Apple backs down from some aspects of Liquid Glass, but not others.",
     "isoDate": "2025-10-21T19:12:30Z",
@@ -690,43 +761,6 @@
     "pinned": false
   },
   {
-    "id": "19ddf885336ecc6b5d5727cffcc182f1bb6ac11c",
-    "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones",
-    "link": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
-    "summary": "Selected testers will have to sign an NDA and use a disguised case.",
-    "isoDate": "2025-10-20T20:14:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "google",
-      "Google Pixel",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-4-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d3c3fab0a8ecf7e7edc3a59688019d338ad83095",
-    "title": "Breaking down rare earth element magnets for recycling",
-    "link": "https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/",
-    "summary": "New method extracts desirable elements from waste magnets using less energy and acid.",
-    "isoDate": "2025-10-20T20:01:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Doug Johnson",
-    "tags": [
-      "Science",
-      "chemistry",
-      "rare earth elements",
-      "recycling"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1359528962-e1760988838500-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4a40bee641d7ffe3efd8fb58e4dbd2943ffd02ac",
     "title": "Today is when the Amazon brain drain finally sent AWS down the spout",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
@@ -750,26 +784,6 @@
     "author": "Liam Proven",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3a022f4c50e7bd1d62c0061be98d258e03f791e2",
-    "title": "Do animals fall for optical illusions? It’s complicated.",
-    "link": "https://arstechnica.com/science/2025/10/do-animals-fall-for-optical-illusions-its-complicated/",
-    "summary": "Guppies are highly susceptible to the Ebbinghaus illusion. Ring doves? Not so much.",
-    "isoDate": "2025-10-20T19:15:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "animal cognition",
-      "animal perception",
-      "animal psychology",
-      "Ebbinghaus illusion",
-      "psychology"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/illusion1-500x500-1760798293.jpg",
     "pinned": false
   },
   {
@@ -1274,19 +1288,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/sap_s4hana_business_case/",
     "summary": "<h4>A decade later, ERP giant struggles to convince legacy customers to upgrade</h4> <p>More than a decade after SAP's S/4HANA in-memory ERP system debuted, 95 percent of legacy users say building a positive case to migrate requires a big effort or is genuinely challenging.…</p>",
     "isoDate": "2025-10-17T11:16:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b7f0fa539d0550e7eea6e66e73c5fe8ce944c892",
-    "title": "Boris Johnson confesses: He's fallen for ChatGPT",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/boris_johnson_loves_chatgpt/",
-    "summary": "<h4>As OpenAI allows chatbot to spout erotic content, former British prime minister makes true feelings known</h4> <p>After a string of marriages and innumerable affairs, former UK prime minister Boris Johnson has come clean about his new squeeze.…</p>",
-    "isoDate": "2025-10-17T10:54:57Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
