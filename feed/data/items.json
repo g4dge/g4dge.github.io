@@ -1,5 +1,64 @@
 [
   {
+    "id": "3700435a5d9c3e0b8f3178046ea71bc109259bdf",
+    "title": "Amazon’s DNS problem knocked out half the web, likely costing billions",
+    "link": "https://arstechnica.com/tech-policy/2025/10/amazons-dns-problem-knocked-out-half-the-web-likely-costing-billions/",
+    "summary": "Amazon’s outage is over. But backlash over billions in losses has just started.",
+    "isoDate": "2025-10-21T16:21:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "Amazon",
+      "amazon outage",
+      "Amazon Web Services",
+      "AWS",
+      "aws outage"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2241879469-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bbcf04c1b1b7434d8f1717dd47a65e93fc321448",
+    "title": "AWS outage turned smart homes into dumb boxes – and sysadmins into therapists",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/aws_outage_aftermath/",
+    "summary": "<h4>Amazon's hours-long cloud blackout transformed the future of sleep into a sauna and cat care into chaos</h4> <p>When Amazon's cloud face-planted on Monday, it didn't just take down some of the world's most popular apps – it took down dignity, comfort, and the occasional cat toilet.…</p>",
+    "isoDate": "2025-10-21T16:05:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c42f41403da48252a231bd924d8b7eade08dd5ec",
+    "title": "Is PHP declining? JetBrains says yes. And no",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/massive_jetbrains_dev_survey/",
+    "summary": "<h4>24,500 devs polled, two blog posts, one confusion</h4> <p>JetBrains has released its State of the Developer Ecosystem survey, with more than 24,500 responses, revealing AI's impact on developer tools and programming language trends - including the claim that PHP and Ruby are in \"long term decline.\"…</p>",
+    "isoDate": "2025-10-21T15:56:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a202f0f079dd463f1c042a3f86f970a198e90bbc",
+    "title": "Tesla's FSD V14 Can Now Recover from Takeover Immediately Warnings",
+    "link": "https://www.notateslaapp.com/news/3245/teslas-fsd-v14-can-now-recover-from-takeover-immediately-warnings",
+    "summary": "FSD V14 introduces a major improvement: it can now recover from 'Take Over Immediately' warnings.&hellip; <a href=\"https://www.notateslaapp.com/news/3245/teslas-fsd-v14-can-now-recover-from-takeover-immediately-warnings\">Read More</a>",
+    "isoDate": "2025-10-21T15:55:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/take-over-immediately-toi-red-steering-wheel.webp/258965334767281e0515149eca0693ed/take-over-immediately-toi-red-steering-wheel.jpg",
+    "pinned": false
+  },
+  {
     "id": "e39d8510e2b1d3079d03512f3d4bd33ef7fbf9b5",
     "title": "Tesla FSD V14.1.3 Starts Rolling Out to Non-Influencers, Expands to Model S & X",
     "link": "https://www.notateslaapp.com/news/3255/tesla-fsd-v1413-starts-rolling-out-to-non-influencers-expands-to-model-s-x",
@@ -259,7 +318,7 @@
   },
   {
     "id": "6da51e6a3e7fe1a74f428f00d753eb1f3e2d629a",
-    "title": "AI wins Imitation Game: Readers prefer Fanfic written by ChatGPT",
+    "title": "AI does a better job of ripping off the style of famous authors than MFA students do",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/ai_wins_imitation_game_readers/",
     "summary": "<h4>Shall I refer thee to all those lawsuits about fair use? Researchers think this result makes them worth revisiting</h4> <p>Readers of texts created to use the styles of famous authors prefer works written by AI to human-written imitations, but only after developers fine-tune AI models to understand an author’s output.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-10-21T00:47:59Z",
@@ -1016,26 +1075,6 @@
     "pinned": false
   },
   {
-    "id": "d43bb8a0fd479af5fd46de72976d0867f883d7a3",
-    "title": "Dead Ends is a fun, macabre medical history for kids",
-    "link": "https://arstechnica.com/science/2025/10/dead-ends-is-a-fun-macabre-medical-history-for-kids/",
-    "summary": "Ars chats with co-authors Lindsey Fitzharris and Adrian Teal about their delightful new children's book.",
-    "isoDate": "2025-10-17T18:36:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Science",
-      "books",
-      "children's books",
-      "medical history",
-      "medicine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/deadends4-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "135bd1e7ba271f6d84c3dd0aa3806775c45059de",
     "title": "American Airlines subsidiary Envoy caught in Clop's Oracle EBS raid",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/american_airlines_envoy_oracle_ebs/",
@@ -1231,19 +1270,6 @@
     "pinned": false
   },
   {
-    "id": "1722e7323fde441da4df81420756c627a1f5816b",
-    "title": "Literal crossed wires sent cops after innocent neighbors in child abuse case",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/crossed_wires_iioc_case/",
-    "summary": "<h4>Eight-year telco blunder had a profound impact on three wrongly accused in Wales</h4> <p>Details have emerged of a troubling case in which a basic engineering mistake wrecked a digital evidence investigation and led to wrongful accusations.…</p>",
-    "isoDate": "2025-10-17T09:51:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "49517c0314064f6a0478e743dac7369866f9736c",
     "title": "The Skeptic Podcast: Episode #034",
     "link": "https://www.skeptic.org.uk/2025/10/the-skeptic-podcast-episode-034-2/",
@@ -1270,19 +1296,6 @@
     "tags": [
       "Superstition"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "16498d44261f2cdca58a0a4532845e330593de5c",
-    "title": "MIT boffins double precision of atomic clocks by taming quantum noise",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/mit_boffins_double_the_precision/",
-    "summary": "<h4>'Global phase spectroscopy' makes ultraprecise optical timekeepers even more precise</h4> <p>Researchers at MIT say they have discovered a way to double the precision of optical atomic clocks by quieting the quantum noise that clouds their ticking.…</p>",
-    "isoDate": "2025-10-17T08:45:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Owen Hughes",
-    "tags": [],
     "image": "",
     "pinned": false
   },
