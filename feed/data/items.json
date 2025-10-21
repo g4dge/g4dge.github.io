@@ -1,5 +1,18 @@
 [
   {
+    "id": "ec49cd7083415b21ab0c7919ff30f0fa849ac904",
+    "title": "Introducing NTFSplus – because just one NTFS driver for Linux is never enough",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/ntfsplus_new_rw_driver/",
+    "summary": "<h4>Dev unveils a faster, modernized take on Microsoft's file system for penguin-powered PCs</h4> <p>Just under four years after the Linux kernel gained built-in read-write access to Windows drives, an alternative option has appeared.…</p>",
+    "isoDate": "2025-10-21T14:01:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6dfca24a9896a3e9aca917a967ecc42ec3b5496e",
     "title": "Microsoft's ancient icon library still lurks deep within Windows 11",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/windows_pifmgr_chen/",
@@ -600,7 +613,7 @@
     "id": "819a7360f3c28a87e4202c7b5147f29dff04be28",
     "title": "Windows 11 update knocks out USB mice, keyboards in recovery mode",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/microsoft_bug_keyboard_mouse/",
-    "summary": "<h4>October security patch leaves users unable to fix their PCs</h4> <p>Microsoft has confirmed a bug that disables USB mice and keyboards in the Windows Recovery Environment (WinRE) after installing security update KB5066835, released October 14.…</p>",
+    "summary": "<h4>October security patch leaves users unable to fix their PCs</h4> <p><strong>Updated</strong>  Microsoft has confirmed a bug that disables USB mice and keyboards in the Windows Recovery Environment (WinRE) after installing security update KB5066835, released October 14.…</p>",
     "isoDate": "2025-10-20T13:21:14Z",
     "source": "The Register",
     "category": "Tech",
@@ -1255,19 +1268,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Owen Hughes",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "15b0c323b5a2cc010d92186e295f0aba8e26f40b",
-    "title": "Britain's AI gold rush hits a wall – not enough electricity",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/in_britain_talk_is_cheap/",
-    "summary": "<h4>Energy secretary Miliband promises renewable utopia for green and pleasant land... filled with datacenters</h4> <p>Energy is essential for delivering the UK governments' AI ambitions, but Britain faces a critical question: how can it supply enough power for rapidly expanding datacenters without causing blackouts or inflating consumer bills?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-17T08:00:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
