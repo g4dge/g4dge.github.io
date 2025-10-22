@@ -1,5 +1,39 @@
 [
   {
+    "id": "2648fc2c4a745df79b3bc0bb330d520c41733e63",
+    "title": "Google has a useful quantum algorithm that outperforms a supercomputer",
+    "link": "https://arstechnica.com/science/2025/10/google-claims-to-have-quantum-advantage-with-a-potentially-useful-algorithm/",
+    "summary": "An approach it calls \"quantum echoes\" takes 13,000 times longer on a supercomputer.",
+    "isoDate": "2025-10-22T17:00:00Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Google",
+      "Science",
+      "Computer science",
+      "NMR",
+      "Physics",
+      "quantum computing",
+      "quantum mechanics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GoogleQuantumAI_WillowChip_Closeup03-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d39aaa6d79a27a11acf9c8d76e409a86689e9404",
+    "title": "TI CEO says some customers still wary of Trump's import tax roulette",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/tales_of_tariff_trepidation_at/",
+    "summary": "<h4>CEO says some customers still wary of Trump's import tax roulette</h4> <p>The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, according to Texas Instruments.…</p>",
+    "isoDate": "2025-10-22T16:57:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "08b349db5bd6942c564eb3f9afead3247d325e43",
     "title": "AlmaLinux gives Btrfs a home after Red Hat kicked it out",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/btrfs_almalinux/",
@@ -972,25 +1006,6 @@
     "pinned": false
   },
   {
-    "id": "973dbddda75730f33e3d6589136fc0ce75af2257",
-    "title": "Why did NASA’s chief just shake up the agency’s plans to land on the Moon?",
-    "link": "https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/",
-    "summary": "\"The president wants to make sure we beat the Chinese.\"",
-    "isoDate": "2025-10-20T21:53:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "administrator",
-      "duffy",
-      "NASA",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/NHQ202507310028medium-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c7d6ae758607e6b8fcbc8010efe0bad6afad8463",
     "title": "Nexperia drama intensifies as Dutch chipmaker denies ousted CEO's claims of Chinese split",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/nexperia_drama_intensifies_ceo_china_claim/",
@@ -1251,19 +1266,6 @@
     "pinned": false
   },
   {
-    "id": "31043052dd05a49e90c79e6515239fc72b861aa8",
-    "title": "Major AWS outage across US-East region breaks half the internet",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/amazon_aws_outage/",
-    "summary": "<h4>Amazon reports DNS issues hitting DynamoDB, leaving services from Roblox to McDonald's struggling</h4> <p>A major outage is affecting Amazon Web Services (AWS), with even Amazon's own web page reported to be offline and dozens of other online services and websites affected, including disruption in the UK.…</p>",
-    "isoDate": "2025-10-20T09:49:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "0cc6ad566c8d3fbd719009e3c667fd1165182e41",
     "title": "UFO claims take centre stage at National Congress of Brazil hearing",
     "link": "https://www.skeptic.org.uk/2025/10/ufo-claims-take-centre-stage-at-national-congress-of-brazil-hearing/",
@@ -1475,19 +1477,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2022/park-seek-2.jpg/8b49b0aa01f2ea8fa94ba12bfdaa2708/park-seek-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a40462a23e72c851bad5db6fcb54df9736f7d38a",
-    "title": "TIME Names 2012 Tesla Model S Among Top Inventions of the Past 25 Years",
-    "link": "https://www.notateslaapp.com/news/3233/time-names-2012-tesla-model-s-among-top-inventions-of-the-past-25-years",
-    "summary": "TIME Magazine has inducted the 2012 Tesla Model S into its Best Inventions Hall of Fame.&hellip; <a href=\"https://www.notateslaapp.com/news/3233/time-names-2012-tesla-model-s-among-top-inventions-of-the-past-25-years\">Read More</a>",
-    "isoDate": "2025-10-15T17:03:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-s/2012/2012_tesla_model-s_sedan_signature-performance_fq_oem_2_1600x1067.jpg/3ec42f79ab4b08b189249caf466b081d/2012_tesla_model-s_sedan_signature-performance_fq_oem_2_1600x1067.jpg",
     "pinned": false
   }
 ]
