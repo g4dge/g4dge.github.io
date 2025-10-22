@@ -1,5 +1,31 @@
 [
   {
+    "id": "82ca0b5ee5315f4ea46d76ced0ded92b8d283676",
+    "title": "New Linux kernel patch lets you cancel hibernation mid-process",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/linux_hibernation_patch/",
+    "summary": "<h4>RFC proposes power-button interrupt – and highlights wider problems with sleep states</h4> <p>A new Linux kernel patch lets you cancel the process of your machine going into hibernation, but the bigger context of the work may be more important.…</p>",
+    "isoDate": "2025-10-22T12:10:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f64ce9389f25252a50d3788f376c9a84fe94b93b",
+    "title": "AI bubble inflates Microsoft CEO pay to $96.5M",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/microsoft_nadella_pay/",
+    "summary": "<h4>480:1 ratio compared to average employee? Must be all that 'leadership' juice</h4> <p>Months after saying job cuts at Microsoft weighed on him, bossman Satya Nadella has another problem: how to expend his swelling bank balance following another bumper pay rise.…</p>",
+    "isoDate": "2025-10-22T11:23:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Paul Kunert",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "994548079342e8367d2a7324e0a8514e2c48df7e",
     "title": "Jaguar Land Rover cyber-meltdown tipped to cost the UK almost £2B",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/jaguar_lander_rover_cost/",
@@ -1254,32 +1280,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a5a4d2a3133950b044c911bfa7f65777a2be6157",
-    "title": "Amazon spills plan to nuke Washington...with X-Energy mini-reactors",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/amazon_nuke_washington/",
-    "summary": "<h4>Now they just need to get regulatory approval</h4> <p>Despite technological and regulatory hurdles, Amazon remains convinced that small modular reactors (SMRs) are the answer to the cloud titan's power woes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-17T18:58:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "135bd1e7ba271f6d84c3dd0aa3806775c45059de",
-    "title": "American Airlines subsidiary Envoy caught in Clop's Oracle EBS raid",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/17/american_airlines_envoy_oracle_ebs/",
-    "summary": "<h4>Not a good week for Big Red</h4> <p>Envoy Air, an American Airlines subsidiary, has confirmed that it was among the dozens of organizations compromised via Oracle E-Business Suite (EBS) security flaws, following claims by Clop extortionists that its parent company was one of its victims.…</p>",
-    "isoDate": "2025-10-17T17:32:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
