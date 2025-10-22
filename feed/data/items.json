@@ -1,5 +1,34 @@
 [
   {
+    "id": "0f9196a942995fc75a2c71185b777c196861c55b",
+    "title": "Tesla profits fall 37% in Q3 despite healthy sales",
+    "link": "https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/",
+    "summary": "A loss of regulatory credits and increased expenses didn't help.",
+    "isoDate": "2025-10-22T21:42:47Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Tesla earnings"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/tesladown-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2969b16664f4faf84d19e11ebcfe12b436099644",
+    "title": "NextSilicon Maverick-2 promises to blow away the HPC market Nvidia left behind",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/nextsilicon_maverick2_fill_nvidia_hpc_void/",
+    "summary": "<h4>The one chip startup building accelerators for something other than AI boasts performance up 10x that of modern GPUs using a fraction the power</h4> <p>Researchers and engineers working in particle physics, materials analysis, or drug discovery haven't exactly been spoiled for choice when it comes to chips capable of the highly precise double-precision calculations that these workloads depend. NextSilicon aims to change that with Maverick-2, a chip aimed not at AI but the high-performance computing (HPC) community.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-22T21:35:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "359203c4494dd3e74c62ea9bbf1e98678eed2896",
     "title": "This may be the most bonkers tech job listing I’ve ever seen",
     "link": "https://arstechnica.com/culture/2025/10/the-tech-ceo-who-would-eat-dog-poop-if-it-means-winning/",
@@ -41,7 +70,11 @@
     "category": "Tech",
     "author": "Chad Kirchner",
     "tags": [
-      "Cars"
+      "AI",
+      "Cars",
+      "cadillac",
+      "gemini",
+      "General Motors"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1776398279-500x500.jpg",
     "pinned": false
@@ -721,25 +754,6 @@
     "pinned": false
   },
   {
-    "id": "64561fd1a0206018b3b47912e621566e1d7fc541",
-    "title": "HBO Max prices increase by up to $20 today",
-    "link": "https://arstechnica.com/gadgets/2025/10/warner-bros-discovery-raises-hbo-max-prices-as-it-puts-itself-up-for-sale/",
-    "summary": "HBO Max subscription fees have risen every year for the past three years.",
-    "isoDate": "2025-10-21T17:20:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "acquisition",
-      "hbo max",
-      "streaming",
-      "warner bros. discovery"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/peacemakerTOP-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bbcf04c1b1b7434d8f1717dd47a65e93fc321448",
     "title": "AWS outage turned smart homes into dumb boxes – and sysadmins into therapists",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/aws_outage_aftermath/",
@@ -1206,19 +1220,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0f02c38d4c474638366cedf1090b1be8dc931337",
-    "title": "Benioff backs off: Salesforce chief says sorry for Trump troop talk",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/benioff_national_guard_apology/",
-    "summary": "<h4>Tech billionaire apologizes after endorsing plan to deploy National Guard in San Francisco</h4> <p>Salesforce co-founder and CEO Marc Benioff has apologized for backing President Donald Trump's proposals to send the National Guard to San Francisco, where the company is based and holds its annual conference.…</p>",
-    "isoDate": "2025-10-20T12:21:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
