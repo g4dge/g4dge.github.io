@@ -1,5 +1,57 @@
 [
   {
+    "id": "51156577bd89c758f8c76f1c9defbce4691467a0",
+    "title": "AI and hands-free driving are coming to GM’s vehicles",
+    "link": "https://arstechnica.com/cars/2025/10/ai-and-hands-free-driving-are-coming-to-gms-vehicles/",
+    "summary": "Do we want LLMs in our cars? GM thinks we do.",
+    "isoDate": "2025-10-22T20:29:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Chad Kirchner",
+    "tags": [
+      "Cars"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1776398279-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1e38a9bdb6477568df64805680d9022ff7628c6a",
+    "title": "Health care costs are soaring for Americans—and 2026 is looking grim",
+    "link": "https://arstechnica.com/health/2025/10/health-care-costs-are-soaring-for-americans-and-2026-is-looking-grim/",
+    "summary": "Some marketplace premiums could more than double. Employer-based plans are soaring.",
+    "isoDate": "2025-10-22T20:23:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ACA",
+      "health insurance",
+      "KFF",
+      "Marketplace",
+      "premiums"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/GettyImages-148302547-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d5d636f702fac2e4b91aef3521e06f10e5ede91f",
+    "title": "When sycophancy and bias meet medicine",
+    "link": "https://arstechnica.com/health/2025/10/when-sycophancy-and-bias-meet-medicine/",
+    "summary": "Biased, eager-to-please models threaten health research replicability and trust.",
+    "isoDate": "2025-10-22T19:46:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Amit Chandra and Luke Shors",
+    "tags": [
+      "AI",
+      "Health",
+      "medicine"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2214872699-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "aba99ef7c50e1ec8e80e5d9d783c0412382a77bc",
     "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
     "link": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
@@ -680,47 +732,6 @@
     "pinned": false
   },
   {
-    "id": "186fea66a5b34e65886f9ad3b3ac871b18ec80f5",
-    "title": "Google Fi is getting enhanced web calls and messaging, AI bill summaries",
-    "link": "https://arstechnica.com/gadgets/2025/10/google-fi-is-getting-enhanced-web-calls-and-messaging-ai-bill-summaries/",
-    "summary": "Google's MVNO gets better web support, clearer audio, and yes, more AI.",
-    "isoDate": "2025-10-21T17:00:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "Artificial Intelligence",
-      "google",
-      "google fi",
-      "mobile data",
-      "mvno"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/Google-Fi-500x500.png",
-    "pinned": false
-  },
-  {
-    "id": "3700435a5d9c3e0b8f3178046ea71bc109259bdf",
-    "title": "Amazon’s DNS problem knocked out half the web, likely costing billions",
-    "link": "https://arstechnica.com/tech-policy/2025/10/amazons-dns-problem-knocked-out-half-the-web-likely-costing-billions/",
-    "summary": "Amazon’s outage is over. But backlash over billions in losses has just started.",
-    "isoDate": "2025-10-21T16:21:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "Amazon",
-      "amazon outage",
-      "Amazon Web Services",
-      "AWS",
-      "aws outage"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2241879469-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bbcf04c1b1b7434d8f1717dd47a65e93fc321448",
     "title": "AWS outage turned smart homes into dumb boxes – and sysadmins into therapists",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/aws_outage_aftermath/",
@@ -770,26 +781,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-vis.jpg/5728beaa6064ac1bdd4dde3366beba4a/fsd-beta-vis.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2d1a70ca306b0eab5a66219911b91e07ebabda3e",
-    "title": "Even with protections, wolves still fear humans",
-    "link": "https://arstechnica.com/science/2025/10/even-with-protections-wolves-still-fear-humans/",
-    "summary": "European wolves flee human conversation faster than dogs' barking.",
-    "isoDate": "2025-10-21T14:43:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "Biology",
-      "Ecology",
-      "humans",
-      "hunting",
-      "wolves"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2206876894-500x500.jpg",
     "pinned": false
   },
   {
@@ -1220,19 +1211,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9bf077a51c8d5d06590ca24de78cb38bf4511caf",
-    "title": "Lloyds Banking Group claims Microsoft Copilot saves staff 46 minutes a day",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/lloyds_banking_copilot/",
-    "summary": "<h4>That's 46 minutes in which more work can be done, not an extended lunch</h4> <p>Lloyds Banking Group claims employees save 46 minutes daily using Microsoft 365 Copilot, based on a survey of 1,000 users among nearly 30,000 deployed licenses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-20T11:10:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
