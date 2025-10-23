@@ -1,5 +1,66 @@
 [
   {
+    "id": "514ba19f9c2ebf7d1a9fc19c6b6f559ea337c18d",
+    "title": "With new acquisition, OpenAI signals plans to integrate deeper into the OS",
+    "link": "https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/",
+    "summary": "The acquired firm was working on a tool to control macOS directly with AI.",
+    "isoDate": "2025-10-23T22:08:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "Apple",
+      "Tech",
+      "acquisition",
+      "apple",
+      "LLM",
+      "MacOS",
+      "openai",
+      "shortcuts",
+      "Sky",
+      "Software Applications Incorporated"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/openai-sky-500x500.webp",
+    "pinned": false
+  },
+  {
+    "id": "266a40183ab2489511f0bff28d4904699cfeb103",
+    "title": "Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results",
+    "link": "https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/",
+    "summary": "Scraper accused of stealing Reddit content \"shocked\" by lawsuit.",
+    "isoDate": "2025-10-23T21:54:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai scraping",
+      "google",
+      "google search",
+      "Perplexity",
+      "Perplexity.ai",
+      "reddit",
+      "web scraping"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2236792840-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "93e1411ba5b9678ef5148704ad96f70bc534c934",
+    "title": "Playtime’s over: Crooks swipe Toys R Us Canada customer data and dump it online",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/toysrus_canada_data_leak/",
+    "summary": "<h4>What?! No complimentary credit monitoring?</h4> <p>The Canadian outpost of retailer Toys R Us on Thursday notified customers that attackers accessed a database, stole some of their personal information, then posted the data online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-23T21:53:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "4d0fba093d3749b1e807f1153819690695214494",
     "title": "Researchers show that training on “junk data” can lead to LLM “brain rot”",
     "link": "https://arstechnica.com/ai/2025/10/researchers-show-that-training-on-junk-data-can-lead-to-llm-brain-rot/",
@@ -750,43 +811,6 @@
     "pinned": false
   },
   {
-    "id": "1e38a9bdb6477568df64805680d9022ff7628c6a",
-    "title": "Health plan enrollment period is set to be horrifying for everyone this year",
-    "link": "https://arstechnica.com/health/2025/10/health-care-costs-are-soaring-for-americans-and-2026-is-looking-grim/",
-    "summary": "Some marketplace premiums could more than double. Employer-based plans are soaring.",
-    "isoDate": "2025-10-22T20:23:35Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "ACA",
-      "health insurance",
-      "KFF",
-      "Marketplace",
-      "premiums"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/GettyImages-148302547-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d5d636f702fac2e4b91aef3521e06f10e5ede91f",
-    "title": "When sycophancy and bias meet medicine",
-    "link": "https://arstechnica.com/health/2025/10/when-sycophancy-and-bias-meet-medicine/",
-    "summary": "Biased, eager-to-please models threaten health research replicability and trust.",
-    "isoDate": "2025-10-22T19:46:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Amit Chandra and Luke Shors",
-    "tags": [
-      "AI",
-      "Health",
-      "medicine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2214872699-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fef73c8953370e1f11377cffa37c7fd77640f2a7",
     "title": "Salt Typhoon hit governments on three continents with SharePoint attacks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/salt_typhoon_sharepoint_attacks/",
@@ -1197,19 +1221,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/windows_pifmgr_chen/",
     "summary": "<h4>Pixels of the past 'created just for fun'</h4> <p>The <code>pifmgr.dll</code> still lingers in modern Windows installations - a throwback to a simpler and blockier time, according to veteran Microsoft engineer Raymond Chen.…</p>",
     "isoDate": "2025-10-21T13:25:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9623f1c174ca180f1c4d6478317ad2d53e07dba0",
-    "title": "SpaceX is behind schedule, so NASA will open Artemis III contract to competition",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/spacex_is_behind_schedule_so/",
-    "summary": "<h4>Lunar landing reality distortion field slips for Musk's rocketeers</h4> <p>NASA's Acting Administrator has admitted that SpaceX is behind in plans to return astronauts to the Moon, has reopened lander contract competition, and pushed the deadline for a lunar landing to the end of the Trump administration in 2029.…</p>",
-    "isoDate": "2025-10-21T12:31:44Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
