@@ -1,5 +1,37 @@
 [
   {
+    "id": "a4461f6159482868dc4848a342a6d6b248ac861e",
+    "title": "Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant",
+    "link": "https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/",
+    "summary": "\"Mico\" literally tries to put a face on Microsoft's chatbot-turned-assistant.",
+    "isoDate": "2025-10-23T18:48:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "copilot",
+      "microsoft",
+      "windows 11",
+      "windows 11 25h2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Mico-1-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "5d022c78dfac5c7f8654c80fd27bfe5f2b4a0559",
+    "title": "Norks droning on about your dream job while pwning your PC",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/north_korean_dream_job_attacks/",
+    "summary": "<h4>Social engineering? Check. Trojanized open source? Check. Lazarus’ pet RAT? Also check</h4> <p>North Korea's Lazarus Group has successfully compromised Europe's unmanned aerial vehicle (UAV) sector with its Operation DreamJob campaign, which promises job seekers lucrative employment opportunities - but then delivers a malware-laced offer and a compromised computer.…</p>",
+    "isoDate": "2025-10-23T18:35:55Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "15de6bd3379d11ac9fe87162aa5de566ec57091c",
     "title": "Tesla Announces Winner of TeslaVision Contest: Winning Video & Behind the Scenes Look",
     "link": "https://www.notateslaapp.com/news/3260/tesla-announces-winner-of-teslavision-contest-winning-video-behind-the-scenes-look",
@@ -747,28 +779,6 @@
     "pinned": false
   },
   {
-    "id": "2648fc2c4a745df79b3bc0bb330d520c41733e63",
-    "title": "Google has a useful quantum algorithm that outperforms a supercomputer",
-    "link": "https://arstechnica.com/science/2025/10/google-claims-to-have-quantum-advantage-with-a-potentially-useful-algorithm/",
-    "summary": "An approach it calls \"quantum echoes\" takes 13,000 times longer on a supercomputer.",
-    "isoDate": "2025-10-22T17:00:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Features",
-      "Google",
-      "Science",
-      "Computer science",
-      "NMR",
-      "Physics",
-      "quantum computing",
-      "quantum mechanics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GoogleQuantumAI_WillowChip_Closeup03-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d39aaa6d79a27a11acf9c8d76e409a86689e9404",
     "title": "TI CEO says some customers still wary of Trump's import tax roulette",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/tales_of_tariff_trepidation_at/",
@@ -1195,19 +1205,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9e3be32b319c6d021458cd1b5654777d72b059e0",
-    "title": "Muji's minimalist calm shattered as ransomware takes down logistics partner",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/muji_askul_ransomware/",
-    "summary": "<h4>Japanese retailer halts online orders after attack cripples third-party vendor</h4> <p>Japanese retailer Muji is suspending online orders after logistics partner Askul was knocked offline by a ransomware attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-21T11:15:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
