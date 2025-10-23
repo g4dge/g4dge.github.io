@@ -1,5 +1,31 @@
 [
   {
+    "id": "23c51da7391a11ae6199ec335abfe31183cc2ccd",
+    "title": "SpaceX pulls plug on 2,500 Starlink terminals tied to Myanmar fraud farms",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/spacex_starlink_myanmar/",
+    "summary": "<h4>Criminal outfits had been using Musk's broadband beacons to run cyber-slavery scams across Southeast Asia</h4> <p>SpaceX says it has shut down thousands of Starlink terminals that were powering Myanmar's notorious scam compounds after its satellite network was found to be keeping human trafficking and cyber-fraud operations online in the country's lawless border zones.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-23T09:22:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d0adf61975ca8f127a1e760a8ed621c6bab0f822",
+    "title": "Microsoft finance slang defines the eternal optimist: The 'hockey stick on wheels'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/microsoft_hockey_stick_wheels/",
+    "summary": "<h4>The wheels on Copilot's hockey stick must be giving off smoke by now</h4> <p>Microsoft's finance division has a term for an overly optimistic projection that seems to march backward year after year: the hockey stick on wheels.…</p>",
+    "isoDate": "2025-10-23T08:45:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "74364c95b07a83fa4a1b3cda856bebf98fad5d7b",
     "title": "OpenBSD 7.8 out now, and you're not seeing double, 9front releases 'Release'",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/openbsd_78_and_9front_release/",
@@ -1150,32 +1176,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Avram Piltch",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4a40bee641d7ffe3efd8fb58e4dbd2943ffd02ac",
-    "title": "Amazon brain drain finally sent AWS down the spout",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
-    "summary": "<h4>When your best engineers log off for good, don’t be surprised when the cloud forgets how DNS works</h4> <p><strong>column</strong>  \"It's always DNS\" is a long-standing sysadmin saw, and with good reason: a disproportionate number of outages are at their heart DNS issues. And so today, as AWS is still repairing its downed cloud as this article goes to press, it becomes clear that the culprit is once again DNS. But if you or I know this, AWS certainly does.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-20T19:55:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Corey Quinn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5d81103f9b52cb421237ae7422afdc5af6b135eb",
-    "title": "Xubuntu downloads section injection threatens users with crypto infection",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/xubuntu_website_compromised/",
-    "summary": "<h4>Attempted exploit was a feeble effort to target Windows users</h4> <p>Someone managed to insert a compromised file into the downloads section of the website for Xubuntu, the official Ubuntu flavor with the Xfce desktop environment. The malware was designed to steal cryptocurrency, but so far, there are no reports of actual theft.…</p>",
-    "isoDate": "2025-10-20T19:19:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
