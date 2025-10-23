@@ -1,5 +1,31 @@
 [
   {
+    "id": "9aee96c6d7b144b1deb227b66291a62789256868",
+    "title": "IBM renting GPUs from rivals rather than packing ‘em into its own cloud",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/ibm_q3_2025/",
+    "summary": "<h4>Infra revenue soars and AI helps everything … except the share price</h4> <p>If IBM reveals improved profit margins or a fresh round of redundancies, AI may be the reason, because Big Blue today revealed that its own “Project Bob” developer assistance tools have improved productivity among its coders by 45 percent.…</p>",
+    "isoDate": "2025-10-23T01:23:36Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "343785fcdfafa1daa42fc24cba637e458f206777",
+    "title": "OpenAI's Atlas shrugs off security concerns over prompt injection",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/openai_defends_atlas_as_prompt/",
+    "summary": "<h4>'Trust no AI' says one researcher</h4> <p>OpenAI's brand new Atlas browser is more than willing to follow commands maliciously embedded in a web page, an attack type known as indirect prompt injection.…</p>",
+    "isoDate": "2025-10-22T23:49:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6ec4fc8f66606735a93a73ca061299a4468726aa",
     "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
     "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
@@ -1168,19 +1194,6 @@
     "pinned": false
   },
   {
-    "id": "9d2fb9f39feeeb462c7e681805b81edc8baa8be0",
-    "title": "UK rethinks offshoring ban for £8M online procurement system",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/ukgov_offshoring_contract_ban/",
-    "summary": "<h4>Cabinet Office signals it might let supplier ship work abroad after 'unforeseeable' event</h4> <p>The UK government has signaled its intention to allow a supplier providing maintenance to its online procurement platform to subcontract offshore, having previously said that this was off-limits due to security concerns.…</p>",
-    "isoDate": "2025-10-20T13:56:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "d0b4d105c161ac9d7f6d8b7d2c57c3eaf3097682",
     "title": "Tesla Adds Healthcare Workers to 'Everyday Heroes' Discount Program",
     "link": "https://www.notateslaapp.com/news/3251/tesla-adds-healthcare-workers-to-everyday-heroes-discount-program",
@@ -1191,19 +1204,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_53.jpg/0e0ab1619391f89c13a21ab47fe99ac7/group_53.jpg",
-    "pinned": false
-  },
-  {
-    "id": "819a7360f3c28a87e4202c7b5147f29dff04be28",
-    "title": "Windows 11 update knocks out USB mice, keyboards in recovery mode",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/microsoft_bug_keyboard_mouse/",
-    "summary": "<h4>October security patch leaves users unable to fix their PCs</h4> <p><strong>Updated</strong>  Microsoft has confirmed a bug that disables USB mice and keyboards in the Windows Recovery Environment (WinRE) after installing security update KB5066835, released October 14.…</p>",
-    "isoDate": "2025-10-20T13:21:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1431,19 +1431,6 @@
     "author": "Sophia Rosenfeld",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "59b524efa6a2aa529884de2ba943f4ccc6d39a09",
-    "title": "Tesla Update 2025.32.8.10 (FSD V14.1.2) Release Notes",
-    "link": "https://www.notateslaapp.com/software-updates/version/2025.32.8.10/release-notes",
-    "summary": "Tesla software update 2025.32.8.10 (FSD 14.1.2) includes FSD (Supervised) v14.1.2, Arrival Options, Speed Profiles, UI Improvements, Brake Confirm, Full Self-Driving (Supervised). <a href=\"https://www.notateslaapp.com/software-updates/version/2025.32.8.10/release-notes\">View Release Notes</a>",
-    "isoDate": "2025-10-16T01:00:08Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
     "pinned": false
   }
 ]
