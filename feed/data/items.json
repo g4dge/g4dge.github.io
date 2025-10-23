@@ -1,5 +1,31 @@
 [
   {
+    "id": "8b0508306d839df209d6ed72b5ff45b95d6ffb66",
+    "title": "A single DNS race condition brought Amazon's cloud empire to its knees",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/amazon_outage_postmortem/",
+    "summary": "<h4>Fault in DynamoDB system cascaded through AWS services, knocking major sites offline for hours</h4> <p>Amazon has published a detailed postmortem explaining how a critical fault in DynamoDB's DNS management system cascaded into a day-long outage that disrupted major websites and services across multiple brands – with damage estimates potentially reaching hundreds of billions of dollars.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-23T13:18:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3a7b23d4032d616aefd0ed6a63841a229fd44cd0",
+    "title": "SAP says some customers are dragging their feet on contract sign-offs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/sap_q3/",
+    "summary": "<h4>Share price dips as cloud sales outlook disappoints amid slow US public sector bookings</h4> <p>SAP disappointed investors today after reporting full-year cloud revenue at the bottom end of its guidance range, with execs saying customers in manufacturing and the public sector are taking longer to sign contracts.…</p>",
+    "isoDate": "2025-10-23T13:02:36Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9d9fbd5564e624629659013d88edc5cc565f6799",
     "title": "Everything Tesla Announced During Its Q3 2025 Earnings Call: Summary/Recap",
     "link": "https://www.notateslaapp.com/news/3262/everything-tesla-announced-during-its-q3-2025-earnings-call-summaryrecap",
@@ -1204,32 +1230,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6da51e6a3e7fe1a74f428f00d753eb1f3e2d629a",
-    "title": "AI does a better job of ripping off the style of famous authors than MFA students do",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/ai_wins_imitation_game_readers/",
-    "summary": "<h4>Shall I refer thee to all those lawsuits about fair use? Researchers think this result makes them worth revisiting</h4> <p>Readers of texts created to use the styles of famous authors prefer works written by AI to human-written imitations, but only after developers fine-tune AI models to understand an author’s output.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-21T00:47:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9ded36badc56629262532edcb8f6229fd139f7c2",
-    "title": "Suspected Salt Typhoon snoops lurking in European telco's network",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/salt_typhoon_european_telco/",
-    "summary": "<h4>It's Typhoon season…year round</h4> <p>China's Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.…</p>",
-    "isoDate": "2025-10-20T22:36:42Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
