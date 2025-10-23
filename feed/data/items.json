@@ -71,7 +71,7 @@
   },
   {
     "id": "3c6999275d3eb7279928d399aeb5ef3ce61aaebb",
-    "title": "Tesla fixes glaringly bright front parking lights on Cybertruck",
+    "title": "Blinded by the light: Tesla fixes glaringly bright Cybertruck headlights",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/tesla_parking_lights_ota_update/",
     "summary": "<h4>Plus: Model 3/Y recall over battery-pack contactors that can cut drive power</h4> <p>Feeling a bit blinded by the light when a Cybertruck rolls by? It's not just you — Tesla's recalling most built to date because the boxy pickup's front parking lights are too bright.…</p>",
     "isoDate": "2025-10-23T16:28:05Z",
@@ -1060,7 +1060,7 @@
     "id": "a4dc74f195540dbd65dcc2ada0698a706478a8ea",
     "title": "MCP attack abuses predictable session IDs to hijack AI agents",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/mcp_prompt_hijacking_attack/",
-    "summary": "<h4>The vuln affects the Oat++ MCP implementation</h4> <p>A security flaw in the Oat++ implementation of Anthropic's Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and inject malicious responses via the oatpp-mcp server.…</p>",
+    "summary": "<h4>The vuln affects the Oat++ MCP implementation</h4> <p><strong>updated</strong>  A security flaw in the Oat++ implementation of Anthropic's Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and inject malicious responses via the oatpp-mcp server.…</p>",
     "isoDate": "2025-10-21T19:36:24Z",
     "source": "The Register",
     "category": "Tech",
@@ -1466,19 +1466,6 @@
       "Superstition"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fb10e8c5c020b74e6dc4dc84e884d0043cf9551e",
-    "title": "Tesla Removes TPMS Sensors in Standard Model 3 & Model Y",
-    "link": "https://www.notateslaapp.com/news/3241/tesla-removes-tpms-sensors-in-standard-model-3-model-y",
-    "summary": "A deep dive into why Tesla's new Standard trims use an Indirect TPMS that doesn't show individual tire pressures, and what it means for owners.&hellip; <a href=\"https://www.notateslaapp.com/news/3241/tesla-removes-tpms-sensors-in-standard-model-3-model-y\">Read More</a>",
-    "isoDate": "2025-10-16T17:29:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tire-pressure-tpms.jpg/eee029e0a558bc88604d7137f33a0635/tire-pressure-tpms.jpg",
     "pinned": false
   }
 ]
