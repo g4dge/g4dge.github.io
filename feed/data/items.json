@@ -1,5 +1,61 @@
 [
   {
+    "id": "3c6999275d3eb7279928d399aeb5ef3ce61aaebb",
+    "title": "Tesla fixes glaringly bright front parking lights on Cybertruck",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/tesla_parking_lights_ota_update/",
+    "summary": "<h4>Plus: Model 3/Y recall over battery-pack contactors that can cut drive power</h4> <p>Feeling a bit blinded by the light when a Cybertruck rolls by? It's not just you — Tesla's recalling most built to date because the boxy pickup's front parking lights are too bright.…</p>",
+    "isoDate": "2025-10-23T16:28:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "242cc308f444c3fda51504e46b218f3021ce1b36",
+    "title": "Great hybrid V6, lousy HMI: Three days with a Ferrari 296 GTB",
+    "link": "https://arstechnica.com/cars/2025/10/great-hybrid-v6-lousy-hmi-three-days-with-a-ferrari-296-gtb/",
+    "summary": "Three days with a car revealed its character in more ways than one.",
+    "isoDate": "2025-10-23T16:25:00Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "car review",
+      "Ferrari 296 GTB"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2025-Ferrari-296-GTB-1-of-12-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a499a895f3195fa8271d081fb9e25bf97b8b937b",
+    "title": "Trump's workforce cuts blamed as America's cyber edge dulls",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/trumps_workforce_cuts_blamed_in_report/",
+    "summary": "<h4>The Cyberspace Solarium Commission says years of progress are being undone amid current administration's cuts</h4> <p>America's once-ambitious cyber defences are starting to rust, according to the latest annual report from the US Cyberspace Solarium Commission (CSC), which warns that policy momentum has slowed and even slipped backwards thanks to Trump-era workforce and budget cuts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-23T15:57:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "04331fd028e8aa82ba6ecbf6627cb124a3b439bf",
+    "title": "Tesla to Bring FSD V14 \"Lite\" to Hardware 3 Vehicles: Features Expected, Timeline and Hardware Upgrade",
+    "link": "https://www.notateslaapp.com/news/3263/tesla-to-bring-fsd-v14-lite-to-hardware-3-vehicles",
+    "summary": "Tesla discusses the next upgrade for hardware 3 vehicles, FSD V14 Lite. We take a look at what may be included and timelines for an upgrade.&hellip; <a href=\"https://www.notateslaapp.com/news/3263/tesla-to-bring-fsd-v14-lite-to-hardware-3-vehicles\">Read More</a>",
+    "isoDate": "2025-10-23T15:52:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-vis-2.jpg/eb3f80143b74362987cf16434024373e/fsd-beta-vis-2.jpg",
+    "pinned": false
+  },
+  {
     "id": "303fba15d774828f38c5cce5720a9f304d3e5485",
     "title": "Reports suggest Apple is already pulling back on the iPhone Air",
     "link": "https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/",
@@ -968,46 +1024,6 @@
     "pinned": false
   },
   {
-    "id": "3d72a5882bf8cafc0cd03c6d2167637518eac49f",
-    "title": "It’s troll vs. troll in Netflix’s Troll 2 trailer",
-    "link": "https://arstechnica.com/culture/2025/10/troll-2-trailer-is-a-godzilla-inspired-monster-mash/",
-    "summary": "Norwegian director Roar Uthaug's sequel to his 2022 film <em>Troll</em> knows to not take itself too seriously.",
-    "isoDate": "2025-10-21T19:58:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "film trailers",
-      "Netflix",
-      "Norwegian mythology",
-      "streaming television",
-      "troll 2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/troll1-500x500-1761073842.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cec0ccc110f814df3f101052421592c125e1d6ef",
-    "title": "Elon Musk just declared war on NASA’s acting administrator, apparently",
-    "link": "https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/",
-    "summary": "\"Sean said that NASA might benefit from being part of the Cabinet.\"",
-    "isoDate": "2025-10-21T19:45:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "china",
-      "isaacman",
-      "NASA",
-      "Sean Duffy",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/54441425446_25b87f0fd0_k-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a4dc74f195540dbd65dcc2ada0698a706478a8ea",
     "title": "MCP attack abuses predictable session IDs to hijack AI agents",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/mcp_prompt_hijacking_attack/",
@@ -1185,32 +1201,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Rahul Pandita",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "94eeaa33d684881f4b94b958bc8902d938eb4cd0",
-    "title": "Trust the AI, says new coding manifesto by Kim and Yegge",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/book_review_vibe_coding/",
-    "summary": "<h4>DevOps guru and ex-Googler say vibes beat reading diffs but there are risks</h4> <p>\"Accept All. Always. Don't read the diffs anymore.\"…</p>",
-    "isoDate": "2025-10-21T09:45:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5d3ea4a1ece26e5b861212ae2de59d07c579cc85",
-    "title": "How malware vaccines could stop ransomware's rampage",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/malware_vaccines/",
-    "summary": "<h4>Security pros explore whether infection-spoofing code can immunize Windows systems against attack</h4> <p><strong>Feature</strong>  What's better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given that ransomware has continued to escalate, more proactive action is needed.…</p>",
-    "isoDate": "2025-10-21T09:04:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Mary-Ann Russon",
     "tags": [],
     "image": "",
     "pinned": false
