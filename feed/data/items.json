@@ -1,7 +1,38 @@
 [
   {
+    "id": "9b3daab96c9e883a07ddca0ad3a5e9646d0f1fc8",
+    "title": "Sneaky Mermaid attack in Microsoft 365 Copilot steals data",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/",
+    "summary": "<h4>Redmond says it's fixed this particular indirect prompt injection vuln</h4> <p>Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data – like emails – via indirect prompt injection attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-24T18:58:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7052c0201c545b8fa004d49f56aac180f335b32a",
+    "title": "Tech billionaires are now shaping the militarization of American cities",
+    "link": "https://arstechnica.com/tech-policy/2025/10/troops-in-us-cities-tech-billionaires-are-shaping-that-too/",
+    "summary": "Money means access to power—and tech has plenty of money.",
+    "isoDate": "2025-10-24T18:55:47Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nate Anderson",
+    "tags": [
+      "Policy",
+      "benioff",
+      "politics",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2232417355-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "900fd39d48f5a0609398ba0b5a0e50d0d9c945e4",
-    "title": "Feds probe Tesla about its “Mad Max” mode",
+    "title": "Tesla’s “Mad Max” mode is now under federal scrutiny",
     "link": "https://arstechnica.com/cars/2025/10/feds-probe-tesla-about-its-mad-max-mode/",
     "summary": "The new mode added in the latest update will speed and weave through traffic.",
     "isoDate": "2025-10-24T18:35:30Z",
@@ -807,27 +838,6 @@
     "pinned": false
   },
   {
-    "id": "303fba15d774828f38c5cce5720a9f304d3e5485",
-    "title": "Reports suggest Apple is already pulling back on the iPhone Air",
-    "link": "https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/",
-    "summary": "New phone design compromises on camera and battery to achieve a lighter weight.",
-    "isoDate": "2025-10-23T15:04:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Tech",
-      "apple",
-      "iphone",
-      "iphone air",
-      "iPhone mini",
-      "iphone plus"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3384-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "85289583992d24b9fc288bba937cd433a3592e4f",
     "title": "Microsoft suggests temporary registry hack for stricken smart card users",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/microsoft_smart_card_registry/",
@@ -1148,19 +1158,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "08b349db5bd6942c564eb3f9afead3247d325e43",
-    "title": "AlmaLinux gives Btrfs a home after Red Hat kicked it out",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/btrfs_almalinux/",
-    "summary": "<h4>Not the default file system, but in the installer if you want it</h4> <p>AlmaLinux is to support the Btrfs file system in version 10.1 of its eponymous RHELative operating system.…</p>",
-    "isoDate": "2025-10-22T16:31:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
