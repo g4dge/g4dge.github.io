@@ -1,5 +1,67 @@
 [
   {
+    "id": "1a3ac4e04113d095d8eaf1d18639950d69efd69b",
+    "title": "Rivian settles shareholder lawsuit for $250 million, denies allegations",
+    "link": "https://arstechnica.com/cars/2025/10/rivian-settles-shareholder-lawsuit-for-250-million-denies-allegations/",
+    "summary": "Investors sued Rivian claiming it knew prices had to rise after its IPO.",
+    "isoDate": "2025-10-24T16:30:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Rivian"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/rivian-assembly-scaled-500x500-1761322088.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cc35459008103e56dd18afe24d83e1014ceb41b1",
+    "title": "Uncle Sam's new power plan will plug AI farms into the grid faster",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/doe_datacenter_grid_connection/",
+    "summary": "<h4>Proposal would fast-track hookups for the megawatt-hungry datacenters driving US electricity demand</h4> <p>The US Energy Secretary wants to see datacenters connected to the grid faster, and has directed the Federal Energy Regulatory Commission (FERC) to implement new rules that speed the process.…</p>",
+    "isoDate": "2025-10-24T16:26:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fb3833bfa04e203300b81e904e803a374073f640",
+    "title": "Bats eat the birds they pluck from the sky while on the wing",
+    "link": "https://arstechnica.com/science/2025/10/tracking-bats-as-they-hunt-birds-in-the-skies-above-europe/",
+    "summary": "A handful of bat species hunt birds, and new sensor data tells us how.",
+    "isoDate": "2025-10-24T16:16:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "bats",
+      "Biology",
+      "birds",
+      "Ecology",
+      "hunting"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/image-4-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "97be3c5b9fdd3201510c213b6eb6fe91f5ad2750",
+    "title": "OpenAI goes after Microsoft 365 Copilot's lunch with 'company knowledge' feature",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/openai_chatgpt_company_knowledge/",
+    "summary": "<h4>ChatGPT can now rummage through corporate files via connectors, though Redmond still has the deeper hooks</h4> <p>OpenAI is chalenging Microsoft 365 Copilot with \"company knowledge,\" a new ChatGPT feature that connects to organizational data to generate business-specific answers.…</p>",
+    "isoDate": "2025-10-24T15:46:38Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "27a02a269a44416f91c4ff2aad0e4473be2024d1",
     "title": "DNA analysis reveals likely pathogens that killed Napoleon’s army",
     "link": "https://arstechnica.com/science/2025/10/dna-analysis-reveals-likely-pathogens-that-killed-napoleons-army/",
@@ -88,7 +150,6 @@
     "category": "Tech",
     "author": "Stephen Clark",
     "tags": [
-      "Science",
       "Space",
       "Donald Trump",
       "earth observation",
@@ -879,52 +940,6 @@
     "pinned": false
   },
   {
-    "id": "dcdbd3ade4b89b9b7b2b5c222c6aaeaa993b8f19",
-    "title": "California startup to demonstrate space weapon on its own dime",
-    "link": "https://arstechnica.com/space/2025/10/california-startup-to-demonstrate-space-weapon-on-its-own-dime/",
-    "summary": "\"All of the pieces that are required to make it viable exist.\"",
-    "isoDate": "2025-10-23T11:15:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "apex",
-      "golden dome",
-      "Lockheed Martin",
-      "military space",
-      "missile defense",
-      "Northrop Grumman",
-      "space policy",
-      "US Space Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/apex_sbi-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7d2915b5241d22946f1983d7d44a097ab3fef6f3",
-    "title": "We let OpenAI’s “Agent Mode” surf the web for us—here’s what happened",
-    "link": "https://arstechnica.com/features/2025/10/we-let-openais-agent-mode-surf-the-web-for-us-heres-what-happened/",
-    "summary": "From scanning emails to building fansites, Atlas can ably automate some web-based tasks.",
-    "isoDate": "2025-10-23T11:00:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Features",
-      "agent mode",
-      "ATLAS",
-      "automation",
-      "ChatGPT",
-      "openai",
-      "web browser"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2022302070-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "499d480c72a08c9c5c1990540075e941f80af206",
     "title": "Microsoft threatens to ram Copilot into Exchange Server on-prem",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/copilot_exchange_server/",
@@ -1159,19 +1174,6 @@
     "pinned": false
   },
   {
-    "id": "18cc6b9a470d1a4ab6c1b2c14046af83e2401879",
-    "title": "Grounded jet engines take off again as datacenter generators",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/datacenter_jet_engines/",
-    "summary": "<h4>AI power demands drive operators to repurpose aircraft parts amid gas turbine shortages</h4> <p>AI-driven datacenter energy needs are causing a shortage of gas turbines to power generators, with some operators reportedly turning to old aircraft engines instead.…</p>",
-    "isoDate": "2025-10-22T15:30:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "8fed917ae9c900a7e377a49ec67d8b45effcff4c",
     "title": "The $25K Tesla is Dead, and the Cybercab Killed it [Opinion]",
     "link": "https://www.notateslaapp.com/news/3259/the-25k-tesla-is-dead-and-the-cybercab-killed-it-opinion",
@@ -1182,19 +1184,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/next-gen-car/next-gen-car.jpg/0209623c8a391b4b7eed3729a8c0cee4/next-gen-car.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8b6fe5fc272f9129a09ca782318f3f2d33fdd636",
-    "title": "Dropping Nvidia for Amazon's custom chips helped gene therapy startup Metagenomi cut AI bill 56%",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/aws_metagenomi_ai_inferentia/",
-    "summary": "<h4>It's not the size of your accelerator, it's how you use it</h4> <p>Gene editing startup Metagenomi has tapped AWS's Inferentia 2 accelerators to speed the discovery of potentially life-saving therapies, and said its efforts cost 56 percent less than it would have incurred using Nvidia GPUs.…</p>",
-    "isoDate": "2025-10-22T14:43:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1475,19 +1464,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2021/key-card-1.jpg/5c7692cc905244ccc02976ffa7a0aa9a/key-card-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "45b8e3f2e0045725320e9ec3ab80c0f709a926f7",
-    "title": "Tesla’s Q3 2025 Earnings Call: When to Listen & Top Investor Questions",
-    "link": "https://www.notateslaapp.com/news/3236/teslas-q3-2025-earnings-call-when-to-listen-top-investor-questions",
-    "summary": "A look at the top investor questions for Tesla's Q3 2025 earnings call, focusing on the Robotaxi roadmap, the next-generation vehicle, and FSD progress.&hellip; <a href=\"https://www.notateslaapp.com/news/3236/teslas-q3-2025-earnings-call-when-to-listen-top-investor-questions\">Read More</a>",
-    "isoDate": "2025-10-17T16:02:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/future-rendering-1.webp/f20d3fa3068951371f161c60ebc06840/future-rendering-1.jpg",
     "pinned": false
   }
 ]
