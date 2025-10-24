@@ -1,7 +1,39 @@
 [
   {
+    "id": "fe096ae9623a5bc6cf23d07f017369e17316bd2b",
+    "title": "Microsoft’s Mico heightens the risks of parasocial LLM relationships",
+    "link": "https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/",
+    "summary": "\"It looks like you're trying to find a friend. Would you like help?\"",
+    "isoDate": "2025-10-24T17:07:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Avatar",
+      "copilot",
+      "mico",
+      "microsoft"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-500x500-1761323862.png",
+    "pinned": false
+  },
+  {
+    "id": "a451b80326cb7348c1743e1b9ed924c3df1fd81b",
+    "title": "Sora makes slurfect deepfakes of celebs spewing racial epithets",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/sora_celebrities_racist_videos/",
+    "summary": "<h4>If you listen closely, you’ll realize Sam Altman and the others are only saying sound-alike words</h4> <p>Guardrails? What guardrails? Naughty netizens found a way to trick the Sora 2 video generator into producing deepfakes of public figures, including OpenAI CEO Sam Altman and billionaire Mark Cuban, that make it sound as though they're spewing racial slurs. The trick works despite Sora's built-in filters meant to block hateful language.…</p>",
+    "isoDate": "2025-10-24T17:01:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1a3ac4e04113d095d8eaf1d18639950d69efd69b",
-    "title": "Rivian settles shareholder lawsuit for $250 million, denies allegations",
+    "title": "Rivian is settling $250 million lawsuit to focus on next year’s R2 EV",
     "link": "https://arstechnica.com/cars/2025/10/rivian-settles-shareholder-lawsuit-for-250-million-denies-allegations/",
     "summary": "Investors sued Rivian claiming it knew prices had to rise after its IPO.",
     "isoDate": "2025-10-24T16:30:12Z",
@@ -903,43 +935,6 @@
     "pinned": false
   },
   {
-    "id": "24a4f301ac2e7786b8fd2ade9137c7c1e69cff37",
-    "title": "Texas lawmakers double down on Discovery, call for DOJ investigation into Smithsonian",
-    "link": "https://arstechnica.com/space/2025/10/texas-lawmakers-double-down-on-discovery-call-for-doj-investigation-into-smithsonian/",
-    "summary": "\"This is the dumbest plan I've ever heard in nearly five years in the United States Senate.\"",
-    "isoDate": "2025-10-23T11:30:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Robert Pearlman",
-    "tags": [
-      "Space",
-      "Bring the Space Shutle Home",
-      "Chantilly",
-      "Discovery",
-      "DoJ",
-      "John Cornyn",
-      "letter",
-      "mark kelly",
-      "mark warner",
-      "National Air and Space Museum",
-      "One Big Beautiful Bill",
-      "Randy Weber",
-      "Senate",
-      "Smithsonian",
-      "space center houston",
-      "Space exploration",
-      "space history",
-      "Space shuttle",
-      "Steven F. Udvar-Hazy Center",
-      "ted cruz",
-      "texas",
-      "U.S. Department of Justice",
-      "Virginia"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/news-102225a-lg-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "499d480c72a08c9c5c1990540075e941f80af206",
     "title": "Microsoft threatens to ram Copilot into Exchange Server on-prem",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/copilot_exchange_server/",
@@ -1153,19 +1148,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/btrfs_almalinux/",
     "summary": "<h4>Not the default file system, but in the installer if you want it</h4> <p>AlmaLinux is to support the Btrfs file system in version 10.1 of its eponymous RHELative operating system.…</p>",
     "isoDate": "2025-10-22T16:31:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "840c0bf04efc786d1610eb7cb7d4d4f98fa5fda7",
-    "title": "Microsoft puts Office Online Server on the chopping block",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/microsoft_office_online_server/",
-    "summary": "<h4>The end is nigh, now get thee to 365</h4> <p>Microsoft will kill Office Online Server next year, creating a headache for anyone using on-premises Office web applications and the beleaguered holdouts sticking with Skype for Business Server.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-22T16:14:12Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
@@ -1451,19 +1433,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2022/smart-summon.jpg/798edbddcaab8ecac3cc8c21ac292add.jpg",
-    "pinned": false
-  },
-  {
-    "id": "30f373c609f28df81990612c1890befce964f044",
-    "title": "Tesla May No Longer Include Key Cards With New Vehicles",
-    "link": "https://www.notateslaapp.com/news/3240/tesla-may-no-longer-include-key-cards-with-new-vehicles",
-    "summary": "Tesla has removed mentions of included key cards from its manuals; they may be a paid accessory for new Model 3 and Model Y Standard trims.&hellip; <a href=\"https://www.notateslaapp.com/news/3240/tesla-may-no-longer-include-key-cards-with-new-vehicles\">Read More</a>",
-    "isoDate": "2025-10-17T17:05:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2021/key-card-1.jpg/5c7692cc905244ccc02976ffa7a0aa9a/key-card-1.jpg",
     "pinned": false
   }
 ]
