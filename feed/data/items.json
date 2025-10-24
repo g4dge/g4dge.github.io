@@ -1,5 +1,78 @@
 [
   {
+    "id": "3c5a71df60297a873f9bad7bc40487ccd9f6765d",
+    "title": "Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem",
+    "link": "https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/",
+    "summary": "In new research, AI models show a troubling tendency to agree with whatever the user says.",
+    "isoDate": "2025-10-24T22:26:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "AI sycophancy",
+      "facts",
+      "hallucination",
+      "made up",
+      "sycophancy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2195752979-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2635773fffce65359242719cbd18ba9033cc3d87",
+    "title": "A single point of failure triggered the Amazon outage affecting millions",
+    "link": "https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/",
+    "summary": "A DNS manager in a single region of Amazon's sprawling network touched off a 16-hour debacle.",
+    "isoDate": "2025-10-24T21:53:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Tech",
+      "Amazon",
+      "AWS",
+      "EC2",
+      "race conditions"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d4b32183a87e79ded98faaaac366e7eefe777c7f",
+    "title": "Man takes herbal pain quackery, nearly dies, spends months in hospital",
+    "link": "https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/",
+    "summary": "The 61-year-old had wounds all over, a bacterial infection, and needed intensive care.",
+    "isoDate": "2025-10-24T21:29:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "case report",
+      "cortisol",
+      "herbal supplements",
+      "hormones",
+      "supplements"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-462760366-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c5d4137a0bf92004f8bf55b5aa84c8a51fafe25f",
+    "title": "High-stakes poker scam used rigged card shufflers, X-ray tables, and special glasses",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/mafia_and_nba_celebs_arrested/",
+    "summary": "<h4>31 alleged poker schemers nabbed alongside arrest of separate sports betting ring</h4> <p>The feds on Thursday charged alleged mafia associates and current and former National Basketball Association players and coaches with running rigged poker games and illegal sports betting.…</p>",
+    "isoDate": "2025-10-24T21:20:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "d99bcd7c001e4df4b32cc270ca2f2c9243ce0ed8",
     "title": "Clinical trial of a technique that could give everyone the best antibodies",
     "link": "https://arstechnica.com/science/2025/10/dna-and-jolts-of-electricity-get-people-to-make-optimal-antibodies/",
@@ -44,7 +117,7 @@
     "id": "9b3daab96c9e883a07ddca0ad3a5e9646d0f1fc8",
     "title": "Sneaky Mermaid attack in Microsoft 365 Copilot steals data",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/",
-    "summary": "<h4>Redmond says it's fixed this particular indirect prompt injection vuln</h4> <p>Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data – like emails – via indirect prompt injection attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Redmond says it's fixed this particular indirect prompt injection vuln</h4> <p><strong>updated</strong>  Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data – like emails – via indirect prompt injection attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-10-24T18:58:32Z",
     "source": "The Register",
     "category": "Tech",
@@ -721,25 +794,6 @@
     "pinned": false
   },
   {
-    "id": "a4461f6159482868dc4848a342a6d6b248ac861e",
-    "title": "Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant",
-    "link": "https://arstechnica.com/gadgets/2025/10/microsoft-makes-copilot-human-centered-with-a-90s-style-animated-assistant/",
-    "summary": "\"Mico\" literally tries to put a face on Microsoft's chatbot-turned-assistant.",
-    "isoDate": "2025-10-23T18:48:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "copilot",
-      "microsoft",
-      "windows 11",
-      "windows 11 25h2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Mico-1-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "5d022c78dfac5c7f8654c80fd27bfe5f2b4a0559",
     "title": "Norks droning on about your dream job while pwning your PC",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/north_korean_dream_job_attacks/",
@@ -766,28 +820,6 @@
     "pinned": false
   },
   {
-    "id": "0d75eee6e354f261c38cf51be681a47f82e4e172",
-    "title": "The first people to set foot in Australia were fossil hunters",
-    "link": "https://arstechnica.com/science/2025/10/the-first-people-to-set-foot-in-australia-were-fossil-hunters/",
-    "summary": "Europeans weren't the first people to collect fossils in Australia.",
-    "isoDate": "2025-10-23T17:04:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "aboriginal australians",
-      "ancient people did stuff",
-      "Archaeology",
-      "australia",
-      "biological archaeology",
-      "Megafauna",
-      "megafaunal extinction"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/rsosSimosthenurus_occidentalis-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4fc72e6318bac89630eebb8d48ee37874bfeebb0",
     "title": "Give Europe some space! 3 companies join forces to reach for the stars",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/euro_trio_space/",
@@ -798,28 +830,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e2635ca0af9ba2957f635f22ead642044a3504f3",
-    "title": "CS2 item market loses nearly $2B in value overnight due to “trade up” update",
-    "link": "https://arstechnica.com/gaming/2025/10/valve-upends-the-cs2-item-marketplace-with-new-trade-up-update/",
-    "summary": "Once rare $14K knife now sells for $7K, some common guns jump from $10 to over $100.",
-    "isoDate": "2025-10-23T16:40:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "counter-strike 2",
-      "CS@",
-      "CS2",
-      "items",
-      "Marketplace",
-      "trading",
-      "Valve"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cs2knife-500x500.png",
     "pinned": false
   },
   {
@@ -1169,19 +1179,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d39aaa6d79a27a11acf9c8d76e409a86689e9404",
-    "title": "TI CEO says some customers still wary of Trump's import tax roulette",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/tales_of_tariff_trepidation_at/",
-    "summary": "<h4>Company shares lost value on slow-than-expected sales</h4> <p>The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, according to Texas Instruments.…</p>",
-    "isoDate": "2025-10-22T16:57:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
