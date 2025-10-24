@@ -1,5 +1,18 @@
 [
   {
+    "id": "78f9b21cc435a7ba4b453b252a1042d5976ccb42",
+    "title": "Intel says server CPUs will be hot again – in a good way, to power AI workloads – any year now",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/intel_q3_2025/",
+    "summary": "<h4>Chipzilla returns to profit and suggests customers are primed to sign for foundry services once it nails 18A process</h4> <p>Intel has returned to profitability, grown revenue, and suggested demand for AI will ensure its struggling foundry business wins customers and boosts its datacenter CPU business.…</p>",
+    "isoDate": "2025-10-24T03:27:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "8880ad1695bbed6d2a43d3865779d5732c1d8347",
     "title": "Cyber exec with lavish lifestyle charged with selling secrets to Russia",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/former_l3harris_cyber_director_charged/",
@@ -1146,19 +1159,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a4dc74f195540dbd65dcc2ada0698a706478a8ea",
-    "title": "MCP attack abuses predictable session IDs to hijack AI agents",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/mcp_prompt_hijacking_attack/",
-    "summary": "<h4>The vuln affects the Oat++ MCP implementation</h4> <p><strong>updated</strong>  A security flaw in the Oat++ implementation of Anthropic's Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and inject malicious responses via the oatpp-mcp server.…</p>",
-    "isoDate": "2025-10-21T19:36:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
