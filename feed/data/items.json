@@ -1,5 +1,44 @@
 [
   {
+    "id": "8880ad1695bbed6d2a43d3865779d5732c1d8347",
+    "title": "Cyber exec with lavish lifestyle charged with selling secrets to Russia",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/former_l3harris_cyber_director_charged/",
+    "summary": "<h4>The 0-days have left the building</h4> <p>Federal prosecutors have charged a former general manager of US government defense contractor L3Harris's cyber arm Trenchant with selling secrets to an unidentified Russian buyer for $1.3 million.…</p>",
+    "isoDate": "2025-10-24T00:30:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "06ce0ce57939abbef4806d5d862abbbb8842dec5",
+    "title": "Clippy rises from the dead in major update to Copilot and its voice interface",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/microsoft_clippy_copilot_update/",
+    "summary": "<h4>The new Microsoft assistant is a blob named Mico, but you can turn it into everyone’s favorite paper clip.</h4> <p><strong>Hands On</strong>  Microsoft’s Clippy was an anthropomorphic assistant ahead of his time, offering to help you with your Office 97 tasks when all you could do was type and click in response. Today, as part of a massive Copilot Fall Release, Redmond is bringing Clippy back – at least as an avatar for its new AI helper named “Mico”.…</p>",
+    "isoDate": "2025-10-24T00:15:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "af2ea02bf50b1f53b5ee8d7ab71123bc27a1092c",
+    "title": "Don't take AI to Thanksgiving: Bots have hidden biases",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/ai_model_bias_inevitable/",
+    "summary": "<h4>It's not a bug, it's a feature</h4> <p>Large language models, or LLMs, are biased in one way or another - often many. And there may be no way around that.…</p>",
+    "isoDate": "2025-10-23T23:42:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "514ba19f9c2ebf7d1a9fc19c6b6f559ea337c18d",
     "title": "With new acquisition, OpenAI signals plans to integrate deeper into the OS",
     "link": "https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/",
@@ -690,7 +729,7 @@
   },
   {
     "id": "343785fcdfafa1daa42fc24cba637e458f206777",
-    "title": "OpenAI's Atlas shrugs off security concerns over prompt injection",
+    "title": "OpenAI's Atlas shrugs off inevitability of prompt injection, releases AI browser anyway",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/openai_defends_atlas_as_prompt/",
     "summary": "<h4>'Trust no AI' says one researcher</h4> <p>OpenAI's brand new Atlas browser is more than willing to follow commands maliciously embedded in a web page, an attack type known as indirect prompt injection.…</p>",
     "isoDate": "2025-10-22T23:49:00Z",
@@ -1151,32 +1190,6 @@
     "pinned": false
   },
   {
-    "id": "bbcf04c1b1b7434d8f1717dd47a65e93fc321448",
-    "title": "AWS outage turned smart homes into dumb boxes – and sysadmins into therapists",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/aws_outage_aftermath/",
-    "summary": "<h4>Amazon's hours-long cloud blackout transformed the future of sleep into a sauna and cat care into chaos</h4> <p>When Amazon's cloud face-planted on Monday, it didn't just take down some of the world's most popular apps – it took down dignity, comfort, and the occasional cat toilet.…</p>",
-    "isoDate": "2025-10-21T16:05:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c42f41403da48252a231bd924d8b7eade08dd5ec",
-    "title": "Is PHP declining? JetBrains says yes. And no",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/massive_jetbrains_dev_survey/",
-    "summary": "<h4>24,500 devs polled, two blog posts, one confusion</h4> <p>JetBrains has released its State of the Developer Ecosystem survey, with more than 24,500 responses, revealing AI's impact on developer tools and programming language trends - including the claim that PHP and Ruby are in \"long term decline.\"…</p>",
-    "isoDate": "2025-10-21T15:56:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "a202f0f079dd463f1c042a3f86f970a198e90bbc",
     "title": "Tesla's FSD V14 Can Now Recover from Takeover Immediately Warnings",
     "link": "https://www.notateslaapp.com/news/3245/teslas-fsd-v14-can-now-recover-from-takeover-immediately-warnings",
@@ -1200,32 +1213,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-vis.jpg/5728beaa6064ac1bdd4dde3366beba4a/fsd-beta-vis.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ec49cd7083415b21ab0c7919ff30f0fa849ac904",
-    "title": "Introducing NTFSplus – because just one NTFS driver for Linux is never enough",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/ntfsplus_new_rw_driver/",
-    "summary": "<h4>Dev unveils a faster, modernized take on Microsoft's file system for penguin-powered PCs</h4> <p>Just under four years after the Linux kernel gained built-in read-write access to Windows drives, an alternative option has appeared.…</p>",
-    "isoDate": "2025-10-21T14:01:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6dfca24a9896a3e9aca917a967ecc42ec3b5496e",
-    "title": "Microsoft's ancient icon library still lurks deep within Windows 11",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/windows_pifmgr_chen/",
-    "summary": "<h4>Pixels of the past 'created just for fun'</h4> <p>The <code>pifmgr.dll</code> still lingers in modern Windows installations - a throwback to a simpler and blockier time, according to veteran Microsoft engineer Raymond Chen.…</p>",
-    "isoDate": "2025-10-21T13:25:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
