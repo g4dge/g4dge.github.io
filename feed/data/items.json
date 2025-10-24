@@ -1,5 +1,18 @@
 [
   {
+    "id": "0a8ec3d26565992db47b652ff690fc147c2f5ab7",
+    "title": "AI investment is the only thing keeping the US out of recession",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/ai_investment_us_recession/",
+    "summary": "<h4>Datacenter infrastructure and model development spending offset high borrowing costs</h4> <p>AI spending is keeping the US economy out of recession, with datacenter infrastructure and model development providing the only significant growth amid trade turmoil, tariff shocks, and high borrowing costs.…</p>",
+    "isoDate": "2025-10-24T13:19:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "bb046435cd319c9d7716db0abca1d20b2aa7811b",
     "title": "Microsoft drops surprise Windows Server patch before weekend downtime",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/windows_server_patch/",
@@ -1157,19 +1170,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bd4284fe305b5ed07da0141382f6ba60ff5d46e3",
-    "title": "Forking confusing: Vulnerable Rust crate exposes uv Python packager",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/vulnerable_rust_crate/",
-    "summary": "<h4>Forks of forks of forks, but which ones are patched?</h4> <p>A vulnerability in the popular Rust crate async-tar has affected the fast uv Python package manager, which uses a forked version that's now patched – but the most widely downloaded version remains unfixed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-22T13:15:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
     "tags": [],
     "image": "",
     "pinned": false
