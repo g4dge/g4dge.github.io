@@ -1,9 +1,55 @@
 [
   {
+    "id": "972e221efce837800214c67b8ae071eee4e1ffe8",
+    "title": "You have one week to opt out or become fodder for LinkedIn AI training",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/linkedin_ai_profile_scraping/",
+    "summary": "<h4>Nations previously exempt from scraping now in the firing line</h4> <p>If you thought living in Europe, Canada, or Hong Kong meant you were protected from having LinkedIn scrape your posts to train its AI, think again. You have a week to opt out before the Microsoft subsidiary assumes you're fine with it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-27T15:17:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "76ebeaef2162d0fd23a97991b8c68e40e6060ace",
+    "title": "As AI agents join SaaS, AWS tells users to expect more pricing puzzles",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/aws_ai_agent_saas/",
+    "summary": "<h4>Cloud giant says choice and flexibility matter more than standardization – for now</h4> <p><strong>Interview</strong>  As agentic AI solutions flood the market, users will face a complex environment in terms of deployment and commercial models, with standard practices yet to be resolved, says Olawale Oladehin, AWS director, solutions architecture.…</p>",
+    "isoDate": "2025-10-27T15:14:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5bef5ac010331045bc1a06230bcd079d6f309b4b",
+    "title": "Melissa set to be the strongest hurricane to ever strike Jamaica",
+    "link": "https://arstechnica.com/science/2025/10/melissa-set-to-be-the-strongest-hurricane-to-ever-strike-jamaica/",
+    "summary": "Storm reached sustained winds of 160 mph on Monday morning.",
+    "isoDate": "2025-10-27T15:05:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Science",
+      "hurricanes",
+      "jamaica",
+      "melissa",
+      "science",
+      "Weather"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/1000x1000-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "da7e55dad2d83fd4b016c1cd4bdc4d2f92166375",
-    "title": "EU Sovereignty Plan Accused of Helping US Cloud Giants",
+    "title": "EU sovereignty plan accused of helping US cloud giants",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/cispe_eu_sovereignty_framework/",
-    "summary": "<h4>Brussels' plan muddies the waters and could hand advantage to foreign hyperscalers, says trade body</h4> <p>Europe's efforts to reduce reliance on US hyperscalers is under fire from many of the local cloud providers it is designed to help.…</p>",
+    "summary": "<h4>Brussels' framework muddies the waters and could hand advantage to foreign hyperscalers, says trade body</h4> <p>Europe's efforts to reduce reliance on US hyperscalers is under fire from many of the local cloud providers it is designed to help.…</p>",
     "isoDate": "2025-10-27T14:27:39Z",
     "source": "The Register",
     "category": "Tech",
@@ -1114,29 +1160,6 @@
     "pinned": false
   },
   {
-    "id": "266a40183ab2489511f0bff28d4904699cfeb103",
-    "title": "Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results",
-    "link": "https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/",
-    "summary": "Scraper accused of stealing Reddit content \"shocked\" by lawsuit.",
-    "isoDate": "2025-10-23T21:54:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ai scraping",
-      "google",
-      "google search",
-      "Perplexity",
-      "Perplexity.ai",
-      "reddit",
-      "web scraping"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2236792840-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "93e1411ba5b9678ef5148704ad96f70bc534c934",
     "title": "Playtime’s over: Crooks swipe Toys R Us Canada customer data and dump it online",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/toysrus_canada_data_leak/",
@@ -1275,32 +1298,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "34a66eebfb511da9724e10b26a9abbc0e7afb8b5",
-    "title": "Google nukes 3,000 YouTube videos that sowed malware disguised as cracked software",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/youtube_ghost_network_malware/",
-    "summary": "<h4>Check Point helps exorcise vast 'Ghost Network' that used fake tutorials to push infostealers</h4> <p>Google has taken down thousands of YouTube videos that were quietly spreading password-stealing malware disguised as cracked software and game cheats.…</p>",
-    "isoDate": "2025-10-23T14:04:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8b0508306d839df209d6ed72b5ff45b95d6ffb66",
-    "title": "A single DNS race condition brought Amazon's cloud empire to its knees",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/amazon_outage_postmortem/",
-    "summary": "<h4>Fault in DynamoDB system cascaded through AWS services, knocking major sites offline for hours</h4> <p>Amazon has published a detailed postmortem explaining how a critical fault in DynamoDB's DNS management system cascaded into a day-long outage that disrupted major websites and services across multiple brands – with damage estimates potentially reaching hundreds of billions of dollars.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-23T13:18:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1516,19 +1513,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2022/roadster.jpg/830d0221c7307bb9c17470a0c5374a8e/roadster.jpg",
-    "pinned": false
-  },
-  {
-    "id": "623095daee1fb8181b4c8f64dde86964222fb57e",
-    "title": "Kamala Harris Admits It Was a ‘Big Mistake’ to Leave Tesla Out of 2021 EV Summit [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/3253/kamala-harris-admits-it-was-a-big-mistake-to-leave-tesla-out-of-2021-ev-summit-video",
-    "summary": "Kamala Harris calls the 2021 White House snub of Tesla a big mistake, highlighting a political error underscored by Tesla's continued EV market dominance.&hellip; <a href=\"https://www.notateslaapp.com/news/3253/kamala-harris-admits-it-was-a-big-mistake-to-leave-tesla-out-of-2021-ev-summit-video\">Read More</a>",
-    "isoDate": "2025-10-20T14:47:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2021/elon-musk.jpg/6d596d3563d16d0391f02753083ba56c.jpg",
     "pinned": false
   }
 ]
