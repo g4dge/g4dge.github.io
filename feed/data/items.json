@@ -1,5 +1,67 @@
 [
   {
+    "id": "1ba66e69fcbe69ec9a8cd4804018234a65c234cc",
+    "title": "AI-powered search engines rely on “less popular” sources, researchers find",
+    "link": "https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/",
+    "summary": "Generative search engines often cite sites that wouldn't appear in Google's Top 100 links.",
+    "isoDate": "2025-10-27T20:18:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "demini",
+      "google",
+      "overviews",
+      "web search"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-184366155-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bd67463025a089e826213c8e1c253056cebfa8e2",
+    "title": "Signal president Meredith Whittaker says they had no choice but to use AWS, and that's a problem",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/signal_ceo_meredith_whittaker_aws_dependency/",
+    "summary": "<h4>'The problem is the concentration of power in the infrastructure space that means there isn’t really another choice'</h4> <p>Messaging service Signal may be unusual in its deployment of credible end-to-end encryption, but it shares a common availability vulnerability with many other internet services – dependence on Amazon Web Services (AWS).…</p>",
+    "isoDate": "2025-10-27T20:07:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "40e798ec152c39c2933ae19396620f4361fea690",
+    "title": "AT&T ad congratulating itself for its ethics violated an ad-industry rule",
+    "link": "https://arstechnica.com/tech-policy/2025/10/att-ad-congratulating-itself-for-its-ethics-violated-an-ad-industry-rule/",
+    "summary": "Ad industry watchdog says AT&#038;T violated program rule, demands removal of ads.",
+    "isoDate": "2025-10-27T19:58:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "AT&T",
+      "t-mobile"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/luke-wilson-att-500x500-1761591448.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6ea2c75c228d2e9e17fc9f32197a49d3b03f1024",
+    "title": "Atlas vuln lets crims inject malicious prompts ChatGPT won't forget between sessions",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/atlas_vulnerability_memory_injection/",
+    "summary": "<h4>It can do a lot more than just play 'Eye of the Tiger' daily</h4> <p>In yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI's Atlas that lets attackers inject malicious instructions into ChatGPT's memory using cross-site request forgery.…</p>",
+    "isoDate": "2025-10-27T19:23:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "902efe96ecb7de6a86c59f79ba170022065e3062",
     "title": "25 years, one website: ISS in Real Time captures quarter-century on space station",
     "link": "https://arstechnica.com/space/2025/10/25-years-one-website-iss-in-real-time-captures-quarter-century-on-space-station/",
@@ -846,27 +908,6 @@
     "pinned": false
   },
   {
-    "id": "27a02a269a44416f91c4ff2aad0e4473be2024d1",
-    "title": "DNA analysis reveals likely pathogens that killed Napoleon’s army",
-    "link": "https://arstechnica.com/science/2025/10/dna-analysis-reveals-likely-pathogens-that-killed-napoleons-army/",
-    "summary": "Microbial DNA suggests troops suffered from paratyphoid fever and relapsing fever, among other diseases.",
-    "isoDate": "2025-10-24T15:24:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "Biology",
-      "DNA analysis",
-      "forensic archaeology",
-      "History",
-      "Napoleon Bonaparte",
-      "pathogens"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/napoleon2-500x500-1760798550.jpg",
-    "pinned": false
-  },
-  {
     "id": "d053dee8e702ee86ce4cd5f05d7da9684108f4b8",
     "title": "Tesla Recalls Almost 13,000 Model 3 and Model Y Vehicles Due to Potential Power Loss",
     "link": "https://www.notateslaapp.com/news/3264/tesla-recalls-almost-13000-model-3-and-model-y-vehicles-due-to-potential-power-loss",
@@ -877,25 +918,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-service/0x0-service_tech_web.jpg/f17a21a60e5ad48c5b6f7d3241304f73/0x0-service_tech_web.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5428a6d9a6ef9655d9642ea7619f5dd44221019e",
-    "title": "This browser claims “perfect privacies protection,” but it acts like malware",
-    "link": "https://arstechnica.com/security/2025/10/this-browser-claims-perfect-privacies-protection-but-it-acts-like-malware/",
-    "summary": "Researchers note links to Asia’s booming cybercrime and illegal gambling networks.",
-    "isoDate": "2025-10-24T14:37:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Matt Burgess, wired.com",
-    "tags": [
-      "Security",
-      "malware",
-      "syndicated",
-      "Universe Browser",
-      "web browsers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/universebrowser-500x500.jpg",
     "pinned": false
   },
   {
@@ -1255,19 +1277,6 @@
     "pinned": false
   },
   {
-    "id": "a499a895f3195fa8271d081fb9e25bf97b8b937b",
-    "title": "Trump's workforce cuts blamed as America's cyber edge dulls",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/trumps_workforce_cuts_blamed_in_report/",
-    "summary": "<h4>The Cyberspace Solarium Commission says years of progress are being undone amid current administration's cuts</h4> <p>America's once-ambitious cyber defences are starting to rust, according to the latest annual report from the US Cyberspace Solarium Commission (CSC), which warns that policy momentum has slowed and even slipped backwards thanks to Trump-era workforce and budget cuts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-23T15:57:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "04331fd028e8aa82ba6ecbf6627cb124a3b439bf",
     "title": "Tesla to Bring FSD V14 \"Lite\" to Hardware 3 Vehicles: Features Expected, Timeline and Hardware Upgrade",
     "link": "https://www.notateslaapp.com/news/3263/tesla-to-bring-fsd-v14-lite-to-hardware-3-vehicles",
@@ -1278,19 +1287,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-vis-2.jpg/eb3f80143b74362987cf16434024373e/fsd-beta-vis-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "85289583992d24b9fc288bba937cd433a3592e4f",
-    "title": "Microsoft suggests temporary registry hack for stricken smart card users",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/microsoft_smart_card_registry/",
-    "summary": "<h4>When is an issue not an issue? When it's intentional</h4> <p>Microsoft accidentally broke several things in the October 2025 Windows Update, but smart card authentication was not one of them. That was intentionally broken, and the temporary workaround requires a registry hack.…</p>",
-    "isoDate": "2025-10-23T14:59:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
