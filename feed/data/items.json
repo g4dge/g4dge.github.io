@@ -1,5 +1,63 @@
 [
   {
+    "id": "da7e55dad2d83fd4b016c1cd4bdc4d2f92166375",
+    "title": "EU Sovereignty Plan Accused of Helping US Cloud Giants",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/cispe_eu_sovereignty_framework/",
+    "summary": "<h4>Brussels' plan muddies the waters and could hand advantage to foreign hyperscalers, says trade body</h4> <p>Europe's efforts to reduce reliance on US hyperscalers is under fire from many of the local cloud providers it is designed to help.…</p>",
+    "isoDate": "2025-10-27T14:27:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4f5e4dd1134a200291f4fdb62635aa2cad375c56",
+    "title": "Tesla Updates Robotaxi App; Adds Airport Pickups",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/robotaxi/version/25.10.5/release-notes",
+    "summary": "Tesla Robotaxi app update 25.10.5 includes Airport Pickups. <a href=\"https://www.notateslaapp.com/tesla-app-updates/robotaxi/version/25.10.5/release-notes\">View Release Notes</a>",
+    "isoDate": "2025-10-27T13:56:41Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/25-10-5/robotaxi-airport.webp/f718d2df673d550fd1815d2d96b63412/robotaxi-airport.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8cb0701c9ec888e7e122bd80735de9525a565a34",
+    "title": "Researchers exploit OpenAI's Atlas by disguising prompts as URLs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/openai_atlas_prompt_injection/",
+    "summary": "<h4>NeuralTrust shows how agentic browser can interpret bogus links as trusted user commands</h4> <p>Researchers have found more attack vectors for OpenAI's new Atlas web browser – this time by disguising a potentially malicious prompt as an apparently harmless URL.…</p>",
+    "isoDate": "2025-10-27T13:54:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b991cdb9962c189bfd095e20c80bcfe4fbfdd351",
+    "title": "New image-generating AIs are being used for fake expense reports",
+    "link": "https://arstechnica.com/ai/2025/10/ai-generated-receipts-make-submitting-fake-expenses-easier/",
+    "summary": "Software provider AppZen said fake AI receipts accounted for about 14% of fraud attempts.",
+    "isoDate": "2025-10-27T13:44:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cristina Criddle, Financial Times",
+    "tags": [
+      "AI",
+      "deepfake receipts",
+      "deepfakes",
+      "expense reports",
+      "syndicated"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/fakereceiptsbro-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "d70ca89c2f4c5dce5daba90d437d69d6ec640756",
     "title": "X says passkey reset isn't about a security issue – it's to finally kill off twitter.com",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/x_passkey_reset/",
@@ -643,7 +701,7 @@
     "id": "97be3c5b9fdd3201510c213b6eb6fe91f5ad2750",
     "title": "OpenAI goes after Microsoft 365 Copilot's lunch with 'company knowledge' feature",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/openai_chatgpt_company_knowledge/",
-    "summary": "<h4>ChatGPT can now rummage through corporate files via connectors, though Redmond still has the deeper hooks</h4> <p>OpenAI is chalenging Microsoft 365 Copilot with \"company knowledge,\" a new ChatGPT feature that connects to organizational data to generate business-specific answers.…</p>",
+    "summary": "<h4>ChatGPT can now rummage through corporate files via connectors, though Redmond still has the deeper hooks</h4> <p><strong>Updated</strong>  OpenAI is chalenging Microsoft 365 Copilot with \"company knowledge,\" a new ChatGPT feature that connects to organizational data to generate business-specific answers.…</p>",
     "isoDate": "2025-10-24T15:46:38Z",
     "source": "The Register",
     "category": "Tech",
@@ -1005,6 +1063,19 @@
     "pinned": false
   },
   {
+    "id": "267d4962021a5fc51885648f6116361b89550621",
+    "title": "Tesla Updates App to v4.50.1 to Address Bugs",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.50.1/release-notes",
+    "summary": "Tesla app update 4.50.1 includes Minor Fixes. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.50.1/release-notes\">View Release Notes</a>",
+    "isoDate": "2025-10-24T00:05:02Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-49-6/tesla-app-modely-standard.webp/a34132d0e2d75e4befc1457b1e43c0e2/tesla-app-modely-standard.jpg",
+    "pinned": false
+  },
+  {
     "id": "af2ea02bf50b1f53b5ee8d7ab71123bc27a1092c",
     "title": "Don't take AI to Thanksgiving: Bots have hidden biases",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/ai_model_bias_inevitable/",
@@ -1076,26 +1147,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4d0fba093d3749b1e807f1153819690695214494",
-    "title": "Researchers show that training on “junk data” can lead to LLM “brain rot”",
-    "link": "https://arstechnica.com/ai/2025/10/researchers-show-that-training-on-junk-data-can-lead-to-llm-brain-rot/",
-    "summary": "Models trained on short, popular, and/or \"superficial\" tweets perform worse on benchmarks.",
-    "isoDate": "2025-10-23T21:20:48Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "brain rot",
-      "data",
-      "research",
-      "training",
-      "Tweets"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1908316227-500x500.jpg",
     "pinned": false
   },
   {
@@ -1255,19 +1306,6 @@
     "pinned": false
   },
   {
-    "id": "3a7b23d4032d616aefd0ed6a63841a229fd44cd0",
-    "title": "SAP says some customers are dragging their feet on contract sign-offs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/sap_q3/",
-    "summary": "<h4>Share price dips as cloud sales outlook disappoints amid slow US public sector bookings</h4> <p>SAP disappointed investors today after reporting full-year cloud revenue at the bottom end of its guidance range, with execs saying customers in manufacturing and the public sector are taking longer to sign contracts.…</p>",
-    "isoDate": "2025-10-23T13:02:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "9d9fbd5564e624629659013d88edc5cc565f6799",
     "title": "Everything Tesla Announced During Its Q3 2025 Earnings Call: Summary/Recap",
     "link": "https://www.notateslaapp.com/news/3262/everything-tesla-announced-during-its-q3-2025-earnings-call-summaryrecap",
@@ -1278,19 +1316,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_51.jpg/7dffe70ea297bfcbfae0ae39ccd84ebe/group_51.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4b7fd284c5ccdd273c17fba41b72e1bf1c476740",
-    "title": "Senators accuse Smithsonian of 'illegal lobbying' over Discovery squabbles",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/discovery_doj_lobbying_letter_cornyn/",
-    "summary": "<h4>Cornyn &amp; co ask DoJ to probe respected research institution for trying to 'influence' public</h4> <p>The saga of the Great Space Shuttle Relocation has taken another turn after US lawmakers asked the Department of Justice to look into alleged lobbying by the Smithsonian museum to prevent a possible transfer of Discovery to Houston, Texas.…</p>",
-    "isoDate": "2025-10-23T12:50:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
