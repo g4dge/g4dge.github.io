@@ -1,5 +1,61 @@
 [
   {
+    "id": "ca3bcabc44e87f75fa2b7c5fe92a4f06979dc44e",
+    "title": "AMD shores up its budget laptop CPUs by renaming more years-old silicon",
+    "link": "https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/",
+    "summary": "Both AMD and Intel continue to serve low-end PCs with aging silicon.",
+    "isoDate": "2025-10-28T15:17:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "AMD",
+      "Ryzen"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/AMD-mendocino-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "47421afbca99bef4fc11efe828f2954d2e02d62f",
+    "title": "Euro cloud alliance urges action on Broadcom as Microsoft mends fences",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/cispe_ecco_broadcom/",
+    "summary": "<h4>CISPE says post-VMware conduct raises fresh antitrust concerns</h4> <p>Cloud Infrastructure Services Providers in Europe (CISPE) has issued its third European Cloud Competition Observatory (ECCO) report, praising Microsoft's licensing concessions while accusing Broadcom of worsening anti-competitive practices.…</p>",
+    "isoDate": "2025-10-28T15:12:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8dac3b1e555912743d3d6cf3317789be29f7eb4c",
+    "title": "Tesla’s Robotaxi-style Camera Cleaning Limited to New Model Y — More Models to Be Supported",
+    "link": "https://www.notateslaapp.com/news/3276/teslas-robotaxi-style-camera-cleaning-limited-to-new-model-y-more-models-to-be-supported",
+    "summary": "The precision camera cleaning in FSD V14 is live for owners of the new Model Y, and will make its way to other vehicles in the near future.&hellip; <a href=\"https://www.notateslaapp.com/news/3276/teslas-robotaxi-style-camera-cleaning-limited-to-new-model-y-more-models-to-be-supported\">Read More</a>",
+    "isoDate": "2025-10-28T14:56:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/auto-wipers.jpg/f0457df9b7c613931f50b9c8f28e78e5.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fca750bb8cd32f729128c649a8298fdd900e1fd0",
+    "title": "Anthropic's Claude is learning Excel so you don't have to",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/anthropic_claude_excel/",
+    "summary": "<h4>Good luck to the 1,000 enterprise guinea pigs on the initial preview</h4> <p>Anthropic has opened a waitlist for Claude for Excel, promising spreadsheet devotees that its LLM will be able to understand their entire workbook.…</p>",
+    "isoDate": "2025-10-28T14:49:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "76e1755f336008686db456cccac839bb9231fb2f",
     "title": "Clearview AI faces criminal heat for ignoring EU data fines",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/noyb_criminal_charges_clearview/",
@@ -1013,44 +1069,6 @@
     "pinned": false
   },
   {
-    "id": "900fd39d48f5a0609398ba0b5a0e50d0d9c945e4",
-    "title": "Tesla’s “Mad Max” mode is now under federal scrutiny",
-    "link": "https://arstechnica.com/cars/2025/10/feds-probe-tesla-about-its-mad-max-mode/",
-    "summary": "The new mode added in the latest update will speed and weave through traffic.",
-    "isoDate": "2025-10-24T18:35:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "nhtsa",
-      "Tesla investigation"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2078835132-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "af8d6b14f660eee8476a305d6ab9559fcc4d3302",
-    "title": "EU accuses Meta of violating content rules in move that could anger Trump",
-    "link": "https://arstechnica.com/tech-policy/2025/10/trump-tariff-threats-havent-stopped-eu-from-cracking-down-on-meta/",
-    "summary": "EU alleges Facebook and Instagram make it too hard to report illegal content.",
-    "isoDate": "2025-10-24T18:18:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Digital Services Act",
-      "european union",
-      "Facebook",
-      "Instagram",
-      "meta",
-      "tiktok"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-500x500-1761326403.jpg",
-    "pinned": false
-  },
-  {
     "id": "c0060f46c7823d64b68ba2ad48660a584c61c746",
     "title": "Tesla FSD V14.1: The Hidden Features Tesla Didn’t List",
     "link": "https://www.notateslaapp.com/news/3218/tesla-fsd-v141-the-hidden-features-tesla-didnt-list",
@@ -1215,32 +1233,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Surekha Davies",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "812078ae439e4fb9d3d7cc2a320d15fba60cdb77",
-    "title": "BBC probe finds AI chatbots mangle nearly half of news summaries",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/bbc_probe_ai_news/",
-    "summary": "<h4>Google Gemini worst offender with 76% error rate</h4> <p>Four of the most popular AI chatbots routinely serve up inaccurate or misleading news content to users, according to a wide-reaching investigation.…</p>",
-    "isoDate": "2025-10-24T09:57:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Owen Hughes",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "24b25d514adcba1d5d6c7add879a0492382aac9c",
-    "title": "How do you solve a problem like Discovery?",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/how_do_you_solve_discovery_route/",
-    "summary": "<h4>Request For Ideas: How would you move a retired orbiter across the US?</h4> <p>The White House's Office of Management and Budget is grappling with how to transport Space Shuttle Discovery from the Smithsonian Museum in Virginia to Space Center Houston. How would you do it?…</p>",
-    "isoDate": "2025-10-24T09:29:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1458,19 +1450,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/take-over-immediately-toi-red-steering-wheel.webp/258965334767281e0515149eca0693ed/take-over-immediately-toi-red-steering-wheel.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e39d8510e2b1d3079d03512f3d4bd33ef7fbf9b5",
-    "title": "Tesla FSD V14.1.3 Starts Rolling Out to Non-Influencers, Expands to Model S & X",
-    "link": "https://www.notateslaapp.com/news/3255/tesla-fsd-v1413-starts-rolling-out-to-non-influencers-expands-to-model-s-x",
-    "summary": "Tesla begins wider rollout of FSD v14.1.3 after employee testing, now extending to Model S/X.&hellip; <a href=\"https://www.notateslaapp.com/news/3255/tesla-fsd-v1413-starts-rolling-out-to-non-influencers-expands-to-model-s-x\">Read More</a>",
-    "isoDate": "2025-10-21T14:49:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-vis.jpg/5728beaa6064ac1bdd4dde3366beba4a/fsd-beta-vis.jpg",
     "pinned": false
   }
 ]
