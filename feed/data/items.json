@@ -1,5 +1,79 @@
 [
   {
+    "id": "4e26def52e414199df354d7020f168c9d45b4c9c",
+    "title": "The CAPITAL LETTERS trick that helped merge Windows 95 into NT",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/chen_windows_95_sizeof/",
+    "summary": "<h4>Keeping track of checks, 1990s style</h4> <p>The early versions of Windows NT were the last hurrah for the Windows 3.1-esque Program Manager. But getting the Windows 95 shell into the codebase occasionally required using CAPITAL LETTERS.…</p>",
+    "isoDate": "2025-10-29T12:55:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3d3e2bb870706dab766cc9fed27e78708c9a0e6c",
+    "title": "Marketing giant Dentsu warns staff after Merkle data raid",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/dentsu_merkle_breach/",
+    "summary": "<h4>Emails confirm payroll and bank details lifted in cyberattack on US subsidiary</h4> <p>Global marketing giant Dentsu is writing to current and former staff after a cyberattack on a subsidiary led to bank, payroll, and other sensitive data being stolen.…</p>",
+    "isoDate": "2025-10-29T12:46:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "932b4611354c87a01d27c715a68ddbde20956740",
+    "title": "UK politicians to draft outage blueprint after AWS calamity",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/uk_govt_outage_plan/",
+    "summary": "<h4>60% of government services rely on Amazon, Google, or Microsoft's clouds</h4> <p>The UK government will publish a plan for handling future cloud outages after last week's AWS failure knocked out several departments.…</p>",
+    "isoDate": "2025-10-29T12:38:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "SA Mathieson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b4bd6b827561feeb4e9e6f7dbc6788fa010e4307",
+    "title": "NASA races to keep Artemis II on schedule, even when workers aren’t being paid",
+    "link": "https://arstechnica.com/space/2025/10/nasa-races-to-keep-artemis-ii-on-schedule-even-when-workers-arent-being-paid/",
+    "summary": "\"I do think we're rapidly approaching the point where it will be a significant impact.\"",
+    "isoDate": "2025-10-29T12:23:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "artemis",
+      "artemis II",
+      "human spaceflight",
+      "Lockheed Martin",
+      "NASA",
+      "nasa budget"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/KSC-20250807-PH-SNW01_0001orig-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "752c211b8a2b3728c8625a084f5e741e7c713dd8",
+    "title": "Sole trader dispatched almost 1M spam texts to hard-up Brits, says watchdog",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/ico_spam_text_fine/",
+    "summary": "<h4>ICO fined Bharat Singh Chand £200,000 after receiving 19,138 complaints</h4> <p>Britain's data watchdog has fined a sole trader £200,000 for nearly a million spam texts targeting people in debt – almost 20 pence per message.…</p>",
+    "isoDate": "2025-10-29T11:46:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Paul Kunert",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e5c73e8e012d7ae7422ffad14aecc0e98b1422ea",
     "title": "Bolt Graphics unveils Zeus GPU built on RISC-V and path tracing tech",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/bolt_graphics_zeus_gpu/",
@@ -857,23 +931,6 @@
     "pinned": false
   },
   {
-    "id": "b8a6b88025ae3edc6126d9dd529c84050d783781",
-    "title": "F1 in Mexico City: We have a new championship leader",
-    "link": "https://arstechnica.com/cars/2025/10/f1-in-mexico-city-we-have-a-new-championship-leader/",
-    "summary": "It was a quiet race for the win, but there was plenty of action for second and third.",
-    "isoDate": "2025-10-27T16:35:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "F1",
-      "Formula 1"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2243465873-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3063a64805404a7e46ecdc6e140a65a0d61a0a65",
     "title": "Tesla's 'Mad Max' FSD Mode Hits Snag as NHTSA Begins Investigation",
     "link": "https://www.notateslaapp.com/news/3265/teslas-mad-max-fsd-mode-hits-regulatory-snag-as-nhtsa-begins-investigation",
@@ -1054,58 +1111,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "SA Mathieson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "97c5a1f2fc737bdec7a91920612b9f8b9ee355d4",
-    "title": "The Chinese Box and Turing Test: AI has no intelligence at all",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/ai_intelligence_opinion/",
-    "summary": "<h4>It's just good at mass-production copy and paste</h4> <p><strong>Opinion</strong>  Remember <a href=\"https://web.njit.edu/~ronkowit/eliza.html\" rel=\"nofollow\" target=\"_blank\">ELIZA</a>? The 1966 chatbot from MIT's AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGPT has people making the same mistake. Chatbots don't think – they've just gotten exponentially better at pretending.…</p>",
-    "isoDate": "2025-10-27T09:00:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Steven J. Vaughan-Nichols",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b11b6d4931e5c77a3ea8aa0d001da4b411fa1f10",
-    "title": "The perfect AWS storm has blown over, but the climate is only getting worse",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/aws_outage_opinion/",
-    "summary": "<h4>When it rains, it pours – and nobody packed an umbrella</h4> <p><strong>Opinion</strong>  When your cabbie asks you what you do for a living, and you answer \"tech journalist,\" you never get asked about cloud infrastructure in return. Bitcoin, mobile phones, AI, yes. Until last week: \"What's this AWS thing, then?\" You already knew a lot of people were having a very bad day in Bezosville, but if the news had reached an Edinburgh black cab driver, new adjectives were needed.…</p>",
-    "isoDate": "2025-10-27T08:15:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Rupert Goodwins",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7cc1ea9d269be30b29d7fd603975ba314b599e08",
-    "title": "Frustrated consultant 'went full Hulk' and started smashing hardware",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/who_me/",
-    "summary": "<h4>Four back-to-back weekends of work – and disastrously bad documentation – will do that do a techie</h4> <p><strong>Who, Me?</strong>  Welcome to Monday morning and another installment of Who, Me? For the uninitiated, it's <i>The Register's</i> weekly reader-contributed column that tells tales of your greatest misses, and how you rebuilt a career afterward.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-27T07:30:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3f715c3339d22eefa449e03e07f57d01b34fab71",
-    "title": "Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/automattic_wp_engine_counterclaim/",
-    "summary": "<h4>FOSS feud re-ignites with massive counter-claim</h4> <p><strong>UPDATED</strong>  The long battle between Automattic and WP Engine has flared again, this time with accusations the latter company issued “false advertising”, and employed “deceptive business practices.”…</p>",
-    "isoDate": "2025-10-27T06:07:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
