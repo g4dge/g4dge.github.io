@@ -1,5 +1,48 @@
 [
   {
+    "id": "cd748d0f2ee3b40bbabc016e384b742dbdede0d8",
+    "title": "Space station astronauts eager to open “golden treasure box” from Japan",
+    "link": "https://arstechnica.com/space/2025/10/space-station-astronauts-eager-to-open-golden-treasure-box-from-japan/",
+    "summary": "\"This spacecraft is so beautiful and shiny, and this is representing our bright future.\"",
+    "isoDate": "2025-10-29T21:23:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "h3 rocket",
+      "HTV",
+      "HTV-X",
+      "international space station",
+      "Japan",
+      "JAXA",
+      "Mitsubishi",
+      "NASA"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f15528e67be4affb59e37656221fd25101b00619",
+    "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
+    "link": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+    "summary": "Packages downloaded from NPM can fetch dependancies from untrusted sites.",
+    "isoDate": "2025-10-29T21:04:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "code dependencies",
+      "code repositories",
+      "npm",
+      "phantomraven"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "3f2849d4f24be6b180ddb1b09a669d307bc2f4eb",
     "title": "Ubuntu Unity hanging by a thread as wunderkind maintainer gets busy with life",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/ubuntu_unity_child_maintainer/",
@@ -752,24 +795,6 @@
     "pinned": false
   },
   {
-    "id": "ca45319254373fffe56952425852b55c2a9af740",
-    "title": "Python plan to boost software security foiled by Trump admin’s anti-DEI rules",
-    "link": "https://arstechnica.com/tech-policy/2025/10/python-foundation-rejects-1-5-million-grant-over-trump-admins-anti-dei-rules/",
-    "summary": "National Science Foundation said grantees must not operate any DEI programs.",
-    "isoDate": "2025-10-28T17:45:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "dei",
-      "National Science Foundation",
-      "python software foundation"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/rejecting-money-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "5bfcd17d16119aa4d1489a6b69b65c60ad2b1086",
     "title": "OpenAI tells Trump to build more power plants or China wins the AI arms race",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/openai_100gw_power_demand/",
@@ -780,22 +805,6 @@
     "author": "Dan Robinson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3c8ded014b45ecd8c6899e5a0528249fcb6d06f5",
-    "title": "Here’s how Slate Auto plans to handle repairs to its electric trucks",
-    "link": "https://arstechnica.com/cars/2025/10/slate-auto-announces-repair-network-access-to-superchargers/",
-    "summary": "The startup has partnered with RepairPal to service its affordable EV truck.",
-    "isoDate": "2025-10-28T16:46:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Slate Auto"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/0829_slate-7-500x500.jpg",
     "pinned": false
   },
   {
@@ -1450,19 +1459,6 @@
     "author": "Zoe Cunniffe",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1ac6413b23f9587c8676dce327274e4e52624192",
-    "title": "Tesla's Q3 Earnings Call and Q&A Session Today - Listen Live",
-    "link": "https://www.notateslaapp.com/news/3261/teslas-q3-earnings-call-and-qa-session-today-listen-live",
-    "summary": "Tesla is holding its Q3 2025 earnings call today. Tune in to listen live.&hellip; <a href=\"https://www.notateslaapp.com/news/3261/teslas-q3-earnings-call-and-qa-session-today-listen-live\">Read More</a>",
-    "isoDate": "2025-10-22T20:39:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_64.jpg/d0daafdae3a525f494292382a95134cc/group_64.jpg",
     "pinned": false
   }
 ]
