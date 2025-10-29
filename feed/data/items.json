@@ -1,5 +1,54 @@
 [
   {
+    "id": "f30e189d76705ff6ad7d6258f566660067069d24",
+    "title": "Microsoft Azure challenges AWS for downtime crown",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/microsoft_azure_outage/",
+    "summary": "<h4>Azure Front Door service outage disrupts airlines and other online services</h4> <p>Microsoft Azure has been experiencing a global outage since around 1600 UTC, or 0900 PDT on Wednesday, October 29, 2025.…</p>",
+    "isoDate": "2025-10-29T22:22:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0a081ce5371d5b4cd59e682d2eab6b8cf139d540",
+    "title": "'Keep Android Open' movement fights back against Google sideloading restrictions",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/keep_android_open_movement/",
+    "summary": "<h4>Petition seeks to rally community opposition and alert regulators</h4> <p>Starting next year, Google plans to require all apps installed on certified Android devices, including sideloading, to come from developers it has verified. Many Android developers see the move as a power grab and have started a movement to \"Keep Android Open.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-29T22:13:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a822f8abdf733ec505f5f988ede473f4ba0a259c",
+    "title": "Meta denies torrenting porn to train AI, says downloads were for “personal use”",
+    "link": "https://arstechnica.com/tech-policy/2025/10/meta-says-porn-downloads-on-its-ips-were-for-personal-use-not-ai-training/",
+    "summary": "Meta says lawsuit claiming it pirated porn to train AI makes no sense.",
+    "isoDate": "2025-10-29T21:35:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "adult content",
+      "AI training",
+      "BItTorrent",
+      "meta",
+      "Meta Movie Gen",
+      "pornography",
+      "torrenting"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2171230457-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "cd748d0f2ee3b40bbabc016e384b742dbdede0d8",
     "title": "Space station astronauts eager to open “golden treasure box” from Japan",
     "link": "https://arstechnica.com/space/2025/10/space-station-astronauts-eager-to-open-golden-treasure-box-from-japan/",
@@ -776,25 +825,6 @@
     "pinned": false
   },
   {
-    "id": "d932813182c59cef677c5d68a117bcfcc340ea2d",
-    "title": "Melissa strikes Jamaica, tied as most powerful Atlantic storm to come ashore",
-    "link": "https://arstechnica.com/science/2025/10/melissa-strikes-jamaica-tied-as-most-powerful-atlantic-storm-to-come-ashore/",
-    "summary": "The storm was so strong a hurricane hunter had to end its mission early.",
-    "isoDate": "2025-10-28T18:00:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Science",
-      "hurricane",
-      "jamaica",
-      "melissa",
-      "science"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2243299438-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "5bfcd17d16119aa4d1489a6b69b65c60ad2b1086",
     "title": "OpenAI tells Trump to build more power plants or China wins the AI arms race",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/openai_100gw_power_demand/",
@@ -1105,32 +1135,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bd67463025a089e826213c8e1c253056cebfa8e2",
-    "title": "Signal president Meredith Whittaker says they had no choice but to use AWS, and that's a problem",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/signal_ceo_meredith_whittaker_aws_dependency/",
-    "summary": "<h4>'The problem is the concentration of power in the infrastructure space that means there isn’t really another choice'</h4> <p>Messaging service Signal may be unusual in its deployment of credible end-to-end encryption, but it shares a common availability vulnerability with many other internet services – dependence on Amazon Web Services (AWS).…</p>",
-    "isoDate": "2025-10-27T20:07:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6ea2c75c228d2e9e17fc9f32197a49d3b03f1024",
-    "title": "Atlas vuln lets crims inject malicious prompts ChatGPT won't forget between sessions",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/atlas_vulnerability_memory_injection/",
-    "summary": "<h4>It can do a lot more than just play 'Eye of the Tiger' daily</h4> <p><strong>updated</strong>  In yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI's Atlas that lets attackers inject malicious instructions into ChatGPT's memory using cross-site request forgery.…</p>",
-    "isoDate": "2025-10-27T19:23:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
