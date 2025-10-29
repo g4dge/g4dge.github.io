@@ -1,5 +1,44 @@
 [
   {
+    "id": "e95ce0d30f2ca6ee3c283da9096210f307079043",
+    "title": "Amazon Web Services’ US-EAST-1 region in trouble again, with EC2 and container services impacted",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/aws_us_east_1_more_problems/",
+    "summary": "<h4>Internal dependencies again prove problematic</h4> <p>Amazon Web Services’ US-EAST-1 region, which last week caused <a href=\"https://www.theregister.com/2025/10/20/amazon_aws_outage/\" target=\"_blank\">massive disruption</a> to online services, is having another bad day as internal dependencies again prove problematic.…</p>",
+    "isoDate": "2025-10-29T01:16:42Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4ab8cb91adbfa437f02c9d22cdf9007b28d909a5",
+    "title": "OpenAI non-profit will run for-profit that has yet to make a profit",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/openai_simplifies_corporate_structure_into/",
+    "summary": "<h4>Corporate restructuring will benefit ... uh, humanity</h4> <p>OpenAI has obtained a new lease on life.…</p>",
+    "isoDate": "2025-10-28T23:54:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b646d38790465b3ae0c1db4eda96066f31f9004c",
+    "title": "Firewalls and VPNs are so complex now, they can actually make you less secure",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/cisco_citrix_vpn_ransomware/",
+    "summary": "<h4>A report from cyber-insurer At-Bay fingers Cisco and Citrix VPNs as most likely to lead to ransomware trouble</h4> <p>Organizations using Cisco and Citrix VPN devices were nearly seven times as likely to suffer a ransomware infection over a 15-month period, according to At-Bay, a provider of cyber insurance and a vendor of managed detection and response products.…</p>",
+    "isoDate": "2025-10-28T23:27:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1947120cb4d719c98a548827db39c2283116d785",
     "title": "This is Doom, running headless, on Ubuntu Arm… on a satellite",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/doom_running_in_space/",
@@ -1117,19 +1156,6 @@
     "pinned": false
   },
   {
-    "id": "c5d4137a0bf92004f8bf55b5aa84c8a51fafe25f",
-    "title": "High-stakes poker scam used rigged card shufflers, X-ray tables, and special glasses",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/mafia_and_nba_celebs_arrested/",
-    "summary": "<h4>31 alleged poker schemers nabbed alongside arrest of separate sports betting ring</h4> <p>The feds on Thursday charged alleged mafia associates and current and former National Basketball Association players and coaches with running rigged poker games and illegal sports betting.…</p>",
-    "isoDate": "2025-10-24T21:20:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "4a23cf721ab37f5c6666fdc44391e3d3eb5aa60e",
     "title": "Tesla Update 2025.38.6 - Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.38.6/release-notes",
@@ -1143,19 +1169,6 @@
     "pinned": false
   },
   {
-    "id": "9b3daab96c9e883a07ddca0ad3a5e9646d0f1fc8",
-    "title": "Sneaky Mermaid attack in Microsoft 365 Copilot steals data",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/",
-    "summary": "<h4>Redmond says it's fixed this particular indirect prompt injection vuln</h4> <p><strong>updated</strong>  Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data – like emails – via indirect prompt injection attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-24T18:58:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "c0060f46c7823d64b68ba2ad48660a584c61c746",
     "title": "Tesla FSD V14.1: The Hidden Features Tesla Didn’t List",
     "link": "https://www.notateslaapp.com/news/3218/tesla-fsd-v141-the-hidden-features-tesla-didnt-list",
@@ -1166,19 +1179,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/start-fsd-button.webp/e0caaaef5fc7d9b1039b6032b8a5029d/start-fsd-button.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a451b80326cb7348c1743e1b9ed924c3df1fd81b",
-    "title": "Sora makes slurfect deepfakes of celebs spewing racial epithets",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/sora_celebrities_racist_videos/",
-    "summary": "<h4>If you listen closely, you’ll realize Sam Altman and the others are only saying sound-alike words</h4> <p>Guardrails? What guardrails? Naughty netizens found a way to trick the Sora 2 video generator into producing deepfakes of public figures, including OpenAI CEO Sam Altman and billionaire Mark Cuban, that make it sound as though they're spewing racial slurs. The trick works despite Sora's built-in filters meant to block hateful language.…</p>",
-    "isoDate": "2025-10-24T17:01:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
