@@ -1,5 +1,52 @@
 [
   {
+    "id": "3f2849d4f24be6b180ddb1b09a669d307bc2f4eb",
+    "title": "Ubuntu Unity hanging by a thread as wunderkind maintainer gets busy with life",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/ubuntu_unity_child_maintainer/",
+    "summary": "<h4>Team begs for help as teenage dev who revived Canonical’s old Unity desktop prioritizes studies</h4> <p>The Ubuntu Unity project is in trouble because its maintainer, a Linux whiz kid, has had less time to work on it due to his studies. Now other team members are appealing to the wider Ubuntu community for help. …</p>",
+    "isoDate": "2025-10-29T20:20:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "aa5758bac4f308da89987617bc3a64defcabb417",
+    "title": "This security hole can crash billions of Chromium browsers, and Google hasn't patched it yet",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/brash_dos_attack_crashes_chromium/",
+    "summary": "<h4>Edge, Atlas, Brave among those affected</h4> <p><strong>Exclusive</strong>  A critical, currently unpatched bug in Chromium's Blink rendering engine can be abused to crash many Chromium-based browsers within seconds, causing a denial-of-service condition – and, in some tests, freezing the host system.…</p>",
+    "isoDate": "2025-10-29T19:50:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8302689b81393b12a53c20012ddc8c0a0f4d4642",
+    "title": "Trump health official ousted after allegedly giving himself a fake title",
+    "link": "https://arstechnica.com/health/2025/10/trump-health-official-ousted-after-allegedly-giving-himself-a-fake-title/",
+    "summary": "Steven Hatfill had a notable history before his abrupt ouster.",
+    "isoDate": "2025-10-29T19:44:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anthrax",
+      "COVID-19",
+      "hatfill",
+      "kennedy",
+      "mRNA vaccines",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-122179143-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "15d24c2ed1413552e898691637c62efb9fb9a204",
     "title": "FCC Republicans force prisoners and families to pay more for phone calls",
     "link": "https://arstechnica.com/tech-policy/2025/10/fcc-republicans-force-prisoners-and-families-to-pay-more-for-phone-calls/",
@@ -752,27 +799,6 @@
     "pinned": false
   },
   {
-    "id": "4625c54478365e7ed5f59bf50c623f56a81ee066",
-    "title": "Australia’s social media ban is “problematic,” but platforms will comply anyway",
-    "link": "https://arstechnica.com/tech-policy/2025/10/social-media-firms-abandon-fight-against-australia-law-banning-under-16-users/",
-    "summary": "Platforms expect to monitor a range of signals, but age detection will be spotty.",
-    "isoDate": "2025-10-28T16:36:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "age checks",
-      "age estimation",
-      "age gate",
-      "australia",
-      "online child safety",
-      "social media ban"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1525301733-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2a0765bface112729a3252b00ec5062edfa4c86e",
     "title": "Elon Musk's Grokipedia launches, filled to the brim with plagiarism and AI slop",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/elon_musks_grokipedia_launches/",
@@ -1091,24 +1117,11 @@
     "id": "6ea2c75c228d2e9e17fc9f32197a49d3b03f1024",
     "title": "Atlas vuln lets crims inject malicious prompts ChatGPT won't forget between sessions",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/atlas_vulnerability_memory_injection/",
-    "summary": "<h4>It can do a lot more than just play 'Eye of the Tiger' daily</h4> <p>In yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI's Atlas that lets attackers inject malicious instructions into ChatGPT's memory using cross-site request forgery.…</p>",
+    "summary": "<h4>It can do a lot more than just play 'Eye of the Tiger' daily</h4> <p><strong>updated</strong>  In yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI's Atlas that lets attackers inject malicious instructions into ChatGPT's memory using cross-site request forgery.…</p>",
     "isoDate": "2025-10-27T19:23:47Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7e08d49b72e12fe8d197911d2aa9d172652cb1fb",
-    "title": "HPE's Discovery to succeed Frontier supercomputer with next-gen Cray tech",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/hpe_discovery_frontier_successor/",
-    "summary": "<h4>Oak Ridge's $500M system due in 2028, paired with a separate Lux AI cluster arriving two years earlier</h4> <p>HPE is set to build a successor to the Frontier exascale system for America's Oak Ridge National Laboratory, based on the next generation of its Cray supercomputer platform, plus a separate AI cluster to advance machine learning with a multi-tenant cloud-like platform.…</p>",
-    "isoDate": "2025-10-27T19:00:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
