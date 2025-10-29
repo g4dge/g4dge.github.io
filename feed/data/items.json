@@ -1,5 +1,36 @@
 [
   {
+    "id": "d0e8c872720e68ee50f15245652f76c020a0c7eb",
+    "title": "AI layoffs to backfire: half quietly rehired at lower pay",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/forrester_ai_rehiring/",
+    "summary": "<h4>Bosses banking on automation? 55% will regret those job cuts</h4> <p>Many organizations rushing to cut staff in the name of AI efficiency are expected to quietly rehire those roles — often \"offshore or at lower salary.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-29T13:30:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0aca7d385236460efcda2444e4da2235b099557b",
+    "title": "Republican plan would make deanonymization of census data trivial",
+    "link": "https://arstechnica.com/tech-policy/2025/10/republican-plan-would-make-deanonymization-of-census-data-trivial/",
+    "summary": "\"Differential privacy\" algorithm prevents statistical data from being tied to individuals.",
+    "isoDate": "2025-10-29T13:00:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Vittoria Elliott, wired.com",
+    "tags": [
+      "Policy",
+      "algorithms",
+      "privacy",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/census-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "4e26def52e414199df354d7020f168c9d45b4c9c",
     "title": "The CAPITAL LETTERS trick that helped merge Windows 95 into NT",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/chen_windows_95_sizeof/",
@@ -891,33 +922,6 @@
     "pinned": false
   },
   {
-    "id": "902efe96ecb7de6a86c59f79ba170022065e3062",
-    "title": "25 years, one website: ISS in Real Time captures quarter-century on space station",
-    "link": "https://arstechnica.com/space/2025/10/25-years-one-website-iss-in-real-time-captures-quarter-century-on-space-station/",
-    "summary": "From the makers of <em>Apollo in Real Time</em> comes a site with 500 times more data.",
-    "isoDate": "2025-10-27T19:19:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Robert Pearlman",
-    "tags": [
-      "Space",
-      "25 years",
-      "Ben Feist",
-      "continuous human occupancy",
-      "David Charney",
-      "experience",
-      "interactive",
-      "international space station",
-      "iss",
-      "ISS in Real Time",
-      "Space exploration",
-      "space history",
-      "website"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/news-102725a-lg-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "7e08d49b72e12fe8d197911d2aa9d172652cb1fb",
     "title": "HPE's Discovery to succeed Frontier supercomputer with next-gen Cray tech",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/hpe_discovery_frontier_successor/",
@@ -1098,19 +1102,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "John Weeds",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "555dde4811308923ff68a8da07f71df8d12d0825",
-    "title": "Machine learning saves £4.4M in UK.gov work and pensions fraud detection",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/dwp_machine_learning_savings/",
-    "summary": "<h4>Poor data standards across government hamper scaling, says Parliament spending watchdog</h4> <p>The UK government's Department for Work and Pensions (DWP) has saved £4.4 million over three years by using machine learning to tackle fraud, according to the National Audit Office (NAO). However, the public spending watchdog found the department's ability to expand this work is limited by fragmented IT systems and poor cross-government data standards.…</p>",
-    "isoDate": "2025-10-27T09:45:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
     "tags": [],
     "image": "",
     "pinned": false
