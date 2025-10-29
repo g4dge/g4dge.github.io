@@ -1,9 +1,68 @@
 [
   {
+    "id": "e3eca1f204f1704b4f9edc6e68fc3ffa392c79f9",
+    "title": "Man accidentally gets leech up his nose. It took 20 days to figure it out.",
+    "link": "https://arstechnica.com/health/2025/10/man-accidentally-gets-leech-up-his-nose-it-took-20-days-to-figure-it-out/",
+    "summary": "Leeches have a long medical history. Here's what happens if one gets in your nose.",
+    "isoDate": "2025-10-29T14:28:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "bleeding",
+      "bloodletting",
+      "case report",
+      "leeches",
+      "parasites",
+      "poison"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2220375814-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1cde360c45867966caf1bef59920b75bc89c71ab",
+    "title": "Nvidia pitches Omniverse DSX as model for gigawatt-scale AI factories",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/nvidia_omniverse_dsx/",
+    "summary": "<h4>GPU giant teams with partners to create digital twin blueprint for next-gen datacenters</h4> <p>Nvidia unveiled Omniverse DSX at its GTC event in Washington DC — a blueprint for designing and operating gigawatt-scale AI datacenters using digital twin technology.…</p>",
+    "isoDate": "2025-10-29T14:16:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5f377545d1923891858187f39f2c26c35184bcdf",
+    "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
+    "link": "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/",
+    "summary": "On-chip TEEs withstand rooted OSes but fall instantly to cheap physical attacks.",
+    "isoDate": "2025-10-29T13:40:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Features",
+      "Security",
+      "AMD",
+      "battering ram",
+      "Intel",
+      "NVIDIA",
+      "secure enclaves",
+      "tee.fail",
+      "trusted execution environments",
+      "wiretap"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "d0e8c872720e68ee50f15245652f76c020a0c7eb",
-    "title": "AI layoffs to backfire: half quietly rehired at lower pay",
+    "title": "AI layoffs to backfire: Half quietly rehired at lower pay",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/forrester_ai_rehiring/",
-    "summary": "<h4>Bosses banking on automation? 55% will regret those job cuts</h4> <p>Many organizations rushing to cut staff in the name of AI efficiency are expected to quietly rehire those roles — often \"offshore or at lower salary.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Bosses banking on automation? 55% will regret those job cuts</h4> <p>Many organizations rushing to cut staff in the name of AI efficiency are expected to quietly rehire those roles – often \"offshore or at lower salary.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-10-29T13:30:39Z",
     "source": "The Register",
     "category": "Tech",
@@ -860,25 +919,6 @@
     "pinned": false
   },
   {
-    "id": "1ba66e69fcbe69ec9a8cd4804018234a65c234cc",
-    "title": "AI-powered search engines rely on “less popular” sources, researchers find",
-    "link": "https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/",
-    "summary": "Generative search engines often cite sites that wouldn't appear in Google's top 100 links.",
-    "isoDate": "2025-10-27T20:18:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "demini",
-      "google",
-      "overviews",
-      "web search"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-184366155-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bd67463025a089e826213c8e1c253056cebfa8e2",
     "title": "Signal president Meredith Whittaker says they had no choice but to use AWS, and that's a problem",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/signal_ceo_meredith_whittaker_aws_dependency/",
@@ -889,23 +929,6 @@
     "author": "Thomas Claburn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "40e798ec152c39c2933ae19396620f4361fea690",
-    "title": "AT&T ad congratulating itself for its ethics violated an ad-industry rule",
-    "link": "https://arstechnica.com/tech-policy/2025/10/att-ad-congratulating-itself-for-its-ethics-violated-an-ad-industry-rule/",
-    "summary": "Ad industry watchdog says AT&#038;T violated program rule, demands removal of ads.",
-    "isoDate": "2025-10-27T19:58:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "AT&T",
-      "t-mobile"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/luke-wilson-att-500x500-1761591448.jpg",
     "pinned": false
   },
   {
@@ -1049,19 +1072,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/next-gen-car/next-gen-car-unboxed-process-manufacturing.jpg/f2ca24afa23299faa78f9f6279e7a73c.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7357f18b991b140a272b252cfe7731f3a09de11f",
-    "title": "Everything you know about last week's AWS outage is wrong",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/aws_outage_myths_reality/",
-    "summary": "<h4>AI wasn't the cause, and multi-cloud is for rubes</h4> <p><strong>Column</strong>  AWS put out a hefty <a href=\"https://www.theregister.com/2025/10/23/amazon_outage_postmortem/\" target=\"_blank\">analysis</a> of its October 20 outage, and it's apparently written in a continuing stream of consciousness before the Red Bull wore off and the author passed out after 36 straight hours of writing.…</p>",
-    "isoDate": "2025-10-27T10:30:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Corey Quinn",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1375,19 +1385,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/next-gen-car/next-gen-car.jpg/0209623c8a391b4b7eed3729a8c0cee4/next-gen-car.jpg",
-    "pinned": false
-  },
-  {
-    "id": "19210ae372cf66bebb9f18ac516ab966b1538b57",
-    "title": "Tesla Slashes U.S. Lease Prices up to 23%, but Price Hike Is Coming",
-    "link": "https://www.notateslaapp.com/news/3257/tesla-slashes-us-lease-prices-up-to-23-but-price-hike-is-coming",
-    "summary": "Tesla slashes U.S. lease prices up to 23% on Model 3, Y, and Cybertruck until Oct 31, 2025, before a Nov 1 hike.&hellip; <a href=\"https://www.notateslaapp.com/news/3257/tesla-slashes-us-lease-prices-up-to-23-but-price-hike-is-coming\">Read More</a>",
-    "isoDate": "2025-10-22T14:14:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group-cropped.webp/13125f87604d305e6a4f80ad0adf62e8/group-cropped.jpg",
     "pinned": false
   }
 ]
