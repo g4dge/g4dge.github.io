@@ -1,5 +1,39 @@
 [
   {
+    "id": "189976f648af091ee0e92d8b613d5c50b98b3671",
+    "title": "Man finally released a month after absurd arrest for reposting Trump meme",
+    "link": "https://arstechnica.com/tech-policy/2025/10/man-finally-released-a-month-after-absurd-arrest-for-reposting-trump-meme/",
+    "summary": "Bodycam footage undermined sheriff's \"true threat\" justification for the arrest.",
+    "isoDate": "2025-10-30T21:05:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "censorship",
+      "Donald Trump",
+      "Facebook",
+      "meme",
+      "social media",
+      "true threats"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1368516656-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6abd1721b5a4c1370c925397f7db1152c65db7ce",
+    "title": "Claude code will send your data to crims ... if they ask it nicely",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/anthropics_claude_private_data/",
+    "summary": "<h4>Company tells users concerned about exfiltration to 'stop it if you see it'</h4> <p>A researcher has found a way to trick Claude into uploading private data to an attacker's account using indirect prompt injection. Anthropic says it has already documented the risk, and its foolproof solution is: keep an eye on your screen.…</p>",
+    "isoDate": "2025-10-30T21:00:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "8de73ad13615eb29163619c69edf3904dc845416",
     "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
     "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
@@ -29,8 +63,8 @@
     "category": "Tech",
     "author": "Nate Anderson",
     "tags": [
-      "Culture",
       "AI",
+      "Culture",
       "college",
       "education"
     ],
@@ -495,7 +529,7 @@
   },
   {
     "id": "80084ff9d63f6983dc1a92bc25966c4563370d3d",
-    "title": "Tesla Autopilot and TACC Are Not Available in FSD V14: Is Autopilot Merging With FSD?",
+    "title": "Tesla Autopilot and TACC Are Not Available in Early Versions FSD V14: Is Autopilot Merging With FSD? [Updated]",
     "link": "https://www.notateslaapp.com/news/3214/tesla-autopilot-and-tacc-are-not-available-in-fsd-v14-is-autopilot-merging-with-fsd",
     "summary": "The temporary loss of TACC and Autosteer in FSD V14 could present a shift: Tesla may be unifying its Autopilot and FSD software stacks.&hellip; <a href=\"https://www.notateslaapp.com/news/3214/tesla-autopilot-and-tacc-are-not-available-in-fsd-v14-is-autopilot-merging-with-fsd\">Read More</a>",
     "isoDate": "2025-10-30T11:33:00Z",
@@ -806,23 +840,6 @@
       "Trump"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-122179143-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "15d24c2ed1413552e898691637c62efb9fb9a204",
-    "title": "FCC Republicans force prisoners and families to pay more for phone calls",
-    "link": "https://arstechnica.com/tech-policy/2025/10/fcc-republicans-force-prisoners-and-families-to-pay-more-for-phone-calls/",
-    "summary": "Democrat: FCC \"rewards corporations with money taken from vulnerable families.\"",
-    "isoDate": "2025-10-29T19:18:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "FCC",
-      "inmate calling"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/brendan-carr-fcc-500x500-1761764159.jpg",
     "pinned": false
   },
   {
@@ -1148,19 +1165,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1947120cb4d719c98a548827db39c2283116d785",
-    "title": "This is Doom, running headless, on Ubuntu Arm… on a satellite",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/doom_running_in_space/",
-    "summary": "<h4>Ólafur Waage has an unusual take on \"will it run Doom?\"</h4> <p><strong>Ubuntu Summit</strong>  Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established \"will it run Doom?\" meme all the way into space.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-28T21:30:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
