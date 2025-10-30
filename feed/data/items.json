@@ -1,5 +1,87 @@
 [
   {
+    "id": "f48a0baa2ad744676a6006b4766db6061ce67523",
+    "title": "There’s a global boom in solar—except in the United States",
+    "link": "https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/",
+    "summary": "The economic case for solar power is stronger than ever.",
+    "isoDate": "2025-10-30T14:28:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Rachel Millard, Martha Muir, Edward White, and Chris Kay, Financial Times",
+    "tags": [
+      "Science",
+      "climate change",
+      "renewable energy",
+      "solar power",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/chinawind-solar-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "adfea811b60a187daff20a1ab0e6a974d1b4c42f",
+    "title": "Invisible npm malware pulls a disappearing act – then nicks your tokens",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/phantomraven_npm_malware/",
+    "summary": "<h4>PhantomRaven slipped over a hundred credential-stealing packages into npm</h4> <p>A new supply chain attack dubbed PhantomRaven has flooded the npm registry with malicious packages that steal credentials, tokens, and secrets during installation. The packages appear safe when first downloaded, making them particularly difficult for security apps to identify.…</p>",
+    "isoDate": "2025-10-30T14:19:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "691887659f68446d3e0637e4aec98fbd78ee74ad",
+    "title": "An in-space construction firm says it can help build massive data centers in orbit",
+    "link": "https://arstechnica.com/space/2025/10/an-in-space-construction-firm-says-it-can-help-build-massive-data-centers-in-orbit/",
+    "summary": "\"Size is not the limit anymore.\"",
+    "isoDate": "2025-10-30T14:00:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "datacenters",
+      "rendezvous robotics",
+      "space",
+      "starcloud"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/FinalMission_Solar_WEB-500x500.webp",
+    "pinned": false
+  },
+  {
+    "id": "681abf3cb23d3cbb1a291572eac07fa6a60f0ded",
+    "title": "GM lays off 1,700 workers making EVs and batteries in Michigan, Tennessee",
+    "link": "https://arstechnica.com/cars/2025/10/weak-ev-demand-sees-gm-lay-off-1700-workers-at-two-plants/",
+    "summary": "The automaker expects the regulatory environment to seriously slow EV demand.",
+    "isoDate": "2025-10-30T13:54:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "EV adoption",
+      "General Motors",
+      "Lordstown"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1196823844-500x500-1761831531.jpg",
+    "pinned": false
+  },
+  {
+    "id": "89a05611afb090611db70e3c8c75072c9b36edb6",
+    "title": "Italian tech company promises to make America Online great again",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/yahoo_sells_aol_to_bending/",
+    "summary": "<h4>Dial-up dinosaur finds yet another corporate home as Yahoo waves goodbye</h4> <p>Bending Spoons, an Italian tech biz, is buying AOL from Yahoo, funded by a $2.8 billion debt financing package that will also bankroll future acquisitions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-30T13:38:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e0ed674beb7ac8b6e428647907b122fd1d7a87e8",
     "title": "Canonical CEO says no to IPO in current volatile market",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/canonical_ceo_mark_shuttleworth_ipo/",
@@ -966,75 +1048,6 @@
     "pinned": false
   },
   {
-    "id": "ab49f9593b9e251d90890b00648157a757a6e458",
-    "title": "An autonomous car for consumers? Lucid says it’s happening.",
-    "link": "https://arstechnica.com/cars/2025/10/an-autonomous-car-for-consumers-lucid-says-its-happening/",
-    "summary": "Nvidia is working with Lucid on autonomous cars and future factories.",
-    "isoDate": "2025-10-28T18:30:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Lucid",
-      "NVIDIA"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/EMBARGO_Lucid_NVIDIA-GTC_IMAGE-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8c735bbb5cad7c17c4a5e83867a745ecbd1e248a",
-    "title": "Senators move to keep Big Tech’s creepy companion bots away from kids",
-    "link": "https://arstechnica.com/tech-policy/2025/10/senators-move-to-keep-big-techs-creepy-companion-bots-away-from-kids/",
-    "summary": "Big Tech immediately opposed the proposed law as \"heavy-handed.\"",
-    "isoDate": "2025-10-28T18:28:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "age checks",
-      "age verification",
-      "Character.AI",
-      "chatbots",
-      "ChatGPT",
-      "child safety",
-      "companion bots",
-      "grok",
-      "replika"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285352680-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9d39223d9ebe571b594ca6a2258dcc2a5a0ed11b",
-    "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
-    "link": "https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/",
-    "summary": "Sensitive chats are rare but significant given the large user base.",
-    "isoDate": "2025-10-28T18:11:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI assistants",
-      "AI behavior",
-      "AI ethics",
-      "AI safety",
-      "AI sycophancy",
-      "chatbots",
-      "ChatGPT",
-      "machine learning",
-      "mental health",
-      "openai",
-      "sam altman"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/robot_therapy_1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "5bfcd17d16119aa4d1489a6b69b65c60ad2b1086",
     "title": "OpenAI tells Trump to build more power plants or China wins the AI arms race",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/openai_100gw_power_demand/",
@@ -1134,32 +1147,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "76e1755f336008686db456cccac839bb9231fb2f",
-    "title": "Clearview AI faces criminal heat for ignoring EU data fines",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/noyb_criminal_charges_clearview/",
-    "summary": "<h4>Noyb says New York-based facial recognition biz flouted GDPR orders and kept scraping anyway</h4> <p>Privacy advocates at Noyb filed a criminal complaint against Clearview AI for scraping social media users' faces without consent to train its AI algorithms.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-28T14:22:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "47828a2729af5451afd091ca575b3bbd3ccd2ab0",
-    "title": "Cloudflare Q3 report shows the internet still breaks for the strangest reasons",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/cloudflare_q3_internet_disruption/",
-    "summary": "<h4>From natural disasters to stray bullets and exams, it's been a shaky quarter for the world's connectivity</h4> <p>Cloudflare's latest internet disruptions report reads like a global disaster log, with exam-related shutdowns, natural calamities, stray bullets, and even a Starlink software failure all taking chunks out of global connectivity.…</p>",
-    "isoDate": "2025-10-28T13:59:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
