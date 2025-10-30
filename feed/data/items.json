@@ -1,5 +1,93 @@
 [
   {
+    "id": "2099176f86f58504fa9e0b24262adc17e592c59b",
+    "title": "Docker Compose vulnerability opens door to host-level writes – patch pronto",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/docker_compose_desktop_flaws/",
+    "summary": "<h4>Windows Desktop installer also fixed after DLL hijack flaw rated 8.8 severity</h4> <p>Docker Compose users are being strongly urged to upgrade their versions of the orchestration tool after a researcher uncovered a flaw that could allow attackers to stage path traversal attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-30T16:27:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c6f35c375b20559955be4c2b3f35cec182083877",
+    "title": "Google makes first Play Store changes after losing Epic Games antitrust case",
+    "link": "https://arstechnica.com/gadgets/2025/10/google-begins-loosening-developer-restrictions-in-play-store-against-its-will/",
+    "summary": "Google is begrudgingly letting developers lead users away from the Play Store.",
+    "isoDate": "2025-10-30T16:19:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "apps",
+      "google",
+      "play store"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f29fca2f0758ebf901c6a3efbc9185765a8fb3a8",
+    "title": "After teen death lawsuits, Character.AI will restrict chats for under-18 users",
+    "link": "https://arstechnica.com/information-technology/2025/10/after-teen-death-lawsuits-character-ai-will-restrict-chats-for-under-18-users/",
+    "summary": "AI companion app faces legal and regulatory pressure over child safety concerns.",
+    "isoDate": "2025-10-30T15:54:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "ai companions",
+      "AI regulation",
+      "AI safety",
+      "Character.AI",
+      "chatbots",
+      "child safety",
+      "Daniel De Freitas",
+      "emotional AI",
+      "google",
+      "machine learning",
+      "mental health",
+      "Noam Shazeer",
+      "openai",
+      "sam altman"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/robot_no_sign_3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "26a78026203dd88278eed195aea279f5c45f69a5",
+    "title": "Trump and Xi ease trade tensions, but Nvidia still can't sell Blackwell in China",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/us_to_reduce_tariffs_china/",
+    "summary": "<h4>US President did discuss chip exports with his counterpart, but made no breakthroughs</h4> <p>Talks between US President Trump and Chinese leader Xi Jinping in South Korea yielded a modest thaw, with the two agreeing to trim tariffs and pause new rare-earth export curbs. But whether Nvidia can sell its latest GPUs to China remains an open question.…</p>",
+    "isoDate": "2025-10-30T15:49:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "858bf278f56d3fa26547f660fadde12d9f968295",
+    "title": "US government shutdown clouds an otherwise sunny ServiceNow forecast",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/us_government_shutdown_servicenow/",
+    "summary": "<h4>Enterprise software giant lifts guidance but adds 'prudence' as federal contracts stall</h4> <p>ServiceNow has built some \"prudence\" into its earnings guidance due to the ongoing US government shutdown.…</p>",
+    "isoDate": "2025-10-30T15:48:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "68a077ec4f16e2c3926acd3c829dd0aa7661068e",
     "title": "TikTok may become more right-wing as China signals approval for US sale",
     "link": "https://arstechnica.com/tech-policy/2025/10/us-creeps-closer-to-controlling-tiktok-after-trump-xi-meeting/",
@@ -964,23 +1052,6 @@
     "pinned": false
   },
   {
-    "id": "054950e3a73bd9948b82bca551e2b31a393b864d",
-    "title": "Mazda shows a rotary hybrid concept for Tokyo with evolved design language",
-    "link": "https://arstechnica.com/cars/2025/10/mazda-shows-a-rotary-hybrid-concept-for-tokyo-with-evolved-design-language/",
-    "summary": "Ideas include algae-based fuels and capturing carbon from the exhaust while driving.",
-    "isoDate": "2025-10-29T03:30:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Japan Mobility Show",
-      "mazda"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/MAZDA_VISION_MODEL_3-X-COUPE-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e95ce0d30f2ca6ee3c283da9096210f307079043",
     "title": "Amazon Web Services’ US-EAST-1 region in trouble again, with EC2 and container services impacted",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/aws_us_east_1_more_problems/",
@@ -1085,19 +1156,6 @@
     "pinned": false
   },
   {
-    "id": "a1c66ae0bf9abc6b4a29964fc28109eaa290ae68",
-    "title": "AI bubble to deflate as enterprises defer spending to 2027",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/forrester_ai_spending/",
-    "summary": "<h4>Gap between vendor promises and business results set to trigger market correction, research firm predicts</h4> <p><strong>ai-pocalypse</strong>  Bubble, meet pin. Large organizations are set to defer a quarter of planned AI spending from next year until 2027, forcing a market correction.…</p>",
-    "isoDate": "2025-10-28T16:28:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "a9ffc831860dbb82834034bc62348bb0ff6e6672",
     "title": "Tesla FSD, Including V14 Lite for HW3, Robotaxi Rollout, and AI Reasoning Dominate Q3 2025 Earnings",
     "link": "https://www.notateslaapp.com/news/3267/tesla-fsd-including-v14-lite-for-hw3-robotaxi-rollout-and-ai-reasoning-dominate-q3-2025-earnings",
@@ -1108,32 +1166,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_51.jpg/7dffe70ea297bfcbfae0ae39ccd84ebe/group_51.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5438226473ec4f2d4a2116e7396a31a85aee9a20",
-    "title": "Think tank decries science friction between countries, demands global cooperation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/oecd_global_science_collaboration/",
-    "summary": "<h4>More countries are prioritizing national security over scientific discovery</h4> <p>Why can't we all just get along... for the good of science? New research suggests countries prioritizing national security over the greater good are hindering global research and economic development.…</p>",
-    "isoDate": "2025-10-28T16:01:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "47421afbca99bef4fc11efe828f2954d2e02d62f",
-    "title": "Euro cloud alliance urges action on Broadcom as Microsoft mends fences",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/cispe_ecco_broadcom/",
-    "summary": "<h4>CISPE says post-VMware conduct raises fresh antitrust concerns</h4> <p>Cloud Infrastructure Services Providers in Europe (CISPE) has issued its third European Cloud Competition Observatory (ECCO) report, praising Microsoft's licensing concessions while accusing Broadcom of worsening anti-competitive practices.…</p>",
-    "isoDate": "2025-10-28T15:12:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1450,19 +1482,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla-vision.webp/4da9bbe3e0bf27594a62c35c6f4b821b/tesla-vision.jpg",
-    "pinned": false
-  },
-  {
-    "id": "04331fd028e8aa82ba6ecbf6627cb124a3b439bf",
-    "title": "Tesla to Bring FSD V14 \"Lite\" to Hardware 3 Vehicles: Features Expected, Timeline and Hardware Upgrade",
-    "link": "https://www.notateslaapp.com/news/3263/tesla-to-bring-fsd-v14-lite-to-hardware-3-vehicles",
-    "summary": "Tesla discusses the next upgrade for hardware 3 vehicles, FSD V14 Lite. We take a look at what may be included and timelines for an upgrade.&hellip; <a href=\"https://www.notateslaapp.com/news/3263/tesla-to-bring-fsd-v14-lite-to-hardware-3-vehicles\">Read More</a>",
-    "isoDate": "2025-10-23T15:52:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-vis-2.jpg/eb3f80143b74362987cf16434024373e/fsd-beta-vis-2.jpg",
     "pinned": false
   }
 ]
