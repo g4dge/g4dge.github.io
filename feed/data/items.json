@@ -1,7 +1,55 @@
 [
   {
+    "id": "2658405f2908b69a226b9c66ec19690fad145bd1",
+    "title": "Sam Altman wants a refund for his $50,000 Tesla Roadster deposit",
+    "link": "https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/",
+    "summary": "Altman is just the latest in a string of people to want their money back.",
+    "isoDate": "2025-10-31T18:33:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "sam altman",
+      "tesla roadster"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/Roadster_Hero-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e66d9bd8b41f7ae1f739f68146ca151316f9abb2",
+    "title": "AT&T sues ad industry watchdog instead of pulling ads that slam T-Mobile",
+    "link": "https://arstechnica.com/tech-policy/2025/10/att-sues-ad-industry-watchdog-instead-of-pulling-ads-that-slam-t-mobile/",
+    "summary": "National Advertising Division said AT&#038;T ad and press release broke program rule.",
+    "isoDate": "2025-10-31T18:23:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "AT&T",
+      "national advertising division",
+      "t-mobile"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-500x500-1745953032.jpg",
+    "pinned": false
+  },
+  {
+    "id": "efc7497c8e3a6d37da0e09c94de97aace94d423d",
+    "title": "Tesla Starts Offering 2,000 Free Supercharging Miles for Trade-Ins",
+    "link": "https://www.notateslaapp.com/news/3283/tesla-starts-offering-2000-free-supercharging-miles-for-trade-ins",
+    "summary": "Tesla starts offering 2,000 free Supercharging miles for owners who trade in their gas vehicle.&hellip; <a href=\"https://www.notateslaapp.com/news/3283/tesla-starts-offering-2000-free-supercharging-miles-for-trade-ins\">Read More</a>",
+    "isoDate": "2025-10-31T17:42:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/free-supercharging.webp/776752a2b4716924c9cb5c48052ca5dd/free-supercharging.jpg",
+    "pinned": false
+  },
+  {
     "id": "9017c26a7e27b273fbf4f0c1e6e04e705245622d",
-    "title": "A week with the Hyundai Ioniq 9 SUV: What we liked, what we didn’t",
+    "title": "2026 Hyundai Ioniq 9: American car-buyer tastes meet Korean EV tech",
     "link": "https://arstechnica.com/cars/2025/10/a-week-with-the-hyundai-ioniq-9-suv-what-we-liked-what-we-didnt/",
     "summary": "There's a lot to like about this SUV, made in Georgia.",
     "isoDate": "2025-10-31T17:19:07Z",
@@ -213,7 +261,6 @@
     "category": "Tech",
     "author": "Stephen Clark",
     "tags": [
-      "Science",
       "Space",
       "artemis",
       "artemis iii",
@@ -765,25 +812,6 @@
     "pinned": false
   },
   {
-    "id": "70ab5e768e8ae5a1ce23bcbd855fa39d661e8fa2",
-    "title": "New study settles 40-year debate: Nanotyrannus is a new species",
-    "link": "https://arstechnica.com/science/2025/10/nanotyrannus-species-confirmed-its-not-just-a-baby-t-rex/",
-    "summary": "\"This fossil doesn't just settle the debate. It flips decades of <em>T. rex</em> research on its head.\"",
-    "isoDate": "2025-10-30T17:00:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "Nanotyrannus",
-      "paleontology",
-      "Taxonomy",
-      "tyrannosaurs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/nanotyrannusTOP-500x500-1761666554.jpg",
-    "pinned": false
-  },
-  {
     "id": "2099176f86f58504fa9e0b24262adc17e592c59b",
     "title": "Docker Compose vulnerability opens door to host-level writes – patch pronto",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/docker_compose_desktop_flaws/",
@@ -794,25 +822,6 @@
     "author": "Joe Fay",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c6f35c375b20559955be4c2b3f35cec182083877",
-    "title": "Google makes first Play Store changes after losing Epic Games antitrust case",
-    "link": "https://arstechnica.com/gadgets/2025/10/google-begins-loosening-developer-restrictions-in-play-store-against-its-will/",
-    "summary": "Google is begrudgingly letting developers lead users away from the Play Store.",
-    "isoDate": "2025-10-30T16:19:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "apps",
-      "google",
-      "play store"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-500x500.jpg",
     "pinned": false
   },
   {
@@ -1412,19 +1421,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.38.3/2025.38.3-tron-mode.png",
-    "pinned": false
-  },
-  {
-    "id": "c0060f46c7823d64b68ba2ad48660a584c61c746",
-    "title": "Tesla FSD V14.1: The Hidden Features Tesla Didn’t List",
-    "link": "https://www.notateslaapp.com/news/3218/tesla-fsd-v141-the-hidden-features-tesla-didnt-list",
-    "summary": "A look into the undocumented changes in FSD V14.1, from new UI and parking skills to a controversial overhaul of FSD's speed controls.&hellip; <a href=\"https://www.notateslaapp.com/news/3218/tesla-fsd-v141-the-hidden-features-tesla-didnt-list\">Read More</a>",
-    "isoDate": "2025-10-24T17:36:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/start-fsd-button.webp/e0caaaef5fc7d9b1039b6032b8a5029d/start-fsd-button.jpg",
     "pinned": false
   }
 ]
