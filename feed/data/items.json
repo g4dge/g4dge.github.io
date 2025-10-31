@@ -1,7 +1,53 @@
 [
   {
+    "id": "4bbaf7af4f2604c14a60ae276c353ec0c308d32a",
+    "title": "Measles outbreak investigation in Utah blocked by patient who refuses to talk",
+    "link": "https://arstechnica.com/health/2025/10/measles-outbreak-investigation-in-utah-blocked-by-patient-who-refuses-to-talk/",
+    "summary": "The person refused to even tell health officials their address.",
+    "isoDate": "2025-10-31T19:58:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "arizona",
+      "contact tracing",
+      "measles",
+      "outbreak",
+      "Utah"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4e5877c4d8f787e8786fe94e59f2a09457a91b78",
+    "title": "AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/openai_aardvark_agentic_security/",
+    "summary": "<h4>AI promises to find bugs and gaps in your apps</h4> <p>After helping expand the modern software attack surface with the rise of AI services prone to data poisoning and prompt injection, OpenAI has thrown a bone to cyber defenders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-10-31T19:35:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "610bf775ecd4d43b98ef8589c963322c8bd9f6ed",
+    "title": "Datacenter biz and nuke startup join forces for Texas AI ranch",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/",
+    "summary": "<h4>The bit barn will run on gas power first.</h4> <p>Texas is set to get another nuclear-powered datacenter project thanks to Blue Energy and Crusoe, but any atomic action isn't likely until the next decade.…</p>",
+    "isoDate": "2025-10-31T19:19:36Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1d8956e890288e2fe178a2f39b7d72aa34494544",
-    "title": "Blue Origin test-fires second New Glenn rocket ahead of launch next month",
+    "title": "New Glenn rocket has clear path to launch after test-firing at Cape Canaveral",
     "link": "https://arstechnica.com/space/2025/10/blue-origin-test-fires-second-new-glenn-rocket-ahead-of-launch-next-month/",
     "summary": "New Glenn will soon meet its payloads: Two NASA probes to study Martian climate change.",
     "isoDate": "2025-10-31T19:10:53Z",
@@ -9,7 +55,6 @@
     "category": "Tech",
     "author": "Stephen Clark",
     "tags": [
-      "Science",
       "Space",
       "blue origin",
       "Commercial space",
@@ -800,34 +845,6 @@
     "pinned": false
   },
   {
-    "id": "73a27caf68919a0e98fcd21dbd89449be3ad4a3c",
-    "title": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses",
-    "link": "https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/",
-    "summary": "It could be \"one of the biggest IPOs of all time,\" according to Reuters.",
-    "isoDate": "2025-10-30T18:24:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI infrastructure",
-      "ChatGPT",
-      "CoreWeave",
-      "generative ai",
-      "IPO",
-      "large language models",
-      "machine learning",
-      "microsoft",
-      "NVIDIA",
-      "openai",
-      "sam altman",
-      "SoftBank"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/openai_treasurechest_1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2099176f86f58504fa9e0b24262adc17e592c59b",
     "title": "Docker Compose vulnerability opens door to host-level writes – patch pronto",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/docker_compose_desktop_flaws/",
@@ -1127,32 +1144,6 @@
     "pinned": false
   },
   {
-    "id": "0a081ce5371d5b4cd59e682d2eab6b8cf139d540",
-    "title": "'Keep Android Open' movement fights back against Google sideloading restrictions",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/keep_android_open_movement/",
-    "summary": "<h4>Petition seeks to rally community opposition and alert regulators</h4> <p>Starting next year, Google plans to require all apps installed on certified Android devices, including sideloading, to come from developers it has verified. Many Android developers see the move as a power grab and have started a movement to \"Keep Android Open.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-29T22:13:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3f2849d4f24be6b180ddb1b09a669d307bc2f4eb",
-    "title": "Ubuntu Unity hanging by a thread as wunderkind maintainer gets busy with life",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/ubuntu_unity_child_maintainer/",
-    "summary": "<h4>Team begs for help as teenage dev who revived Canonical’s old Unity desktop prioritizes studies</h4> <p>The Ubuntu Unity project is in trouble because its maintainer, a Linux whiz kid, has had less time to work on it due to his studies. Now other team members are appealing to the wider Ubuntu community for help. …</p>",
-    "isoDate": "2025-10-29T20:20:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "e94c0ebb423c95cac31738602ca351aa805b3fc4",
     "title": "Tesla Board Chair Says Tesla Has a \"Few More Vehicles Coming Out\" [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3275/tesla-board-chair-says-tesla-has-a-few-more-vehicles-coming-out-video",
@@ -1411,19 +1402,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/180.jpeg/fbd48194d71cf32a2e2183e8aa988f06/180.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4a23cf721ab37f5c6666fdc44391e3d3eb5aa60e",
-    "title": "Tesla Update 2025.38.6 - Release Notes",
-    "link": "https://www.notateslaapp.com/software-updates/version/2025.38.6/release-notes",
-    "summary": "Tesla software update 2025.38.6 includes Tron Mode, 3D Buildings, Satellite View, Dashcam Viewer Updates, Side Cameras Recording, New Scroll Wheel Functions, Grok (Beta), Onboarding Guide, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.38.6/release-notes\">View Release Notes</a>",
-    "isoDate": "2025-10-24T19:30:08Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.38.3/2025.38.3-tron-mode.png",
     "pinned": false
   }
 ]
