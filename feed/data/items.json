@@ -1,5 +1,42 @@
 [
   {
+    "id": "a113114caf3ef7951f799f9165f4c27d48bd82ec",
+    "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
+    "link": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/",
+    "summary": "Both vulnerabilities are being exploited in widescale operations.",
+    "isoDate": "2025-10-31T21:03:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "microsoft windows vulnerabilities",
+      "zero-day",
+      "zero-day vulnerability"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2c7fcfdd118c10d1aecb65673879409c9b5a0c49",
+    "title": "FCC to rescind ruling that said ISPs are required to secure their networks",
+    "link": "https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/",
+    "summary": "FCC chair to rely on ISPs' voluntary commitments instead of Biden-era ruling.",
+    "isoDate": "2025-10-31T20:44:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Security",
+      "FCC",
+      "salt typhoon"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/padlock-network-security-500x500-1761942104.jpg",
+    "pinned": false
+  },
+  {
     "id": "4bbaf7af4f2604c14a60ae276c353ec0c308d32a",
     "title": "Measles outbreak investigation in Utah blocked by patient who refuses to talk",
     "link": "https://arstechnica.com/health/2025/10/measles-outbreak-investigation-in-utah-blocked-by-patient-who-refuses-to-talk/",
@@ -729,26 +766,6 @@
     "pinned": false
   },
   {
-    "id": "8bdc9731f09ed79100ea2035f9c6023e4167157b",
-    "title": "Netflix drops a doozy of a trailer for Stranger Things S5",
-    "link": "https://arstechnica.com/culture/2025/10/netflix-drops-a-doozy-of-a-trailer-for-stranger-things-s5/",
-    "summary": "Dustin: \"We stay true to ourselves, we stay true to our friends, no matter the cost.\"",
-    "isoDate": "2025-10-30T19:36:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "Netflix",
-      "Stranger Things S5",
-      "streaming television",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/strangerTOP-500x500-1761850723.jpg",
-    "pinned": false
-  },
-  {
     "id": "428ee82f535b70bd085867dd0b2c0a70bfce1f9e",
     "title": "Tesla Close to Launching FSD in Israel in \"Near Future\"",
     "link": "https://www.notateslaapp.com/news/3280/tesla-close-to-launching-fsd-in-israel-in-near-future",
@@ -759,24 +776,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/model-3-desert.jpeg/44fdebecf30efbb336b2f940d1705474/model-3-desert.jpg",
-    "pinned": false
-  },
-  {
-    "id": "172063af0294fb096bbe5a2cc4b96c7320ad611d",
-    "title": "Trump admin demands states exempt ISPs from net neutrality and price laws",
-    "link": "https://arstechnica.com/tech-policy/2025/10/trump-admin-demands-states-exempt-isps-from-net-neutrality-and-price-laws/",
-    "summary": "US says net neutrality is price regulation and is banned in $42B grant program.",
-    "isoDate": "2025-10-30T19:26:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "BEAD program",
-      "Broadband Equity Access and Deployment program",
-      "Net Neutrality"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-network-500x500-1732040422.jpg",
     "pinned": false
   },
   {
@@ -1119,9 +1118,9 @@
   },
   {
     "id": "31d937434cbff8e14959d49a69689afa48346ba1",
-    "title": "Microsoft seemingly just revealed that OpenAI lost $11.5B last quarter",
+    "title": "Microsoft just revealed that OpenAI lost more than $11.5B last quarter",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/",
-    "summary": "<h4>Satya has also delivered Sam most of the cash he promised</h4> <p>Microsoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of $11.5 billion during the quarter.…</p>",
+    "summary": "<h4>Satya has also delivered Sam most of the cash he promised</h4> <p><strong>updated</strong>  Microsoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of $11.5 billion or more during the quarter.…</p>",
     "isoDate": "2025-10-29T23:17:31Z",
     "source": "The Register",
     "category": "Tech",
