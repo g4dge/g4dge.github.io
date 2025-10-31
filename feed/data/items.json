@@ -1,5 +1,41 @@
 [
   {
+    "id": "1d8956e890288e2fe178a2f39b7d72aa34494544",
+    "title": "Blue Origin test-fires second New Glenn rocket ahead of launch next month",
+    "link": "https://arstechnica.com/space/2025/10/blue-origin-test-fires-second-new-glenn-rocket-ahead-of-launch-next-month/",
+    "summary": "New Glenn will soon meet its payloads: Two NASA probes to study Martian climate change.",
+    "isoDate": "2025-10-31T19:10:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "blue origin",
+      "Commercial space",
+      "escapade",
+      "launch",
+      "Mars",
+      "NASA",
+      "new glenn"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ng2hotfire-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2ed54cceec4b0e5d9d834aafb0dcf128bfeded6a",
+    "title": "Ransomware gang runs ads for Microsoft Teams to pwn victims",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/rhysida_abuses_fake_teams_ads/",
+    "summary": "<h4>You click and think you're getting a download page, but get malware instead</h4> <p>Imagine searching for Microsoft Teams, seeing a text link at the top of the results, visiting it, and then getting hit with malware. The Rhysida ransomware gang, an especially insidious criminal organization that has stolen millions of people's info, has been placing fake ads for Microsoft Teams in search engines and then infecting victims who make the mistake of clicking them.…</p>",
+    "isoDate": "2025-10-31T18:51:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "2658405f2908b69a226b9c66ec19690fad145bd1",
     "title": "Sam Altman wants a refund for his $50,000 Tesla Roadster deposit",
     "link": "https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/",
@@ -792,26 +828,6 @@
     "pinned": false
   },
   {
-    "id": "7393f8bb8b2df22316186e3dec8ce0ce3b7de5d2",
-    "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles",
-    "link": "https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/",
-    "summary": "Disney+ joins Netflix, Apple TV in supporting the Dolby Vision rival.",
-    "isoDate": "2025-10-30T17:28:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "Disney",
-      "disney plus",
-      "HDR",
-      "Hulu",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/fc3d1e70-19cf-4cfa-bb07-bd6439b3df66_1761249301-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2099176f86f58504fa9e0b24262adc17e592c59b",
     "title": "Docker Compose vulnerability opens door to host-level writes – patch pronto",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/docker_compose_desktop_flaws/",
@@ -1132,19 +1148,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "aa5758bac4f308da89987617bc3a64defcabb417",
-    "title": "This security hole can crash billions of Chromium browsers, and Google hasn't patched it yet",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/brash_dos_attack_crashes_chromium/",
-    "summary": "<h4>Edge, Atlas, Brave among those affected</h4> <p><strong>Exclusive</strong>  A critical, currently unpatched bug in Chromium's Blink rendering engine can be abused to crash many Chromium-based browsers within seconds, causing a denial-of-service condition – and, in some tests, freezing the host system.…</p>",
-    "isoDate": "2025-10-29T19:50:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
