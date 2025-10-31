@@ -1,5 +1,68 @@
 [
   {
+    "id": "2d7751ad25bd8c960eedc150e99947987dca50b9",
+    "title": "Russia finally bites the cybercrooks it raised, arresting suspected Meduza infostealer devs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/russia_arrests_three_meduza_cyber_suspects/",
+    "summary": "<h4>Rare case of the state turning on its own, but researchers say it may be doing so more often</h4> <p>Russia's Interior Ministry says police have arrested three suspects it believes helped build and spread the Meduza infostealer.…</p>",
+    "isoDate": "2025-10-31T16:26:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d16b8ba729d402afae5f7828a94e53c63edec43f",
+    "title": "Developer puts Windows 7 on a crash diet, drops it to down to 69 MB",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/windows_7_limbos_down_to/",
+    "summary": "<h4>Trim down for obsolete operating system leaves it booting, but not much else</h4> <p>Stripping Windows to the bare essentials is a favorite hobby among enthusiasts, especially as Microsoft continues loading its OS with unwanted bloat. The latest achievement is Windows 7 being reduced to 69 MB.…</p>",
+    "isoDate": "2025-10-31T16:15:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "44ec9e820286667cc9226d0b887b3a7d3db88d65",
+    "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager",
+    "link": "https://arstechnica.com/gadgets/2025/10/windows-11-task-manager-bug-makes-the-apps-close-button-do-the-exact-opposite/",
+    "summary": "Bug affects Windows 11 24H2 and 25H2 users using the October update preview.",
+    "isoDate": "2025-10-31T16:06:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "windows 11",
+      "windows 11 24h2",
+      "windows 11 25h2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/taskmgr-500x500-1761925687.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b446697bef63765c216f297758a43156d1ba1edd",
+    "title": "Trump’s swift demolition of East Wing may have launched asbestos plumes",
+    "link": "https://arstechnica.com/health/2025/10/trumps-swift-demolition-of-east-wing-may-have-launched-asbestos-plumes/",
+    "summary": "There is no confirmation that the Trump admin. followed abatement processes.",
+    "isoDate": "2025-10-31T15:36:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "Asbestos",
+      "Lung cancer",
+      "Trump",
+      "White House"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2243722478-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "89c0ec23588a0b5cb75c48315a7190a897f38141",
     "title": "Wear marks suggest Neanderthals made ocher crayons",
     "link": "https://arstechnica.com/science/2025/10/crimean-neanderthals-made-stone-age-crayons-from-ocher-50000-years-ago/",
@@ -767,25 +830,6 @@
     "pinned": false
   },
   {
-    "id": "f48a0baa2ad744676a6006b4766db6061ce67523",
-    "title": "Falling panel prices lead to global solar boom, except for the US",
-    "link": "https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/",
-    "summary": "The economic case for solar power is stronger than ever.",
-    "isoDate": "2025-10-30T14:28:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Rachel Millard, Martha Muir, Edward White, and Chris Kay, Financial Times",
-    "tags": [
-      "Science",
-      "climate change",
-      "renewable energy",
-      "solar power",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/chinawind-solar-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "adfea811b60a187daff20a1ab0e6a974d1b4c42f",
     "title": "Invisible npm malware pulls a disappearing act – then nicks your tokens",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/phantomraven_npm_malware/",
@@ -796,25 +840,6 @@
     "author": "Carly Page",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "691887659f68446d3e0637e4aec98fbd78ee74ad",
-    "title": "An in-space construction firm says it can help build massive data centers in orbit",
-    "link": "https://arstechnica.com/space/2025/10/an-in-space-construction-firm-says-it-can-help-build-massive-data-centers-in-orbit/",
-    "summary": "\"Size is not the limit anymore.\"",
-    "isoDate": "2025-10-30T14:00:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "datacenters",
-      "rendezvous robotics",
-      "space",
-      "starcloud"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/FinalMission_Solar_WEB-500x500.webp",
     "pinned": false
   },
   {
@@ -1143,19 +1168,6 @@
     "pinned": false
   },
   {
-    "id": "9bada3138290b018817941d22656587d4793315f",
-    "title": "Smile! Uncle Sam wants to scan your face on the way in – and out",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/us_foreigner_facial_scans/",
-    "summary": "<h4>Noncitizens, prepare to have your mugshot stored for up to 75 years</h4> <p>Planning to visit the United States in the near future? If so, get ready to have your picture taken – and stored for decades – upon both entry and exit under a new Customs and Border Protection rule.…</p>",
-    "isoDate": "2025-10-29T15:35:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "08f4255e287d1e1406e6abe7e1cff0aca2999fad",
     "title": "Tesla Expands Robotaxi Again -- Now 12X Bigger Than Original Size",
     "link": "https://www.notateslaapp.com/news/3277/tesla-expands-robotaxi-again-now-12x-bigger-than-original-size",
@@ -1166,19 +1178,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-geofence-3-rd-4th-expansion.webp/97e76c219e70dd794fa3c64e50d01efa/robotaxi-geofence-3-rd-4th-expansion.jpg",
-    "pinned": false
-  },
-  {
-    "id": "681d73992d489f49888ec6cc6718d1f702f2363b",
-    "title": "India to dethrone US for dev numbers as AI reshapes coding, says GitHub",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/india_devs_github/",
-    "summary": "<h4>TypeScript was ranked top programming language</h4> <p>The Indian software developer community will outgrow the US's by 2030, GitHub's Octoverse 2025 report shows. However, today, the United States remains in the lead.…</p>",
-    "isoDate": "2025-10-29T15:08:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
