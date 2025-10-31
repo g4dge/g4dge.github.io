@@ -1,5 +1,52 @@
 [
   {
+    "id": "beb0816bafa5fe6223793b81506ae41e91b26dc6",
+    "title": "The clock's ticking for MySQL 8.0 as end of life looms",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/mysql_8_support_end/",
+    "summary": "<h4>Percona says more than half of installs remain on version set to lose support in 2026</h4> <p>Users have six months to migrate from MySQL 8.0 if they are to stay on a supported version of the open source database, or face security and reliability risks.…</p>",
+    "isoDate": "2025-10-31T12:00:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4cf308dc12c783ecbcb9f972e0dfb08b014dc51b",
+    "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
+    "link": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
+    "summary": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong.",
+    "isoDate": "2025-10-31T11:30:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Features",
+      "Google",
+      "Tech",
+      "google",
+      "Google Gemini",
+      "Google Home"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4e9799403affa13d5f2cb7e0dcaa351c22689c81",
+    "title": "Resilience, not sovereignty, defines OpenStack's next chapter",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/resilience_openinfra_summit/",
+    "summary": "<h4>Price hikes, politics, and platform fatigue drive organizations back toward open alternatives</h4> <p><strong>OpenInfra Summit</strong>  Sovereignty might be the word of the hour, but the OpenStack community has another – resilience.…</p>",
+    "isoDate": "2025-10-31T11:29:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "da2fcea62f0e3b936e50a35470c102dbea5c2cc8",
     "title": "Rocket Report: SpaceX surpasses shuttle launch total; Skyroot has big ambitions",
     "link": "https://arstechnica.com/space/2025/10/rocket-report-chinas-moon-rocket-to-debut-soon-arcaspace-is-back-sort-of/",
@@ -962,29 +1009,6 @@
     "pinned": false
   },
   {
-    "id": "cd748d0f2ee3b40bbabc016e384b742dbdede0d8",
-    "title": "Space station astronauts eager to open “golden treasure box” from Japan",
-    "link": "https://arstechnica.com/space/2025/10/space-station-astronauts-eager-to-open-golden-treasure-box-from-japan/",
-    "summary": "\"This spacecraft is so beautiful and shiny, and this is representing our bright future.\"",
-    "isoDate": "2025-10-29T21:23:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "h3 rocket",
-      "HTV",
-      "HTV-X",
-      "international space station",
-      "Japan",
-      "JAXA",
-      "Mitsubishi",
-      "NASA"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3f2849d4f24be6b180ddb1b09a669d307bc2f4eb",
     "title": "Ubuntu Unity hanging by a thread as wunderkind maintainer gets busy with life",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/ubuntu_unity_child_maintainer/",
@@ -1149,32 +1173,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3d3e2bb870706dab766cc9fed27e78708c9a0e6c",
-    "title": "Marketing giant Dentsu warns staff after Merkle data raid",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/dentsu_merkle_breach/",
-    "summary": "<h4>Emails confirm payroll and bank details lifted in cyberattack on US subsidiary</h4> <p>Global marketing giant Dentsu is writing to current and former staff after a cyberattack on a subsidiary led to bank, payroll, and other sensitive data being stolen.…</p>",
-    "isoDate": "2025-10-29T12:46:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "932b4611354c87a01d27c715a68ddbde20956740",
-    "title": "UK politicians to draft outage blueprint after AWS calamity",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/uk_govt_outage_plan/",
-    "summary": "<h4>60% of government services rely on Amazon, Google, or Microsoft's clouds</h4> <p>The UK government will publish a plan for handling future cloud outages after last week's AWS failure knocked out several departments.…</p>",
-    "isoDate": "2025-10-29T12:38:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
     "tags": [],
     "image": "",
     "pinned": false
