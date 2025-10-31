@@ -1,5 +1,31 @@
 [
   {
+    "id": "3ce5f343a581b6aca39bf51fe769d32fec26a71a",
+    "title": "Japan’s new space truck is also a temporary space lab, just worked first time",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/jaxa_htv_x_success/",
+    "summary": "<h4>HTV-X capsule is designed to hang around in space after delivering cargo to ISS</h4> <p>Japan’s Aerospace Exploration Agency (JAXA) is celebrating after its new cargo carrier docked at the International Space Station.…</p>",
+    "isoDate": "2025-10-31T01:19:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5b72d645020545214dfd0cee653c752eaade6e01",
+    "title": "Amazon juggernaut continues hauling in more cash despite recent bad news",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/amazon_earnings_q3_25/",
+    "summary": "<h4>The spending will continue until AI revenue improves</h4> <p>Despite a trickle of bad news from Amazon in recent weeks, the company's business is thrumming along, with AWS leading the way.…</p>",
+    "isoDate": "2025-10-31T00:06:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "939d5464fb945288ac7f02ad722580deb82661d1",
     "title": "Calley Means is out of the White House; Casey Means misses Senate hearing",
     "link": "https://arstechnica.com/health/2025/10/the-means-siblings-darlings-of-maha-both-out-of-the-trump-admin-for-now/",
@@ -106,7 +132,7 @@
     "id": "235fbb30e8b269e4fd7ed085164d9afe282e1a24",
     "title": "Affinity’s image-editing apps go “freemium” in first major post-Canva update",
     "link": "https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/",
-    "summary": "Updated app is \"free forever,\" but perpetually licensed Affinity apps are gone.",
+    "summary": "Updated app is \"free forever,\" but won't get a perpetually licensed version.",
     "isoDate": "2025-10-30T20:05:50Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -1141,32 +1167,6 @@
     "pinned": false
   },
   {
-    "id": "e95ce0d30f2ca6ee3c283da9096210f307079043",
-    "title": "Amazon Web Services’ US-EAST-1 region in trouble again, with EC2 and container services impacted",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/aws_us_east_1_more_problems/",
-    "summary": "<h4>Internal dependencies again prove problematic</h4> <p><strong>UPDATED</strong>  Amazon Web Services’ US-EAST-1 region, which last week caused <a href=\"https://www.theregister.com/2025/10/20/amazon_aws_outage/\" target=\"_blank\">massive disruption</a> to online services, is having another bad day as internal dependencies again prove problematic.…</p>",
-    "isoDate": "2025-10-29T01:16:42Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4ab8cb91adbfa437f02c9d22cdf9007b28d909a5",
-    "title": "OpenAI non-profit will run for-profit that has yet to make a profit",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/openai_simplifies_corporate_structure_into/",
-    "summary": "<h4>Corporate restructuring will benefit ... uh, humanity</h4> <p>OpenAI has obtained a new lease on life.…</p>",
-    "isoDate": "2025-10-28T23:54:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "a9ffc831860dbb82834034bc62348bb0ff6e6672",
     "title": "Tesla FSD, Including V14 Lite for HW3, Robotaxi Rollout, and AI Reasoning Dominate Q3 2025 Earnings",
     "link": "https://www.notateslaapp.com/news/3267/tesla-fsd-including-v14-lite-for-hw3-robotaxi-rollout-and-ai-reasoning-dominate-q3-2025-earnings",
@@ -1467,19 +1467,6 @@
       "Skepticism"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "267d4962021a5fc51885648f6116361b89550621",
-    "title": "Tesla Updates App to v4.50.1 to Address Bugs",
-    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.50.1/release-notes",
-    "summary": "Tesla app update 4.50.1 includes Minor Fixes. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.50.1/release-notes\">View Release Notes</a>",
-    "isoDate": "2025-10-24T00:05:02Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-49-6/tesla-app-modely-standard.webp/a34132d0e2d75e4befc1457b1e43c0e2/tesla-app-modely-standard.jpg",
     "pinned": false
   }
 ]
