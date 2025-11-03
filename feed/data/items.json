@@ -1,5 +1,51 @@
 [
   {
+    "id": "f3c48255f8af73b8964c13ea8ab9ae0cd58634a4",
+    "title": "Google removes Gemma models from AI Studio after GOP senator’s complaint",
+    "link": "https://arstechnica.com/google/2025/11/google-removes-gemma-models-from-ai-studio-after-gop-senators-complaint/",
+    "summary": "Sen. Marsha Blackburn says Gemma concocted sexual misconduct allegations against her.",
+    "isoDate": "2025-11-03T18:28:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "gemma",
+      "generative ai",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7079833829b34f626d89b9b981ba348bedac00d5",
+    "title": "Alaska Air phones a friend to find out what caused massive October outage",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/alaska_air_group_consultants_outage/",
+    "summary": "<h4>Accenture to poke around the beleaguered airline's IT infrastructure</h4> <p>Alaska Airlines has called in consultants to advise it on what went wrong during a late October IT meltdown that grounded flights and wreaked havoc for two days.…</p>",
+    "isoDate": "2025-11-03T18:04:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "51fe67f13eba81d7ab2b28d8ae6b5c7aafd47e9c",
+    "title": "Cybercrooks team up with organized crime to steal pricey cargo",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/cybercriminals_team_up_with_ocgs/",
+    "summary": "<h4>Old-school cargo heists reborn in the cyber age</h4> <p>Cybercriminals are increasingly orchestrating lucrative cargo thefts alongside organized crime groups (OCGs) in a modern-day resurgence of attacks on freight companies.…</p>",
+    "isoDate": "2025-11-03T17:38:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "187c5de87e94280f413c7b1163f435a1da26b0ac",
     "title": "Gullible bots struggle to distinguish between facts and beliefs",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/llms_struggle_to_distinguish_facts_beliefs/",
@@ -770,27 +816,6 @@
     "pinned": false
   },
   {
-    "id": "89c0ec23588a0b5cb75c48315a7190a897f38141",
-    "title": "Wear marks suggest Neanderthals made ocher crayons",
-    "link": "https://arstechnica.com/science/2025/10/crimean-neanderthals-made-stone-age-crayons-from-ocher-50000-years-ago/",
-    "summary": "Neanderthals were apparently no easier on their art supplies than modern kids.",
-    "isoDate": "2025-10-31T15:06:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "ancient people did stuff",
-      "Archaeology",
-      "Neanderthals",
-      "paleoarchaeology",
-      "science",
-      "stone tools"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/NeandOcherYellowCrayon-500x500-1761869050.png",
-    "pinned": false
-  },
-  {
     "id": "9f45a2297a8e50c8516f3d954612ffaf7822b2ba",
     "title": "International Criminal Court kicks Microsoft Office to the curb",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/international_criminal_court_ditches_office/",
@@ -1103,58 +1128,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f30b07a186f44c85f857ffa2d88c4c46073ae49d",
-    "title": "Proton trains new service to expose corporate infosec cover-ups",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/proton_data_breach_observatory/",
-    "summary": "<h4>Service will tell on compromised organizations, even if they didn't plan on doing so themselves</h4> <p>Some orgs would rather you not know when they've suffered a cyberattack, but a new platform from privacy-focused tech firm Proton will shine a light on the big breaches that might otherwise stay buried.…</p>",
-    "isoDate": "2025-10-30T18:44:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "91bcb7a629864114e4272cfd092677a09b6724c0",
-    "title": "Colorado launches lawyers at Trump admin over space base relocation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/lawyers_launched_over_trumps_space/",
-    "summary": "<h4>State cries foul over \"crooked elections\" claim in Alabama move</h4> <p>The State of Colorado has thrown a sueball at the Trump administration over the president's decision to relocate the headquarters of the US Space Command from Colorado Springs to Alabama.…</p>",
-    "isoDate": "2025-10-30T18:37:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2099176f86f58504fa9e0b24262adc17e592c59b",
-    "title": "Docker Compose vulnerability opens door to host-level writes – patch pronto",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/docker_compose_desktop_flaws/",
-    "summary": "<h4>Windows Desktop installer also fixed after DLL hijack flaw rated 8.8 severity</h4> <p>Docker Compose users are being strongly urged to upgrade their versions of the orchestration tool after a researcher uncovered a flaw that could allow attackers to stage path traversal attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-30T16:27:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "26a78026203dd88278eed195aea279f5c45f69a5",
-    "title": "Trump and Xi ease trade tensions, but Nvidia still can't sell Blackwell in China",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/us_to_reduce_tariffs_china/",
-    "summary": "<h4>US President did discuss chip exports with his counterpart, but made no breakthroughs</h4> <p>Talks between US President Trump and Chinese leader Xi Jinping in South Korea yielded a modest thaw, with the two agreeing to trim tariffs and pause new rare-earth export curbs. But whether Nvidia can sell its latest GPUs to China remains an open question.…</p>",
-    "isoDate": "2025-10-30T15:49:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
