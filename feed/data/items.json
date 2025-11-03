@@ -1,5 +1,58 @@
 [
   {
+    "id": "a302f0f5f3a69e1e10a14fc363028b50432cf0d9",
+    "title": "AMD says that it’s not pulling driver support for older Radeon GPUs afterall",
+    "link": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
+    "summary": "Re-using old silicon means that dropping \"old\" GPUs can affect \"new\" products.",
+    "isoDate": "2025-11-03T20:21:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "AMD",
+      "Radeon",
+      "rdna",
+      "rdna 2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-500x500-1762200475.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b8e1fe2c642bbaa0b35aa9480b53c4d9f2fb1f1d",
+    "title": "AWS, Nvidia, Crowdstrike seek security startups to enter the arena",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/cybersecurity_startup_accelerator/",
+    "summary": "<h4>Last year's winner scored a $65M funding round on a $300M valuation</h4> <p>Cloud and AI security startups have two weeks to apply for a program that fast-tracks access to investors and mentors from Amazon Web Services, CrowdStrike, and Nvidia.…</p>",
+    "isoDate": "2025-11-03T20:11:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "bc9aef8bf59f50d95cb4af26b1dd6e25fd99ff91",
+    "title": "LLMs show a “highly unreliable” capacity to describe their own internal processes",
+    "link": "https://arstechnica.com/ai/2025/11/llms-show-a-highly-unreliable-capacity-to-describe-their-own-internal-processes/",
+    "summary": "Anthropic finds some LLM \"self-awareness,\" but \"failures of introspection remain the norm.\"",
+    "isoDate": "2025-11-03T20:08:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Antrhopic",
+      "clause",
+      "introspection",
+      "LLM",
+      "self-awareness"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-514162112-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "808f68b3ab18101645ce1d27390649c9ee659323",
     "title": "Trump on why he pardoned Binance CEO: “Are you ready? I don’t know who he is.”",
     "link": "https://arstechnica.com/tech-policy/2025/11/trump-on-why-he-pardoned-binance-ceo-are-you-ready-i-dont-know-who-he-is/",
@@ -752,25 +805,6 @@
     "pinned": false
   },
   {
-    "id": "8f24577cd3e529d53c5a3115c8a1076b418f7266",
-    "title": "Elon Musk on data centers in orbit: “SpaceX will be doing this”",
-    "link": "https://arstechnica.com/space/2025/10/elon-musk-on-data-centers-in-orbit-spacex-will-be-doing-this/",
-    "summary": "\"We could see another transformation of what’s done in space.\"",
-    "isoDate": "2025-10-31T16:40:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "data centers",
-      "space",
-      "spacex",
-      "starlink"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-comparison-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "371d69f4577ad59ad7eeca1bd4c94894f12ebce0",
     "title": "Microsoft Task Manager now tasking PCs with running multiple copies of itself",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/microsoft_has_managed_to_break/",
@@ -807,24 +841,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "44ec9e820286667cc9226d0b887b3a7d3db88d65",
-    "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager",
-    "link": "https://arstechnica.com/gadgets/2025/10/windows-11-task-manager-bug-makes-the-apps-close-button-do-the-exact-opposite/",
-    "summary": "Bug affects Windows 11 24H2 and 25H2 users using the October update preview.",
-    "isoDate": "2025-10-31T16:06:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "windows 11",
-      "windows 11 24h2",
-      "windows 11 25h2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/taskmgr-500x500-1761925687.jpg",
     "pinned": false
   },
   {
@@ -1127,19 +1143,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8bb394394a43c451ceda745883be24f76163f252",
-    "title": "Google parent company spending like a drunken sailor as capex triples over 2 years",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/alphabet_capex/",
-    "summary": "<h4>Microsoft also ramping up spending, but investors concerned about overshooting demand</h4> <p>Alphabet, Google's parent company, expects capital expenditures to hit $93 billion in 2025, largely to meet demand from cloud customers, according to its recent financial report.…</p>",
-    "isoDate": "2025-10-30T19:02:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
