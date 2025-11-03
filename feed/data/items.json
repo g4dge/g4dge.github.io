@@ -1,9 +1,40 @@
 [
   {
+    "id": "5fb3b4abfe89812e427ec0ab53ceccb48ed48938",
+    "title": "ESA tests bacterial powder to feed Moon and Mars crews",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/esa_launches_study_phase_of/",
+    "summary": "<h4>Help me, HOBI-WAN, you're my only hope for lunch</h4> <p>The European Space Agency (ESA) has coined a tortured acronym for its project to feed astronauts on long-duration missions: HOBI-WAN (Hydrogen Oxidizing Bacteria In Weightlessness As a source of Nutrition).…</p>",
+    "isoDate": "2025-11-03T15:00:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f1b32d090f525fe8c4d08082a4229d7dd238ba28",
+    "title": "Disruption to science will last longer than the US government shutdown",
+    "link": "https://arstechnica.com/science/2025/11/disruption-to-science-will-last-longer-than-the-us-government-shutdown/",
+    "summary": "The consequences of the shutdown extend far beyond a lapse in funding.",
+    "isoDate": "2025-11-03T14:45:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kenneth M. Evans, The Conversation",
+    "tags": [
+      "Science",
+      "government shutdown",
+      "Science policy",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/getty-us-capitol-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "851f7282eca85b4f910dc618c33d640168e22e2f",
-    "title": "Agentic AI reshaping tech hiring policies, say CTOs and CIOs",
+    "title": "Paradox: Agentic AI dev roles are less in demand as agents take over",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/demand_for_software_skills_ai_jobs/",
-    "summary": "<h4>Oh the irony: IEEE survey of senior techies finds demand for devs skills falling in AI-related roles</h4> <p>Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>IEEE survey of senior techies in six countries finds recrutiment for data analytics, and machine learning on the up</h4> <p>Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-11-03T13:19:42Z",
     "source": "The Register",
     "category": "Tech",
@@ -797,27 +828,6 @@
     "pinned": false
   },
   {
-    "id": "4cf308dc12c783ecbcb9f972e0dfb08b014dc51b",
-    "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
-    "link": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
-    "summary": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong.",
-    "isoDate": "2025-10-31T11:30:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Features",
-      "Google",
-      "Tech",
-      "google",
-      "Google Gemini",
-      "Google Home"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4e9799403affa13d5f2cb7e0dcaa351c22689c81",
     "title": "Resilience, not sovereignty, defines OpenStack's next chapter",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/resilience_openinfra_summit/",
@@ -1148,19 +1158,6 @@
     "pinned": false
   },
   {
-    "id": "adfea811b60a187daff20a1ab0e6a974d1b4c42f",
-    "title": "Invisible npm malware pulls a disappearing act – then nicks your tokens",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/phantomraven_npm_malware/",
-    "summary": "<h4>PhantomRaven slipped over a hundred credential-stealing packages into npm</h4> <p>A new supply chain attack dubbed PhantomRaven has flooded the npm registry with malicious packages that steal credentials, tokens, and secrets during installation. The packages appear safe when first downloaded, making them particularly difficult for security apps to identify.…</p>",
-    "isoDate": "2025-10-30T14:19:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "80084ff9d63f6983dc1a92bc25966c4563370d3d",
     "title": "Tesla Autopilot and TACC Are Not Available in Early Versions FSD V14: Is Autopilot Merging With FSD? [Updated]",
     "link": "https://www.notateslaapp.com/news/3214/tesla-autopilot-and-tacc-are-not-available-in-fsd-v14-is-autopilot-merging-with-fsd",
@@ -1306,19 +1303,6 @@
     "author": "Alanna Offield",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3063a64805404a7e46ecdc6e140a65a0d61a0a65",
-    "title": "Tesla's 'Mad Max' FSD Mode Hits Snag as NHTSA Begins Investigation",
-    "link": "https://www.notateslaapp.com/news/3265/teslas-mad-max-fsd-mode-hits-regulatory-snag-as-nhtsa-begins-investigation",
-    "summary": "Tesla’s Mad Max FSD mode has human-like agility, but NHTSA’s probe into crashes and speeding threatens autonomy’s future.&hellip; <a href=\"https://www.notateslaapp.com/news/3265/teslas-mad-max-fsd-mode-hits-regulatory-snag-as-nhtsa-begins-investigation\">Read More</a>",
-    "isoDate": "2025-10-27T15:29:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-s/model-s_67.jpg/4b084b390549ec9edba3f6958b5b7a79/model-s_67.jpg",
     "pinned": false
   }
 ]
