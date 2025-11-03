@@ -1,5 +1,53 @@
 [
   {
+    "id": "899477624c5202f1a610746ee70cf611852115b9",
+    "title": "A commercial space station startup now has a foothold in space",
+    "link": "https://arstechnica.com/space/2025/11/a-commercial-space-station-startup-now-has-a-foothold-in-space/",
+    "summary": "Vast differs from its space station cohorts by flying a series of progressively more complex demos.",
+    "isoDate": "2025-11-03T22:13:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "bandwagon",
+      "Commercial space",
+      "haven-1",
+      "low earth orbit",
+      "space station",
+      "spacex",
+      "vast"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/haven_demo_array-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0e2d049bcf92fa96c5925c31cf4765ad19a73de0",
+    "title": "Ransomware negotiator, pay thyself!",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/rogue_ransomware_negotiators/",
+    "summary": "<h4>Rogues committed extortion while working for infosec firms</h4> <p>A ransomware negotiator and an incident response manager at two separate cybersecurity firms have been indicted for allegedly carrying out ransomware attacks of their own against multiple US companies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-03T22:06:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1119827ee5f00bf833fe69999597658d5243072c",
+    "title": "Google yanks Gemma after US senator says model ‘hallucinated’ her committing crimes",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/google_pulls_gemma_from_ai_studio/",
+    "summary": "<h4>Still available via API, the developer-facing AI isn't even really designed to answer general-purpose questions</h4> <p>If Google's Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented criminal accusations about a US senator and a conservative activist. However, it seems like the aggrieved parties went out of their way to get the offending output.…</p>",
+    "isoDate": "2025-11-03T21:34:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e6f7a17da6ab214f27786b9045baa4bc72d3e4f1",
     "title": "Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says",
     "link": "https://arstechnica.com/tech-policy/2025/11/real-humans-dont-stream-drake-songs-23-hours-a-day-rapper-suing-spotify-says/",
@@ -39,7 +87,7 @@
   },
   {
     "id": "b8e1fe2c642bbaa0b35aa9480b53c4d9f2fb1f1d",
-    "title": "AWS, Nvidia, Crowdstrike seek security startups to enter the arena",
+    "title": "AWS, Nvidia, CrowdStrike seek security startups to enter the arena",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/cybersecurity_startup_accelerator/",
     "summary": "<h4>Last year's winner scored a $65M funding round on a $300M valuation</h4> <p>Cloud and AI security startups have two weeks to apply for a program that fast-tracks access to investors and mentors from Amazon Web Services, CrowdStrike, and Nvidia.…</p>",
     "isoDate": "2025-11-03T20:11:54Z",
@@ -749,24 +797,6 @@
     "pinned": false
   },
   {
-    "id": "e66d9bd8b41f7ae1f739f68146ca151316f9abb2",
-    "title": "AT&T sues ad industry watchdog instead of pulling ads that slam T-Mobile",
-    "link": "https://arstechnica.com/tech-policy/2025/10/att-sues-ad-industry-watchdog-instead-of-pulling-ads-that-slam-t-mobile/",
-    "summary": "National Advertising Division said AT&#038;T ad and press release broke program rule.",
-    "isoDate": "2025-10-31T18:23:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "AT&T",
-      "national advertising division",
-      "t-mobile"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-500x500-1745953032.jpg",
-    "pinned": false
-  },
-  {
     "id": "efc7497c8e3a6d37da0e09c94de97aace94d423d",
     "title": "Tesla Starts Offering 2,000 Free Supercharging Miles for Trade-Ins",
     "link": "https://www.notateslaapp.com/news/3283/tesla-starts-offering-2000-free-supercharging-miles-for-trade-ins",
@@ -1120,32 +1150,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/model-3-desert.jpeg/44fdebecf30efbb336b2f940d1705474/model-3-desert.jpg",
-    "pinned": false
-  },
-  {
-    "id": "21254ede6a33b4f21bfdf90bb9d9fece739aa527",
-    "title": "Suspected Chinese snoops weaponize unpatched Windows flaw to spy on European diplomats",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/suspected_chinese_snoops_abuse_unpatched/",
-    "summary": "<h4>Expired security cert, real Brussels agenda, plus PlugX malware finish the job</h4> <p>Cyber spies linked to the Chinese government exploited a Windows shortcut vulnerability disclosed in March – but that Microsoft hasn't fixed yet – to target European diplomats in an effort to steal defense and national security details.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-30T19:20:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "11120460133c06f4a8643967de6496b17dee3366",
-    "title": "Microsoft 365 business customers are running out of places to hide from Copilot",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/microsoft_365_companion_apps/",
-    "summary": "<h4>People, Files, and Calendar companion apps gain an auto-installed dose of AI</h4> <p>Just when you thought Microsoft had run out of Windows apps to stuff with Copilot, it's cramming the AI into your taskbar companions - People, Files, and Calendar are next.…</p>",
-    "isoDate": "2025-10-30T19:15:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
