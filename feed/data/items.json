@@ -1,5 +1,44 @@
 [
   {
+    "id": "8f278f7784a1d4a2dd721953852dfc98ee8ba7ed",
+    "title": "Game on! Penguin levels up as Linux finally cracks 3% on Steam",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/steam_on_linux_numbers_up/",
+    "summary": "<h4>Only a point up in a year, but that’s a 50% leap for Linux gamers</h4> <p>The latest edition of Valve's monthly Steam Hardware &amp; Software Survey is out, showing a rise in Steam usage on Linux. Penguin likes to play!…</p>",
+    "isoDate": "2025-11-04T16:56:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f3e21b7910f51d5fccbcf679fc3896849ccf7fd3",
+    "title": "Tesla Will Soon Allow You to Gift FSD Subscriptions",
+    "link": "https://www.notateslaapp.com/news/3293/tesla-will-soon-allow-you-to-gift-fsd-subscriptions",
+    "summary": "Tesla will soon allow owners to gift FSD subscriptions.&hellip; <a href=\"https://www.notateslaapp.com/news/3293/tesla-will-soon-allow-you-to-gift-fsd-subscriptions\">Read More</a>",
+    "isoDate": "2025-11-04T16:55:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla-santa-xmas.jpg/a63aac67ebf945ea45a6172a49b14262/tesla-santa-xmas.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a89e0231e96f0125dcd9101c76f49278aa3d26a6",
+    "title": "Python slithers faster by adding lazy imports that load code after startup",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/python_to_embrace_lazy_imports/",
+    "summary": "<h4>PEP 810 approved following lengthy debate among developer community</h4> <p>Python programs are set to get faster startup times with PEP 810 \"Explicit lazy imports,\" which allows scripts to defer loading imported libraries until they're actually needed rather than at startup.…</p>",
+    "isoDate": "2025-11-04T16:51:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9390d74d657310a83730c549a5eb74ccd1bb92b5",
     "title": "Coders paired with bot buddies work fast, but take too many shortcuts",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/humanhuman_code_pairs_more_talkative/",
@@ -1107,32 +1146,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Matt Rosoff",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "371d69f4577ad59ad7eeca1bd4c94894f12ebce0",
-    "title": "Microsoft Task Manager now tasking PCs with running multiple copies of itself",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/microsoft_has_managed_to_break/",
-    "summary": "<h4>The once fearsome process killer is now a leaker of resources</h4> <p>Microsoft's ability to add bugs in the most unexpected of places has continued into its latest update to Windows 11, which spawns multiple copies of Task Manager, sucking down resources you'd normally use Task Manager to kill.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-31T16:40:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2d7751ad25bd8c960eedc150e99947987dca50b9",
-    "title": "Russia finally bites the cybercrooks it raised, arresting suspected Meduza infostealer devs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/russia_arrests_three_meduza_cyber_suspects/",
-    "summary": "<h4>Rare case of the state turning on its own, but researchers say it may be doing so more often</h4> <p>Russia's Interior Ministry says police have arrested three suspects it believes helped build and spread the Meduza infostealer.…</p>",
-    "isoDate": "2025-10-31T16:26:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
