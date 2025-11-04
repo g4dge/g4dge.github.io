@@ -1,5 +1,31 @@
 [
   {
+    "id": "d60f18bcaec7ec2d60e3382c462df3c4f688d622",
+    "title": "UK judge delivers a 'damp squib' in Getty AI training case, no clear precedent set",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/uk_court_getty_stability_ai/",
+    "summary": "<h4>Experts disagree about what the ruling means for AI training on copyrighted material</h4> <p>London's High Court has dismissed the major portions of Getty Images' lawsuit against generative AI firm Stability AI for training its image-generation model on copyrighted images, which some legal experts say could weaken intellectual property laws. However, others saw daylight for trademark and copyright protection in the judge's ruling.…</p>",
+    "isoDate": "2025-11-04T19:01:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8ed85e8e391380d5529e01c9180ee231c3c45813",
+    "title": "Russian spies pack custom malware into hidden VMs on Windows machines",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/russian_spies_pack_custom_malware/",
+    "summary": "<h4>Curly COMrades strike again</h4> <p>Russia's Curly COMrades is abusing Microsoft's Hyper-V hypervisor in compromised Windows machines to create a hidden Alpine Linux-based virtual machine that bypasses endpoint security tools, giving the spies long-term network access to snoop and deploy malware.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-04T18:53:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "878abbe72eecdb4cfd979a91f03fa7310993da83",
     "title": "Some stinkbugs’ legs carry a mobile fungal garden",
     "link": "https://arstechnica.com/science/2025/11/some-stinkbugs-legs-carry-a-mobile-fungal-garden/",
@@ -1126,19 +1152,6 @@
     "pinned": false
   },
   {
-    "id": "2ed54cceec4b0e5d9d834aafb0dcf128bfeded6a",
-    "title": "Ransomware gang runs ads for Microsoft Teams to pwn victims",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/rhysida_abuses_fake_teams_ads/",
-    "summary": "<h4>You click and think you're getting a download page, but get malware instead</h4> <p>Imagine searching for Microsoft Teams, seeing a text link at the top of the results, visiting it, and then getting hit with malware. The Rhysida ransomware gang, an especially insidious criminal organization that has stolen millions of people's info, has been placing fake ads for Microsoft Teams in search engines and then infecting victims who make the mistake of clicking them.…</p>",
-    "isoDate": "2025-10-31T18:51:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "efc7497c8e3a6d37da0e09c94de97aace94d423d",
     "title": "Tesla Starts Offering 2,000 Free Supercharging Miles for Trade-Ins",
     "link": "https://www.notateslaapp.com/news/3283/tesla-starts-offering-2000-free-supercharging-miles-for-trade-ins",
@@ -1149,19 +1162,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/free-supercharging.webp/776752a2b4716924c9cb5c48052ca5dd/free-supercharging.jpg",
-    "pinned": false
-  },
-  {
-    "id": "53c8a72f21efc1486bdce8a87b5af4a62fbd1122",
-    "title": "YouTube's AI moderator pulls Windows 11 workaround videos, calls them dangerous",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/",
-    "summary": "<h4>Creators baffled as videos on local accounts, unsupported PCs vanish under ‘harmful acts’ rule</h4> <p>Is installing Windows 11 with a local account or on unsupported hardware harmful or dangerous? YouTube's AI moderation system seems to think so, as it has started pulling videos that show users how to sidestep Microsoft's setup restrictions.…</p>",
-    "isoDate": "2025-10-31T17:09:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
