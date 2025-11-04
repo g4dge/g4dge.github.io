@@ -1,5 +1,53 @@
 [
   {
+    "id": "19b8cb12f69ef32ffddef824c875a537344ac48e",
+    "title": "Meet Project Suncatcher, Google’s plan to put AI data centers in space",
+    "link": "https://arstechnica.com/google/2025/11/meet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space/",
+    "summary": "Google is already zapping TPUs with radiation to get ready.",
+    "isoDate": "2025-11-04T20:59:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "Artificial Intelligence",
+      "generative ai",
+      "google",
+      "satellites",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Suncatcher_hero-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "55a1cca877bf8a2c3658e9a64186b03a5660248a",
+    "title": "Deploying to Amazon's cloud is a pain in the AWS younger devs won't tolerate",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/aws_genz_misery_nope/",
+    "summary": "<h4>They have no need to prove their bonafides</h4> <p>Recently, I was spinning up yet another terribly coded thing for fun because I believe in making my problems everyone else's problems, and realized something that had been nagging at me for a while: working with AWS is relatively painful.…</p>",
+    "isoDate": "2025-11-04T20:43:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Corey Quinn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6dc45f2259fd713bfaeede0e68ff53af2aece773",
+    "title": "IBM cutting several thousand jobs in latest layoffs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/ibm_cutting_several_thousand_jobs/",
+    "summary": "<h4>Resource Actions expected to hit half of US Infrastructure group</h4> <p>IBM this week began notifying several thousand employees that they will be laid off, according to sources familiar with the matter. …</p>",
+    "isoDate": "2025-11-04T20:30:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "d60f18bcaec7ec2d60e3382c462df3c4f688d622",
     "title": "UK judge delivers a 'damp squib' in Getty AI training case, no clear precedent set",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/uk_court_getty_stability_ai/",
@@ -1105,50 +1153,6 @@
       "zero-day vulnerability"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2c7fcfdd118c10d1aecb65673879409c9b5a0c49",
-    "title": "FCC to rescind ruling that said ISPs are required to secure their networks",
-    "link": "https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/",
-    "summary": "FCC chair to rely on ISPs' voluntary commitments instead of Biden-era ruling.",
-    "isoDate": "2025-10-31T20:44:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Security",
-      "FCC",
-      "salt typhoon"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/padlock-network-security-500x500-1761942104.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4e5877c4d8f787e8786fe94e59f2a09457a91b78",
-    "title": "AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/openai_aardvark_agentic_security/",
-    "summary": "<h4>AI promises to find bugs and gaps in your apps</h4> <p>After helping expand the modern software attack surface with the rise of AI services prone to data poisoning and prompt injection, OpenAI has thrown a bone to cyber defenders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-10-31T19:35:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "610bf775ecd4d43b98ef8589c963322c8bd9f6ed",
-    "title": "Datacenter biz and nuke startup join forces for Texas AI ranch",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/",
-    "summary": "<h4>The bit barn will run on gas power first.</h4> <p>Texas is set to get another nuclear-powered datacenter project thanks to Blue Energy and Crusoe, but any atomic action isn't likely until the next decade.…</p>",
-    "isoDate": "2025-10-31T19:19:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
