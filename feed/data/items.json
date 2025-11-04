@@ -1,7 +1,33 @@
 [
   {
+    "id": "b6df571a84c372fbc36ce93fce8de8e80ae75bcb",
+    "title": "OpenAI API moonlights as malware HQ in Microsoft’s latest discovery",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/openai_api_moonlights_as_malware/",
+    "summary": "<h4>Redmond uncovers SesameOp, a backdoor hiding its tracks by using OpenAI’s Assistants API as a command channel</h4> <p>Hackers have found a new use for OpenAI's Assistants API – not to write poems or code, but to secretly control malware.…</p>",
+    "isoDate": "2025-11-04T12:08:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2debd493d15ed6e91094185a5b28dcc2d31407d8",
+    "title": "Keeping the lights on takes up nearly all police IT spending in England and Wales",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/england_wales_it_policing_budget/",
+    "summary": "<h4>Plans for investing in AI and service transformation held up as treasury pulls plug, NAO finds</h4> <p>Police forces in England and Wales spend around 97 percent of their £2 billion ($2.6 billion) annual technology budget on maintaining legacy systems, an official report has found.…</p>",
+    "isoDate": "2025-11-04T11:30:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "dec8a9296e316862204f6524bf8707135055fcb3",
-    "title": "'What the hell, Microsoft?' Users hit with 'incorrect' ESU and LTSC Win10 out-of-support messages",
+    "title": "'What the hell, Microsoft?' Users hit with incorrect ESU and LTSC Win10 out-of-support messages",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/windows_10_out_of_support_update/",
     "summary": "<h4>Microsoft accidentally tells supported users that they aren't</h4> <p>Microsoft says a broken update left some Windows 10 users staring at an out-of-support message despite having an activated Extended Security Updates (ESU) license or a version of Windows 10 that is still officially supported.…</p>",
     "isoDate": "2025-11-04T11:13:05Z",
@@ -1081,32 +1107,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4e9799403affa13d5f2cb7e0dcaa351c22689c81",
-    "title": "Resilience, not sovereignty, defines OpenStack's next chapter",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/resilience_openinfra_summit/",
-    "summary": "<h4>Price hikes, politics, and platform fatigue drive organizations back toward open alternatives</h4> <p><strong>OpenInfra Summit</strong>  Sovereignty might be the word of the hour, but the OpenStack community has another – resilience.…</p>",
-    "isoDate": "2025-10-31T11:29:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2e266fd756bafd81062ab6734bdfee75402a62a4",
-    "title": "Linux vendors are getting into Ubuntu – and Snap",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/linux_vendors_getting_into_snap/",
-    "summary": "<h4>Ubuntu's much-maligned format may be finally reaching critical mass</h4> <p><strong>Ubuntu Summit</strong>  More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small but recurring theme is offering official Snap packages.…</p>",
-    "isoDate": "2025-10-31T10:45:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
