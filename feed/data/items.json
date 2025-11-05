@@ -1,5 +1,38 @@
 [
   {
+    "id": "96eaf93e0e2bd438635b7698746215f9edd3a212",
+    "title": "So long, Assistant—Gemini is taking over Google Maps",
+    "link": "https://arstechnica.com/google/2025/11/so-long-assistant-gemini-is-taking-over-google-maps/",
+    "summary": "Gemini is rolling out to Maps on Android and iOS, with Android Auto coming soon.",
+    "isoDate": "2025-11-05T14:00:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "google",
+      "Google Gemini",
+      "google maps"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemini-in-navigation-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ff22a74e476427214b0a1f532b8b0fa75b287924",
+    "title": "Attackers abuse Gemini AI to develop ‘Thinking Robot’ malware and data processing agent for spying purposes",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/attackers_experiment_with_gemini_ai/",
+    "summary": "<h4>Meanwhile, others tried to social-engineer the chatbot itself</h4> <p>Nation-state goons and cybercrime rings are experimenting with Gemini to develop a \"Thinking Robot\" malware module that can rewrite its own code to avoid detection, and build an AI agent that tracks enemies' behavior, according to Google Threat Intelligence Group.…</p>",
+    "isoDate": "2025-11-05T14:00:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1861c6fe8f1cf770bec96add96b1622a715ef1c0",
     "title": "Rust Foundation tries to stop maintainers corroding",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/rust_foundation_announces_maintainers_fund/",
@@ -1106,24 +1139,6 @@
     "pinned": false
   },
   {
-    "id": "f1b32d090f525fe8c4d08082a4229d7dd238ba28",
-    "title": "Disruption to science will last longer than the US government shutdown",
-    "link": "https://arstechnica.com/science/2025/11/disruption-to-science-will-last-longer-than-the-us-government-shutdown/",
-    "summary": "The consequences of the shutdown extend far beyond a lapse in funding.",
-    "isoDate": "2025-11-03T14:45:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kenneth M. Evans, The Conversation",
-    "tags": [
-      "Science",
-      "government shutdown",
-      "Science policy",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/getty-us-capitol-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "851f7282eca85b4f910dc618c33d640168e22e2f",
     "title": "Paradox: Agentic AI dev roles are less in demand as agents take over",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/demand_for_software_skills_ai_jobs/",
@@ -1132,19 +1147,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3bea32e7e1834ed7c60bbdd7469cbd25c7f8f8fc",
-    "title": "Metropolitan Police hails facial recognition tech after record year for arrests",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/metropolitan_police_hails_facial_recognition/",
-    "summary": "<h4>But question marks remain over the tech’s biases</h4> <p>London's Metropolitan Police Service (MPS) says the hundreds of live facial recognition (LFR) deployments across the Capital last year led to 962 arrests, according to a new report on the controversial tech's use.…</p>",
-    "isoDate": "2025-11-03T12:56:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
