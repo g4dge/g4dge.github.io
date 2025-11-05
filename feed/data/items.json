@@ -1,5 +1,35 @@
 [
   {
+    "id": "b7ae9d9dfda1df4105e270752506a35ac1c304dc",
+    "title": "AMD red-faced over random-number bug that kills cryptographic security",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/amd_promises_to_fix_chips/",
+    "summary": "<h4>Local privileges required to exploit flaw in Ryzen and Epyc CPUs. Some patches available, more on the way</h4> <p>AMD will issue a microcode patch for a high-severity vulnerability that could weaken cryptographic keys across Epyc and Ryzen CPUs.…</p>",
+    "isoDate": "2025-11-05T15:01:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e87917dadb0ec5b9db1dccc262c45aa20cc8aa85",
+    "title": "Why being too attractive can hurt fitness influencers",
+    "link": "https://arstechnica.com/health/2025/11/why-being-too-attractive-can-hurt-fitness-influencers/",
+    "summary": "The \"beauty backfire effect\" is especially strong in the fitness space.",
+    "isoDate": "2025-11-05T14:42:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Edelblum and Abby Frank, The Conversation",
+    "tags": [
+      "Health",
+      "influencers",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/influencer-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "96eaf93e0e2bd438635b7698746215f9edd3a212",
     "title": "So long, Assistant—Gemini is taking over Google Maps",
     "link": "https://arstechnica.com/google/2025/11/so-long-assistant-gemini-is-taking-over-google-maps/",
@@ -1068,25 +1098,6 @@
     "pinned": false
   },
   {
-    "id": "7912b060259dc4ee1ccd9a85d1d08f07972ed9ad",
-    "title": "Capitol Hill is abuzz with talk of the “Athena” plan for NASA",
-    "link": "https://arstechnica.com/space/2025/11/capitol-hill-is-abuzz-with-talk-of-the-athena-plan-for-nasa/",
-    "summary": "The Athena plan lays out a blueprint for Isaacman's tenure at NASA.",
-    "isoDate": "2025-11-03T16:53:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "duffy",
-      "isaacman",
-      "nasa administrator",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080625d-lg-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "799be2770b21814b7cdf8bb3730a379d061b09e9",
     "title": "Tesla FSD V14 Now Changes Routes Based on Your Arrival Option [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3290/tesla-fsd-v14-now-changes-routes-based-on-your-arrival-option",
@@ -1134,19 +1145,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "851f7282eca85b4f910dc618c33d640168e22e2f",
-    "title": "Paradox: Agentic AI dev roles are less in demand as agents take over",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/demand_for_software_skills_ai_jobs/",
-    "summary": "<h4>IEEE survey of senior techies in six countries finds recrutiment for data analytics, and machine learning on the up</h4> <p>Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-03T13:19:42Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1325,19 +1323,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_68.jpg/01a40c6d92fa3620932c009dfe103205/group_68.jpg",
-    "pinned": false
-  },
-  {
-    "id": "08f4255e287d1e1406e6abe7e1cff0aca2999fad",
-    "title": "Tesla Expands Robotaxi Again -- Now 12X Bigger Than Original Size",
-    "link": "https://www.notateslaapp.com/news/3277/tesla-expands-robotaxi-again-now-12x-bigger-than-original-size",
-    "summary": "Tesla expands Robotaxi Austin to 245 sq mi (637 sq km) – 12x original size! See new boundaries, rider perks, and shareholder ties in this autonomy breakthroug&hellip; <a href=\"https://www.notateslaapp.com/news/3277/tesla-expands-robotaxi-again-now-12x-bigger-than-original-size\">Read More</a>",
-    "isoDate": "2025-10-29T15:20:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-geofence-3-rd-4th-expansion.webp/97e76c219e70dd794fa3c64e50d01efa/robotaxi-geofence-3-rd-4th-expansion.jpg",
     "pinned": false
   }
 ]
