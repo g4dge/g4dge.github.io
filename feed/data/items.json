@@ -1,5 +1,44 @@
 [
   {
+    "id": "3ec9a9028321993dd1490e83636a7d6a2a276ba3",
+    "title": "Snowflake goes all out to woo PostgreSQL developers with lakehouse extensions",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/snowflake_postgresql_push/",
+    "summary": "<h4>Buyers still struggling to differentiate data platforms in era of AI</h4> <p>Cloud data platform vendor Snowflake has made its set of PostgreSQL extensions open source in a bid to help developers and data engineers integrate the popular open source database with its lakehouse system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-05T12:13:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5f6c7583a0500b51c3798f4ccd03e09a0747a1cd",
+    "title": "M&amp;S pegs cyberattack cleanup costs at £136M as profits slump",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/ms_pegs_cyberattack_cleanup_costs/",
+    "summary": "<h4>Retailer's tech systems aren’t down anymore, but the same can’t be said for its rocky financials</h4> <p>Marks &amp; Spencer says its <a href=\"https://www.theregister.com/2025/04/22/marks_spencer_cyber_incident/\" target=\"_blank\">April cyberattack</a> will cost around £136 million ($177.2 million) in total.…</p>",
+    "isoDate": "2025-11-05T11:54:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "df1bf006664124f1ed93cc9cffac2609a5b4d28c",
+    "title": "Tesla Adds Vehicle-to-Load (V2L) Capabilities to Model Y L in Software Update",
+    "link": "https://www.notateslaapp.com/news/3294/tesla-adds-vehicle-to-load-v2l-capabilities-to-model-y-l-in-software-update",
+    "summary": "Tesla has added vehicle-to-load (V2L) capabilities to the Model Y L in China thanks to a software update.&hellip; <a href=\"https://www.notateslaapp.com/news/3294/tesla-adds-vehicle-to-load-v2l-capabilities-to-model-y-l-in-software-update\">Read More</a>",
+    "isoDate": "2025-11-05T11:33:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-better-carousel-slide-1-desktop-cn.jpeg/536b77d94cbac0cec5ead41f66c5bc93/model-y-l-better-carousel-slide-1-desktop-cn.jpg",
+    "pinned": false
+  },
+  {
     "id": "b5b1f297d1d2b7a6d29e923a6818c563be0fbfdf",
     "title": "Between moon tides",
     "link": "https://aeon.co/videos/racing-rising-tides-volunteers-work-to-save-a-bird-on-the-brink?utm_source=rss-feed",
@@ -986,7 +1025,7 @@
   },
   {
     "id": "799be2770b21814b7cdf8bb3730a379d061b09e9",
-    "title": "Tesla FSD V14 Now Changes Routes Based on Your Arrival Option",
+    "title": "Tesla FSD V14 Now Changes Routes Based on Your Arrival Option [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3290/tesla-fsd-v14-now-changes-routes-based-on-your-arrival-option",
     "summary": "FSD v14.1 routes based on your parking pick: Curbside, Lot, Garage, from the start. Proactive navigation ends arrival guesswork for seamless autonomy.&hellip; <a href=\"https://www.notateslaapp.com/news/3290/tesla-fsd-v14-now-changes-routes-based-on-your-arrival-option\">Read More</a>",
     "isoDate": "2025-11-03T16:50:00Z",
@@ -1117,19 +1156,6 @@
     "pinned": false
   },
   {
-    "id": "cbb26e48062f8837abb9b600c9152a100b9de2b0",
-    "title": "Pop!_OS deejays prepare to release holiday remix along with Cosmic v 1.0",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/cosmic_1_before_xmas/",
-    "summary": "<h4>Christmas is coming, the GNOME is getting fat… please put a penny in the old red hat?</h4> <p><strong>Ubuntu Summit</strong>  System76's POP!_OS is one of the more substantially modified Ubuntu based distros out there, and so it was something of a surprise to see the company's substantial presence at the Ubuntu Summit. And its stable release along with version 1.0 of its custom desktop, COSMIC, is imminent.…</p>",
-    "isoDate": "2025-11-03T11:07:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "e755787a57cd830845c4d58492827bec52f1b6dc",
     "title": "Valuable misunderstandings",
     "link": "https://aeon.co/essays/science-needs-disagreement-what-makes-some-disagreement-useless?utm_source=rss-feed",
@@ -1138,19 +1164,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Collin Rice & Kareem Khalifa",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bd8d0d3e1112f33af135795b9e051291be7a8de2",
-    "title": "The race to shore up Europe’s power grids against cyberattacks and sabotage",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/europe_power_grid_security/",
-    "summary": "<h4>Ukraine first to demo open source security platform to isolate incidents, stop lateral movement</h4> <p><strong>Feature</strong>  It was a sunny morning in late April when a massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France, leaving tens of millions of people without electricity for hours.…</p>",
-    "isoDate": "2025-11-03T10:45:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Mary-Ann Russon",
     "tags": [],
     "image": "",
     "pinned": false
