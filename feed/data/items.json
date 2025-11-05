@@ -1,5 +1,77 @@
 [
   {
+    "id": "04097f033d2c113d8aa991457001eacbd2a490f5",
+    "title": "If you want to satiate AI’s hunger for power, Google suggests going to space",
+    "link": "https://arstechnica.com/space/2025/11/if-you-want-to-satiate-ais-hunger-for-power-google-suggests-going-to-space/",
+    "summary": "Google engineers think they already have all the pieces needed to build a data center in orbit.",
+    "isoDate": "2025-11-05T16:36:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "AI",
+      "Science",
+      "Space",
+      "artificial inteligence",
+      "Commercial space",
+      "google",
+      "machine learning",
+      "planet labs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/googletpu-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "608897d86c7d7b84bef816276ff0e49166e6e205",
+    "title": "Google settlement with Epic caps Play Store fees, boosts other Android app stores",
+    "link": "https://arstechnica.com/gadgets/2025/11/google-settlement-with-epic-caps-play-store-fees-boosts-other-android-app-stores/",
+    "summary": "Google will make several changes to Android app support globally, supported through at least 2032.",
+    "isoDate": "2025-11-05T16:26:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "apps",
+      "epic",
+      "google",
+      "Google v. Epic",
+      "play store"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "43045a017f1c15269b1103f15676f763e8193e4c",
+    "title": "Two-fifths of SAP Americas users yet to ditch legacy ERP",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/two_years_out_from_support/",
+    "summary": "<h4>S/4HANA migration? Many still worried about business process change</h4> <p>Around two fifths of North America's SAP users have yet to begin migrating to S/4HANA with just two years until mainstream support ends for legacy systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-05T15:47:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ced0bbb1bac71036ed2cc1e02777abe30c7233d2",
+    "title": "Tesla’s European and Chinese customers are staying away in droves",
+    "link": "https://arstechnica.com/cars/2025/11/after-a-great-q3-tesla-sees-double-digit-declines-all-over-europe/",
+    "summary": "Sales tank as investors get ready to decide whether to make Musk a trillionaire.",
+    "isoDate": "2025-11-05T15:40:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Tesla"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2211638677-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "b7ae9d9dfda1df4105e270752506a35ac1c304dc",
     "title": "AMD red-faced over random-number bug that kills cryptographic security",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/amd_promises_to_fix_chips/",
@@ -1008,24 +1080,6 @@
     "pinned": false
   },
   {
-    "id": "808f68b3ab18101645ce1d27390649c9ee659323",
-    "title": "Trump on why he pardoned Binance CEO: “Are you ready? I don’t know who he is.”",
-    "link": "https://arstechnica.com/tech-policy/2025/11/trump-on-why-he-pardoned-binance-ceo-are-you-ready-i-dont-know-who-he-is/",
-    "summary": "Trump family business could benefit from pardon of crypto ex-con Changpeng Zhao.",
-    "isoDate": "2025-11-03T19:15:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Binance",
-      "Changpeng Zhao",
-      "Trump"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Changpeng-Zhao-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a2dbfe6d1a36969e4e1752da78f006bfa3ed95b6",
     "title": "Tesla Update 2025.38.8.5 (FSD V14.1.5) Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.38.8.5/release-notes",
@@ -1036,26 +1090,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.38.8.5/cybertruck/fsd-supervised-v-14-1-5.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f3c48255f8af73b8964c13ea8ab9ae0cd58634a4",
-    "title": "Google removes Gemma models from AI Studio after GOP senator’s complaint",
-    "link": "https://arstechnica.com/google/2025/11/google-removes-gemma-models-from-ai-studio-after-gop-senators-complaint/",
-    "summary": "Sen. Marsha Blackburn says Gemma concocted sexual misconduct allegations against her.",
-    "isoDate": "2025-11-03T18:28:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "gemma",
-      "generative ai",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-500x500.jpg",
     "pinned": false
   },
   {
@@ -1132,19 +1166,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5fb3b4abfe89812e427ec0ab53ceccb48ed48938",
-    "title": "ESA tests bacterial powder to feed Moon and Mars crews",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/esa_launches_study_phase_of/",
-    "summary": "<h4>Help me, HOBI-WAN, you're my only hope for lunch</h4> <p>The European Space Agency (ESA) has coined a tortured acronym for its project to feed astronauts on long-duration missions: HOBI-WAN (Hydrogen Oxidizing Bacteria In Weightlessness As a source of Nutrition).…</p>",
-    "isoDate": "2025-11-03T15:00:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1310,19 +1331,6 @@
     "author": "Manjeet S Pardesi & Amitav Acharya",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e94c0ebb423c95cac31738602ca351aa805b3fc4",
-    "title": "Tesla Board Chair Says Tesla Has a \"Few More Vehicles Coming Out\" [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/3275/tesla-board-chair-says-tesla-has-a-few-more-vehicles-coming-out-video",
-    "summary": "Tesla teases new vehicles following the Model 3/Y Standard Launch - is this another tease of the Tesla Roadster, or something more?&hellip; <a href=\"https://www.notateslaapp.com/news/3275/tesla-board-chair-says-tesla-has-a-few-more-vehicles-coming-out-video\">Read More</a>",
-    "isoDate": "2025-10-29T15:43:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_68.jpg/01a40c6d92fa3620932c009dfe103205/group_68.jpg",
     "pinned": false
   }
 ]
