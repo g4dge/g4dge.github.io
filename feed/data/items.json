@@ -1,5 +1,39 @@
 [
   {
+    "id": "6b34395ba6a7afbb890eaf4f5dbe9af4b5d111b0",
+    "title": "Azure stumbles in Western Europe, Microsoft blames 'thermal event'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/azure_thermal_event_west_europe/",
+    "summary": "<h4>Degraded performance and possible dependency problems across AZs</h4> <p>Microsoft has warned of a “thermal event” impacting Azure users in its West Europe region, and perhaps elsewhere.…</p>",
+    "isoDate": "2025-11-05T23:09:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b0aa13c70ab294cdecdf1d5ff6907140cb4117a3",
+    "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
+    "link": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/",
+    "summary": "You wouldn't know it from the hype, but the results fail to impress.",
+    "isoDate": "2025-11-05T23:00:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "generative ai",
+      "guardrails",
+      "malware",
+      "ransomware"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "48b376495a1914581bd0ef8dcf6d179917260b92",
     "title": "DHS offers “disturbing new excuses” to seize kids’ biometric data, expert says",
     "link": "https://arstechnica.com/tech-policy/2025/11/dhs-wants-to-use-biometrics-to-track-immigrant-kids-throughout-their-lives/",
@@ -1002,22 +1036,6 @@
     "pinned": false
   },
   {
-    "id": "5a890e8667ee68f4386bf48eb36b830441584393",
-    "title": "Dune driving with Mercedes-Benz as it tests off-road systems",
-    "link": "https://arstechnica.com/cars/2025/11/dune-driving-with-mercedes-benz-as-it-tests-off-road-systems/",
-    "summary": "The low-traction surfaces of the Dumont Dunes are a perfect test location.",
-    "isoDate": "2025-11-04T10:00:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Mercedes GLC with EQ Technology"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/25C0285_011-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4f163023dd1a521c913c58233c6a945b81b44495",
     "title": "From the archives: the ‘Synchro-Energiser’ – a pseudoscientific panacea?",
     "link": "https://www.skeptic.org.uk/2025/11/from-the-archives-the-synchro-energiser-a-pseudoscientific-panacea/",
@@ -1146,19 +1164,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1119827ee5f00bf833fe69999597658d5243072c",
-    "title": "Google yanks Gemma after US senator says model ‘hallucinated’ her committing crimes",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/google_pulls_gemma_from_ai_studio/",
-    "summary": "<h4>Still available via API, the developer-facing AI isn't even really designed to answer general-purpose questions</h4> <p>If Google's Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented criminal accusations about a US senator and a conservative activist. However, it seems like the aggrieved parties went out of their way to get the offending output.…</p>",
-    "isoDate": "2025-11-03T21:34:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
