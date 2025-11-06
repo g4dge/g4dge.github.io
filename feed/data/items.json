@@ -1,5 +1,53 @@
 [
   {
+    "id": "54d17c4ce28633270d102924bfdce1da2b98be2c",
+    "title": "Microsoft will force its 'superintelligence' to be a 'humanist' and play nice with people",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/microsoft_suleyman_humanist_superintelligence/",
+    "summary": "<h4>Redmond's new AI boss is willing to sacrifice performance for the future of our species</h4> <p>Microsoft has joined the ranks of tech giants chasing superintelligent artificial intelligence, but the company's AI chief Mustafa Suleyman’s vision is markedly different from that articulated by other industry leaders…</p>",
+    "isoDate": "2025-11-06T22:59:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "712b01c22cd79eb216d008a2ebff0510a00b53d6",
+    "title": "Gootloader malware back for the attack, serves up ransomware",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/gootloader_back_ransomware/",
+    "summary": "<h4>Move fast - miscreants compromised a domain controller in 17 hours</h4> <p>Gootloader JavaScript malware, commonly used to deliver ransomware, is back in action after a period of reduced activity.…</p>",
+    "isoDate": "2025-11-06T22:45:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8ce3e52a2cca01b71de1610ffdbbaa88b5354001",
+    "title": "Next-generation black hole imaging may help us understand gravity better",
+    "link": "https://arstechnica.com/science/2025/11/imaging-black-holes-may-help-us-rule-out-some-models-of-gravity/",
+    "summary": "But the differences are likely to be subtle, so it won't be easy.",
+    "isoDate": "2025-11-06T22:36:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "astrophysics",
+      "black hole",
+      "event horizon",
+      "Event Horizon Telescope",
+      "gravity",
+      "Physics",
+      "relativity"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/eht5-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "ee9dc9693e853744a0a2f30962c56398439a7a2d",
     "title": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine",
     "link": "https://arstechnica.com/security/2025/11/wipers-from-russias-most-cut-throat-hackers-rain-destruction-on-ukraine/",
@@ -43,7 +91,7 @@
     "id": "73a68bbbe42158033582793a83ae6e629beb877f",
     "title": "Google’s Ironwood TPUs represent a bigger threat than Nvidia would have you believe",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/googles_ironwood_tpus_ai/",
-    "summary": "<h4>Chocolate Factory's homegrown silicon boasts Blackwell-level perf at massive scale</h4> <p><strong>opinion</strong>  Look out, Jensen! With its TPUs, Google has shown time and time again that it's not the size of your accelerators that matters but how efficiently you can scale them in production.…</p>",
+    "summary": "<h4>Chocolate Factory's homegrown silicon boasts Blackwell-level perf at massive scale</h4> <p>Look out, Jensen! With its TPUs, Google has shown time and time again that it's not the size of your accelerators that matters but how efficiently you can scale them in production.…</p>",
     "isoDate": "2025-11-06T21:19:18Z",
     "source": "The Register",
     "category": "Tech",
@@ -863,22 +911,6 @@
     "pinned": false
   },
   {
-    "id": "ced0bbb1bac71036ed2cc1e02777abe30c7233d2",
-    "title": "Tesla’s European and Chinese customers are staying away in droves",
-    "link": "https://arstechnica.com/cars/2025/11/after-a-great-q3-tesla-sees-double-digit-declines-all-over-europe/",
-    "summary": "Sales tank as investors get ready to decide whether to make Musk a trillionaire.",
-    "isoDate": "2025-11-05T15:40:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Tesla"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2211638677-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b7ae9d9dfda1df4105e270752506a35ac1c304dc",
     "title": "AMD red-faced over random-number bug that kills cryptographic security",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/amd_promises_to_fix_chips/",
@@ -1150,32 +1182,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8ed85e8e391380d5529e01c9180ee231c3c45813",
-    "title": "Russian spies pack custom malware into hidden VMs on Windows machines",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/russian_spies_pack_custom_malware/",
-    "summary": "<h4>Curly COMrades strike again</h4> <p>Russia's Curly COMrades is abusing Microsoft's Hyper-V hypervisor in compromised Windows machines to create a hidden Alpine Linux-based virtual machine that bypasses endpoint security tools, giving the spies long-term network access to snoop and deploy malware.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-04T18:53:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3269e9d5d035859c5503b68e0a75b2f1dd2fd84a",
-    "title": "Consumer Financial Protection Bureau's security falls apart amid layoffs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/us_cfpb_infosec_posture_crumbles/",
-    "summary": "<h4>Security program fails to meet federal standards as government cuts drain resources</h4> <p>The infosec program run by the US' Consumer Financial Protection Bureau (CFPB) \"is not effective,\" according to a fresh audit published by the Office of the Inspector General (OIG).…</p>",
-    "isoDate": "2025-11-04T17:52:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
