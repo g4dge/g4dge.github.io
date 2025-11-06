@@ -1,5 +1,74 @@
 [
   {
+    "id": "196d63bfa7ae0ece6ebe0e60e89853d50ef5a83f",
+    "title": "Google plans secret AI military outpost on tiny island overrun by crabs",
+    "link": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/",
+    "summary": "Christmas Island facility would support naval surveillance in strategic Indo-Pacific waters.",
+    "isoDate": "2025-11-06T17:24:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "AI and work",
+      "AI infrastructure",
+      "australia",
+      "Christmas Island",
+      "cloud computing",
+      "crabs",
+      "datacenters",
+      "defense",
+      "google",
+      "machine learning",
+      "Military",
+      "red crabs",
+      "SubCom",
+      "subsea cables"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/crabs_hero-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3114411818378a9d41f4831c9925766ed5aeee26",
+    "title": "Tesla Introduces At-Home Test Drives With Tesla Ride",
+    "link": "https://www.notateslaapp.com/news/3295/tesla-introduces-at-home-test-drives-with-tesla-ride",
+    "summary": "Tesla Ride delivers a Model Y + advisor to your door for 45-minute test drive with FSD.&hellip; <a href=\"https://www.notateslaapp.com/news/3295/tesla-introduces-at-home-test-drives-with-tesla-ride\">Read More</a>",
+    "isoDate": "2025-11-06T17:17:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/newmodely_78.jpg/d969eddfe04c90658b2c10333f77d838/newmodely_78.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1cdf3c99aa8cd646014eb3d60db4112ff6be4b14",
+    "title": "FBI prevails over convicted fraudster in $345M destroyed Bitcoin dispute",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/fbi_convicted_fraudster_bitcoin_dispute/",
+    "summary": "<h4>Counterfeiter failed to conjure a credible claim, appeals court rules</h4> <p>A convicted identity thief has lost his appeal against Uncle Sam after claiming federal agents destroyed a seized hard drive containing cryptocurrency worth more than $345 million.…</p>",
+    "isoDate": "2025-11-06T17:14:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "39a83362fc67d01ff0d8dc88e4e9cb84a4a64295",
+    "title": "Agents of misfortune: The world isn't ready for autonomous software",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/agents_of_misfortune_the_world/",
+    "summary": "<h4>Amazon's spat with Perplexity shows that technology is not the only blocker for the agentic era</h4> <p><strong>Opinion</strong>  The agentic era remains a fantasy world. Software agents, the notional next frontier for generative AI services, cannot escape the gravity of their contradictions, legal ambiguities, and competitive pressures. Not everyone, especially not competing businesses, wants a bot representing the customer.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-06T16:46:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9751dd9ee6282aa4b11f5c9d8601a3ef0bb62f63",
     "title": "Lenovo puts the 'cloud' in cloud computing, proposes mid-air datacenters",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/lenovo_datacenter_vision/",
@@ -960,24 +1029,6 @@
     "pinned": false
   },
   {
-    "id": "b3981bb83546a32938482d016d232603c27ca3bc",
-    "title": "US gives local police a face-scanning app similar to one used by ICE agents",
-    "link": "https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/",
-    "summary": "Mobile Identify app on Google Play helps police perform tasks delegated by ICE.",
-    "isoDate": "2025-11-04T21:26:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "cbp",
-      "ice",
-      "immigration"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/ice-badge-500x500-1762290391.jpg",
-    "pinned": false
-  },
-  {
     "id": "55a1cca877bf8a2c3658e9a64186b03a5660248a",
     "title": "Deploying to Amazon's cloud is a pain in the AWS younger devs won't tolerate",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/aws_genz_misery_nope/",
@@ -1155,32 +1206,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fc140772ee4b8e69dcebe5364d8bbb4ed5c512e1",
-    "title": "Invasion of the message body snatchers! Teams flaw allowed crims to impersonate the boss",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/microsoft_teams_bugs_could_let/",
-    "summary": "<h4>Check Point lifts lid on a quartet of Teams vulns that made it possible to fake the boss, forge messages, and quietly rewrite history</h4> <p>Microsoft Teams, one of the world's most widely used collaboration tools, contained serious, now-patched vulnerabilities that could have let attackers impersonate executives, rewrite chat history, and fake notifications or calls – all without users suspecting a thing.…</p>",
-    "isoDate": "2025-11-04T14:01:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2ef37b8f6dee5286bff3eda2304d0be84678c674",
-    "title": "$10B + spent on liquid cooling this week – it's only Tuesday",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/eaton_and_vertiv_both_acquire/",
-    "summary": "<h4>Eaton and Vertiv splash cash as HPC infrastructure and AI factories run hot</h4> <p>Liquid cooling tech is hot. It's only Tuesday and already infrastructure specialists have forked out more than $10 billion on companies proffering tech that promises to help ease energy bills of datacenter operators.…</p>",
-    "isoDate": "2025-11-04T13:29:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
