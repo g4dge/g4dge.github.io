@@ -1,5 +1,68 @@
 [
   {
+    "id": "1ff41c41fdce68f4c2a68de54dee02dce0038a60",
+    "title": "Microsoft apologizes for not explaining cheaper no-AI M365 plans, and all it took was a government lawsuit",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/microsoft_copilot_m365_apology/",
+    "summary": "<h4>Even offers refunds if users sign up for AI they don’t want</h4> <p>Microsoft Australia has apologized to users of its M365 suite after regulators accused it of steering them towards pricey bundles that include its Copilot AI service.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-06T00:51:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d39af3918f0d31edef5f0f9de55d622864595841",
+    "title": "Musk and Trump both went to Penn—now hacked by someone sympathetic to their cause",
+    "link": "https://arstechnica.com/security/2025/11/musk-and-trump-both-went-to-penn-now-hacked-by-someone-sympathetic-to-their-cause/",
+    "summary": "Social engineering strikes again.",
+    "isoDate": "2025-11-05T23:50:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nate Anderson",
+    "tags": [
+      "Security",
+      "hacking hactivists",
+      "University of Pennsylvania"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1405238501-500x500-1762385729.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2a72e54affb9a7c2b4c44c9f4569143fc0e2878e",
+    "title": "Perplexity shows how to run monster AI models more efficiently on aging GPUs, AWS networks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/perplexity_1t_parameter_models_aws_efa/",
+    "summary": "<h4>Some clever networking hacks open the door</h4> <p>AI search provider Perplexity's research wing has developed a new set of software optimizations that allows for trillion parameter or large models to run efficiently across older, cheaper hardware using a variety of existing network technologies, including Amazon's proprietary Elastic Fabric Adapter.…</p>",
+    "isoDate": "2025-11-05T23:47:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1a466de8300226e32d0608e4210bf287aaa3650d",
+    "title": "83-year-old man married 50 years nearly stumps doctors with surprise STI",
+    "link": "https://arstechnica.com/health/2025/11/rare-form-of-syphilis-in-married-elderly-man-nearly-stumps-doctors/",
+    "summary": "Man said he was in a monogamous 50-year marriage, but doctors aren't so sure now.",
+    "isoDate": "2025-11-05T23:29:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "bacterial",
+      "case report",
+      "infection",
+      "new england journal",
+      "syphilis"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2157231571-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "6b34395ba6a7afbb890eaf4f5dbe9af4b5d111b0",
     "title": "Azure stumbles in Western Europe, Microsoft blames 'thermal event'",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/azure_thermal_event_west_europe/",
@@ -720,28 +783,6 @@
     "pinned": false
   },
   {
-    "id": "19b8cb12f69ef32ffddef824c875a537344ac48e",
-    "title": "Meet Project Suncatcher, Google’s plan to put AI data centers in space",
-    "link": "https://arstechnica.com/google/2025/11/meet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space/",
-    "summary": "Google is already zapping TPUs with radiation to get ready.",
-    "isoDate": "2025-11-04T20:59:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "Artificial Intelligence",
-      "generative ai",
-      "google",
-      "satellites",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Suncatcher_hero-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "55a1cca877bf8a2c3658e9a64186b03a5660248a",
     "title": "Deploying to Amazon's cloud is a pain in the AWS younger devs won't tolerate",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/aws_genz_misery_nope/",
@@ -791,27 +832,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "878abbe72eecdb4cfd979a91f03fa7310993da83",
-    "title": "Some stinkbugs’ legs carry a mobile fungal garden",
-    "link": "https://arstechnica.com/science/2025/11/some-stinkbugs-legs-carry-a-mobile-fungal-garden/",
-    "summary": "A dedicated organ grows the fungus, which deters parasitic wasps.",
-    "isoDate": "2025-11-04T17:58:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "agriculture",
-      "Biology",
-      "bugs",
-      "entomology",
-      "fungus",
-      "insects"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1654488784-500x500.jpg",
     "pinned": false
   },
   {
@@ -1138,32 +1158,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1f03c1d5e3dd8a3ba32df83908742e1a3bea9023",
-    "title": "MIT Sloan quietly shelves AI ransomware study after researcher calls BS",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/mit_sloan_updates_ai_ransomware_paper/",
-    "summary": "<h4>Even AI has doubts about the claim that '80% of ransomware attacks are AI-driven'</h4> <p>Do 80 percent of ransomware attacks really come from AI? MIT Sloan has now withdrawn a working paper that made that eyebrow-raising claim after criticism from security researcher Kevin Beaumont.…</p>",
-    "isoDate": "2025-11-03T22:31:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0e2d049bcf92fa96c5925c31cf4765ad19a73de0",
-    "title": "Ransomware negotiator, pay thyself!",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/rogue_ransomware_negotiators/",
-    "summary": "<h4>Rogues committed extortion while working for infosec firms</h4> <p>A ransomware negotiator and an incident response manager at two separate cybersecurity firms have been indicted for allegedly carrying out ransomware attacks of their own against multiple US companies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-03T22:06:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
