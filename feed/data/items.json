@@ -1,5 +1,31 @@
 [
   {
+    "id": "cc7d222591a4b848a6fc756f31dcdce650043add",
+    "title": "Previously unknown Landfall spyware used in 0-day attacks on Samsung phones",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/",
+    "summary": "<h4>'Precision espionage campaign' began months before the flaw was fixed</h4> <p>A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.…</p>",
+    "isoDate": "2025-11-07T21:38:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5dfdc9bf1e1904742cbc479c8963cabbae679859",
+    "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
+    "summary": "<h4>Study finds many tests don't measure the right things</h4> <p>AI companies regularly tout their models' performance on benchmark tests as a sign of technological and intellectual superiority. But those results, widely used in marketing, may not be meaningful.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-07T21:26:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "dd39c1da3aeb6f5363bc5ce52cd2b8d230bed21a",
     "title": "Researchers surprised that with AI, toxicity is harder to fake than intelligence",
     "link": "https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/",
@@ -1172,32 +1198,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ff22a74e476427214b0a1f532b8b0fa75b287924",
-    "title": "Attackers abuse Gemini AI to develop ‘Thinking Robot’ malware and data processing agent for spying purposes",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/attackers_experiment_with_gemini_ai/",
-    "summary": "<h4>Meanwhile, others tried to social-engineer the chatbot itself</h4> <p>Nation-state goons and cybercrime rings are experimenting with Gemini to develop a \"Thinking Robot\" malware module that can rewrite its own code to avoid detection, and build an AI agent that tracks enemies' behavior, according to Google Threat Intelligence Group.…</p>",
-    "isoDate": "2025-11-05T14:00:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1861c6fe8f1cf770bec96add96b1622a715ef1c0",
-    "title": "Rust Foundation tries to stop maintainers corroding",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/rust_foundation_announces_maintainers_fund/",
-    "summary": "<h4>Memory safety costs money: Maintainers Fund to directly pay developers for their work</h4> <p>The Rust Foundation has launched a Maintainers Fund to support developers sustaining the language, addressing a long-standing challenge in open source software.…</p>",
-    "isoDate": "2025-11-05T13:20:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
