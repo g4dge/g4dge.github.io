@@ -1,5 +1,49 @@
 [
   {
+    "id": "79d8f80c94c34156de100503fd0c16130e84091b",
+    "title": "How to trade your $214,000 cybersecurity job for a jail cell",
+    "link": "https://arstechnica.com/security/2025/11/fbi-arrests-ransomware-clean-up-experts-for-planting-ransomware/",
+    "summary": "Ransomware doesn't pay what it used to.",
+    "isoDate": "2025-11-07T12:30:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nate Anderson",
+    "tags": [
+      "Security",
+      "blackcat",
+      "hacking",
+      "law"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2216280119-500x500-1762466260.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3486f372118bcfc427f9694eaa1faae44d42acb1",
+    "title": "Microsoft's data sovereignty: Now with extra sovereignty!",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/microsoft_announces_strengthening_of_sovereignty/",
+    "summary": "<h4>Under shadow of US CLOUD Act, Redmond releases raft of services to calm customers in the EU</h4> <p>Microsoft is again banging the data sovereignty drum in Europe, months after admitting in a French court it couldn't guarantee that data will not be transmitted to the US government when legally required to do so.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-07T12:22:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "755e15bef1902d0dd54ab176a18a7d102cb52a5e",
+    "title": "Bank of England says JLR's cyberattack contributed to UK's unexpectedly slower GDP growth",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/bank_of_england_says_jlrs/",
+    "summary": "<h4>This kind of material economic impact from online crooks thought to be a UK-first</h4> <p>The Bank of England (BoE) has cited the cyberattack on Jaguar Land Rover (JLR) as one of the reasons for the country's slower-than-expected GDP growth in its latest rates decision.…</p>",
+    "isoDate": "2025-11-07T11:44:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3a65f5c6e14989b6547a9b87b475113cc241a221",
     "title": "Mapping Bob Dylan’s mind",
     "link": "https://aeon.co/essays/can-ai-tell-us-anything-meaningful-about-bob-dylans-songs?utm_source=rss-feed",
@@ -1000,25 +1044,6 @@
     "pinned": false
   },
   {
-    "id": "32f3a19f8cefecc79695aa863f15fb9c6adfbffe",
-    "title": "How to declutter, quiet down, and take the AI out of Windows 11 25H2",
-    "link": "https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/",
-    "summary": "A new major Windows 11 release means a new guide for cleaning up the OS.",
-    "isoDate": "2025-11-05T15:42:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Features",
-      "Tech",
-      "evergreen",
-      "install",
-      "windows 11"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/windows-11-cleanup-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b7ae9d9dfda1df4105e270752506a35ac1c304dc",
     "title": "AMD red-faced over random-number bug that kills cryptographic security",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/amd_promises_to_fix_chips/",
@@ -1212,32 +1237,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "372468321a174e4d2a029fa9646e841a2f5c3794",
-    "title": "Google imagines out of this world AI - running on orbital datacenters",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/google_takes_ai_aspirations_orbital/",
-    "summary": "<h4>Chocolate Factory's latest moonshot aims to put AI supercomputing cluster in sun-sychronous orbit</h4> <p>Google on Tuesday announced a new moonshot – launching constellations of solar-powered satellites packed to the gills with its home-grown tensor processing units (TPUs) to form orbital AI datacenters.…</p>",
-    "isoDate": "2025-11-04T22:40:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "046966b5a47c716d51e938304ae789dcd6006a2a",
-    "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
-    "summary": "<h4>DHS rule would expand biometric collection to immigrants and some citizens linked to them</h4> <p>If you're filing an immigration form - or helping someone who is - the Feds may soon want to look in your eyes, swab your cheek, and scan your face. The US Department of Homeland Security wants to greatly expand biometric data collection for immigration applications, covering immigrants and even some US citizens tied to those cases.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-04T22:20:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
