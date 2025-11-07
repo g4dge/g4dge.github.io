@@ -1,5 +1,48 @@
 [
   {
+    "id": "7d01ff5265e81a3e07b165fc24294cf26be20805",
+    "title": "China warns Dutch away from Nexperia as it lets chip exports resume",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/china_allows_nexperia_chip_exports/",
+    "summary": "<h4>Netherlands court still overseeing governance at the chipmaker</h4> <p>Tensions between China and the Netherlands over the state of chipmaker Nexperia have begun to ease, but the battle for company control doesn't appear to be entirely resolved yet. …</p>",
+    "isoDate": "2025-11-07T18:29:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "90b929bd76534011512a254a940864b49bc4fa61",
+    "title": "FBI subpoena tries to unmask mysterious founder of Archive.today",
+    "link": "https://arstechnica.com/tech-policy/2025/11/fbi-subpoena-tries-to-unmask-mysterious-founder-of-archive-today/",
+    "summary": "Tucows subpoenaed in criminal probe for info on “customer behind archive.today.\"",
+    "isoDate": "2025-11-07T18:28:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "archive.is",
+      "archive.today"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hidden-face-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0c42b60847ae96e1747842debc98378867c57226",
+    "title": "Google's Gemini Deep Research can now read your Gmail and rummage through Google Drive",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/gemini_deep_research_can_now/",
+    "summary": "<h4>Even with more info, web giant says agent can't be trusted to keep you healthy, wealthy, and wise</h4> <p>Google's Gemini Deep Research tool can now reach deep into Gmail, Drive, and Chat to obtain data that might be useful for answering research questions.…</p>",
+    "isoDate": "2025-11-07T17:27:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e29dbf8ba4cdf67b21a51367bb0663dddf0ce17e",
     "title": "Oddest ChatGPT leaks yet: Cringey chat logs found in Google analytics tool",
     "link": "https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/",
@@ -10,6 +53,7 @@
     "author": "Ashley Belanger",
     "tags": [
       "AI",
+      "Google",
       "Policy",
       "chatbot",
       "chatbot leaks",
@@ -141,7 +185,7 @@
   },
   {
     "id": "04a4d39b78d3f74f4e955f9e9a928fdfcacf90e8",
-    "title": "'Windows sucks,' former Microsoft Engineer says, explains how to fix it",
+    "title": "'Windows sucks,' former Microsoft engineer says, explains how to fix it",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/does_windows_really_suck_that/",
     "summary": "<h4>Respecting users choices and offering a hardcore mode among key suggestions.</h4> <p>Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset some of its fluffier edges.…</p>",
     "isoDate": "2025-11-07T14:09:53Z",
@@ -946,26 +990,6 @@
     "pinned": false
   },
   {
-    "id": "1a466de8300226e32d0608e4210bf287aaa3650d",
-    "title": "83-year-old man married 50 years nearly stumps doctors with surprise STI",
-    "link": "https://arstechnica.com/health/2025/11/rare-form-of-syphilis-in-married-elderly-man-nearly-stumps-doctors/",
-    "summary": "Man said he was in a monogamous 50-year marriage, but doctors aren't so sure now.",
-    "isoDate": "2025-11-05T23:29:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "bacterial",
-      "case report",
-      "infection",
-      "new england journal",
-      "syphilis"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2157231571-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6b34395ba6a7afbb890eaf4f5dbe9af4b5d111b0",
     "title": "Azure stumbles in Western Europe, Microsoft blames 'thermal event'",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/azure_thermal_event_west_europe/",
@@ -976,27 +1000,6 @@
     "author": "Simon Sharwood",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b0aa13c70ab294cdecdf1d5ff6907140cb4117a3",
-    "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
-    "link": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/",
-    "summary": "You wouldn't know it from the hype, but the results fail to impress.",
-    "isoDate": "2025-11-05T23:00:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "generative ai",
-      "guardrails",
-      "malware",
-      "ransomware"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-500x500.jpg",
     "pinned": false
   },
   {
@@ -1195,32 +1198,6 @@
     "pinned": false
   },
   {
-    "id": "ea0265997bdc29bd07f8d6cf67823f4d3218b80d",
-    "title": "Power crunch threatens to derail AI datacenter construction",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/supply_chain_woes_and_power/",
-    "summary": "<h4>Supply chains also unprepared for liquid cooling demands</h4> <p>A survey of datacenter professionals reveals that supply chain constraints and power availability are hampering the industry's efforts to scale datacenter capacity.…</p>",
-    "isoDate": "2025-11-05T10:43:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9c290b4cf93761ac1b2f4b3e422af37aef79f5cc",
-    "title": "Famed software engineer DJB tries Fil-C… and likes what he sees",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/djb_tries_filc_and_approves/",
-    "summary": "<h4>A ‘three-letter person’ experiments with the new type-safe C, and is impressed</h4> <p>Famed mathematician, cryptographer and coder Daniel J. Bernstein has tried out the new type-safe C/C++ compiler, and he's given it a favorable report.…</p>",
-    "isoDate": "2025-11-05T10:01:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "8f4c7d78b56d01376fea90ddbe5b1b59a67c3704",
     "title": "Phantom Time Hypothesis – the supposedly ‘missing’ fortnight in 1752",
     "link": "https://www.skeptic.org.uk/2025/11/phantom-time-hypothesis-the-supposedly-missing-fortnight-in-1752/",
@@ -1408,19 +1385,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/supercharger-accessible-handle.webp/ad64006425301ca3abd98435936c75c2/supercharger-accessible-handle.jpg",
-    "pinned": false
-  },
-  {
-    "id": "efc7497c8e3a6d37da0e09c94de97aace94d423d",
-    "title": "Tesla Starts Offering 2,000 Free Supercharging Miles for Trade-Ins",
-    "link": "https://www.notateslaapp.com/news/3283/tesla-starts-offering-2000-free-supercharging-miles-for-trade-ins",
-    "summary": "Tesla starts offering 2,000 free Supercharging miles for owners who trade in their gas vehicle.&hellip; <a href=\"https://www.notateslaapp.com/news/3283/tesla-starts-offering-2000-free-supercharging-miles-for-trade-ins\">Read More</a>",
-    "isoDate": "2025-10-31T17:42:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/free-supercharging.webp/776752a2b4716924c9cb5c48052ca5dd/free-supercharging.jpg",
     "pinned": false
   }
 ]
