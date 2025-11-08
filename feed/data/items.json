@@ -1,5 +1,50 @@
 [
   {
+    "id": "8729ed89029c35f079f2711f88cd3f3bc4b6c110",
+    "title": "Meta can't afford its $600B love letter to Trump",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/08/meta_cant_afford_its_600b/",
+    "summary": "<h4>The Zuck better hope his finance bros have deep pockets and a whole lotta patience to pull this off</h4> <p>Meta on Friday floated plans to invest $600 billion in US infrastructure and jobs by 2028 as part of a massive datacenter expansion.…</p>",
+    "isoDate": "2025-11-08T00:26:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "eda8f8fedc5a527e089e53e4cf8a16ed46012885",
+    "title": "ChatGPT, Claude, and Grok make very squishy jury members",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/08/chatgpt_claude_and_grok_vote/",
+    "summary": "<h4>All three acquitted a teen in a mock trial based on a case where a judge ruled guilty</h4> <p>Law students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice.…</p>",
+    "isoDate": "2025-11-08T00:06:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0256700c39735f953a2bbcd2008ddcbd33b446c5",
+    "title": "James Watson, who helped unravel DNA’s double-helix, has died",
+    "link": "https://arstechnica.com/health/2025/11/james-watson-who-helped-unravel-dnas-double-helix-has-died/",
+    "summary": "His work was celebrated, but he was ostracized for racist, sexist comments.",
+    "isoDate": "2025-11-07T23:30:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "Science",
+      "DNA",
+      "Double Helix",
+      "James Watson"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1094223390-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "cc7d222591a4b848a6fc756f31dcdce650043add",
     "title": "Previously unknown Landfall spyware used in 0-day attacks on Samsung phones",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/",
@@ -769,24 +814,6 @@
     "pinned": false
   },
   {
-    "id": "aee6e380ee8af29616208f494e082c41f8e3c46f",
-    "title": "“It’s only a matter of time before people die”: Trump cuts hit food inspections",
-    "link": "https://arstechnica.com/health/2025/11/its-only-a-matter-of-time-before-people-die-trump-cuts-hit-food-inspections/",
-    "summary": "American inspections of foreign food facilities hit historic lows this year.",
-    "isoDate": "2025-11-06T17:59:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Annie Waldman and Brandon Roberts, ProPublica",
-    "tags": [
-      "Health",
-      "fda",
-      "food inspections",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/shrimp-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3ec1a907354f97891b1848d1a202138bd9b7f45d",
     "title": "Union brands Rockstar’s leak claim “a distraction” as protests hit Take-Two London",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/union_brands_rockstars_leak_claim/",
@@ -1172,32 +1199,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "43045a017f1c15269b1103f15676f763e8193e4c",
-    "title": "Two-fifths of SAP Americas users yet to ditch legacy ERP",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/two_years_out_from_support/",
-    "summary": "<h4>S/4HANA migration? Many still worried about business process change</h4> <p>Around two fifths of North America's SAP users have yet to begin migrating to S/4HANA with just two years until mainstream support ends for legacy systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-05T15:47:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b7ae9d9dfda1df4105e270752506a35ac1c304dc",
-    "title": "AMD red-faced over random-number bug that kills cryptographic security",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/amd_promises_to_fix_chips/",
-    "summary": "<h4>Local privileges required to exploit flaw in Ryzen and Epyc CPUs. Some patches available, more on the way</h4> <p>AMD will issue a microcode patch for a high-severity vulnerability that could weaken cryptographic keys across Epyc and Ryzen CPUs.…</p>",
-    "isoDate": "2025-11-05T15:01:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
