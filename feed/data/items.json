@@ -1,5 +1,31 @@
 [
   {
+    "id": "b4df55571ecb46bf1db783cab839972596ef2006",
+    "title": "Ironclad OS project popping out Unix-like kernel in a unique mix of languages",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/ironclad_os_unix_like_kernel/",
+    "summary": "<h4>There's more to safer systems languages than Rust</h4> <p>If you're looking for a Unix-like, POSIX-compatible, real-time kernel, there's no shortage of projects trying to build one. Ironclad stands out for using the Ada programming language and its formally verifiable SPARK subset.…</p>",
+    "isoDate": "2025-11-10T17:15:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7b6f20d463cbb0bf7317da97f5a3e9cf12a47742",
+    "title": "Another chance for JPEG XL? PDF will support format as 'preferred solution'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/another_chance_for_jpeg_xl/",
+    "summary": "<h4>Format declared obsolete by Google Chrome team wins PDF support</h4> <p>The PDF Association will add support for the JPEG XL (JXL) image format to the PDF spec, according to a recently published presentation from the org's European conference. This inclusion means that JXL may yet gain mainstream adoption, despite being declared obsolete by the Chromium team.…</p>",
+    "isoDate": "2025-11-10T16:49:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3cf6929f7540c871495c30f5383aab91040f8ae2",
     "title": "The Running Man’s final trailer amps up the high-octane action",
     "link": "https://arstechnica.com/culture/2025/11/the-running-mans-final-trailer-amps-up-the-high-octane-action/",
@@ -1212,19 +1238,6 @@
     "pinned": false
   },
   {
-    "id": "edf35c9b1d2679d08932e6c67014c42f07efdc79",
-    "title": "Microsoft Configuration Manager to switch to an annual release cadence",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/microsoft_configuration_manager_to_switch/",
-    "summary": "<h4>Intune is where the party's at, even if admins might prefer the Configuration Manager kitchen</h4> <p>Microsoft has officially confirmed that Configuration Manager will transition to an annual release cadence, with Intune as the primary focus for innovation.…</p>",
-    "isoDate": "2025-11-06T13:00:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "54fcd58be557d624e82e7e670c11734e2f1fcc31",
     "title": "Tesla to Produce Two AI5 Chips — Production to Start in Late 2026",
     "link": "https://www.notateslaapp.com/news/3296/tesla-to-produce-two-ai5-chips-production-to-start-in-late-2026",
@@ -1423,19 +1436,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.38.8.5/cybertruck/fsd-supervised-v-14-1-5.jpg",
-    "pinned": false
-  },
-  {
-    "id": "799be2770b21814b7cdf8bb3730a379d061b09e9",
-    "title": "Tesla FSD V14 Now Changes Routes Based on Your Arrival Option [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/3290/tesla-fsd-v14-now-changes-routes-based-on-your-arrival-option",
-    "summary": "FSD v14.1 routes based on your parking pick: Curbside, Lot, Garage, from the start. Proactive navigation ends arrival guesswork for seamless autonomy.&hellip; <a href=\"https://www.notateslaapp.com/news/3290/tesla-fsd-v14-now-changes-routes-based-on-your-arrival-option\">Read More</a>",
-    "isoDate": "2025-11-03T16:50:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2022/fsd-beta-vis-2.jpg/bf090853429d6af690eb360186c0305a.jpg",
     "pinned": false
   }
 ]
