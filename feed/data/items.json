@@ -1,5 +1,55 @@
 [
   {
+    "id": "2fd16bf6d48ca035efbd2dfcd5bbb0fb52772c67",
+    "title": "North Korean spies turn Google's Find Hub into remote-wipe weapon",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/north_korean_spies_turn_googles/",
+    "summary": "<h4>KONNI espionage crew covertly abused Google’s Find My Device feature to remotely factory-reset Android phones</h4> <p>North Korean state-backed spies have found a new way to torch evidence of their own cyber-spying – by hijacking Google's \"Find Hub\" service to remotely wipe Android phones belonging to their South Korean targets.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-11T16:26:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7335697990071c8247d4dca8ecf560095d899198",
+    "title": "Rocket Lab's Neutron slips to 2026: 'Our aim is to make it to orbit on the first try'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/rocket_labs_neutron_slips_2026/",
+    "summary": "<h4>Hungry Hippo won't move to the launchpad until next year</h4> <p>Aerospace manufacturer and launch service provider Rocket Lab has confirmed what many have long suspected: its \"Hungry Hippo\" Neutron rocket won't be hitting the launchpad until 2026 at the earliest.…</p>",
+    "isoDate": "2025-11-11T16:00:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "96a02c751e2ac79423f583835d52aa08991ca58e",
+    "title": "You won’t believe the excuses lawyers have after getting busted for using AI",
+    "link": "https://arstechnica.com/tech-policy/2025/11/lawyers-keep-giving-weak-sauce-excuses-for-fake-ai-citations-in-court-docs/",
+    "summary": "I got hacked; I lost my login; it was a rough draft; toggling windows is hard.",
+    "isoDate": "2025-11-11T15:54:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Features",
+      "Policy",
+      "AI Citations",
+      "ai hallucinations",
+      "ai lawyer",
+      "Artificial Intelligence",
+      "chatbot",
+      "ChatGPT",
+      "Microsoft Copilot"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/ai-shrugging-lawyer-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "968192d42469715fd9591f6ce0ce84dc1d4d27c7",
     "title": "Pirelli’s Cyber Tire might become highway agencies’ newest assistant",
     "link": "https://arstechnica.com/cars/2025/11/tires-that-talk-to-your-town-about-the-state-of-roads-are-on-the-way/",
@@ -243,7 +293,7 @@
     "id": "5fd6abf6ab9dfae44544a56c2f162599dec8e1d7",
     "title": "LLM side-channel attack could allow snoops to guess what you're talking about",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/",
-    "summary": "<h4>Encryption protects content, not context</h4> <p>Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told <em>The Register</em> that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven't been fixed, putting both personal users and enterprise communications at risk.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Encryption protects content, not context</h4> <p><strong>Updated</strong>  Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told <em>The Register</em> that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven't been fixed, putting both personal users and enterprise communications at risk.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-11-11T00:09:48Z",
     "source": "The Register",
     "category": "Tech",
@@ -1108,23 +1158,6 @@
     "pinned": false
   },
   {
-    "id": "90b929bd76534011512a254a940864b49bc4fa61",
-    "title": "FBI orders domain registrar to reveal who runs mysterious Archive.is site",
-    "link": "https://arstechnica.com/tech-policy/2025/11/fbi-subpoena-tries-to-unmask-mysterious-founder-of-archive-today/",
-    "summary": "Tucows subpoenaed in criminal probe for info on “customer behind archive.today.\"",
-    "isoDate": "2025-11-07T18:28:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "archive.is",
-      "archive.today"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hidden-face-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0c42b60847ae96e1747842debc98378867c57226",
     "title": "Google's Gemini Deep Research can now read your Gmail and rummage through Google Drive",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/gemini_deep_research_can_now/",
@@ -1159,32 +1192,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5d7593045e70e517eb0675b848c61a4a92cfa78f",
-    "title": "Musk gets approval for bumper Tesla payout but, unlike his robot, there are strings attached",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/musk_pay_package/",
-    "summary": "<h4>Behold the one trillion dollar man</h4> <p>Tesla is awarding its CEO Elon Musk a package worth a possible $1 trillion, however, it relies in part on a dramatic increase in the value of the electric vehicle manufacturer.…</p>",
-    "isoDate": "2025-11-07T14:34:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "04a4d39b78d3f74f4e955f9e9a928fdfcacf90e8",
-    "title": "'Windows sucks,' former Microsoft engineer says, explains how to fix it",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/does_windows_really_suck_that/",
-    "summary": "<h4>Respecting users choices and offering a hardcore mode among key suggestions.</h4> <p>Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset some of its fluffier edges.…</p>",
-    "isoDate": "2025-11-07T14:09:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1428,32 +1435,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla-santa-xmas.jpg/a63aac67ebf945ea45a6172a49b14262/tesla-santa-xmas.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b829eb3037b8c75137c3dc02ed44994eb669a98a",
-    "title": "Tesla Releases FSD V14.1.5 on the Cybertruck: First Look at Features and Videos",
-    "link": "https://www.notateslaapp.com/news/3291/tesla-releases-fsd-v1415-on-the-cybertruck-adds-missing-fsd-features",
-    "summary": "FSD V14.1.5 hits Cybertruck: one-tap start, reverse, pull-in Autopark, no shoulder drift. Summon still missing—details inside.&hellip; <a href=\"https://www.notateslaapp.com/news/3291/tesla-releases-fsd-v1415-on-the-cybertruck-adds-missing-fsd-features\">Read More</a>",
-    "isoDate": "2025-11-04T16:06:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/cybertruck-fsd-v14.jpeg/c14295c60f34f297ce2e7c59855bd30e/cybertruck-fsd-v14.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8ff7d3fa6c638dc52f80a0793d28b53e2acb6329",
-    "title": "Tesla Superchargers UI Will Soon Include Street and Town Details",
-    "link": "https://www.notateslaapp.com/news/3292/tesla-will-update-supercharger-listings-to-include-street-and-town-details",
-    "summary": "Tesla Superchargers will add street and city name locations to the Supercharger list.&hellip; <a href=\"https://www.notateslaapp.com/news/3292/tesla-will-update-supercharger-listings-to-include-street-and-town-details\">Read More</a>",
-    "isoDate": "2025-11-04T15:35:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/supercharger_more_map_info.jpg/a810e2c5fcf7be6f03ec93e374f8508f/supercharger_more_map_info.jpg",
     "pinned": false
   }
 ]
