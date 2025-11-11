@@ -1,5 +1,73 @@
 [
   {
+    "id": "91d6646f6748beb7df2a78d00d02f6a0c3fe8ed0",
+    "title": "Superintelligence probably not happening, but AI will still reshape society, expert panel says",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/ai_experts_forecast/",
+    "summary": "<h4>Ask 339 people, get 339 answers</h4> <p>Experts may be skeptical about corporate AI hype to varying degrees, but they share the view that machine learning models will have a significant effect on society.…</p>",
+    "isoDate": "2025-11-11T00:59:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1041b89b1718e7eea299f6502d62a4425d5c47f2",
+    "title": "Neutron rocket’s debut slips into mid-2026 as company seeks success from the start",
+    "link": "https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/",
+    "summary": "\"Those who have failed to deliver are numerous.\"",
+    "isoDate": "2025-11-11T00:39:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "neutron",
+      "rocket lab",
+      "space",
+      "Wallops"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Neutron-Stack-Deploy-Artwork_med__ScaleHeightWzg1MF0-500x500-1762814979.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5fd6abf6ab9dfae44544a56c2f162599dec8e1d7",
+    "title": "LLM side-channel attack could allow snoops to guess what you're talking about",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/",
+    "summary": "<h4>Encryption protects content, not context</h4> <p>Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told <em>The Register</em> that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven't been fixed, putting both personal users and enterprise communications at risk.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-11T00:09:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "54331193a128c1971a15132713aa5c063cdc311b",
+    "title": "Intuitive Machines—known for its Moon landers—will become a military contractor",
+    "link": "https://arstechnica.com/space/2025/11/intuitive-machines-known-for-its-moon-landers-will-become-a-military-contractor/",
+    "summary": "\"They've been Ford Aerospace, Space Systems/Loral, Maxar, Lanteris, and now it'll be Intuitive Machines.\"",
+    "isoDate": "2025-11-10T23:34:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "artemis",
+      "Commercial space",
+      "golden dome",
+      "intuitive machines",
+      "lanteris",
+      "Maxar",
+      "military space",
+      "moon"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lanterisppe-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "069a5c2f55db537f285a5de527316f9c628d298d",
     "title": "Researchers isolate memorization from reasoning in AI neural networks",
     "link": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/",
@@ -887,25 +955,6 @@
     "pinned": false
   },
   {
-    "id": "fe7a146b7d8ebe8285aa60f0f26ff2e0ac7090b6",
-    "title": "With Skigill, the classic RPG skill tree becomes a crowded battlefield",
-    "link": "https://arstechnica.com/gaming/2025/11/with-skigill-the-classic-rpg-skill-tree-becomes-a-crowded-battlefield/",
-    "summary": "<em>Vampire Survivors</em>-esque battler sets itself apart with great weapons, unique graphics.",
-    "isoDate": "2025-11-07T16:19:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "achromi",
-      "roguelike",
-      "skill tree",
-      "survivors"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/skigill1-500x500-1762529827.jpg",
-    "pinned": false
-  },
-  {
     "id": "83f53d313aa7412b6062172730021533b6acddde",
     "title": "Cybercrims plant destructive time bomb malware in industrial .NET extensions",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/cybercriminals_plant_destructive_time_bomb/",
@@ -916,22 +965,6 @@
     "author": "Connor Jones",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "cd38d7e5de57556c3a7a589238688184a9821678",
-    "title": "Ford says “no exact date” to restart F-150 Lightning production",
-    "link": "https://arstechnica.com/cars/2025/11/ford-says-no-exact-date-to-restart-f-150-lightning-production/",
-    "summary": "The automaker says it has plenty of electric F-150 pickups in inventory, though.",
-    "isoDate": "2025-11-07T15:23:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Ford F-150 Lightning"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1243051479-500x500.jpg",
     "pinned": false
   },
   {
@@ -1183,32 +1216,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/2025-shareholders-meeting.webp/a302c2d50ed32e91a40127521e817591/2025-shareholders-meeting.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2d8587b3d761795ed3510658d03f76008d998717",
-    "title": "Cisco warns of 'new attack variant' battering firewalls under exploit for 6 months",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/cisco_firewall_ongoing_attacks/",
-    "summary": "<h4>Plus 2 new critical vulns - patch now</h4> <p>Cisco warned customers about another wave of attacks against its firewalls, which have been battered by intruders for at least six months. It also patched two critical bugs in its Unified Contact Center Express (UCCX) software that aren't under active exploitation - yet.…</p>",
-    "isoDate": "2025-11-06T18:51:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ebdfe34b5e698b5f558dba86b6b0e50f48bfd837",
-    "title": "Senate bill would require companies to report AI layoffs as job cuts reach 20-year high in October",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/ai_job_cuts_senate_bill/",
-    "summary": "<h4>Government agencies would also have to report losses due to automation.</h4> <p><strong>ai-pocalypse</strong>  A bipartisan pair of US Senators has introduced a bill that would require companies and government agencies to report AI-related layoffs, and it couldn't come at a better time. October jobs data suggests AI is driving the largest wave of layoffs headed into the end of the year that we've seen since 2003. …</p>",
-    "isoDate": "2025-11-06T18:23:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
