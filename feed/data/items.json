@@ -1,7 +1,67 @@
 [
   {
+    "id": "9a2c3863122f141906fa0e3b9ed1f2e5b39c0bf5",
+    "title": "Audi goes full minimalism for its first-ever Formula 1 livery",
+    "link": "https://arstechnica.com/cars/2025/11/audi-goes-full-minimalism-for-its-first-ever-formula-1-livery/",
+    "summary": "Audi says it wants to be an F1 title contender by 2030.",
+    "isoDate": "2025-11-12T19:17:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Audi F1",
+      "Formula 1"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Audi-F1-livery-reveal-8-of-9-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "02da259b8efe779d33d95d5bccb3f5580ba9c0f3",
+    "title": "Quantum computing tech keeps edging forward",
+    "link": "https://arstechnica.com/science/2025/11/quantum-roundup-lots-of-companies-announcing-new-tech/",
+    "summary": "IBM follows through on its June promises, plus more trapped ion news.",
+    "isoDate": "2025-11-12T18:59:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "Computer science",
+      "ibm",
+      "IonQ",
+      "Physics",
+      "Quantum Art",
+      "quantum computing",
+      "quantum mechanics",
+      "trapped ion"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IBM-Quantum-Loon-Wafer_2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c7db6f50179af8db822ad181e6317d6708aefe17",
+    "title": "Super Mario Galaxy Movie trailer introduces Princess Rosalina",
+    "link": "https://arstechnica.com/culture/2025/11/nintendo-drops-official-trailer-for-super-mario-galaxy-movie/",
+    "summary": "It's a sequel to 2023's <em>Super Mario Bros. Movie</em>, which racked up $1.36 billion at the box office.",
+    "isoDate": "2025-11-12T18:37:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "entertainment",
+      "film trailers",
+      "Nintendo",
+      "Super Mario Galaxy Movie",
+      "Trailers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/galaxy6-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "78bf44b9dada1430af8e4c2655ed6ec2700cfcd8",
-    "title": "OpenAI fights order to hand over 20 million private ChatGPT conversations",
+    "title": "OpenAI slams court order that lets NYT read 20 million complete user chats",
     "link": "https://arstechnica.com/tech-policy/2025/11/openai-fights-order-to-hand-over-20-million-private-chatgpt-conversations/",
     "summary": "OpenAI: NYT wants evidence of ChatGPT users trying to get around news paywall.",
     "isoDate": "2025-11-12T18:27:27Z",
@@ -755,25 +815,6 @@
     "pinned": false
   },
   {
-    "id": "71c5126f87a33bc192ead44ccdc93834520a1984",
-    "title": "ClickFix may be the biggest security threat your family has never heard of",
-    "link": "https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/",
-    "summary": "Relatively new technique can bypass many endpoint protections.",
-    "isoDate": "2025-11-11T12:30:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "clickfix",
-      "malware",
-      "scams"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "da14ad0b4cb0a9db778e8f4f3c239cfd00dc8194",
     "title": "Hitachi-owned GlobalLogic admits data stolen on 10k current and former staff",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/hitachiowned_globallogic_admits_data_stolen/",
@@ -907,25 +948,6 @@
     "pinned": false
   },
   {
-    "id": "1041b89b1718e7eea299f6502d62a4425d5c47f2",
-    "title": "Neutron rocket’s debut slips into mid-2026 as company seeks success from the start",
-    "link": "https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/",
-    "summary": "\"Those who have failed to deliver are numerous.\"",
-    "isoDate": "2025-11-11T00:39:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "neutron",
-      "rocket lab",
-      "space",
-      "Wallops"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Neutron-Stack-Deploy-Artwork_med__ScaleHeightWzg1MF0-500x500-1762814979.jpg",
-    "pinned": false
-  },
-  {
     "id": "5fd6abf6ab9dfae44544a56c2f162599dec8e1d7",
     "title": "LLM side-channel attack could allow snoops to guess what you're talking about",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/",
@@ -936,29 +958,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "54331193a128c1971a15132713aa5c063cdc311b",
-    "title": "Intuitive Machines—known for its Moon landers—will become a military contractor",
-    "link": "https://arstechnica.com/space/2025/11/intuitive-machines-known-for-its-moon-landers-will-become-a-military-contractor/",
-    "summary": "\"They've been Ford Aerospace, Space Systems/Loral, Maxar, Lanteris, and now it'll be Intuitive Machines.\"",
-    "isoDate": "2025-11-10T23:34:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "artemis",
-      "Commercial space",
-      "golden dome",
-      "intuitive machines",
-      "lanteris",
-      "Maxar",
-      "military space",
-      "moon"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lanterisppe-500x500.jpg",
     "pinned": false
   },
   {
