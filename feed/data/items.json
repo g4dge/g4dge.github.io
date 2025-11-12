@@ -1,5 +1,100 @@
 [
   {
+    "id": "78bf44b9dada1430af8e4c2655ed6ec2700cfcd8",
+    "title": "OpenAI fights order to hand over 20 million private ChatGPT conversations",
+    "link": "https://arstechnica.com/tech-policy/2025/11/openai-fights-order-to-hand-over-20-million-private-chatgpt-conversations/",
+    "summary": "OpenAI: NYT wants evidence of ChatGPT users trying to get around news paywall.",
+    "isoDate": "2025-11-12T18:27:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "AI",
+      "Policy",
+      "ChatGPT",
+      "new york times",
+      "openai"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-app-icon-500x500-1762971100.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a229d2e47d80f7deef0309e4dfc3eca60c4fa072",
+    "title": "Valve rejoins the VR hardware wars with standalone Steam Frame",
+    "link": "https://arstechnica.com/gaming/2025/11/valve-rejoins-the-vr-hardware-wars-with-standalone-steam-frame/",
+    "summary": "SteamOS-powered headset sports semi-modular design, wireless \"low-latency\" PC streaming.",
+    "isoDate": "2025-11-12T18:00:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "headset",
+      "Steam",
+      "Valve",
+      "virtual reality",
+      "VR"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SF_headsetControllers_3Q-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8b8ff09a49e5ba0313dcc9d14170671b59a2bca8",
+    "title": "Steam Deck minus the screen: Valve announces new Steam Machine, Controller hardware",
+    "link": "https://arstechnica.com/gaming/2025/11/steam-deck-minus-the-screen-valve-announces-new-steam-machine-controller-hardware/",
+    "summary": "SteamOS-powered cube for your TV targets early 2026 launch, no pricing details.",
+    "isoDate": "2025-11-12T18:00:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "controller",
+      "Steam",
+      "steam controller",
+      "steam machine",
+      "steamos",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_3Q-500x500-1762899562.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3b3211b5bf24180ac98b2d32cd1a59063249e715",
+    "title": "Corals survived past climate changes by retreating to the deeps",
+    "link": "https://arstechnica.com/science/2025/11/corals-survived-past-climate-changes-by-retreating-to-the-deeps/",
+    "summary": "A recent die-off in Florida puts the spotlight on corals' survival strategies.",
+    "isoDate": "2025-11-12T17:35:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "Biology",
+      "climate change",
+      "corals",
+      "evolution",
+      "extinction",
+      "Florida",
+      "mass extinction"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1708146111-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d7a3e754e6acde34055134dc96331a74520d7e1f",
+    "title": "First stellar Coronal Mass Ejection detected beyond our Sun",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/scientists_spot_a_huge_explosion/",
+    "summary": "<h4>Red dwarf hurls plasma at speeds rarely seen from Sun, potentially stripping atmospheres from orbiting planets</h4> <p>Astronomers have made the first definitive observation of a Coronal Mass Ejection (CME) on a nearby star.…</p>",
+    "isoDate": "2025-11-12T17:34:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7bf28f9dd260e3da170b91a812c1dc9dabd6e96f",
     "title": "Tesla Launches Compact Powershare V2L Adapter for the Model Y L and Model Y Performance",
     "link": "https://www.notateslaapp.com/news/3319/tesla-launches-compact-powershare-v2l-adapter-for-the-model-y-l-and-model-y-performance",
@@ -867,44 +962,6 @@
     "pinned": false
   },
   {
-    "id": "069a5c2f55db537f285a5de527316f9c628d298d",
-    "title": "Researchers isolate memorization from problem-solving in AI neural networks",
-    "link": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/",
-    "summary": "Basic arithmetic ability lives in the memorization pathways, not logic circuits.",
-    "isoDate": "2025-11-10T23:06:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI alignment",
-      "AI architecture",
-      "AI behavior",
-      "AI memorization",
-      "AI research",
-      "AI safety",
-      "Allen Institute for AI",
-      "computational neuroscience",
-      "copyright",
-      "generalization",
-      "Goodfire",
-      "gradient descent",
-      "K-FAC",
-      "loss curvature",
-      "machine learning",
-      "mechanistic interpretability",
-      "model editing",
-      "neural networks",
-      "OLMo",
-      "overfitting",
-      "transformer models",
-      "weight matrices"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3d0059d520903cc561859b48d62824f5dbff1b22",
     "title": "Secret setting hints haptic feedback coming to Windows 11 UI",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/windows_11_haptic_feedback/",
@@ -915,27 +972,6 @@
     "author": "Avram Piltch",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "20672934393324f441a237c2644dd874de5c3d0e",
-    "title": "Canada fought measles and measles won; virus now endemic after 1998 elimination",
-    "link": "https://arstechnica.com/health/2025/11/canada-fought-measles-and-measles-won-virus-now-endemic-after-1998-elimination/",
-    "summary": "Canada's loss also represents a loss of regional elimination for the Americas.",
-    "isoDate": "2025-11-10T22:10:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "Canada",
-      "measles",
-      "mexico",
-      "PAHO",
-      "us",
-      "vaccination"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224876606-500x500.jpg",
     "pinned": false
   },
   {
@@ -991,26 +1027,6 @@
     "pinned": false
   },
   {
-    "id": "0e14b3babf32737f9c5de6347e999db734a2862b",
-    "title": "Apple TV execs dismiss introducing an ad tier, buying Warner Bros.",
-    "link": "https://arstechnica.com/apple/2025/11/apple-has-no-plans-to-bring-ads-to-apple-tv/",
-    "summary": "Apple execs say Apple TV shows and movies are about \"emotional\" experiences.",
-    "isoDate": "2025-11-10T18:41:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Apple",
-      "Tech",
-      "ads",
-      "apple",
-      "Apple TV",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Severance_Photo_0201-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "476fbca847962796ec75e8a5f627f760c0733573",
     "title": "Phishers try to lure 5K Facebook advertisers with fake business pages",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/5k_facebook_advertising_customers_phishing/",
@@ -1021,28 +1037,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a4effaaf3bb89e6c104687da4cdad7ba89f4ee5b",
-    "title": "New project brings strong Linux compatibility to more classic Windows games",
-    "link": "https://arstechnica.com/gaming/2025/11/new-project-brings-strong-linux-compatibility-to-more-classic-windows-games/",
-    "summary": "But author warns that Direct3D 7 \"is a land of highly cursed API inter-operability.\"",
-    "isoDate": "2025-11-10T18:09:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "compatibility layer",
-      "gaming",
-      "Linux",
-      "open source",
-      "steamos",
-      "Valve",
-      "Windows"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/arxfatalis-500x500.png",
     "pinned": false
   },
   {
@@ -1236,19 +1230,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/who_me/",
     "summary": "<h4>In the dialup age, small mistakes could cost big money</h4> <p><strong>Who, Me?</strong>  Welcome to another week in the world of work, and therefore also to another edition of Who, Me? It’s <i>The Register</i>’s Monday reader-contributed column in which you admit to the error of your ways.…</p>",
     "isoDate": "2025-11-10T06:30:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1aeef1aea48d44d6a8db5027d5be442b2a039bda",
-    "title": "Microsoft teases agents that become ‘independent users within the workforce’",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/microsoft_agentic_users_a365/",
-    "summary": "<h4>Licensing expert worries they’ll be out of control on day one</h4> <p>Microsoft has teased what it’s calling “a new class” of AI agents “that operate as independent users within the enterprise workforce.”…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-10T02:31:21Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
