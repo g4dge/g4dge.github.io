@@ -1,5 +1,61 @@
 [
   {
+    "id": "78505cf7d97acdf3126ce3c01fcd8c3cabf8a8c3",
+    "title": "OpenAI’s viability called into question by reported inference spending with Microsoft",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/openai_spending_report/",
+    "summary": "<h4>Microsoft internal financials also suggest AI flag bearer is nowhere close to $13 billion in revenues</h4> <p>OpenAI may be burning far more capital serving its GPT-family of models than previously thought. Leaked documents show the company paying more than $12 billion to Microsoft for compute power since 2024 and suggest much weaker revenue than it needs to pay for all those expenses.…</p>",
+    "isoDate": "2025-11-12T21:04:38Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7e256a1a123415ae3820350888bb1f8cfb5616fb",
+    "title": "Google apes Apple, swears cloud-based AI will keep your info private",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_touts_private_ai_compute/",
+    "summary": "<h4>We take your privacy, seriously</h4> <p>Google, perhaps not the first name you'd associate with privacy, has taken a page from Apple's playbook and now claims that its cloud AI services will safeguard sensitive personal data handled by its Gemini model family.…</p>",
+    "isoDate": "2025-11-12T20:51:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "21300bd6f2bdb1c549132feed9bfce27fa4b6163",
+    "title": "Tesla Updates Cybercab Design, Shares Production Date and Additional Cities",
+    "link": "https://www.notateslaapp.com/news/3313/tesla-updates-cybercab-design-shares-production-date-and-additional-cities",
+    "summary": "Tesla made a variety of announcements regarding the Cybercab at its 2025 shareholder meeting, including production date, design changes and expansion.&hellip; <a href=\"https://www.notateslaapp.com/news/3313/tesla-updates-cybercab-design-shares-production-date-and-additional-cities\">Read More</a>",
+    "isoDate": "2025-11-12T20:41:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-redesign.webp/b2bf31a3b6b9f7b8a5a007316c94b9f3/cybercab-redesign.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a54c0bc107d966174cf577f56cb8f42dc5020b78",
+    "title": "Microsoft releases update-fixing update for update-eligible Windows 10 PCs",
+    "link": "https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/",
+    "summary": "A bug was keeping Windows 10 PCs from enrolling in Microsoft's ESU program.",
+    "isoDate": "2025-11-12T20:38:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "windows 10",
+      "windows 10 22h2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/win10-new-500x500-1728610204.jpg",
+    "pinned": false
+  },
+  {
     "id": "f2e645604a5c65562f6df16124c32c7720368ad6",
     "title": "An explosion 92 million miles away just grounded Jeff Bezos’ New Glenn rocket",
     "link": "https://arstechnica.com/space/2025/11/an-explosion-92-million-miles-away-just-grounded-jeff-bezos-new-glenn-rocket/",
@@ -723,27 +779,6 @@
     "pinned": false
   },
   {
-    "id": "0b51072e13c014b334469ccbe853547802da3777",
-    "title": "Google announces even more AI in Photos app, powered by Nano Banana",
-    "link": "https://arstechnica.com/google/2025/11/googles-nano-banana-ai-image-editing-is-finally-coming-to-google-photos/",
-    "summary": "Google's Nano Banana is powering a raft of new features in the app.",
-    "isoDate": "2025-11-11T17:00:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "AI images",
-      "Artificial Intelligence",
-      "google",
-      "Google photos"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GP_Nov-AI-Feature_Blog-Post-Hero-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "2fd16bf6d48ca035efbd2dfcd5bbb0fb52772c67",
     "title": "North Korean spies turn Google's Find Hub into remote-wipe weapon",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/north_korean_spies_turn_googles/",
@@ -1213,32 +1248,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Rupert Goodwins",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "284ec8b4c923dcdc11ab802cb61858a5849e0f7a",
-    "title": "Cisco creating new security model using 30 years of data describing cyber-dramas and saves",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/cisco_new_17bn_parameter_model/",
-    "summary": "<h4>Doubles parameters to over 17 billion, to detect threats and recommend actions</h4> <p><strong>Exclusive</strong>  Cisco is working on a new AI model that will more than double the number of parameters used to train its current flagship Foundation-Sec-8B.…</p>",
-    "isoDate": "2025-11-10T06:56:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "85e0e746599c1532e3033a45af8b1b1e82befa8c",
-    "title": "Techie ran up $40,000 bill trying to download a driver",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/who_me/",
-    "summary": "<h4>In the dialup age, small mistakes could cost big money</h4> <p><strong>Who, Me?</strong>  Welcome to another week in the world of work, and therefore also to another edition of Who, Me? It’s <i>The Register</i>’s Monday reader-contributed column in which you admit to the error of your ways.…</p>",
-    "isoDate": "2025-11-10T06:30:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
