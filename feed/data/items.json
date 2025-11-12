@@ -1,5 +1,31 @@
 [
   {
+    "id": "8dde3c91cb07f57c896a83ae84531a9c216afbb0",
+    "title": "Broken wizard forces Microsoft to issue out-of-band Windows 10 patch",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/microsoft_esu_wizard_fix/",
+    "summary": "<h4>End of support? Not quite</h4> <p>Microsoft released an emergency out-of-band update on November 11 to fix a malfunctioning enrollment wizard that prevented eligible Windows 10 users from accessing Extended Security Updates (ESU).…</p>",
+    "isoDate": "2025-11-12T14:08:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f69bb1cd0037a319e416df8c3b1fa858a0c9327d",
+    "title": "Microsoft ships .NET 10 LTS and Visual Studio 2026, Copilot everywhere",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/net_10_c_14_visual/",
+    "summary": "<h4>Faster and easier to use but adopting the dev stack not without risks</h4> <p>Microsoft has released C# 14 and .NET 10, a long-term support version, along with a bunch of related products including Visual Studio 2026 and Aspire 13. Copilot Free is included but devs will soon hit its limits.…</p>",
+    "isoDate": "2025-11-12T13:39:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "8319a362529d72bc793dc9d6d9805688dc744179",
     "title": "Formula with “cleanest ingredients” recalled after 15 babies get botulism",
     "link": "https://arstechnica.com/health/2025/11/formula-with-cleanest-ingredients-recalled-after-15-babies-get-botulism/",
@@ -228,9 +254,9 @@
     "pinned": false
   },
   {
-    "id": "1b1d2f3f576e64e74bdfe2af11d81770c8b223b4",
-    "title": "The Mac calculator’s original design came from letting Steve Jobs play with menus for 10 minutes",
-    "link": "https://arstechnica.com/gadgets/2025/11/the-mac-calculators-original-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/",
+    "id": "0c33626bec7cc8ef4f26a14e33bb95a878588d36",
+    "title": "Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes",
+    "link": "https://arstechnica.com/gadgets/2025/11/original-mac-calculators-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/",
     "summary": "In 1982, a young Mac developer turned Jobs into a UI designer—and accidentally invented a new technique.",
     "isoDate": "2025-11-11T23:26:04Z",
     "source": "Ars Technica",
@@ -543,7 +569,7 @@
     "id": "b1c56d7d55e69b08795e4d7c9a333de246f1cfc6",
     "title": "Battery trade war hits booming datacenter industry",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/analysts_forecast_bit_barn_battery/",
-    "summary": "<h4>Tariffs can't stop cheaper, better Chinese tech, says Jefferies. Tesla is Amercia's great hope</h4> <p>Battery energy storage systems (BESS) could become standard at datacenters as AI infrastructure expand, with analysts forecasting 20 GW of capacity deployed over the next decade.…</p>",
+    "summary": "<h4>Tariffs can't stop cheaper, better Chinese tech, says Jefferies. Tesla is America's great hope</h4> <p>Battery energy storage systems (BESS) could become standard at datacenters as AI infrastructure expand, with analysts forecasting 20 GW of capacity deployed over the next decade.…</p>",
     "isoDate": "2025-11-11T11:37:49Z",
     "source": "The Register",
     "category": "Tech",
@@ -1197,32 +1223,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3668ea95d5d901e097462c2233ea5bc9d7d45f77",
-    "title": "Here's one way to cut support ticket volume… send them to another company entirely",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/09/customer_support_email_snafu/",
-    "summary": "<h4>Misdirection is the new resolution at major video game house</h4> <p>The CEO of the company behind note-taking app Obsidian says the well-known video game house of the same name has sent one of its customer queries to his own team – claiming that \"off-the-shelf AI support software\" is why the gaming firm gave a user the wrong email address.…</p>",
-    "isoDate": "2025-11-09T09:34:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "86f3cbea37f2748ec3290c78cc2d460eda3635c4",
-    "title": "Who's watching the watchers? This Mozilla fellow, and her Surveillance Watch map",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/",
-    "summary": "<h4>Esra'a Al Shafei spoke with The Reg about the spy tech 'global trade'</h4> <p><strong>interview</strong>  Digital rights activist Esra'a Al Shafei found FinFisher spyware on her device more than a decade ago. Now she's made it her mission to surveil the companies providing surveillanceware, their customers, and their funders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-08T11:08:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
