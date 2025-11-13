@@ -1,5 +1,61 @@
 [
   {
+    "id": "d3a4e3a0a878017f94a3d32bcadc4877c23c522a",
+    "title": "Google claims win for everyone as text scammers lost their cloud server",
+    "link": "https://arstechnica.com/tech-policy/2025/11/google-claims-win-for-everyone-as-text-scammers-lost-their-cloud-server/",
+    "summary": "Text scam ringleader warned operations were disrupted on Telegram, Google says.",
+    "isoDate": "2025-11-13T22:10:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Google",
+      "Policy",
+      "e-z pass scam",
+      "google",
+      "Lighthouse",
+      "phishing",
+      "text scams"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1467743069-500x500-1763069858.jpg",
+    "pinned": false
+  },
+  {
+    "id": "35b1e169976fd63254b45f71e095257bd1dadb8f",
+    "title": "Are you ready for a $1,000 Steam Machine? Some analysts think you should be.",
+    "link": "https://arstechnica.com/gaming/2025/11/are-you-ready-for-a-1000-steam-machine-some-analysts-think-you-should-be/",
+    "summary": "Tariffs, component volatility, and Valve's tolerance for losses all lead to uncertainty.",
+    "isoDate": "2025-11-13T21:57:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "Analysts",
+      "components",
+      "hardware",
+      "steam machine",
+      "steam machines",
+      "tariff",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_ledStrip-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7950ae33f8cb49b72e1c53465b92970ed25ff74d",
+    "title": "Happy holidays: AI-enabled toys teach kids how to play with fire, sharp objects",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/ai_toys_fmatches_knives_kink/",
+    "summary": "<h4>Consumer advocacy researchers at PIRG tested four AI toys, and none of them passed muster</h4> <p>Picture the scene: It's Christmas morning and your child is happily chatting with the AI-enabled teddy bear you got them when you hear it telling them about sexual kinks, where to find the knives, and how to light matches. This is not a hypothetical scenario. …</p>",
+    "isoDate": "2025-11-13T21:37:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "f4f9ada73b73f66ff187fd1dc384acc83f1b79c1",
     "title": "Tiny chips hitch a ride on immune cells to sites of inflammation",
     "link": "https://arstechnica.com/science/2025/11/tiny-chips-hitch-a-ride-on-immune-cells-to-sites-of-inflammation/",
@@ -830,45 +886,6 @@
     "pinned": false
   },
   {
-    "id": "78bf44b9dada1430af8e4c2655ed6ec2700cfcd8",
-    "title": "OpenAI slams court order that lets NYT read 20 million complete user chats",
-    "link": "https://arstechnica.com/tech-policy/2025/11/openai-fights-order-to-hand-over-20-million-private-chatgpt-conversations/",
-    "summary": "OpenAI: NYT wants evidence of ChatGPT users trying to get around news paywall.",
-    "isoDate": "2025-11-12T18:27:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "AI",
-      "Policy",
-      "ChatGPT",
-      "new york times",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-app-icon-500x500-1762971100.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a229d2e47d80f7deef0309e4dfc3eca60c4fa072",
-    "title": "Valve rejoins the VR hardware wars with standalone Steam Frame",
-    "link": "https://arstechnica.com/gaming/2025/11/valve-rejoins-the-vr-hardware-wars-with-standalone-steam-frame/",
-    "summary": "SteamOS-powered headset sports semi-modular design, wireless \"low-latency\" PC streaming.",
-    "isoDate": "2025-11-12T18:00:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "headset",
-      "Steam",
-      "Valve",
-      "virtual reality",
-      "VR"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SF_headsetControllers_3Q-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d7a3e754e6acde34055134dc96331a74520d7e1f",
     "title": "First stellar Coronal Mass Ejection detected beyond our Sun",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/scientists_spot_a_huge_explosion/",
@@ -1191,19 +1208,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "07e46b0e1de2dc1d7b85c1149b8c92917121f673",
-    "title": "OWASP Top 10: Broken access control still tops app security list",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/new_owasp_top_ten_broken/",
-    "summary": "<h4>Risk list highlights misconfigs, supply chain failures, and singles out prompt injection in AI apps</h4> <p>The Open Worldwide Application Security Project (OWASP) just published its top 10 categories of application risks for 2025, its first list since 2021. It found that while broken access control remains the top issue, security misconfiguration is a strong second, and software supply chain issues are still prominent.…</p>",
-    "isoDate": "2025-11-11T13:26:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
     "tags": [],
     "image": "",
     "pinned": false
