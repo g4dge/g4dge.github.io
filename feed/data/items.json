@@ -1,5 +1,44 @@
 [
   {
+    "id": "fa288aaccd7509bff4f437d75a52ffa20faf475b",
+    "title": "Atlassian twice shunned AWS Graviton CPUs, but now runs Jira and Confluence on them",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/atlassian_aws_graviton_migration/",
+    "summary": "<h4>Bills fell 10 percent after granular tests suggested JVM tweaks that improved performance</h4> <p>Atlassian twice marked Amazon Web Services’ Graviton CPUs off-limits for production purposes, but recently relented and now uses the processors to power thousands of server instances that run its Jira and Confluence products. So what changed?…</p>",
+    "isoDate": "2025-11-13T01:21:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1ef4220d22805a75ca05ab99ad2985480d858991",
+    "title": "Microsoft is building datacenter superclusters that span continents",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/microsoft_fairwater_dataceter_superclusters/",
+    "summary": "<h4>The 100 trillion-parameter models of the near future can't be built in one place</h4> <p>Microsoft believes the next generation of AI models will use hundreds of trillions of parameters. To train them, it's not just building bigger, more efficient datacenters – it's started connecting distant facilities using high-speed networks spanning hundreds or thousands of miles.…</p>",
+    "isoDate": "2025-11-13T01:06:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "53646c38442abfcd26c42d6bfd3f2a4c79db94ce",
+    "title": "OpenAI GPT-5.1 adds more personalities, loses inhibitions",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/openai_gpt51_adds_more_personalities/",
+    "summary": "<h4>Updated model may deliver a bit more unwanted content, but will be polite about it</h4> <p>OpenAI on Wednesday introduced GPT-5.1, an AI model update that's \"warmer,\" more conversational, and slightly more willing to blurt out unwelcome observations about sex, violence, and mental health in a way that invites emotional dependence.…</p>",
+    "isoDate": "2025-11-13T00:15:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "a66a48eb7259dba613357f9287cdb8cf92a121d9",
     "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
     "link": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
@@ -30,6 +69,19 @@
       "sycophancy"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0a7d7928077b456526b6c3a119b02303cf731c01",
+    "title": "Tesla Update 2025.38.8.7 (FSD V14.1.7) Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2025.38.8.7/release-notes",
+    "summary": "Tesla software update 2025.38.8.7 (FSD 14.1.7) includes FSD (Supervised) v14.1.7, Arrival Options, Speed Profiles, UI Improvements, Brake Confirm, Full Self-Driving (Supervised), Tron Mode, 3D Buildings, Satellite View, Dashcam Viewer Updates, Side Cameras Recording, New Scroll Wheel Functions, Grok (Beta), Onboarding Guide, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.38.8.7/release-notes\">View Release Notes</a>",
+    "isoDate": "2025-11-12T22:45:06Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.38.8.5/cybertruck/fsd-supervised-v-14-1-5.jpg",
     "pinned": false
   },
   {
@@ -1204,32 +1256,6 @@
     "pinned": false
   },
   {
-    "id": "4579cedce1f7dbf4f411191ddf69f11cfad91189",
-    "title": "SpaceX and Musk called on to rescue China's Shenzhou-20 crew",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/chinas_shenzhou_problem_shows_a/",
-    "summary": "<h4>Technical and political obstacles block collaboration following suspected space debris strike on craft</h4> <p>SpaceX and Elon Musk are once again being called upon to rescue spacefarers — this time, the Chinese crew of Shenzhou-20, delayed on China's Tiangong space station after suspected space debris damage.…</p>",
-    "isoDate": "2025-11-10T12:32:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "349092d86718eadf31e743e9e3d7fa1cb8c65eab",
-    "title": "De-duplicating the desktops: Let's come together, right now",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/deduplicating_the_desktops/",
-    "summary": "<h4>Here come old FlatPak, it comes grooving up slowly...</h4> <p><strong>opinion</strong>  The tendency of Linux developers to reinvent wheels is no secret. It's not so much the elephant in the room, as the entire jet-propelled guided ark ship full of every known and unknown member of the Proboscidea from <em>Ambelodon</em> to <em>Stegodon</em> via deinotheres, elephants, mammoths and other mastodons.…</p>",
-    "isoDate": "2025-11-10T11:08:18Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "317c0f26e42e8b9e4c1ef8e1e3f1a3be27d34023",
     "title": "Is it ethical to choose a baby’s traits?",
     "link": "https://aeon.co/videos/when-if-ever-is-selecting-a-designer-baby-ethical?utm_source=rss-feed",
@@ -1268,19 +1294,6 @@
       "Health",
       "Science"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7e168816aaabf71ed17a3305e00c33373a97ab69",
-    "title": "Allianz UK joins growing list of Clop’s Oracle E-Business Suite victims",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/allianz_uk_joins_growing_list/",
-    "summary": "<h4>Insurance giant’s UK arm says cybercriminals misattributed the real victim</h4> <p>Allianz UK confirms it was one of the many companies that fell victim to the Clop gang's Oracle E-Business Suite (EBS) attack after crims reported that they had attacked a subsidiary.…</p>",
-    "isoDate": "2025-11-10T09:48:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
     "image": "",
     "pinned": false
   },
