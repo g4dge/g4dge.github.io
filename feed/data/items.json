@@ -1,5 +1,18 @@
 [
   {
+    "id": "520d5f683bea1332d83307bbe383b27f5fa65aa3",
+    "title": "To 'Infinity' ... and beyond: MX Linux 25 has arrived",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/mx_linux_25_infinity_released/",
+    "summary": "<h4>Systemd-free option still available if you choose that download</h4> <p><a href=\"https://mxlinux.org/blog/mx-25-infinity-isos-now-available/\" rel=\"nofollow\">MX Linux 25 \"Infinity\" is now available</a>, and the new version has some significant differences from the 2023 release, with things that used to be boot-time choices now more loaded pre-install decisions.…</p>",
+    "isoDate": "2025-11-13T09:30:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "18514b259a5896eddfc6bc71db81afb28138cae3",
     "title": "Networking students need an explanation of the internet that can fit in their heads",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/networking_students_need_an_explanation/",
@@ -1225,19 +1238,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b4df55571ecb46bf1db783cab839972596ef2006",
-    "title": "Ironclad OS project popping out Unix-like kernel in a unique mix of languages",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/ironclad_os_unix_like_kernel/",
-    "summary": "<h4>There's more to safer systems languages than Rust</h4> <p>If you're looking for a Unix-like, POSIX-compatible, real-time kernel, there's no shortage of projects trying to build one. Ironclad stands out for using the Ada programming language and its formally verifiable SPARK subset.…</p>",
-    "isoDate": "2025-11-10T17:15:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
