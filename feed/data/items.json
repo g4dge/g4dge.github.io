@@ -1,5 +1,84 @@
 [
   {
+    "id": "28f3ce70b3da420d7ec9bf7313f0d20af747e83d",
+    "title": "Valve says it’s still waiting for better chips to power Steam Deck 2",
+    "link": "https://arstechnica.com/gaming/2025/11/valve-says-its-still-waiting-for-better-chips-to-power-steam-deck-2/",
+    "summary": "Even a 50 percent performance-per-watt improvement wouldn't be enough, engineer says.",
+    "isoDate": "2025-11-13T16:30:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e41970d9c9a7244a4ee81a8c26fa5ffb86bcab52",
+    "title": "Tracking the winds that have turned Mars into a planet of dust",
+    "link": "https://arstechnica.com/science/2025/11/tracking-the-winds-that-have-turned-mars-into-a-planet-of-dust/",
+    "summary": "Tracking winds across Mars' surface and their association with dust storms.",
+    "isoDate": "2025-11-13T16:11:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Elizabeth Rayne",
+    "tags": [
+      "Science",
+      "dust",
+      "dust devils",
+      "Mars dust storms",
+      "planetary science"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "9b0ccd7ab4365ad4086059dc962f196862946643",
+    "title": "Ubuntu 25.10's Rusty sudo holes quickly welded shut",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/ubuntu_rust_sudo_hole/",
+    "summary": "<h4>The goal of 'oxidizing' the Linux distro hits another bump</h4> <p>Two vulnerabilities in Ubuntu 25.10's new \"sudo-rs\" command have been found, disclosed, and fixed in short order.…</p>",
+    "isoDate": "2025-11-13T15:45:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7aa3890cb4e7aa3de9dd21c3031087ce6d56427d",
+    "title": "Tesla Announces FSD Is Coming Soon to South Korea",
+    "link": "https://www.notateslaapp.com/news/3325/tesla-announces-fsd-is-coming-soon-to-south-korea",
+    "summary": "Tesla announces that FSD Supervised is coming soon to South Korea, becoming the next location for the continued global rollout.&hellip; <a href=\"https://www.notateslaapp.com/news/3325/tesla-announces-fsd-is-coming-soon-to-south-korea\">Read More</a>",
+    "isoDate": "2025-11-13T15:31:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-s/0x0-model-s_10.jpg/d3d2d6bc1484c287faa62c6dcd059d04/0x0-model-s_10.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c53eb7d3d3fa464ad3327bc3e98179d23dc1be63",
+    "title": "Waymo to roll out driverless taxis on highways in three US cities",
+    "link": "https://arstechnica.com/cars/2025/11/waymo-to-roll-out-driverless-taxis-on-highways-in-three-us-cities/",
+    "summary": "Alphabet will add routes in LA, Phoenix, and San Francisco for its driverless cars.",
+    "isoDate": "2025-11-13T15:30:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Rafe Rosner-Uddin, Financial Times",
+    "tags": [
+      "Cars",
+      "alphabet",
+      "Driverless cars",
+      "syndication",
+      "waymo"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1608040724-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "042fe752542d56da8cd1d8af3ec4b75d27895f0d",
     "title": "Avalonia brings Linux, browser support to Microsoft's MAUI cross-platform app solution",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/dotnet_maui_linux_avalonia/",
@@ -832,28 +911,6 @@
     "pinned": false
   },
   {
-    "id": "8319a362529d72bc793dc9d6d9805688dc744179",
-    "title": "Formula with “cleanest ingredients” recalled after 15 babies get botulism",
-    "link": "https://arstechnica.com/health/2025/11/formula-with-cleanest-ingredients-recalled-after-15-babies-get-botulism/",
-    "summary": "Cases span 12 states. All affected babies have been hospitalized, but no deaths reported.",
-    "isoDate": "2025-11-12T13:22:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "botulism",
-      "ByHeart",
-      "CDC",
-      "fda",
-      "Formula",
-      "outbreak",
-      "recall"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screen-Shot-2025-11-11-at-7.10.57-PM-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "9a904fa74d260d02535473175d3a3854a88f3792",
     "title": "Brussels weighs banning China from major EU research scheme",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/europe_china_horizon/",
@@ -971,28 +1028,6 @@
     "pinned": false
   },
   {
-    "id": "eb5a2ee678c13f653b3f4a9ded89cf002f5e7dd6",
-    "title": "Google vows to stop scam E-Z Pass and USPS texts plaguing Americans",
-    "link": "https://arstechnica.com/tech-policy/2025/11/google-vows-to-stop-scam-e-z-pass-and-usps-texts-plaguing-americans/",
-    "summary": "\"Phishing for dummies\" kits make it easier to scam millions, Google alleged.",
-    "isoDate": "2025-11-12T10:00:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Google",
-      "Policy",
-      "e-z pass scam",
-      "google",
-      "phishing",
-      "smishing",
-      "SMS",
-      "text scams"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-950213928-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3304eb066b16a9521d6c1603de38e9763a45d71c",
     "title": "Exploring the limits of skepticism. Part 2: The plot thickens",
     "link": "https://www.skeptic.org.uk/2025/11/exploring-the-limits-of-skepticism-part-2-the-plot-thickens/",
@@ -1057,43 +1092,6 @@
     "author": "Simon Sharwood",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0c33626bec7cc8ef4f26a14e33bb95a878588d36",
-    "title": "Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes",
-    "link": "https://arstechnica.com/gadgets/2025/11/original-mac-calculators-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/",
-    "summary": "In 1982, a young Mac developer turned Jobs into a UI designer—and accidentally invented a new technique.",
-    "isoDate": "2025-11-11T23:26:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "Apple",
-      "Tech",
-      "1982",
-      "1984",
-      "Andy Hertzfeld",
-      "apple",
-      "calculator",
-      "Chris Espinosa",
-      "classic mac",
-      "computer history",
-      "Folklore.org",
-      "Mac OS",
-      "Macintosh",
-      "QuickDraw",
-      "retrocomputing",
-      "retrotech",
-      "software development",
-      "Steve Jobs",
-      "tales of tech",
-      "tales of tech history",
-      "tales of tech lore",
-      "user interface design",
-      "Vintage computing"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/calc_hero_1-500x500.jpg",
     "pinned": false
   },
   {
@@ -1248,19 +1246,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "David Stainforth",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ea565a64e92f66c29aebf178a78d19047e3f3128",
-    "title": "UK's Ajax fighting vehicle arrives – years late and still sending crew to hospital",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/uks_ajax_fighting_vehicle_late/",
-    "summary": "<h4>Continuous track of long awaited AFV hits the ground ... and the terrain is pretty bumpy</h4> <p>The British Army just received its first new armored fighting vehicle (AFV) for nearly three decades, but it is years late, hit by rising costs, is still reportedly injuring its crew, and there are questions about whether it remains relevant in the age of drone warfare. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-11T10:09:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1468,19 +1453,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/newmodely_78.jpg/d969eddfe04c90658b2c10333f77d838/newmodely_78.jpg",
-    "pinned": false
-  },
-  {
-    "id": "382f144ab331dba5cf10826e1bfc4d84c7608491",
-    "title": "Tesla to Introduce Extended Battery Warranty Plan in 2026",
-    "link": "https://www.notateslaapp.com/news/3299/tesla-launching-extended-battery-warranty-program-in-2026",
-    "summary": "Tesla will start to offer extended battery warranty plans in 2026.&hellip; <a href=\"https://www.notateslaapp.com/news/3299/tesla-launching-extended-battery-warranty-program-in-2026\">Read More</a>",
-    "isoDate": "2025-11-06T15:40:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_76.jpg/0ccfe5d074752d2427bfba25d53f2830/group_76.jpg",
     "pinned": false
   }
 ]
