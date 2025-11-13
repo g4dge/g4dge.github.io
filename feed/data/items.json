@@ -1,5 +1,77 @@
 [
   {
+    "id": "042fe752542d56da8cd1d8af3ec4b75d27895f0d",
+    "title": "Avalonia brings Linux, browser support to Microsoft's MAUI cross-platform app solution",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/dotnet_maui_linux_avalonia/",
+    "summary": "<h4>Third-party framework builds alternative backend using its own renderer and WebAssembly</h4> <p>Microsoft's MAUI (Multi-platform App UI), the official .NET solution for cross-platform desktop and mobile apps, will get Linux and browser support via Avalonia, a third-party framework.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-13T15:11:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "131f3a94b356209627647fa017df39138d1f16e2",
+    "title": "What would a “simplified” Starship plan for the Moon actually look like?",
+    "link": "https://arstechnica.com/space/2025/11/what-would-a-simplified-starship-plan-for-the-moon-actually-look-like/",
+    "summary": "The problem is that it may be difficult to find options that both NASA and SpaceX like.",
+    "isoDate": "2025-11-13T15:09:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "artemis",
+      "hls",
+      "space",
+      "spacex",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/07_24_25_HLS_on_surface_elevator_down_4d48994673-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "acb449a9a4791e2a2ba386235ea92facfc35909b",
+    "title": "Tesla Releases FSD V14.1.7 on Update 2025.38, Adding 3d Buildings, Tron Mode and More",
+    "link": "https://www.notateslaapp.com/news/3324/tesla-releases-fsd-v1417-on-update-202538-adding-3d-buildings-tron-mode-and-more",
+    "summary": "Tesla releases FSD v14.1.7 and it includes the latest features from update 2025.38, including Tron Mode and 3D buildings.&hellip; <a href=\"https://www.notateslaapp.com/news/3324/tesla-releases-fsd-v1417-on-update-202538-adding-3d-buildings-tron-mode-and-more\">Read More</a>",
+    "isoDate": "2025-11-13T15:05:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2022/vis-parking-lot-2.jpg/e31967654c19138a350723fab51991b3/vis-parking-lot-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d79d4dab6429e639094dda682a960b208b7c2a01",
+    "title": "ERP carnage continues as orgs jump in unprepared",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/erp_disaster_gartner/",
+    "summary": "<h4>Lack of executive backing, unrealistic plans, and muddled goals remain recipe for failure</h4> <p>In Barcelona this week, consultancy Gartner once again tried to answer one of the perennial questions in IT: what is it about ERP projects that makes them so likely to fail?…</p>",
+    "isoDate": "2025-11-13T15:01:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f185a65fcdd33b397ed813eada7f48a0f6168030",
+    "title": "Blue Origin hopes third time's the charm for New Glenn after two scrubbed launches",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/third_time_lucky_for_blue/",
+    "summary": "<h4>Bezos booster blasted by solar emissions</h4> <p>A blast from the Sun kept Blue Origin's New Glenn rocket on the pad as the Northern Lights forced NASA to halt the launch.…</p>",
+    "isoDate": "2025-11-13T14:43:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7257a75661ed5de3d39d9f9291a6ee04bc20dab5",
     "title": "Google is rolling out conversational shopping—and ads—in AI Mode search",
     "link": "https://arstechnica.com/google/2025/11/google-rolling-out-conversational-shopping-and-ads-in-ai-mode-search/",
@@ -1025,27 +1097,6 @@
     "pinned": false
   },
   {
-    "id": "fbd89c83acd24e0818d374c41c250f15d9e00e4a",
-    "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
-    "link": "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/",
-    "summary": "New system allows devices to connect directly to secure space in Google's AI servers.",
-    "isoDate": "2025-11-11T21:34:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "Artificial Intelligence",
-      "google",
-      "Google Gemini",
-      "NPU"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b1267abe7f420fcf24735af348d46bd36a3951e7",
     "title": "Tesla Shares Updated Tesla Semi Design and Production Specs",
     "link": "https://www.notateslaapp.com/news/3311/tesla-shares-updated-tesla-semi-design-and-production-specs",
@@ -1227,45 +1278,6 @@
       "Archive",
       "Religion"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "dbdb1ad33dc049b3d1174a47f303dc960a3f924d",
-    "title": "AI isn't throttling HPC. It <em>is</em> HPC",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/ai_hpc_opinion_piece/",
-    "summary": "<h4>Your real problem: 40kW racks, melting datacenters and rising power bills</h4> <p><strong>Opinion</strong>  In recent discussions with industry vendor sales/marketing types, I've been hearing that HPC demand is falling off while AI system demand is continuing to increase. I've also seen articles implying that AI is somehow displacing HPC. Huh?…</p>",
-    "isoDate": "2025-11-11T09:30:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Olds",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "006d5f4347b0415f0cf6c67c3913db030f6f689a",
-    "title": "Intel CTO and AI boss quits to join OpenAI after just six months in the job",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/intel_ai_cto_quits_joins_openai/",
-    "summary": "<h4>Sachin Katti was one of new Intel CEO Lip Bu Tan's first appointments</h4> <p>Sachin Katti, the exec Intel promoted to chief technology and AI officer in April, will leave the x86 giant to join OpenAI after just six months in the job.…</p>",
-    "isoDate": "2025-11-11T05:18:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "91d6646f6748beb7df2a78d00d02f6a0c3fe8ed0",
-    "title": "Superintelligence probably not happening, but AI will still reshape society, expert panel says",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/ai_experts_forecast/",
-    "summary": "<h4>Ask 339 people, get 339 answers</h4> <p>Experts may be skeptical about corporate AI hype to varying degrees, but they share the view that machine learning models will have a significant effect on society.…</p>",
-    "isoDate": "2025-11-11T00:59:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
     "image": "",
     "pinned": false
   },
