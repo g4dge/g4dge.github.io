@@ -1,5 +1,51 @@
 [
   {
+    "id": "7257a75661ed5de3d39d9f9291a6ee04bc20dab5",
+    "title": "Google is rolling out conversational shopping—and ads—in AI Mode search",
+    "link": "https://arstechnica.com/google/2025/11/google-rolling-out-conversational-shopping-and-ads-in-ai-mode-search/",
+    "summary": "Conversational shopping is Google's first big swing at monetizing AI Mode search.",
+    "isoDate": "2025-11-13T14:00:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "AI shopping",
+      "google",
+      "search",
+      "shopping"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/AI-Mode-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "e6e52fa44d524ada58a57369f1f24ea75ab07c66",
+    "title": "HPE details Vera Rubin blades for next-gen Cray supercomputers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/hpe_details_vera_rubin_blades/",
+    "summary": "<h4>Promised for 2027 racks, mixing Nvidia and AMD silicon in one liquid-cooled box</h4> <p>HPE's next-gen Cray supercomputing platform will offer a choice of compute nodes with Nvidia's Vera Rubin or AMD's upcoming Venice Epyc CPUs – or a mix of both.…</p>",
+    "isoDate": "2025-11-13T14:00:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c6d858a6447eb6d75239e7a2bf10f69bee8e5c53",
+    "title": "Extra, extra, read all about it: Washington Post clobbered in Clop caper",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/washington_post_clop/",
+    "summary": "<h4>Nearly 10,000 staff and contractors warned after attackers raided newspaper's Oracle EBS setup</h4> <p>The Washington Post has confirmed that nearly 10,000 employees and contractors had sensitive personal data stolen in the Clop-linked Oracle E-Business Suite (EBS) attacks.…</p>",
+    "isoDate": "2025-11-13T13:45:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "0693161dd8b617d13a7bfe35e04e72acd5128a6b",
     "title": "To solve compatibility issues, Microsoft would quietly patch other people's code",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/microsoft_windows_compatibility_chen/",
@@ -1000,25 +1046,6 @@
     "pinned": false
   },
   {
-    "id": "ceca5010e5659b4cc7f3f210c85906c0a894179c",
-    "title": "Ryanair tries forcing app downloads by eliminating paper boarding passes",
-    "link": "https://arstechnica.com/gadgets/2025/11/ryanair-tries-forcing-app-downloads-by-eliminating-paper-boarding-passes/",
-    "summary": "Ryanair CEO admits \"there’ll be some teething problems.\"",
-    "isoDate": "2025-11-11T21:20:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Policy",
-      "Tech",
-      "airlines",
-      "europe",
-      "software"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1200216952-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b1267abe7f420fcf24735af348d46bd36a3951e7",
     "title": "Tesla Shares Updated Tesla Semi Design and Production Specs",
     "link": "https://www.notateslaapp.com/news/3311/tesla-shares-updated-tesla-semi-design-and-production-specs",
@@ -1238,32 +1265,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5fd6abf6ab9dfae44544a56c2f162599dec8e1d7",
-    "title": "LLM side-channel attack could allow snoops to guess what you're talking about",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/",
-    "summary": "<h4>Encryption protects content, not context</h4> <p><strong>Updated</strong>  Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told <em>The Register</em> that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven't been fixed, putting both personal users and enterprise communications at risk.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-11T00:09:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3d0059d520903cc561859b48d62824f5dbff1b22",
-    "title": "Secret setting hints haptic feedback coming to Windows 11 UI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/windows_11_haptic_feedback/",
-    "summary": "<h4>Microsoft has generated some buzz about generating some buzz</h4> <p>Most phones and tablets include little motors that buzz when you perform common actions such as typing, or when apps notify users of important events. Microsoft may be about to bring similar good vibrations to the PC with features that see Windows 11 make your mouse or touchpad tremble when you perform UI actions such as snapping windows into place.…</p>",
-    "isoDate": "2025-11-10T22:24:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Avram Piltch",
     "tags": [],
     "image": "",
     "pinned": false
