@@ -1,5 +1,88 @@
 [
   {
+    "id": "073919436e1f88251826673f10debda59108b776",
+    "title": "Report blasts UK Ministry of Defence over Afghan data-handling failures",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/pac_mod_afghan_report/",
+    "summary": "<h4>Public Accounts Committee tears into department responsible for the most dangerous breach in British history</h4> <p>The UK Parliament's Public Accounts Committee (PAC) says the Ministry of Defence (MoD) has failed to appropriately improve its data protection mechanisms, three years after the infamous 2022 Afghan data breach.…</p>",
+    "isoDate": "2025-11-14T12:40:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "00328fd142fe3a11641537c687b16a6ffe3094ce",
+    "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
+    "link": "https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/",
+    "summary": "The results of AI-assisted hacking aren't as impressive as many might have us believe.",
+    "isoDate": "2025-11-14T12:20:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "Anthropic",
+      "Claude",
+      "Cyberattacks",
+      "espionage"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d4c4580951be58729615f6c60344b3cd1e1fbbd5",
+    "title": "Rocket Report: Blue Origin’s stunning success; vive le Baguette One!",
+    "link": "https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/",
+    "summary": "\"If NASA wants to go quicker, we would move heaven and Earth.\"",
+    "isoDate": "2025-11-14T12:10:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "rocket report",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/blue-origin-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4b6e75d9db4d8dbaac28f97778facd5508fd0296",
+    "title": "US spy satellites built by SpaceX send signals in the “wrong direction”",
+    "link": "https://arstechnica.com/tech-policy/2025/11/us-spy-satellites-built-by-spacex-send-signals-in-the-wrong-direction/",
+    "summary": "It seems US didn't coordinate Starshield's unusual spectrum use with other countries.",
+    "isoDate": "2025-11-14T12:00:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Features",
+      "Policy",
+      "Space",
+      "spacex",
+      "starshield"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/spacex-starshield-500x500-1763068267.jpg",
+    "pinned": false
+  },
+  {
+    "id": "36acaa9445690ef66427eae48b7a0813ff055eee",
+    "title": "UK tribunal says reselling Microsoft licenses is A-OK",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/valuelicensing_microsoft_judgment/",
+    "summary": "<h4>Windows giant disagrees and plans to appeal</h4> <p>Microsoft's attempt to claim that its software can't be resold has hit a wall at the UK Competition Appeal Tribunal, which decided that Office having clipart does not mean customers can't sell their licenses on.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-14T11:45:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "4053a2dc7cba83cbf660c0cf1023abf8324a0b63",
     "title": "The Skeptic Podcast: Episode #038",
     "link": "https://www.skeptic.org.uk/2025/11/the-skeptic-podcast-episode-038/",
@@ -31,7 +114,7 @@
     "id": "a1575e848a19829c3459c5629ed1426a1ba79a6e",
     "title": "Digital overhaul at UK's NS&amp;I bank is £1.3B over budget and 4 years late",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/nsandi_nao_report/",
-    "summary": "<h4>Watchdog says program buckled under procurement failures and technical complexity</h4> <p>The UK's state-owned savings bank has blown past its budget by £1.3 billion on a digital transformation program beset by delays, according to the National Audit Office.…</p>",
+    "summary": "<h4>Watchdog says program buckled under procurement failures and technical complexity</h4> <p><strong>Updated</strong>  The UK's state-owned savings bank has blown past its budget by £1.3 billion on a digital transformation program beset by delays, according to the National Audit Office.…</p>",
     "isoDate": "2025-11-14T10:15:07Z",
     "source": "The Register",
     "category": "Tech",
@@ -642,7 +725,7 @@
     "id": "b108e176184fb106189ee5151d129bee8ac374a4",
     "title": "London left buffering as Hyperoptic backup link refuses to boot",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/hyperoptic_has_a_terrible_no/",
-    "summary": "<h4>Broadband provider says damaged fiber and dormant failover path knocked customers offline for nearly 24 hours</h4> <p>UK broadband provider Hyperoptic learned the importance of testing backup systems this week after the service went dark for customers in London.…</p>",
+    "summary": "<h4>Broadband provider says damaged fiber and dormant failover path knocked customers offline for nearly 24 hours</h4> <p><strong>Updated</strong>  UK broadband provider Hyperoptic learned the importance of testing backup systems this week after the service went dark for customers in London.…</p>",
     "isoDate": "2025-11-13T11:59:53Z",
     "source": "The Register",
     "category": "Tech",
@@ -960,67 +1043,6 @@
     "pinned": false
   },
   {
-    "id": "ac3e099ceec14bb44b82201fbc5c77f8471894a6",
-    "title": "Well-received big-budget Alien Earth TV series gets a second season",
-    "link": "https://arstechnica.com/culture/2025/11/alien-earth-and-series-creator-noah-hawley-will-return-for-season-2/",
-    "summary": "Production will move from Thailand to London, suggesting a new setting.",
-    "isoDate": "2025-11-12T19:53:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Culture",
-      "alien",
-      "Alien: Earth",
-      "Disney",
-      "FX",
-      "Hulu",
-      "Noah Hawley"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/alien-earth-facehugger-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9a2c3863122f141906fa0e3b9ed1f2e5b39c0bf5",
-    "title": "Audi goes full minimalism for its first-ever Formula 1 livery",
-    "link": "https://arstechnica.com/cars/2025/11/audi-goes-full-minimalism-for-its-first-ever-formula-1-livery/",
-    "summary": "Audi says it wants to be an F1 title contender by 2030.",
-    "isoDate": "2025-11-12T19:17:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Audi F1",
-      "Formula 1"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Audi-F1-livery-reveal-8-of-9-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "02da259b8efe779d33d95d5bccb3f5580ba9c0f3",
-    "title": "Quantum computing tech keeps edging forward",
-    "link": "https://arstechnica.com/science/2025/11/quantum-roundup-lots-of-companies-announcing-new-tech/",
-    "summary": "IBM follows through on its June promises, plus more trapped ion news.",
-    "isoDate": "2025-11-12T18:59:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "Computer science",
-      "ibm",
-      "IonQ",
-      "Physics",
-      "Quantum Art",
-      "quantum computing",
-      "quantum mechanics",
-      "trapped ion"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IBM-Quantum-Loon-Wafer_2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d7a3e754e6acde34055134dc96331a74520d7e1f",
     "title": "First stellar Coronal Mass Ejection detected beyond our Sun",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/scientists_spot_a_huge_explosion/",
@@ -1203,32 +1225,6 @@
     "pinned": false
   },
   {
-    "id": "7121bf8bab292cea99cde67608bac5e419bf5f9e",
-    "title": "UK's Cyber Security and Resilience Bill makes Parliamentary debut",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/uk_cyber_security_and_resilience/",
-    "summary": "<h4>Various touch-ups added as MPs seek greater resilience to attacks on critical sectors</h4> <p>UK government introduced the Cyber Security and Resilience (CSR) Bill to Parliament today, marking a significant overhaul of local cybersecurity legislation to sharpen the security posture of the most critical sectors.…</p>",
-    "isoDate": "2025-11-12T10:54:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d686e81380eb15cc94453db973ea7ab0e71afed6",
-    "title": "Aviation watchdog says organized drone attacks will shut UK airports ‘sooner or later’",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/uk_aviation_boss_says_organized/",
-    "summary": "<h4>Skies are open for mischief as hard-to-trace drones and fast-moving cyber raids promise new wave of disruption</h4> <p>Britain's aviation watchdog has warned it's only a matter of time before organized drone attacks bring UK airports to a standstill.…</p>",
-    "isoDate": "2025-11-12T10:15:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "3304eb066b16a9521d6c1603de38e9763a45d71c",
     "title": "Exploring the limits of skepticism. Part 2: The plot thickens",
     "link": "https://www.skeptic.org.uk/2025/11/exploring-the-limits-of-skepticism-part-2-the-plot-thickens/",
@@ -1240,19 +1236,6 @@
     "tags": [
       "Paranormal"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "cc2c37c5898fc8408d5fe95547d66fd76d65318b",
-    "title": "Retail giant Kingfisher rejects SAP ERP upgrade plan",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/retail_giant_kingfisher_says_no/",
-    "summary": "<h4>'Don't just give me a price list or licensing module that spikes cost by 20x, show me the value,' says CTO</h4> <p>SAP insists customers wanting \"innovation\" such as AI must upgrade to its latest platform for ERP, using prescribed cloud migration plans. Kingfisher - which operates 2,000 European retail stores including UK brands Screwfix and B&amp;Q - rejected that approach.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-12T09:30:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
     "image": "",
     "pinned": false
   },
