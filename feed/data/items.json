@@ -1,5 +1,97 @@
 [
   {
+    "id": "aeb4dcb0b924945b4ec4b525eb92c3ec60b2aecd",
+    "title": "Crims poison 150K+ npm packages with token-farming malware",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/selfreplicating_supplychain_attack_poisons_150k/",
+    "summary": "<h4>Amazon spilled the TEA</h4> <p>Yet another supply chain attack has hit the npm registry in what Amazon describes as \"one of the largest package flooding incidents in open source registry history\" - but with a twist. Instead of injecting credential-stealing code or ransomware into the packages, this one is a token farming campaign.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-14T18:22:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "49ab1c57e037bba16eae82160fc721ddfc649fd3",
+    "title": "World’s oldest RNA extracted from ice age woolly mammoth",
+    "link": "https://arstechnica.com/science/2025/11/worlds-oldest-rna-extracted-from-ice-age-woolly-mammoth/",
+    "summary": "Sequencing an ancient creature’s RNA opens up a new window into extinct life.",
+    "isoDate": "2025-11-14T18:06:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Balzer-Vigil",
+    "tags": [
+      "Science",
+      "ancient DNA",
+      "ancient RNA",
+      "Biology",
+      "evolution",
+      "Genomics",
+      "mammoths",
+      "paleontology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Mammoth-Yuka-3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d61521f5605deb1dc6d7f5c5a03cebec460ba795",
+    "title": "Dogs came in a wide range of sizes and shapes long before modern breeds",
+    "link": "https://arstechnica.com/science/2025/11/dogs-came-in-a-wide-range-of-sizes-and-shapes-long-before-modern-breeds/",
+    "summary": "Life with humans changed dogs in some dramatic ways, and it didn't take long.",
+    "isoDate": "2025-11-14T17:49:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kiona N. Smith",
+    "tags": [
+      "Science",
+      "Archaeology",
+      "dog domestication",
+      "Dogs",
+      "domestication",
+      "mesolith",
+      "neolithic",
+      "paleoarchaeology",
+      "science"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/2018-05-10-19.21.34-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "56b7b83acacc8cd1ebc870549d46be75c23a7a64",
+    "title": "Scientist pleaded guilty to smuggling Fusarium graminearum into US. But what is it?",
+    "link": "https://arstechnica.com/science/2025/11/scientist-pleaded-guilty-to-smuggling-fusarium-graminearum-into-us-but-what-is-it/",
+    "summary": "Early warning system being developed by universities may slow the plant pathogen.",
+    "isoDate": "2025-11-14T17:34:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Tom W. Allen",
+    "tags": [
+      "Science",
+      "crops",
+      "fungus",
+      "fusarium graminearum",
+      "scab",
+      "syndication",
+      "wheat"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1358429685-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "232def1bb4131745f158890edc1665617b5ac447",
+    "title": "Now you can share your AI delusions with Group ChatGPT",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/openai_chatgpt_group_texts/",
+    "summary": "<h4>Just when you thought virtual collaboration couldn’t get worse, OpenAI stuffs a bot into your group conversations</h4> <p>Feel like your team's group chat is a bit lifeless? Remote coworkers not really collaborating as well as they should be? There's a new way to stir the pot now that OpenAI has piloted ChatGPT group chats: cram a chatbot into the conversation and let it chime in whenever it thinks it should.…</p>",
+    "isoDate": "2025-11-14T17:28:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "47e6f9006e09518c92971d589ef334483fb869db",
     "title": "AMD grabs more x86 share as Intel stumbles in entry-level chips",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/mercury_amd_intel/",
@@ -835,26 +927,6 @@
     "pinned": false
   },
   {
-    "id": "7257a75661ed5de3d39d9f9291a6ee04bc20dab5",
-    "title": "Google is rolling out conversational shopping—and ads—in AI Mode search",
-    "link": "https://arstechnica.com/google/2025/11/google-rolling-out-conversational-shopping-and-ads-in-ai-mode-search/",
-    "summary": "Conversational shopping is Google's first big swing at monetizing AI Mode search.",
-    "isoDate": "2025-11-13T14:00:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "AI shopping",
-      "google",
-      "search",
-      "shopping"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/AI-Mode-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "e6e52fa44d524ada58a57369f1f24ea75ab07c66",
     "title": "HPE details Vera Rubin blades for next-gen Cray supercomputers",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/hpe_details_vera_rubin_blades/",
@@ -1076,39 +1148,6 @@
     "pinned": false
   },
   {
-    "id": "a66a48eb7259dba613357f9287cdb8cf92a121d9",
-    "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
-    "link": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
-    "summary": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
-    "isoDate": "2025-11-12T22:54:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI assistants",
-      "AI behavior",
-      "AI model",
-      "AI programming",
-      "API",
-      "chatbots",
-      "generative ai",
-      "GPT-5",
-      "GPT-5.1",
-      "large language models",
-      "machine learning",
-      "multimodal AI",
-      "openai",
-      "sam altman",
-      "simulated reasoning",
-      "SR model",
-      "sycophancy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0a7d7928077b456526b6c3a119b02303cf731c01",
     "title": "Tesla Update 2025.38.8.7 (FSD V14.1.7) Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.38.8.7/release-notes",
@@ -1119,29 +1158,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
-    "pinned": false
-  },
-  {
-    "id": "3a52ecbff23cfafe3d8a71fd12e68fa8d52171ee",
-    "title": "With another record broken, the world’s busiest spaceport keeps getting busier",
-    "link": "https://arstechnica.com/space/2025/11/with-another-record-broken-the-worlds-busiest-spaceport-keeps-getting-busier/",
-    "summary": "It's not just the number of rocket launches, but how much stuff they're carrying into orbit.",
-    "isoDate": "2025-11-12T22:12:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "cape canaveral",
-      "cape canaveral space force station",
-      "Commercial space",
-      "falcon 9",
-      "Kennedy Space Center",
-      "launch",
-      "spacex"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_9791-1-500x500.jpg",
     "pinned": false
   },
   {
@@ -1166,32 +1182,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "78505cf7d97acdf3126ce3c01fcd8c3cabf8a8c3",
-    "title": "OpenAI’s viability called into question by reported inference spending with Microsoft",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/openai_spending_report/",
-    "summary": "<h4>Microsoft internal financials also suggest AI flag bearer is nowhere close to $13 billion in revenues</h4> <p>OpenAI may be burning far more capital serving its GPT-family of models than previously thought. Leaked documents show the company paying more than $12 billion to Microsoft for compute power since 2024 and suggest much weaker revenue than it needs to pay for all those expenses.…</p>",
-    "isoDate": "2025-11-12T21:04:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7e256a1a123415ae3820350888bb1f8cfb5616fb",
-    "title": "Google apes Apple, swears cloud-based AI will keep your info private",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_touts_private_ai_compute/",
-    "summary": "<h4>We take your privacy, seriously</h4> <p>Google, perhaps not the first name you'd associate with privacy, has taken a page from Apple's playbook and now claims that its cloud AI services will safeguard sensitive personal data handled by its Gemini model family.…</p>",
-    "isoDate": "2025-11-12T20:51:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
