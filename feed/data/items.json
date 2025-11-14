@@ -1,5 +1,90 @@
 [
   {
+    "id": "f96c3758739c7630eb10a8489eb61586cfcdb871",
+    "title": "Researchers find hole in AI guardrails by using strings like =coffee",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/ai_guardrails_prompt_injections_echogram_tokens/",
+    "summary": "<h4>Who guards the guardrails? Often the same shoddy security as the rest of the AI stack</h4> <p>Large language models frequently ship with \"guardrails\" designed to catch malicious input and harmful output. But if you use the right word or phrase in your prompt, you can defeat these restrictions.…</p>",
+    "isoDate": "2025-11-14T21:19:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9fc716e5daf845abcd8e6b15af5a710ccdd69b82",
+    "title": "As shutdown ends, dubious CDC panel gets back to dismantling vaccine schedule",
+    "link": "https://arstechnica.com/health/2025/11/as-shutdown-ends-dubious-cdc-panel-gets-back-to-dismantling-vaccine-schedule/",
+    "summary": "Pediatricians are calling for members to be replaced and all their decisions reversed.",
+    "isoDate": "2025-11-14T21:01:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ACIP",
+      "american academy of pediatrics",
+      "anti-vaccine",
+      "CDC",
+      "hepatitis B",
+      "kennedy",
+      "robert f kennedy jr",
+      "vaccines"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235571352-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "71f7288e418c7b8e0a156660e63e166410c1084d",
+    "title": "How two Nissan Leafs help make a regional airport more resilient",
+    "link": "https://arstechnica.com/cars/2025/11/california-airport-tries-out-bidirectional-ev-charging-microgrid/",
+    "summary": "We've seen schoolbuses and big pickups do V2G; how about a smaller car?",
+    "isoDate": "2025-11-14T20:45:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "microgrid",
+      "V2G",
+      "vehicle to grid"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Pacific_Gas_ATS_V2X_Testing-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "485945373e9b1ea7092150869a3945abe46cff37",
+    "title": "Fortinet finally cops to critical make-me-admin bug under active exploitation",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/fortinet_active_exploit_cve_2025_64446/",
+    "summary": "<h4>More than a month after PoC made public</h4> <p>Fortinet finally published a security advisory on Friday for a critical FortiWeb path traversal vulnerability under active exploitation – but it appears digital intruders got a month's head start.…</p>",
+    "isoDate": "2025-11-14T20:39:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "21aab7ee9cae81429f183a89e4ae5941ad6da557",
+    "title": "“How about no”: FCC boss Brendan Carr says he won’t end news distortion probes",
+    "link": "https://arstechnica.com/tech-policy/2025/11/how-about-no-fcc-boss-brendan-carr-says-he-wont-end-news-distortion-probes/",
+    "summary": "Carr rejects criticism from four former FCC chairs, including three Republicans.",
+    "isoDate": "2025-11-14T20:32:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "brendan carr",
+      "FCC",
+      "news distortion policy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-500x500-1758655749.jpg",
+    "pinned": false
+  },
+  {
     "id": "3c3716bca5bd4cd0a64718f0730313deae09988a",
     "title": "Canonical pushes Ubuntu LTS support even further - if you pay",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/canonical_ubuntu_extended_support/",
@@ -805,43 +890,6 @@
     "pinned": false
   },
   {
-    "id": "b8ff00460941137714164a885c948009a57e7eb9",
-    "title": "After years of saying no, Tesla reportedly adding Apple CarPlay to its cars",
-    "link": "https://arstechnica.com/cars/2025/11/after-years-of-saying-no-tesla-reportedly-adding-apple-carplay-to-its-cars/",
-    "summary": "Almost half of US car buyers won't consider a car without Apple CarPlay.",
-    "isoDate": "2025-11-13T18:11:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Apple",
-      "Cars",
-      "Apple CarPlay",
-      "Tesla"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-998425604-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1645bf4833f33425459082a7a20aeaa61ce57b82",
-    "title": "Google will let Android power users bypass upcoming sideloading restrictions",
-    "link": "https://arstechnica.com/gadgets/2025/11/google-will-let-android-power-users-bypass-upcoming-sideloading-restrictions/",
-    "summary": "Google will preserve sideloading for power users, but it hasn't decided how that will work yet.",
-    "isoDate": "2025-11-13T17:30:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "apps",
-      "developers",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "595c6bd6b53ccf35867a5e0c097ac5e3bbe9368d",
     "title": "AI pilots keep crashing, mostly because firms skip the prep, survey finds",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/survey_ai_projects_failure_no_prepare/",
@@ -852,21 +900,6 @@
     "author": "Dan Robinson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "28f3ce70b3da420d7ec9bf7313f0d20af747e83d",
-    "title": "Valve says it’s still waiting for better chips to power Steam Deck 2",
-    "link": "https://arstechnica.com/gaming/2025/11/valve-says-its-still-waiting-for-better-chips-to-power-steam-deck-2/",
-    "summary": "Even a 50 percent performance-per-watt improvement wouldn't be enough, engineer says.",
-    "isoDate": "2025-11-13T16:30:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-500x500.jpg",
     "pinned": false
   },
   {
@@ -1156,19 +1189,6 @@
     "pinned": false
   },
   {
-    "id": "53646c38442abfcd26c42d6bfd3f2a4c79db94ce",
-    "title": "OpenAI GPT-5.1 adds more personalities, loses inhibitions",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/openai_gpt51_adds_more_personalities/",
-    "summary": "<h4>Updated model may deliver a bit more unwanted content, but will be polite about it</h4> <p>OpenAI on Wednesday introduced GPT-5.1, an AI model update that's \"warmer,\" more conversational, and slightly more willing to blurt out unwelcome observations about sex, violence, and mental health in a way that invites emotional dependence.…</p>",
-    "isoDate": "2025-11-13T00:15:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "0a7d7928077b456526b6c3a119b02303cf731c01",
     "title": "Tesla Update 2025.38.8.7 (FSD V14.1.7) Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.38.8.7/release-notes",
@@ -1179,19 +1199,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
-    "pinned": false
-  },
-  {
-    "id": "00e7b943aeeec5055bf9dd0f986c31b873f7de62",
-    "title": "You can now put your US passport into Apple Wallet for domestic travel",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/apple_passport_wallet/",
-    "summary": "<h4>But only a few states plus Puerto Rico will accept it</h4> <p>Need to fly domestically, but want to leave your passport or driver's license at home? Apple has you covered, as long as you're using an iOS device and traveling between or within one of the dozen or so states that support digital IDs and Apple Wallet. Unfortunately, it's not clear which states those are, and the TSA's web site is not up to date thanks to the ongoing government shutdown.…</p>",
-    "isoDate": "2025-11-12T21:49:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
