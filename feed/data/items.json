@@ -1,5 +1,50 @@
 [
   {
+    "id": "e194a9122d95cbe98133bb6299df25216dfc7838",
+    "title": "After last week’s stunning landing, here’s what comes next for Blue Origin",
+    "link": "https://arstechnica.com/space/2025/11/after-last-weeks-stunning-landing-heres-what-comes-next-for-blue-origin/",
+    "summary": "\"There's never been such a high demand for launch as there is right now.\"",
+    "isoDate": "2025-11-17T19:19:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "blue moon lander",
+      "blue origin",
+      "new glenn",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-flying-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "757360e12b1e97800b85eab07abdfb81ffb8c5bd",
+    "title": "Europe joins US as exascale superpower after Jupiter clinches Top500 run",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/europe_jupiter_supercomputer/",
+    "summary": "<h4>EuroHPC's biggest iron still has more to give with Universal Cluster expansion expected to come online next year</h4> <p><strong>SC25</strong>  Europe has officially entered exascale orbit. On Monday, EuroHPC's Jupiter supercomputer became the fourth such machine on the Top500 list of publicly known systems to exceed a million-trillion floating point operations a second in the time-honored High-Performance Linpack (HPL) benchmark.…</p>",
+    "isoDate": "2025-11-17T19:00:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4d32444cc3262a9bdd3a3d5ebf0f2551b608a429",
+    "title": "Google previews Code Wiki: Can you trust AI to document your repository?",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/google_previews_code_wiki/",
+    "summary": "<h4>Documenting code can be dull, but explaining the source code of a complex project is hard for AI to get right</h4> <p>Google has previewed Code Wiki, an AI project that aims to document code in a repository and keep it up to date by regenerating the content after every code change.…</p>",
+    "isoDate": "2025-11-17T18:39:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "d66f75127fd55d61f9ddad76f62b520612aae8d8",
     "title": "Report claims that Apple has yet again put the Mac Pro “on the back burner”",
     "link": "https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/",
@@ -820,29 +865,6 @@
     "pinned": false
   },
   {
-    "id": "d61521f5605deb1dc6d7f5c5a03cebec460ba795",
-    "title": "Dogs came in a wide range of sizes and shapes long before modern breeds",
-    "link": "https://arstechnica.com/science/2025/11/dogs-came-in-a-wide-range-of-sizes-and-shapes-long-before-modern-breeds/",
-    "summary": "Life with humans changed dogs in some dramatic ways, and it didn't take long.",
-    "isoDate": "2025-11-14T17:49:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "Archaeology",
-      "dog domestication",
-      "Dogs",
-      "domestication",
-      "mesolith",
-      "neolithic",
-      "paleoarchaeology",
-      "science"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/2018-05-10-19.21.34-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "232def1bb4131745f158890edc1665617b5ac447",
     "title": "Now you can share your AI delusions with Group ChatGPT",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/openai_chatgpt_group_texts/",
@@ -1206,32 +1228,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f363d2438e4e9a689ebbeba69c20156f8df7d141",
-    "title": "Ransomed CTO falls on sword, refuses to pay extortion demand",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/ransomed_cto_refuses_extortion_demand/",
-    "summary": "<h4>Checkout.com will instead donate the amount to fund cybercrime research</h4> <p>Digitial extortion is a huge business, because affected orgs keep forking over money to get their data back. However, instead of paying a ransom demand after getting hit by extortionists last week, payment services provider Checkout.com donated the demanded amount to fund cybercrime research.…</p>",
-    "isoDate": "2025-11-13T20:02:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6a9190289b91667ffc2a35e29d7e2c8a4d05073a",
-    "title": "Baidu answers China's call for home-grown silicon with custom AI accelerators",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/baidu_inference_training_chips/",
-    "summary": "<h4>Chinese search giant plans to bring custom silicon to the rack scale in 2026 with 256- and 512-chip systems</h4> <p>Chinese search giant Baidu unveiled two new AI accelerators this week amid a national push to end reliance on Western chips.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-13T19:15:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
     "tags": [],
     "image": "",
     "pinned": false
