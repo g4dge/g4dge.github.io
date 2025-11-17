@@ -1,5 +1,73 @@
 [
   {
+    "id": "ebe6a52abe133e8e38e8e75a4bc6c6daed73ca9a",
+    "title": "Windows boss defends 'agentic OS' push as users plead for reliability",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/windows_agentic_os_feedback/",
+    "summary": "<h4>Microsoft claims it listens to feedback while complaints mount over everyday usability</h4> <p>Rather than enjoying some downtime at the weekend, Windows boss Pavan Davuluri made the classic mistake of reading the replies to his post about the operating system's \"agentic\" future.…</p>",
+    "isoDate": "2025-11-17T15:12:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3e6c822c36ea59484c403c2fc565dd34e8bcfc05",
+    "title": "Jeff Bezos gives CEO another go at $6.2B AI startup Prometheus",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/jeff_bezos_ceo_prometheus/",
+    "summary": "<h4>Named after titan who stole fire from the gods and was punished for eternity... Amazon warehouse staff know the feeling</h4> <p>Amazon founder Jeff Bezos is returning to the CEO seat – though not at his best-known creation.…</p>",
+    "isoDate": "2025-11-17T15:09:55Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "David Meyer",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d67ed04f889c1b456e56050acaace6f763070d67",
+    "title": "Overconfidence is the new zero-day as teams stumble through cyber simulations",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/immersive_cyber_resilience_report/",
+    "summary": "<h4>Readiness metrics have flatlined since 2023, with most sectors slipping backward as teams fumble crisis drills</h4> <p>Teams that think they're ready for a major cyber incident are scoring barely 22 percent accuracy and taking more than a day to contain simulated attacks, according to new data out Monday.…</p>",
+    "isoDate": "2025-11-17T15:00:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "acdb295a4cee6d405c17ae7eefb4ebf1c49db1b6",
+    "title": "SAP portal outage raises questions over vendor's cloud readiness",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/sap_for_me_outage/",
+    "summary": "<h4>Disruption left customers unable to track support cases, upgrades, or patching work</h4> <p>SAP has apologized for the recent outage of its SAP for Me portal, a cloud-based tool that gives users a view of their SAP functions, metrics, and service. But the downtime has opened up some reliability questions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-17T14:50:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b867d38fbeb7656247f69ad319943a7269d1f242",
+    "title": "When recreating a famous SUV stunt in China goes wrong",
+    "link": "https://arstechnica.com/cars/2025/11/when-recreating-a-famous-suv-stunt-in-china-goes-wrong/",
+    "summary": "The EV failed to match the 2018 stunt, damaging the stairway in the process.",
+    "isoDate": "2025-11-17T14:32:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Chery Automobile"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/e59bbee78987-193-e1758180732742-800x451-1-500x451.png",
+    "pinned": false
+  },
+  {
     "id": "70ccf6425ab162fc261d0b9e9d5e7a378229ba01",
     "title": "Tesla Holiday Update History: A Look Back at What Was Included in Each Update",
     "link": "https://www.notateslaapp.com/news/3334/tesla-holiday-update-history-a-look-back-at-what-was-included-in-each-update",
@@ -902,25 +970,6 @@
     "pinned": false
   },
   {
-    "id": "4b6e75d9db4d8dbaac28f97778facd5508fd0296",
-    "title": "US spy satellites built by SpaceX send signals in the “wrong direction”",
-    "link": "https://arstechnica.com/tech-policy/2025/11/us-spy-satellites-built-by-spacex-send-signals-in-the-wrong-direction/",
-    "summary": "It seems US didn't coordinate Starshield's unusual spectrum use with other countries.",
-    "isoDate": "2025-11-14T12:00:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Features",
-      "Policy",
-      "Space",
-      "spacex",
-      "starshield"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/spacex-starshield-500x500-1763068267.jpg",
-    "pinned": false
-  },
-  {
     "id": "36acaa9445690ef66427eae48b7a0813ff055eee",
     "title": "UK tribunal says reselling Microsoft licenses is A-OK",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/valuelicensing_microsoft_judgment/",
@@ -1185,19 +1234,6 @@
     "pinned": false
   },
   {
-    "id": "042fe752542d56da8cd1d8af3ec4b75d27895f0d",
-    "title": "Avalonia brings Linux, browser support to Microsoft's MAUI cross-platform app solution",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/dotnet_maui_linux_avalonia/",
-    "summary": "<h4>Third-party framework builds alternative backend using its own renderer and WebAssembly</h4> <p>Microsoft's MAUI (Multi-platform App UI), the official .NET solution for cross-platform desktop and mobile apps, will get Linux and browser support via Avalonia, a third-party framework.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-13T15:11:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "acb449a9a4791e2a2ba386235ea92facfc35909b",
     "title": "Tesla Releases FSD V14.1.7 on Update 2025.38, Adding 3D Buildings, Tron Mode and More",
     "link": "https://www.notateslaapp.com/news/3324/tesla-releases-fsd-v1417-on-update-202538-adding-3d-buildings-tron-mode-and-more",
@@ -1208,45 +1244,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2022/vis-parking-lot-2.jpg/e31967654c19138a350723fab51991b3/vis-parking-lot-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d79d4dab6429e639094dda682a960b208b7c2a01",
-    "title": "ERP carnage continues as orgs jump in unprepared",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/erp_disaster_gartner/",
-    "summary": "<h4>Lack of executive backing, unrealistic plans, and muddled goals remain recipe for failure</h4> <p>In Barcelona this week, consultancy Gartner once again tried to answer one of the perennial questions in IT: what is it about ERP projects that makes them so likely to fail?…</p>",
-    "isoDate": "2025-11-13T15:01:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f185a65fcdd33b397ed813eada7f48a0f6168030",
-    "title": "Blue Origin hopes third time's the charm for New Glenn after two scrubbed launches",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/third_time_lucky_for_blue/",
-    "summary": "<h4>Bezos booster blasted by solar emissions</h4> <p>A blast from the Sun kept Blue Origin's New Glenn rocket on the pad as the Northern Lights forced NASA to halt the launch.…</p>",
-    "isoDate": "2025-11-13T14:43:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e6e52fa44d524ada58a57369f1f24ea75ab07c66",
-    "title": "HPE details Vera Rubin blades for next-gen Cray supercomputers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/hpe_details_vera_rubin_blades/",
-    "summary": "<h4>Promised for 2027 racks, mixing Nvidia and AMD silicon in one liquid-cooled box</h4> <p>HPE's next-gen Cray supercomputing platform will offer a choice of compute nodes with Nvidia's Vera Rubin or AMD's upcoming Venice Epyc CPUs – or a mix of both.…</p>",
-    "isoDate": "2025-11-13T14:00:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1408,19 +1405,6 @@
       "Religion"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7b400b53487c94a37ea71e36592a9c8198fafaaa",
-    "title": "Tesla Is Introducing Instant Trade-In Estimates to the Design Studio",
-    "link": "https://www.notateslaapp.com/news/3317/tesla-is-introducing-instant-trade-in-estimates-to-the-design-studio",
-    "summary": "Tesla is adding in-configurator trade-in estimates, a smart sales tactic to reduce friction, auto-apply loyalty credits, and boost conversion.&hellip; <a href=\"https://www.notateslaapp.com/news/3317/tesla-is-introducing-instant-trade-in-estimates-to-the-design-studio\">Read More</a>",
-    "isoDate": "2025-11-10T15:30:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla_tradein_configurator.jpg/3b16610ced00ae5d5040ea43f55bc022/tesla_tradein_configurator.jpg",
     "pinned": false
   }
 ]
