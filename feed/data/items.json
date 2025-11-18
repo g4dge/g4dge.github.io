@@ -1,5 +1,97 @@
 [
   {
+    "id": "9353cb56ecd974b5a010d72efa5f308db6b56b17",
+    "title": "The Analogue 3D is the modern N64 fans have been waiting for",
+    "link": "https://arstechnica.com/gaming/2025/11/the-analogue-3d-is-the-modern-n64-fans-have-been-waiting-for/",
+    "summary": "Excellent design and display filters, but the lack of OpenFPGA support rankles.",
+    "isoDate": "2025-11-18T18:38:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "analogue",
+      "emulation",
+      "fpga",
+      "HDTV",
+      "n64",
+      "Nintendo",
+      "openFPGA",
+      "upgrade"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_8465-500x500-1763486779.jpg",
+    "pinned": false
+  },
+  {
+    "id": "31006ca0e31ecfa1ad2769a8a242def2cb56d4bc",
+    "title": "Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds",
+    "link": "https://arstechnica.com/information-technology/2025/11/bonkers-bitcoin-heist-5-star-hotels-cash-filled-envelopes-vanishing-funds/",
+    "summary": "Bitcoin mining hardware exec falls for sophisticated crypto scam to tune of $200k",
+    "isoDate": "2025-11-18T18:37:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Joel Khalili",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1321675861-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e94b92a5aa9c519cb8ff3f2b0696715980aad099",
+    "title": "FCC looks to torch Biden-era cyber rules sparked by Salt Typhoon mess",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/fcc_salt_typhoon_rules/",
+    "summary": "<h4>Regulator sides with telcos that claimed new cybersecurity duties were too ‘burdensome’</h4> <p>The Federal Communications Commission (FCC) will vote this week on whether to scrap Biden-era cybersecurity rules, enacted after the Salt Typhoon attacks came to light in 2024, that required telecom carriers to adopt basic security controls.…</p>",
+    "isoDate": "2025-11-18T18:16:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d99624c8d3af29fce61e262ef3909c383aab6b70",
+    "title": "China readies a lifeboat for stranded Shenzhou crew",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/china_readies_a_lifeboat_for/",
+    "summary": "<h4>Stuck on the Tiangong station with a cracked capsule for company</h4> <p>China is preparing for an early launch of the Shenzhou-22 spacecraft to rescue the crew of Shenzou-21, who were left stranded aboard the Tiangong space station after their emergency rescue of the Shenzou-20 crew earlier this month.…</p>",
+    "isoDate": "2025-11-18T18:07:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c46efb0ddce3a4227e73bb358bb5f3c6f9e459e8",
+    "title": "Take fight to the enemy, US cyber boss says",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/the_us_wants_to_go/",
+    "summary": "<h4>When? Sean Cairncross wouldn't say</h4> <p>America is fed up with being the prime target for foreign hackers. So US National Cyber Director Sean Cairncross says Uncle Sam is going on the offensive – he just isn't saying when.…</p>",
+    "isoDate": "2025-11-18T17:48:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "82c22c62fae3f4f96aa1943ab458737f16cc79ae",
+    "title": "Google Chrome bug exploited as an 0-day - patch now or risk full system compromise",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/google_chrome_seventh_0_day/",
+    "summary": "<h4>Seventh Chrome 0-day this year</h4> <p>Google pushed an emergency patch on Monday for a high-severity Chrome bug that attackers have already found and exploited in the wild.…</p>",
+    "isoDate": "2025-11-18T17:43:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "685cf306be1af6b06f8252f137b9b531fbaffdc6",
     "title": "Datacenter fossil fuel habit 'not sustainable' as AI workloads soar",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/fossil_fuel_ai_datacenter/",
@@ -894,26 +986,6 @@
     "pinned": false
   },
   {
-    "id": "c117b4edcff8c1d2701387e900530eefc7b10e6e",
-    "title": "I’ve already been using a “Steam Machine” for months, and I think it’s great",
-    "link": "https://arstechnica.com/gadgets/2025/11/ive-already-been-using-a-steam-machine-for-months-and-i-think-its-great/",
-    "summary": "With a little know-how, you can get yourself a Steam Machine right this minute.",
-    "isoDate": "2025-11-17T12:00:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Features",
-      "Gaming",
-      "Tech",
-      "steam deck",
-      "steam machine",
-      "steamos"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_3549-500x500-1763364800.jpeg",
-    "pinned": false
-  },
-  {
     "id": "1590e7b21063357a51f4ad01b3225c734260d266",
     "title": "UK prosecutors seize £4.11M in crypto from Twitter mega-hack culprit",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/cps_41m_crypto_twitter/",
@@ -1073,26 +1145,6 @@
     "pinned": false
   },
   {
-    "id": "176635bef0a7ac91a00c12fb5957fae9bb7940da",
-    "title": "The evolution of rationality: How chimps process conflicting evidence",
-    "link": "https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/",
-    "summary": "Chimps can take in new evidence, evaluate its strength, and change their minds.",
-    "isoDate": "2025-11-16T12:00:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "Behavioral science",
-      "beliefs",
-      "Biology",
-      "chimps",
-      "evolution"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1451038709-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "5e17919eaee330e83d8f014c431e28ff3689c27a",
     "title": "Tesla Update 2025.44 - Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.44/release-notes",
@@ -1153,58 +1205,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "485945373e9b1ea7092150869a3945abe46cff37",
-    "title": "Fortinet finally cops to critical make-me-admin bug under active exploitation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/fortinet_active_exploit_cve_2025_64446/",
-    "summary": "<h4>More than a month after PoC made public</h4> <p>Fortinet finally published a security advisory on Friday for a critical FortiWeb path traversal vulnerability under active exploitation – but it appears digital intruders got a month's head start.…</p>",
-    "isoDate": "2025-11-14T20:39:44Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3c3716bca5bd4cd0a64718f0730313deae09988a",
-    "title": "Canonical pushes Ubuntu LTS support even further - if you pay",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/canonical_ubuntu_extended_support/",
-    "summary": "<h4>Enterprise Linux vendors keep jostling to see who can prop up geriatric distros the longest</h4> <p>Last year, Canonical increased its paid extended support lifespan to 12 years. Now, it's increasing it again, to 15 years ... for a price.…</p>",
-    "isoDate": "2025-11-14T19:36:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "aeb4dcb0b924945b4ec4b525eb92c3ec60b2aecd",
-    "title": "Crims poison 150K+ npm packages with token-farming malware",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/selfreplicating_supplychain_attack_poisons_150k/",
-    "summary": "<h4>Amazon spilled the TEA</h4> <p>Yet another supply chain attack has hit the npm registry in what Amazon describes as \"one of the largest package flooding incidents in open source registry history\" - but with a twist. Instead of injecting credential-stealing code or ransomware into the packages, this one is a token farming campaign.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-14T18:22:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "232def1bb4131745f158890edc1665617b5ac447",
-    "title": "Now you can share your AI delusions with Group ChatGPT",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/openai_chatgpt_group_texts/",
-    "summary": "<h4>Just when you thought virtual collaboration couldn’t get worse, OpenAI stuffs a bot into your group conversations</h4> <p>Feel like your team's group chat is a bit lifeless? Remote coworkers not really collaborating as well as they should be? There's a new way to stir the pot now that OpenAI has piloted ChatGPT group chats: cram a chatbot into the conversation and let it chime in whenever it thinks it should.…</p>",
-    "isoDate": "2025-11-14T17:28:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1421,19 +1421,6 @@
       "Paranormal"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b1267abe7f420fcf24735af348d46bd36a3951e7",
-    "title": "Tesla Shares Updated Tesla Semi Design and Production Specs",
-    "link": "https://www.notateslaapp.com/news/3311/tesla-shares-updated-tesla-semi-design-and-production-specs",
-    "summary": "Tesla's finalized Semi, set for 2026 production, targets diesel TCO with a 500-mile range, 1.7kWh/mi efficiency, and 1.2MW charging.&hellip; <a href=\"https://www.notateslaapp.com/news/3311/tesla-shares-updated-tesla-semi-design-and-production-specs\">Read More</a>",
-    "isoDate": "2025-11-11T18:39:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/semi-updated-design.webp/6486ded6fc2c81a96952518a786a6f47/semi-updated-design.jpg",
     "pinned": false
   }
 ]
