@@ -1,5 +1,59 @@
 [
   {
+    "id": "48ce5221168a3bcfce8a9623243e29f70d1a494b",
+    "title": "Fortinet 'fesses up to second 0-day within a week",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/fortinet_confirms_second_fortiweb_0day/",
+    "summary": "<h4>Attackers may be joining the dots to enable unauthenticated RCE</h4> <p>Fortinet has confirmed that another flaw in its FortiWeb web application firewall has been exploited as a zero-day and issued a patch, just days after disclosing a critical bug in the same product that attackers had found and abused a month earlier.…</p>",
+    "isoDate": "2025-11-19T23:07:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1a50a6e8844cb9bb1c34ff5e4a945ecb5696c488",
+    "title": "“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one",
+    "link": "https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/",
+    "summary": "The risks of AI investment in manufacturing and other areas are less clear.",
+    "isoDate": "2025-11-19T22:57:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "axios",
+      "CEO",
+      "Gartner",
+      "Hugging Face",
+      "Jeff Bezos",
+      "large language model",
+      "LLM"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/1763499309592-500x500.webp",
+    "pinned": false
+  },
+  {
+    "id": "b4c595e6b999b971197017bda5f2eb4b4e856786",
+    "title": "NASA really wants you to know that 3I/ATLAS is an interstellar comet",
+    "link": "https://arstechnica.com/science/2025/11/nasa-really-wants-you-to-know-that-3i-atlas-is-an-interstellar-comet/",
+    "summary": "A rundown of what we know of the third extrasolar object we've identified.",
+    "isoDate": "2025-11-19T22:44:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "3I/ATLAS",
+      "astronomy",
+      "comet",
+      "planetary science"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-1-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "49e0ca80f6283bb4bdd3d69cb6e9728c3be195a1",
     "title": "Devs gripe about having AI shoved down their throats",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/ai_force_feeding/",
@@ -705,7 +759,7 @@
     "id": "250e60f0b0ef0d710d9cb33135e1bc557290b66b",
     "title": "Self-replicating botnet attacks Ray clusters",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/selfreplicating_botnet_ray_clusters/",
-    "summary": "<h4>Using AI to attack AI</h4> <p>Malefactors are actively attacking internet-facing Ray clusters and abusing the open source AI framework to spread a self-replicating botnet that mines for cryptocurrency, steals data, and launches distributed denial of service (DDoS) attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Using AI to attack AI</h4> <p><strong>updated</strong>  Malefactors are actively attacking internet-facing Ray clusters and abusing the open source AI framework to spread a self-replicating botnet that mines for cryptocurrency, steals data, and launches distributed denial of service (DDoS) attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-11-18T21:43:20Z",
     "source": "The Register",
     "category": "Tech",
@@ -853,39 +907,6 @@
     "pinned": false
   },
   {
-    "id": "eb2e00affa87d9e7f3822b869896b8af43b0088f",
-    "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
-    "link": "https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/",
-    "summary": "Sundar Pichai says no company is immune if AI bubble bursts, echoing dotcom fears.",
-    "isoDate": "2025-11-18T16:32:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI energy",
-      "AI infrastructure",
-      "AI investment",
-      "AI regulation",
-      "alphabet",
-      "climate change",
-      "deepmind",
-      "dotcom bubble",
-      "Ed Zitron",
-      "google",
-      "Jamie Dimon",
-      "Jensen Huang",
-      "large language models",
-      "machine learning",
-      "NVIDIA",
-      "openai",
-      "Sundar Pichai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Sundar-IO-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6090676fa11dbc152762d24a1c231d061ff12043",
     "title": "Outdated Samsung handset linked to fatal emergency call failure in Australia",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/samsung_emergency_call_failure/",
@@ -909,28 +930,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d45ab3624e7459b98f396072b779fe72c3a45359",
-    "title": "Google unveils Gemini 3 AI model and AI-first IDE called Antigravity",
-    "link": "https://arstechnica.com/google/2025/11/google-unveils-gemini-3-ai-model-and-ai-first-ide-called-antigravity/",
-    "summary": "Google's flagship AI model is getting its second major upgrade this year.",
-    "isoDate": "2025-11-18T16:08:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "AI coding",
-      "Artificial Intelligence",
-      "generative ai",
-      "google",
-      "Google Gemini"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemini-3-500x500.png",
     "pinned": false
   },
   {
@@ -1178,19 +1177,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5dbdcdd68d1ad46413b55f68d227f17aacdd971e",
-    "title": "'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/biggest_cloud_ddos_attack_azure/",
-    "summary": "<h4>Aisuru botnet strikes again, bigger and badder</h4> <p>Azure was hit by the \"largest-ever\" cloud-based distributed denial of service (DDoS) attack, originating from the Aisuru botnet and measuring 15.72 terabits per second (Tbps), according to Microsoft.…</p>",
-    "isoDate": "2025-11-17T21:54:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1447,19 +1433,6 @@
     "author": "Ana Lucia Araujo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0a7d7928077b456526b6c3a119b02303cf731c01",
-    "title": "Tesla Update 2025.38.8.7 (FSD V14.1.7) Release Notes",
-    "link": "https://www.notateslaapp.com/software-updates/version/2025.38.8.7/release-notes",
-    "summary": "Tesla software update 2025.38.8.7 (FSD 14.1.7) includes FSD (Supervised) v14.1.7, Arrival Options, Speed Profiles, UI Improvements, Brake Confirm, Full Self-Driving (Supervised), Tron Mode, 3D Buildings, Satellite View, Dashcam Viewer Updates, Side Cameras Recording, New Scroll Wheel Functions, Grok (Beta), Onboarding Guide, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.38.8.7/release-notes\">View Release Notes</a>",
-    "isoDate": "2025-11-12T22:45:06Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
     "pinned": false
   }
 ]
