@@ -1,5 +1,70 @@
 [
   {
+    "id": "04dec67c0c512ecae2c3a3f602a7b42cb255e129",
+    "title": "Rocket Lab Electron among first artifacts installed in CA Science Center space gallery",
+    "link": "https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/",
+    "summary": "Filling space in the Samuel Oschin Air and Space Center's Kent Kresa Space Gallery.",
+    "isoDate": "2025-11-19T21:14:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Robert Pearlman",
+    "tags": [
+      "Space",
+      "California Science Center",
+      "electron",
+      "Endeavour",
+      "Kent Kresa Space Gallery",
+      "Los Angeles",
+      "rocket lab",
+      "Samuel Oschin Air and Space Center",
+      "solid rocket booster",
+      "Space exploration",
+      "space history",
+      "Space shuttle",
+      "space shuttle main engine",
+      "SRB",
+      "SSME",
+      "walkthrough"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/news-111825a-lg-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "073567f641110653654794d2881a8114c0a6e7b6",
+    "title": "Senators propose to let users sue tech giants for harmful algos",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/senators_tech_bill_algorithms_harmful_lawsuit/",
+    "summary": "<h4>The latest attack on Section 230 is likely to face the same fate as many previous efforts</h4> <p>A pair of bipartisan senators wants to hold social media giants accountable for pushing content that radicalizes Americans.…</p>",
+    "isoDate": "2025-11-19T21:06:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6bb103413d3409d52ecaa25a2560c71c51d07bf8",
+    "title": "He got sued for sharing public YouTube videos; nightmare ended in settlement",
+    "link": "https://arstechnica.com/tech-policy/2025/11/proctorio-settles-curious-lawsuit-with-librarian-who-shared-public-youtube-videos/",
+    "summary": "Librarian vows to stop invasive ed tech after ending lawsuit with Proctorio.",
+    "isoDate": "2025-11-19T20:56:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "censorship",
+      "copyright",
+      "ed tech",
+      "education technology",
+      "free speech",
+      "proctorio",
+      "YouTube"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Ian-Linkletter-via-Ashley-Linkletter-500x500-1763580010.jpeg",
+    "pinned": false
+  },
+  {
     "id": "22b2455a91bf7dab5869c5665a292fa00767b96c",
     "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
     "link": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/",
@@ -857,41 +922,6 @@
     "pinned": false
   },
   {
-    "id": "2ddd42bd3f0fbd884e4702919251064c64ea4dcb",
-    "title": "Tesla safety driver falls asleep during passenger’s robotaxi ride",
-    "link": "https://arstechnica.com/cars/2025/11/tesla-safety-driver-falls-asleep-during-passengers-robotaxi-ride/",
-    "summary": "A Reddit user posted video of his safety driver sleeping at the wheel in San Fransisco.",
-    "isoDate": "2025-11-18T15:10:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Tesla",
-      "Tesla robotaxi"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_0422-500x500-1763477505.png",
-    "pinned": false
-  },
-  {
-    "id": "a0890897529214f037bb66316647da70c29002f1",
-    "title": "Widespread Cloudflare outage blamed on mysterious traffic spike",
-    "link": "https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/",
-    "summary": "Cloudflare is down, causing many websites and big platforms to go dark.",
-    "isoDate": "2025-11-18T15:03:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "cloud services",
-      "cloudflare",
-      "outage"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2243855984-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fc98b2a40e689b98c7777b6e0540dc8a56091909",
     "title": "Brussels eyes AWS, Azure for gatekeeper tag in cloud clampdown",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/amazon_microsoft_cloud_dma/",
@@ -1167,19 +1197,6 @@
     "pinned": false
   },
   {
-    "id": "603363005c3f3b617a46e41936414608c844e044",
-    "title": "AI is actually bad at math, ORCA shows",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/ai_bad_math_orca/",
-    "summary": "<h4>ORCA benchmark trips up ChatGPT-5, Gemini 2.5 Flash, Claude Sonnet 4.5, Grok 4, and DeepSeek V3.2</h4> <p>In the world of George Orwell's 1984, two and two make five. And large language models are not much better at math.…</p>",
-    "isoDate": "2025-11-17T21:16:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "0ea3a14e7f0b480dc3c320b33f30614e2374dbea",
     "title": "Tesla Eyes $20K Price Target For Optimus, Extremely Fast Production Ramp",
     "link": "https://www.notateslaapp.com/news/3314/tesla-eyes-20k-price-target-for-optimus-extremely-fast-production-ramp",
@@ -1444,19 +1461,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
-    "pinned": false
-  },
-  {
-    "id": "21300bd6f2bdb1c549132feed9bfce27fa4b6163",
-    "title": "Tesla Updates Cybercab Design, Shares Production Date and Additional Cities",
-    "link": "https://www.notateslaapp.com/news/3313/tesla-updates-cybercab-design-shares-production-date-and-additional-cities",
-    "summary": "Tesla made a variety of announcements regarding the Cybercab at its 2025 shareholder meeting, including production date, design changes and expansion.&hellip; <a href=\"https://www.notateslaapp.com/news/3313/tesla-updates-cybercab-design-shares-production-date-and-additional-cities\">Read More</a>",
-    "isoDate": "2025-11-12T20:41:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-redesign.webp/b2bf31a3b6b9f7b8a5a007316c94b9f3/cybercab-redesign.jpg",
     "pinned": false
   }
 ]
