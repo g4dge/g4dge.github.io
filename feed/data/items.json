@@ -1,5 +1,18 @@
 [
   {
+    "id": "4b1db99b4f8e15e9de2ac660091cafa691ecd3d4",
+    "title": "Cloudflare broke itself – and a big chunk of the Internet – with a bad database query",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/cloudflare_incident_report/",
+    "summary": "<h4>Thought it was the victim of a ‘hyper-scale DDoS attack’ before finding the fix</h4> <p>Cloudflare CEO Matthew Prince has admitted that the cause of its massive Tuesday <a href=\"https://www.theregister.com/2025/11/18/cloudflare_outage/\" target=\"_blank\">outage</a> was a change to database permissions, and that the company initially thought the symptoms of that adjustment indicated it was the target of a “hyper-scale DDoS attack,” before figuring out the real problem.…</p>",
+    "isoDate": "2025-11-19T02:06:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e01e8d0192916da347eae6c5e0ec9835c4f2aa59",
     "title": "Networking startup Meter takes a page from the Steve Jobs playbook",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/meter_steve_jobs_playbook/",
@@ -1168,19 +1181,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a9676a4c401c94605d6d377627ae6845d1880cc0",
-    "title": "Nvidia-backed photonics startup Ayar Labs eyes hyperscale customers with GUC design collab",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/16/ayar_guc_collab/",
-    "summary": "<h4>Who needs 600 kilowatt racks when a single computer can span entire datacenters?</h4> <p><strong>Exclusive</strong>  Nvidia-backed photonics startup Ayar Labs announced a new collaboration with Global Unichip Corp (GUC) on Sunday to integrate its optical I/O chiplets into the Taiwanese semiconductor design services provider's XPU reference designs.…</p>",
-    "isoDate": "2025-11-16T18:00:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
     "tags": [],
     "image": "",
     "pinned": false
