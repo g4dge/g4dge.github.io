@@ -1,5 +1,36 @@
 [
   {
+    "id": "2a534cf89fc7f845665d8359d2d9cc507337cdfc",
+    "title": "LLM-generated malware is improving, but don't expect autonomous attacks tomorrow",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/llmgenerated_malware_improving/",
+    "summary": "<h4>Researchers tried to get ChatGPT to do evil, but it didn't do a good job</h4> <p>LLMs are getting better at writing malware - but they're still not ready for prime time.…</p>",
+    "isoDate": "2025-11-20T19:12:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ffc46a9102f10ef16a3638ccf9be69969039a8a6",
+    "title": "Trump revives unpopular Ted Cruz plan to punish states that impose AI laws",
+    "link": "https://arstechnica.com/tech-policy/2025/11/trump-revives-unpopular-ted-cruz-plan-to-punish-states-that-impose-ai-laws/",
+    "summary": "Cruz plan to block broadband funding lost 99-1, but now it's back—in Trump form.",
+    "isoDate": "2025-11-20T18:50:06Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "AI",
+      "Policy",
+      "state AI laws",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/trump-and-ted-cruz-500x500-1763663607.jpg",
+    "pinned": false
+  },
+  {
     "id": "97a389396cc0212a045e1a2fb405aabb918345e9",
     "title": "Don't spill your guts to your chatbot friend - it'll hoover up that info for training",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/experts_warns_house_of_privacy/",
@@ -136,6 +167,7 @@
     "author": "Jonathan M. Gitlin",
     "tags": [
       "Cars",
+      "Google",
       "android auto"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Blog-3-500x500.png",
@@ -899,25 +931,6 @@
     "pinned": false
   },
   {
-    "id": "c2f9947b170daba4b29a8e82cae5181b811a0441",
-    "title": "Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola.",
-    "link": "https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/",
-    "summary": "The concept is meant to inspire the next generation of electric single-seaters.",
-    "isoDate": "2025-11-19T14:00:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Formula E",
-      "Lola Cars",
-      "Lucas di Grassi",
-      "Racing"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/DGR-05-night-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "9bfed13ec2d2048513866b3c1de2c51aa0c7d1d5",
     "title": "Microsoft-SAP pact aims to keep Euro cloud running in a crisis",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/microsoft_sap_cloud_crisis/",
@@ -1232,19 +1245,6 @@
     "pinned": false
   },
   {
-    "id": "0b42e7a569d55ff0bed0b5469bcfdc8f5c627623",
-    "title": "Microsoft issues patch to tackle Windows 10 Extended Security Updates failures",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/windows_10_esu_patch/",
-    "summary": "<h4>Users who thought they were safely in the program hit errors on day one</h4> <p>Microsoft has shipped a fix for commercial customers who believed they were enrolled in the Extended Security Updates (ESU) program but received error messages on the first Patch Tuesday after support ended.…</p>",
-    "isoDate": "2025-11-18T16:20:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "e7ab68caf7eb41de06d226917bc943fe86f46838",
     "title": "Tesla's 2025 Holiday Update: What to Expect This Christmas",
     "link": "https://www.notateslaapp.com/news/3332/teslas-2025-holiday-update-what-to-expect-this-christmas",
@@ -1472,19 +1472,6 @@
       "Religion"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c352bb36e170fcfc1555af5d76f64f845707f024",
-    "title": "Tesla to Add CarPlay, According to New Report: Advantages & Disadvantages",
-    "link": "https://www.notateslaapp.com/news/3326/tesla-to-add-carplay-according-to-new-report-advantages-disadvantages",
-    "summary": "Tesla is now developing integration for Apple's CarPlay, according to a new report.&hellip; <a href=\"https://www.notateslaapp.com/news/3326/tesla-to-add-carplay-according-to-new-report-advantages-disadvantages\">Read More</a>",
-    "isoDate": "2025-11-13T18:49:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla-carplay-2.webp/5e322a6979a7753641b6afb8d1a13baa/tesla-carplay-2.jpg",
     "pinned": false
   }
 ]
