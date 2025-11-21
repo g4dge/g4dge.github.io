@@ -1,5 +1,57 @@
 [
   {
+    "id": "a097cb1338cd4d1549de403015fc5248720d5420",
+    "title": "Four charged over alleged plot to smuggle Nvidia AI chips into China",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/nvidia_china_smuggling_charges/",
+    "summary": "<h4>Prosecutors say front companies, falsified paperwork, and overseas drop points used to dodge US export rules</h4> <p>Four people have been charged in the US with plotting to funnel restricted Nvidia AI chips into China, allegedly relying on shell firms, fake invoices, and covert routing to slip cutting-edge GPUs past American export controls.…</p>",
+    "isoDate": "2025-11-21T13:58:55Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4424f7b94489c2074cfb0d4abc4921b3345e9344",
+    "title": "You are likely to be eaten by the MIT license: Microsoft frees Zork source",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/microsoft_zork_source/",
+    "summary": "<h4>Redmond dusts off Infocom's classic text adventures and puts the originals into public hands</h4> <p>Microsoft developer boss Scott Hanselman saved the company's Ignite shindig this week by unveiling the source code for Zork I-III, all available under the MIT license.…</p>",
+    "isoDate": "2025-11-21T13:54:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c3b99326c87607163eac66abfd20661d92cf461d",
+    "title": "Tesla Update 2025.38.9.5 (FSD V14.2) Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2025.38.9.5/release-notes",
+    "summary": "Tesla software update 2025.38.9.5 (FSD 14.2) includes FSD (Supervised) v14.2, Arrival Options, Speed Profiles, UI Improvements, Brake Confirm, Full Self-Driving (Supervised), Tron Mode, 3D Buildings, Satellite View, Dashcam Viewer Updates, Side Cameras Recording, New Scroll Wheel Functions, Grok (Beta), Onboarding Guide, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.38.9.5/release-notes\">View Release Notes</a>",
+    "isoDate": "2025-11-21T13:53:22Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+    "pinned": false
+  },
+  {
+    "id": "fe735de2b17801b31a8b88344cede20ed6fe92ca",
+    "title": "Magician forgets password to his own hand after RFID chip implant",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/magician_password_hand_rfid/",
+    "summary": "<h4>Storing credentials safely and securely is the real trick</h4> <p>It's important to have your login in hand, literally. Zi Teng Wang, a UK magician who implanted an RFID chip in his appendage, has admitted losing access to it because he forgot the password.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-21T13:44:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "98130fb8aad7a64035e6d5504fefad605d6caa9b",
     "title": "Rocket Report: SpaceX’s next-gen booster fails; Pegasus will fly again",
     "link": "https://arstechnica.com/space/2025/11/rocket-report-spacexs-next-gen-booster-fails-pegasus-will-fly-again/",
@@ -1208,32 +1260,6 @@
     "pinned": false
   },
   {
-    "id": "977fed3cd7701a81413a6077bc9c872945a881ed",
-    "title": "Ignite awash with agents as Microsoft triples down on AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/microsoft_ai_agents_ignite/",
-    "summary": "<h4>Event supposedly for IT pros doesn't have much to tell admins on the Windows front</h4> <p>The Copilot company kicked off its Ignite shindig this week with AI, AI, and more AI. Oh, and a lot of agents.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-19T12:33:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1805c39fe91ea973490c9563b85897691751aa04",
-    "title": "Microsoft spins up Azure HorizonDB to take on distributed Postgres rivals",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/microsoft_azure_horizondb/",
-    "summary": "<h4>Open source RDMS popularity offers devs 'something other than Oracle' as database standard, analyst says</h4> <p>Microsoft has announced a distributed PostgreSQL database service designed to rival other hyperscaler systems and third-party RDBMSes such as CockroachDB and YugabyteDB.…</p>",
-    "isoDate": "2025-11-19T11:45:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "a4cb4051a0881b8a39166024d479c6dc56ec533d",
     "title": "Darwin’s notebook",
     "link": "https://aeon.co/videos/the-story-of-the-captives-transported-on-the-hms-beagle-with-darwin?utm_source=rss-feed",
@@ -1242,19 +1268,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5c42ef3e556a4686bd42a83e7bcef855b07d858b",
-    "title": "CPython may go Rusty, but older platforms risk getting iced out",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/cpython_may_use_rust/",
-    "summary": "<h4>Preliminary proposal is already provoking debate</h4> <p>The Python community is chewing over a new idea: allowing the C-based reference implementation, CPython, to incorporate Rust. It's only at the \"pre-PEP\" stage, but it's already sparked lively debate.…</p>",
-    "isoDate": "2025-11-19T11:00:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
