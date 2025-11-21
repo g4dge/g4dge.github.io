@@ -1,5 +1,92 @@
 [
   {
+    "id": "10d35e168181d3f67eb4ccf8c91ce8b0b67a0f67",
+    "title": "Lawsuit seeks to probe Uncle Sam's role in ICE-tracking app takedowns",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/eff_lawsuit_ice_tracking/",
+    "summary": "<h4>EFF wants to know if citizens had their First Amendment rights violated</h4> <p>The Electronic Frontier Foundation (EFF) is suing two government departments to understand how they compelled tech companies to remove ICE-tracking apps and websites from their platforms.…</p>",
+    "isoDate": "2025-11-21T12:31:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e9851757d067c7ec367a302cd5e3068ab5a733ea",
+    "title": "Pornhub is urging tech giants to enact device-based age verification",
+    "link": "https://arstechnica.com/tech-policy/2025/11/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/",
+    "summary": "The company is pushing for an alternative way to keep minors from viewing porn.",
+    "isoDate": "2025-11-21T12:15:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jason Parham, WIRED.com",
+    "tags": [
+      "Policy",
+      "age verification",
+      "age verification law",
+      "pornhub",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1544cf760f2c80931181f5e119d3bc12bcd723c4",
+    "title": "Newest Starship booster is significantly damaged during testing early Friday",
+    "link": "https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/",
+    "summary": "SpaceX had big plans for the upgraded Starship vehicle that failed on Friday morning.",
+    "isoDate": "2025-11-21T12:12:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "booster",
+      "explostion",
+      "space",
+      "spacex",
+      "Starbase",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/G6N7W5tXYAANSJ--500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "17f24b3b179b8ae5c615b2aedd4ebe92498347a8",
+    "title": "Stoke Space goes for broke to solve the only launch problem that “moves the needle”",
+    "link": "https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/",
+    "summary": "\"Does the world really need a 151st rocket company?\"",
+    "isoDate": "2025-11-21T12:00:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Features",
+      "Space",
+      "andy lapsa",
+      "cape canaveral",
+      "nova rocket",
+      "space",
+      "stoke space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Stoke_S1E_Jun5_hotfire_d5600_croppedrocks-1200x800-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "59dba90fe6b9ad8d922c94ee05a91e88bea6140c",
+    "title": "Nvidia's green500 dominance continues as France's Kairos super takes efficiency title",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/nvidia_green500/",
+    "summary": "<h4>Nvidia CPUs and GPUs dominate the bi-annual leaderboard, but FP64 performance regressions leave its long term prospectives in doubt</h4> <p><strong>SC25</strong>  There's a new efficiency champ at the top of the Green500 ranking of the world's most sustainable supercomputers.…</p>",
+    "isoDate": "2025-11-21T11:45:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "838334c9cf9db18a3c28b6cee75ad95f21e05ab2",
     "title": "AI nudification site fined £55K for skipping age checks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/ofcom_osa_fine_undress/",
@@ -900,55 +987,6 @@
     "pinned": false
   },
   {
-    "id": "0e5691090fa0ab241907f75bc5c8eb375bf9d5b7",
-    "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
-    "link": "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/",
-    "summary": "\"I worry this is the big botnet flexing,\" CEO said. But outage was self-inflicted.",
-    "isoDate": "2025-11-19T21:25:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Biz & IT",
-      "Policy",
-      "cloudflare",
-      "Matthew Prince",
-      "outage"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/cloudflare-error-500x500-1763584488.jpg",
-    "pinned": false
-  },
-  {
-    "id": "04dec67c0c512ecae2c3a3f602a7b42cb255e129",
-    "title": "Rocket Lab Electron among first artifacts installed in CA Science Center space gallery",
-    "link": "https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/",
-    "summary": "Filling space in the Samuel Oschin Air and Space Center's Kent Kresa Space Gallery.",
-    "isoDate": "2025-11-19T21:14:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Robert Pearlman",
-    "tags": [
-      "Space",
-      "California Science Center",
-      "electron",
-      "Endeavour",
-      "Kent Kresa Space Gallery",
-      "Los Angeles",
-      "rocket lab",
-      "Samuel Oschin Air and Space Center",
-      "solid rocket booster",
-      "Space exploration",
-      "space history",
-      "Space shuttle",
-      "space shuttle main engine",
-      "SRB",
-      "SSME",
-      "walkthrough"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/news-111825a-lg-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "073567f641110653654794d2881a8114c0a6e7b6",
     "title": "Senators propose to let users sue tech giants for harmful algos",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/senators_tech_bill_algorithms_harmful_lawsuit/",
@@ -959,28 +997,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6bb103413d3409d52ecaa25a2560c71c51d07bf8",
-    "title": "He got sued for sharing public YouTube videos; nightmare ended in settlement",
-    "link": "https://arstechnica.com/tech-policy/2025/11/proctorio-settles-curious-lawsuit-with-librarian-who-shared-public-youtube-videos/",
-    "summary": "Librarian vows to stop invasive ed tech after ending lawsuit with Proctorio.",
-    "isoDate": "2025-11-19T20:56:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "censorship",
-      "copyright",
-      "ed tech",
-      "education technology",
-      "free speech",
-      "proctorio",
-      "YouTube"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Ian-Linkletter-via-Ashley-Linkletter-500x500-1763580010.jpeg",
     "pinned": false
   },
   {
@@ -1229,32 +1245,6 @@
     "tags": [
       "Paranormal"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "284799f1d3b52a18ef03388a23f26af4ace34739",
-    "title": "Tens of thousands more ASUS routers pwned by suspected, evolving China operation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/thousands_more_asus_routers_pwned/",
-    "summary": "<h4>Researchers say attacks are laying the groundwork for stealthy espionage activity</h4> <p>Around 50,000 ASUS routers have been compromised in a sophisticated attack that researchers believe may be linked to China, according to findings released today by SecurityScorecard's STRIKE team.…</p>",
-    "isoDate": "2025-11-19T09:30:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bd253ba6af5047cac467540d7aa26ba437cb5ae8",
-    "title": "Whatever your job, mentoring is your job – and the one that matters most",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/every_job_is_mentoring/",
-    "summary": "<h4>Nobody succeeds alone, and no community thrives without generosity</h4> <p><strong>Opinion</strong>  When I started coding for a living 43 years ago, I didn't know shit from Shinola. I'd written a lot of BASIC, some Z80 assembler, and knew my way around floppy drives and a disk operating system. I knew nothing at all about how to operate as a junior engineer in a professional environment.…</p>",
-    "isoDate": "2025-11-19T07:33:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Mark Pesce",
-    "tags": [],
     "image": "",
     "pinned": false
   },
