@@ -1,5 +1,18 @@
 [
   {
+    "id": "25131a76c9d1131bdf7e402d24f1e039298d6918",
+    "title": "Google links Android’s Quick Share to Apple’s AirDrop, without Cupertino’s help",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/google_links_androids_quick_share/",
+    "summary": "<h4>Relies on very loose permissions, but don’t worry – Google wrote it in Rust</h4> <p>Google has linked Android’s wireless peer-to-peer file sharing tool Quick Share to Apple’s equivalent AirDrop.…</p>",
+    "isoDate": "2025-11-21T03:55:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "fd5842cc486db16b4bd0b23e7d670da004fbb283",
     "title": "Veeam bets on more VMware alternatives, including Red Hat and China’s Sangfor",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/veeam_13_hypervisor_support/",
@@ -1197,19 +1210,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "250e60f0b0ef0d710d9cb33135e1bc557290b66b",
-    "title": "Self-replicating botnet attacks Ray clusters",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/selfreplicating_botnet_ray_clusters/",
-    "summary": "<h4>Using AI to attack AI</h4> <p><strong>updated</strong>  Malefactors are actively attacking internet-facing Ray clusters and abusing the open source AI framework to spread a self-replicating botnet that mines for cryptocurrency, steals data, and launches distributed denial of service (DDoS) attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-18T21:43:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
