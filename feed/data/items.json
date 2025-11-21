@@ -1,5 +1,67 @@
 [
   {
+    "id": "c66d98f77f295c7fc159480cfdafcab3e7240ff9",
+    "title": "Tech company CTO and others indicted for exporting Nvidia chips to China",
+    "link": "https://arstechnica.com/tech-policy/2025/11/tech-company-cto-and-others-indicted-for-exporting-nvidia-chips-to-china/",
+    "summary": "Four arrested and charged with illegal exports, smuggling, and money laundering.",
+    "isoDate": "2025-11-21T20:29:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "chip export controls",
+      "NVIDIA"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/nvidia-chip-500x500-1754500471.jpg",
+    "pinned": false
+  },
+  {
+    "id": "14f7301f632634efa39873816b90cf7851b36516",
+    "title": "Data-driven sport: How Red Bull and AT&T move terabytes of F1 info",
+    "link": "https://arstechnica.com/cars/2025/11/data-driven-sport-how-red-bull-and-att-move-terabytes-of-f1-info/",
+    "summary": "Since the last time we spoke to Red Bull, its cars have 3 times as many sensors on them.",
+    "isoDate": "2025-11-21T20:19:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "AT&T",
+      "F1",
+      "Formula 1",
+      "Red Bull Racing"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Red-Bulls-in-the-pitlane-LVGP-1-of-1-500x500-1763755037.jpg",
+    "pinned": false
+  },
+  {
+    "id": "dc48574033a561c203db9318cfa791de09d16afd",
+    "title": "Tesla FSD V14.2 Includes New FSD Stats, UI Improvements and Neural Net Upgrade",
+    "link": "https://www.notateslaapp.com/news/3353/tesla-fsd-v142-includes-new-fsd-stats-ui-improvements-and-neural-net-upgrade",
+    "summary": "Tesla has made several improvements to FSD v14.2, including an improved neural network vision encoder, new FSD stats and changing FSD settings while parked.&hellip; <a href=\"https://www.notateslaapp.com/news/3353/tesla-fsd-v142-includes-new-fsd-stats-ui-improvements-and-neural-net-upgrade\">Read More</a>",
+    "isoDate": "2025-11-21T19:51:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/fsd-stats.webp/c73035012a29bb9414339228c5c872e5/fsd-stats.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7538f10f4833e64566326dc6eebe80d6acb2a7ca",
+    "title": "ShinyHunters 'does not like Salesforce at all,' claims the crew accessed Gainsight 3 months ago",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/shinyhunters_salesforce_gainsight_breach/",
+    "summary": "<h4>'I have compromised other known OAuth apps,' Shiny tells The Reg</h4> <p><strong>EXCLUSIVE</strong>  ShinyHunters has claimed responsibility for the Gainsight breach that allowed the data thieves to snarf data from hundreds more Salesforce customers.…</p>",
+    "isoDate": "2025-11-21T19:25:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "acc62e5802957fef6b8f67821bdf90417ab4bbcc",
     "title": "Keep your receipts: Tech firms told to prepare for possible tariff refunds",
     "link": "https://arstechnica.com/tech-policy/2025/11/keep-your-receipts-tech-firms-told-to-prepare-for-possible-tariff-refunds/",
@@ -894,27 +956,6 @@
     "pinned": false
   },
   {
-    "id": "6e4e6eb3f699f2c632feaadd16086f9f1fc59b84",
-    "title": "RFK Jr.’s loathesome edits: CDC website now falsely links vaccines and autism",
-    "link": "https://arstechnica.com/health/2025/11/rfk-jr-s-loathesome-edits-cdc-website-now-falsely-links-vaccines-and-autism/",
-    "summary": "The site previously correctly noted that studies have repeatedly found no link.",
-    "isoDate": "2025-11-20T16:15:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "aluminum",
-      "anti-vaccine",
-      "autism",
-      "CDC",
-      "MMR",
-      "vaccines"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "50a30fad8bc4ffec16efeabee554c014024908f5",
     "title": "TP-Link accuses rival Netgear of 'smear campaign' over alleged China ties",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/tplink_sues_netgear/",
@@ -964,27 +1005,6 @@
     "author": "Dan Robinson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a4c91c3cf62fa6d9abb947d9120e56288dee9d9f",
-    "title": "Attack, defend, pursue—the Space Force’s new naming scheme foretells new era",
-    "link": "https://arstechnica.com/space/2025/11/attack-defend-pursue-the-space-forces-new-naming-scheme-foretells-new-era/",
-    "summary": "Ars is first to reveal how the Space Force will name its weapon systems.",
-    "isoDate": "2025-11-20T13:48:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "Defense Department",
-      "military space",
-      "Spaceflight",
-      "spy satellites",
-      "US Military",
-      "US Space Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/DSC03780_1-500x500.jpg",
     "pinned": false
   },
   {
@@ -1206,19 +1226,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d39fb51b3cb90714b61ebf6de7d024b46b32c720",
-    "title": "Ford rolls into the Xen Project as hypervisor gears up for autos",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/xen_4_21/",
-    "summary": "<h4>Version 4.21 also brings advances in the datacenter, on ARM, and RISC-V</h4> <p>The Xen Project today delivered a major release of its hypervisor and associated tools, including contributions from automaker Ford, which quietly joined the project in June.…</p>",
-    "isoDate": "2025-11-19T17:01:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
