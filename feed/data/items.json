@@ -1,5 +1,75 @@
 [
   {
+    "id": "a7402e8eaab367c256d17339aaf87ecbeda8a22c",
+    "title": "Moss spores bolted to the ISS exterior laugh in the face of hard vacuum",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/moss_iss/",
+    "summary": "<h4>Japanese team finds 80% of the tiny plant cells remained viable after 283 days in orbit</h4> <p>Moss has been shown to survive one of the harshest environments imaginable: the exterior of the International Space Station (ISS).…</p>",
+    "isoDate": "2025-11-24T15:25:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "49936c58734f006cdc41ffc21c647f52624735fd",
+    "title": "Years-old bugs in open source tool left every major cloud open to disruption",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/fluent_bit_cves/",
+    "summary": "<h4>Fluent Bit has 15B+ deployments … and 5 newly assigned CVEs</h4> <p>A series of \"trivial-to-exploit\" vulnerabilities in Fluent Bit, an open source log collection tool that runs in every major cloud and AI lab, was left open for years, giving attackers an exploit chain to completely disrupt cloud services and alter data.…</p>",
+    "isoDate": "2025-11-24T15:23:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b9217abb5abb759aef95e91994a493f3f66bc2de",
+    "title": "Tesla Opens Up Rental Program: Includes Unlimited Miles, FSD, Free Supercharger and More",
+    "link": "https://www.notateslaapp.com/news/3355/tesla-opens-up-rental-program-includes-unlimited-miles-fsd-free-supercharger-and-more",
+    "summary": "Tesla expands its $60/day rental program to TX, MA, TN, and AZ. Includes free Supercharging, FSD, and unlimited miles, plus a $250 credit if you buy.&hellip; <a href=\"https://www.notateslaapp.com/news/3355/tesla-opens-up-rental-program-includes-unlimited-miles-fsd-free-supercharger-and-more\">Read More</a>",
+    "isoDate": "2025-11-24T15:15:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_51.jpg/7dffe70ea297bfcbfae0ae39ccd84ebe/group_51.jpg",
+    "pinned": false
+  },
+  {
+    "id": "31cb593bd921bcb5885f6bc9dfd7a29cade47e9f",
+    "title": "F1 in Las Vegas: This sport is a 200 mph soap opera",
+    "link": "https://arstechnica.com/cars/2025/11/f1-in-las-vegas-this-sport-is-a-200-mph-soap-opera/",
+    "summary": "Yet another twist in the championship with two more weekends to go.",
+    "isoDate": "2025-11-24T14:54:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "F1",
+      "Formula 1",
+      "las vegas"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2247872341-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9f5a83cb809b2eaabedce4918b17d3369c40c5f2",
+    "title": "Intrusion at real estate finance biz sparks concern for big banks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/situsamc_breach/",
+    "summary": "<h4>SitusAMC rules out ransomware, but accounting records for major institutions potentially affected</h4> <p>Real estate finance business SitusAMC says thieves sneaked into its systems earlier this month and made off with confidential client data.…</p>",
+    "isoDate": "2025-11-24T14:46:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e09e9e985ffb83dba0397d1a1cdd3d14241dc695",
     "title": "UK government will buy tech to boost AI sector in $130M growth push",
     "link": "https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/",
@@ -915,27 +985,6 @@
     "pinned": false
   },
   {
-    "id": "17f24b3b179b8ae5c615b2aedd4ebe92498347a8",
-    "title": "Stoke Space goes for broke to solve the only launch problem that “moves the needle”",
-    "link": "https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/",
-    "summary": "\"Does the world really need a 151st rocket company?\"",
-    "isoDate": "2025-11-21T12:00:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Features",
-      "Space",
-      "andy lapsa",
-      "cape canaveral",
-      "nova rocket",
-      "space",
-      "stoke space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Stoke_S1E_Jun5_hotfire_d5600_croppedrocks-1200x800-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "59dba90fe6b9ad8d922c94ee05a91e88bea6140c",
     "title": "Nvidia's green500 dominance continues as France's Kairos super takes efficiency title",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/nvidia_green500/",
@@ -1175,19 +1224,6 @@
     "pinned": false
   },
   {
-    "id": "97a389396cc0212a045e1a2fb405aabb918345e9",
-    "title": "Don't spill your guts to your chatbot friend - it'll hoover up that info for training",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/experts_warns_house_of_privacy/",
-    "summary": "<h4>LLM makers may be training on user chat with few privacy safeguards, lawmakers hear</h4> <p>The US House of Representatives has heard that LLM builders can exploit users’ conversations for further training and commercial benefit with little oversight or concern for privacy risks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-20T18:35:42Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "be840980439ed560ab96ffced0340843074f0342",
     "title": "Tesla Gains Statewide Approval to Launch Robotaxi Service in Arizona",
     "link": "https://www.notateslaapp.com/news/3349/tesla-gains-statewide-approval-to-launch-robotaxi-service-in-arizona",
@@ -1198,32 +1234,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/132.jpeg/6048cb97141472a5c45c005c4b39460a/132.jpg",
-    "pinned": false
-  },
-  {
-    "id": "684fea21fe955924376171e0fa3d6ea6d3bcd82b",
-    "title": "Trump, Republicans try again to stop states from regulating AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/trump_republicans_trying_again_to/",
-    "summary": "<h4>If at first you don’t succeed, swing again - Big Tech certainly isn’t complaining</h4> <p>The Trump administration and congressional Republicans are trying again to eliminate state-level AI regulations in favor of a federal standard. The plan faces opposition from many state governments and civil-society organizations, while AI vendors have welcomed it.…</p>",
-    "isoDate": "2025-11-20T18:02:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fc74a99e70ed2b191501edff943f86be5259f966",
-    "title": "Thunderbird 145 finally adds ‘native’ Exchange support",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/thunderbird_microsoft_exchange_support/",
-    "summary": "<h4>EWS-powered email only for now, with calendars and contacts still on the to-do list</h4> <p>It's easy to forget in the FOSS world, but Exchange still runs most corporate email – and the new version of Thunderbird can talk to it directly.…</p>",
-    "isoDate": "2025-11-20T17:08:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
