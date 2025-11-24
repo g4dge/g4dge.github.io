@@ -1,5 +1,54 @@
 [
   {
+    "id": "0c617cab6d284df119d83567ff0c8b0e66d9e335",
+    "title": "DOGE “doesn’t exist” anymore. But expert says it’s still not dead.",
+    "link": "https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/",
+    "summary": "Government brain drain will haunt US after DOGE abruptly terminated.",
+    "isoDate": "2025-11-24T21:17:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "department of government efficiency",
+      "doge",
+      "Donald Trump",
+      "Elon Musk"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2200059564-500x500-1764014696.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3ec6a2252958793273385a328a7f506d93c7b82d",
+    "title": "Anthropic reduces model misbehavior by endorsing cheating",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/anthropic_model_misbehavior/",
+    "summary": "<h4>By removing the stigma of reward hacking, AI models are less likely to generalize toward evil</h4> <p>Sometimes bots, like kids, just wanna break the rules. Researchers at Anthropic have found they can make AI models less likely to behave badly by giving them permission to do so.…</p>",
+    "isoDate": "2025-11-24T21:05:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "af3118e23340bb3f336a94763fc684a979af6ec5",
+    "title": "Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition",
+    "link": "https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/",
+    "summary": "“Why is reverse-engineering prohibited... for a company built on openly hackable systems?”",
+    "isoDate": "2025-11-24T20:45:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "Arduino",
+      "Qualcomm"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1200985324-500x500-1764015023.jpg",
+    "pinned": false
+  },
+  {
     "id": "45d5449e77e8da8a58648a09b2ef23d8a761ea0e",
     "title": "Why synthetic emerald-green pigments degrade over time",
     "link": "https://arstechnica.com/science/2025/11/why-synthetic-emerald-green-pigments-degrade-over-time/",
@@ -915,29 +964,6 @@
     "pinned": false
   },
   {
-    "id": "895186ae08b8d7041faf5b3470d760a1d5801579",
-    "title": "First revealed in spy photos, a Bronze Age city emerges from the steppe",
-    "link": "https://arstechnica.com/science/2025/11/archaeologists-find-ruins-of-a-bronze-age-city-on-the-kazakh-steppe/",
-    "summary": "An unexpectedly large city lies in a sea of grass inhabited largely by nomads.",
-    "isoDate": "2025-11-21T15:07:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "aerial archaeology",
-      "ancient cities",
-      "ancient people did stuff",
-      "Archaeology",
-      "bronze age",
-      "Kazakhstan",
-      "satellite archaeology",
-      "science"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/bronze-axe-2-wow-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "16e0d36f1d18fefaa2a2b88f320f04cc48571abf",
     "title": "SpaceX loses debut V3 Super Heavy in ground test mishap",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/spacex_super_heavy_mishap/",
@@ -1000,38 +1026,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "98130fb8aad7a64035e6d5504fefad605d6caa9b",
-    "title": "Rocket Report: SpaceX’s next-gen booster fails; Pegasus will fly again",
-    "link": "https://arstechnica.com/space/2025/11/rocket-report-spacexs-next-gen-booster-fails-pegasus-will-fly-again/",
-    "summary": "With the government shutdown over, the FAA has lifted its daytime launch curfew.",
-    "isoDate": "2025-11-21T13:31:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "atlas v",
-      "blue origin",
-      "china",
-      "falcon 9",
-      "long march 2f",
-      "new glenn",
-      "Northrop Grumman",
-      "pythom",
-      "rocket lab",
-      "rocket report",
-      "saab",
-      "shenzhou",
-      "spacex",
-      "starship",
-      "super heavy",
-      "united launch alliance"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2246883754-500x500.jpg",
     "pinned": false
   },
   {
@@ -1214,19 +1208,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/google_links_androids_quick_share/",
     "summary": "<h4>Relies on very loose permissions, but don’t worry – Google wrote it in Rust</h4> <p>Google has linked Android’s wireless peer-to-peer file sharing tool Quick Share to Apple’s equivalent AirDrop.…</p>",
     "isoDate": "2025-11-21T03:55:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fd5842cc486db16b4bd0b23e7d670da004fbb283",
-    "title": "Veeam bets on more VMware alternatives, including Red Hat and China’s Sangfor",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/veeam_13_hypervisor_support/",
-    "summary": "<h4>Plans a universal API to back up all hypervisors, too</h4> <p>Backup software vendor Veeam has thrown its weight behind more alternatives to VMware.…</p>",
-    "isoDate": "2025-11-21T02:38:58Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
