@@ -1,5 +1,78 @@
 [
   {
+    "id": "11c11debc7e727729f51fcefc839bf81fe7cd307",
+    "title": "Anthropic introduces Opus 4.5, cuts API pricing, and enables much longer Claude chats",
+    "link": "https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/",
+    "summary": "Longer chats address a long-standing criticism of Claude.",
+    "isoDate": "2025-11-24T23:15:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "Claude API",
+      "Claude Code",
+      "large language model",
+      "LLM",
+      "Opus 4.5"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-4.57.28-PM-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "53275b6b2f4ab9ad26af7e8da0ae1e0850205bb3",
+    "title": "Rivals object to SpaceX’s Starship plans in Florida—who’s interfering with whom?",
+    "link": "https://arstechnica.com/space/2025/11/rivals-object-to-spacexs-starship-plans-in-florida-whos-interfering-with-whom/",
+    "summary": "\"We're going to continue to treat any LOX-methane vehicle with 100 percent TNT blast equivalency.\"",
+    "isoDate": "2025-11-24T22:52:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "cape canaveral space force station",
+      "Kennedy Space Center",
+      "launch",
+      "military space",
+      "NASA",
+      "new glenn",
+      "spacex",
+      "starship",
+      "united launch alliance",
+      "US Space Force"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Pad37_Fly_Over_Desktop_57943a8aff-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "83cceed4eb20b199eb7e6a7d6d8e9b9951e0ef66",
+    "title": "Fresh ClickFix attacks use Windows Update trick-pics to steal credentials",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/clickfix_attack_infostealers_images/",
+    "summary": "<h4>Poisoned PNGs contain malicious code</h4> <p>A fresh wave of ClickFix attacks is using fake Windows update screens to trick victims into downloading infostealer malware.…</p>",
+    "isoDate": "2025-11-24T22:50:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5a3808cd55191ef98b3abb0a17a3c456e782d4eb",
+    "title": "Meta knows how bad its sites are for kids, say lawyers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/meta_sites_kids/",
+    "summary": "<h4>Multiple internal studies allegedly buried by the company</h4> <p>Is Meta acting like a tobacco company denying cigarettes cause cancer, or an oil giant downplaying climate science? Lawyers in a recent court filing claim the social media titan buried internal research for years suggesting its platforms can harm children's mental health.…</p>",
+    "isoDate": "2025-11-24T22:49:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "a4da829086ccc2ed76a47b955fae40769ccdce37",
     "title": "Praise Amazon for raising this service from the dead",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/praise_amazon_for_reviving_codecommit_corey_quinn/",
@@ -871,25 +944,6 @@
     "pinned": false
   },
   {
-    "id": "acc62e5802957fef6b8f67821bdf90417ab4bbcc",
-    "title": "Keep your receipts: Tech firms told to prepare for possible tariff refunds",
-    "link": "https://arstechnica.com/tech-policy/2025/11/keep-your-receipts-tech-firms-told-to-prepare-for-possible-tariff-refunds/",
-    "summary": "Tech firms dare to dream chip tariffs may go away amid rumors of delays.",
-    "isoDate": "2025-11-21T19:17:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "chip tariffs",
-      "semiconductor tariffs",
-      "trump tariffs",
-      "us-china trade war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2214301623-500x500-1763749740.jpg",
-    "pinned": false
-  },
-  {
     "id": "05017cc9b4e3a8a877b331c935f8820eff352f7b",
     "title": "Makers slam Qualcomm for tightening the clamps on Arduino",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/adafruit_makers_unhappy_with_arduino/",
@@ -900,28 +954,6 @@
     "author": "Liam Proven",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d696309a4600ed60003db07f90449dca950f7d9d",
-    "title": "Chris Hemsworth and dad fight Alzheimer’s with a trip down memory lane",
-    "link": "https://arstechnica.com/science/2025/11/chris-hemsworth-and-dad-fight-alzheimers-with-a-trip-down-memory-lane/",
-    "summary": "Ars chats with director Tom Barbor-Might about new National Geographic documentary <em>A Road Trip to Remember</em>.",
-    "isoDate": "2025-11-21T17:58:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Science",
-      "Alzheimer's disease",
-      "Chris Hemsworth",
-      "disney plus",
-      "Hulu",
-      "National Geographic",
-      "science documentaries"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/roadtripTOP-500x500.jpg",
     "pinned": false
   },
   {
@@ -1185,32 +1217,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ff18577196a6fcde3615f013ef3af48b763c0598",
-    "title": "Linux admin hated downtime so much he schlepped a live UPS during office move",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/on_call/",
-    "summary": "<h4>Somewhat daft scheme worked until it didn’t</h4> <p><strong>On Call</strong>  The working week can be burdensome, so each Friday morning <em>The Register</em> tries to lighten the load by bringing you a new instalment of On Call, the reader-contributed column in which you let go of tech support stories that weigh on your memory.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-21T06:44:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b35a5c6104499f33caf67cb8e26f07e200e581c2",
-    "title": "Open Compute Project figuring out how to get quantum computers into classical datacenters",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/ocp_hpc_quantum_datacenter_integration/",
-    "summary": "<h4>It’s an ethereal and weighty problem, not a powerful conundrum</h4> <p>The Open Compute Project (OCP) has commenced a workstream to learn how to deploy quantum computers alongside classical high performance computers in the same datacenter.…</p>",
-    "isoDate": "2025-11-21T05:25:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
