@@ -1,5 +1,62 @@
 [
   {
+    "id": "e09e9e985ffb83dba0397d1a1cdd3d14241dc695",
+    "title": "UK government will buy tech to boost AI sector in $130M growth push",
+    "link": "https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/",
+    "summary": "Plan will offer guaranteed payments for British startups making AI hardware",
+    "isoDate": "2025-11-24T14:17:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Chris Smyth and Melissa Heikkilä",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Financial Times",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2247290617-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "15a11b9ebc8b692f7eb697b50bed5fe2d790608d",
+    "title": "Shai-Hulud worm returns, belches secrets to 25K GitHub repos",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/shai_hulud_npm_worm/",
+    "summary": "<h4>Trojanized npm packages spread new variant that executes in pre-install phase, hitting thousands within days</h4> <p>A self-propagating malware targeting node package managers (npm) is back for a second round, according to Wiz researchers who say that more than 25,000 developers had their secrets compromised within three days.…</p>",
+    "isoDate": "2025-11-24T14:08:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7d2d44197ab04861706e35dd93cfce5f5147d0e8",
+    "title": "Microsoft wedges tables into Notepad for some reason",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/notepad_tables_support/",
+    "summary": "<h4>WordPad died for this?</h4> <p>Microsoft is shoveling yet more features into the venerable Windows Notepad. This time it's support for tables, with some AI enhancements lathered on top.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-24T14:00:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4a47d655a3a3f0ee377fa7c938d7c1c8114e5083",
+    "title": "NATO taps Google for air-gapped sovereign cloud",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/nato_google_cloud/",
+    "summary": "<h4>Chocolate Factory wins contract to build fully disconnected systems for training and operational support</h4> <p>NATO has hired Google to provide \"air-gapped\" sovereign cloud services and AI in \"completely disconnected, highly secure environments.\"…</p>",
+    "isoDate": "2025-11-24T13:37:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1f8fd5aa2e2487d0b53584bc403b0800e517565f",
     "title": "FCC guts post-Salt Typhoon telco rules despite ongoing espionage risk",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/fcc_salt_typhoon_rules/",
@@ -1053,25 +1110,6 @@
     "pinned": false
   },
   {
-    "id": "8c288a6b0e0698358514f3635134896fe74c8149",
-    "title": "HP and Dell disable HEVC support built into their laptops’ CPUs",
-    "link": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/",
-    "summary": "HEVC licensing gets more expensive in January.",
-    "isoDate": "2025-11-20T23:02:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Biz & IT",
-      "Tech",
-      "dell",
-      "HP",
-      "laptops"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1293225672-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f7f684521d53f47c3554cac9920bad23133e615e",
     "title": "SC25 gets heavy with mega power and cooling solutions",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/heavy_industry_invades_sc25/",
@@ -1199,45 +1237,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/charging-supercharger-vis.webp/8d9c1577d07a3a211ab89236feacb121/charging-supercharger-vis.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6efd15ca7dd42483a0501fa3d9ebe0d2c2b3ea62",
-    "title": "Fired techie admits sabotaging ex-employer, causing $862K in damage",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/it_contractor_sabotage/",
-    "summary": "<h4>PowerShell script locked thousands of workers out of their accounts</h4> <p>An Ohio IT contractor has pleaded guilty to breaking into his former employer's systems and causing nearly $1 million worth of damage after being fired.…</p>",
-    "isoDate": "2025-11-20T16:44:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ede4e195b9bdfdfab527c1c71d090a08836a44b5",
-    "title": "Nvidia pushes out hotfix after Windows 11 October update tanks gaming performance",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/nvidia_windows_11_hotfix/",
-    "summary": "<h4>Quick and dirty driver aims to undo slowdown introduced in OS patch</h4> <p>The Windows 11 October 2025 Update is still causing headaches for users of Microsoft's flagship operating system.…</p>",
-    "isoDate": "2025-11-20T16:33:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "936c797e4baacd3627d3608ce6c75d06a764646b",
-    "title": "AWS under pressure as big three battle to eat the cloud market",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/aws_loses_market_share_azure_google/",
-    "summary": "<h4>Google and Microsoft are catching up, while Oracle and neoclouds are growing from a small base</h4> <p>The big three cloud companies are all growing thanks to an expanding market, but Amazon is under increasing pressure from Microsoft and Google, while newcomers are on the rise.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-20T16:15:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1439,19 +1438,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/fsd_safety_page_2.jpg/9c6d3baf2854dc14dfd7978bfae609a1/fsd_safety_page_2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "70ccf6425ab162fc261d0b9e9d5e7a378229ba01",
-    "title": "Tesla Holiday Update History: A Look Back at What Was Included in Each Update",
-    "link": "https://www.notateslaapp.com/news/3334/tesla-holiday-update-history-a-look-back-at-what-was-included-in-each-update",
-    "summary": "We take a look back at all the features Tesla has launched during past holiday updates.&hellip; <a href=\"https://www.notateslaapp.com/news/3334/tesla-holiday-update-history-a-look-back-at-what-was-included-in-each-update\">Read More</a>",
-    "isoDate": "2025-11-17T14:25:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2022/model-3-2018.jpg/26ecd1e9a02dc3d9ea907a4936d8cb49/model-3-2018.jpg",
     "pinned": false
   }
 ]
