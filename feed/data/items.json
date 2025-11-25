@@ -1,5 +1,18 @@
 [
   {
+    "id": "0daba4f84bee11265c29cd921d2acdee113216de",
+    "title": "Microsoft's fix for slow File Explorer: load it before you need it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/microsoft_trying_preloading_to_solve/",
+    "summary": "<h4>Windows Insider build intros background loading for faster launches, sidestepping questions about app's sluggishness</h4> <p>Microsoft is tackling File Explorer's sluggish launch times - not by stripping out the bloat or optimizing code, but by preloading the application in the background.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-25T15:49:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "471792c3f82e233d87a42f844f860f12dfde5378",
     "title": "Employee trust in SAP board dips amid ongoing restructure",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/employee_trust_sap/",
@@ -1154,19 +1167,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/fsd-stats.webp/c73035012a29bb9414339228c5c872e5/fsd-stats.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7538f10f4833e64566326dc6eebe80d6acb2a7ca",
-    "title": "ShinyHunters 'does not like Salesforce at all,' claims the crew accessed Gainsight 3 months ago",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/shinyhunters_salesforce_gainsight_breach/",
-    "summary": "<h4>Shiny talks to <i>The Reg</i></h4> <p><strong>EXCLUSIVE</strong>  ShinyHunters has claimed responsibility for the Gainsight breach that allowed the data thieves to snarf data from hundreds more Salesforce customers.…</p>",
-    "isoDate": "2025-11-21T19:25:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
