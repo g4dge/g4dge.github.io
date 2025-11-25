@@ -1,5 +1,84 @@
 [
   {
+    "id": "c17993c8d165bb01a89366d78fb67b056927d760",
+    "title": "China launches an emergency lifeboat to bring three astronauts back to Earth",
+    "link": "https://arstechnica.com/space/2025/11/china-launches-an-emergency-lifeboat-to-bring-three-astronauts-back-to-earth/",
+    "summary": "This is a \"successful example for efficient emergency response in the international space industry.\"",
+    "isoDate": "2025-11-25T18:37:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "china",
+      "human spaceflight",
+      "long march",
+      "long march 2f",
+      "shenzhou",
+      "tiangong"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2248311596-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7c7f9a49b39718e45dc4de93d94a521c591af03c",
+    "title": "HPE scores $931M contract to make DoD’s cloud migration a little less public",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/hpe_scores_931m_dod_cloud_contract/",
+    "summary": "<h4>Works like a public cloud but keeps everything on-prem</h4> <p>The US Department of Defense on Tuesday awarded Hewlett Packard Enterprise (HPE) a 10-year, $931 million contract to bring cloud conveniences, like unified management and multi-tenancy, to the US military's most sensitive datacenters.…</p>",
+    "isoDate": "2025-11-25T18:24:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1338518af8f86376b73517b698ff348396a53daa",
+    "title": "Rent-a-GPU neoclouds need to adapt or die as the AI market evolves",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/rentagpu_neoclouds_need_to_adapt/",
+    "summary": "<h4>McKinsey points out the quandary facing companies like CoreWeave</h4> <p>So-called neocloud companies are facing a dilemma: They need to move up the AI stack to avoid being commoditized, but they risk competing against their big hyperscale customers if they do.…</p>",
+    "isoDate": "2025-11-25T18:12:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f7ca505b1b65c8678ff3e9a219bab90ddaec2f65",
+    "title": "HashJack attack shows AI browsers can be fooled with a simple ‘#’",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/hashjack_attack_ai_browser_hashtag/",
+    "summary": "<h4>Hashtag-do-whatever-I-tell-you</h4> <p>Cato Networks says it has discovered a new attack, dubbed \"HashJack,\" that hides malicious prompts after the \"#\" in legitimate URLs, tricking AI browser assistants into executing them while dodging traditional network and server-side defenses.…</p>",
+    "isoDate": "2025-11-25T17:58:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "32a56b63cf693ccc7567de81ec0e30a9a601c930",
+    "title": "Landlords’ go-to tool to set rent prices to be gutted under RealPage settlement",
+    "link": "https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/",
+    "summary": "RealPage agrees to settle suit over DOJ claims software raised rents across the US.",
+    "isoDate": "2025-11-25T17:51:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "Antitrust law",
+      "price fixing",
+      "realpage"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2154521423-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "bd42079c7d63415ee92513171183c0167283ea96",
     "title": "Get ready for 2026, the year of AI-aided ransomware",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/trend_micro_agentic_ai_assisted_ransomware/",
@@ -990,32 +1069,6 @@
     "pinned": false
   },
   {
-    "id": "28fcf7e2c5a178f58b122b5267bb915e453569aa",
-    "title": "It's TEE time for Brave's AI assistant Leo",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/",
-    "summary": "<h4>Browser maker wraps cloud AI data processing in confidential computing</h4> <p>Brave Software has joined the rush to make using cloud-based AI services more private.…</p>",
-    "isoDate": "2025-11-22T11:45:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8f3b4e39acfdd0e6dd522484adcdf97cb2b981ca",
-    "title": "Copackaged optics have officially found their killer app - of course it's AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/22/cpo_ai_nvidia_broadcom/",
-    "summary": "<h4>With power in such short supply, every watt counts</h4> <p><strong>SC25</strong>  Power is becoming a major headache for datacenter operators as they grapple with how to support ever larger deployments of GPU servers - so much so that the AI boom is now driving the adoption of a technology once thought too immature and failure-prone to merit the risk.…</p>",
-    "isoDate": "2025-11-22T09:31:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "616851f76eaa6fd36e6be8f279485380d62ba3c2",
     "title": "Oops. Cryptographers cancel election results after losing decryption key.",
     "link": "https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/",
@@ -1085,74 +1138,6 @@
       "Gaming"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/screen1c-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6a5009805a85bd3336148734403575b64b2dab69",
-    "title": "Self-destructing thumb drive can brick itself and wipe your secret files away",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/selfdestructing_external_ssd/",
-    "summary": "<h4>Catch: you have to plug it into a computer first</h4> <p>If you’ve ever watched Mission Impossible, where Jim Phelps gets instructions from an audio tape that catches fire after five seconds, TeamGroup has an external SSD with your name on it. The T-Create Expert P35S is a portable USB-powered SSD that comes with a self-destruct button, which wipes all your data and physically renders the device useless.…</p>",
-    "isoDate": "2025-11-21T22:09:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Avram Piltch",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9049615a529676311c6948dbe675ccb72ab3825f",
-    "title": "How to know if your Asus router is one of thousands hacked by China-state hackers",
-    "link": "https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/",
-    "summary": "So far, the hackers are laying low, likely for later use.",
-    "isoDate": "2025-11-21T22:05:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "ASUS",
-      "consumer routers",
-      "hacking",
-      "state sponsored hacking"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/asus-router-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "56b5c8eaf3d1f5f84e13fa503e2303346bd49e16",
-    "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
-    "link": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
-    "summary": "Google's AI infrastructure chief tells staff it needs thousandfold capacity increase in 5 years.",
-    "isoDate": "2025-11-21T21:47:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Google",
-      "AI chips",
-      "AI compute",
-      "AI development tools",
-      "AI GPU",
-      "AI infrastructure",
-      "alphabet",
-      "Amin Vahdat",
-      "API",
-      "capital expenditures",
-      "cloud computing",
-      "datacenters",
-      "generative ai",
-      "google",
-      "large language models",
-      "machine learning",
-      "Sundar Pichai",
-      "Tensor Processing Unit",
-      "TPU"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/DLS_013-500x500.jpg",
     "pinned": false
   },
   {
