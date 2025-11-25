@@ -1,5 +1,96 @@
 [
   {
+    "id": "3d26d71296fd2620eee660e33a9e1926b3a66df8",
+    "title": "Ukraine first country in Europe to get Starlink satellite phone service",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/ukraine_starlink_direct_to_cell/",
+    "summary": "<h4>Kyivstar begins trials offering SMS connectivity when ground networks fail</h4> <p>Ukrainian telco Kyivstar has launched Starlink's Direct to Cell satellite service for its subscribers, making the war-torn nation the first in Europe to offer it.…</p>",
+    "isoDate": "2025-11-25T12:27:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "13fd7eca94134bc9429c55d077ddcb27cc7f8fde",
+    "title": "Formation of oceans within icy moons could cause the waters to boil",
+    "link": "https://arstechnica.com/science/2025/11/formation-of-oceans-within-icy-moons-could-cause-the-waters-to-boil/",
+    "summary": "A rigid ice shell over a shrinking interior makes for pressures low enough to boil.",
+    "isoDate": "2025-11-25T12:15:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "astronomy",
+      "freezing",
+      "ice",
+      "moons",
+      "oceans",
+      "planetary science"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-3-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "38ab9da5bd5254aa537d755a6c4888296bdcebde",
+    "title": "Lifeboat docks with Tiangong after cracked capsule triggers emergency rendezvous",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/tiangong_astronauts_lifeboat/",
+    "summary": "<h4>Uncrewed Shenzhou also delivered supplies and window fixing kit</h4> <p>China's uncrewed Shenzhou-22 spacecraft has successfully docked with the Tiangong space station, providing relief to the crew who were relying on a damaged capsule with a cracked window as their only ride home.…</p>",
+    "isoDate": "2025-11-25T12:10:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "44c39610fd2a77e009b70736e8a65b354864c75d",
+    "title": "Mushroom foragers collect 160 species for food, medicine, art, and science",
+    "link": "https://arstechnica.com/science/2025/11/mushroom-foragers-collect-160-species-for-food-medicine-art-and-science/",
+    "summary": "Researcher seek to understand the various uses of wild mushroom species.",
+    "isoDate": "2025-11-25T12:00:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Amy Wrobleski, The Conversation",
+    "tags": [
+      "Science",
+      "morel mushrooms",
+      "mushrooms",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1860048338-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a85cc26c81ac23dc6865aa76948d81748d83a5e5",
+    "title": "Tesla to Introduce New Attention Required Icons, Plans to Remove ‘Beta’ from Autosteer",
+    "link": "https://www.notateslaapp.com/news/3354/tesla-to-introduce-new-attention-required-icons-plans-to-remove-beta-from-autosteer",
+    "summary": "Tesla's FSD V14 code reveals the removal of the beta  tag from Autosteer, a new 3-tier driver monitoring system, and geofencing for a European rollout.&hellip; <a href=\"https://www.notateslaapp.com/news/3354/tesla-to-introduce-new-attention-required-icons-plans-to-remove-beta-from-autosteer\">Read More</a>",
+    "isoDate": "2025-11-25T11:39:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/fsd_new_nag_icons_row.png/a070965558ff59969c71bf54fa73251f/fsd_new_nag_icons_row.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9695cf4fa999ec409d7c9182219633caf1fa67c1",
+    "title": "CISA warns spyware crews are breaking into Signal and WhatsApp accounts",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/cisa_spyware_gangs/",
+    "summary": "<h4>Attackers sidestep encryption with spoofed apps and zero-click exploits to compromise 'high-value' mobile users</h4> <p>CISA has warned that state-backed snoops and cyber-mercenaries are actively abusing commercial spyware to break into Signal and WhatsApp accounts, hijack devices, and quietly rummage through the phones of what the agency calls \"high-value\" users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-25T11:32:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "eaba71e5bd090130a43be187a9618a53adc90db1",
     "title": "Russian spy ship theories sink after Orkney blackout traced to wind farm fault",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/russian_warship_fears_orkney/",
@@ -975,42 +1066,6 @@
     "pinned": false
   },
   {
-    "id": "c66d98f77f295c7fc159480cfdafcab3e7240ff9",
-    "title": "Tech company CTO and others indicted for exporting Nvidia chips to China",
-    "link": "https://arstechnica.com/tech-policy/2025/11/tech-company-cto-and-others-indicted-for-exporting-nvidia-chips-to-china/",
-    "summary": "Four arrested and charged with illegal exports, smuggling, and money laundering.",
-    "isoDate": "2025-11-21T20:29:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "chip export controls",
-      "NVIDIA"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/nvidia-chip-500x500-1754500471.jpg",
-    "pinned": false
-  },
-  {
-    "id": "14f7301f632634efa39873816b90cf7851b36516",
-    "title": "Data-driven sport: How Oracle Red Bull Racing and AT&T move terabytes of F1 info",
-    "link": "https://arstechnica.com/cars/2025/11/data-driven-sport-how-red-bull-and-att-move-terabytes-of-f1-info/",
-    "summary": "Since the last time we spoke to the F1 team, its cars have 3 times as many sensors on them.",
-    "isoDate": "2025-11-21T20:19:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "AT&T",
-      "F1",
-      "Formula 1",
-      "Red Bull Racing"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Red-Bulls-in-the-pitlane-LVGP-1-of-1-500x500-1763755037.jpg",
-    "pinned": false
-  },
-  {
     "id": "dc48574033a561c203db9318cfa791de09d16afd",
     "title": "Tesla FSD V14.2 Includes New FSD Stats, UI Improvements and Neural Net Upgrade",
     "link": "https://www.notateslaapp.com/news/3353/tesla-fsd-v142-includes-new-fsd-stats-ui-improvements-and-neural-net-upgrade",
@@ -1115,32 +1170,6 @@
     "pinned": false
   },
   {
-    "id": "a097cb1338cd4d1549de403015fc5248720d5420",
-    "title": "Four charged over alleged plot to smuggle Nvidia AI chips into China",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/nvidia_china_smuggling_charges/",
-    "summary": "<h4>Prosecutors say front companies, falsified paperwork, and overseas drop points used to dodge US export rules</h4> <p>Four people have been charged in the US with plotting to funnel restricted Nvidia AI chips into China, allegedly relying on shell firms, fake invoices, and covert routing to slip cutting-edge GPUs past American export controls.…</p>",
-    "isoDate": "2025-11-21T13:58:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4424f7b94489c2074cfb0d4abc4921b3345e9344",
-    "title": "You are likely to be eaten by the MIT license: Microsoft frees Zork source",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/microsoft_zork_source/",
-    "summary": "<h4>Redmond dusts off Infocom's classic text adventures and puts the originals into public hands</h4> <p>Microsoft developer boss Scott Hanselman saved the company's Ignite shindig this week by unveiling the source code for Zork I-III, all available under the MIT license.…</p>",
-    "isoDate": "2025-11-21T13:54:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "c3b99326c87607163eac66abfd20661d92cf461d",
     "title": "Tesla Update 2025.38.9.5 (FSD V14.2) Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.38.9.5/release-notes",
@@ -1151,19 +1180,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
-    "pinned": false
-  },
-  {
-    "id": "fe735de2b17801b31a8b88344cede20ed6fe92ca",
-    "title": "Magician forgets password to his own hand after RFID chip implant",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/magician_password_hand_rfid/",
-    "summary": "<h4>Storing credentials safely and securely is the real trick</h4> <p>It's important to have your login in hand, literally. Zi Teng Wang, a magician who implanted an RFID chip in his appendage, has admitted losing access to it because he forgot the password.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-21T13:44:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1381,19 +1397,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-app-exit.webp/40f92f8ec4f53ba7b469ec7b4831f157/robotaxi-app-exit.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e7ab68caf7eb41de06d226917bc943fe86f46838",
-    "title": "Tesla's 2025 Holiday Update: What to Expect This Christmas",
-    "link": "https://www.notateslaapp.com/news/3332/teslas-2025-holiday-update-what-to-expect-this-christmas",
-    "summary": "What's in Tesla's 2025 Holiday Update? Our 'Nice List' has Santa Mode & Grok. The 'Naughty List' has moonshots like Text and Drive & Banish.&hellip; <a href=\"https://www.notateslaapp.com/news/3332/teslas-2025-holiday-update-what-to-expect-this-christmas\">Read More</a>",
-    "isoDate": "2025-11-18T12:57:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2021/holiday-update.jpg/1852b4ccd8dac7c762a06147b6c9a4db/holiday-update.jpg",
     "pinned": false
   }
 ]
