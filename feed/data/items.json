@@ -1,5 +1,39 @@
 [
   {
+    "id": "bd42079c7d63415ee92513171183c0167283ea96",
+    "title": "Get ready for 2026, the year of AI-aided ransomware",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/trend_micro_agentic_ai_assisted_ransomware/",
+    "summary": "<h4>State-backed crews are already poking at autonomous tools, Trend Micro warns</h4> <p>Cybercriminals, including ransomware crews, will lean more heavily on agentic AI next year as attackers automate more of their operations, Trend Micro's researchers believe.…</p>",
+    "isoDate": "2025-11-25T16:58:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "08dac59c32ce51f30a9029ef8210624fd1a4ab46",
+    "title": "Valve’s Steam Machine looks like a console, but don’t expect it to be priced like one",
+    "link": "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/",
+    "summary": "Upcoming gaming box will be priced in line with a similarly specced PC, Valve says.",
+    "isoDate": "2025-11-25T16:51:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "pc",
+      "PC gaming",
+      "price",
+      "steam machine",
+      "steam machines",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_back_a-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "0daba4f84bee11265c29cd921d2acdee113216de",
     "title": "Microsoft's fix for slow File Explorer: load it before you need it",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/microsoft_trying_preloading_to_solve/",
@@ -1119,41 +1153,6 @@
       "TPU"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/DLS_013-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2676aab14a4dbc42363c11b05a45259984b6bc3d",
-    "title": "AI trained on bacterial genomes produces never-before-seen proteins",
-    "link": "https://arstechnica.com/science/2025/11/generative-ai-meets-the-genome/",
-    "summary": "Genes with related functions cluster together, and the AI uses that.",
-    "isoDate": "2025-11-21T21:26:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "AI",
-      "Science",
-      "bacteria",
-      "Biology",
-      "Computer science",
-      "evolution",
-      "Genomics",
-      "large language model"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2216287507-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0df919815480d6b5e015e484f009fbdedd3f4732",
-    "title": "Researchers get inside the mind of bots, find out what texts they trained on",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/researchers_better_ai_model_memory_probe/",
-    "summary": "<h4>RECAP agent overcomes model alignment efforts to hide memorized proprietary content</h4> <p>If you've ever wondered whether that chatbot you're using knows the entire text of a particular book, answers are on the way. Computer scientists have developed a more effective way to coax memorized content from large language models, a development that may address regulatory concerns while helping to clarify copyright infringement claims arising from AI model training and inference.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-21T21:10:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
