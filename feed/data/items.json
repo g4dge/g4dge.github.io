@@ -1,5 +1,54 @@
 [
   {
+    "id": "468016c2df3de0e12b19ab21c8a7aea6a003e600",
+    "title": "Norway's most powerful supercomputer will use waste heat to raise salmon",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/norway_salmon_super/",
+    "summary": "<h4>HPE-built system mixes Nvidia's Grace-Hopper superchips with AMD Turin CPUs to maximize HPC potential</h4> <p>This week the Norwegian scientific community celebrated the completion of the Olivia supercomputer, which combines AMD CPUs with Nvidia Superchips to deliver a 16-fold boost to the nation's computing capacity – and eventually put fresh fish on the table.…</p>",
+    "isoDate": "2025-11-26T18:47:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5ca32926b9f0508adcefb09557a166923c594cfb",
+    "title": "Solar’s growth in US almost enough to offset rising energy use",
+    "link": "https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/",
+    "summary": "Over the course of 2025, electricity demand has gradually declined.",
+    "isoDate": "2025-11-26T18:45:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "coal",
+      "Energy",
+      "hydropower",
+      "natural gas",
+      "nuclear",
+      "solar",
+      "US Grid",
+      "Wind"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2231894756-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9c5b39058e382949ea3825b1d5f7364ee7b0ba75",
+    "title": "Botnet takes advantage of AWS outage to smack 28 countries",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/miraibased_botnet_shadowv2/",
+    "summary": "<h4>Even worse, it might have been a 'test run' for future attacks</h4> <p>A Mirai-based botnet named ShadowV2 emerged during last October's widespread AWS outage, infecting IoT devices across industries and continents, likely serving as a \"test run\" for future attacks, according to Fortinet's FortiGuard Labs.…</p>",
+    "isoDate": "2025-11-26T18:44:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "8fb9156f1b844acb582a7897a012d13d1d956e5a",
     "title": "Tesla 2025 Holiday Update Wish List — App Edition",
     "link": "https://www.notateslaapp.com/news/3366/tesla-2025-holiday-update-wish-list-app-edition",
@@ -1060,23 +1109,6 @@
     "pinned": false
   },
   {
-    "id": "af3118e23340bb3f336a94763fc684a979af6ec5",
-    "title": "Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition",
-    "link": "https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/",
-    "summary": "“Why is reverse-engineering prohibited... for a company built on openly hackable systems?”",
-    "isoDate": "2025-11-24T20:45:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "Arduino",
-      "Qualcomm"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1200985324-500x500-1764015023.jpg",
-    "pinned": false
-  },
-  {
     "id": "b0693d5b7ddd648d2aef6484f749010ec28016a7",
     "title": "Ex-CISA officials, CISOs dispel 'hacklore,' spread cybersecurity truths",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/hacklore_launch/",
@@ -1137,32 +1169,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5fca11e8cef7cb92340b5ed5663b50b2a8725c8f",
-    "title": "LisaGUI recreates Apple's innovative computer OS, without emulating it",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/lisagui_lisaos_apple/",
-    "summary": "<h4>Somewhere between a cover version and a loving homage of the interface that helped shape the modern desktop</h4> <p>LisaGUI is a faithful reconstruction of the desktop and user interface of Apple's Lisa, the workstation that fed ideas into the early Macintosh, and it shows that there are still things to learn from that system.…</p>",
-    "isoDate": "2025-11-24T17:41:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a5e7caf78cf9a838cd1e23862579a4937eec0341",
-    "title": "How high-end supercomputer filesystem DAOS can break out of its niche",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/highend_supercomputer_daos/",
-    "summary": "<h4>DAOS needs user education, Nvidia GPU access, and better manageability to grow</h4> <p>DAOS has been a great success in the traditional HPC/supercomputing world, but is nowhere in the new, AI-focused, GPU supercomputing arena. What will it take for DAOS to find customers outside its high-end, legacy supercomputing niche?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-24T16:53:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Chris Mellor",
     "tags": [],
     "image": "",
     "pinned": false
