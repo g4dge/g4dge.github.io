@@ -1,5 +1,71 @@
 [
   {
+    "id": "6be898f014b50f6b9f6cc2a3d14dc8e1cd3dc490",
+    "title": "Canadian data order risks blowing a hole in EU sovereignty",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/canada_court_ovh/",
+    "summary": "<h4>OVH stuck between a rock and a hard place as investigators demand access</h4> <p>A Canadian court has ordered French cloud provider OVHcloud to hand over customer data stored in Europe, potentially undermining the provider's claims about digital sovereignty protections.…</p>",
+    "isoDate": "2025-11-27T12:30:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e688ef90eb82ab2359e36ae5a12b3c2e26ee662b",
+    "title": "Blast from the past: 15 movie gems of 1985",
+    "link": "https://arstechnica.com/culture/2025/11/blast-from-the-past-15-movie-gems-of-1985/",
+    "summary": "Beyond the blockbusters: This watch list has something for everyone over the long holiday weekend.",
+    "isoDate": "2025-11-27T12:15:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "entertainment",
+      "film",
+      "film anniversaries",
+      "listicles"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/ladyhawke3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "82b682c188e5206688dcb9d5a606145d6b38f135",
+    "title": "Scottish council still rebuilding systems two years after ransomware attack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/western_isles_ransomware_council/",
+    "summary": "<h4>Audit sympathetic toward Comhairle nan Eilean Siar as staff stretched to capacity trying to recover</h4> <p>Auditors remain concerned about the cyber resilience of a Scottish council as some systems are yet to be fully rebuilt following a ransomware attack in November 2023.…</p>",
+    "isoDate": "2025-11-27T12:15:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ecd8b6b448cceaa2974eb6b6179141251a0c7d54",
+    "title": "Four-inch worm hatches in woman’s forehead, wriggles to her eyelid",
+    "link": "https://arstechnica.com/health/2025/11/doctors-pull-4-inch-worm-out-of-womans-eyelid-after-monthlong-incubation/",
+    "summary": "The parasite, typically found in dogs, was visibly moving under her skin.",
+    "isoDate": "2025-11-27T12:00:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "CDC",
+      "eye",
+      "Infectious disease",
+      "New England Journal of Medicine",
+      "parasite",
+      "worm"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2009/04/surprised-eye.jpg",
+    "pinned": false
+  },
+  {
     "id": "a7fb1d49185ca4a39674ca22ff68b128990f3a99",
     "title": "One-fifth of the jobs at your company could disappear as AI automation takes off",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/ai_employee_overcapacity_report/",
@@ -1105,79 +1171,6 @@
     "pinned": false
   },
   {
-    "id": "47e5724b2c7a1e24b1bc011705a8b29c3c0db4d4",
-    "title": "AWS to build 1.3 gigawatts of government-grade supercomputing power for Uncle Sam",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/aws_federal_investment/",
-    "summary": "<h4>Aims to wash away Washington's vast tech woes with a dose of cloud magic</h4> <p>Amazon Web Services on Monday announced a plan to build 1.3 gigawatts of compute capacity in new datacenters dedicated to serving the US government, at a cost of up to $50 billion.…</p>",
-    "isoDate": "2025-11-25T02:02:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bf0043ee5e17bc94f0efde85b3e6ba5aab5045bc",
-    "title": "Apple reportedly peels away some sales staff in small round of layoffs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/apple_sales_layoffs_report/",
-    "summary": "<h4>Company has hitherto thought different about sackings</h4> <p>Apple, which unlike its Big Tech peers has not made substantial job cuts, is reportedly in the process of eliminating several dozen positions in its sales organization.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-24T23:31:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "11c11debc7e727729f51fcefc839bf81fe7cd307",
-    "title": "Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model",
-    "link": "https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/",
-    "summary": "Longer chats address a long-standing criticism of Claude.",
-    "isoDate": "2025-11-24T23:15:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Claude",
-      "Claude API",
-      "Claude Code",
-      "large language model",
-      "LLM",
-      "Opus 4.5"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-4.57.28-PM-500x500.png",
-    "pinned": false
-  },
-  {
-    "id": "53275b6b2f4ab9ad26af7e8da0ae1e0850205bb3",
-    "title": "Rivals object to SpaceX’s Starship plans in Florida—who’s interfering with whom?",
-    "link": "https://arstechnica.com/space/2025/11/rivals-object-to-spacexs-starship-plans-in-florida-whos-interfering-with-whom/",
-    "summary": "\"We're going to continue to treat any LOX-methane vehicle with 100 percent TNT blast equivalency.\"",
-    "isoDate": "2025-11-24T22:52:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "cape canaveral space force station",
-      "Kennedy Space Center",
-      "launch",
-      "military space",
-      "NASA",
-      "new glenn",
-      "spacex",
-      "starship",
-      "united launch alliance",
-      "US Space Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Pad37_Fly_Over_Desktop_57943a8aff-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "be1ba0cd8495113176d4867f5649677fe02962ab",
     "title": "Tesla’s Cybertruck Debuts as a Police Vehicle in Las Vegas",
     "link": "https://www.notateslaapp.com/news/3300/teslas-cybertruck-debuts-as-a-police-vehicle-in-las-vegas",
@@ -1403,19 +1396,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybertruck-lightbar-fix.webp/c18ace1a419e99a2b9921a58e87fed35/cybertruck-lightbar-fix.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2efa6cfaa032d25b6e9aee07d86a76451bcdb72a",
-    "title": "Tesla Opens Superchargers to Fleet Cards in Europe",
-    "link": "https://www.notateslaapp.com/news/3343/tesla-opens-superchargers-to-fleet-cards-in-europe",
-    "summary": "Tesla now accepts third-party fleet cards (DKV, WEX, etc.) for Supercharging in Europe.&hellip; <a href=\"https://www.notateslaapp.com/news/3343/tesla-opens-superchargers-to-fleet-cards-in-europe\">Read More</a>",
-    "isoDate": "2025-11-20T11:59:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/0x0-supercharger_09.jpg/6ba101f0a4c45b1d0dd376731d8e9452/0x0-supercharger_09.jpg",
     "pinned": false
   }
 ]
