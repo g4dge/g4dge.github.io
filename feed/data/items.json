@@ -1,5 +1,18 @@
 [
   {
+    "id": "b2dea65fafb592308d32feb28f8f1597a37ce4d9",
+    "title": "AWS builds a DNS backstop to allow changes when its notoriously flaky US East region wobbles",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/aws_dns_us_east_workaround/",
+    "summary": "<h4>60-minute RTO means big outages can still happen</h4> <p>The cause of major internet outages is often the domain name system (DNS) and/or problems at Amazon Web Services’ US East region. The cloud giant has now made a change that will make its own role in such outages less painful.…</p>",
+    "isoDate": "2025-11-27T01:04:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "f3f21dba84506963867f64f120472f0dd29c6656",
     "title": "ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once",
     "link": "https://arstechnica.com/space/2025/11/ula-aimed-to-launch-up-to-10-vulcan-rockets-this-year-it-will-fly-just-once/",
@@ -1145,19 +1158,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7c72eb17d9837ffc0f896e342f7eee0307c6e0b0",
-    "title": "Old-school rotary phone dials into online meetings, hangs up when you slam it down",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/rotary_phone_online_meetings/",
-    "summary": "<h4>Stavros Korokithakis really wanted to slam the receiver on meetings, so he built his own device to do just that</h4> <p>We've all been there: A meeting goes sideways and you really wish you could physically slam the phone down and walk away. Maker Stavros Korokithakis knows that feeling well, so he took an old rotary phone and turned it into a device that can dial into - and hang up on - video calls in a decidedly retro fashion. …</p>",
-    "isoDate": "2025-11-24T18:20:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
