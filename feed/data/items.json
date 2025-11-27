@@ -1,9 +1,48 @@
 [
   {
+    "id": "c37a2867dcca910e70d56abe778dc7e97a4afe1b",
+    "title": "Zendesk users targeted as Scattered Lapsus$ Hunters spin up fake support sites",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/scattered_lapsus_hunters_zendesk/",
+    "summary": "<h4>ReliaQuest finds fresh crop of phishing domains and toxic tickets</h4> <p>Scattered Lapsus$ Hunters may be circling Zendesk users for its latest extortion campaign, with new phishing domains and weaponized helpdesk tickets uncovered by ReliaQuest.…</p>",
+    "isoDate": "2025-11-27T16:30:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "16ac57240f4d80155c24bfe885df2524b55fe9fa",
+    "title": "OpenAI cuts off Mixpanel after analytics leak exposes API users",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/openai_mixpanel_api/",
+    "summary": "<h4>ChatGPT maker places other vendors under review following breach</h4> <p>OpenAI says API users may be affected by a recent breach at its former data analytics provider, Mixpanel.…</p>",
+    "isoDate": "2025-11-27T15:45:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0ebde421a26f9b8e0516087c4c68d5761b7d5ed9",
+    "title": "Tesla Updates App to v4.51.1: Adds FSD Gift Card",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.51.1/release-notes",
+    "summary": "Tesla app update 4.51.1 includes FSD Gift Card. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.51.1/release-notes\">View Release Notes</a>",
+    "isoDate": "2025-11-27T15:40:34Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-51-1/fsd-gift-card-app.webp/75177818501aaabdb2454c38ecd4186d/fsd-gift-card-app.jpg",
+    "pinned": false
+  },
+  {
     "id": "fdaf5fe40c346c025da28206a63ac5b1dbb14a26",
     "title": "Tenstorrent QuietBox tested: A high-performance RISC-V AI workstation trapped in a software blackhole",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/tenstorrent_quietbox_review/",
-    "summary": "<h4>The $12K machine promises AI performance can scale to 32 chip servers and beyond but an immature software stack makes harnessing that compute challenging</h4> <p><strong>hands on</strong>  Tenstorrent probably isn't the first name that springs to mind when it comes to AI infrastructure. But unlike the litany of AI chip startups vying for VC funding and a slice of Nvidia's pie, Tenstorrent's chips actually exist outside the lab.…</p>",
+    "summary": "<h4>$12K machine promises performance that can scale to 32 chip servers and beyond but immature stack makes harnessing compute challenging</h4> <p><strong>hands on</strong>  Tenstorrent probably isn't the first name that springs to mind when it comes to AI infrastructure. But unlike the litany of AI chip startups vying for VC funding and a slice of Nvidia's pie, Tenstorrent's chips actually exist outside the lab.…</p>",
     "isoDate": "2025-11-27T15:00:07Z",
     "source": "The Register",
     "category": "Tech",
@@ -1143,32 +1182,6 @@
     "pinned": false
   },
   {
-    "id": "9695cf4fa999ec409d7c9182219633caf1fa67c1",
-    "title": "CISA warns spyware crews are breaking into Signal and WhatsApp accounts",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/cisa_spyware_gangs/",
-    "summary": "<h4>Attackers sidestep encryption with spoofed apps and zero-click exploits to compromise 'high-value' mobile users</h4> <p>CISA has warned that state-backed snoops and cyber-mercenaries are actively abusing commercial spyware to break into Signal and WhatsApp accounts, hijack devices, and quietly rummage through the phones of what the agency calls \"high-value\" users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-25T11:32:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "eaba71e5bd090130a43be187a9618a53adc90db1",
-    "title": "Russian spy ship theories sink after Orkney blackout traced to wind farm fault",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/russian_warship_fears_orkney/",
-    "summary": "<h4>Timing of Yantar's visit sparked gossip, but engineers point to a misbehaving protection system</h4> <p>Cock-up beats conspiracy most of the time, but that didn't stop Orkney residents wondering if a Russian warship caused their two-hour power cut.…</p>",
-    "isoDate": "2025-11-25T11:01:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Paul Kunert",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "61b59e71d472b041af5ee3ea7a85a03e2b98515c",
     "title": "A wondrous brew",
     "link": "https://aeon.co/essays/the-many-realities-of-ayahuasca-from-rural-peru-to-urban-china?utm_source=rss-feed",
@@ -1409,19 +1422,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/charging-supercharger-vis.webp/8d9c1577d07a3a211ab89236feacb121/charging-supercharger-vis.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6405caadde565ae0a42d765cac5f448e41ce8e86",
-    "title": "Tesla Rolls Out Fix for Cybertruck Off-Road Lightbar",
-    "link": "https://www.notateslaapp.com/news/3338/tesla-rolls-out-fix-for-cybertruck-off-road-lightbar",
-    "summary": "Tesla releases the fix for the Cybertruck Lightbar recall. The procedure involves drilling into the roof frame to install new anchoring brackets.&hellip; <a href=\"https://www.notateslaapp.com/news/3338/tesla-rolls-out-fix-for-cybertruck-off-road-lightbar\">Read More</a>",
-    "isoDate": "2025-11-20T16:01:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybertruck-lightbar-fix.webp/c18ace1a419e99a2b9921a58e87fed35/cybertruck-lightbar-fix.jpg",
     "pinned": false
   }
 ]
