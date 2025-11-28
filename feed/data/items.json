@@ -1,5 +1,66 @@
 [
   {
+    "id": "f21d3d0a5c95687cd52c38511ccae5cef38de3f0",
+    "title": "PostHog admits Shai-Hulud 2.0 was its biggest ever security bungle",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/posthog_shaihulud/",
+    "summary": "<h4>Automation flaw in CI/CD workflow let a bad pull request unleash worm into npm</h4> <p>PostHog says the Shai-Hulud 2.0 npm worm compromise was \"the largest and most impactful security incident\" it's ever experienced after attackers slipped malicious releases into its JavaScript SDKs and tried to auto-loot developer credentials.…</p>",
+    "isoDate": "2025-11-28T16:22:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f590dee1b3fecd360c820ec349c271c83b6aeaa6",
+    "title": "Before a Soyuz launch Thursday someone forget to secure a 20-ton service platform",
+    "link": "https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/",
+    "summary": "\"We are going to learn just how important the ISS is to leadership.\"",
+    "isoDate": "2025-11-28T16:16:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "iss",
+      "launch pad failure",
+      "progress",
+      "russia",
+      "site 31",
+      "soyuz",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/soyuz1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "baea6c2c82444b15fd546463457258dffe25d3ad",
+    "title": "Brit telco Brsk confirms breach as bidding begins for 230K+ customer records",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/brsk_breach/",
+    "summary": "<h4>Crims claim to know which customers are marked 'vulnerable'</h4> <p>British telco Brsk is investigating claims that it was attacked by cybercriminals who made off with more than 230,000 files.…</p>",
+    "isoDate": "2025-11-28T15:52:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e67c21d57f869eaab4f67e70ad500799956497d1",
+    "title": "GrapheneOS bails on OVHcloud over France's privacy stance",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/grapheneos_ovhcloud/",
+    "summary": "<h4>Project cites fears of state access as cloud sovereignty row deepens</h4> <p>French cloud outfit OVHcloud took another hit this week after GrapheneOS, a mobile operating system, said it was ditching the company's servers over concerns about France's approach to digital privacy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-28T15:44:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "4315cc896312c9e09856e8a6389fad1735c923ef",
     "title": "Tesla Launches Free FSD Trials — Try FSD v14.2 for Free",
     "link": "https://www.notateslaapp.com/news/3370/tesla-launches-free-fsd-trials-try-fsd-v142-for-free",
@@ -1091,19 +1152,6 @@
     "pinned": false
   },
   {
-    "id": "7ac7ece00b435a24d6b20586d4a8f0acbfb8b27f",
-    "title": "Nvidia scoffs at threat from Google TPUs after rumored Meta tie-up",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/nvidia_google_tpu_meta/",
-    "summary": "<h4>Embracing the Chocolate Factory's tensor processing units would be easier said than done for The Social Network</h4> <p>Growing demand for Google's homegrown AI accelerators appears to have gotten under Nvidia's skin amid reports that one of the GPU giant's most loyal customers may adopt the Chocolate Factory's tensor processing units (TPUs).…</p>",
-    "isoDate": "2025-11-25T23:16:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "411d9f5210d770332ff8af0d08ed263d5feb68bb",
     "title": "There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests",
     "link": "https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/",
@@ -1120,19 +1168,6 @@
       "weight loss"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2126120280-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "aba5b076f6ccc7d1a116afb9f7b0d7f55c91dc47",
-    "title": "Pebble, the e-ink smartwatch that refuses to die, just went fully open source",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/pebble_eink_smartwatch_open_source/",
-    "summary": "<h4>Eric Migicovsky wants to ensure Pebble can’t be killed again, and DIYers benefit most</h4> <p>Pebble, the e-ink smartwatch with a tumultuous history, is making a move sure to please the DIY enthusiasts that make up the bulk of its fans: Its entire software stack is now fully open source, and key hardware design files are available too.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-25T21:26:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1207,24 +1242,6 @@
       "tiangong"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2248311596-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "32a56b63cf693ccc7567de81ec0e30a9a601c930",
-    "title": "Landlords’ go-to tool to set rent prices to be gutted under RealPage settlement",
-    "link": "https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/",
-    "summary": "RealPage agrees to settle suit over DOJ claims software raised rents across the US.",
-    "isoDate": "2025-11-25T17:51:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "Antitrust law",
-      "price fixing",
-      "realpage"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2154521423-500x500.jpg",
     "pinned": false
   },
   {
@@ -1385,19 +1402,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/fsd-stats.webp/c73035012a29bb9414339228c5c872e5/fsd-stats.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6589d29b76205ce68f4d1e6e606107a547e88e4e",
-    "title": "Tesla Announces Q3 2025 Supercharger Winning Locations",
-    "link": "https://www.notateslaapp.com/news/3352/tesla-announces-q3-2025-supercharger-winning-locations",
-    "summary": "Tesla's Q3 2025 Supercharger Vote winners are announced, and voting for Q4 begins.&hellip; <a href=\"https://www.notateslaapp.com/news/3352/tesla-announces-q3-2025-supercharger-winning-locations\">Read More</a>",
-    "isoDate": "2025-11-21T15:31:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/0x0-supercharger_13.jpg/e2149bbcf65c025e76fa6b3785204366/0x0-supercharger_13.jpg",
     "pinned": false
   }
 ]
