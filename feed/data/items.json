@@ -1,5 +1,68 @@
 [
   {
+    "id": "3f68ede56e12da40ea9468aebf8c8439153660ca",
+    "title": "Windows keeps obsolete strings forever to avoid breaking translations",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/chen_windows_text_translation/",
+    "summary": "<h4>Another reason why the OS seems to swell with every update</h4> <p>Changing text in Microsoft Windows requires freezing string updates well before code changes stop, often leading to strange wording that persists for years.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-11-28T12:31:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "48e145773563291b96c04c13c6cbeed2deb6085a",
+    "title": "Reintroduced carnivores’ impacts on ecosystems are still coming into focus",
+    "link": "https://arstechnica.com/science/2025/11/reintroduced-carnivores-impacts-on-ecosystems-are-still-coming-into-focus/",
+    "summary": "Yellowstone has long been a mecca for scientists studying how predators affect the environment.",
+    "isoDate": "2025-11-28T12:15:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jake Bolster, Inside Climate News",
+    "tags": [
+      "Science",
+      "syndication",
+      "wolves",
+      "yellowstone national park"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2178457506-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1d57d63201c9bbd700786cb30be2863bfd650f07",
+    "title": "OBR drags in cyber bigwig after Budget leak blunder",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/obr_ciaran_martin/",
+    "summary": "<h4>Ex-NCSC chief Ciaran Martin asked to examine how forecast ended up online ahead of schedule</h4> <p>The Office for Budget Responsibility (OBR) has drafted in former National Cyber Security Centre (NCSC) chief Ciaran Martin to sniff out how its Budget day forecast wandered onto the open internet before the Chancellor had even reached the dispatch box.…</p>",
+    "isoDate": "2025-11-28T12:02:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d2526b1c3590e04bd6e74f458d66a1da3f7a18ac",
+    "title": "We put the new pocket-size vinyl format to the test—with mixed results",
+    "link": "https://arstechnica.com/gadgets/2025/11/we-put-the-new-pocket-sized-vinyl-format-to-the-test-with-mixed-results/",
+    "summary": "It's a fun new format, but finding a place in the market may be challenging.",
+    "isoDate": "2025-11-28T12:00:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Chris Foresman",
+    "tags": [
+      "Features",
+      "Tech",
+      "music",
+      "tiny vinyl",
+      "vinyl records"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_0902-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "b8657bb6cf1785b098655251f5ca7ceddf74d40c",
     "title": "UK digital ID plan gets a price tag at last – £1.8B",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/digital_id_cost/",
@@ -1152,53 +1215,6 @@
     "pinned": false
   },
   {
-    "id": "08dac59c32ce51f30a9029ef8210624fd1a4ab46",
-    "title": "Valve’s Steam Machine looks like a console, but don’t expect it to be priced like one",
-    "link": "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/",
-    "summary": "Upcoming gaming box will be priced in line with a similarly specced PC, Valve says.",
-    "isoDate": "2025-11-25T16:51:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "pc",
-      "PC gaming",
-      "price",
-      "steam machine",
-      "steam machines",
-      "Valve"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_back_a-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0daba4f84bee11265c29cd921d2acdee113216de",
-    "title": "Microsoft's fix for slow File Explorer: load it before you need it",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/microsoft_trying_preloading_to_solve/",
-    "summary": "<h4>Windows Insider build intros background loading for faster launches, sidestepping questions about app's sluggishness</h4> <p>Microsoft is tackling File Explorer's sluggish launch times - not by stripping out the bloat or optimizing code, but by preloading the application in the background.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-11-25T15:49:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "471792c3f82e233d87a42f844f860f12dfde5378",
-    "title": "Employee trust in SAP board dips amid ongoing restructure",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/employee_trust_sap/",
-    "summary": "<h4>German mega vendor responds to latest in-house survey</h4> <p>An internal SAP employee survey reveals declining confidence in leadership as the software giant's restructuring program continues, with trust in the executive board waning in the past six months.…</p>",
-    "isoDate": "2025-11-25T14:56:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "30fc1b3fc382433ceea444559ca1753ece317aad",
     "title": "Tesla Unlocks FSD Computer Upgrade Config in ToolBox 3 — Is a HW3 Retrofit Coming?",
     "link": "https://www.notateslaapp.com/news/3358/tesla-unlocks-fsd-computer-upgrade-config-in-toolbox-3-is-a-hw3-retrofit-coming",
@@ -1209,45 +1225,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2022/hardware-3.0.jpg/88c01d085e279bdbae4ab60d8469fe7c/hardware-3.0.jpg",
-    "pinned": false
-  },
-  {
-    "id": "13fd7eca94134bc9429c55d077ddcb27cc7f8fde",
-    "title": "Formation of oceans within icy moons could cause the waters to boil",
-    "link": "https://arstechnica.com/science/2025/11/formation-of-oceans-within-icy-moons-could-cause-the-waters-to-boil/",
-    "summary": "A rigid ice shell over a shrinking interior makes for pressures low enough to boil.",
-    "isoDate": "2025-11-25T12:15:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "astronomy",
-      "freezing",
-      "ice",
-      "moons",
-      "oceans",
-      "planetary science"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-3-500x500.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "44c39610fd2a77e009b70736e8a65b354864c75d",
-    "title": "Mushroom foragers collect 160 species for food, medicine, art, and science",
-    "link": "https://arstechnica.com/science/2025/11/mushroom-foragers-collect-160-species-for-food-medicine-art-and-science/",
-    "summary": "Researchers seek to understand the various uses of wild mushroom species.",
-    "isoDate": "2025-11-25T12:00:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Amy Wrobleski, The Conversation",
-    "tags": [
-      "Science",
-      "morel mushrooms",
-      "mushrooms",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1860048338-500x500.jpg",
     "pinned": false
   },
   {
