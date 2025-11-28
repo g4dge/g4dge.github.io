@@ -1,5 +1,31 @@
 [
   {
+    "id": "4ab25de4e56d2d14cf58a0ea91bc2de14f6f8104",
+    "title": "TryHackMe races to add women to Christmas cyber challenge roster after backlash",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/tryhackme_diversity_row/",
+    "summary": "<h4>Training outfit scrambles to fix all-male lineup before December kickoff</h4> <p>Cybersecurity training provider TryHackMe is scrambling to recruit women infosec pros to help with its Christmas challenge following backlash concerning a lack of gender diversity.…</p>",
+    "isoDate": "2025-11-28T13:32:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8ec86aaddafbc6d5e96ba3abd534e8ed05273441",
+    "title": "GPUs aren't worth their weight in gold – it just feels like they are",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/gold_gpu_weights/",
+    "summary": "<h4>Nvidia's accelerators look pricey, but bullion still wins on cost per ounce</h4> <p>For as long as I have been a reporter and analyst in the IT sector, November has always been supercomputing month. Way before there was a TOP500 ranking of supercomputers in June 1993 but just as I was leaving university, the first Supercomputing Conference was held in Orlando in 1988. And that November SC show set the cadence for high-performance computing for the decades that followed.…</p>",
+    "isoDate": "2025-11-28T12:57:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Timothy Prickett Morgan",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3f68ede56e12da40ea9468aebf8c8439153660ca",
     "title": "Windows keeps obsolete strings forever to avoid breaking translations",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/chen_windows_text_translation/",
@@ -1171,19 +1197,6 @@
     "pinned": false
   },
   {
-    "id": "f7ca505b1b65c8678ff3e9a219bab90ddaec2f65",
-    "title": "HashJack attack shows AI browsers can be fooled with a simple ‘#’",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/hashjack_attack_ai_browser_hashtag/",
-    "summary": "<h4>Hashtag-do-whatever-I-tell-you</h4> <p>Cato Networks says it has discovered a new attack, dubbed \"HashJack,\" that hides malicious prompts after the \"#\" in legitimate URLs, tricking AI browser assistants into executing them while dodging traditional network and server-side defenses.…</p>",
-    "isoDate": "2025-11-25T17:58:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "32a56b63cf693ccc7567de81ec0e30a9a601c930",
     "title": "Landlords’ go-to tool to set rent prices to be gutted under RealPage settlement",
     "link": "https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/",
@@ -1199,19 +1212,6 @@
       "realpage"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2154521423-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bd42079c7d63415ee92513171183c0167283ea96",
-    "title": "Get ready for 2026, the year of AI-aided ransomware",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/trend_micro_agentic_ai_assisted_ransomware/",
-    "summary": "<h4>State-backed crews are already poking at autonomous tools, Trend Micro warns</h4> <p>Cybercriminals, including ransomware crews, will lean more heavily on agentic AI next year as attackers automate more of their operations, Trend Micro's researchers believe.…</p>",
-    "isoDate": "2025-11-25T16:58:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1398,19 +1398,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
-    "pinned": false
-  },
-  {
-    "id": "a750ba7415f23933c2f6547e50fd0c9c71707587",
-    "title": "Tesla Eyes TeraFab AI Chip Factory for Further Vertical Integration",
-    "link": "https://www.notateslaapp.com/news/3312/from-gigafactory-to-terafab-teslas-audacious-plan-to-vertically-integrate-chips",
-    "summary": "Tesla's insatiable AI5 compute demand has outstripped its foundry partners, forcing a new vertical integration strategy: the TeraFab for AI chip production.&hellip; <a href=\"https://www.notateslaapp.com/news/3312/from-gigafactory-to-terafab-teslas-audacious-plan-to-vertically-integrate-chips\">Read More</a>",
-    "isoDate": "2025-11-21T13:07:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/future-rendering-4.webp/e410e381724e03c1692b31115b2602b3/future-rendering-4.jpg",
     "pinned": false
   }
 ]
