@@ -1,5 +1,53 @@
 [
   {
+    "id": "899548d9ee5ba0639418c2e2a45c39fc235326db",
+    "title": "OpenAI desperate to avoid explaining why it deleted pirated book datasets",
+    "link": "https://arstechnica.com/tech-policy/2025/12/openai-desperate-to-avoid-explaining-why-it-deleted-pirated-book-datasets/",
+    "summary": "OpenAI risks increased fines after deleting pirated books datasets.",
+    "isoDate": "2025-12-01T22:16:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ChatGPT",
+      "copyright infringement",
+      "online piracy",
+      "openai",
+      "pirating books",
+      "training data"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1227510667-500x500-1764624514.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a32231ca28eecec64782d260f2a854619fc5ecc8",
+    "title": "Google Antigravity vibe-codes user's entire drive out of existence",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/google_antigravity_wipes_d_drive/",
+    "summary": "<h4>Caveat coder</h4> <p>In what appears to be the latest example of a troubling trend of \"vibe coding\" software development tools behaving badly, a Reddit user is reporting that Google's Antigravity platform improperly wiped out the contents of an entire hard drive partition. …</p>",
+    "isoDate": "2025-12-01T21:45:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ef67848cbace82293c93029ea3743c40c0e765d2",
+    "title": "UK gov blames budget leak on misconfigured WordPress plugin, server",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/uk_budget_leak_blamed_on/",
+    "summary": "<h4>Predictable URLs break security through obscurity and lack of server access controls don't help</h4> <p>WordPress is the world's most popular content management system, but not so much with the UK government. The country's Office for Budget Responsibility (OBR) has blamed an inadvertent budget disclosure last week on misconfiguration of its WordPress website.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-01T21:30:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5b6158dec2a9c05db3a0853ce536854c46a1f301",
     "title": "In Myanmar, illicit rare-earth mining is taking a heavy toll",
     "link": "https://arstechnica.com/science/2025/12/in-myanmar-illicit-rare-earth-mining-is-taking-a-heavy-toll/",
@@ -1101,32 +1149,6 @@
     "pinned": false
   },
   {
-    "id": "cc9dd1f9d402a2ce212132a579a087545e5f861e",
-    "title": "HPC won't be an x86 monoculture forever – and it's starting to show",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/arm_riscv_hpc/",
-    "summary": "<h4>Arm and RISC-V would like a word</h4> <p><strong>Feature</strong>  Remember when high-performance computing always seemed to be about x86? Exactly a decade ago, almost nine in ten supercomputers in the TOP500 (a list of the beefiest machines maintained twice yearly by academics) were Intel-based. Today, it's down to 57 percent.…</p>",
-    "isoDate": "2025-11-27T09:30:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Danny Bradbury",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "86d213823c504241e5a889e85c22378e1c83d9ff",
-    "title": "TSMC lawsuit claims former exec is probably leaking secrets to Intel",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/tsmc_intel_trade_secrets_case/",
-    "summary": "<h4>Chipzilla can certainly use foundry smarts, but denies the allegation</h4> <p>Taiwanese foundry TSMC believes a former executive has leaked company secrets to Intel and is testing the matter in court.…</p>",
-    "isoDate": "2025-11-27T07:26:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "965ab416c72227916039c3d63a8a9864d3573fd1",
     "title": "Tesla Update 2025.39.6 - Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2025.39.6/release-notes",
@@ -1215,28 +1237,6 @@
       "vaccine"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-968446896-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0096a808ea9a8cd80619a48be87b5994a1ae3f73",
-    "title": "OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide",
-    "link": "https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/",
-    "summary": "OpenAI’s response to teen suicide case is “disturbing,” lawyer says.",
-    "isoDate": "2025-11-26T17:47:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "chatbot",
-      "ChatGPT",
-      "mental health",
-      "online child safety",
-      "openai",
-      "suicide"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Matt-and-Adam-Raine-via-Edelson-PC-500x500.jpeg",
     "pinned": false
   },
   {
