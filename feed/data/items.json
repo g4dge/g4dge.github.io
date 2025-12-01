@@ -1,5 +1,51 @@
 [
   {
+    "id": "efc888eca5da84dd2aa3fafc95160e8e00d21ee8",
+    "title": "Search the pre-ChatGPT internet with the Slop Evader browser extension",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/pregpt_slop_evader_browser/",
+    "summary": "<h4>Surf Google SERPs like it's November 29, 2022, with this workaround for the age of AI slop</h4> <p>ChatGPT's public debut on November 30, 2022, is widely seen by critics as the start of the AI-slop era online. Those yearning for a more human-written web can get some relief from a browser extension that filters Google searches to pre-ChatGPT results.…</p>",
+    "isoDate": "2025-12-01T18:16:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "09152d80857593888e14645391702d08460c25b1",
+    "title": "Tesla's Robotic Moonshot: Optimus Gen 3",
+    "link": "https://www.notateslaapp.com/news/3281/teslas-robotic-moonshot-optimus-gen-3",
+    "summary": "Optimus Gen 3 debuts Q1 2026 with 22+ DOF hands, FSD AI, and 1M-unit ramp. Tesla's robotics moonshot starts in factories, scales to homes.&hellip; <a href=\"https://www.notateslaapp.com/news/3281/teslas-robotic-moonshot-optimus-gen-3\">Read More</a>",
+    "isoDate": "2025-12-01T18:13:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/bot_92.jpeg/a758c3a05223df02006c181c6a281139/bot_92.jpg",
+    "pinned": false
+  },
+  {
+    "id": "83e9fe2218cf72e250946ca7e3d1b98ba7d053b0",
+    "title": "Space CEO explains why he believes private space stations are a viable business",
+    "link": "https://arstechnica.com/space/2025/12/space-ceo-explains-why-he-believes-private-space-stations-are-a-viable-business/",
+    "summary": "Voyager Technologies Chairman Dylan Taylor checks in with Ars from the space station frontier.",
+    "isoDate": "2025-12-01T17:40:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "cld",
+      "commercial space stations",
+      "dylan taylor",
+      "NASA",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2219047538-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "6c0ce1516d6a30b017a535a5f3934b874e6720e9",
     "title": "Netflix quietly drops support for casting to most TVs",
     "link": "https://arstechnica.com/gadgets/2025/12/netflix-quietly-drops-support-for-casting-to-most-tvs/",
@@ -1032,19 +1078,6 @@
     "pinned": false
   },
   {
-    "id": "b2dea65fafb592308d32feb28f8f1597a37ce4d9",
-    "title": "AWS builds a DNS backstop to allow changes when its notoriously flaky US East region wobbles",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/aws_dns_us_east_workaround/",
-    "summary": "<h4>60-minute RTO means big outages can still happen</h4> <p>The cause of major internet outages is often the domain name system (DNS) and/or problems at Amazon Web Services’ US East region. The cloud giant has now made a change that will make its own role in such outages less painful.…</p>",
-    "isoDate": "2025-11-27T01:04:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "f3f21dba84506963867f64f120472f0dd29c6656",
     "title": "ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once",
     "link": "https://arstechnica.com/space/2025/11/ula-aimed-to-launch-up-to-10-vulcan-rockets-this-year-it-will-fly-just-once/",
@@ -1063,19 +1096,6 @@
       "vulcan"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/54717981613_7c2acddc58_6k-1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6f072ff0a12c9d9f95d5b16a52ef4a561eda29bf",
-    "title": "Gainsight CEO downplays breach, says only a 'handful' of customers had data stolen",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/gainsight_ceos_handful_customers_data_stolen/",
-    "summary": "<h4>Maybe if your hand has 200+ fingers...</h4> <p>Gainsight CEO Chuck Ganapathi downplayed the victim count related to his company's recent breach, saying he's only aware of \"a handful of customers\" who had their data affected after Salesforce flagged unusual activity involving Gainsight's connected app.…</p>",
-    "isoDate": "2025-11-26T20:37:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1254,25 +1274,6 @@
     "pinned": false
   },
   {
-    "id": "de2f2a9241bd1b845a0df30467faac1b87d3c499",
-    "title": "Crypto hoarders dump tokens as shares tumble",
-    "link": "https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/",
-    "summary": "Several companies are selling crypto stockpiles in effort to fund share buybacks, shore up stock prices.",
-    "isoDate": "2025-11-26T15:37:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nikou Asgari in London and Jill R Shah in New York",
-    "tags": [
-      "Biz & IT",
-      "bitcoin",
-      "crypto",
-      "ether",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1368998806-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2edd82470106f05155802589658e7c9b1f771055",
     "title": "Tesla Updates Dashcam Viewer on Intel Vehicles in Update 2025.44",
     "link": "https://www.notateslaapp.com/news/3342/tesla-new-dashcam-viewer-to-intel-vehicles-in-update-202544",
@@ -1378,19 +1379,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "be1ba0cd8495113176d4867f5649677fe02962ab",
-    "title": "Tesla’s Cybertruck Debuts as a Police Vehicle in Las Vegas",
-    "link": "https://www.notateslaapp.com/news/3300/teslas-cybertruck-debuts-as-a-police-vehicle-in-las-vegas",
-    "summary": "LVMPD's 10 donated Cybertrucks, upfitted by UP.FIT, signal a new, scalable partnership model for Tesla's strategic entry into the police fleet market.&hellip; <a href=\"https://www.notateslaapp.com/news/3300/teslas-cybertruck-debuts-as-a-police-vehicle-in-las-vegas\">Read More</a>",
-    "isoDate": "2025-11-24T17:56:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/las_vegas_ct_2.jpg/8a03b589adcd7e74041b311600d03b41/las_vegas_ct_2.jpg",
     "pinned": false
   }
 ]
