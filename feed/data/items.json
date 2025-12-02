@@ -1,5 +1,62 @@
 [
   {
+    "id": "2a8fb2cc1e1a9bad4d6162cc7e3e61bbd6b8ae16",
+    "title": "SteamOS has problems with 8GB GPUs, but Valve is working on it",
+    "link": "https://arstechnica.com/gadgets/2025/12/steamos-has-problems-with-8gb-gpus-but-valve-is-working-on-it/",
+    "summary": "Valve has work to do on the software side—but some fixes are coming.",
+    "isoDate": "2025-12-02T19:26:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "AMD",
+      "Intel",
+      "NVIDIA",
+      "steam deck",
+      "steam machine",
+      "steamos"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_1114-500x500-1764692507.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "5a6d1c15cdb762999870873cd3eecf5729fa69be",
+    "title": "Google announces second Android 16 release of 2025 is heading to Pixels",
+    "link": "https://arstechnica.com/google/2025/12/google-announces-second-android-16-release-of-2025-is-heading-to-pixels/",
+    "summary": "The update is rolling out to Pixels starting today.",
+    "isoDate": "2025-12-02T19:11:47Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "android",
+      "android 16",
+      "google",
+      "Google Pixel",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-16-1-500x500-1750868871.jpg",
+    "pinned": false
+  },
+  {
+    "id": "136af92ed95623b2fba1081d1b43281c50502894",
+    "title": "Two Android 0-day bugs disclosed and fixed, plus 105 more to patch",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/android_0_days/",
+    "summary": "<h4>Christmas comes early for attackers this year</h4> <p>Two high-severity Android bugs were exploited as zero-days before Google issued a fix, according to its December Android security bulletin. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-02T18:47:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "4037bbe5445edbd704210f97815e6d753fd8f9f4",
     "title": "Differences Spotted in Tesla’s FSD During European Ride-Alongs",
     "link": "https://www.notateslaapp.com/news/3378/differences-spotted-in-teslas-fsd-during-european-ride-alongs",
@@ -1106,29 +1163,6 @@
     "pinned": false
   },
   {
-    "id": "3885e387e06a8bdc0917be59abd62df3205071b4",
-    "title": "Revisiting Jill of the Jungle, the last game Tim Sweeney designed",
-    "link": "https://arstechnica.com/gaming/2025/11/revisiting-jill-of-the-jungle-the-last-game-tim-sweeney-designed/",
-    "summary": "DOS platformers didn't have a reputation for being fun, but this one is a blast.",
-    "isoDate": "2025-11-30T12:10:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Gaming",
-      "C:\\ArsGames",
-      "DOS",
-      "Epic Games",
-      "Epic Megagames",
-      "gog",
-      "Jill of the Jungle",
-      "MS-DOS",
-      "Tim Sweeney"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/jill1-500x500-1764187093.jpg",
-    "pinned": false
-  },
-  {
     "id": "4ff0ec24d3463c7def2b765ad14c7118b02b0a5c",
     "title": "Tesla Starts Offering Customers FSD Rides in Europe",
     "link": "https://www.notateslaapp.com/news/3374/tesla-begins-fsd-ride-along-program-in-europe",
@@ -1139,38 +1173,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6a39e498e1b06fdd9b8a928794b0c68211ae4818",
-    "title": "Achieving lasting remission for HIV",
-    "link": "https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/",
-    "summary": "Promising trials using engineered antibodies suggest that \"functional cures\" may be in reach.",
-    "isoDate": "2025-11-29T12:15:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrea Teagle, Knowable Magazine",
-    "tags": [
-      "Health",
-      "Science",
-      "HIV",
-      "remission",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-685027551-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "43a3adf4dad5a56ac6f56f129431a62ea7ac19e5",
-    "title": "Baikonur's only crew-capable pad busted after Soyuz flight",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/launchpad_damaged_soyuz/",
-    "summary": "<h4>Roscosmos confirms 'damage' as images suggest repairs could stretch into 2027</h4> <p>The pad used by Russia to send Soyuz spacecraft to the International Space Station (ISS) sustained damage during yesterday's crew launch, according to Roscosmos.…</p>",
-    "isoDate": "2025-11-28T17:06:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
