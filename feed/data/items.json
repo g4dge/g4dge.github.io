@@ -1,5 +1,62 @@
 [
   {
+    "id": "8801ce144c9d70a852d9095de22a3037293a288d",
+    "title": "HPE backs AMD's Helios AI rack with Juniper's scale-up switch",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/hpe_amd_helios_racks/",
+    "summary": "<h4>Hardware bundle ties next-gen accelerators to an Ethernet fabric arriving in 2026</h4> <p>HPE is throwing its weight behind AMD's Helios rack-scale architecture and will offer this as part of its AI portfolio next year, including a purpose-built Juniper Networks scale-up switch.…</p>",
+    "isoDate": "2025-12-02T17:15:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b6c1775367f7cb53d08ec2d7895711c9042f034e",
+    "title": "Apple swaps one ex-Google AI chief for another",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/apple_ai_chief/",
+    "summary": "<h4>Amar Subramanya spent mere months at Microsoft before replacing John Giannandrea</h4> <p>Apple's failure to deliver advanced AI capabilities has triggered a changing of the guard. AI chief John Giannandrea is stepping down in favor of a new leader to steady the Siri ship.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-02T16:55:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "266bb1efe1b31f7a234a1869a90833daf0466ec5",
+    "title": "Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price",
+    "link": "https://arstechnica.com/gadgets/2025/12/samsungs-galaxy-z-trifold-is-a-10-inch-tablet-that-fits-in-your-pocket/",
+    "summary": "Samsung's long-awaited tri-fold phone is launching in Korea this month, with a US launch early next year.",
+    "isoDate": "2025-12-02T16:47:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Tech",
+      "Foldables",
+      "Samsung",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Samsung-Mobile-Galaxy-Z-TriFold-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f0d00d1b220c75694ec3b71ac937555af976f26c",
+    "title": "MongoDB talks up its AI chops by talking down PostgreSQL",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/mongodb_postgresql_scalability/",
+    "summary": "<h4>CEO touts win from 'super-high growth' customer that couldn't scale on rival system</h4> <p>At the risk of protesting too much in the shifting database landscape, NoSQL-based MongoDB has attempted to trash the competition by claiming PostgreSQL systems lack scalability to keep up with the demands of AI workloads.…</p>",
+    "isoDate": "2025-12-02T16:43:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "373d6e201706af4ac4c515a701c5979b57f6c0cf",
     "title": "French AI shop Mistral rolls out full suite of Apache-licensed models",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/mistral_3/",
@@ -81,7 +138,8 @@
       "Science",
       "Donald Trump",
       "national renewable energy laboratory",
-      "NREL"
+      "NREL",
+      "syndication"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/98079-500x500.jpg",
     "pinned": false
@@ -138,7 +196,7 @@
     "id": "e6574aadd761415d9543c3ca59b225554c8bb3d7",
     "title": "London grid crunch delays new housing amid datacenter boom",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/london_datacenter_new_homes/",
-    "summary": "<h4>Assembly report urges clearer planning as soaring AI power demands strain capital's network</h4> <p><strong>The Future of the Datacenter</strong>  Access to electricity has become a major source of delay for housebuilding in London, and datacenters are inevitably tied up in this, leading to calls for greater oversight of energy and construction planning so that they keep pace with demand.…</p>",
+    "summary": "<h4>Assembly report urges clearer planning as soaring AI power demands strain capital's network</h4> <p>Access to electricity has become a major source of delay for housebuilding in London, and datacenters are inevitably tied up in this, leading to calls for greater oversight of energy and construction planning so that they keep pace with demand.…</p>",
     "isoDate": "2025-12-02T15:05:41Z",
     "source": "The Register",
     "category": "Tech",
@@ -1112,45 +1170,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/fsd-free-trial.webp/0bb6c9d46a5b8b6fbd0262f5a44d3fa8/fsd-free-trial.jpg",
-    "pinned": false
-  },
-  {
-    "id": "865de9065d073584b23384baecccf14986a26d94",
-    "title": "KDE Plasma sets date to dump X11 as Wayland push accelerates",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/kde_6_8_wayland_only/",
-    "summary": "<h4>If that's a step too far, then there are new versions of CDE – and tmux</h4> <p>The oldest of the open source Linux desktops is planning its final steps away from X11, while an even older Unix desktop is getting freshened up.…</p>",
-    "isoDate": "2025-11-28T15:03:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ed31f3ac648d319b5e1cb6630d53b25b56f1d9f2",
-    "title": "SK hynix wants you to bond with HBM, so it coated corn in banana chocolate",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/sk_hynix_snacks/",
-    "summary": "<h4>Pushes semiconductor familiarity via chip-shaped edible squares</h4> <p>SK hynix has launched HBM-themed square corn snacks at 7-Eleven, because nothing explains bandwidth like carbs and chocolate.…</p>",
-    "isoDate": "2025-11-28T14:15:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4ab25de4e56d2d14cf58a0ea91bc2de14f6f8104",
-    "title": "TryHackMe races to add women to Christmas cyber challenge roster after backlash",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/tryhackme_diversity_row/",
-    "summary": "<h4>Training outfit scrambles to fix all-male lineup before December kickoff</h4> <p>Cybersecurity training provider TryHackMe is scrambling to recruit women infosec pros to help with its Christmas challenge following backlash concerning a lack of gender diversity.…</p>",
-    "isoDate": "2025-11-28T13:32:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
