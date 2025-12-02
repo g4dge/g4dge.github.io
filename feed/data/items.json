@@ -1,5 +1,52 @@
 [
   {
+    "id": "14614f0a28c7ec21181a47e512ee93e4fcb679c7",
+    "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
+    "summary": "<h4>Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons</h4> <p>The Foundation that promotes the Zig programming language has quit GitHub due to what its leadership perceives as the code sharing site's decline.…</p>",
+    "isoDate": "2025-12-02T01:12:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5b965b25d1896afaf3b394c16ed6f6070608cd8e",
+    "title": "AWS: How do you do, fellow kids? Please watch our keynotes in Fortnite",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/aws_reinvent_fortnite/",
+    "summary": "<h4>Drive around a virtual track in Las Vegas while watching Matt Garman speak on in-game billboards</h4> <p><strong>RE:INVENT</strong>  Amazon Web Services has decided to stream all five keynotes from its re:Invent conference in the hit multiplayer game Fortnite, which is more than a little bit bonkers.…</p>",
+    "isoDate": "2025-12-02T00:38:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7d00b3e86a548921b899d37e8bc511ee4da34694",
+    "title": "The missile meant to strike fear in Russia’s enemies fails once again",
+    "link": "https://arstechnica.com/space/2025/12/the-missile-meant-to-strike-fear-in-russias-enemies-fails-once-again/",
+    "summary": "One of Vladimir Putin's favorite sabres to rattle seems to have lost its edge.",
+    "isoDate": "2025-12-01T23:36:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "ICBM",
+      "launch",
+      "russia",
+      "Sarmat",
+      "vladimir putin"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/icbmfailure1-500x433.jpg",
+    "pinned": false
+  },
+  {
     "id": "3ccdb7b1aa1ba12bc7447f941b3b4a9988ab731c",
     "title": "OpenAI money-go-round sees it invest in company that invested in OpenAI",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/openai_takes_ownership_stake_in/",
@@ -404,6 +451,32 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Paul Kunert",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "252d02fdaf65983a1a5bbf5db6a9b7252e102b85",
+    "title": "Voices from the abyss",
+    "link": "https://aeon.co/videos/the-mexican-cliff-divers-who-take-dazzling-leaps-into-the-unknown?utm_source=rss-feed",
+    "summary": "<p><img alt=\"Black-and-white photo of a man diving mid-air against the sky, arms extended and wearing swim briefs.\" src=\"https://images.aeonmedia.co/images/8288fd42-9f57-4cf4-b422-9fa75983b175/voices-from-the-abyss-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>‘I’m left breathless when I face the abyss’ – a stirring portrait of the Mexican cliff divers who leap 100 feet into the sea</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/the-mexican-cliff-divers-who-take-dazzling-leaps-into-the-unknown?utm_source=rss-feed\">Watch on Aeon</a></p>",
+    "isoDate": "2025-12-01T11:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f2ba0b154c24be2ba6da83f9c4ec163c4beb796b",
+    "title": "Cosmic imposters",
+    "link": "https://aeon.co/essays/black-holes-may-be-hiding-something-that-changes-everything?utm_source=rss-feed",
+    "summary": "<p><img alt=\"A black hole, showing a glowing orange-red ring surrounded by darkness, captured by a telescope.\" src=\"https://images.aeonmedia.co/images/e55480ed-84fc-4496-bfb9-75c80cd34e33/esssay-eso2105a-scaled.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>We know that black holes are strange, but they could be hiding something even weirder beyond their horizons</p><p><em>- by Gideon Koekoek</em></p><p><a href=\"https://aeon.co/essays/black-holes-may-be-hiding-something-that-changes-everything?utm_source=rss-feed\">Read on Aeon</a></p>",
+    "isoDate": "2025-12-01T11:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Gideon Koekoek",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1094,19 +1167,6 @@
     "pinned": false
   },
   {
-    "id": "82b682c188e5206688dcb9d5a606145d6b38f135",
-    "title": "Scottish council still rebuilding systems two years after ransomware attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/western_isles_ransomware_council/",
-    "summary": "<h4>Audit sympathetic toward Comhairle nan Eilean Siar as staff stretched to capacity trying to recover</h4> <p>Auditors remain concerned about the cyber resilience of a Scottish council as some systems are yet to be fully rebuilt following a ransomware attack in November 2023.…</p>",
-    "isoDate": "2025-11-27T12:15:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "ecd8b6b448cceaa2974eb6b6179141251a0c7d54",
     "title": "Four-inch worm hatches in woman’s forehead, wriggles to her eyelid",
     "link": "https://arstechnica.com/health/2025/11/doctors-pull-4-inch-worm-out-of-womans-eyelid-after-monthlong-incubation/",
@@ -1125,19 +1185,6 @@
       "worm"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2009/04/surprised-eye.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a7fb1d49185ca4a39674ca22ff68b128990f3a99",
-    "title": "One-fifth of the jobs at your company could disappear as AI automation takes off",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/ai_employee_overcapacity_report/",
-    "summary": "<h4>IT in the firing line as 'legacy' roles under the microscope</h4> <p><strong>AI-pocalypse</strong>  New research suggests AI deployment is creating significant workforce redundancies across major organizations.…</p>",
-    "isoDate": "2025-11-27T11:00:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1200,29 +1247,6 @@
       "vulcan"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/54717981613_7c2acddc58_6k-1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5ca32926b9f0508adcefb09557a166923c594cfb",
-    "title": "Solar’s growth in US almost enough to offset rising energy use",
-    "link": "https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/",
-    "summary": "Over the course of 2025, electricity demand has gradually declined.",
-    "isoDate": "2025-11-26T18:45:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "coal",
-      "Energy",
-      "hydropower",
-      "natural gas",
-      "nuclear",
-      "solar",
-      "US Grid",
-      "Wind"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2231894756-500x500.jpg",
     "pinned": false
   },
   {
