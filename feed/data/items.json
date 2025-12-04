@@ -1,5 +1,62 @@
 [
   {
+    "id": "76ef86f68a54cf740e87fe513acdeb48025d08ad",
+    "title": "Researchers find what makes AI chatbots politically persuasive",
+    "link": "https://arstechnica.com/science/2025/12/researchers-find-what-makes-ai-chatbots-politically-persuasive/",
+    "summary": "A massive study of political persuasion shows AIs have, at best, a weak effect.",
+    "isoDate": "2025-12-04T20:07:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "AI",
+      "Science",
+      "Behavioral science",
+      "chat-gpt",
+      "Computer science",
+      "grok",
+      "Human behavior",
+      "large language models"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/twitter-bot-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "99e9a73b065aa68853d11f801168bbc7386696e0",
+    "title": "Why won’t Steam Machine support HDMI 2.1? Digging in on the display standard drama.",
+    "link": "https://arstechnica.com/gaming/2025/12/why-wont-steam-machine-support-hdmi-2-1-digging-in-on-the-display-standard-drama/",
+    "summary": "Valve tells Ars its \"trying to unblock\" limits caused by open source driver issues.",
+    "isoDate": "2025-12-04T19:53:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "AMD",
+      "drivers",
+      "Steam",
+      "steam machine",
+      "steamos",
+      "Valve",
+      "Windows"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/sm1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2ea9487cc861bbe04d0364d2c3b9c5e2b3e3665b",
+    "title": "Twins who hacked State Dept hired to work for gov again, now charged with deleting databases",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/twin_brothers_charged_with_deleting_databases/",
+    "summary": "<h4>And then they asked an AI to help cover their tracks</h4> <p>Vetting staff who handle sensitive government systems is wise, and so is cutting off their access the moment they're fired. Prosecutors say a federal contractor learned this the hard way when twin brothers previously convicted of hacking-related offenses allegedly used lingering access to delete nearly 100 government databases, including systems tied to Homeland Security and other agencies, within minutes of being terminated.…</p>",
+    "isoDate": "2025-12-04T19:48:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "17f33da4840aee00975b03012527a1421caaa4ee",
     "title": "Tesla May Be Upgrading FSD Cameras Soon",
     "link": "https://www.notateslaapp.com/news/3381/tesla-may-be-upgrading-fsd-cameras-soon",
@@ -724,28 +781,6 @@
     "pinned": false
   },
   {
-    "id": "171b58fc82f45310c27aa4d415f3145de06288e7",
-    "title": "Prime Video pulls eerily emotionless AI-generated anime dubs after complaints",
-    "link": "https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/",
-    "summary": "In some cases, better dubs already existed.",
-    "isoDate": "2025-12-03T18:11:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "AI",
-      "Culture",
-      "Tech",
-      "Amazon",
-      "amazon prime video",
-      "anime",
-      "generative ai",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/cf4e3cf73353496b14e14688baba726e09889d10ccc8c588dd7db36bc058b8df-500x500-1764781738.jpg",
-    "pinned": false
-  },
-  {
     "id": "50ebc8affab9e7e92f4dac884aaadfd4075e783b",
     "title": "Poop-peeping toilet attachment has a different definition of 'end-to-end' encryption",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/pooppeeping_dekoda_toilet_attachment_encryption/",
@@ -756,25 +791,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "39c6e649194703395bf5a96974c5f4dd00f44d6b",
-    "title": "FCC boss Brendan Carr claims another victory over DEI as AT&T drops programs",
-    "link": "https://arstechnica.com/tech-policy/2025/12/fcc-boss-brendan-carr-claims-another-victory-over-dei-as-att-drops-programs/",
-    "summary": "AT&#038;T accused of \"financial play to curry favor\" with Trump administration.",
-    "isoDate": "2025-12-03T17:48:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "AT&T",
-      "brendan carr",
-      "dei",
-      "FCC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/brendan-carrr-scaled-500x500-1742504125.jpg",
     "pinned": false
   },
   {
@@ -1183,19 +1199,6 @@
     "pinned": false
   },
   {
-    "id": "659b4342c4e4a79cbcff8338e5c6697f42c06151",
-    "title": "Kensington and Chelsea confirms IT outage was a data breach after all",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/london_councils_data_breach/",
-    "summary": "<h4>Borough says attackers copied 'historical' info as three-council cyber woes drag on</h4> <p>Kensington and Chelsea Council has admitted that data was quietly lifted from its systems during last week's cyber meltdown, confirming that the outage was not just an IT faceplant but a bona fide data breach.…</p>",
-    "isoDate": "2025-12-02T15:18:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "12795e4c9697dd1de72e756bc82d85203525d746",
     "title": "Desert survivors",
     "link": "https://aeon.co/essays/in-conditions-of-scarcity-elephants-like-humans-dont-play-nice?utm_source=rss-feed",
@@ -1396,19 +1399,6 @@
       "Nutrition"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2305f6a68da7311dcc0a2b67117d61fb0c668d07",
-    "title": "Tesla Update 2025.38.9.6 (FSD V14.2.1) Release Notes",
-    "link": "https://www.notateslaapp.com/software-updates/version/2025.38.9.6/release-notes",
-    "summary": "Tesla software update 2025.38.9.6 (FSD 14.2.1) includes FSD (Supervised) v14.2.1, Arrival Options, Speed Profiles, UI Improvements, Brake Confirm, Full Self-Driving (Supervised), Tron Mode, 3D Buildings, Satellite View, Dashcam Viewer Updates, Side Cameras Recording, New Scroll Wheel Functions, Grok (Beta), Onboarding Guide, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.38.9.6/release-notes\">View Release Notes</a>",
-    "isoDate": "2025-11-27T19:30:09Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
     "pinned": false
   }
 ]
