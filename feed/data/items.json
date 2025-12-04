@@ -1,5 +1,18 @@
 [
   {
+    "id": "a8bbac68acd3b9ec608e79348d235811feff426d",
+    "title": "TLS 1.3 includes welcome improvements, but still allows long-lived secrets",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/tls_13_includes_welcome_improvements/",
+    "summary": "<h4>Tricky tradeoffs are hard to avoid when designing systems, but the choice not to use LLMs for some tasks is clear</h4> <p><strong>Systems Approach</strong>  As we neared the finish line for our <a href=\"https://systemsapproach.org/books-html/#securitybook\">network security book</a>, I received a piece of feedback from Brad Karp that my explanation of forward secrecy in the chapter on <a href=\"https://security.systemsapproach.org/tls.html\">TLS</a> (Transport Layer Security) was not quite right.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-04T04:30:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Bruce Davie",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "daba4160e6ed67be7e65c8c8f8ea5134a363b6d1",
     "title": "Rust core library partly polished for industrial safety spec",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/rust_core_library_partly_polished/",
@@ -1185,19 +1198,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3ccdb7b1aa1ba12bc7447f941b3b4a9988ab731c",
-    "title": "OpenAI money-go-round sees it invest in company that invested in OpenAI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/openai_takes_ownership_stake_in/",
-    "summary": "<h4>Thrive will use the AI-maker's tech in its managed services and accounting businesess</h4> <p>Scratch my back and I'll scratch yours. OpenAI says that it has taken an undisclosed ownership stake in Thrive Holdings, the management-focused offshoot of private equity heavyweight Thrive Capital, which itself is a major investor in the ChatGPT maker.…</p>",
-    "isoDate": "2025-12-01T23:05:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
     "tags": [],
     "image": "",
     "pinned": false
