@@ -1,5 +1,55 @@
 [
   {
+    "id": "b153f0207e62313bc7491146a53aadcf2e57b7d1",
+    "title": "Despite accessing user data, Kohler still says its smart toilet cameras use E2EE",
+    "link": "https://arstechnica.com/gadgets/2025/12/despite-accessing-user-data-kohler-still-says-its-smart-toilet-cameras-use-e2ee/",
+    "summary": "Kohler is getting the scoop on people's poop.",
+    "isoDate": "2025-12-04T21:23:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "cameras",
+      "e2ee",
+      "end to end encryption",
+      "smart home"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/fa9752cdfabfc67f2acd9bfdf4f195ecfdad5f05-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a764dc05c6bfcaa1f36c20d12e0504b8295f8d7a",
+    "title": "Hegseth needs to go to secure messaging school, report says",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/dod_hegseth_broke_pentagon_policy_signal/",
+    "summary": "<h4>He's not alone: DoD inspector general says the whole Defense Department has a messaging security problem</h4> <p>US Defense Secretary Pete Hegseth definitely broke the rules when he sent sensitive information to a Signal chat group, say Pentagon auditors, but he's not the only one using insecure messaging, and everyone needs better training.…</p>",
+    "isoDate": "2025-12-04T21:09:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5f479da7a15e42b51aa6e5f48e7737f67c30db09",
+    "title": "CDC vaccine panel realizes again it has no idea what it’s doing, delays big vote",
+    "link": "https://arstechnica.com/health/2025/12/cdc-vaccine-panel-realizes-again-it-has-no-idea-what-its-doing-delays-big-vote/",
+    "summary": "Today's meeting was chaotic and included garbage anti-vaccine presentations.",
+    "isoDate": "2025-12-04T20:56:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "CDC",
+      "robert f kennedy jr"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "76ef86f68a54cf740e87fe513acdeb48025d08ad",
     "title": "Researchers find what makes AI chatbots politically persuasive",
     "link": "https://arstechnica.com/science/2025/12/researchers-find-what-makes-ai-chatbots-politically-persuasive/",
@@ -717,25 +767,6 @@
     "pinned": false
   },
   {
-    "id": "c383144da7579bfce7b71f3c81899cb0bc5cb534",
-    "title": "Rare win for renewable energy: Trump admin funds geothermal network expansion",
-    "link": "https://arstechnica.com/science/2025/12/rare-win-for-renewable-energy-trump-admin-funds-geothermal-network-expansion/",
-    "summary": "A first-in-the-nation heating and cooling network in Massachusetts is set to double in size.",
-    "isoDate": "2025-12-03T18:35:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Phil McKenna, Inside Climate News",
-    "tags": [
-      "Science",
-      "geothermal",
-      "geothermal energy",
-      "geothermal power",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-527975034-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0f67d2a7f2eade8cf9508dca24454a9728e44036",
     "title": "China's reusable rocket makes it to orbit but fails to stick the landing",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/chinas_reusable_rocket_orbit/",
@@ -746,38 +777,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "70e662de84d7ad9458c36af5fa8f01a38a8b30a8",
-    "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
-    "link": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
-    "summary": "Report: Microsoft declared \"the era of AI agents\" in May, but enterprise customers aren't buying.",
-    "isoDate": "2025-12-03T18:24:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "agentic AI",
-      "AI adoption",
-      "AI agents",
-      "AI infrastructure",
-      "AI spending",
-      "azure",
-      "cloud computing",
-      "copilot",
-      "enterprise AI",
-      "foundry",
-      "generative ai",
-      "machine learning",
-      "microsoft",
-      "Microsoft Copilot",
-      "simulated reasoning",
-      "SR models"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/dartboard_missed-500x500.jpg",
     "pinned": false
   },
   {
@@ -1181,19 +1180,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "23fe07f49de0584cedf62b190d4759251d8d8135",
-    "title": "Amazon primed to fuse Nvidia's NVLink into 4th-gen Trainium accelerators",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/amazon_nvidia_trainium/",
-    "summary": "<h4>Meanwhile, Trainium3 makes its debut promising million-chip training clusters</h4> <p><strong>Re:Invent</strong>  Amazon says that its next generation of homegrown silicon will deliver 6x higher performance thanks to a little help from its buddy Nvidia.…</p>",
-    "isoDate": "2025-12-02T16:00:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
     "tags": [],
     "image": "",
     "pinned": false
