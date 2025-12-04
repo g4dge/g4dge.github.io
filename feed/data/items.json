@@ -1,5 +1,78 @@
 [
   {
+    "id": "c14c037b213bc4f4aefe61338e4465b9a3fdb811",
+    "title": "Trump wants tiny Japanese-style cars for US even as he cuts mpg goals",
+    "link": "https://arstechnica.com/cars/2025/12/trump-wants-tiny-japanese-style-cars-for-us-even-as-he-cuts-mpg-goals/",
+    "summary": "Even the first Trump administration had tougher fuel economy targets.",
+    "isoDate": "2025-12-04T15:28:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "CAFE standards",
+      "fuel economy",
+      "kei cars"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2234137052-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "96e622a7d47f954dcc80e3d21397b8591959524a",
+    "title": "Tesla’s Wireless Phone Chargers: A Hardware and Software Wishlist",
+    "link": "https://www.notateslaapp.com/news/3382/teslas-wireless-phone-chargers-a-hardware-and-software-wishlist",
+    "summary": "Tesla’s wireless chargers are notorious for overheating phones. We analyze the problem, the China-market fix (Model Y L), and the software updates we need now&hellip; <a href=\"https://www.notateslaapp.com/news/3382/teslas-wireless-phone-chargers-a-hardware-and-software-wishlist\">Read More</a>",
+    "isoDate": "2025-12-04T15:14:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-phone-chargers.webp/f854c33d5ff4aaa54a909e87e81ad7a5/model-y-l-phone-chargers.jpg",
+    "pinned": false
+  },
+  {
+    "id": "669c9c72f016c80602b51a84bb9565e8a7d30586",
+    "title": "Lego announces NASA Artemis SLS rocket set to lift off (literally) in 2026",
+    "link": "https://arstechnica.com/space/2025/12/lego-announces-nasa-artemis-sls-rocket-set-to-lift-off-literally-in-2026/",
+    "summary": "Developed with NASA and ESA, the 632-piece kit comes out Jan. 1.",
+    "isoDate": "2025-12-04T15:08:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Robert Pearlman",
+    "tags": [
+      "Space",
+      "42221",
+      "artemis",
+      "Lego",
+      "moon",
+      "NASA",
+      "rocket",
+      "sls",
+      "space collectible",
+      "Space exploration",
+      "space history",
+      "space launch system",
+      "space memorabilia",
+      "space toy",
+      "Technic"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/news-120225b-lg-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "929aa6ffdc415fbca2016c3176827fac9d2b5467",
+    "title": "Microsoft quietly shuts down Windows shortcut flaw after years of espionage abuse",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/microsoft_lnk_bug_fix/",
+    "summary": "<h4>Silent Patch Tuesday mitigation ends ability to hide malicious commands in .lnk files</h4> <p>Microsoft has quietly closed off a critical Windows shortcut file bug long abused by espionage and cybercrime networks.…</p>",
+    "isoDate": "2025-12-04T15:01:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3e5dfc7fdb997084880aebd592ca454cded3b2bf",
     "title": "Latest Windows 11 updates may break the OS's most basic bits",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/windows_11_start_explorer/",
@@ -707,24 +780,6 @@
     "pinned": false
   },
   {
-    "id": "c24fdf7d76c3f93d978b0f3272bfb7fa16067598",
-    "title": "Guitar amp sims have gotten astonishingly good",
-    "link": "https://arstechnica.com/culture/2025/12/guitar-amp-sims-have-gotten-astonishingly-good/",
-    "summary": "There has never been a better time to be a guitarist.",
-    "isoDate": "2025-12-03T12:15:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nate Anderson",
-    "tags": [
-      "Culture",
-      "amp simulations",
-      "guitar amps",
-      "universal audio"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1349412769-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e6958e948c4db9a4e1fdad913d5f4b99b3303f2f",
     "title": "Newly launched civil service pension portal from Capita is crapita, users report",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/capita_civil_service_pension_portal/",
@@ -828,22 +883,6 @@
     "author": "Tobias Mann",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9c9409604d7bba3993fe3e75f8ff557a296a0df7",
-    "title": "More FDA drama: Top drug regulator calls it quits after 3 weeks",
-    "link": "https://arstechnica.com/health/2025/12/more-fda-drama-top-drug-regulator-calls-it-quits-after-3-weeks/",
-    "summary": "The last Trump official in the position left amid allegations of petty revenge.",
-    "isoDate": "2025-12-02T23:17:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "fda"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/02/GettyImages-496532228-500x500.jpg",
     "pinned": false
   },
   {
@@ -1141,19 +1180,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c35f8e44ba4d509e2c91f6971482499e32438a2f",
-    "title": "Two paths to Enlightenment: AV Linux 25 and MX Moksha step forward",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/av_linux_25/",
-    "summary": "<h4>Whether you want a studio rig or a featherweight desktop, MX Linux spins have you covered</h4> <p>AV Linux and MX Moksha are a pair of distros tweaked for audio and music production, each using a different branch of the Enlightenment family of desktops.…</p>",
-    "isoDate": "2025-12-02T11:00:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
