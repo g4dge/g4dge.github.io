@@ -1,5 +1,44 @@
 [
   {
+    "id": "6341b135cccd0cf79c95a6e2ce68b25003151fe0",
+    "title": "Salesforce has come up with the most credible threat yet to ServiceNow, and Benioff is crowing about it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/salesforce_agentforce_vs_servicenow/",
+    "summary": "<h4>Some within the CRM giant balked, but Benioff prevailed</h4> <p>ServiceNow’s dominant spot among IT service management (ITSM) platforms is facing its “most credible” threat to date, as longtime platform rival Salesforce has rolled out an AI agent-powered product that has won early plaudits from one of the largest credit unions in the US.…</p>",
+    "isoDate": "2025-12-05T22:20:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ed85f64015153ce2cd1463dc7c2104b8d568f9a7",
+    "title": "Novel clickjacking attack relies on CSS and SVG",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/css_svg_clickjacking/",
+    "summary": "<h4>Who needs JavaScript?</h4> <p>Security researcher Lyra Rebane has devised a novel clickjacking attack that relies on Scalable Vector Graphics (SVG) and Cascading Style Sheets (CSS).…</p>",
+    "isoDate": "2025-12-05T21:55:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7419ff282cd6462ae21701f7a491841d13ae1187",
+    "title": "Cloudflare blames Friday outage on borked fix for React2shell vuln",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/react2shell_pocs_exploitation/",
+    "summary": "<h4>Security community needs to rally and share more info faster, one researcher says</h4> <p>Amid new reports of attackers pummeling a maximum security hole (CVE-2025-55182) in the React JavaScript library, Cloudflare's technology chief said his company took down its own network, forcing a widespread outage early Friday, to patch React2Shell.…</p>",
+    "isoDate": "2025-12-05T21:46:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3c0307b00ab35513069b3b06102d3e5e7f749cfe",
     "title": "Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming",
     "link": "https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/",
@@ -1150,32 +1189,6 @@
     "pinned": false
   },
   {
-    "id": "1e1a77a37d69d41370dd2467de3873dc4e3c2896",
-    "title": "Microsoft sharpens the blocking axe for Exchange Web Services",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/microsoft_exchange_web_services_mailboxes/",
-    "summary": "<h4>Starting in March, Frontline Worker and Kiosk–only mailboxes lose EWS access</h4> <p>Microsoft is getting serious about the end of Exchange Web Services (EWS) and has announced that, starting in March 2026, it will begin blocking EWS access to mailboxes without license rights.…</p>",
-    "isoDate": "2025-12-03T16:35:44Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c81c8ade025af9c0f4f40e3919d21e79953aed07",
-    "title": "HPE positions Morpheus stack as enterprise alternative to VMware",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/hpe_morpheus_discover/",
-    "summary": "<h4>IT giant touts unified management, stretched clusters, and AI-ready networking at Discover Barcelona</h4> <p>HPE is laying out its enterprise stall with enhancements to its GreenLake hybrid cloud portfolio, while converging its Aruba and Juniper networking to offer customers AIOps across both, plus high-speed connectivity for AI processing.…</p>",
-    "isoDate": "2025-12-03T16:14:18Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "dc9b4f95773351fdd596e5a216a9a08d064f54d3",
     "title": "Tesla's FSD Shadow Mode: What It Is and How It Improves FSD",
     "link": "https://www.notateslaapp.com/news/3108/teslas-fsd-shadow-mode-what-it-is-and-how-it-improves-fsd",
@@ -1186,19 +1199,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-v11.3-1.jpg/812d6091aaf23e44d73de4be9e85e484/fsd-beta-v11.3-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b2e5ef97f8828a1e14ccf5bbec731bbadaf5f4f9",
-    "title": "ISS hits rare full house as all eight docking ports ocupado",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/no_room_at_the_iss/",
-    "summary": "<h4>Russian vehicles will depart soon, but Baikonur launchpad damage clouds future arrivals</h4> <p><strong>Updated</strong>  NASA confirmed this week that for the first time, all eight of the International Space Station's docking ports are currently occupied – four by Russian vehicles.…</p>",
-    "isoDate": "2025-12-03T14:45:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
