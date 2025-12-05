@@ -1,5 +1,59 @@
 [
   {
+    "id": "db7af6550c60f142bf52ebd98d3ccc22a9a32f8d",
+    "title": "UK pushes ahead with facial recognition expansion despite civil liberties backlash",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/uk_cops_facial_recognition/",
+    "summary": "<h4>Plan would create statutory powers for police use of biometrics, prompting warnings of mass surveillance</h4> <p>The UK government has kicked off plans to ramp up police use of facial recognition, undeterred by a mounting civil liberties backlash and fresh warnings that any expansion risks turning public spaces into biometric dragnets.…</p>",
+    "isoDate": "2025-12-05T11:14:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d8af7a15d368eebd4752da1f45a73e6cc1115cda",
+    "title": "FreeBSD 15 trims legacy fat and revamps how OS is built",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/freebsd_15/",
+    "summary": "<h4>Project retires 32-bit ports, embraces pkgbase, and modernizes build process</h4> <p>The latest release of FreeBSD contains a lot of crucial under-the-hood changes – and drops 32-bit support on both x86 and POWER, although ARM-v7 survives.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-05T11:01:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6fe0ca357b8b2b444f2462c5f902779c7c1bb603",
+    "title": "The Skeptic Podcast: Episode #041",
+    "link": "https://www.skeptic.org.uk/2025/12/the-skeptic-podcast-episode-041/",
+    "summary": "<p>Featuring articles from Michael Marshall (Nov 2020), Alice Howarth (Dec 2020), Steve Donnelly (Nov 1988), and Mark Horne (Nov 2021).</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2025/12/the-skeptic-podcast-episode-041/\">The Skeptic Podcast: Episode #041</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2025-12-05T11:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "The Skeptic Podcast",
+    "tags": [
+      "Podcast"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f0d5e9a0f770a67ccf1d49fd81935cf960619572",
+    "title": "Pension portal launch fail sends Capita running to Microsoft for help",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/capita_microsoft_pension_portal/",
+    "summary": "<h4>Union fields member complaints as it presses outsourcer over botched rollout</h4> <p>Capita has sought Microsoft's help after the launch of the Civil Service Pension Scheme (CSPS) left users facing a malfunctioning website designed to process important financial information.…</p>",
+    "isoDate": "2025-12-05T10:38:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "2f41cf45f15a4e527a97d720643aeb4d31279606",
     "title": "Cloudflare suffers second outage in as many months during routine maintenance",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/cloudflare_outage_again/",
@@ -1166,45 +1220,6 @@
     "pinned": false
   },
   {
-    "id": "1830ea3bcb9ea90e0af4fd01b2abe2a94d536278",
-    "title": "AWS offers AI-in-a-box for enterprise datacenters",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/aws_ai_factories/",
-    "summary": "<h4>If sovereignty or on-prem AI matters, the new AI Factories could be for you</h4> <p><strong>re:invent</strong>  Many businesses and government agencies require that all sensitive data stay on-premises for legal or security reasons. If those orgs want to work with AI, they can't rely on regular public clouds, but now they can let AWS build and manage AI hardware and software in their datacenters.…</p>",
-    "isoDate": "2025-12-02T23:03:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "aca3a8c83ec4a6f76cfb12754ca751247b6bc24b",
-    "title": "AWS admits AI coding tools cause problems, reckons its three new agents fix 'em",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/aws_kiro_devops_coding_agents/",
-    "summary": "<h4>Autonomous AI triages DevOps issues and pushes code to repositories, while checking security</h4> <p><strong>Re:Invent</strong>  Amazon is all-in on agentic AI when it comes to software development, and it sincerely hopes you are too, based on Tuesday's AWS re:Invent keynote. …</p>",
-    "isoDate": "2025-12-02T22:46:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "136af92ed95623b2fba1081d1b43281c50502894",
-    "title": "Two Android 0-day bugs disclosed and fixed, plus 105 more to patch",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/android_0_days/",
-    "summary": "<h4>Christmas comes early for attackers this year</h4> <p>Two high-severity Android bugs were exploited as zero-days before Google issued a fix, according to its December Android security bulletin. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-02T18:47:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "4037bbe5445edbd704210f97815e6d753fd8f9f4",
     "title": "Differences Spotted in Tesla’s FSD During European Ride-Alongs",
     "link": "https://www.notateslaapp.com/news/3378/differences-spotted-in-teslas-fsd-during-european-ride-alongs",
@@ -1401,34 +1416,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/fsd-free-trial.webp/0bb6c9d46a5b8b6fbd0262f5a44d3fa8/fsd-free-trial.jpg",
-    "pinned": false
-  },
-  {
-    "id": "162d23ee56c3d958e3f6600225bde87031970090",
-    "title": "The Skeptic Podcast: Episode #040",
-    "link": "https://www.skeptic.org.uk/2025/11/the-skeptic-podcast-episode-040/",
-    "summary": "<p>Featuring articles from Maeve Hanan (October 2024), Michael Marshall (October 2021), Wendy Grossman (January 2023), and Mark Horne (May 2021).</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2025/11/the-skeptic-podcast-episode-040/\">The Skeptic Podcast: Episode #040</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2025-11-28T11:05:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "The Skeptic Podcast",
-    "tags": [
-      "Podcast"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a7fdd4348b3a818bce7ec580b53eff3f556da862",
-    "title": "The guitarist’s palette",
-    "link": "https://aeon.co/essays/how-to-paint-with-sound-by-a-virtuoso-classical-guitarist?utm_source=rss-feed",
-    "summary": "<p><img alt=\"Abstract painting with a guitar and geometric shapes in vibrant colours including yellow, green and blue.\" src=\"https://images.aeonmedia.co/images/d35c2ec2-981b-45cf-af16-ed4a8a2c016d/essay-juan_gris_-_still_life_with_a_guitar.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>In the hands of a great musician, the gloriously simple guitar can create the most complex works of art. Here’s how</p><p><em>- by Craig Ogden</em></p><p><a href=\"https://aeon.co/essays/how-to-paint-with-sound-by-a-virtuoso-classical-guitarist?utm_source=rss-feed\">Read on Aeon</a></p>",
-    "isoDate": "2025-11-28T11:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Craig Ogden",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
