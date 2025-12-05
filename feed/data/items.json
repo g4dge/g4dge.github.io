@@ -1,5 +1,50 @@
 [
   {
+    "id": "a1b56887406fe5dd70471a67a21618cf68d8313a",
+    "title": "Tech leaders fill $1T AI bubble, insist it doesn't exist",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/ai_is_not_a_bubble/",
+    "summary": "<h4>Even as enterprises defer spending and analysts spot dotcom-era warning signs</h4> <p>Tech execs are adamant the AI craze is not a bubble, despite the vast sums of money being invested, overinflated valuations given to AI startups, and reports that many projects fail to make it past the pilot stage.…</p>",
+    "isoDate": "2025-12-05T15:19:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "919a595d694ecefd7783eeb1e0b62975eacd155c",
+    "title": "Knight of the Seven Kingdoms trailer brings levity to Westeros",
+    "link": "https://arstechnica.com/culture/2025/12/knight-of-the-seven-kingdoms-trailer-brings-levity-to-westeros/",
+    "summary": "\"Every knight needs a squire, and you look like you need one more than most.\"",
+    "isoDate": "2025-12-05T15:12:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "George R.R. Martin",
+      "HBO",
+      "Knight of the Seven Kingdoms",
+      "Trailers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/knight1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ae26921cda75637a5f76343ff9baa1c5ee0910bb",
+    "title": "Asus supplier hit by ransomware attack as gang flaunts alleged 1 TB haul",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/asus_supplier_hack/",
+    "summary": "<h4>Laptop maker says a vendor breach exposed some phone camera code, but not its own systems</h4> <p>Asus has admitted that a third-party supplier was popped by cybercrims after the Everest ransomware gang claimed it had rifled through the tech titan's internal files.…</p>",
+    "isoDate": "2025-12-05T14:51:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "62d1887599e799fdb4102371214f23e42e653117",
     "title": "Tesla Launches Official Cybertruck CCS Adapter, but Only in Korea",
     "link": "https://www.notateslaapp.com/news/3384/tesla-launches-official-cybertruck-ccs-adapter-but-only-in-korea",
@@ -1018,26 +1063,6 @@
     "pinned": false
   },
   {
-    "id": "d871bdfb3ebe7ca887d19dca3815573766568856",
-    "title": "Republicans drop Trump-ordered block on state AI laws from defense bill",
-    "link": "https://arstechnica.com/tech-policy/2025/12/republicans-once-again-thwart-trumps-push-to-block-state-ai-laws/",
-    "summary": "“Widespread and powerful movement” keeps Trump from blocking state AI laws.",
-    "isoDate": "2025-12-03T21:06:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI safety",
-      "Donald Trump",
-      "raise act",
-      "state AI laws"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2238395456-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0f67d2a7f2eade8cf9508dca24454a9728e44036",
     "title": "China's reusable rocket makes it to orbit but fails to stick the landing",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/chinas_reusable_rocket_orbit/",
@@ -1176,32 +1201,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0b785e66c7e882398017f2a985c28ef111ca0cd6",
-    "title": "Pat Gelsinger's EUV lithography gig gets $150M wink from Uncle Sam",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/us_150m_xlight/",
-    "summary": "<h4>Commerce Department wants equity in xLight as it backs a free-electron laser to challenge ASML</h4> <p>The US Department of Commerce has signed a preliminary letter of intent to provide up to $150 million to xLight, a Palo Alto-based startup led by former Intel chief Pat Gelsinger, that is working on extreme ultraviolet (EUV) lithography.…</p>",
-    "isoDate": "2025-12-03T10:42:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c77404c8a7e2aeb4287b5f0bed739bcc4c971ea2",
-    "title": "Linux 6.18 arrives as the year's final drop and likely next LTS",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/kernel_version_618/",
-    "summary": "<h4>Bye-bye bcachefs, but hello there bhyve</h4> <p>The last new kernel release of 2025 is here, and it's looking likely this will be the new LTS kernel release.…</p>",
-    "isoDate": "2025-12-03T10:28:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1405,19 +1404,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/future-phones.webp/6f21033520f49db4cbadcdde311b620d/future-phones.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4315cc896312c9e09856e8a6389fad1735c923ef",
-    "title": "Tesla Launches Free FSD Trials — Try FSD v14.2 for Free",
-    "link": "https://www.notateslaapp.com/news/3370/tesla-launches-free-fsd-trials-try-fsd-v142-for-free",
-    "summary": "Tesla is rolling out a new FSD free trial to customers in North America with FSD v14.2.&hellip; <a href=\"https://www.notateslaapp.com/news/3370/tesla-launches-free-fsd-trials-try-fsd-v142-for-free\">Read More</a>",
-    "isoDate": "2025-11-28T15:10:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/fsd-free-trial.webp/0bb6c9d46a5b8b6fbd0262f5a44d3fa8/fsd-free-trial.jpg",
     "pinned": false
   }
 ]
