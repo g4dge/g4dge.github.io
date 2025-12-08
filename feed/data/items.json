@@ -1,5 +1,53 @@
 [
   {
+    "id": "e28018e8e6bac7a04873e475ad2146d97d46f6c2",
+    "title": "DJ Garman drops the ball instead of the bass in AWS re:Invent keynote",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/aws_reinvent_keynote_recap_corey_quinn/",
+    "summary": "<h4>But the 25 announcements in the last 10 minutes included a few well worth waiting for</h4> <p>AWS CEO Matt Garman's annual re:Invent keynote was the best kind of keynote, in that you could have slept in for nearly all of it and still been thrilled to pieces, provided you caught the last ten minutes. He concluded what was otherwise an AI-palooza chock full of boring guest speakers with an Andy Jassy style \"twenty-five releases in ten minutes,\" complete with a basketball-style ten-minute shot clock counting down the time.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-08T22:18:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Corey Quinn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f53b3a37c096378e6d9039e9de2480902c26f7e7",
+    "title": "Meta and Google turn to NextEra to feed insatiable datacenter power hunger",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/nextera_meta_google_datacenter_power/",
+    "summary": "<h4>The Chocolate Factory will also put its AI to work inside one of America’s biggest utilities</h4> <p>NextEra Energy on Monday tightened its grip on hyperscaler power demand, adding 2.5 GW of new renewable projects for Meta while deepening its partnership with Google, which already covers about 3.5 GW of capacity.…</p>",
+    "isoDate": "2025-12-08T22:13:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a2c9d00cee844157af22a3a48604ed35b5aa3fd0",
+    "title": "ICEBlock lawsuit: Trump admin bragged about demanding App Store removal",
+    "link": "https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/",
+    "summary": "ICEBlock creator sues to protect apps that are crowd-sourcing ICE sightings.",
+    "isoDate": "2025-12-08T21:54:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "App Store",
+      "apple",
+      "First Amendment",
+      "free speech",
+      "ice",
+      "iceblock",
+      "immigration and customs enforcement"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2235825531-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "bb55e82f43aac1e03698b8ece4b2fe01762a8eca",
     "title": "ICE-tracking app developer sues Trump admin after Apple spikes the software",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/iceblock_dev_sues_trump_administration/",
@@ -1169,25 +1217,6 @@
     "pinned": false
   },
   {
-    "id": "61df5145a05dfb9937c162ce55a34e9fa1282306",
-    "title": "In comedy of errors, men accused of wiping gov databases turned to an AI tool",
-    "link": "https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/",
-    "summary": "Defendants were convicted of similar crimes a decade ago. How were they cleared again?",
-    "isoDate": "2025-12-04T21:51:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "contractors",
-      "courts",
-      "data theft"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/data-theft-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b181bab196ab123b2eb16e3edaa0c8797ca77a89",
     "title": "OpenAI turns the screws on chatbots to get them to confess mischief",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/openai_bots_tests_admit_wrongdoing/",
@@ -1196,32 +1225,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a764dc05c6bfcaa1f36c20d12e0504b8295f8d7a",
-    "title": "Hegseth needs to go to secure messaging school, report says",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/dod_hegseth_broke_pentagon_policy_signal/",
-    "summary": "<h4>He's not alone: DoD inspector general says the whole Defense Department has a messaging security problem</h4> <p>US Defense Secretary Pete Hegseth definitely broke the rules when he sent sensitive information to a Signal chat group, say Pentagon auditors, but he's not the only one using insecure messaging, and everyone needs better training.…</p>",
-    "isoDate": "2025-12-04T21:09:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2ea9487cc861bbe04d0364d2c3b9c5e2b3e3665b",
-    "title": "Twins who hacked State Dept hired to work for gov again, now charged with deleting databases",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/twin_brothers_charged_with_deleting_databases/",
-    "summary": "<h4>And then they asked an AI to help cover their tracks</h4> <p>Vetting staff who handle sensitive government systems is wise, and so is cutting off their access the moment they're fired. Prosecutors say a federal contractor learned this the hard way when twin brothers previously convicted of hacking-related offenses allegedly used lingering access to delete nearly 100 government databases, including systems tied to Homeland Security and other agencies, within minutes of being terminated.…</p>",
-    "isoDate": "2025-12-04T19:48:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
