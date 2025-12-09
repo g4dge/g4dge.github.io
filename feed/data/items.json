@@ -1,5 +1,18 @@
 [
   {
+    "id": "6fd9ce44257dc9d777008fc7b6c37cb7ae97271d",
+    "title": "Researchers spot 700 percent increase in hypervisor ransomware attacks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/hypervisor_ransomware_attacks_increasing/",
+    "summary": "<h4>Get your Hyper-V and VMware ESXi setups in order, people</h4> <p>Researchers at security software vendor Huntress say they’ve noticed a huge increase in ransomware attacks on hypervisors and urged users to ensure they’re as secure as can be and properly backed up.…</p>",
+    "isoDate": "2025-12-09T06:41:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "0fb207187acd54bfc81fe73358b1fa37db7dd9c7",
     "title": "Intel to explore making chips with mega-corp Tata in India’s first fab",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/intel_tata_india_semiconductor_alliance/",
@@ -1187,19 +1200,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/on_call/",
     "summary": "<h4>Medical software maker also had a vastly unhealthy approach to security</h4> <p><strong>On Call</strong>  Welcome to another installment of On Call, <i>The Register</i>'s Friday column that tries to improve the health of the tech support ecosystem by sharing readers' sickening stories of bringing broken tech back from the brink.…</p>",
     "isoDate": "2025-12-05T07:30:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "08b7fa1eee85d68cab8cc66db32f18785c5c0b49",
-    "title": "Proxmox delivers its software-defined datacenter contender and VMware escape hatch",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/",
-    "summary": "<h4>New ‘Datacenter Manager’ manages VMs across multiple sites or clusters</h4> <p>Open source virtualization project Proxmox has delivered the first full and stable release of its Datacenter Manager product, making it a more viable alternative as a private cloud platform.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-05T04:33:27Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
