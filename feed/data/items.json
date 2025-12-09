@@ -1,5 +1,75 @@
 [
   {
+    "id": "5a94a58ccb3c343fb8214e6b4bb1013f2fdeeb12",
+    "title": "Porsche panic in Russia as pricey status symbols forget how to car",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/porsche_bricked_russia/",
+    "summary": "<h4>Satellite silence trips immobilizers, leaving owners stuck</h4> <p>Hundreds of Porsches in Russia were rendered immobile last week, raising speculation of a hack, but the German carmaker tells <em>The Register</em> that its vehicles are secure.…</p>",
+    "isoDate": "2025-12-09T17:16:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Paul Kunert",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2de1c5dec3e10f9e488344826f3318bdd9a2c08e",
+    "title": "Window Maker Live 13.2 brings 32-bit life to Debian 13",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/microsoft_windows_maker_live_132/",
+    "summary": "<h4>Trixie may have gone 64-bit for installs, but WMLive still ships an i686-bootable build</h4> <p>Window Maker Live 13.2 is stubbornly keeping 32-bit PCs alive on Debian 13 \"Trixie,\" shipping a new release that boots on i686 hardware.…</p>",
+    "isoDate": "2025-12-09T17:02:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0a9e197b30c0cd20ba3def9d06a2cb036ef6768d",
+    "title": "Google is reviving wearable gesture controls, but only for the Pixel Watch 4",
+    "link": "https://arstechnica.com/gadgets/2025/12/google-is-reviving-wearable-gesture-controls-but-only-for-the-pixel-watch-4/",
+    "summary": "Google will let you select and dismiss with a gesture, but only on the newest watch.",
+    "isoDate": "2025-12-09T17:00:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "google",
+      "smartwatches"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Pixel-watch-4-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3986cf6cc6d3d3c19e0964a0af881ed46ad7d46e",
+    "title": "Activist groups urge Congress to pause US datacenter buildouts",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/datacenter_pause_congress_help/",
+    "summary": "<h4>Bad for consumers, bad for the environment, 230+ groups say</h4> <p>More than 230 organizations across America have signed a letter calling for a moratorium on the construction of datacenters, claiming the current building boom represents a huge environmental and social threat.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-09T17:00:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e20116c5e293d6f6ff0ebcb09113a926d610b035",
+    "title": "Tesla Adds Vehicle Locator Feature to Tesla App",
+    "link": "https://www.notateslaapp.com/news/3406/tesla-adds-vehicle-locator-feature-to-tesla-app",
+    "summary": "Tesla app v4.51.5 introduces a directional arrow and live distance readout to the Location row, simplifying vehicle retrieval with real-time compass guidance.&hellip; <a href=\"https://www.notateslaapp.com/news/3406/tesla-adds-vehicle-locator-feature-to-tesla-app\">Read More</a>",
+    "isoDate": "2025-12-09T16:43:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-51-5/vehicle-locator-app.webp/b549423f88d41ccc2ff4ec0ef742c2d4/vehicle-locator-app.jpg",
+    "pinned": false
+  },
+  {
     "id": "0ebbf03ebda79d99a1a5ffc3c6931da6492ef52e",
     "title": "Brazil weakens Amazon protections days after COP30",
     "link": "https://arstechnica.com/science/2025/12/days-after-cop30-brazil-weakened-amazon-safeguards/",
@@ -94,7 +164,6 @@
     "category": "Tech",
     "author": "Stephen Clark",
     "tags": [
-      "Science",
       "Space",
       "golden dome",
       "military space",
@@ -1047,19 +1116,6 @@
     "pinned": false
   },
   {
-    "id": "7419ff282cd6462ae21701f7a491841d13ae1187",
-    "title": "Cloudflare blames Friday outage on borked fix for React2shell vuln",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/react2shell_pocs_exploitation/",
-    "summary": "<h4>Security community needs to rally and share more info faster, one researcher says</h4> <p>Amid new reports of attackers pummeling a maximum security hole (CVE-2025-55182) in the React JavaScript library, Cloudflare's technology chief said his company took down its own network, forcing a widespread outage early Friday, to patch React2Shell.…</p>",
-    "isoDate": "2025-12-05T21:46:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "3c0307b00ab35513069b3b06102d3e5e7f749cfe",
     "title": "Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming",
     "link": "https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/",
@@ -1079,19 +1135,6 @@
       "warner bros. discovery"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249474258-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "10c13a49b6fd4a630ddafd97748bdc409433afe8",
-    "title": "EU metes out first-ever Digital Services Act fine, dings X for blue check deception",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/eu_fines_x_dsa/",
-    "summary": "<h4>TikTok, by contrast, satisfied DSA concerns over its ad repository transparency</h4> <p>The European Union has issued its first-ever Digital Services Act fine, slapping Elon Musk's X with a €120 million penalty for breaching the bloc's rules on ad transparency, data access for researchers, and its revamped blue-checkmark system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-05T18:05:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1159,19 +1202,6 @@
     "pinned": false
   },
   {
-    "id": "fa96006dda5ce6dfd1d43e24b4a8a775655e7956",
-    "title": "Microsoft 365 boosts prices in 2026 … to pay for more AI and security",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/microsoft_365_prices_up_2026/",
-    "summary": "<h4>All those new features won’t fund themselves</h4> <p>Microsoft 365 customers have gotten an early Christmas present from Santa Satya: price rises. All that AI goodness isn't going to pay for itself.…</p>",
-    "isoDate": "2025-12-05T16:39:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "698f4ca18ddba304925f7c50a8cf0fa7a7b2321d",
     "title": "Tesla Introduces Early Eyes-Off Feature; Allows to Text and Drive",
     "link": "https://www.notateslaapp.com/news/3383/tesla-introduces-early-eyes-off-feature-allows-to-text-and-drive",
@@ -1182,28 +1212,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "247914e2216cb7e871a6d0410641a7cfeed61fbd",
-    "title": "Elon Musk’s X first to be fined under EU’s Digital Services Act",
-    "link": "https://arstechnica.com/tech-policy/2025/12/elon-musks-x-first-to-be-fined-under-eus-digital-service-act/",
-    "summary": "The biggest changes Musk made to Twitter trigger a $140 million fine under DSA.",
-    "isoDate": "2025-12-05T16:15:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "api access",
-      "blue checkmark",
-      "Digital Services Act",
-      "Elon Musk",
-      "online ads",
-      "Twitter",
-      "X"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1244760380-2-500x500.jpg",
     "pinned": false
   },
   {
