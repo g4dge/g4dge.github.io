@@ -1,5 +1,50 @@
 [
   {
+    "id": "1aa0fba5f5d4fe48ede2574825d0d1190e8437b7",
+    "title": "Feds bust nefarious plot to ship Nvidia H200s to China and hurt US",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/feds_bust_nefarious_plot_to/",
+    "summary": "<h4>As Trump gives green light to ship Nvidia H200s to China and boost US</h4> <p>Three US-based businessmen face potential prison sentences after authorities dismantled a smuggling network accused of funneling hundreds of millions of dollars worth of Nvidia GPUs to China.…</p>",
+    "isoDate": "2025-12-09T15:28:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Paul Kunert",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "bdb755910d6da282f92ac404e1ed0111766a731c",
+    "title": "Pebble maker announces Index 01, a smart-ish ring for under $100",
+    "link": "https://arstechnica.com/gadgets/2025/12/resurrected-pebble-maker-announces-a-kind-of-smart-ring-for-capturing-audio-notes/",
+    "summary": "The Pebble Index 01 isn't quite a smart ring, but it can do some smart things.",
+    "isoDate": "2025-12-09T15:00:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Tech",
+      "Artificial Intelligence",
+      "Pebble",
+      "wearables"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Index01-polished-silver-rocks-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b662f203e52921d49ed3bc35b81f9a9e9a30a25d",
+    "title": "As humanoid robots enter the mainstream, security pros flag the risk of botnets on legs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/humanoid_robot_security/",
+    "summary": "<h4>Have we learned nothing from sci-fi films and TV shows?</h4> <p><strong>Interview</strong>  Imagine botnets in physical form and you've got a pretty good idea of what could go wrong with the influx of AI-infused humanoid robots expected to integrate into society over the next few decades.…</p>",
+    "isoDate": "2025-12-09T15:00:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "44756a6558947badbec706d940996304ad04183a",
     "title": "Tesla App Holiday Update Features",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.51.5/release-notes",
@@ -1107,19 +1152,6 @@
     "pinned": false
   },
   {
-    "id": "ae26921cda75637a5f76343ff9baa1c5ee0910bb",
-    "title": "Asus supplier hit by ransomware attack as gang flaunts alleged 1 TB haul",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/asus_supplier_hack/",
-    "summary": "<h4>Laptop maker says a vendor breach exposed some phone camera code, but not its own systems</h4> <p>Asus has admitted that a third-party supplier was popped by cybercrims after the Everest ransomware gang claimed it had rifled through the tech titan's internal files.…</p>",
-    "isoDate": "2025-12-05T14:51:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "62d1887599e799fdb4102371214f23e42e653117",
     "title": "Tesla Launches Official Cybertruck CCS Adapter, but Only in Korea",
     "link": "https://www.notateslaapp.com/news/3384/tesla-launches-official-cybertruck-ccs-adapter-but-only-in-korea",
@@ -1130,19 +1162,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybertruck_ccs1.jpg/da4c9b6e4cc907cc91acf4206e08968f/cybertruck_ccs1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4393a2f762796b6e5401c9bfde48980388d64dc6",
-    "title": "Beijing-linked hackers are hammering max-severity React bug, AWS warns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/aws_beijing_react_bug/",
-    "summary": "<h4>State-backed attackers started poking flaw as soon as it dropped – anyone still unpatched is on borrowed time</h4> <p>Amazon has warned that China-nexus hacking crews began hammering the critical React \"React2Shell\" vulnerability within hours of disclosure, turning a theoretical CVSS-10 hole into a live-fire incident almost immediately.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-05T14:10:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1246,28 +1265,6 @@
       "Vaccinations"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ef6a04e02406c459b639e81ff86fa790f6a914fa",
-    "title": "Congress warned that NASA’s current plan for Artemis “cannot work”",
-    "link": "https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/",
-    "summary": "\"The Artemis III mission and those beyond should be canceled.\"",
-    "isoDate": "2025-12-04T22:54:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "artemis",
-      "congress",
-      "griffin",
-      "NASA",
-      "space",
-      "spacex",
-      "starship"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2207557317-500x500.jpg",
     "pinned": false
   },
   {
