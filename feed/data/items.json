@@ -1,5 +1,110 @@
 [
   {
+    "id": "0ebbf03ebda79d99a1a5ffc3c6931da6492ef52e",
+    "title": "Brazil weakens Amazon protections days after COP30",
+    "link": "https://arstechnica.com/science/2025/12/days-after-cop30-brazil-weakened-amazon-safeguards/",
+    "summary": "Backed by powerful corporations, nations are giving public false choices: Environmental protection or economic growth.",
+    "isoDate": "2025-12-09T16:10:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Bob Berwyn",
+    "tags": [
+      "Science",
+      "amazon rainforest",
+      "Brazil",
+      "climate policy",
+      "cop30",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1249347312-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "239d8855aad5f1dc867cbd224ae1c569f7310ef7",
+    "title": "Tesla Launches New Dashcam Tool for Viewing Vehicle Telemetry Data",
+    "link": "https://www.notateslaapp.com/news/3407/tesla-launches-new-dashcam-tool-for-viewing-vehicle-telemetry-data",
+    "summary": "Tesla releases an official  Dashcam tool on GitHub, allowing owners to view frame-by-frame telemetry like autopilot state, braking, and steering angle locally.&hellip; <a href=\"https://www.notateslaapp.com/news/3407/tesla-launches-new-dashcam-tool-for-viewing-vehicle-telemetry-data\">Read More</a>",
+    "isoDate": "2025-12-09T16:10:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/dashcam-tool.webp/ca23199903a74951e742f7d4ead98ed2/dashcam-tool.jpg",
+    "pinned": false
+  },
+  {
+    "id": "545db7f971bd0e1c93b89bc5e15131a1a0179f24",
+    "title": "Google's AI training tactics land it in another EU antitrust fight",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/eu_google_ai_antitrust/",
+    "summary": "<h4>Brussels probes whether unpaid web and YouTube content – and rivals' lock-outs – amount to abuse of dominance</h4> <p>The European Commission is launching an antitrust probe at Google for allegedly using web and YouTube content to train its AI algorithms while putting competitors at a disadvantage.…</p>",
+    "isoDate": "2025-12-09T16:05:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ed3b0b8b21a1fcd43fa98438205c2bba7d3bb37e",
+    "title": "Pompeii construction site confirms recipe for Roman concrete",
+    "link": "https://arstechnica.com/science/2025/12/study-confirms-romans-used-hot-mixing-to-make-concrete/",
+    "summary": "Latest results from a recently discovered ancient Roman construction site confirm earlier findings.",
+    "isoDate": "2025-12-09T16:00:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "Archaeology",
+      "materials science",
+      "Pompeii",
+      "Roman concrete"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/concrete1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "00f453cb9a66dd56cf48535d0614313828c29f9e",
+    "title": "In a major new report, scientists build rationale for sending astronauts to Mars",
+    "link": "https://arstechnica.com/space/2025/12/in-a-major-new-report-scientists-build-rationale-for-sending-astronauts-to-mars/",
+    "summary": "\"Everyone is inspired by this because it's becoming real.\"",
+    "isoDate": "2025-12-09T16:00:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "astronauts",
+      "life",
+      "Mars",
+      "NASA",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/file-20250327-56-dflaq1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6a93aa3d49c3733edff5c75d12cc4c39508a0333",
+    "title": "Asked why we need Golden Dome, the man in charge points to a Hollywood film",
+    "link": "https://arstechnica.com/space/2025/12/asked-why-we-need-golden-dome-the-man-in-charge-points-to-a-hollywood-film/",
+    "summary": "\"If they see how prepared we are, no one starts a nuclear war.\"",
+    "isoDate": "2025-12-09T15:35:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "golden dome",
+      "military space",
+      "missile defense",
+      "US Space Force"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/5208709-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "1aa0fba5f5d4fe48ede2574825d0d1190e8437b7",
     "title": "Feds bust nefarious plot to ship Nvidia H200s to China and hurt US",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/feds_bust_nefarious_plot_to/",
@@ -1102,56 +1207,6 @@
     "pinned": false
   },
   {
-    "id": "87a23bda600f209b516c043b78b6e995fef7b2b2",
-    "title": "Toyota’s new GR GT picks up where the 2000GT and Lexus LFA left off",
-    "link": "https://arstechnica.com/cars/2025/12/toyota-busts-out-a-new-flagship-gazoo-racing-coupe-plus-gt3-version/",
-    "summary": "The GR GT is a V8 hybrid, and there's an electric Lexus sports car concept, too.",
-    "isoDate": "2025-12-05T15:55:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Lexus LFA",
-      "Toyota GR GT",
-      "Toyota GR GT3"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/20251205_01_01-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a1b56887406fe5dd70471a67a21618cf68d8313a",
-    "title": "Tech leaders fill $1T AI bubble, insist it doesn't exist",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/ai_is_not_a_bubble/",
-    "summary": "<h4>Even as enterprises defer spending and analysts spot dotcom-era warning signs</h4> <p>Tech execs are adamant the AI craze is not a bubble, despite the vast sums of money being invested, overinflated valuations given to AI startups, and reports that many projects fail to make it past the pilot stage.…</p>",
-    "isoDate": "2025-12-05T15:19:49Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "919a595d694ecefd7783eeb1e0b62975eacd155c",
-    "title": "Knight of the Seven Kingdoms trailer brings levity to Westeros",
-    "link": "https://arstechnica.com/culture/2025/12/knight-of-the-seven-kingdoms-trailer-brings-levity-to-westeros/",
-    "summary": "\"Every knight needs a squire, and you look like you need one more than most.\"",
-    "isoDate": "2025-12-05T15:12:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "George R.R. Martin",
-      "HBO",
-      "Knight of the Seven Kingdoms",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/knight1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "62d1887599e799fdb4102371214f23e42e653117",
     "title": "Tesla Launches Official Cybertruck CCS Adapter, but Only in Korea",
     "link": "https://www.notateslaapp.com/news/3384/tesla-launches-official-cybertruck-ccs-adapter-but-only-in-korea",
@@ -1175,51 +1230,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/autonomy_visualized_4_dark-dark.jpg/1656c91c13501dfd1f4cced6139f9640/autonomy_visualized_4_dark-dark.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2853e1b952acd4910a404968c14f44235b9ec268",
-    "title": "New report warns of critical climate risks in Arab region",
-    "link": "https://arstechnica.com/science/2025/12/new-report-warns-of-critical-climate-risks-in-arab-region/",
-    "summary": "Foundations of daily life are being pushed to the brink by human-caused warming.",
-    "isoDate": "2025-12-05T12:15:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Bob Berwyn, Inside Climate News",
-    "tags": [
-      "Science",
-      "arabian peninsula",
-      "climate change",
-      "extreme heat",
-      "heat index",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_0073-2048x1366-1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "39543c7eb370233011c9b1ed9384dcb22fa0644f",
-    "title": "Rocket Report: Blunder at Baikonur; do launchers really need rocket engines?",
-    "link": "https://arstechnica.com/space/2025/12/rocket-report-openais-launch-overture-south-korea-making-progress-in-space/",
-    "summary": "The Department of the Air Force approves a new home in Florida for SpaceX's Starship.",
-    "isoDate": "2025-12-05T12:00:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "isar aerospace",
-      "launch",
-      "openai",
-      "rocket report",
-      "South Korea",
-      "spacex",
-      "starship",
-      "stoke space",
-      "vega c"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/nurilift-500x500.jpg",
     "pinned": false
   },
   {
@@ -1413,19 +1423,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla-motorcycle.webp/3da6c51b6eb377d1bb24f828ff62859a/tesla-motorcycle.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cf8f81d471dd4eb9cdf48778eb128b169a852125",
-    "title": "The Essential Tesla Accident Guide: Information to Know Before It Happens",
-    "link": "https://www.notateslaapp.com/news/3194/the-essential-tesla-accident-guide-information-to-know-before-it-happens",
-    "summary": "A comprehensive safety guide for Tesla owners covering what to do in an accident, from using manual door releases to special scenarios like submersion.&hellip; <a href=\"https://www.notateslaapp.com/news/3194/the-essential-tesla-accident-guide-information-to-know-before-it-happens\">Read More</a>",
-    "isoDate": "2025-12-02T16:22:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla-model-components.webp/c950d4226cafb85f22ddd0e9a5915b3c/tesla-model-components.jpg",
     "pinned": false
   }
 ]
