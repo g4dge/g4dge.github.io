@@ -1,5 +1,89 @@
 [
   {
+    "id": "c2ab25dfc9efa08569ace9ee66d5d6e37c4ed4ab",
+    "title": "US taking 25% cut of Nvidia chip sales “makes no sense,” experts say",
+    "link": "https://arstechnica.com/tech-policy/2025/12/us-taking-25-cut-of-nvidia-chip-sales-makes-no-sense-experts-say/",
+    "summary": "Trump’s odd Nvidia reversal may open the door for China to demand Blackwell access.",
+    "isoDate": "2025-12-10T18:30:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI chips",
+      "china",
+      "Donald Trump",
+      "NVIDIA",
+      "us-china trade war"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2212801610-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "29208c1930b042be28cf1b6e8850c73fd5183aa5",
+    "title": "After key Russian launch site is damaged, NASA accelerates Dragon supply missions",
+    "link": "https://arstechnica.com/space/2025/12/after-key-russian-launch-site-is-damaged-nasa-accelerates-dragon-supply-missions/",
+    "summary": "It is by no means certain that Russia will be able to fix Site 31 soon.",
+    "isoDate": "2025-12-10T18:13:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "dragon",
+      "russia",
+      "site 31",
+      "space",
+      "spacex"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/51842830239_a0768f7dc5_k-500x500-1730824680.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b30f7a31555c7e85a6a008e07d131e8f9d6b5594",
+    "title": "Ugly infotainment mars the 2025 Subaru Forester Hybrid experience",
+    "link": "https://arstechnica.com/cars/2025/12/ugly-infotainment-mars-the-2025-subaru-forester-hybrid-experience/",
+    "summary": "It drives fine, but the first hybrid Forester is not without its flaws.",
+    "isoDate": "2025-12-10T18:00:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "2025 Subaru Forester Hybrid",
+      "car review"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/2025-Subaru-Forester-Hybrid-1-of-14-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8cb8d547a6d2e5c046bd81029fc59cfbf860d9d8",
+    "title": "US extradites Ukrainian woman accused of hacking meat processing plant for Russia",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/10/pro_russia_hacktivist_charged/",
+    "summary": "<h4>The digital intrusion allegedly caused thousands of pounds of meat to spoil and triggered an ammonia leak in the facility</h4> <p>A Ukrainian woman accused of hacking US public drinking water systems and a meat processing facility on behalf of Kremlin-backed cyber groups was extradited to the US earlier this year and will stand trial in early 2026.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-10T17:56:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1c73a3767f6d715af0af18a7ac9a8b8e71df8a21",
+    "title": "Microsoft won’t fix .NET RCE bug affecting slew of enterprise apps, researchers say",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/10/microsoft_wont_fix_net_rce/",
+    "summary": "<h4>Devs and users should know better, Microsoft tells watchTowr</h4> <p>Security researchers have revealed a .NET security flaw thought to affect a host of enterprise-grade products that they say Microsoft refuses to fix.…</p>",
+    "isoDate": "2025-12-10T17:30:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e29a328d83728396307f308ffcc061a28bf292b5",
     "title": "Welcome to America - now show us your last five years of social media posts",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/10/us_nonvisa_entry_five_years_social_media/",
@@ -639,25 +723,6 @@
     "pinned": false
   },
   {
-    "id": "bdb755910d6da282f92ac404e1ed0111766a731c",
-    "title": "Pebble maker announces Index 01, a smart-ish ring for under $100",
-    "link": "https://arstechnica.com/gadgets/2025/12/resurrected-pebble-maker-announces-a-kind-of-smart-ring-for-capturing-audio-notes/",
-    "summary": "The Pebble Index 01 isn't quite a smart ring, but it can do some smart things.",
-    "isoDate": "2025-12-09T15:00:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Tech",
-      "Artificial Intelligence",
-      "Pebble",
-      "wearables"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Index01-polished-silver-rocks-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b662f203e52921d49ed3bc35b81f9a9e9a30a25d",
     "title": "As humanoid robots enter the mainstream, security pros flag the risk of botnets on legs",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/humanoid_robot_security/",
@@ -933,28 +998,6 @@
     "pinned": false
   },
   {
-    "id": "a2c9d00cee844157af22a3a48604ed35b5aa3fd0",
-    "title": "ICEBlock lawsuit: Trump admin bragged about demanding App Store removal",
-    "link": "https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/",
-    "summary": "ICEBlock creator sues to protect apps that are crowd-sourcing ICE sightings.",
-    "isoDate": "2025-12-08T21:54:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "App Store",
-      "apple",
-      "First Amendment",
-      "free speech",
-      "ice",
-      "iceblock",
-      "immigration and customs enforcement"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2235825531-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bb55e82f43aac1e03698b8ece4b2fe01762a8eca",
     "title": "ICE-tracking app developer sues Trump admin after Apple spikes the software",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/iceblock_dev_sues_trump_administration/",
@@ -978,26 +1021,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "91ef1dc945af060c821019d9fc1edf01d1b27457",
-    "title": "Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover",
-    "link": "https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/",
-    "summary": "Paramount has already proven it can get a controversial merger done.",
-    "isoDate": "2025-12-08T18:36:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "acquisition",
-      "hbo max",
-      "paramount",
-      "streaming",
-      "warner bros. discovery"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250240969-500x500.jpg",
     "pinned": false
   },
   {
@@ -1178,19 +1201,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "dcd8419dbac121e4ae2c8e1bf2f92169f0de2b8b",
-    "title": "Barts Health seeks High Court block after Clop pillages NHS trust data",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/barts_health_clop_block/",
-    "summary": "<h4>Body confirms patient and staff details siphoned via Oracle EBS flaw as gang threatens to leak haul</h4> <p>Barts Health NHS Trust has confirmed that patient and staff data was stolen in Clop's mass-exploitation of Oracle's E-Business Suite (EBS), and says it is now taking legal action in an effort to stop the gang publishing any of the snatched information.…</p>",
-    "isoDate": "2025-12-08T11:12:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
