@@ -1,7 +1,50 @@
 [
   {
+    "id": "dc87b9138c7d2227541d6257f112556f28f4c3e5",
+    "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+    "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
+    "summary": "Company claims new AI model tops Gemini and matches humans on 70% of work tasks.",
+    "isoDate": "2025-12-11T21:27:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "agentic AI",
+      "AI assistants",
+      "AI benchmarks",
+      "AI coding",
+      "ChatGPT",
+      "Gemini 3",
+      "google",
+      "Google Gemini",
+      "GPT-5",
+      "GPT-5.2",
+      "large language models",
+      "machine learning",
+      "openai",
+      "sam altman"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7198fd26b2050cda9e633a5569441de04c497b5b",
+    "title": "Russian hackers debut simple ransomware service, but store keys in plain text",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/cybervolk_ransomware_is_back/",
+    "summary": "<h4>Operators accidentally left a way for you to get your data back.</h4> <p>CyberVolk, a pro-Russian hacktivist crew, is back after months of silence with a new ransomware service. There's some bad news and some good news here.…</p>",
+    "isoDate": "2025-12-11T20:56:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9c8a292e7c4d778cc4dd4ff7b333d32a5dad45b2",
-    "title": "Milly Alcock is out for revenge in Supergirl teaser",
+    "title": "Supergirl teaser gives us a likably imperfect Kara Zor-El",
     "link": "https://arstechnica.com/culture/2025/12/milly-alcock-is-out-for-revenge-in-supergirl-teaser/",
     "summary": "Director Craig Gillespie's film is the second in the new DCU's \"Gods and Monsters\" chapter.",
     "isoDate": "2025-12-11T20:25:08Z",
@@ -746,26 +789,6 @@
     "pinned": false
   },
   {
-    "id": "b1ee5d13ebd3fec9479f0cae0a2a11d491cd0b32",
-    "title": "Impeachment articles filed against RFK Jr., claiming abuse of power",
-    "link": "https://arstechnica.com/health/2025/12/impeachment-articles-filed-against-rfk-jr-claiming-abuse-of-power/",
-    "summary": "He's the \"biggest self-created threat to our health and safety,\" Stevens said.",
-    "isoDate": "2025-12-10T15:11:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anti-vaccine",
-      "Haley Stevens",
-      "impeachment",
-      "misinformation",
-      "robert f kennedy jr"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233690134-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "747dda933ea465c9285dd71dac9bde436aefa9a7",
     "title": "Will Starlink Mobile Replace Your Tesla’s Cellular Connection?",
     "link": "https://www.notateslaapp.com/news/3409/will-starlink-mobile-replace-your-cellular-connection-in-your-tesla",
@@ -1128,32 +1151,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8d74ea4d0cf4856501a27fa2404c0f4b8391f94b",
-    "title": "Affection for Excel spans generations, from Boomers to Zoomers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/excel_generational_affection/",
-    "summary": "<h4>Younger finance pros are just as loyal to Microsoft's venerable spreadsheet app as their elders</h4> <p>Despite its advancing years, Microsoft Excel is proving a hit with young finance professionals, many of whom reckon the aging number-cruncher has a bright future.…</p>",
-    "isoDate": "2025-12-09T12:26:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "04520dd050ef7a13512103d8f070289c2996b429",
-    "title": "IBM touts progress on tech stack for AI-enabled airline with no passengers or alcohol",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/ibm_riyadh_air/",
-    "summary": "<h4>Digital native? Cloud native? No, we need to be AI native, says Riyadh Air</h4> <p>IBM and Riyadh Air have upgraded their contracted agreement, meaning the Saudi operation will not be the world's first digitally native airline, but will instead be the first AI native operator.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-09T11:29:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
     "tags": [],
     "image": "",
     "pinned": false
