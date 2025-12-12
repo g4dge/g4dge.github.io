@@ -1,7 +1,33 @@
 [
   {
+    "id": "f62816726233742efa6a590aec3a7c9f417bf6e4",
+    "title": "Tesla Update 2025.44.25.3 - Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2025.44.25.3/release-notes",
+    "summary": "Tesla software update 2025.44.25.3 includes Grok with Navigation Commands (Beta), Tesla Photobooth, Dog Mode Live Activity on iOS, Dashcam Viewer Update, Santa Mode Updates, Light Show Update, Paint Shop, Navigation Improvements, Automatic HOV Lanes Routing, Supercharger Site Maps, Phone Left On Wireless Charger, Phone Left Behind, Save Charge Limit by Location, SpaceX Docking Simulator, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.44.25.3/release-notes\">View Release Notes</a>",
+    "isoDate": "2025-12-12T23:00:08Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.44.25/2025.44.25-grok-with-navigation-commands.png",
+    "pinned": false
+  },
+  {
+    "id": "b2eae0f9ca770b792b3f99b49c64e7804da33d3b",
+    "title": "Microsoft RasMan DoS 0-day gets unofficial patch - and a working exploit",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/microsoft_windows_rasman_dos_0day/",
+    "summary": "<h4>Exploit hasn't been picked up by any malware detection engines, CEO tells The Reg</h4> <p>A Microsoft zero-day vulnerability that allows an unprivileged user to crash the Windows Remote Access Connection Manager (RasMan) service now has a free, unofficial patch - with no word as to when Redmond plans to release an official one - along with a working exploit circulating online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-12T22:29:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "c8d10188f11ca4562088976db9e0efa6b85711cc",
-    "title": "How OpenAI is using GPT-5 Codex to improve the AI tool itself",
+    "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
     "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
     "summary": "\"The vast majority of Codex is built by Codex,\" OpenAI told us about its new AI coding agent.",
     "isoDate": "2025-12-12T22:16:42Z",
@@ -1166,19 +1192,6 @@
     "pinned": false
   },
   {
-    "id": "b5ded4b6bf0b2172cb7e082c819618785adccca4",
-    "title": "Galactic Brain space datacenter coming in 2027, pledges startup Aetherflux",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/10/aetherflux_space_datacenter_2027/",
-    "summary": "<h4>Getting inferencing infrastructure into orbit may soon be cheaper than building it down here</h4> <p>Space startup Aetherflux says it plans to put its first data center satellite into orbit during the first quarter of 2027.…</p>",
-    "isoDate": "2025-12-10T07:17:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "b98b17b00dae6c3d916d8813a95975563ebf3efa",
     "title": "Tesla Adds Charging Year-in-Review to App, Highlights Most Visited Superchargers and More",
     "link": "https://www.notateslaapp.com/news/3403/tesla-adds-charging-year-in-review-to-app-highlights-most-visited-superchargers-and-more",
@@ -1377,19 +1390,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/2025_holiday_banner.jpg/c112634725707a42330bde39ccf9bf9f/2025_holiday_banner.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a4b4529dbf65e8a526bba6b80d17017f669598a8",
-    "title": "Tesla's Santa Mode: Everything It Does and How to Activate It",
-    "link": "https://www.notateslaapp.com/news/38/tesla-santa-mode-easter-egg",
-    "summary": "One of Tesla's best easter eggs has to be Santa Mode. It provides various visualizations and sounds to get you into the holiday spirit.&hellip; <a href=\"https://www.notateslaapp.com/news/38/tesla-santa-mode-easter-egg\">Read More</a>",
-    "isoDate": "2025-12-05T22:49:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/santa-mode-3.webp/7223b33e774d1d6e5ebd22e7119ff8e8/santa-mode-3.jpg",
     "pinned": false
   }
 ]
