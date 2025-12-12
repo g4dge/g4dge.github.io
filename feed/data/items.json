@@ -1,5 +1,37 @@
 [
   {
+    "id": "4a5d13b1db1bacfa29fdb6716fde1d46fa195ca9",
+    "title": "Investors commit quarter-billion dollars to startup designing “Giga” satellites",
+    "link": "https://arstechnica.com/science/2025/12/investors-commit-quarter-billion-dollars-to-startup-designing-giga-satellites/",
+    "summary": "\"If we build these platforms well, we get to ask new questions about what's possible in orbit.\"",
+    "isoDate": "2025-12-12T15:23:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "Commercial space",
+      "k2",
+      "satellites"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/k2gravitas-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e43cc2dfd6d3a312b69b7dea348e8277f6097b9e",
+    "title": "The CRASH Clock is ticking as satellite congestion in low Earth orbit worsens",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/crash_clock_orbit_collision/",
+    "summary": "<h4>It's getting crowded up there</h4> <p>Earth's orbit is starting to look like an LA freeway, with more and more satellites being launched each year. If you're worried about collisions and space debris making the area unusable – and you should be – scientists have proposed a new metric to contribute to your anxiety: the CRASH Clock.…</p>",
+    "isoDate": "2025-12-12T14:28:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "32de817ad30183c627f05f0da386ee5f64055db9",
     "title": "AI datacenter boom could end badly, Goldman Sachs warns",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/ai_datacenter_investments_goldman/",
@@ -917,35 +949,6 @@
     "pinned": false
   },
   {
-    "id": "cc75d4aa3166ab4e263289536f7279164cbeb253",
-    "title": "A new open-weights AI coding model is closing in on proprietary options",
-    "link": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
-    "summary": "Devstral 2 model scores 72% on industry benchmark, nearing proprietary rivals.",
-    "isoDate": "2025-12-10T20:38:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "agentic AI",
-      "AI agents",
-      "AI coding",
-      "AI programming",
-      "Andrej Karpathy",
-      "ASML",
-      "machine learning",
-      "Mistral AI",
-      "open source",
-      "open weights",
-      "software engineering",
-      "SWE-bench",
-      "vibe coding"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "cf76d0c94238d20a31d9f9e22c3c17c51bdd0c7b",
     "title": "Qualcomm takes RISC on Arm alternative with Ventana acquisition",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/10/qualcomm_riscv_arm_ventana/",
@@ -1113,19 +1116,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a1dd338a3f0709edc4a3c597ac5a32cebba4fc42",
-    "title": "Microsoft reports 7.8-rated zero day, plus 56 more in December Patch Tuesday",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/december_2025_patch_tuesday/",
-    "summary": "<h4>Plus critical critical Notepad++, Ivanti, and Fortinet updates, and one of these patches an under-attack security hole</h4> <p>Happy December Patch Tuesday to all who celebrate. This month's patch party includes one Microsoft flaw under exploitation, plus two others listed as publicly known – but just 57 CVEs in total from Redmond.…</p>",
-    "isoDate": "2025-12-09T23:42:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
