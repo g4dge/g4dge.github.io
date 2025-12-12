@@ -1,5 +1,57 @@
 [
   {
+    "id": "5a3102ea3d16f510acf2580c312913df84fbd9e6",
+    "title": "Trump tries to block state AI laws himself after Congress decided not to",
+    "link": "https://arstechnica.com/tech-policy/2025/12/trump-tries-to-block-state-ai-laws-himself-after-congress-decided-not-to/",
+    "summary": "Trump claims state laws force AI makers to embed \"ideological bias\" in models.",
+    "isoDate": "2025-12-12T18:29:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "AI",
+      "Policy",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-500x500-1756146144.jpg",
+    "pinned": false
+  },
+  {
+    "id": "27ad4fc0e09092ee15d5c1d12c98fcdc96ea7167",
+    "title": "New React vulns leak secrets, invite DoS attacks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/new_react_secretleak_bugs/",
+    "summary": "<h4>And the earlier React2Shell patch is vulnerable</h4> <p>If you're running React Server Components, you just can't catch a break. In addition to already-reported flaws, newly discovered bugs allow attackers to hang vulnerable servers and potentially leak Server Function source code, so anyone using RSC or frameworks that support it should patch quickly.…</p>",
+    "isoDate": "2025-12-12T18:23:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d46d47454c30c6443dd268a7b445f31ff0e997aa",
+    "title": "Man shocks doctors with extreme blood pressure, stroke from energy drinks",
+    "link": "https://arstechnica.com/health/2025/12/man-shocks-doctors-with-extreme-blood-pressure-stroke-from-energy-drinks/",
+    "summary": "His blood pressure was 254/150. Readings of 180/120 are considered an emergency.",
+    "isoDate": "2025-12-12T17:33:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "blood pressure",
+      "caffeine",
+      "cardiovascular disease",
+      "case report",
+      "energy drinks",
+      "hypertension",
+      "stroke"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1025255964-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "af8489620f333635822b52d223a84cd11d72dfea",
     "title": "Tesla Enters Consumer Reports’ Top 10 Most Reliable Brands",
     "link": "https://www.notateslaapp.com/news/3392/tesla-enters-consumer-reports-top-10-most-reliable-brands",
@@ -690,25 +742,6 @@
     "pinned": false
   },
   {
-    "id": "e3b69e3b2ae615056093da3d8d7ae42162a544ac",
-    "title": "Oracle shares slide on $15B increase in data center spending",
-    "link": "https://arstechnica.com/information-technology/2025/12/oracle-shares-slide-on-15b-increase-in-data-center-spending/",
-    "summary": "Company raises its capital expenditure forecast as it doubles down on AI infrastructure bet.",
-    "isoDate": "2025-12-11T14:39:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Rafe Rosner-Uddin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "data centers",
-      "Larry Ellison",
-      "oracle"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c75df51f4f4eeeb1362d8b19d5c7dc8c04d47116",
     "title": "Tesla to Launch Larger FSD Model After the Holidays; Will Remove Robotaxi Safety Monitors in Three Weeks",
     "link": "https://www.notateslaapp.com/news/3417/tesla-to-launch-a-larger-fsd-model-after-the-holidays-will-remove-robotaxi-safety-monitors-in-three-weeks",
@@ -890,28 +923,6 @@
     "author": "Simon Sharwood",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "afe4716f92ca9598b0b08cf8e58a5845420ea116",
-    "title": "NASA just lost contact with a Mars orbiter, and will soon lose another one",
-    "link": "https://arstechnica.com/space/2025/12/nasa-just-lost-contact-with-a-mars-orbiter-and-will-soon-lose-another-one/",
-    "summary": "If NASA is serious about exploring Mars, it's past time to send new missions.",
-    "isoDate": "2025-12-11T00:29:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "Lockheed Martin",
-      "Mars",
-      "MAVEN",
-      "NASA",
-      "planetary science",
-      "solar system"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GSFC_20171208_Archive_e000206orig-500x500.jpg",
     "pinned": false
   },
   {
@@ -1121,19 +1132,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8112adde1d619a2ac7bf82c1f9b219ce4123274c",
-    "title": "Rocket Lab ready to send a Hungry Hippo into space",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/10/rocket_lab_hungry_hippo_approved/",
-    "summary": "<h4>Signoff for re-usable faring should help Neutron launcher get off the ground</h4> <p>Space outfit Rocket Lab says its Hungry Hippo is ready to go into space, a fillip for the company’s plans to fly its new Neutron launch vehicle.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-10T05:33:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
