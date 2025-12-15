@@ -1,5 +1,38 @@
 [
   {
+    "id": "1d81973f5703b0a7dc0ea428aad2dd6364ee8dbb",
+    "title": "Oh look, yet another Starship clone has popped up in China",
+    "link": "https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/",
+    "summary": "Chinese companies are no longer hiding their intent to clone SpaceX. They're advertising it.",
+    "isoDate": "2025-12-15T16:44:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "china",
+      "clones",
+      "rockets",
+      "space",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/china-rocket-500x500-1765813894.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0dfbc76ddcd300a3a7e636c20534338100f83184",
+    "title": "GAO report details faltering Veteran’s Administration records upgrade program",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/gao_report_details_faltering_veterans/",
+    "summary": "<h4>Watchdog highlights slate of unmet priorities</h4> <p>A US spending watchdog has delivered another withering verdict on the Department of Veterans Affairs’ efforts to drag its health records program into the 21st century.…</p>",
+    "isoDate": "2025-12-15T15:44:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "c2298df7596b5fcfa4421b53f76c20853f3fc3c4",
     "title": "Roomba maker iRobot swept into bankruptcy",
     "link": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/",
@@ -240,7 +273,7 @@
     "id": "97be8d649838d951c1cd766234e7228456b5b31f",
     "title": "The future of long-term data storage is clear and will last 14 billion years",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/14/sphotonix_moves_5d_memory_crystal/",
-    "summary": "<h4>SPhotoix moves its 5D Memory Crystalcold storage tech closer to deployment in data centers</h4> <p>After decades of research and development, humanity finally has a data storage medium that will outlast us.…</p>",
+    "summary": "<h4>SPhotoix moves its 5D Memory Crystal cold storage tech closer to deployment in data centers</h4> <p>After decades of research and development, humanity finally has a data storage medium that will outlast us.…</p>",
     "isoDate": "2025-12-14T10:00:15Z",
     "source": "The Register",
     "category": "Tech",
@@ -933,29 +966,6 @@
     "pinned": false
   },
   {
-    "id": "416b779675c7b28387440a273bffefc49ea48acf",
-    "title": "Runway claims its GWM-1 “world models” can stay coherent for minutes at a time",
-    "link": "https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/",
-    "summary": "Runway joins a competitive field alongside Google, Nvidia, and others.",
-    "isoDate": "2025-12-11T23:47:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Gen-4.5",
-      "GWM-1",
-      "ML",
-      "Robotics",
-      "Runway",
-      "Runway Gen-4.5",
-      "runway ml",
-      "world models"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Runway-GWM-Worlds-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2d205c4c330faac84808116e629d792e1c3f0042",
     "title": "AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/ai_superintelligence_fantasy/",
@@ -1223,32 +1233,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/india_ai_copyright_proposal/",
     "summary": "<h4>Proposes central body to collect royalties and dole out cash to creators</h4> <p>The government of India wants AI companies to pay for accessing content they use to train models, but only once they start producing revenue.…</p>",
     "isoDate": "2025-12-11T05:46:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6ea763a71925a8fb6d9357b94f4e626e5ce86fbe",
-    "title": "Parachutists told to check software after jumper dangled from a plane",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/atsb_parachute_snagged_software/",
-    "summary": "<h4>‘Chute opened early and snagged on a stabilizer</h4> <p><strong>VIDEO</strong>  An Australian parachuting club has been told to improve the software it uses to manage jumps, after an accident in which a jumper’s ‘chute hooked on an aircraft’s tailplane.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-11T04:26:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7f7d2de1a71a86700523870c9ebe4a80421cde2b",
-    "title": "NASA loses contact with MAVEN Mars orbiter",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/nasa_maven_loss_of_contact/",
-    "summary": "<h4>Didn’t phone home as expected on December 6th and nobody knows why</h4> <p>Houston, we have a problem: NASA has lost contact with the Mars Atmosphere and Volatile EvolutioN (MAVEN) spacecraft.…</p>",
-    "isoDate": "2025-12-11T03:01:50Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
