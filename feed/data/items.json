@@ -1,9 +1,68 @@
 [
   {
+    "id": "6cb0bb3836d202b8f9751605004c8d160f201758",
+    "title": "Oracle isn't done with Ampere yet as A4 instances arrive on OCI boasting 96 cores",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/oracle_isnt_done_with_ampere/",
+    "summary": "<h4>Big Red said it had sold its stake in its long-time silicon partner last week</h4> <p>Oracle last week announced that it had divested from Ampere Computing. But while Big Red may no longer own part of the Arm CPU maker, it's not ready to stop using the chips just yet.…</p>",
+    "isoDate": "2025-12-15T22:26:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "18f59118cb2ac219173002ad272564d901cdda44",
+    "title": "Stranger Things S5 trailer teases Vol. 2",
+    "link": "https://arstechnica.com/culture/2025/12/stranger-things-s5-trailer-teases-vol-2/",
+    "summary": "\"Everything we've ever assumed about the Upside Down has been dead wrong.\"",
+    "isoDate": "2025-12-15T22:14:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "Netflix",
+      "Stranger Things",
+      "streaming television",
+      "Trailers",
+      "TV trailers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/vecna1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8538f16066edea81b559fb1224d2fc50ab9d2002",
+    "title": "IBM unleashes CUGA, an open-source AI agent that actually completes more than half its tasks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/ibm_cuga_agent/",
+    "summary": "<h4>Framework looks great for scenarios where a 62 percent completion rate is acceptable</h4> <p>IBM researchers have released an open source AI agent called CUGA that aspires to automate complex enterprise workflows and get it right about half the time, depending on the task.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-15T22:12:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1e44b4dece36f66bde7aaee21e1715f4697e2899",
+    "title": "US gov't launches 'Tech Force' to replace IT staff DOGE fired",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/us_government_tech_force/",
+    "summary": "<h4>Washington rediscovers that modern IT doesn’t run itself</h4> <p>After dissolving several federal tech modernization units and shedding large numbers of technologists, the Trump administration has launched a new talent recruitment initiative, suggesting it still needs people to help drag the government's IT into the present.…</p>",
+    "isoDate": "2025-12-15T21:39:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "55713d3694c2c16a9623c9f817234243c2297bc8",
     "title": "Microsoft will finally kill obsolete cipher that has wreaked decades of havoc",
     "link": "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/",
-    "summary": "The weak RC4 for administrative authentication has been a hacker Holy Grail for decades.",
+    "summary": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
     "isoDate": "2025-12-15T21:15:55Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -29,7 +88,10 @@
     "author": "Jonathan M. Gitlin",
     "tags": [
       "Cars",
-      "EV adoption"
+      "electric F-150",
+      "EV adoption",
+      "F-150",
+      "F-150 Lightning"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250038446-500x500.jpg",
     "pinned": false
@@ -815,29 +877,6 @@
     "pinned": false
   },
   {
-    "id": "8579a28e3cf7d3a897b60012cd1c9145ac9a6368",
-    "title": "Apple loses its appeal of a scathing contempt ruling in iOS payments case",
-    "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
-    "summary": "But Sweeney warns iOS devs are still afraid of \"totally illegal\" retaliation by Apple.",
-    "isoDate": "2025-12-12T16:00:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "Policy",
-      "apple",
-      "epic",
-      "epic games store",
-      "iOS",
-      "iphone",
-      "legal",
-      "payments"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2171810471-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e43cc2dfd6d3a312b69b7dea348e8277f6097b9e",
     "title": "The CRASH Clock is ticking as satellite congestion in low Earth orbit worsens",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/crash_clock_orbit_collision/",
@@ -1164,58 +1203,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-austin.webp/e3f64d88544521834b1fd58a7eca6033/robotaxi-austin.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0796dd3df2f908731cc453fd04d70c52150c56d8",
-    "title": "Legacy Update expands archive of vanished Microsoft downloads",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/legacy_update_update/",
-    "summary": "<h4>Preserving not just updates, but also lots of the now-deleted optional extras</h4> <p>Legacy Update was already extremely useful if you chose to disembark from Microsoft's upgrade railroad. Now it's even more so.…</p>",
-    "isoDate": "2025-12-11T14:22:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5fd64d10fa60fb11ac7488bbb302314cf1b2cec4",
-    "title": "Taikonauts inspect cracked Shenzhou-20 window during Tiangong spacewalk",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/shenzhou_20_spacewalk/",
-    "summary": "<h4>Eight-hour EVA was also first outing for new spacesuits</h4> <p>A pair of taikonauts ventured outside China's Tiangong space station this week to take a closer look at the cracked viewport window of the Shenzhou-20 vehicle.…</p>",
-    "isoDate": "2025-12-11T13:50:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bf2455400bb800ae110f2fedc11bdf71c9d66205",
-    "title": "Trump's AI 'Genesis Mission' emerges from Land of Confusion",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/doe_genesis_mission_funding/",
-    "summary": "<h4>DOE lays out $320M plan for science platform linking national labs, industry, and academia</h4> <p>President Trump's \"Genesis Mission\" is taking shape with the award of more than $320 million from the Department of Energy (DOE) to advance AI in scientific research.…</p>",
-    "isoDate": "2025-12-11T12:56:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9381255428f2575fb9d6b58121412f4ae8659215",
-    "title": "Researcher claims Salt Typhoon spies attended Cisco training scheme",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/salt_typhoon_cisco_training/",
-    "summary": "<h4>Skills gained later fed Beijing's cyber operations, according to SentinelLabs expert</h4> <p>A security researcher specializing in tracking China threats claims two of Salt Typhoon's members were former attendees of a training scheme run by Cisco.…</p>",
-    "isoDate": "2025-12-11T12:42:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
