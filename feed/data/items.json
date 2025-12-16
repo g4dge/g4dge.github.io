@@ -1,5 +1,31 @@
 [
   {
+    "id": "3ba37e9457506ceefdb6003831a01c20c01a8a87",
+    "title": "Why do bit barns keep bumping up our bills, Senators ask DC operators",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/datacenters_energy_bills_dc/",
+    "summary": "<h4>Amazon, meanwhile, claims its datacenters are helping ratepayers despite tons of evidence to the contrary</h4> <p>Concerned over continually rising energy costs linked to AI datacenter construction projects, three Democratic Senators are asking leading bit barn operators to explain why their promises of not passing grid expansion costs onto consumers are falling short. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-16T19:45:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cc2f7f4fd115ed369ac9aa3996ca10ade937a7a1",
+    "title": "Nvidia fills the void of American open-weights models with some of its own",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/nvidia_nemotron/",
+    "summary": "<h4>Nemotron 3 is a grab bag of 2025's top machine learning advancements</h4> <p>For many, enterprise AI adoption depends on the availability of high-quality open-weights models. Exposing sensitive customer data or hard-fought intellectual property to APIs so you can use closed models like ChatGPT is a non-starter.…</p>",
+    "isoDate": "2025-12-16T19:31:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e13e4cf2615d13a3f0562c562bac1d47ca8d1ae8",
     "title": "SantaStealer stuffs credentials, crypto wallets into a brand new bag",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/santastealer_stuffs_users_credentials_crypto/",
@@ -1078,21 +1104,6 @@
     "pinned": false
   },
   {
-    "id": "fe85906ab0c7e5577694a506337af08be1c25f85",
-    "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
-    "link": "https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-17/",
-    "summary": "Help raise a charity haul that's already past $11,000 in just a couple of days.",
-    "isoDate": "2025-12-12T21:35:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "27ad4fc0e09092ee15d5c1d12c98fcdc96ea7167",
     "title": "New React vulns leak secrets, invite DoS attacks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/new_react_secretleak_bugs/",
@@ -1166,32 +1177,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b2d3d306e2032140f02064ac6d82152b6eda1ecd",
-    "title": "Microsoft promises more bug payouts, with or without a bounty program",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/microsoft_more_bug_payouts/",
-    "summary": "<h4>Critical vulnerabilities found in third-party applications eligible for award under 'in scope by default' move</h4> <p>Microsoft is overhauling its bug bounty program to reward exploit hunters for finding vulnerabilities across all its products and services, even those without established bounty schemes.…</p>",
-    "isoDate": "2025-12-12T13:35:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "67cc547a25d5e1c38c7f19b25fd9bc458958f4f8",
-    "title": "Uncle Sam sues ex-Accenture manager over Army cloud security claims",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/us_sues_accenture_exec/",
-    "summary": "<h4>Justice Department alleges federal auditors were misled over compliance with FedRAMP and DoD requirements</h4> <p>The US is suing a former senior manager at Accenture for allegedly misleading the government about the security of an Army cloud platform.…</p>",
-    "isoDate": "2025-12-12T13:25:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
