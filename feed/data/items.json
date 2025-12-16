@@ -1,5 +1,59 @@
 [
   {
+    "id": "6899d1fb61c7067dd62932d7a3ac8eaf18478280",
+    "title": "Journalist insists Half-Life 3 will launch with Steam Machine in “spring 2026”",
+    "link": "https://arstechnica.com/gaming/2025/12/journalist-insists-half-life-3-will-launch-with-steam-machine-in-spring-2026/",
+    "summary": "\"Everybody I've talked to are still adamant,\" even after previous rumors didn't pan out.",
+    "isoDate": "2025-12-16T17:28:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "Half-Life",
+      "Half-Life 3",
+      "hl3",
+      "rumor",
+      "steam machine",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-500x500-1740609177.jpg",
+    "pinned": false
+  },
+  {
+    "id": "976ffd4d3024b820e068d4064f43d43088bb263f",
+    "title": "A Look at Tesla's Photobooth Feature",
+    "link": "https://www.notateslaapp.com/news/3419/a-look-at-teslas-photobooth-feature",
+    "summary": "The Tesla Photobooth allows you to take, edit, and create custom stickers for selfies directly from your car, and share them instantly via the Tesla App.&hellip; <a href=\"https://www.notateslaapp.com/news/3419/a-look-at-teslas-photobooth-feature\">Read More</a>",
+    "isoDate": "2025-12-16T17:16:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/photobooth.png/5bf8b6ff753cd598a9fb284f3c937b18/photobooth.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b78a24d8f2fabc147bd48f68ce70eb737c298c1c",
+    "title": "Utah leaders hinder efforts to develop solar energy supply",
+    "link": "https://arstechnica.com/science/2025/12/utah-leaders-hinder-efforts-to-develop-solar-energy-supply/",
+    "summary": "Solar power accounts for two-thirds of the new projects waiting to connect to the state’s power grid.",
+    "isoDate": "2025-12-16T17:00:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Anjeanette Damon, ProPublica",
+    "tags": [
+      "Policy",
+      "Science",
+      "solar cells",
+      "Solar energy",
+      "syndication",
+      "Utah"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2241255023-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "20f75a8060d011e7d275404f816fdec72d758cc6",
     "title": "Inside Tesla’s Unsupervised FSD Geofence for Data Gathering",
     "link": "https://www.notateslaapp.com/news/3360/inside-teslas-unsupervised-fsd-geofence-for-data-gathering",
@@ -1024,49 +1078,6 @@
     "pinned": false
   },
   {
-    "id": "7875bd3b82c3500b15a0c02fca595a6a96268254",
-    "title": "Ukrainians sue US chip firms for powering Russian drones, missiles",
-    "link": "https://arstechnica.com/tech-policy/2025/12/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles/",
-    "summary": "Lawsuits may force Intel, AMD, and Texas Instruments to do more to control chip supply chains.",
-    "isoDate": "2025-12-12T19:49:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "AMD",
-      "drones",
-      "Intel",
-      "missiles",
-      "russia",
-      "Russian invasion of Ukraine",
-      "Texas Instruments",
-      "Ukraine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2161674727-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7230511a1de9b553dc41e5b662b2116ef9a51837",
-    "title": "Scientists built an AI co-pilot for prosthetic bionic hands",
-    "link": "https://arstechnica.com/ai/2025/12/scientists-built-an-ai-co-pilot-for-prosthetic-bionic-hands/",
-    "summary": "Managing each finger separately can, with the right sensors, ease control issues.",
-    "isoDate": "2025-12-12T19:14:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "AI",
-      "Science",
-      "prosthetics",
-      "robotic hands",
-      "Robotics",
-      "sensors"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2207559807-e1765565371849-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "27ad4fc0e09092ee15d5c1d12c98fcdc96ea7167",
     "title": "New React vulns leak secrets, invite DoS attacks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/new_react_secretleak_bugs/",
@@ -1372,19 +1383,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-51-5/tesla-charging-passport-hero-desktop.jpeg/a49cca45503c3956e2d1aa389f0c1341/tesla-charging-passport-hero-desktop.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e20116c5e293d6f6ff0ebcb09113a926d610b035",
-    "title": "Tesla Adds Vehicle Locator Feature to Tesla App",
-    "link": "https://www.notateslaapp.com/news/3406/tesla-adds-vehicle-locator-feature-to-tesla-app",
-    "summary": "Tesla app v4.51.5 introduces a directional arrow and live distance readout to the Location row, simplifying vehicle retrieval with real-time compass guidance.&hellip; <a href=\"https://www.notateslaapp.com/news/3406/tesla-adds-vehicle-locator-feature-to-tesla-app\">Read More</a>",
-    "isoDate": "2025-12-09T16:43:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-51-5/vehicle-locator-app.webp/b549423f88d41ccc2ff4ec0ef742c2d4/vehicle-locator-app.jpg",
     "pinned": false
   }
 ]
