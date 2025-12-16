@@ -1,5 +1,49 @@
 [
   {
+    "id": "20f75a8060d011e7d275404f816fdec72d758cc6",
+    "title": "Inside Tesla’s Unsupervised FSD Geofence for Data Gathering",
+    "link": "https://www.notateslaapp.com/news/3360/inside-teslas-unsupervised-fsd-geofence-for-data-gathering",
+    "summary": "Update 2025.44 reveals a 'Bay Unsupervised CA DMV' geofence. We analyze how this shadow mode builds the case for a California driverless permit.&hellip; <a href=\"https://www.notateslaapp.com/news/3360/inside-teslas-unsupervised-fsd-geofence-for-data-gathering\">Read More</a>",
+    "isoDate": "2025-12-16T16:31:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/bay_area_unsupervised.jpg/2f910dd3abe45728274c9e8ab62474fa/bay_area_unsupervised.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e9f3a3067c64510967324f0ebbe9d10469021561",
+    "title": "Nvidia pledges more openness as it slurps up Slurm",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/nvidia_slurm_nemotron/",
+    "summary": "<h4>And parades its latest trio of Nemotron models</h4> <p>Nvidia burnished its open source credentials this week after buying the company behind the veteran Slurm scheduler and announcing a slew of open source AI models.…</p>",
+    "isoDate": "2025-12-16T16:13:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "912d08825765a99cdb34ee3eed173b629f3702ff",
+    "title": "2026 Mercedes CLA first drive: Entry level doesn’t mean basic",
+    "link": "https://arstechnica.com/cars/2025/12/2026-mercedes-cla-first-drive-entry-level-doesnt-mean-basic/",
+    "summary": "Starting at $47,250, Mercedes' new electric sedan is quite compelling.",
+    "isoDate": "2025-12-16T15:38:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "car review",
+      "First drive",
+      "Mercedes-Benz CLA"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/2026-Mercedes-Benz-CLA-4-500x500-1765897336.jpg",
+    "pinned": false
+  },
+  {
     "id": "cffea6eb75bca4e2eb04f15e85b2d7b18f5b4b36",
     "title": "Tesla's New Dashcam Viewer and Telemetry Data: All Features Explained",
     "link": "https://www.notateslaapp.com/news/3423/teslas-new-dashcam-viewer-and-telemetry-data-all-features-explained",
@@ -1023,25 +1067,6 @@
     "pinned": false
   },
   {
-    "id": "6ec663e7f72d0fbff33e520cb5a041a84899d352",
-    "title": "A study in contrasts: The cinematography of Wake Up Dead Man",
-    "link": "https://arstechnica.com/culture/2025/12/a-study-in-contrasts-the-cinematography-of-wake-up-dead-man/",
-    "summary": "Ars chats with cinematographer Steve Yedlin about bringing Rian Johnson's Gothic vision to life.",
-    "isoDate": "2025-12-12T18:58:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "cinematography",
-      "entertainment",
-      "Netflix",
-      "Wake Up Dead Man"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/wakeup1-500x500-1765558341.jpg",
-    "pinned": false
-  },
-  {
     "id": "27ad4fc0e09092ee15d5c1d12c98fcdc96ea7167",
     "title": "New React vulns leak secrets, invite DoS attacks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/new_react_secretleak_bugs/",
@@ -1154,19 +1179,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "550dea7f8b7bac41506aab59fea12bb877323762",
-    "title": "UK watchdog urged to probe GDPR failures in Home Office eVisa rollout",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/ico_home_office_evisa/",
-    "summary": "<h4>Rights groups say digital-only record is leaking data and courting trouble</h4> <p>Civil society groups are urging the UK's data watchdog to investigate whether the Home Office's digital-only eVisa scheme is breaching GDPR, sounding the alarm about systemic data errors and design failures that are exposing sensitive personal information while leaving migrants unable to prove their lawful status.…</p>",
-    "isoDate": "2025-12-12T12:36:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1373,19 +1385,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-51-5/vehicle-locator-app.webp/b549423f88d41ccc2ff4ec0ef742c2d4/vehicle-locator-app.jpg",
-    "pinned": false
-  },
-  {
-    "id": "239d8855aad5f1dc867cbd224ae1c569f7310ef7",
-    "title": "Tesla Launches New Dashcam Tool for Viewing Vehicle Telemetry Data",
-    "link": "https://www.notateslaapp.com/news/3407/tesla-launches-new-dashcam-tool-for-viewing-vehicle-telemetry-data",
-    "summary": "Tesla releases an official  Dashcam tool on GitHub, allowing owners to view frame-by-frame telemetry like autopilot state, braking, and steering angle locally.&hellip; <a href=\"https://www.notateslaapp.com/news/3407/tesla-launches-new-dashcam-tool-for-viewing-vehicle-telemetry-data\">Read More</a>",
-    "isoDate": "2025-12-09T16:10:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/dashcam-tool.webp/ca23199903a74951e742f7d4ead98ed2/dashcam-tool.jpg",
     "pinned": false
   }
 ]
