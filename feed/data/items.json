@@ -1,5 +1,73 @@
 [
   {
+    "id": "b698a8ea9a8a6db646d39ada557c7dec142cab7b",
+    "title": "Tesla Plans 8 GWh of Battery Production at Giga Berlin by 2027",
+    "link": "https://www.notateslaapp.com/news/3430/tesla-plans-8-gwh-of-battery-production-at-giga-berlin-by-2027",
+    "summary": "Tesla confirms a new investment to reach 8GWh of battery cell production at Giga Berlin by 2027, aiming for full cell-to-vehicle vertical integration.&hellip; <a href=\"https://www.notateslaapp.com/news/3430/tesla-plans-8-gwh-of-battery-production-at-giga-berlin-by-2027\">Read More</a>",
+    "isoDate": "2025-12-17T16:38:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2021/battery-cell.jpg/278055f003e6c0b42fd2ed8f44a30408/battery-cell.jpg",
+    "pinned": false
+  },
+  {
+    "id": "784e5eac2fa41cc73d5dbde5ea49493159e99c6f",
+    "title": "Trump admin threatens to break up major climate research center",
+    "link": "https://arstechnica.com/science/2025/12/trump-admin-threatens-to-break-up-major-climate-research-center/",
+    "summary": "Major research institution dismissed as a source of \"climate alarmism.\"",
+    "isoDate": "2025-12-17T16:10:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "atmospheric science",
+      "climate change",
+      "Earth science",
+      "NCAR",
+      "NSF",
+      "research"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1086618384-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b8a6e5f8486599ed3460114d0569cf896431a7c8",
+    "title": "Google releases Gemini 3 Flash, promising improved intelligence and efficiency",
+    "link": "https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/",
+    "summary": "Google's Gemini 3 family is now complete with release of Gemini 3 Flash.",
+    "isoDate": "2025-12-17T16:00:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "Gemini 3",
+      "generative ai",
+      "google",
+      "search"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/gemini-3_flash_model_blog_header_dark_bleed_2096x1182-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "7ef930dd08bd006064eb4d8de87ea1a575e4985b",
+    "title": "AI-authored code contains worse bugs than software crafted by humans",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/ai_code_bugs/",
+    "summary": "<h4>CodeRabbit review of pull requests shows meatbags beat clankers</h4> <p>Generating code using AI increases the number of issues that need to be reviewed and the severity of those issues.…</p>",
+    "isoDate": "2025-12-17T16:00:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "afe774a70b633d82adf7f6805d4747e282897777",
     "title": "Browser extensions with 8 million users collect extended AI conversations",
     "link": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/",
@@ -40,9 +108,9 @@
   },
   {
     "id": "92b0bbb62863debb81da25c2303f7a9c052a5dfa",
-    "title": "NATO's battle for cloud sovereignty: speed is existential",
+    "title": "NATO's battle for cloud sovereignty: Speed is existential",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/sovereign_cloud_is_existential_nato/",
-    "summary": "<h4>Build a digital backbone faster than adversaries can evovle or lose the information war</h4> <p>NATO is in an existential race to develop sovereign cloud based technologies to underpin its mission, the alliance’s Assistant Secretary General for Cyber and Digital Transformation told an audience at the Royal United Services Institute last week.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Build a digital backbone faster than adversaries can evolve or lose the information war</h4> <p>NATO is in an existential race to develop sovereign cloud-based technologies to underpin its mission, the alliance's Assistant Secretary General for Cyber and Digital Transformation told an audience at the Royal United Services Institute (RUSI) last week.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-12-17T14:54:57Z",
     "source": "The Register",
     "category": "Tech",
@@ -912,45 +980,6 @@
     "pinned": false
   },
   {
-    "id": "0490e1874342f287f7a9597b84530fdfd01d3f93",
-    "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
-    "link": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
-    "summary": "OpenAI accused of hiding full ChatGPT logs in murder-suicide case.",
-    "isoDate": "2025-12-15T20:10:25Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI psychosis",
-      "chatbot",
-      "ChatGPT",
-      "openai",
-      "wrongful death"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Stein-Erik-Soelberg-and-Suzanne-Adams-via-complaint-500x500-1765826944.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4901b3816737ff3cc37eac951c343e999ac789f2",
-    "title": "Filmmaker Rob Reiner, wife, killed in horrific home attack",
-    "link": "https://arstechnica.com/culture/2025/12/r-i-p-rob-reiner-beloved-filmmaker-dead-at-78/",
-    "summary": "The Reiners' troubled 32-year-old son, Nick, has been arrested in conjunction with the killings.",
-    "isoDate": "2025-12-15T19:53:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "Obituaries",
-      "Rob Reiner"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/reiner1-500x500-1765826584.jpg",
-    "pinned": false
-  },
-  {
     "id": "470a7a7fdd1a060c63c2712b357d9db566ddeea7",
     "title": "New Jolla phone and Sailfish 5 offer a break from iOS-Android monotony",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/jolla_sailfish_5_hands_on/",
@@ -1089,32 +1118,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6f52a8127b8bd870966fe6d97ba8da2a60d8614d",
-    "title": "Delay to European Central Bank messaging project cost the Bank of England £23M",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/ecb_messaging_project/",
-    "summary": "<h4>Watchdog links schedule change to replanning of UK payments system overhaul</h4> <p>The European Central Bank's (ECB) decision to delay its move to a new messaging standard in 2022 ended up costing the Bank of England £23 million as it was forced to adjust migration to a new settlement system to avoid compounding risks.…</p>",
-    "isoDate": "2025-12-15T12:50:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a9f1e3ed06a0fa3b36d05083a236951b04aa8a10",
-    "title": "JLR: Payroll data stolen in cybercrime that shook UK economy",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/jlr_payroll_data_stolen_in/",
-    "summary": "<h4>Automaker admits raid that crippled its factories in August led to the theft of sensitive info</h4> <p>Jaguar Land Rover (JLR) has reportedly told staff the cyber raid that crippled its operations in August didn't just bring production to a screeching halt – it also walked off with the personal payroll data of thousands of employees.…</p>",
-    "isoDate": "2025-12-15T12:08:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
