@@ -1,5 +1,57 @@
 [
   {
+    "id": "9be1550ef7b17e35242413fb5aaf87f1e197ade2",
+    "title": "Datacenters feel the Bern as Senator Sanders pushes bit barn building pause",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/datacenter_ai_bernie_sanders/",
+    "summary": "<h4>Vermont lawmaker proposes DC moratorium to give Congress time to rein in the AI boom</h4> <p>US Senator Bernie Sanders (I-VT) is calling for a nationwide moratorium on datacenter construction, saying it would \"give democracy a chance to catch up … and make sure that the benefits of technology work for all of us, not just the wealthiest people on Earth.\"…</p>",
+    "isoDate": "2025-12-17T21:17:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ff96fe1fab922e71b0e86ece0a40bdaad7aefe1c",
+    "title": "Man sues cops who jailed him for 37 days for trolling a Charlie Kirk vigil",
+    "link": "https://arstechnica.com/tech-policy/2025/12/man-sues-cops-who-jailed-him-for-37-days-for-trolling-a-charlie-kirk-vigil/",
+    "summary": "Cops may be fined for jailing a man over his Facebook posts.",
+    "isoDate": "2025-12-17T20:56:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "censorship",
+      "charlie kirk",
+      "Donald Trump",
+      "false arrest",
+      "meme",
+      "social media censorship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Larry-Bushart-via-FIRE.jpg-500x469.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "af68808d7d9301cfe4c2af31b191f1e48e9dca06",
+    "title": "FCC chair scrubs website after learning it called FCC an “independent agency”",
+    "link": "https://arstechnica.com/tech-policy/2025/12/fcc-deletes-independent-agency-from-website-as-carr-defends-allegiance-to-trump/",
+    "summary": "Meanwhile, Ted Cruz wants to restrict FCC's power to intimidate broadcasters.",
+    "isoDate": "2025-12-17T20:46:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "brendan carr",
+      "FCC",
+      "jimmy kimmel"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/brendan-carr-hearing-500x500-1766003291.jpg",
+    "pinned": false
+  },
+  {
     "id": "0f2504d809001ad28ce90d467381b306e4808c4f",
     "title": "All aglow about DCs, investors launch $300M at microreactor startup",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/smr_investment/",
@@ -70,9 +122,9 @@
   },
   {
     "id": "d8faa40b2ab75cba5a94f6c6ae317655016e375a",
-    "title": "GitHub is going to start charging you for using your own hardware",
+    "title": "GitHub walks back plan to charge for self-hosted actions runners",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/github_charge_dev_own_hardware/",
-    "summary": "<h4>Engineers cry foul over plan to charge $0.002/min for self-hosted Actions runners</h4> <p>GitHub customers, take notice: Come March, the Microsoft-owned repository host will begin charging for some uses of self-hosted Actions runners.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Engineers cried foul over plan to charge $0.002/min.</h4> <p><strong>updated</strong>  Following publication of our original article, GitHub reversed its decision. The Microsoft-owned developer site has taken to X to admit it might have made a mistake by unilaterally announcing plans to charge people for using their own hardware to host runners.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-12-17T17:26:35Z",
     "source": "The Register",
     "category": "Tech",
@@ -980,26 +1032,6 @@
     "pinned": false
   },
   {
-    "id": "18f59118cb2ac219173002ad272564d901cdda44",
-    "title": "Stranger Things S5 trailer teases Vol. 2",
-    "link": "https://arstechnica.com/culture/2025/12/stranger-things-s5-trailer-teases-vol-2/",
-    "summary": "\"Everything we've ever assumed about the Upside Down has been dead wrong.\"",
-    "isoDate": "2025-12-15T22:14:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Netflix",
-      "Stranger Things",
-      "streaming television",
-      "Trailers",
-      "TV trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/vecna1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8538f16066edea81b559fb1224d2fc50ab9d2002",
     "title": "IBM unleashes CUGA, an open-source AI agent that actually completes more than half its tasks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/ibm_cuga_agent/",
@@ -1023,25 +1055,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "55713d3694c2c16a9623c9f817234243c2297bc8",
-    "title": "Microsoft will finally kill obsolete cipher that has wreaked decades of havoc",
-    "link": "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/",
-    "summary": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
-    "isoDate": "2025-12-15T21:15:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "encryption",
-      "rc4",
-      "Windows Server"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg",
     "pinned": false
   },
   {
@@ -1120,19 +1133,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/sc_site_maps_2.jpeg/088f0cd384981f60ac290dfc64d3ff87/sc_site_maps_2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0dfbc76ddcd300a3a7e636c20534338100f83184",
-    "title": "GAO report details faltering Veteran’s Administration records upgrade program",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/gao_report_details_faltering_veterans/",
-    "summary": "<h4>Watchdog highlights slate of unmet priorities</h4> <p>A US spending watchdog has delivered another withering verdict on the Department of Veterans Affairs’ efforts to drag its health records program into the 21st century.…</p>",
-    "isoDate": "2025-12-15T15:44:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1349,19 +1349,6 @@
       "Health"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d04ea37cb2468efaabd745b73c512a480d6e2d86",
-    "title": "First Look at Navigation Commands With Grok In Tesla's Holiday Update [VIDEOS]",
-    "link": "https://www.notateslaapp.com/news/3410/first-look-at-grok-navigation-videos",
-    "summary": "Tesla’s 2025 Holiday Update adds Grok Navigation, unlocking context-aware commands, vague destination search, and route curation for AMD vehicles.&hellip; <a href=\"https://www.notateslaapp.com/news/3410/first-look-at-grok-navigation-videos\">Read More</a>",
-    "isoDate": "2025-12-10T20:58:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-app.webp/3aee0127c222514f83a585f875903379/grok-app.jpg",
     "pinned": false
   }
 ]
