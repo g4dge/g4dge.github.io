@@ -1,5 +1,45 @@
 [
   {
+    "id": "7c7f5c069bf175a3d9b55e3c6261fcdb31df9aaa",
+    "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
+    "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
+    "summary": "New GPT Image 1.5 allows more detailed conversational image editing, for better or worse.",
+    "isoDate": "2025-12-17T22:22:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "AI image generator",
+      "AI image generators",
+      "API",
+      "ChatGPT",
+      "deepfakes",
+      "generative ai",
+      "google",
+      "image synthesis",
+      "machine learning",
+      "multimodal AI",
+      "openai"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/barbarian_crt_1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f211a18cc63b244a16b1ba292740af1d9442ef29",
+    "title": "Jassy taps 27-year Amazon veteran to run AGI org, which is now definitely a thing that exists",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/jassy_taps_peter_desantis_to_run_agi/",
+    "summary": "<h4>Amazon bets that by making AI its own group, it can outpace Microsoft and Google</h4> <p>In today's episode of \"Amazon Kremlinology,\" AWS has <a href=\"https://www.aboutamazon.com/news/company-news/andy-jassy-peter-desantis-amazon-leadership-update\" rel=\"nofollow\" target=\"_blank\">put out a press release</a> that shows a significant shuffle of one of AWS's most storied leaders.…</p>",
+    "isoDate": "2025-12-17T21:54:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Corey Quinn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9be1550ef7b17e35242413fb5aaf87f1e197ade2",
     "title": "Datacenters feel the Bern as Senator Sanders pushes bit barn building pause",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/datacenter_ai_bernie_sanders/",
@@ -122,7 +162,7 @@
   },
   {
     "id": "d8faa40b2ab75cba5a94f6c6ae317655016e375a",
-    "title": "GitHub walks back plan to charge for self-hosted actions runners",
+    "title": "GitHub walks back plan to charge for self-hosted runners",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/github_charge_dev_own_hardware/",
     "summary": "<h4>Engineers cried foul over plan to charge $0.002/min.</h4> <p><strong>updated</strong>  Following publication of our original article, GitHub reversed its decision. The Microsoft-owned developer site has taken to X to admit it might have made a mistake by unilaterally announcing plans to charge people for using their own hardware to host runners.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-12-17T17:26:35Z",
@@ -300,7 +340,7 @@
   },
   {
     "id": "b1b0e5a63ce957bd9e6aca79da90b739c78241a8",
-    "title": "Microsoft security updates breaks MSMQ on older Win systems",
+    "title": "Microsoft security update breaks MSMQ on older Win systems",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/microsoft_admits_that_message_queuing/",
     "summary": "<h4>Folder permission changes cause queue failures and misleading error messages, no real fix yet</h4> <p>Microsoft has good news for administrators: while some organizations now pay for security updates on older Windows versions, the inconsistent quality remains free.…</p>",
     "isoDate": "2025-12-17T13:52:05Z",
@@ -988,34 +1028,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b71cc2a674c316ac0bc962919c18c88586edad70",
-    "title": "Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content",
-    "link": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/",
-    "summary": "Dictionary codifies the term that took hold in 2024 for low-quality AI-generated content.",
-    "isoDate": "2025-12-15T22:41:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI criticism",
-      "ai slop",
-      "dictionaries",
-      "generative ai",
-      "machine learning",
-      "merriam-webster",
-      "Oxford",
-      "Simon Willison",
-      "slop",
-      "social media",
-      "spam",
-      "word of the year"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2241620003-500x500.jpg",
     "pinned": false
   },
   {
