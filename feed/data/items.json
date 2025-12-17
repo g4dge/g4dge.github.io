@@ -1,5 +1,49 @@
 [
   {
+    "id": "e56267cd153dc3050ee2effd6a2996fb1b6fd324",
+    "title": "Attacks pummeling Cisco AsyncOS 0-day since late November",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/attacks_pummeling_cisco_0day/",
+    "summary": "<h4>No timeline for a patch</h4> <p>Suspected Chinese-government-linked threat actors have been battering a maximum-severity Cisco AsyncOS zero-day vulnerability in some Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances for nearly a month, and there's no timeline for a fix.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-17T22:51:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3cf6b6e226a719b8758029cb78046070beb145b5",
+    "title": "Physicists 3D-printed a Christmas tree of ice",
+    "link": "https://arstechnica.com/science/2025/12/physicists-3d-printed-a-christmas-tree-of-ice/",
+    "summary": "New method uses no freezing technology or refrigeration equipment—just water and a vacuum.",
+    "isoDate": "2025-12-17T22:46:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "3D printing",
+      "evaporative cooling",
+      "Physics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/icytree1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "30309ed72c3178e9195754293f9acf4551da756d",
+    "title": "CEO spills the Tea about massive token farming campaigns",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/tea_ceo_fends_off_token_farmers/",
+    "summary": "<h4>Plus: automated SBOMs, $250,000 bounties ahead</h4> <p><strong>interview</strong>  No good idea - like rewarding open source software developers and maintainers for their contributions - goes unabused by cybercriminals, and this was the case with the Tea Protocol and two token farming campaigns.…</p>",
+    "isoDate": "2025-12-17T22:29:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7c7f5c069bf175a3d9b55e3c6261fcdb31df9aaa",
     "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
     "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
@@ -816,24 +860,6 @@
     "pinned": false
   },
   {
-    "id": "d25dfdb848d72767506fa8b10d75b068879a4ed8",
-    "title": "Ars Live Today: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda",
-    "link": "https://arstechnica.com/health/2025/12/ars-live-3-former-cdc-leaders-detail-impacts-of-rfk-jr-s-anti-science-agenda/",
-    "summary": "Join us today, December 16, at 2 pm ET to hear from leaders who resigned in protest.",
-    "isoDate": "2025-12-16T15:09:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "Science",
-      "Ars Live Chat",
-      "CDC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2231820155-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "20fef6efae39dc12489d667b8aa6ec6ea5cc445a",
     "title": "Devs say Apple still flouting EU's Digital Markets Act six months on",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/apple_dma_complaint/",
@@ -1104,32 +1130,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "00d5a70a8120d38c228fa81ad5bf87288760fb58",
-    "title": "China, Iran are having a field day with React2Shell, Google warns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/react2shell_flaw_china_iran/",
-    "summary": "<h4>Who hasn't exploited this max-severity flaw?</h4> <p>At least five more Chinese spy crews, Iran-linked goons, and financially motivated criminals are now attacking React2Shell, a maximum-severity flaw in the widely used React JavaScript library, according to Google.…</p>",
-    "isoDate": "2025-12-15T17:53:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b2c9c45ece34c08aceee37d3fb4884c000f6704d",
-    "title": "Apple blocks dev from all accounts after he tries to redeem bad gift card",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/apple_dev_bad_gift_card_code/",
-    "summary": "<h4>Paris Buttfield-Addison literally wrote books on Swift</h4> <p>Apple has blocked a long-time developer from his Apple ID after he failed to redeem what support suggested was a dodgy $500 gift card, leaving him unable to work, cut off from personal files, and barred from what he calls his \"core digital identity.\" …</p>",
-    "isoDate": "2025-12-15T17:51:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
