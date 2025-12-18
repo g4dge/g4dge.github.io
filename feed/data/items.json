@@ -1,5 +1,58 @@
 [
   {
+    "id": "31b11d533348e96b3f27b534dd0259a8995e785e",
+    "title": "School security AI flagged clarinet as a gun. Exec says it wasn’t an error.",
+    "link": "https://arstechnica.com/tech-policy/2025/12/florida-schools-plan-to-vastly-expand-use-of-ai-that-mistook-clarinet-for-gun/",
+    "summary": "Human review didn't stop AI from triggering lockdown at panicked middle school.",
+    "isoDate": "2025-12-18T21:04:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai gun detection",
+      "AI security",
+      "Artificial Intelligence",
+      "school shooting",
+      "zeroeyes"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1369829454-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1cacdd97938f25dcef90a051b16d5d080e6d3bbe",
+    "title": "LLMs’ impact on science: Booming publications, stagnating quality",
+    "link": "https://arstechnica.com/science/2025/12/llms-impact-on-science-booming-publications-stagnating-quality/",
+    "summary": "Once researchers turn to LLMs, paper counts go up, quality does not.",
+    "isoDate": "2025-12-18T20:54:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "AI",
+      "LLMs",
+      "science",
+      "scientific publications"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-839904424-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7dfcd4a16a3c0502cf5507ca1d70608437707f64",
+    "title": "Snowflake update caused a blizzard of failures worldwide",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/snowflake_update_caused_a_blizzard/",
+    "summary": "<h4>Customers in 10 of the company’s 23 regions had “operations fail or take an extended amount of time to complete.”</h4> <p>Snowflake pushed an update this week that caused a “major outage” worldwide, leaving many users unable to query data, experiencing failures when ingesting files, and receiving error messages for 13 hours, the company wrote in an impact statement.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-18T20:54:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "689aed42b433d588e156f7aec3af9f9d53d8d9ba",
     "title": "Your car’s web browser may be on the road to cyber ruin",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/web_browsers_in_devices_security_vulnerabilities/",
@@ -14,7 +67,7 @@
   },
   {
     "id": "6fd50a944824bca10e4810ee57666ae479653aaf",
-    "title": "NeuralDSP models John Mayer’s entire amp and effects rig—and it sounds great",
+    "title": "Neural DSP models John Mayer’s entire amp and effects rig—and it sounds great",
     "link": "https://arstechnica.com/culture/2025/12/neuraldsp-models-john-mayers-entire-amp-and-effects-rig-and-it-sounds-great/",
     "summary": "Mayer gets the \"Archetype\" treatment.",
     "isoDate": "2025-12-18T19:27:24Z",
@@ -856,48 +909,6 @@
     "pinned": false
   },
   {
-    "id": "5b2bfefff277458ab1e532962fb779c4d2c1b014",
-    "title": "US oil industry doesn’t see profit in Trump’s “pro-petroleum” moves",
-    "link": "https://arstechnica.com/science/2025/12/us-oil-industry-doesnt-see-profit-in-trumps-pro-petroleum-moves/",
-    "summary": "The financial picture around drilling is moving against the Trump administration’s hopes",
-    "isoDate": "2025-12-17T12:30:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Skip York, The Conversation",
-    "tags": [
-      "Policy",
-      "Science",
-      "big oil",
-      "oil",
-      "Oil industry",
-      "oil rigs",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2245935569-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2a415d311a548c05ad35630386e0de138edabb31",
-    "title": "“A Band-Aid on a giant gash”: Trump’s attacks on science may ruin his AI moonshot",
-    "link": "https://arstechnica.com/tech-policy/2025/12/trump-spent-2025-attacking-science-that-could-set-back-his-genesis-mission/",
-    "summary": "Trump’s AI “Manhattan Project” will fail if DOGE cuts are kept, critics say.",
-    "isoDate": "2025-12-17T12:00:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Features",
-      "Policy",
-      "AI agents",
-      "Artificial Intelligence",
-      "Donald Trump",
-      "genesis mission"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/trump-project-genesis-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e11cde9b5896015e5dba3e6bd0f9dc771769307f",
     "title": "UK.gov accused of Grinching Christmas by ignoring phone theft scourge",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/uk_government_phone_thefts/",
@@ -1181,19 +1192,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a6416f5f8f64a7fe22a5f493f5384a4b3c9fad03",
-    "title": "Smartphones face a memory cost crunch – and buyers aren't in the mood",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/smartphones_memory_ai/",
-    "summary": "<h4>Rising DRAM and NAND prices are squeezing handset makers and threatening a fragile market recovery</h4> <p><strong>AI-nflation</strong>  The smartphone industry's brief bounce back now looks set to run straight into a wall, with analysts warning that rising memory costs are about to test buyers' patience.…</p>",
-    "isoDate": "2025-12-16T13:45:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
