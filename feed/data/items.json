@@ -1,5 +1,37 @@
 [
   {
+    "id": "8d190af620bb7b6c76ba8726552c7eabc1626850",
+    "title": "Does swearing make you stronger? Science says yes.",
+    "link": "https://arstechnica.com/science/2025/12/does-swearing-make-you-stronger-science-says-yes/",
+    "summary": "\"A calorie-neutral, drug-free, low-cost, readily available tool for when we need a boost in performance.”",
+    "isoDate": "2025-12-18T14:46:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "hypoalgesic effects",
+      "pain relief",
+      "profanity",
+      "psychology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/screaming-f-bombs-500x500-1766064577.jpg",
+    "pinned": false
+  },
+  {
+    "id": "92264581b55d4cd83076862259070704004b492a",
+    "title": "Another bad week for SonicWall as SMA 1000 zero-day under active exploit",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/sonicwall_sma_1000_0day/",
+    "summary": "<h4>Flaw in remote-access appliance lets attackers chain bugs for root-level takeover</h4> <p>SonicWall has warned customers of a zero-day flaw in its SMA 1000 remote-access appliance that's being actively exploited, potentially allowing attackers to escalate privileges and take over boxes.…</p>",
+    "isoDate": "2025-12-18T14:34:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6a429b4fe681834abafb04dd58f5ab3a6a33e7ab",
     "title": "Formula 1 is deploying new jargon for 2026",
     "link": "https://arstechnica.com/cars/2025/12/formula-1-is-deploying-new-jargon-for-2026/",
@@ -958,27 +990,6 @@
     "pinned": false
   },
   {
-    "id": "a8fd69ba878f039985e1134553cc8868e5e16ee7",
-    "title": "Software leaks point to the first Apple Silicon “iMac Pro,” among other devices",
-    "link": "https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/",
-    "summary": "Resurrected high-end all-in-one could be a worthy successor to 2017's iMac Pro.",
-    "isoDate": "2025-12-16T18:52:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Tech",
-      "apple",
-      "Apple silicon",
-      "iMac",
-      "Mac",
-      "macos 26 tahoe"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/iMac-Pro-front-scaled-1-500x500-1765906258.jpeg",
-    "pinned": false
-  },
-  {
     "id": "976ffd4d3024b820e068d4064f43d43088bb263f",
     "title": "A Look at Tesla's Photobooth Feature",
     "link": "https://www.notateslaapp.com/news/3419/a-look-at-teslas-photobooth-feature",
@@ -1130,19 +1141,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "SA Mathieson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7823512bb1023342ee40e5afc55d3ac13a258c19",
-    "title": "Bishop of Hong Kong tells peers AI is not the devil's work",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/bishop_hong_kong_ai/",
-    "summary": "<h4>Theologians give scriptural OK to online faith communities</h4> <p>The Bishop of Hong Kong said last week that AI was definitely not a gift from the devil at a meeting of his peers across Asia that called for sensible engagement with the technology.…</p>",
-    "isoDate": "2025-12-16T10:15:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1335,32 +1333,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/modely_starburst.png/2fcef3273431509cef1ac11c34430e2b/modely_starburst.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2a6a1f72b29c34a1fdc87dcb33c0773d987f9198",
-    "title": "Tesla’s New Phone Features: Phone Left Behind Alert, Wireless Charger Controls, and a New Bluetooth Feature",
-    "link": "https://www.notateslaapp.com/news/3416/teslas-new-phone-features-phone-left-behind-alert-wireless-charger-controls-and-a-new-bluetooth-feature",
-    "summary": "Tesla’s 2025 Holiday Update solves user friction with a new Phone Left Behind alert and finally adds a toggle to disable wireless charging pads.&hellip; <a href=\"https://www.notateslaapp.com/news/3416/teslas-new-phone-features-phone-left-behind-alert-wireless-charger-controls-and-a-new-bluetooth-feature\">Read More</a>",
-    "isoDate": "2025-12-11T15:32:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/switch-to-bluetooth.webp/b99360304244243f422a1e4f4a62becf/switch-to-bluetooth.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c75df51f4f4eeeb1362d8b19d5c7dc8c04d47116",
-    "title": "Tesla to Launch Larger FSD Model After the Holidays; Will Remove Robotaxi Safety Monitors in Three Weeks",
-    "link": "https://www.notateslaapp.com/news/3417/tesla-to-launch-a-larger-fsd-model-after-the-holidays-will-remove-robotaxi-safety-monitors-in-three-weeks",
-    "summary": "Elon Musk confirms Tesla will launch unsupervised Robotaxis in Austin in three weeks, removing human monitors for the first time.&hellip; <a href=\"https://www.notateslaapp.com/news/3417/tesla-to-launch-a-larger-fsd-model-after-the-holidays-will-remove-robotaxi-safety-monitors-in-three-weeks\">Read More</a>",
-    "isoDate": "2025-12-11T14:38:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-austin.webp/e3f64d88544521834b1fd58a7eca6033/robotaxi-austin.jpg",
     "pinned": false
   }
 ]
