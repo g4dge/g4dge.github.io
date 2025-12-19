@@ -1,5 +1,92 @@
 [
   {
+    "id": "57144600e35f1e5cbec86a1676f824865803c0ea",
+    "title": "Trump’s energy secretary orders a Washington state coal plant to remain open",
+    "link": "https://arstechnica.com/science/2025/12/trumps-energy-secretary-orders-a-washington-state-coal-plant-to-remain-open/",
+    "summary": "Chris Wright declared an energy “emergency” in the Pacific Northwest.",
+    "isoDate": "2025-12-19T18:29:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Blaine Harden, Inside Climate News",
+    "tags": [
+      "Science"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/WashingtonPower-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4345d0a864cd290cd285486d6d0eb1930fd8b1bf",
+    "title": "WatchGuard sounds alarm as critical Firebox flaw comes under active attack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/watchguard_firebox/",
+    "summary": "<h4>Newly disclosed vulnerability already being abused, users urged to lock down exposed firewalls</h4> <p>WatchGuard is in emergency patch mode after confirming that a critical remote code execution flaw in its Firebox firewalls is under active attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-19T18:16:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8555ac2110d240fe7f3a903f1fb74c84d1e4a934",
+    "title": "Instacart agrees to refund subscribers $60 million in FTC settlement",
+    "link": "https://arstechnica.com/tech-policy/2025/12/instacart-agrees-to-refund-subscribers-60-million-in-ftc-settlement/",
+    "summary": "The grocery app will also stop hiding refund options and obscuring delivery costs.",
+    "isoDate": "2025-12-19T18:10:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "Consumer protection",
+      "federal trade commission",
+      "FTC",
+      "grocery delivery",
+      "instacart"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2156103533-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ae61ee5ed99515b40417a0c03f1002b77d96c9ed",
+    "title": "Strava puts popular “Year in Sport” recap behind an $80 paywall",
+    "link": "https://arstechnica.com/culture/2025/12/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall/",
+    "summary": "Strava’s most viral feature is suddenly locked away.",
+    "isoDate": "2025-12-19T17:43:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cyrus Farivar",
+    "tags": [
+      "Culture",
+      "paywalls",
+      "strava"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2193480664-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "92043fd7cadad95b10506e392d20148e36dcf395",
+    "title": "We asked four AI coding agents to rebuild Minesweeper—the results were explosive",
+    "link": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/",
+    "summary": "How do four modern LLMs do at recreating a simple Windows gaming classic?",
+    "isoDate": "2025-12-19T17:29:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland and Benj Edwards",
+    "tags": [
+      "AI",
+      "Gaming",
+      "agent",
+      "AI gaming",
+      "Claude Code",
+      "coding",
+      "gemini",
+      "test"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/ai-gpu-minsweeper-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "d52ff7aab90f693f6449d1c3fdabea4013f849fe",
     "title": "Sydney Uni data goes walkabout after criminals raid code repo",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/sydney_uni_breach/",
@@ -290,7 +377,11 @@
     "author": "Stephen Clark",
     "tags": [
       "Science",
-      "Space"
+      "Space",
+      "aerospace",
+      "DiskSat",
+      "electron rocket",
+      "rocket lab"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/disksat-deploying-101-500x500.webp",
     "pinned": false
@@ -677,25 +768,6 @@
     "pinned": false
   },
   {
-    "id": "8d190af620bb7b6c76ba8726552c7eabc1626850",
-    "title": "Does swearing make you stronger? Science says yes.",
-    "link": "https://arstechnica.com/science/2025/12/does-swearing-make-you-stronger-science-says-yes/",
-    "summary": "\"A calorie-neutral, drug-free, low-cost, readily available tool for when we need a boost in performance.”",
-    "isoDate": "2025-12-18T14:46:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "hypoalgesic effects",
-      "pain relief",
-      "profanity",
-      "psychology"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/screaming-f-bombs-500x500-1766064577.jpg",
-    "pinned": false
-  },
-  {
     "id": "92264581b55d4cd83076862259070704004b492a",
     "title": "Another bad week for SonicWall as SMA 1000 zero-day under active exploit",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/sonicwall_sma_1000_0day/",
@@ -706,22 +778,6 @@
     "author": "Carly Page",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6a429b4fe681834abafb04dd58f5ab3a6a33e7ab",
-    "title": "Formula 1 is deploying new jargon for 2026",
-    "link": "https://arstechnica.com/cars/2025/12/formula-1-is-deploying-new-jargon-for-2026/",
-    "summary": "Forget DRS, now it's all about corner mode, straight mode, and overtake mode.",
-    "isoDate": "2025-12-18T13:52:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "F1"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/2026_Explainer_FIA_Front_3_4_1920x1080-2-1536x864-1-500x500.jpg",
     "pinned": false
   },
   {
@@ -761,28 +817,6 @@
     "author": "Connor Jones",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "63d21526757af997c6a88c976b9aa1a98d6df1e6",
-    "title": "The inside story of SpaceX’s historic rocket landing that changed launch forever",
-    "link": "https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/",
-    "summary": "\"It's hard to describe how epic this comeback was after our first Falcon 9 launch failure.\"",
-    "isoDate": "2025-12-18T12:00:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Features",
-      "Space",
-      "Elon Musk",
-      "falcon 9",
-      "first landing",
-      "reentry",
-      "space",
-      "spacex"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-500x500.jpg",
     "pinned": false
   },
   {
@@ -916,26 +950,6 @@
     "author": "Simon Sharwood",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "aa2bce7fab3118d3c5146f34f70c4bd7f0adb2e6",
-    "title": "NASA finally—and we really do mean it this time—has a full-time leader",
-    "link": "https://arstechnica.com/space/2025/12/nasa-finally-and-we-really-do-mean-it-this-time-has-a-full-time-leader/",
-    "summary": "A long and winding road to reach NASA's headquarters in Washington, DC.",
-    "isoDate": "2025-12-18T00:19:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "administrator",
-      "jared isaacman",
-      "NASA",
-      "space",
-      "Trump"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249116324-500x500.jpg",
     "pinned": false
   },
   {
@@ -1168,19 +1182,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1044c5bfbf643e5e1fd7895369a893eb09e91806",
-    "title": "England keeping pen and paper exams despite limited digital expansion",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/england_pen_paper_exams/",
-    "summary": "<h4>Regulator proposes strict limits on screen-based testing, cites infrastructure concerns and lack of evidence for benefits</h4> <p>Most students taking school and college GCSE, A-level, and AS-level exams in England will continue to use pen and paper, according to proposals from the sector's regulator for a very limited expansion of screen-based assessments.…</p>",
-    "isoDate": "2025-12-17T10:15:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
     "tags": [],
     "image": "",
     "pinned": false
