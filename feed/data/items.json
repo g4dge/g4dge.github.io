@@ -1,5 +1,70 @@
 [
   {
+    "id": "fb3d07472d1fa9804f0680fec136700cb8d3a885",
+    "title": "Apple hit with $115M for “extremely burdensome” App Store privacy policy",
+    "link": "https://arstechnica.com/tech-policy/2025/12/apple-hit-with-115m-for-extremely-burdensome-app-store-privacy-policy/",
+    "summary": "Apple can't force app makers to get consent twice to track user data, Italian regulator says.",
+    "isoDate": "2025-12-22T16:29:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "App Store",
+      "App Tracking",
+      "apple",
+      "competition law",
+      "italy",
+      "personalized advertising",
+      "privacy policy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1246015033-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0058321ed107a6c36ce9b218c2bdcf90e8cd686b",
+    "title": "NASA rewraps Boeing Starliner Astrovan II for Artemis II ride to launch pad",
+    "link": "https://arstechnica.com/space/2025/12/nasa-rewraps-boeing-starliner-astrovan-ii-for-artemis-ii-ride-to-launch-pad/",
+    "summary": "Moon-bound astronauts rehearse their launch-day activities with a repurposed ride.",
+    "isoDate": "2025-12-22T16:20:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Robert Pearlman",
+    "tags": [
+      "Space",
+      "Airstream",
+      "artemis II",
+      "artemis program",
+      "Astrovan II",
+      "Boeing",
+      "Canoo",
+      "CDDT",
+      "countdown demonstration test",
+      "crew transport vehicle",
+      "CTV",
+      "Kennedy Space Center",
+      "NASA",
+      "Space exploration",
+      "space history",
+      "starliner"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/news-122025a-lg-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0af3e689d43682ead0216220ec051ca7419325ea",
+    "title": "What the Linux desktop really needs to challenge Windows",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/what_linux_desktop_really_needs/",
+    "summary": "<h4>Wasn't 2025 the year it happened? Yes. No. Answers on a Christmas card</h4> <p><strong>Opinion</strong>  I've run Linux desktops since the big interface question was whether to use Korn or Bash for your shell. Before that, I'd used Unix desktops such as Visix Looking Glass, Sun OpenWindows, and SCO's infamous Open <span class=\"strike\">Deathtrap</span> Desktop.…</p>",
+    "isoDate": "2025-12-22T15:35:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Steven J. Vaughan-Nichols",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "ae5da8c5709823bba0fd96879e5f01fd874e4b70",
     "title": "Tesla Engineers Ride in Robotaxi Without Safety Monitor — Cat Comes Along [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3447/tesla-engineers-ride-in-robotaxi-without-safety-monitor-cat-comes-along-video",
@@ -700,26 +765,6 @@
     "pinned": false
   },
   {
-    "id": "d62d7ea5d2e9eda2406ac8953079199b648fe177",
-    "title": "Two space startups prove you don’t need to break the bank to rendezvous in space",
-    "link": "https://arstechnica.com/space/2025/12/two-space-startups-prove-you-dont-need-to-break-the-bank-to-rendezvous-in-space/",
-    "summary": "\"We had to push the envelope a little bit here.\"",
-    "isoDate": "2025-12-19T15:02:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "impulse space",
-      "mira",
-      "otter",
-      "space",
-      "Starfish"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/4371bd04b6be161792492d5223ebb212400cdf82-1920x1080-1-500x500.webp",
-    "pinned": false
-  },
-  {
     "id": "c4e4d88bc59e1a38bbe5009dc6bd192079877ded",
     "title": "HPE tells customers to patch fast as OneView RCE bug scores a perfect 10",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/hpe_oneview_rce_bug/",
@@ -877,26 +922,6 @@
     "author": "Simon Sharwood",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7ed4b240ace5faf9c23976a38e8de5136612d61d",
-    "title": "These are the flying discs the government wants you to know about",
-    "link": "https://arstechnica.com/science/2025/12/heres-why-nasa-and-the-space-force-are-interested-in-pizza-shaped-satellites/",
-    "summary": "DiskSat's design offers \"a power-to-weight ratio unmatched by traditional aluminum satellites.\"",
-    "isoDate": "2025-12-19T03:18:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "aerospace",
-      "DiskSat",
-      "electron rocket",
-      "rocket lab"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/disksat-deploying-101-500x500.webp",
     "pinned": false
   },
   {
@@ -1220,19 +1245,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/wsis_20_plus_resolved/",
     "summary": "<h4>World Summit on the Information Society resolves the world needs a permanent forum to discuss how we manage the 'Net</h4> <p>The United Nations General Assembly on Wednesday reached consensus on a review of the world’s internet governance arrangements and preserved the current multi-stakeholder model that means governments are just one of many voices that debate the future of the internet.…</p>",
     "isoDate": "2025-12-18T04:45:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "06fd2b9861e8f8e4dc9696a27228dac3e63ca20f",
-    "title": "Micron says memory shortages are here for the foreseeable future",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/micron_q1_2026/",
-    "summary": "<h4>Even with its new fabs coming online, demand will exceed supply</h4> <p>Memory-maker Micron Technology has predicted that RAM shortages are here to stay, meaning higher prices for servers probably are, too.…</p>",
-    "isoDate": "2025-12-18T02:41:21Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
