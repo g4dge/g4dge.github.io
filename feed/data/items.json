@@ -1,5 +1,54 @@
 [
   {
+    "id": "7382020e341e3e0032a8d4c7e35553a05bfc66f8",
+    "title": "SoftBank scrambling to come up with $22.5B in OpenAI funding before New Year",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/softbank_funding_openai/",
+    "summary": "<h4>Masayoshi Son better hope he made Santa's nice list</h4> <p>Japanese tech investment giant SoftBank needs to secure $22.5 billion before the end of the year to make good on its commitments to AI partner OpenAI.…</p>",
+    "isoDate": "2025-12-22T20:28:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0e608ea1c1eed51823ce92a504c5382d0f3b4947",
+    "title": "Spy turned startup CEO: 'The WannaCry of AI will happen'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/zafran_security_ceo/",
+    "summary": "<h4>Ah, the good old days when 0-day development took a year</h4> <p><strong>Interview</strong>  \"In my past life, it would take us 360 days to develop an amazing zero day,\" Zafran Security CEO Sanaz Yashar said.…</p>",
+    "isoDate": "2025-12-22T19:39:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8c1cce86077f73408e6b5c84a5c9655e45f16e95",
+    "title": "World’s largest shadow library made a 300TB copy of Spotify’s most streamed songs",
+    "link": "https://arstechnica.com/tech-policy/2025/12/worlds-largest-shadow-library-brags-it-scraped-300tb-of-spotify-music-metadata/",
+    "summary": "Spotify is reportedly investigating how much music Anna’s Archive scraped.",
+    "isoDate": "2025-12-22T19:34:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI training",
+      "Anna's archive",
+      "LLMs",
+      "music streaming",
+      "piracy",
+      "shadow library",
+      "spotify"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2248951918-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "ff4a9bb375d7b869fef0b7a72f2d0be74e8a73e8",
     "title": "US blocks all offshore wind construction, says reason is classified",
     "link": "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/",
@@ -749,27 +798,6 @@
     "pinned": false
   },
   {
-    "id": "54ecd3f4811a7611b1244843edbf10317141931c",
-    "title": "Russia is about to do the most Russia thing ever with its next space station",
-    "link": "https://arstechnica.com/space/2025/12/russia-is-about-to-do-the-most-russia-thing-ever-with-its-next-space-station/",
-    "summary": "\"Russia, meanwhile, will be left to carry on the legacy of the ISS, with all its problems.\"",
-    "isoDate": "2025-12-19T16:04:35Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "iss",
-      "nauka",
-      "rOS",
-      "russia",
-      "space",
-      "space station"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Photo-1-Basic-Characteristics-Russian-Orbital-Station-Development-Stage-2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "9120141ef792fc3cecc8adbb3f47d545027a7b8a",
     "title": "NS&amp;I tech overhaul blows past Treasury spending limits",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/nsi_treasury_spending_cap/",
@@ -1203,19 +1231,6 @@
     "pinned": false
   },
   {
-    "id": "b2d17c698235c65b99a906f6453e60c55f49a5fc",
-    "title": "BBC tapped to stop Britain being baffled by AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/bbc_ai_explain/",
-    "summary": "<h4>Gov wants broadcaster to revive 1980s computer literacy magic – and maybe flog its archives to tech giants</h4> <p>The UK government wants the BBC to help Brits understand AI and develop basic technology skills as part of the public broadcaster's next charter period.…</p>",
-    "isoDate": "2025-12-18T10:01:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "7d3a55cb755dc0d681edfdd71067e2194bc95abd",
     "title": "In the face of AI-driven encyclopedias, cherish Wikipedia – and original sources",
     "link": "https://www.skeptic.org.uk/2025/12/in-the-face-of-ai-driven-encyclopedias-cherish-wikipedia-and-original-sources/",
@@ -1228,19 +1243,6 @@
       "Skepticism",
       "Technology"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ebfc644603eb91b829cd3511d6f60b3487fcee59",
-    "title": "DVSA's clapped-out booking system gets bot slapped as new boss rides in",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/dvsa_bot_booking/",
-    "summary": "<h4>18-year-old platform crumbles under 94M daily requests while resellers flog £62 tests for £500</h4> <p>The UK's Driver and Vehicle Standards Agency (DVSA) has appointed a new chief exec to tackle spiraling waits for practical driving tests with bots overrunning its aging booking system.…</p>",
-    "isoDate": "2025-12-18T09:38:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
-    "tags": [],
     "image": "",
     "pinned": false
   },
