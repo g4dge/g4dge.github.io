@@ -1,5 +1,40 @@
 [
   {
+    "id": "d1a2e53ccb6c715d10a70b016272bd3a5180bafa",
+    "title": "Poisoned WhatsApp API package steals messages and accounts",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/whatsapp_npm_package_message_steal/",
+    "summary": "<h4>And it's especially dangerous because the code works</h4> <p>A malicious npm package with more than 56,000 downloads masquerades as a working WhatsApp Web API library, and then it steals messages, harvests credentials and contacts, and hijacks users' WhatsApp accounts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-22T22:04:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cf4b4defaf266ce8564cba823cfafc4c7fdc11a7",
+    "title": "Call of Duty co-creator and Battlefield lead Vince Zampella dies in car crash",
+    "link": "https://arstechnica.com/gaming/2025/12/vince-zampella-developer-of-call-of-duty-and-battlefield-games-dies-at-55/",
+    "summary": "He had worked on Medal of Honor, Call of Duty, Titanfall, and Battlefield.",
+    "isoDate": "2025-12-22T21:35:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "Gaming",
+      "Battlefield",
+      "Call of Duty",
+      "EA",
+      "Infinity Ward",
+      "obituary",
+      "Respawn Entertainment",
+      "vince zampella"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-3.16.51-PM-500x500.png",
+    "pinned": false
+  },
+  {
     "id": "2b952d20de67e2062582a65dbfce4cbe2fcc5e74",
     "title": "Safety panel says NASA should have taken Starliner incident more seriously",
     "link": "https://arstechnica.com/space/2025/12/safety-panel-says-nasa-should-have-taken-starliner-incident-more-seriously/",
@@ -476,9 +511,9 @@
   },
   {
     "id": "52f7488a5954619322f2abc5cf58b60fee2d4f33",
-    "title": "NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift",
+    "title": "NIST contemplated pulling the pin on NTP servers after blackout caused atomic clock drift",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/",
-    "summary": "<h4>A rare case of deliberately trying to induce an outage</h4> <p><strong>UPDATED</strong>  A staffer at the USA’s National Institute of Standards and Technology (NIST) tried to disable backup generators powering some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Time signals shifted by a tiny amount that only very sensitive users would find upsetting</h4> <p><strong>UPDATED</strong>  A staffer at the USA’s National Institute of Standards and Technology (NIST) tried to disable backup generators powering some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2025-12-21T07:40:41Z",
     "source": "The Register",
     "category": "Tech",
@@ -740,23 +775,6 @@
       "instacart"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2156103533-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ae61ee5ed99515b40417a0c03f1002b77d96c9ed",
-    "title": "Strava puts popular “Year in Sport” recap behind an $80 paywall",
-    "link": "https://arstechnica.com/culture/2025/12/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall/",
-    "summary": "Strava’s most viral feature is suddenly locked away.",
-    "isoDate": "2025-12-19T17:43:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cyrus Farivar",
-    "tags": [
-      "Culture",
-      "paywalls",
-      "strava"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2193480664-500x500.jpg",
     "pinned": false
   },
   {
@@ -1175,19 +1193,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b14461e968aa5e235ea75dfa94dc56ca40fabc4c",
-    "title": "NHS tech supplier probes cyberattack on internal systems",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/nhs_tech_supplier_cyberattack/",
-    "summary": "<h4>Around 2,000 GP practices use its products</h4> <p><strong>Updated</strong>  An NHS tech supplier is investigating a cyberattack that affected its systems in the early hours of Sunday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-18T13:02:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
