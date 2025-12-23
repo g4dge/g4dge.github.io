@@ -1,5 +1,53 @@
 [
   {
+    "id": "940ae083dac7f53be42bc41b605b42f5939dc252",
+    "title": "Windows is testing a new, wider Run dialog box. Here’s how to try it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/windows_is_testing_new_run_dialog_box/",
+    "summary": "<h4>You’ll need to be using a Windows Insider build to see it</h4> <p>The Windows 11 Run dialog box is one of the oldest pieces of user interface still in use. It works just fine, but it has an aesthetic that harkens back to earlier versions of Microsoft’s operating system. Now, that’s set to change.…</p>",
+    "isoDate": "2025-12-23T16:23:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2a5fdb02315c122c185162ae6c6e1d3a21760ff3",
+    "title": "“Yo what?” LimeWire re-emerges in online rush to share pulled “60 Minutes” segment",
+    "link": "https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/",
+    "summary": "Redditor jokes LimeWire is now a \"champion against the darkness.\"",
+    "isoDate": "2025-12-23T16:18:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "CBS News",
+      "censorship",
+      "Donald Trump",
+      "government censorship",
+      "LimeWire",
+      "peer-to-peer networks",
+      "torrents"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2194604196-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "57b436bcd63e0007ab5a45fe0a85991484426e0a",
+    "title": "Tesla Launches New Safety Hub Explaining Why Its Vehicles Are Safer",
+    "link": "https://www.notateslaapp.com/news/3443/tesla-launches-new-safety-hub-explaining-why-its-vehicles-are-safer",
+    "summary": "Tesla launches a comprehensive new Safety webpage detailing how its hardware, AI, and active safety features protect occupants, pedestrians, and wildlife alike.&hellip; <a href=\"https://www.notateslaapp.com/news/3443/tesla-launches-new-safety-hub-explaining-why-its-vehicles-are-safer\">Read More</a>",
+    "isoDate": "2025-12-23T15:55:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-safety.webp/42f473e7b2eea89346286bd144f8f72d/tesla-fsd-safety.jpg",
+    "pinned": false
+  },
+  {
     "id": "c510924f712901a840fc1036e2653d637ebd75e3",
     "title": "F1’s new engines are causing consternation over compression ratios",
     "link": "https://arstechnica.com/cars/2025/12/f1s-new-engines-are-causing-consternation-over-compression-ratios/",
@@ -891,28 +939,6 @@
     "pinned": false
   },
   {
-    "id": "2af96db86d224a2a7ab73adae68cb8d6170d2978",
-    "title": "Riot Games is making an anti-cheat change that could be rough on older PCs",
-    "link": "https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/",
-    "summary": "BIOS checks will only affect a limited subset of <em>Valorant</em> players for now.",
-    "isoDate": "2025-12-19T20:27:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Gaming",
-      "Tech",
-      "AMD",
-      "anti-cheat",
-      "Intel",
-      "Riot games",
-      "valorant",
-      "Vanguard"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/riot-valorant-vanguard-500x500-1766172878.jpg",
-    "pinned": false
-  },
-  {
     "id": "ad6cb7d74c078da702e4db10313f6f19f885578e",
     "title": "ATM jackpotting gang accused of unleashing Ploutus malware across US",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/",
@@ -1216,19 +1242,6 @@
     "pinned": false
   },
   {
-    "id": "7dfcd4a16a3c0502cf5507ca1d70608437707f64",
-    "title": "Snowflake update caused a blizzard of failures worldwide",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/snowflake_update_caused_a_blizzard/",
-    "summary": "<h4>Customers in 10 of the company’s 23 regions had “operations fail or take an extended amount of time to complete.”</h4> <p>Snowflake pushed an update this week that caused a “major outage” worldwide, leaving many users unable to query data, experiencing failures when ingesting files, and receiving error messages for 13 hours, the company wrote in an impact statement.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-18T20:54:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "dd0022f26e8d326fa9c6012f7962942151f8cec3",
     "title": "Tesla's Holiday Update: Photos and Videos of Every Feature",
     "link": "https://www.notateslaapp.com/news/3421/teslas-holiday-update-photos-and-videos-of-every-feature",
@@ -1311,7 +1324,7 @@
   },
   {
     "id": "a48f09f4d7aa103ad57cf68e6c1005925f3e61a8",
-    "title": "Tesla To Offer Safety Score Disputes for Tesla Insurance",
+    "title": "Tesla Owners Will Be Able to Dispute Forward Collision Warnings in Safety Score for Tesla Insurance",
     "link": "https://www.notateslaapp.com/news/3431/tesla-to-offer-safety-score-disputes-for-insurance",
     "summary": "Tesla App v4.51.7 code reveals a new Dispute Safety Score feature, allowing customers to contest false positives like phantom Forward Collision Warnings.&hellip; <a href=\"https://www.notateslaapp.com/news/3431/tesla-to-offer-safety-score-disputes-for-insurance\">Read More</a>",
     "isoDate": "2025-12-17T18:03:00Z",
@@ -1387,32 +1400,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/photobooth.png/5bf8b6ff753cd598a9fb284f3c937b18/photobooth.jpg",
-    "pinned": false
-  },
-  {
-    "id": "20f75a8060d011e7d275404f816fdec72d758cc6",
-    "title": "Inside Tesla’s Unsupervised FSD Geofence for Data Gathering",
-    "link": "https://www.notateslaapp.com/news/3360/inside-teslas-unsupervised-fsd-geofence-for-data-gathering",
-    "summary": "Update 2025.44 reveals a 'Bay Unsupervised CA DMV' geofence. We analyze how this shadow mode builds the case for a California driverless permit.&hellip; <a href=\"https://www.notateslaapp.com/news/3360/inside-teslas-unsupervised-fsd-geofence-for-data-gathering\">Read More</a>",
-    "isoDate": "2025-12-16T16:31:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/bay_area_unsupervised.jpg/2f910dd3abe45728274c9e8ab62474fa/bay_area_unsupervised.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cffea6eb75bca4e2eb04f15e85b2d7b18f5b4b36",
-    "title": "Tesla's New Dashcam Viewer and Telemetry Data: All Features Explained",
-    "link": "https://www.notateslaapp.com/news/3423/teslas-new-dashcam-viewer-and-telemetry-data-all-features-explained",
-    "summary": "The updated Tesla Dashcam Viewer now features a telemetry overlay displaying speed, braking, and Autopilot data, along with improved event filtering.&hellip; <a href=\"https://www.notateslaapp.com/news/3423/teslas-new-dashcam-viewer-and-telemetry-data-all-features-explained\">Read More</a>",
-    "isoDate": "2025-12-16T15:33:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/dashcam_viewer_holiday_update.jpg/cc2d2538db5889ae884e32214bf80d07/dashcam_viewer_holiday_update.jpg",
     "pinned": false
   }
 ]
