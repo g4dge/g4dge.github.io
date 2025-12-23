@@ -1,5 +1,85 @@
 [
   {
+    "id": "483ae9e09e343d585fcb3fb31afc37278f8c435e",
+    "title": "DJI’s new drones will not be available in the US as FCC ban takes effect",
+    "link": "https://arstechnica.com/gadgets/2025/12/djis-new-drones-will-not-be-available-in-the-us-as-fcc-ban-takes-effect/",
+    "summary": "US drone makers are happy—US drone hobbyists, not so much.",
+    "isoDate": "2025-12-23T17:29:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Policy",
+      "Tech",
+      "dji",
+      "drones",
+      "FCC",
+      "unmanned aircraft systems"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2240543421-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c2e23f96272a17edafaa01be1e7f3106f996121e",
+    "title": "21K Nissan customers' data stolen in Red Hat raid",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/21k_nissan_customers_data_stolen/",
+    "summary": "<h4>Automaker's third security snafu in three years</h4> <p>Thousands of Nissan customers are learning that some of their personal data was leaked after unauthorized access to a Red Hat-managed server, according to the Japanese automaker.…</p>",
+    "isoDate": "2025-12-23T17:23:38Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "dda2cbc5ad3f13726d999ecdf49c41dbcbe4b2f1",
+    "title": "OpenAI’s child exploitation reports increased sharply this year",
+    "link": "https://arstechnica.com/tech-policy/2025/12/openais-child-exploitation-reports-increased-sharply-this-year/",
+    "summary": "Incident reports spiked during the first six months of 2025.",
+    "isoDate": "2025-12-23T17:02:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Maddy Varner, WIRED.com",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai csam",
+      "csam",
+      "NCMEC",
+      "openai",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/openai-logo-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2d5bbe7358b55e8613075935d591deee00e4a0ad",
+    "title": "Starlink satellite fails, polluting orbit with debris and falling toward Earth",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/starlink_satellite_fails_debris/",
+    "summary": "<h4>Spacecraft set to burn up in a few weeks, but it could have been worse</h4> <p>As if to underscore the need to avoid the Kessler Syndrome, a scenario in which cascading debris can make some orbits difficult to use, a Starlink satellite vented propellant and released debris following an onboard \"anomaly\" late last week.…</p>",
+    "isoDate": "2025-12-23T16:58:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "adcf4c1ff58bd66a402405c3a13250a07c4b9e71",
+    "title": "Microsoft rushes an out-of-band update for Message Queuing bug",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/microsoft_fixes_message_queuing_issue/",
+    "summary": "<h4>Redmond gets in early for the twelve whoopsies of Christmas</h4> <p>Microsoft has hustled out an out-of-band update to address a Message Queuing issue introduced by the December 2025 update.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-23T16:37:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "940ae083dac7f53be42bc41b605b42f5939dc252",
     "title": "Windows is testing a new, wider Run dialog box. Here’s how to try it",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/windows_is_testing_new_run_dialog_box/",
@@ -881,51 +961,6 @@
     "pinned": false
   },
   {
-    "id": "fef81c5c083d9584fb4df92b77b5ea7d13de5d9c",
-    "title": "Switch 2 pub backs off Game Key Cards after leaking lower-cost cartridge options",
-    "link": "https://arstechnica.com/gaming/2025/12/cheaper-lower-capacity-switch-2-cartridges-could-mean-fewer-game-key-cards/",
-    "summary": "Inin suggests new low-cost options allowed it to \"recalculate production\" for full cartridge.",
-    "isoDate": "2025-12-19T21:30:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "cartridges",
-      "cost",
-      "game key cards",
-      "memory",
-      "Nintendo",
-      "production",
-      "switch 2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/switch2gkc-500x500-1766176972.png",
-    "pinned": false
-  },
-  {
-    "id": "93150602a77bd1922dc2b865e888c5702056e612",
-    "title": "LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems",
-    "link": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
-    "summary": "LG says it'll let people delete the Copilot icon. But TV chatbots aren't going away.",
-    "isoDate": "2025-12-19T21:18:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "AI",
-      "Tech",
-      "chatbots",
-      "copilot",
-      "generative ai",
-      "LG",
-      "microsoft",
-      "Samsung",
-      "TVs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1603701301-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "9fe413cf8b70369377c56f81553c7b5b59618366",
     "title": "Infinite Machine e-scooter is like the offspring of a Vespa and a Cybertruck",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/infinite_machine_electric_scooter/",
@@ -1203,45 +1238,6 @@
     "pinned": false
   },
   {
-    "id": "2ea76065d3e36b0c86ef8ba0ef5cbec38d675635",
-    "title": "China turns on a vast experimental network it says is an heir to ARPANET",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/china_environment_for_network_innovation/",
-    "summary": "<h4>Beijing wants to 'seize the initiative in the international competition in cyberspace'</h4> <p>Chinese authorities on Thursday certified the China Environment for Network Innovation (CENI), a vast research network that Beijing hopes will propel the country to the forefront of networking research.…</p>",
-    "isoDate": "2025-12-19T02:59:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1f9e7bdc1497370a4b137898d57ca3b20a73e719",
-    "title": "Amazon blocked 1,800 suspected North Korean scammers seeking jobs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers/",
-    "summary": "<h4>Plus: Lazarus Group has a brand new BeaverTail</h4> <p>Even Amazon isn't immune to North Korean scammers who try to score remote jobs at tech companies so they can funnel their wages to Kim Jong Un's coffers.…</p>",
-    "isoDate": "2025-12-18T23:39:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d38d2577602b1937abdeca0af985438b8643525a",
-    "title": "Waterfox browser goes AI-free, targets the Firefox faithful",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/firefox_no_ai_alternative_waterfox/",
-    "summary": "<h4>Even if Mozilla is going to add an AI kill switch, that may not be enough to reassure many.</h4> <p>Waterfox, a popular fork of Firefox, is saying nay to AI. Considering how unpopular Mozilla's plan to botify its browser has become, this could win the alternative some converts.…</p>",
-    "isoDate": "2025-12-18T22:20:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "dd0022f26e8d326fa9c6012f7962942151f8cec3",
     "title": "Tesla's Holiday Update: Photos and Videos of Every Feature",
     "link": "https://www.notateslaapp.com/news/3421/teslas-holiday-update-photos-and-videos-of-every-feature",
@@ -1387,19 +1383,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2021/safety-score-4.jpg/1071ebd38c2e666a40701b8037f8cf34/safety-score-4.jpg",
-    "pinned": false
-  },
-  {
-    "id": "976ffd4d3024b820e068d4064f43d43088bb263f",
-    "title": "A Look at Tesla's Photobooth Feature",
-    "link": "https://www.notateslaapp.com/news/3419/a-look-at-teslas-photobooth-feature",
-    "summary": "The Tesla Photobooth allows you to take, edit, and create custom stickers for selfies directly from your car, and share them instantly via the Tesla App.&hellip; <a href=\"https://www.notateslaapp.com/news/3419/a-look-at-teslas-photobooth-feature\">Read More</a>",
-    "isoDate": "2025-12-16T17:16:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/photobooth.png/5bf8b6ff753cd598a9fb284f3c937b18/photobooth.jpg",
     "pinned": false
   }
 ]
