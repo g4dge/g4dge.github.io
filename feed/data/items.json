@@ -1,5 +1,67 @@
 [
   {
+    "id": "ee32e7dbc8fd1d057ee02366f770bdcc97547eb8",
+    "title": "France’s post office partly offline for over 12 hours after 'major network incident'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/la_poste_france_offline/",
+    "summary": "<h4>Might be Le Grinch, or a DDoS, but it's taking a while to fix</h4> <p>La Poste, France’s postal service, is largely offline, possibly due to an unexplained incident.…</p>",
+    "isoDate": "2025-12-23T01:39:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6f01285f84cec9f7497f4c2e9ae59962cd1e1b98",
+    "title": "Japan loses another H3 launcher, plus the satnav bird it carried",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/23/jaxa_h3_failure_inquiry/",
+    "summary": "<h4>25 percent failure rate for JAXA's space truck, with the second stage again proving perilous</h4> <p>Japan’s Aerospace Exploration Agency (JAXA) has created a Special Task Force to investigate the failed launch of its H3 rocket on Monday.…</p>",
+    "isoDate": "2025-12-23T00:09:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a7285a4eb5bb51e4a162a45080de8c40150faa94",
+    "title": "In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance",
+    "link": "https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/",
+    "summary": "\"It has been a great privilege to lead ULA through its transformation and to bring Vulcan into service.\"",
+    "isoDate": "2025-12-22T23:51:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "atlas v",
+      "Boeing",
+      "launch",
+      "Lockheed Martin",
+      "tory bruno",
+      "united launch alliance",
+      "vulcan"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/NHQ202405060021large-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "90eb6d7c9de851592c36975f83e4f8957520ed6b",
+    "title": "Tesla Update 2025.45.5 (FSD V14.2.2) Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2025.45.5/release-notes",
+    "summary": "Tesla software update 2025.45.5 (FSD 14.2.2) includes FSD (Supervised) v14.2.2, Arrival Options, Speed Profiles, UI Improvements, Brake Confirm, Full Self-Driving (Supervised), Grok with Navigation Commands (Beta), Tesla Photobooth, Dog Mode Live Activity on iOS, Dashcam Viewer Update, Santa Mode Updates, Light Show Update, Paint Shop, Paint Shop Upgrade, Navigation Improvements, Automatic HOV Lanes Routing, Supercharger Site Maps, Phone Left On Wireless Charger, Phone Left Behind, Save Charge Limit by Location, SpaceX Docking Simulator, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.45.5/release-notes\">View Release Notes</a>",
+    "isoDate": "2025-12-22T22:15:06Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+    "pinned": false
+  },
+  {
     "id": "d1a2e53ccb6c715d10a70b016272bd3a5180bafa",
     "title": "Poisoned WhatsApp API package steals messages and accounts",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/whatsapp_npm_package_message_steal/",
@@ -758,26 +820,6 @@
     "pinned": false
   },
   {
-    "id": "8555ac2110d240fe7f3a903f1fb74c84d1e4a934",
-    "title": "Instacart agrees to refund subscribers $60 million in FTC settlement",
-    "link": "https://arstechnica.com/tech-policy/2025/12/instacart-agrees-to-refund-subscribers-60-million-in-ftc-settlement/",
-    "summary": "The grocery app will also stop hiding refund options and obscuring delivery costs.",
-    "isoDate": "2025-12-19T18:10:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "Consumer protection",
-      "federal trade commission",
-      "FTC",
-      "grocery delivery",
-      "instacart"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2156103533-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d52ff7aab90f693f6449d1c3fdabea4013f849fe",
     "title": "Sydney Uni data goes walkabout after criminals raid code repo",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/sydney_uni_breach/",
@@ -1167,32 +1209,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "97a780eacccbe001cbebf0c7f72de4c55bb6ea62",
-    "title": "FBI dismantles alleged $70M crypto laundering operation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/e_note_takedown/",
-    "summary": "<h4>Justice Department claims unlicensed exchange funneled ransomware profits</h4> <p>US feds have dismantled a crypto laundering service that they say helped cybercrooks wash tens of millions of dollars in dirty digital cash, seizing its servers and unsealing charges against an alleged Russian operator.…</p>",
-    "isoDate": "2025-12-18T13:52:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2273368ec48a006f6154d57a9467a9f213f2f5ec",
-    "title": "Isaacman finally confirmed as NASA boss after Trump derailed first attempt",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/isaacman_given_nod_as_nasa/",
-    "summary": "<h4>Billionaire space tourist inherits troubled agency facing budget chaos, workforce cuts, and a Moon race against China</h4> <p>NASA has a new administrator. Billionaire and space tourist Jared Isaacman was confirmed by the US Senate by a vote of 67 to 30.…</p>",
-    "isoDate": "2025-12-18T13:19:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
