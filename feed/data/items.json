@@ -1,5 +1,18 @@
 [
   {
+    "id": "4ef5a8b08affe5627d56636a3b5b3e0556e2fc5a",
+    "title": "Pen testers accused of 'blackmail' after reporting Eurostar chatbot flaws",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/pentesters_reported_eurostar_chatbot_flaws/",
+    "summary": "<h4>AI goes off the rails … because of shoddy guardrails</h4> <p>Researchers at Pen Test Partners found four flaws in Eurostar's public AI chatbot that, among other security issues, could allow an attacker to inject malicious HTML content or trick the bot into leaking system prompts. Their thank you from the company: being accused of \"blackmail.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2025-12-24T18:22:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5536c76a4678de4fcc0eeac12028b7c2ebf57d7e",
     "title": "Being Santa Claus is a year-round calling",
     "link": "https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/",
@@ -1170,19 +1183,6 @@
     "pinned": false
   },
   {
-    "id": "4345d0a864cd290cd285486d6d0eb1930fd8b1bf",
-    "title": "WatchGuard sounds alarm as critical Firebox flaw comes under active attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/watchguard_firebox/",
-    "summary": "<h4>Newly disclosed vulnerability already being abused, users urged to lock down exposed firewalls</h4> <p>WatchGuard is in emergency patch mode after confirming that a critical remote code execution flaw in its Firebox firewalls is under active attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-19T18:16:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "f44d433ff7cf741ae1d8df5af0cc61746c60c7db",
     "title": "First Look at Tesla's Indirect TPMS in Standard Models",
     "link": "https://www.notateslaapp.com/news/3432/first-look-at-teslas-indirect-tpms-in-standard-models",
@@ -1330,19 +1330,6 @@
       "Technology"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a48f09f4d7aa103ad57cf68e6c1005925f3e61a8",
-    "title": "Tesla Owners Will Be Able to Dispute Forward Collision Warnings in Safety Score for Tesla Insurance",
-    "link": "https://www.notateslaapp.com/news/3431/tesla-to-offer-safety-score-disputes-for-insurance",
-    "summary": "Tesla App v4.51.7 code reveals a new Dispute Safety Score feature, allowing customers to contest false positives like phantom Forward Collision Warnings.&hellip; <a href=\"https://www.notateslaapp.com/news/3431/tesla-to-offer-safety-score-disputes-for-insurance\">Read More</a>",
-    "isoDate": "2025-12-17T18:03:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/safety-score-v2.2.jpg/410f7b40e17d4654a9444d63dc655814/safety-score-v2.2.jpg",
     "pinned": false
   }
 ]
