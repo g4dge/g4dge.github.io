@@ -1,5 +1,28 @@
 [
   {
+    "id": "9afa64a832c891b7332447e1dbb8acd1ff1c784d",
+    "title": "US can’t deport hate speech researcher for protected speech, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/",
+    "summary": "On Monday, US officials must explain what steps they took to enforce shocking visa bans.",
+    "isoDate": "2025-12-29T21:30:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "center for countering digital hate",
+      "disinformation",
+      "Elon Musk",
+      "hate speech",
+      "Marco Rubio",
+      "misinformation",
+      "Twitter",
+      "X"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1235140398-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "dbd20768def64c3a7245439dbaca061c64d51713",
     "title": "Indian cops cuff ex-Coinbase rep over selling customer info to crims",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/indian_cops_cuff_coinbase_exrep/",
@@ -1074,28 +1097,6 @@
     "pinned": false
   },
   {
-    "id": "2a5fdb02315c122c185162ae6c6e1d3a21760ff3",
-    "title": "“Yo what?” LimeWire re-emerges in online rush to share pulled “60 Minutes” segment",
-    "link": "https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/",
-    "summary": "Redditor jokes LimeWire is now a \"champion against the darkness.\"",
-    "isoDate": "2025-12-23T16:18:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "CBS News",
-      "censorship",
-      "Donald Trump",
-      "government censorship",
-      "LimeWire",
-      "peer-to-peer networks",
-      "torrents"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2194604196-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "57b436bcd63e0007ab5a45fe0a85991484426e0a",
     "title": "Tesla Launches New Safety Hub Explaining Why Its Vehicles Are Safer",
     "link": "https://www.notateslaapp.com/news/3443/tesla-launches-new-safety-hub-explaining-why-its-vehicles-are-safer",
@@ -1234,32 +1235,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "90eb6d7c9de851592c36975f83e4f8957520ed6b",
-    "title": "Tesla Update 2025.45.5 (FSD V14.2.2) Release Notes",
-    "link": "https://www.notateslaapp.com/software-updates/version/2025.45.5/release-notes",
-    "summary": "Tesla software update 2025.45.5 (FSD 14.2.2) includes FSD (Supervised) v14.2.2, Arrival Options, Speed Profiles, UI Improvements, Brake Confirm, Full Self-Driving (Supervised), Grok with Navigation Commands (Beta), Tesla Photobooth, Dog Mode Live Activity on iOS, Dashcam Viewer Update, Santa Mode Updates, Light Show Update, Paint Shop, Paint Shop Upgrade, Navigation Improvements, Automatic HOV Lanes Routing, Supercharger Site Maps, Phone Left On Wireless Charger, Full Self-Driving (Supervised), Phone Left Behind, Save Charge Limit by Location, SpaceX Docking Simulator, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.45.5/release-notes\">View Release Notes</a>",
-    "isoDate": "2025-12-22T22:15:06Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
-    "pinned": false
-  },
-  {
-    "id": "d1a2e53ccb6c715d10a70b016272bd3a5180bafa",
-    "title": "Poisoned WhatsApp API package steals messages and accounts",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/whatsapp_npm_package_message_steal/",
-    "summary": "<h4>And it's especially dangerous because the code works</h4> <p>A malicious npm package with more than 56,000 downloads masquerades as a working WhatsApp Web API library, and then it steals messages, harvests credentials and contacts, and hijacks users' WhatsApp accounts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-22T22:04:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
