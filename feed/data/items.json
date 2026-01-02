@@ -1,5 +1,24 @@
 [
   {
+    "id": "4530c7824df830de9b60ba15120d30ab8085751a",
+    "title": "SpaceX begins “significant reconfiguration” of Starlink satellite constellation",
+    "link": "https://arstechnica.com/space/2026/01/spacex-begins-significant-reconfiguration-of-starlink-satellite-constellation/",
+    "summary": "\"Biggest advantage of lower altitude is that beam diameter is smaller for a given antenna size.\"",
+    "isoDate": "2026-01-02T19:03:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "Internet",
+      "space debris",
+      "spacex",
+      "starlink"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/starlink_vantor-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "98b4623f581b5f83e810acd4d17eb7120ae95f59",
     "title": "Tesla’s Upcoming Smart Breaker Integration",
     "link": "https://www.notateslaapp.com/news/3459/teslas-upcoming-smart-breaker-integration",
@@ -792,23 +811,6 @@
     "pinned": false
   },
   {
-    "id": "d98870274327cba123745aa37bc968f845d4ae79",
-    "title": "The 10 best vehicles Ars Technica drove in 2025",
-    "link": "https://arstechnica.com/cars/2025/12/the-10-best-vehicles-ars-technica-drove-in-2025/",
-    "summary": "Of all the cars we've driven and reviewed this year, these are our picks.",
-    "isoDate": "2025-12-30T13:30:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Features",
-      "car reviews"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/ars-best-cars-2025-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8a8d601d5694c44d6d0b7b69c55756c5152e7adc",
     "title": "Banksy's Limitless limited by Windows Activation",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/banksys_limitless_limited_by_windows/",
@@ -1105,19 +1107,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/updated_camera_visibility_warning_1.jpg/dc78efaf2679ab1d457c2cb8944766bd/updated_camera_visibility_warning_1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4e3160a8461bd7c01db16a1cb7cba7a157ee6757",
-    "title": "Stop the slop by disabling AI features in Chrome",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/26/disable_ai_features_chrome/",
-    "summary": "<h4>The most popular desktop browser is festooned with Google AI, but you can make at least some of it go away</h4> <p>Most of today’s desktop web browsers come with a ton of built-in AI features, but the good news is that, in most cases, no one is forcing you to use them, and you can at least hide them from view. Removing the most egregious AI tools from Chrome is pretty simple, but it requires a few steps.…</p>",
-    "isoDate": "2025-12-26T19:02:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Avram Piltch",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
