@@ -1,5 +1,44 @@
 [
   {
+    "id": "8266db9bc5f91467faed61fe7fea861f15fb109a",
+    "title": "Intel unleashes Panther Lake CPUs, first built on 18A process",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/intel_unleashes_panther_lake_cpus/",
+    "summary": "<h4>Company claims its Ultra Series 3 processors will offer the best battery life yet</h4> <p>Intel has finally let its new Panther Lake CPUs out of the cage. First detailed in October and now launching under the brand name Intel Core Ultra Series 3, these are the first chips made with Intel’s 18A process and boast improved power efficiency and performance, particularly for graphics and AI workloads.…</p>",
+    "isoDate": "2026-01-05T23:01:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8f6c945300fbaa935b8c488721d2cb0e874d6e31",
+    "title": "Nvidia says it's more than doubled the DGX Spark’s performance since launch",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/nvidia_dgx_spark_speed/",
+    "summary": "<h4>Just maybe not in the way you're thinking</h4> <p>Nvidia's DGX Spark and its GB10-based siblings are getting a major performance bump with the platform's latest software update, announced at CES on Monday. The AI mini PC is also getting access to the GPU giant's full suite of AI Enterprise apps, alongside integrations with RTX Remix and Hugging Face's Reachy robotics platform.…</p>",
+    "isoDate": "2026-01-05T23:00:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "32671477b00c0b6a7afe57a25b493dd1712f4db2",
+    "title": "Every conference is an AI conference as Nvidia unpacks its Vera Rubin CPUs and GPUs at CES",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/ces_rubin_nvidia/",
+    "summary": "<h4>Teasing the next generation earlier than usual</h4> <p>CES used to be all about consumer electronics, TVs, smartphones, tablets, PCs, and – over the last few years – automobiles. Now, it's just another opportunity for Nvidia to peddle its AI hardware and software — in particular its next-gen Vera Rubin architecture.…</p>",
+    "isoDate": "2026-01-05T22:39:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "2a2675bb47f863e3293927b8037ae73274874b57",
     "title": "NASA’s science budget won’t be a train wreck after all",
     "link": "https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/",
@@ -1166,45 +1205,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/model-3-bridge-water.jpeg/452a36dbaed8e995347a300550eb4d16/model-3-bridge-water.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8a8d601d5694c44d6d0b7b69c55756c5152e7adc",
-    "title": "Banksy's Limitless limited by Windows Activation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/banksys_limitless_limited_by_windows/",
-    "summary": "<h4>Digital screen snafu or satirical comment on Microsoft's licensing policies?</h4> <p><strong>Bork!Bork!Bork!</strong>  Today's Bork comes courtesy of an exhibition dedicated to the UK street artist Banksy and demonstrates that \"Limitless\" does not always apply to Windows Activation.…</p>",
-    "isoDate": "2025-12-30T13:30:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0a3378f98c0c927fb30bc1260c75560b0a934fd9",
-    "title": "When the AI bubble pops, Nvidia becomes the most important software company overnight",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/how_nvidia_survives_ai_bubble_pop/",
-    "summary": "<h4>Want to survive the crash? Find another way to make money with GPUs</h4> <p>Today, Nvidia’s revenues are dominated by hardware sales. But when the AI bubble inevitably pops, the GPU giant will become the single most important software company in the world.…</p>",
-    "isoDate": "2025-12-30T11:11:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "de5e1f8d911a39072ca65c1f4613b68a27ff6a94",
-    "title": "Tis the season when tech leaders rub their crystal balls",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/tech_leaders_predictions_2026/",
-    "summary": "<h4>2026 is the year where AI must meet ROI in the enterprise, and the key to delivering it is data governance.</h4> <p>Leaders from Dell, Microsoft, Salesforce, ServiceNow, and Snowflake have released their 2026 predictions for AI in the workplace, and they agree that safeguards for AI agents and ROI are the top priorities for their customers.…</p>",
-    "isoDate": "2025-12-30T10:00:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
