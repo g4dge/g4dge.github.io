@@ -1,5 +1,62 @@
 [
   {
+    "id": "0e4cc4cb2533bddf125df9e31cba4ae1c4639456",
+    "title": "Playing Koi: Palo Alto isn't saying if it will buy security start-up",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/playing_koi_palo_alto_isnt/",
+    "summary": "<h4>CEO Nikesh Arora's trip to Tel Aviv last month sparked rumors.</h4> <p>Palo Alto Networks is on shopping spree. The company is reportedly considering a $400 million purchase of Israeli cybersecurity start up Koi, which raised $48 million in funding last year. …</p>",
+    "isoDate": "2026-01-05T18:06:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5a9e235a491417cbe5ef4fc94eff5989e3b0bbbb",
+    "title": "Google TV’s big Gemini update adds image and video generation, voice control for settings",
+    "link": "https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/",
+    "summary": "Google TV will let you generate and watch AI content on the big screen.",
+    "isoDate": "2026-01-05T17:51:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "gemini",
+      "google",
+      "smart tvs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/We_previewed_new_Gemini_for_Google_TV-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "6b47e97bfb02133341ed6f0a1f4d288af37b4289",
+    "title": "X blames users for Grok-generated CSAM; no fixes announced",
+    "link": "https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/",
+    "summary": "Critics call for App Store ban after Grok sexualized images of minors.",
+    "isoDate": "2026-01-05T17:42:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "child sexual abuse materials",
+      "csam",
+      "Elon Musk",
+      "grok",
+      "online child safety",
+      "Twitter",
+      "X",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2233914159-500x500-1767630589.jpg",
+    "pinned": false
+  },
+  {
     "id": "6a7b320dd41520003faf22990dee34578fc477c1",
     "title": "Venezuela loses president, but gains empty Starlink internet offer",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/starlink_free_service_venezuela/",
@@ -888,26 +945,6 @@
     "pinned": false
   },
   {
-    "id": "443b58251980aa83dd6f3758344033032f0f72fe",
-    "title": "Here we go again: Retiring coal plant forced to stay open by Trump Admin",
-    "link": "https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/",
-    "summary": "This time, a Colorado plant scheduled to shut down will be kept on standby.",
-    "isoDate": "2025-12-31T16:30:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "coal",
-      "department of energy",
-      "Energy",
-      "pollution",
-      "Trump"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-161350245-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "afa7786b329cd483573507b6970b3166f715e56c",
     "title": "Tesla to Expand Its Rental Program to Michigan",
     "link": "https://www.notateslaapp.com/news/3463/tesla-to-expand-its-rental-program-to-michigan",
@@ -918,28 +955,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_76.jpg/0ccfe5d074752d2427bfba25d53f2830/group_76.jpg",
-    "pinned": false
-  },
-  {
-    "id": "59a731d8c573a2cd60591e900aa33384a592d74c",
-    "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
-    "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
-    "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
-    "isoDate": "2025-12-31T13:15:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Apple",
-      "Biz & IT",
-      "Security",
-      "2025 year end",
-      "cloud",
-      "signal messenger",
-      "supply chain attacks"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-500x500.jpg",
     "pinned": false
   },
   {
@@ -1133,19 +1148,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c651e6171ea4550b3bb63ad26ad6a73f9e757821",
-    "title": "Crims disconnect Wired subscribers from their privacy, publish deets online",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/wired_hack_subscriber_info_leaked/",
-    "summary": "<h4>Extortion group Lovely claims to have stolen 40 million pieces of info from publisher Conde Nast</h4> <p>A criminal group is beating Conde Nast over the head for not responding sooner to its extortion attempt by posting stolen subscribers' email and home addresses and warning the publisher of Wired, The New Yorker, Vanity Fair, and Teen Vogue that it has 40 million more entries.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-29T19:23:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
     "tags": [],
     "image": "",
     "pinned": false
