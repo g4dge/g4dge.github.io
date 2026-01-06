@@ -1,5 +1,78 @@
 [
   {
+    "id": "6cf59f8f08aabc4b2bc596606644601334b3de2e",
+    "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process",
+    "link": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
+    "summary": "New chips launch \"this month,\" targeting high-end ultraportable PCs.",
+    "isoDate": "2026-01-06T03:45:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "Intel",
+      "intel core ultra",
+      "intel core ultra 3",
+      "panther lake"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Intel_CES_-500x500-1767668644.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "a66513d2f401bb80aff64150c7eb4046289b9e20",
+    "title": "Baby's got clack: HP pushes PC-in-a-keyboard for businesses with hot desks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/hp_keyboard_pc/",
+    "summary": "<h4>Notebook updates and enterprise tools also inbound from IT giant</h4> <p>At most businesses today, the IT department gives laptops out to employees so they can easily take their work with them. But HP has a different idea: build a Windows computer into a full-size keyboard and let you carry that around, plugging into monitors and mice along the way.…</p>",
+    "isoDate": "2026-01-06T03:31:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6a67262e57339edf917542520e361be57f44f615",
+    "title": "AMD reheats last year’s Ryzen AI and X3D CPUs for 2026’s laptops and desktops",
+    "link": "https://arstechnica.com/gadgets/2026/01/amd-reheats-last-years-ryzen-ai-and-x3d-cpus-for-2026s-laptops-and-desktops/",
+    "summary": "But it may become slightly cheaper to buy AMD's fastest integrated Radeon GPUs.",
+    "isoDate": "2026-01-06T03:30:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "AMD",
+      "AMD Ryzen",
+      "CES",
+      "CES 2026",
+      "GPUs",
+      "Intel",
+      "NVIDIA",
+      "Radeon",
+      "rdna3",
+      "Ryzen",
+      "ryzen ai"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Ryzen-AI-400-Series_05-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "0f9fd5f0b8192c3e92390ae15a2990d52dd899b7",
+    "title": "AMD clocks in with higher CPU speeds, leaves architecture untouched",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/amd_ryzen_refresh/",
+    "summary": "<h4>New chips same as the old chips</h4> <p>AMD kicked off CES on Monday by unveiling a slew of desktop and mobile processors aimed at everyone from casual users and creative professionals to gamers and AI devs. But with few improvements, they're more \"newish\" than new.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-06T03:30:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "8266db9bc5f91467faed61fe7fea861f15fb109a",
     "title": "Intel unleashes Panther Lake CPUs, first built on 18A process",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/intel_unleashes_panther_lake_cpus/",
@@ -752,25 +825,6 @@
     "pinned": false
   },
   {
-    "id": "b2049eba3ad11d207b4812db74322d4d53cf342e",
-    "title": "Researchers spot Saturn-sized planet in the “Einstein desert”",
-    "link": "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/",
-    "summary": "Rogue, free-floating planets appear to have two distinct origins.",
-    "isoDate": "2026-01-02T20:54:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "astronomy",
-      "exoplanets",
-      "microlensing",
-      "rogue planets"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/hubble-lrg3757-potw1151a-med-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "23557a8a4553030388d0d22d248d035cbd975848",
     "title": "Bitfinex crypto thief who was serving five years thanks Trump for early release",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/",
@@ -781,25 +835,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4530c7824df830de9b60ba15120d30ab8085751a",
-    "title": "SpaceX begins “significant reconfiguration” of Starlink satellite constellation",
-    "link": "https://arstechnica.com/space/2026/01/spacex-begins-significant-reconfiguration-of-starlink-satellite-constellation/",
-    "summary": "\"Biggest advantage of lower altitude is that beam diameter is smaller for a given antenna size.\"",
-    "isoDate": "2026-01-02T19:03:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "Internet",
-      "space debris",
-      "spacex",
-      "starlink"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/starlink_vantor-500x500.jpg",
     "pinned": false
   },
   {
@@ -1151,32 +1186,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b4be2c5efd78b05149f160d1818c3605b7ece38d",
-    "title": "iPad kids are more anxious, less resilient, and slower decision makers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/ipad_kids_are_more_anxious/",
-    "summary": "<h4>The solution? Lock up the screens and read to your kids</h4> <p>If you're thinking of plopping your infant in front of a screen to get some peace and quiet, you might want to reconsider - higher screen exposure in infancy was linked to longer decision times later on and higher anxiety symptoms in the teenage years.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-30T20:40:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5227051ec81587737409c726a459626a5f2cb68a",
-    "title": "An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/mongodb_vuln_exploited_cve_2025_14847/",
-    "summary": "<h4>You didn't think you'd get to enjoy your time off without a major cybersecurity incident, did you?</h4> <p>A high-severity MongoDB Server vulnerability, for which proofs of concept emerged over Christmas week, is now under active exploitation, according to the US Cybersecurity and Infrastructure Security Agency.…</p>",
-    "isoDate": "2025-12-30T19:27:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
