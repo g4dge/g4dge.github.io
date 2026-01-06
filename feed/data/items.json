@@ -1,5 +1,44 @@
 [
   {
+    "id": "d52fac1e7ee5a9acfe44a375022cd342467e9a9c",
+    "title": "Crypto wallet shop Ledger confirms customer data lifted in Global-e snafu",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/ledger_globale_breach/",
+    "summary": "<h4>Order and contact details accessed via ecommerce partner, and phishing has begun</h4> <p>Blockchain security biz Ledger says customer information was accessed in a breach at its ecommerce payment partner Global-e, and is warning that other brands using the platform may also be affected.…</p>",
+    "isoDate": "2026-01-06T12:50:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d6ce7cf088fde02a3d7e81414fddd4586bab4c3b",
+    "title": "UK urged to unplug from US tech giants as digital sovereignty fears grow",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/uk_urged_to_unplug_from/",
+    "summary": "<h4>Campaigners say Britain's dependence on Big Tech leaves critical systems exposed to political pressure</h4> <p>The Open Rights Group is warning politicians that the UK is leaning far too heavily on US tech companies to run critical systems, and wants the Cybersecurity and Resilience Bill to force a rethink.…</p>",
+    "isoDate": "2026-01-06T12:20:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "33a0a313ff6a8a12154eb4e473a83e4c48446280",
+    "title": "Researchers poison stolen data to make AI systems return wrong results",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/ai_data_pollution_defense/",
+    "summary": "<h4>Wanted: Chief Disinformation Officer to pollute company knowledge graphs</h4> <p>Researchers affiliated with universities in China and Singapore have devised a technique to make stolen knowledge graph data useless if incorporated into a GraphRAG AI system without consent.…</p>",
+    "isoDate": "2026-01-06T11:27:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7720a48abc7b7f7db35cfcf3ffc4df8667c46754",
     "title": "Students bag extended Christmas break after cyber hit on school IT",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/nuneaton_school_cyberattack/",
@@ -860,25 +899,6 @@
     "pinned": false
   },
   {
-    "id": "f5eca20906f2f78b302a6c7c9f9a444e56faaf7c",
-    "title": "OpenAI reorganizes some teams to build audio-based AI hardware products",
-    "link": "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/",
-    "summary": "Voice has lagged in adoption behind screens. OpenAI wants to change that.",
-    "isoDate": "2026-01-02T21:27:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "large language models",
-      "openai",
-      "The Information"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2188228027-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "39ee773c510774120b820851b70d512590550774",
     "title": "Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/microsoft_ceo_satya_nadella_calls/",
@@ -1177,32 +1197,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_76.jpg/0ccfe5d074752d2427bfba25d53f2830/group_76.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3a060eb6de12878f0830f39cc769ea9123414008",
-    "title": "IPv6 just turned 30 and still hasn’t taken over the world, but don't call it a failure",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/31/ipv6_at_30/",
-    "summary": "<h4>The world has passed it by in many ways, yet it remains relevant</h4> <p><strong>Feature</strong>  In the early 1990s, internetworking wonks realized the world was not many years away from running out of Internet Protocol version 4 (IPv4) addresses, the numbers needed to identify any device connected to the public internet. Noting booming interest in the internet, the internet community went looking for ways to avoid an IP address shortage that many feared would harm technology adoption and therefore the global economy.…</p>",
-    "isoDate": "2025-12-31T13:01:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1f9c5aee3f639f2dbd963f2c4d8e918dd317fe4d",
-    "title": "The most durable tech is boring, old, and everywhere",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2025/12/31/long_lived_tech/",
-    "summary": "<h4>From COBOL and C to Linux and SQL, the unglamorous software that keeps the world running refuses to disappear</h4> <p><strong>Opinion</strong>  COBOL turned 66 this year and is still in use today. Major retail and commercial banks continue to run core account processing, ATM networks, credit card clearing, and batch end-of-day settlement. On top of that, many payment networks, stock exchanges, and clearinghouses rely on COBOL for high‑volume, high‑reliability batch and online transaction processing on mainframes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2025-12-31T09:23:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Steven J. Vaughan-Nichols",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
