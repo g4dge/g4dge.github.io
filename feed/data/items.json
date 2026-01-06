@@ -1,5 +1,54 @@
 [
   {
+    "id": "f14fa78e5fc5e1fad5a251b3e07273172f3c51bc",
+    "title": "Brave refurbishes Rust adblocking engine for reduced memory footprint",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/brave_refurbishes_rust_adblocking_engine/",
+    "summary": "<h4>Have your privacy cake and consume the web too</h4> <p>Brave Software has reworked its browser's Rust-based adblock engine to make it significantly more memory efficient and perhaps more secure. So you get fewer ads now with fewer MB of RAM.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-06T22:24:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "921d4aa7738eaaf0db74d4dcb8d6f01c7fde33bf",
+    "title": "With GeForce Super GPUs missing in action, Nvidia focuses on software upgrades",
+    "link": "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/",
+    "summary": "Nvidia's only GeForce announcements this year were about software improvements.",
+    "isoDate": "2026-01-06T21:56:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "CES 2026",
+      "dlss",
+      "dlss 4",
+      "dlss 4.5",
+      "GeForce",
+      "geforce 50-series",
+      "NVIDIA"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/consumer-ces-umbrella-blog-1280x680-1-500x500-1767735140.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2f4b31625527d6c472faf6951a7520e91d67ca34",
+    "title": "Optimus Schmoptimus - Boston Dynamics' humanoid robot is already in mass production",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/boston_dynamics_atlas_production/",
+    "summary": "<h4>Atlas will be deployed to Hyundai and Google facilities this year</h4> <p><strong>CES 2026</strong>  Remember when Elon Musk predicted that there would be thousands of Optimus robots at Tesla factories by the end of 2025? Well, that didn't happen, but competitor Boston Dynamics has just announced that its humanoid robot, Atlas, is going to the big time.…</p>",
+    "isoDate": "2026-01-06T21:42:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3f0416038021148aad41de4c005c8c1ea8bd6aa1",
     "title": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
     "link": "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/",
@@ -21,7 +70,7 @@
     "id": "fe2178f26d5d08d077a831b87f593478cc41479e",
     "title": "Brightspeed investigates breach as crims post stolen data for sale",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/brightspeed_investigates_breach/",
-    "summary": "<h4>Crimson Collective claims 'sophisticated attack' that allows them to 'disconnect every user from their mobile service'</h4> <p>Internet service provider Brightspeed confirmed that it's investigating criminals' claims that they stole more than a million customers' records and have listed them for sale for three bitcoin, or about $276,370. …</p>",
+    "summary": "<h4>Crimson Collective claims 'sophisticated attack'</h4> <p>Internet service provider Brightspeed confirmed that it's investigating criminals' claims that they stole more than a million customers' records and have listed them for sale for three bitcoin, or about $276,370. …</p>",
     "isoDate": "2026-01-06T20:54:45Z",
     "source": "The Register",
     "category": "Tech",
@@ -766,26 +815,6 @@
     "pinned": false
   },
   {
-    "id": "5a9e235a491417cbe5ef4fc94eff5989e3b0bbbb",
-    "title": "Google TV’s big Gemini update adds image and video generation, voice control for settings",
-    "link": "https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/",
-    "summary": "Google TV will let you generate and watch AI content on the big screen.",
-    "isoDate": "2026-01-05T17:51:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "gemini",
-      "google",
-      "smart tvs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/We_previewed_new_Gemini_for_Google_TV-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "6a7b320dd41520003faf22990dee34578fc477c1",
     "title": "Venezuela loses president, but gains empty Starlink internet offer",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/starlink_free_service_venezuela/",
@@ -1126,19 +1155,6 @@
     "pinned": false
   },
   {
-    "id": "17bf3df31076b2f879deb9dfa8c108b12299f4b6",
-    "title": "Brit lands invite-only Aussie visa after uncovering vuln in government systems",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/brit_security_australia_visa/",
-    "summary": "<h4>Jacob Riggs is set to swap London for Sydney some time in the next year</h4> <p>A British security researcher has secured Australia's strictest, invite-only visa after discovering a critical vulnerability in a government system.…</p>",
-    "isoDate": "2026-01-02T16:11:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "8ccc7630e35ce16fca6c8ec5d65e68795b783760",
     "title": "Tesla Reports Q4 Delivery Numbers: Narrowly Misses on Deliveries; Energy Hits Record",
     "link": "https://www.notateslaapp.com/news/3468/tesla-reports-q4-delivery-numbers-narrowly-misses-on-deliveries-energy-hits-record",
@@ -1149,19 +1165,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/future-rendering-3.webp/6ff86f848ea9c24b9c9dbb60347c991a/future-rendering-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "999a57c010c269fa9df4fc3f46d2e79ec5439370",
-    "title": "Starlink to lower orbits of thousands of satellites over safety concerns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/starlink_lower_orbits/",
-    "summary": "<h4>Move will see spacecraft shift from 550 km to 480 km as collision risks rise</h4> <p>Starlink is to lower the orbits of about half its satellite constellation over the course of this year, citing safety concerns.…</p>",
-    "isoDate": "2026-01-02T14:44:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
