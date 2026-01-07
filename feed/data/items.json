@@ -1,5 +1,39 @@
 [
   {
+    "id": "900e11ba3c0049dc37e49be28d053ddf9b9add99",
+    "title": "Utah allows AI to autonomously prescribe medication refills",
+    "link": "https://arstechnica.com/health/2026/01/utah-allows-ai-to-autonomously-prescribe-medication-refills/",
+    "summary": "The program allows patients in the state to get prescription refills for 190 common meds.",
+    "isoDate": "2026-01-07T22:20:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "AI",
+      "Health",
+      "fda",
+      "prescription",
+      "refill",
+      "telehealth",
+      "Utah"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/GettyImages-513084906-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "56f08e9486e8d9b453ae38dbcf4d4b5c925e55b8",
+    "title": "IBM's AI agent Bob easily duped to run malware, researchers show",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/ibm_bob_vulnerability/",
+    "summary": "<h4>Prompt injection lets risky commands slip past guardrails</h4> <p>IBM describes its coding agent thus: \"Bob is your AI software development partner that understands your intent, repo, and security standards.\" Unfortunately, Bob doesn't always follow those security standards.…</p>",
+    "isoDate": "2026-01-07T22:04:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "ef1686c07b0f01fe0b9f3bb9c828b11149a99602",
     "title": "New carbon capture tech could save us from datacenter doom",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/new_carbon_capture_tech/",
@@ -752,25 +786,6 @@
     "pinned": false
   },
   {
-    "id": "ac370288ea47f0e88a3c9c258f3fcf953dbeeb69",
-    "title": "Ørsted seeks injunction against US government over project freeze",
-    "link": "https://arstechnica.com/tech-policy/2026/01/orsted-seeks-injunction-against-us-government-over-project-freeze/",
-    "summary": "Trump administration had suspended Danish group’s work on major wind farm off coast of Rhode Island.",
-    "isoDate": "2026-01-06T15:55:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kana Inagaki in London",
-    "tags": [
-      "Policy",
-      "Science",
-      "orsted",
-      "syndication",
-      "wind farm"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ftcms_ccff82e2-1b3f-4dd6-af31-3b7bbfffc992.avif",
-    "pinned": false
-  },
-  {
     "id": "7515096b6cc4db6343062fd6b01b214fd3e16106",
     "title": "StockHistory function becomes StockMystery as Microsoft Excel bugs out",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/microsoft_excel_stockhistory/",
@@ -1106,19 +1121,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0e4cc4cb2533bddf125df9e31cba4ae1c4639456",
-    "title": "Playing Koi: Palo Alto isn't saying if it will buy security start-up",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/playing_koi_palo_alto_isnt/",
-    "summary": "<h4>CEO Nikesh Arora's trip to Tel Aviv last month sparked rumors.</h4> <p>Palo Alto Networks is on shopping spree. The company is reportedly considering a $400 million purchase of Israeli cybersecurity start up Koi, which raised $48 million in funding last year. …</p>",
-    "isoDate": "2026-01-05T18:06:30Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
     "tags": [],
     "image": "",
     "pinned": false
