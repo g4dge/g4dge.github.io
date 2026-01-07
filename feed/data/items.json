@@ -1,5 +1,76 @@
 [
   {
+    "id": "cabb146ce7d258476c8ca6f2d78ce003157ec2de",
+    "title": "Lenovo shows off new laptops that twist and roll",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/lenovo_rollable_thinkpad/",
+    "summary": "<h4>The company has also redesigned the X1 Carbon’s internals for easier repairs</h4> <p>If there was a kingdom of laptop screen flexibility, Lenovo would take the crown. Last year, the company released the ThinkBook Plus Gen 6, with a mechanical screen that could roll out to increase its size from 14 to 16.7 inches. Now, it’s back with the ThinkPad Rollable XD concept laptop that expands from 13.3 to 16 inches at the touch of a button or a swipe, along with the ThinkBook Plus Gen 7 Auto Twist, which uses a motor to rotate its screen and follow you around the room.…</p>",
+    "isoDate": "2026-01-07T01:02:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ef0dcf0af9353444314d25fe4009f267150e0727",
+    "title": "Ring embraces the end of the world, starts using home cameras to track wildfires",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/ring_cameras_wildfire/",
+    "summary": "<h4>Amazon's community surveillance biz bets on AI to recognize danger</h4> <p>A year after a series of fires obliterated communities in Los Angeles, Amazon's Ring security service has announced a feature called Fire Watch intended to mitigate future wildfire risk.…</p>",
+    "isoDate": "2026-01-07T01:00:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9a19cca993d4d069695a0ed30bf83cb6642e1e25",
+    "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer",
+    "link": "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/",
+    "summary": "Motorola is light on details but heavy on hype for its first book-style foldable.",
+    "isoDate": "2026-01-07T01:00:06Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Tech",
+      "Foldables",
+      "motorola",
+      "motorola razr fold",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/razr-fold-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "184a3c126b91fbd003302ecf792de5e1f548c647",
+    "title": "HackerOne 'ghosted' me for months over $8,500 bug bounty, says researcher",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/hackerone_ghosted_researcher/",
+    "summary": "<h4>Long after CVEs issued and open source flaws fixed</h4> <p>Last fall, Jakub Ciolek reported two denial-of-service bugs in Argo CD, a popular Kubernetes controller, via HackerOne's Internet Bug Bounty (IBB) program. Both were assigned CVEs and have since been fixed. But instead of receiving an $8,500 reward for the two flaws, Ciolek says, HackerOne ghosted him for months.…</p>",
+    "isoDate": "2026-01-07T00:17:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cf2e0f685646670161a3c8b2259b9a32c203c2c6",
+    "title": "Snowflake gets frosty with Google Gemini",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/snowflake_google_gemini_support/",
+    "summary": "<h4>Munge that corporate data using the LLM of your choice</h4> <p>The data platform Snowflake is putting Google's Gemini to work inside its Cortex AI, aiming to give customers access to a foundational model within the boundaries of their data environment across supported clouds, the company told <em>The Register</em>.…</p>",
+    "isoDate": "2026-01-06T23:54:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6badf14af1b816fbbaadcf04f410139f8026b992",
     "title": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard",
     "link": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
@@ -785,24 +856,6 @@
     "pinned": false
   },
   {
-    "id": "6bcf6aeb5d7f8bc45faa1a60673095dace840823",
-    "title": "SanDisk says goodbye to WD Blue and Black SSDs, hello to new “Optimus” drives",
-    "link": "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/",
-    "summary": "Optimus SSDs will continue with the same model numbers that the WD SSDs used.",
-    "isoDate": "2026-01-05T19:32:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "CES 2026",
-      "SanDisk",
-      "Western Digital"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/sandisk-optimus-product-family-pr-500x500-1767638866.jpeg",
-    "pinned": false
-  },
-  {
     "id": "0e4cc4cb2533bddf125df9e31cba4ae1c4639456",
     "title": "Playing Koi: Palo Alto isn't saying if it will buy security start-up",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/playing_koi_palo_alto_isnt/",
@@ -1101,58 +1154,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/energy/0x0-powerwall_02.jpg/780b41b745acb004dc4c85dcaed591d0/0x0-powerwall_02.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b7960770dd6c27d76d1379e349924fef6fd0283e",
-    "title": "Cybercrook claims to be selling infrastructure info about three major US utilities",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/critical_utility_files_for_sale/",
-    "summary": "<h4>For the bargain price of 6.5 bitcoin</h4> <p>A cybercrook claims to have breached Pickett and Associates, a Florida-based engineering firm whose clients include major US utilities, and is selling what they claim to be about 139 GB of engineering data about Tampa Electric Company, Duke Energy Florida, and American Electric Power. The price is 6.5 bitcoin, which amounts to about $585,000.…</p>",
-    "isoDate": "2026-01-02T18:34:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "71917a73695e3b240f426bdb27b6c6b8b0afd6ab",
-    "title": "Finnish cops grill crew of ship suspected of undersea cable sabotage",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/finnish_cops_interviewing_fitburg_crew/",
-    "summary": "<h4>EU 'closely monitoring' along with NATO as state action suspected but not confirmed</h4> <p>Finnish police have arrested and are interviewing two crew members from a class A cargo ship sailing from Russia after suspected cable sabotage in the Baltic Sea.…</p>",
-    "isoDate": "2026-01-02T18:22:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jude Karabus",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2f58c5f5bd500d6d04bb009a6801a3023ad608d0",
-    "title": "Finally - a terminal solution to the browser wars",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/brow6el_browser_terminal/",
-    "summary": "<h4>A full-featured, Sixel-capable terminal browser for those who’d rather skip AI assistants</h4> <p>Old-time web users will fondly remember Lynx, a text-only browser that ran from the terminal. Now, there's a Sixel-compatible web browser that runs completely from the terminal, and has all the graphics and modern features you'd expect. …</p>",
-    "isoDate": "2026-01-02T17:39:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ef698ffec013400bf590f9a3fc11d944d39f71c4",
-    "title": "Google snaps up datacenter power biz Intersect while xAI plans more capacity",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/google_intersect_acquisition/",
-    "summary": "<h4>The AI era needs more juice</h4> <p>The AI-fueled datacenter boom continues apace, with Google parent Alphabet moving to acquire energy and infrastructure biz Intersect, while Elon Musk's xAI is reportedly planning to expand beyond its already huge complex in Tennessee.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-02T16:45:18Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
