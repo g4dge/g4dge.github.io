@@ -1,5 +1,64 @@
 [
   {
+    "id": "9af926dfa4047ddd195b2cae50cd5eeed11be313",
+    "title": "Google announces AI Overviews in Gmail search, experimental AI-organized inbox",
+    "link": "https://arstechnica.com/google/2026/01/google-announces-ai-overviews-in-gmail-search-experimental-ai-organized-inbox/",
+    "summary": "Last year's premium Gmail AI features are also rolling out to free users.",
+    "isoDate": "2026-01-08T13:00:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "generative ai",
+      "gmail",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Gmail-AI-Inbox-Image-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "cf67b61515d4c7c5177a322d6e4f54c07ad78262",
+    "title": "AOSP on a diet plan as Google halves Android code drops",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/google_aosp_changes/",
+    "summary": "<h4>Two a year is for your own good, Mountain View insists</h4> <p>Google has confirmed there will be two code dumps to the Android Open Source Project (AOSP) per year, down from the four developers have become accustomed to.…</p>",
+    "isoDate": "2026-01-08T12:57:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "dc7fd9885195dfd4729fa40d9e1fb24643b9dcd8",
+    "title": "UK regulators swarm X after Grok generated nudes from photos",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/uk_regulators_swarm_x_after/",
+    "summary": "<h4>Lawyers say Musk's platform may face punishment under Online Safety Act priority offenses</h4> <p>Elon Musk's X platform is under fire as UK regulators close in on mounting reports that the platform's AI chatbot, Grok, is generating sexual imagery without users' consent.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-08T12:40:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1ae6ba18c160352e912b425ca89fae6debff68cb",
+    "title": "Maximum-severity n8n flaw lets randos run your automation server",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/n8n_rce_bug/",
+    "summary": "<h4>Unauthenticated RCE means anyone on the network can seize full control</h4> <p>A maximum-severity bug in the popular automation platform n8n has left an estimated 100,000 servers wide open to complete takeover, courtesy of a flaw so bad it doesn't even require logging in.…</p>",
+    "isoDate": "2026-01-08T11:40:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "0c158c2a2df758d41cd77c775fce506d3892816c",
     "title": "OpenAI putting bandaids on bandaids as prompt injection problems keep festering",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/openai_chatgpt_prompt_injection/",
@@ -805,24 +864,6 @@
     "pinned": false
   },
   {
-    "id": "3f0416038021148aad41de4c005c8c1ea8bd6aa1",
-    "title": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
-    "link": "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/",
-    "summary": "\"Jamming will block all communications,\" including 911 calls, CTIA tells FCC.",
-    "isoDate": "2026-01-06T21:11:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "brendan carr",
-      "FCC",
-      "prison phone jamming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/prison-barbed-wire-500x500-1767732280.jpg",
-    "pinned": false
-  },
-  {
     "id": "fe2178f26d5d08d077a831b87f593478cc41479e",
     "title": "Brightspeed investigates breach as crims post stolen data for sale",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/brightspeed_investigates_breach/",
@@ -1080,45 +1121,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Avram Piltch",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0f9fd5f0b8192c3e92390ae15a2990d52dd899b7",
-    "title": "AMD clocks in with higher CPU speeds, leaves architecture untouched",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/amd_ryzen_refresh/",
-    "summary": "<h4>New chips same as the old chips</h4> <p>AMD kicked off CES on Monday by unveiling a slew of desktop and mobile processors aimed at everyone from casual users and creative professionals to gamers and AI devs. But with few improvements, they're more \"newish\" than new.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-06T03:30:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8266db9bc5f91467faed61fe7fea861f15fb109a",
-    "title": "Intel unleashes Panther Lake CPUs, first built on 18A process",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/intel_unleashes_panther_lake_cpus/",
-    "summary": "<h4>Company claims its Ultra Series 3 processors will offer the best battery life yet</h4> <p>Intel has finally let its new Panther Lake CPUs out of the cage. First detailed in October and now launching under the brand name Intel Core Ultra Series 3, these are the first chips made with Intel’s 18A process and boast improved power efficiency and performance, particularly for graphics and AI workloads.…</p>",
-    "isoDate": "2026-01-05T23:01:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Avram Piltch",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8f6c945300fbaa935b8c488721d2cb0e874d6e31",
-    "title": "Nvidia says it's more than doubled the DGX Spark’s performance since launch",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/nvidia_dgx_spark_speed/",
-    "summary": "<h4>Just maybe not in the way you're thinking</h4> <p>Nvidia's DGX Spark and its GB10-based siblings are getting a major performance bump with the platform's latest software update, announced at CES on Monday. The AI mini PC is also getting access to the GPU giant's full suite of AI Enterprise apps, alongside integrations with RTX Remix and Hugging Face's Reachy robotics platform.…</p>",
-    "isoDate": "2026-01-05T23:00:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
     "tags": [],
     "image": "",
     "pinned": false
