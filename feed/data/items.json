@@ -1,5 +1,77 @@
 [
   {
+    "id": "1e118b9d8e71f47df6eec51ebd20a35db0ccbb4e",
+    "title": "These dogs eavesdrop on their owners to learn new words",
+    "link": "https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/",
+    "summary": "“Under the right conditions, some dogs present behaviors strikingly similar to those of young children.”",
+    "isoDate": "2026-01-08T19:00:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "animal behavior",
+      "animal cognition",
+      "animals",
+      "dog language",
+      "Dogs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/doggoes3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fc59db493a4829836586d960a87da6fb1817c57c",
+    "title": "Google pushing Gemini into Gmail, but you can turn it off",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/google_gemini_gmail/",
+    "summary": "<h4>Love Google AI Overviews? Now they're in your inbox</h4> <p>We hope you like more AI in your Gmail inbox, because Google is \"bringing Gmail into the Gemini era.\" It'll be on by default, but the good news is that you can disable it. …</p>",
+    "isoDate": "2026-01-08T18:59:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9e7d0dd1078998e15be2d47b2d7e314aac959401",
+    "title": "Grok assumes users seeking images of underage girls have “good intent”",
+    "link": "https://arstechnica.com/tech-policy/2026/01/grok-assumes-users-seeking-images-of-underage-girls-have-good-intent/",
+    "summary": "Expert explains how simple it could be to tweak Grok to block CSAM outputs.",
+    "isoDate": "2026-01-08T18:50:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai csam",
+      "AI safety",
+      "chatbot",
+      "child safety",
+      "child sexual abuse materials",
+      "Elon Musk",
+      "grok",
+      "Twitter",
+      "X",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/grok-the-ai-clown-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f5d3c97cfcc6edeca7d85c60fac9134e9ee494ff",
+    "title": "Patch Cisco ISE bug now before attackers abuse proof-of-concept exploit",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/rcisco_ise_bug_poc/",
+    "summary": "<h4>No reports of active exploitation … yet</h4> <p>Cisco patched a bug in its Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) products that allows remote attackers with admin-level privileges to access sensitive information - and warned that a public, proof-of-concept exploit for the flaw exists online.…</p>",
+    "isoDate": "2026-01-08T18:43:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "b721d914a75a26accaa70ae8403082ffd1329afb",
     "title": "Linus Torvalds: Stop making an issue out of AI slop in kernel docs – you're not changing anybody's mind",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/linus_versus_llms_ai_slop_docs/",
@@ -285,7 +357,7 @@
   },
   {
     "id": "07e67df3ecfb76044aff81f36aa683ab959cacf2",
-    "title": "Are criminals vibe coding malware? All signs point to yes",
+    "title": "Yes, criminals are using AI to vibe-code malware",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/criminals_vibe_coding_malware/",
     "summary": "<h4>They also hallucinate when writing ransomware code</h4> <p><strong>Interview</strong>  With everyone from would-be developers to <a href=\"https://www.theregister.com/2025/12/03/ai_has_made_ip_violations/\" target=\"_blank\">six-year-old kids</a> jumping on the vibe coding bandwagon, it shouldn't be surprising that criminals like automated coding tools too.…</p>",
     "isoDate": "2026-01-08T11:00:11Z",
@@ -716,29 +788,6 @@
     "pinned": false
   },
   {
-    "id": "bd330ed8c0fe95d4d65897ec9c91abba2d4d75cd",
-    "title": "We have a fossil closer to our split with Neanderthals and Denisovans",
-    "link": "https://arstechnica.com/science/2026/01/weve-got-a-fossil-closer-to-our-split-with-neanderthals-and-denisovans/",
-    "summary": "A recent study suggests that North Africa may be a key place to look.",
-    "isoDate": "2026-01-07T16:00:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "anthropology",
-      "Archaeology",
-      "Denisovans",
-      "hominins",
-      "homo erectus",
-      "human evolution",
-      "Neanderthals",
-      "paleoanthropology"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/excavation-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "694934b2a11829794fbd836112585e6871bff00b",
     "title": "Congress to Vote on Law That Could Launch Tesla’s Cybercab",
     "link": "https://www.notateslaapp.com/news/3492/congress-to-vote-on-law-that-could-launch-teslas-cybercab",
@@ -762,26 +811,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "92031b513ba77c5945fe0dcb7ad5793d996198ee",
-    "title": "Computer scientist Yann LeCun: “Intelligence really is about learning”",
-    "link": "https://arstechnica.com/ai/2026/01/computer-scientist-yann-lecun-intelligence-really-is-about-learning/",
-    "summary": "The AI pioneer talks about stepping down from Meta, limits of large language models.",
-    "isoDate": "2026-01-07T15:06:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Melissa Heikkilä, Financial Times",
-    "tags": [
-      "AI",
-      "Advanced Machine Intelligence",
-      "LLMs",
-      "meta",
-      "syndication",
-      "Yann LeCun"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lecun-500x500.jpg",
     "pinned": false
   },
   {
@@ -1107,32 +1136,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d52fac1e7ee5a9acfe44a375022cd342467e9a9c",
-    "title": "Crypto wallet shop Ledger confirms customer data lifted in Global-e snafu",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/ledger_globale_breach/",
-    "summary": "<h4>Order and contact details accessed via ecommerce partner, and phishing has begun</h4> <p>Blockchain security biz Ledger says customer information was accessed in a breach at its ecommerce payment partner Global-e, and is warning that other brands using the platform may also be affected.…</p>",
-    "isoDate": "2026-01-06T12:50:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d6ce7cf088fde02a3d7e81414fddd4586bab4c3b",
-    "title": "UK urged to unplug from US tech giants as digital sovereignty fears grow",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/uk_urged_to_unplug_from/",
-    "summary": "<h4>Campaigners say Britain's dependence on Big Tech leaves critical systems exposed to political pressure</h4> <p>The Open Rights Group is warning politicians that the UK is leaning far too heavily on US tech companies to run critical systems, and wants the Cybersecurity and Resilience Bill to force a rethink.…</p>",
-    "isoDate": "2026-01-06T12:20:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
