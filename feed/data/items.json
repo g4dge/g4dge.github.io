@@ -1,5 +1,101 @@
 [
   {
+    "id": "f20b7d3f527fd7debee5751bd3366cf2253e0fa9",
+    "title": "Warning about bogus autism treatments vanishes from FDA’s website",
+    "link": "https://arstechnica.com/health/2026/01/warning-about-bogus-autism-treatments-vanishes-from-fdas-website/",
+    "summary": "The agency used to warn of chelation, used by RFK Jr.'s anti-vaccine ally David Geier.",
+    "isoDate": "2026-01-13T21:25:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "autism",
+      "fda",
+      "fraud",
+      "Robert F Kenned Jr.",
+      "scams",
+      "treatment"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2255115344-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a4612b22eb594041053fbb42fa7da214db9b12b4",
+    "title": "Popular Python libraries used in Hugging Face models subject to poisoned metadata attack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_python_library_bugs_allow/",
+    "summary": "<h4>The open-source libraries were created by Salesforce, Nvidia, and Apple with a Swiss group</h4> <p>Vulnerabilities in popular AI and ML Python libraries used in Hugging Face models with tens of millions of downloads allow remote attackers to hide malicious code in metadata. The code then executes automatically when a file containing the poisoned metadata is loaded.…</p>",
+    "isoDate": "2026-01-13T21:17:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2311283ecb0c3baf095b9f8eeb684325fa5e01db",
+    "title": "Hegseth wants to integrate Musk’s Grok AI into military networks this month",
+    "link": "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/",
+    "summary": "US defense secretary announces plans for integration despite recent controversies.",
+    "isoDate": "2026-01-13T21:13:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Policy",
+      "agentic AI",
+      "AI image generator",
+      "AI in education",
+      "AI regulation",
+      "AI security",
+      "Anthropic",
+      "censorship",
+      "deepfakes",
+      "Department of Defense",
+      "Elon Musk",
+      "gemini",
+      "google",
+      "grok",
+      "machine learning",
+      "openai",
+      "Pentagon",
+      "Pete Hegseth",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/grok_header_1-500x500-1752160788.jpg",
+    "pinned": false
+  },
+  {
+    "id": "908b2aed0d9d83322ea958615aaaa9b91c473f7c",
+    "title": "Anthropic Claude wants to be your helpful colleague, always looking over your shoulder",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/anthropic_previews_claude_cowork_for/",
+    "summary": "<h4>Just be careful not to entrust the AI model with your sensitive data</h4> <p>Anthropic on Monday announced the research preview of Claude Cowork, a tool for automating office work that comes with the now familiar recitation of machine learning risks.…</p>",
+    "isoDate": "2026-01-13T20:56:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2bc163f78951106f96ba6998c16eb6f2c5f55a26",
+    "title": "Moon hotel startup hopes you get lunar lunacy, drop $1M deposit for 2032 stay",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/moon_hotel_startup_reservation/",
+    "summary": "<h4>Step 1: Ask for deposit. Step 2: ??? Step 3: Build Moon hotel empire</h4> <p>Everest has been turned into a run-of-the-mill tourist attraction. Space tourism is over now that any celebrity can blast off into orbit. Next up: a hotel on the Moon, now taking reservations for only about six years from now, if you're willing to make a small deposit.…</p>",
+    "isoDate": "2026-01-13T20:50:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "eb967ecc81525f8c91246e7095514fe28c51f689",
     "title": "Microsoft vows to cover full power costs for energy-hungry AI data centers",
     "link": "https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/",
@@ -688,25 +784,6 @@
     "pinned": false
   },
   {
-    "id": "4c0b6d586ef814389e7cc0828c38efbfa3bcf1ee",
-    "title": "Supreme Court takes case that could strip FCC of authority to issue fines",
-    "link": "https://arstechnica.com/tech-policy/2026/01/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines/",
-    "summary": "AT&#038;T and Verizon claim right to a jury trial was violated by FCC fines.",
-    "isoDate": "2026-01-12T19:56:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "AT&T",
-      "FCC",
-      "t-mobile",
-      "verizon"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-500x500-1732556402.jpg",
-    "pinned": false
-  },
-  {
     "id": "681a99c2c027bafc3f06dcc70d569fa382cb63b8",
     "title": "Apple hopes to save Siri from laughingstock status with infusion of Google Gemini",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/apple_taps_google_gemini_siri/",
@@ -717,28 +794,6 @@
     "author": "Thomas Claburn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "edf2cdbdc8e7a70ff6a8be13c2f1ef9db7537b00",
-    "title": "Apps like Grok are explicitly banned under Google’s rules—why is it still in the Play Store?",
-    "link": "https://arstechnica.com/google/2026/01/apps-like-grok-are-explicitly-banned-under-googles-rules-why-is-it-still-in-the-play-store/",
-    "summary": "Google describes apps exactly like Grok and says they are banned from Google Play.",
-    "isoDate": "2026-01-12T19:36:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "ai nudes",
-      "google play",
-      "grok",
-      "nudify apps",
-      "xAI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2225386195-500x500.jpg",
     "pinned": false
   },
   {
@@ -1131,45 +1186,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y/0x0-model-y_06_cropped.webp/01409b990b27c75475bd64e47efab990/0x0-model-y_06_cropped.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8ce995bd25c29579fb91a33f5b89da10adbc4bea",
-    "title": "UK government exempting itself from flagship cyber law inspires little confidence",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/10/csr_bill_analysis/",
-    "summary": "<h4>Ministers promise equivalent standards just without the legal obligation</h4> <p><strong>ANALYSIS</strong>  From May's <a href=\"https://www.theregister.com/2025/05/19/legal_aid_agency_data_theft/\" target=\"_blank\">cyberattack on the Legal Aid Agency</a> to the <a href=\"https://www.theregister.com/2025/12/19/uk_foreign_office_hack/\" target=\"_blank\">Foreign Office breach</a> months later, cyber incidents have become increasingly common in UK government.…</p>",
-    "isoDate": "2026-01-10T09:29:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "86b364ee652e53a18e6a55fd34d8afb68d8906d6",
-    "title": "Artificial brains could point the way to ultra-efficient supercomputers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/artificial_brains_supercomputer/",
-    "summary": "<h4>Sandia National Labs cajole Intel's neurochips into solving partial differential equations</h4> <p>New research from Sandia National Laboratories suggests that brain-inspired neuromorphic computers are just as adept at solving complex mathematical equations as they are at speeding up neural networks and could eventually pave the way to ultra-efficient supercomputers.…</p>",
-    "isoDate": "2026-01-09T23:42:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "698e2286fafe94f0046d1117ce32ed1c6c0ac704",
-    "title": "Accenture bets AI will ring up retail sales with Profitmind investment",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/accenture_profitmind_retail_ai/",
-    "summary": "<h4>Let the bots figure out what to sell for how much</h4> <p>Accenture is betting that the future of retail will run through AI with an investment in Profitmind, an agent-based platform that automates pricing decisions, inventory management, and planning. …</p>",
-    "isoDate": "2026-01-09T23:03:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
