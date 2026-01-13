@@ -1,5 +1,98 @@
 [
   {
+    "id": "05d70f0abc686a220b84948aeb5840aef9e58fa3",
+    "title": "Federal agencies told to fix or ditch Gogs as exploited zero-day lands on CISA hit list",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/cisa_gogs_exploit/",
+    "summary": "<h4>Git server flaw that attackers have been abusing for months has now caught the attention of US cyber cops</h4> <p>CISA has ordered federal agencies to stop using Gogs or lock it down immediately after a high-severity vulnerability in the self-hosted Git service was added to its Known Exploited Vulnerabilities (KEV) catalog.…</p>",
+    "isoDate": "2026-01-13T13:04:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "38424a568da65399b9a85b3f2c4ca34628ade134",
+    "title": "Mandiant open sources tool to prevent leaky Salesforce misconfigs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/mandiant_salesforce_tool/",
+    "summary": "<h4>AuraInspector automates the most common abuses and generates fixes for customers</h4> <p>Mandiant has released an open source tool to help Salesforce admins detect misconfigurations that could expose sensitive data.…</p>",
+    "isoDate": "2026-01-13T12:34:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2d677779030014a7022d4b23de7ba1508ae9ad85",
+    "title": "Wild mushrooms keep killing people in California; 3 dead, 35 poisoned",
+    "link": "https://arstechnica.com/health/2026/01/wild-mushrooms-keep-killing-people-in-california-3-dead-35-poisoned/",
+    "summary": "Officials have linked the poisonings to the death cap mushroom (<em>Amanita phalloides</em>).",
+    "isoDate": "2026-01-13T12:15:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "amatoxin",
+      "California",
+      "death cap",
+      "deaths",
+      "Mushroom",
+      "poisoning"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/death-cap-mushroom-500x405.png",
+    "pinned": false
+  },
+  {
+    "id": "158a6f784a21850f0d8d335c53b0acaa62cfb58a",
+    "title": "Court tosses appeal by hacker who opened port to coke smugglers with malware",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/dutch_port_hacker_appeal/",
+    "summary": "<h4>Dutchman fails to convince judges his trial was unfair because cops read his encrypted chats</h4> <p>A Dutch appeals court has kept a seven-year prison sentence in place for a man who hacked port IT systems with malware-stuffed USB sticks to help cocaine smugglers move containers, brushing off claims that police shouldn't have been reading his encrypted chats.…</p>",
+    "isoDate": "2026-01-13T12:10:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "df4e98b2865429609a1f8264a3c505691a68a659",
+    "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+    "link": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
+    "summary": "Introducing Confer, an end-to-end AI assistant that just works.",
+    "isoDate": "2026-01-13T12:00:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Features",
+      "Security",
+      "end-to-end encryptioon",
+      "LLMs",
+      "privacy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/electronic-privacy-invasion-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "61dc948dba6dcc7779883535095796cc0288c3d4",
+    "title": "Affordable housing site goes live with meme-laden test data",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/housing_site_test_data/",
+    "summary": "<h4>Yes, London property prices are high. But here's a picture of Boris Johnson</h4> <p>From the \"there but for the grace of God\" department comes a new website to find affordable housing in London containing data it shouldn't.…</p>",
+    "isoDate": "2026-01-13T11:47:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "bfaedce8813f7c77c5cb2b95c8e922a11cfbf182",
     "title": "Birmingham pauses Oracle relaunch to get staff on board",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/birmingham_oracle_delay/",
@@ -859,28 +952,6 @@
     "pinned": false
   },
   {
-    "id": "7390af6b1815895ddb5c5add1f2b646a5960a1a5",
-    "title": "That time Will Smith helped discover new species of anaconda",
-    "link": "https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/",
-    "summary": "Footage of the 2024 discovery appears in NatGeo's new documentary series <em>Pole to Pole with Will Smith</em>.",
-    "isoDate": "2026-01-11T20:35:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Science",
-      "anacondas",
-      "Biology",
-      "disney plus",
-      "National Geographic",
-      "Taxonomy",
-      "zoology"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/anaconda3-500x500-1768069762.jpg",
-    "pinned": false
-  },
-  {
     "id": "3850efacdc166e313f7ce7cfb0a22dcb3ecb859e",
     "title": "Tesla Cybercab Hits Buffalo, New York for Winter Testing [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3494/tesla-cybercab-hits-buffalo-new-york-for-winter-testing-video",
@@ -904,24 +975,6 @@
     "author": "Thomas Claburn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "671249fd297e70efb7ab8455624dbccc629bae12",
-    "title": "The oceans just keep getting hotter",
-    "link": "https://arstechnica.com/science/2026/01/the-oceans-just-keep-getting-hotter/",
-    "summary": "For the eighth year in a row, the world’s oceans absorbed a record-breaking amount of heat in 2025.",
-    "isoDate": "2026-01-11T12:00:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Molly Taft, WIRED.com",
-    "tags": [
-      "Science",
-      "global warming",
-      "ocean ecology",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/sun-over-ocean-500x500.jpg",
     "pinned": false
   },
   {
@@ -1081,19 +1134,6 @@
     "pinned": false
   },
   {
-    "id": "7e1ce17510885d3e8765b29b0f50f507b3e3cd06",
-    "title": "Microsoft Windows Media Player stops serving up CD album info",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/microsoft_windows_media_player_forgets/",
-    "summary": "<h4>No naming that tune and no album covers</h4> <p>Microsoft is celebrating the resurgence of interest in physical media in the only way it knows how… by halting the Windows Media Player metadata service.…</p>",
-    "isoDate": "2026-01-09T15:12:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "c6d48d48f370a99032bfeeeeeb5dfd471e04cde8",
     "title": "Tesla Improves Vehicle Warranty, Adds Unlimited Mileage in Australia and New Zealand",
     "link": "https://www.notateslaapp.com/news/3496/tesla-improves-vehicle-warranty-adds-unlimited-mileage-in-australia-and-new-zealand",
@@ -1104,32 +1144,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_62.jpg/015acc6002be2e07e527f507cf366bb0/group_62.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1d57be35f3604296e3cd3cfbe540b7e26bbfa0f5",
-    "title": "Copper supplies set to peak just as tech needs more",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/copper_shortage/",
-    "summary": "<h4>Analysts say production will top out this decade while global electrification keeps ramping</h4> <p>Concerns are mounting over copper supplies, with a fresh study warning that demand will likely outstrip production within a decade, threatening to constrain global technological advancement.…</p>",
-    "isoDate": "2026-01-09T14:16:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fbf2d29812231ca0cd6a22227342412bdf2fe673",
-    "title": "China-linked cybercrims abused VMware ESXi zero-days a year before disclosure",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/china_esxi_zerodays/",
-    "summary": "<h4>Huntress analysis suggests VM escape bugs were already weaponized in the wild</h4> <p>Chinese-linked cybercriminals were sitting on a working VMware ESXi hypervisor escape kit more than a year before the bugs it relied on were made public.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-09T13:28:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
