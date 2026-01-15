@@ -1,7 +1,55 @@
 [
   {
+    "id": "6f3423535fbcda44292933d54a8b62755f2ef456",
+    "title": "Unnamed officials tell NYT “precise” cyber-op took out Venezuela’s power grid",
+    "link": "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/",
+    "summary": "NYT says US hackers were able to turn off power and then quickly turn it back on.",
+    "isoDate": "2026-01-15T21:29:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Policy",
+      "Security",
+      "Cyberattacks",
+      "hacking",
+      "Venezuela"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/power-outage-electric-cord-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "19a902aba0932dfde2c225ec98fbeb4190960d99",
+    "title": "Flipping one bit leaves AMD CPUs open to VM vuln",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/stackwarp_bug_amd_cpus/",
+    "summary": "<h4>Fix landed in July, but OEM firmware updates are required</h4> <p>If you use virtual machines, there's reason to feel less-than-Zen about AMD's CPUs. Computer scientists affiliated with the CISPA Helmholtz Center for Information Security in Germany have found a vulnerability in AMD CPUs that exposes secrets in its secure virtualization environment.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-15T21:11:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "59ce49c771f39e68cca67cb5d8f8c3897cdbc600",
+    "title": "Star Trek: Starfleet Academy tries something different, and I don’t hate it",
+    "link": "https://arstechnica.com/culture/2026/01/star-trek-starfleet-academy-tries-something-different-and-i-dont-hate-it/",
+    "summary": "An interesting new take on Trek includes some characters you already know.",
+    "isoDate": "2026-01-15T21:09:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Culture",
+      "Star Trek: Starfleet Academy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/SFA_101_BP_0918_0764_RT_f-500x500-1768509349.jpg",
+    "pinned": false
+  },
+  {
     "id": "a7fc2d6bbd186c0b36c8844b04b17cba81e5149b",
-    "title": "NASA’s first-ever medical evacuation from space ends with on-target splashdown",
+    "title": "NASA’s first medical evacuation from space ends with on-target splashdown",
     "link": "https://arstechnica.com/space/2026/01/nasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown/",
     "summary": "This is the first time NASA has called an early end to a space mission for medical reasons.",
     "isoDate": "2026-01-15T20:19:41Z",
@@ -652,26 +700,6 @@
     "pinned": false
   },
   {
-    "id": "aa4d43f53300916a2a202897b033f4f12d5c55f6",
-    "title": "US gov’t: House sysadmin stole 200 phones, caught by House IT desk",
-    "link": "https://arstechnica.com/tech-policy/2026/01/us-govt-house-sysadmin-stole-200-phones-caught-by-house-it-desk/",
-    "summary": "Scheme allegedly cost taxpayers $150,000.",
-    "isoDate": "2026-01-14T20:49:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nate Anderson",
-    "tags": [
-      "Policy",
-      "Security",
-      "cell phones",
-      "government",
-      "House of Representatives",
-      "theft"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2178190944-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "77eb2d676eb948cbb8e48a00a04492c90f0875a4",
     "title": "New Linux malware targets the cloud, steals creds, and then vanishes",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/voidlink_linux_malware/",
@@ -682,32 +710,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "504c7778008a86d04385372accc849173a5ee098",
-    "title": "Grok was finally updated to stop undressing women and children, X Safety says",
-    "link": "https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/",
-    "summary": "California's AG will investigate whether Musk’s nudifying bot broke US laws.",
-    "isoDate": "2026-01-14T20:39:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "chatbot",
-      "child sex abuse materials",
-      "csam",
-      "deepfake revenge porn",
-      "Elon Musk",
-      "grok",
-      "revenge porn",
-      "Twitter",
-      "X",
-      "xAI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2256074595-500x500.jpg",
     "pinned": false
   },
   {
@@ -1086,19 +1088,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4db01f37b06cb50b6aef0fbce52e23a3791ac0e0",
-    "title": "Trump says Americans shouldn't 'pick up the tab' for AI datacenter grid upgrades",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/trump_datacenter_power_costs/",
-    "summary": "<h4>Big Tech warned expansion must come without higher household bills as Microsoft signals support</h4> <p>President Trump says tech giants must pay their way when it comes to delivering increased power needed for datacenters, rather than the burden falling on US citizens, and it seems Microsoft is on board with that.…</p>",
-    "isoDate": "2026-01-13T16:50:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
