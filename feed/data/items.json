@@ -1,5 +1,51 @@
 [
   {
+    "id": "1ee7da969672fd62f6fe3dd203be4bc42fd61efd",
+    "title": "US government to take 25% cut of AMD, NVIDIA AI sales to China",
+    "link": "https://arstechnica.com/tech-policy/2026/01/us-government-to-take-25-cut-of-amd-nvidia-ai-sales-to-china/",
+    "summary": "These new tariffs are designed to survive legal challenges.",
+    "isoDate": "2026-01-15T14:22:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Aime Williams, Michael Acton, Camilla Hodgson, and Eleanor Olcott, FT",
+    "tags": [
+      "Policy",
+      "AMD",
+      "china",
+      "china tariff",
+      "NVIDIA",
+      "tariffs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2200759945-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "677e2d551eee4c09c3424c478c4c4fc9cade459f",
+    "title": "Windows App forgets how to log in with first security update of the year",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/windows_app_credential_failures/",
+    "summary": "<h4>January patch trips up Azure Virtual Desktop and Windows 365 authentication</h4> <p>Microsoft has kicked off 2026 with another faulty Windows update. This time, it is connection and authentication failures in Azure Virtual Desktop and Windows 365 related to the Windows App.…</p>",
+    "isoDate": "2026-01-15T14:12:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9ea6eed7e1985ebc1827b9c23a0bda6f426bcfb9",
+    "title": "Teach an AI to write buggy code, and it starts fantasizing about enslaving humans",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/llm_fine_tuning_misalignment/",
+    "summary": "<h4>Research shows erroneous training in one domain affects performance in another, with concerning implications</h4> <p>Large language models (LLMs) trained to misbehave in one domain exhibit errant behavior in unrelated areas, a discovery with significant implications for AI safety and deployment, according to research published in Nature this week.…</p>",
+    "isoDate": "2026-01-15T14:03:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3a37cc3e15a85c2ce515c1760e5f189e9f4e17d1",
     "title": "US regulator tells GM to hit the brakes on customer tracking",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/ftc_gm_tracking_ban/",
@@ -889,23 +935,6 @@
     "pinned": false
   },
   {
-    "id": "4012047fd6fd1b6bdefeef77161bca11ae7d8fe5",
-    "title": "BMW’s first electric M car is coming in 2027—with one motor per wheel",
-    "link": "https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/",
-    "summary": "Here's what we know about the first BMW EV to wear a proper M badge.",
-    "isoDate": "2026-01-13T23:01:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "BMW M",
-      "BMW Neue Klasse"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/BMW-M-Electrified-Arjeplog-_046-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "1e919046e89bab4dfa6d0703dc06d8388fc0d5ed",
     "title": "Memory shortage could push PC shipments to pre-pandemic lows",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/idc_pc_sales_memory_shortage_effects/",
@@ -1122,32 +1151,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "61dc948dba6dcc7779883535095796cc0288c3d4",
-    "title": "Affordable housing site goes live with meme-laden test data",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/housing_site_test_data/",
-    "summary": "<h4>Yes, London property prices are high. But here's a picture of Boris Johnson</h4> <p><strong>Updated</strong>  From the \"there but for the grace of God\" department comes a new website to find affordable housing in London containing data it shouldn't.…</p>",
-    "isoDate": "2026-01-13T11:47:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bfaedce8813f7c77c5cb2b95c8e922a11cfbf182",
-    "title": "Birmingham pauses Oracle relaunch to get staff on board",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/birmingham_oracle_delay/",
-    "summary": "<h4>Europe's largest council delays Fusion reimplementation four years after go-live disaster</h4> <p>Birmingham City Council has pushed back the relaunch of its troubled Oracle Fusion ERP system, saying staff need more time to adapt to the vendor's standard processes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-13T11:00:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
