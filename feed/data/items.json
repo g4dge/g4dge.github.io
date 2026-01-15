@@ -1,5 +1,63 @@
 [
   {
+    "id": "362a7fcd5f1a8b37df9d01088b89c79c75b23aa5",
+    "title": "Wine 11 runs Windows apps in Linux and macOS better than ever",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/wine_11_arrives_faster_and/",
+    "summary": "<h4>Transparently runs 16, 32, and 64-bit Windows apps, but still doesn't use the Microsoft store.</h4> <p>The latest version of the Wine Windows app runner arrives a year after version 10. Given its annual release cycle, its magic is starting to seem almost boring and routine, but it's far from it.…</p>",
+    "isoDate": "2026-01-15T12:26:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "79014cce39ae596c0bc91b3fa79d33133a53b5c9",
+    "title": "The difficulty of driving an EV in the “most beautiful race in the world”",
+    "link": "https://arstechnica.com/features/2026/01/the-difficulty-of-driving-an-ev-in-the-most-beautiful-race-in-the-world/",
+    "summary": "Jet lag and charging added plenty of complications to this regularity road rally.",
+    "isoDate": "2026-01-15T12:00:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Michael Teo Van Runkle",
+    "tags": [
+      "Cars",
+      "Features",
+      "EV adoption",
+      "Mille Miglia",
+      "Polestar 3"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Polestar-Mille-Miglia-Pics-18-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "85a4f27e05102af0834c82bbbbda76f3df1315fb",
+    "title": "Raspberry Pi 5 gets LLM smarts with AI HAT+ 2",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/pi_5_ai_hat_2/",
+    "summary": "<h4>40 TOPS of inference grunt, 8 GB onboard memory, and the nagging question: who exactly needs this?</h4> <p>Raspberry Pi has launched the AI HAT+ 2 with 8 GB of onboard RAM and the Hailo-10H neural network accelerator aimed at local AI computing.…</p>",
+    "isoDate": "2026-01-15T11:49:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f91f70fcf87994b5022ec77544daa68a6e42e5b7",
+    "title": "Microsoft taps UK courts to dismantle cybercrime host RedVDS",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/microsoft_uk_courts_redvds/",
+    "summary": "<h4>Redmond says cheap virtual desktops powered a global wave of phishing and fraud</h4> <p>Microsoft has taken its cybercrime fight to the UK in its first major civil action outside the US, moving to shut down RedVDS, a virtual desktop service used to power phishing and fraud at global scale.…</p>",
+    "isoDate": "2026-01-15T11:32:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "177f178db54a9ddf44f06a03288ba8a93f1a06be",
     "title": "Ofcom keeps X under the microscope despite Grok 'nudify' fix",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/ofcom_grok_probe/",
@@ -835,29 +893,6 @@
     "pinned": false
   },
   {
-    "id": "b92a682d880581d2def58881e99827e8aed2dc0b",
-    "title": "The RAM shortage’s silver lining: Less talk about “AI PCs”",
-    "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
-    "summary": "“General interest in AI PCs has been wavering for a while...\"",
-    "isoDate": "2026-01-13T22:34:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Tech",
-      "apple",
-      "dell",
-      "Desktops",
-      "generative ai",
-      "IDC",
-      "laptops"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1329130331-500x500-1768339464.jpg",
-    "pinned": false
-  },
-  {
     "id": "a4612b22eb594041053fbb42fa7da214db9b12b4",
     "title": "Popular Python libraries used in Hugging Face models subject to poisoned metadata attack",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_python_library_bugs_allow/",
@@ -1143,45 +1178,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
-    "pinned": false
-  },
-  {
-    "id": "618401709bcb5d2ebfa1fa932bf972a7f0868820",
-    "title": "Developer writes script to throw AI out of Windows",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/script_removes_ai_from_windows/",
-    "summary": "<h4>Satya Nadella's call to accept and embrace desktop brainboxes faces skepticism</h4> <p>Software developers have created a PowerShell script to remove AI features from Windows.…</p>",
-    "isoDate": "2026-01-13T07:23:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e893c102b18f9271888ad38ce519746ba095d0b0",
-    "title": "Lenovo has a hunch you’re about to try quitting VMware",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/lenovo_fx_multi_hypervisor_hci/",
-    "summary": "<h4>Tweaks its hardware to run multiple private cloud stacks, and shift between them</h4> <p>Lenovo has a hunch that some of you are about to shift to a different hypervisor and has created hardware to make the move easier.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-13T05:48:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f6137fa0532701a151ef8273ae5c48307ebc03be",
-    "title": "India demands crypto outfits geolocate customers, get a selfie to prove they’re real",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/india_crypto_kyc_aml_update/",
-    "summary": "<h4>Government is fed up with bad actors using digi-cash to fund dodgy deeds</h4> <p>India’s government has updated the regulations it imposes on cryptocurrency services providers, as part of its efforts to combat fraud, money laundering, and terrorism.…</p>",
-    "isoDate": "2026-01-13T02:48:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
