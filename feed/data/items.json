@@ -1,5 +1,69 @@
 [
   {
+    "id": "b396b2687893ac57df8b5de6004a37d307005252",
+    "title": "AI may be everywhere, but it's nowhere in recent productivity statistics",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/forrester_ai_jobs_impact/",
+    "summary": "<h4>Forrester principal analyst JP Gownder says jobs eaten by bots don't come back</h4> <p><strong>Interview</strong>  Analyst firm Forrester’s vice president and principal analyst J. P. Gownder remains unconvinced that AI will revolutionize productivity.…</p>",
+    "isoDate": "2026-01-15T01:13:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9c6b1a7f2e00301a99c10238aa446b03ffa32701",
+    "title": "Maker fight! SparkFun cuts ties with Adafruit in harassment dispute",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/sparkfun_cuts_ties_with_adafruit/",
+    "summary": "<h4>Adafruit claims SparkFun aims to shoot the messenger for criticizing corporate tolerance of intolerance</h4> <p>Retailer SparkFun Electronics last month said it would no longer do business with electronics kit-maker Adafruit Industries, citing violations of SparkFun's Code of Conduct during online interactions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-15T00:30:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3ba3ba375c1a113e84d7586ce75444c9b41d9bbf",
+    "title": "A British redcoat’s lost memoir resurfaces",
+    "link": "https://arstechnica.com/science/2026/01/a-british-redcoats-lost-memoir-resurfaces/",
+    "summary": "Shadrack Byfield lost his left arm in the War of 1812; his life sheds light on post-war re-integration.",
+    "isoDate": "2026-01-15T00:01:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "Science",
+      "disability",
+      "History",
+      "military history"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/redcoat1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c0b64630709151b70a19d6fa48879e96fb80c719",
+    "title": "Musk and Hegseth vow to “make Star Trek real” but miss the show’s lessons",
+    "link": "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/",
+    "summary": "AI weapons systems may annihilate their creators.",
+    "isoDate": "2026-01-14T23:43:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cyrus Farivar",
+    "tags": [
+      "AI",
+      "Culture",
+      "staircase",
+      "Star Trek",
+      "war"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/vulcan-salute-500x500-1768432775.jpg",
+    "pinned": false
+  },
+  {
     "id": "5c021fc0c74413e1a1180ee7da15ad495386859d",
     "title": "SC measles outbreak has gone berserk: 124 cases since Friday, 409 quarantined",
     "link": "https://arstechnica.com/health/2026/01/sc-measles-outbreak-has-gone-berserk-124-cases-since-friday-409-quarantined/",
@@ -716,48 +780,6 @@
     "pinned": false
   },
   {
-    "id": "5afde5eee672450f1f2e8ff54a0bbd83d11fe4c7",
-    "title": "Lawsuit: DHS wants “unlimited subpoena authority” to unmask ICE critics",
-    "link": "https://arstechnica.com/tech-policy/2026/01/instagram-user-fights-dhs-for-the-right-to-post-ice-sightings-anonymously/",
-    "summary": "DHS is weirdly using import/export rules to expand its authority to identify online critics.",
-    "isoDate": "2026-01-13T21:55:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "censorship",
-      "Department of Homeland Security",
-      "DHS",
-      "First Amendment",
-      "ice"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2255126862-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f20b7d3f527fd7debee5751bd3366cf2253e0fa9",
-    "title": "FDA deletes warning on bogus autism therapies touted by RFK Jr.‘s allies",
-    "link": "https://arstechnica.com/health/2026/01/warning-about-bogus-autism-treatments-vanishes-from-fdas-website/",
-    "summary": "The agency used to warn of chelation, used by RFK Jr.'s anti-vaccine ally David Geier.",
-    "isoDate": "2026-01-13T21:25:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anti-vaccine",
-      "autism",
-      "fda",
-      "fraud",
-      "Robert F Kenned Jr.",
-      "scams",
-      "treatment"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2255115344-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a4612b22eb594041053fbb42fa7da214db9b12b4",
     "title": "Popular Python libraries used in Hugging Face models subject to poisoned metadata attack",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_python_library_bugs_allow/",
@@ -1145,32 +1167,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5c392d089338b0beada7e658cafa2d4bbadef113",
-    "title": "Nvidia, Eli Lilly just say yes to making drugs together, using Vera Rubin GPUs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/nvidia_eli_lilly_ai_drug_lab/",
-    "summary": "<h4>If penicillin was discovered on moldy bread, who's to say the next miracle drug won't be born from AI hallucinations</h4> <p>Nvidia has teamed up with pharmaceutical heavyweight Eli Lilly to plow up to $1 billion into a research lab over the next five years to advance the development of foundation models for AI-assisted drug discovery.…</p>",
-    "isoDate": "2026-01-12T19:30:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "54dfe9afa2b89858e29ec720b5ac34a635b309ba",
-    "title": "PC shipments set to hit the buffers as AI guzzles memory",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/memory_shortages_price_hikes/",
-    "summary": "<h4>High-margin infrastructure kit takes precedence, leaving laptops and desktops wanting</h4> <p>Memory shortages will likely stunt PC shipments in 2026, as available supplies will not be able to meet demand thanks to memory makers chasing the lucrative AI infrastructure market instead.…</p>",
-    "isoDate": "2026-01-12T18:54:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
