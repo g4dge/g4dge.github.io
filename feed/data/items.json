@@ -1,5 +1,49 @@
 [
   {
+    "id": "1486fcda57ee4c9b831414b94f0fd888189a3da1",
+    "title": "Open ISA champ SiFive leaps aboard Nvidia's proprietary interconnect bandwagon",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/sifive_nvidia_nvlink/",
+    "summary": "<h4>You might call it a RISC-V/NVLink Fusion ... or a bad day for UALink</h4> <p>RISC-V champion SiFive has joined a growing number of chip companies by throwing its weight behind Nvidia's proprietary NVLink Fusion interconnect tech, a move that casts doubt on the viability of rival interconnect tech UALink.…</p>",
+    "isoDate": "2026-01-15T23:20:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6b2681281dbe2c793ca944f1e0ca68623528bc2d",
+    "title": "Over half of AI projects are shelved due to complex infrastructure",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/half_ai_projects_shelved/",
+    "summary": "<h4>The answer seems to be educating the enterprise workforce, and creating smarter use cases</h4> <p>More than half of AI projects have been delayed or canceled within the last two years citing complexities with AI infrastructure, according to a research report commissioned by DDN, a data optimization company in partnership with Google Cloud and Cognizant.…</p>",
+    "isoDate": "2026-01-15T23:19:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e95f9491a7acee3857832891aa63abc333304817",
+    "title": "“I am very annoyed”: Pharma execs blast RFK Jr.’s attack on vaccines",
+    "link": "https://arstechnica.com/health/2026/01/big-pharma-is-openly-railing-against-rfk-jr-s-anti-vaccine-agenda/",
+    "summary": "Pharma execs had avoided conflict with Trump admin, but now join doctors in rebukes.",
+    "isoDate": "2026-01-15T23:01:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "pharmaceutical",
+      "Robert F Kenned Jr."
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1232477788-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "af900d77c418b272884542ef6cdce41873eec074",
     "title": "Chinese spies used Maduro's capture as a lure to phish US govt agencies",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/chinese_spies_used_maduros_capture/",
@@ -694,24 +738,6 @@
     "pinned": false
   },
   {
-    "id": "67b09a46d9bfb3ff0e65f82a50ca73dc32724458",
-    "title": "FBI fights leaks by seizing Washington Post reporter’s phone, laptops, and watch",
-    "link": "https://arstechnica.com/tech-policy/2026/01/fbi-fights-leaks-by-seizing-washington-post-reporters-phone-laptops-and-watch/",
-    "summary": "FBI searches home and devices of reporter who has over 1,100 government contacts.",
-    "isoDate": "2026-01-14T21:30:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "press freedom",
-      "trump administration",
-      "Washington Post"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/washington-post-building-500x500-1768424062.jpg",
-    "pinned": false
-  },
-  {
     "id": "77eb2d676eb948cbb8e48a00a04492c90f0875a4",
     "title": "New Linux malware targets the cloud, steals creds, and then vanishes",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/voidlink_linux_malware/",
@@ -1058,32 +1084,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/moon_hotel_startup_reservation/",
     "summary": "<h4>Step 1: Ask for deposit. Step 2: ??? Step 3: Build Moon hotel empire</h4> <p>Everest has been turned into a run-of-the-mill tourist attraction. Space tourism is over now that any celebrity can blast off into orbit. Next up: a hotel on the Moon, now taking reservations for only about six years from now, if you're willing to make a small deposit.…</p>",
     "isoDate": "2026-01-13T20:50:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "95f6a60cb502e566d82430c0a71e7954dca19485",
-    "title": "SK Hynix's $13B packaging facility promises more HBM for the AI bubble",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/sk_hbm_packaging/",
-    "summary": "<h4>Great news for AMD and Nvidia, less so for cash-strapped consumers</h4> <p>Memory makers just can't churn out their DRAM fast enough. On the heels of an AI-driven shortage, SK Hynix on Tuesday announced a new 19 trillion Korean won (about $13 billion) advanced packaging and test facility in South Korea that could offer some relief - just not for consumer products like laptops and phones.…</p>",
-    "isoDate": "2026-01-13T19:22:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b12f1f1d41f8907cdce1ad810c0f3a1edc20c6ec",
-    "title": "Cloud to be an American: Congress votes to kick China off remote GPU services",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/congress_votes_china_gpu_cloud/",
-    "summary": "<h4>US House backs bill to regulate remote access to export-controlled chips</h4> <p>Chinese companies may be unable to import the best US GPUs, but they have found a workaround: renting access to that hardware via cloud services. Now, the US House of Representatives is moving to bring that loophole under the export-control law.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-13T17:43:45Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
