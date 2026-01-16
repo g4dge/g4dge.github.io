@@ -1,5 +1,53 @@
 [
   {
+    "id": "594a86cefaaf11be41f36c392d9753defd2b497e",
+    "title": "Hyperscalers, vendors funding trillion dollar AI spree, but users will have to pay up long term",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/hyperscales_and_vendor_fund_trillion/",
+    "summary": "<h4>Analyst: We'll hit a spot where 'we go from that was a great idea to where's my revenue?'</h4> <p>Software vendors and cloud providers are bearing the burden of the expected trillion-dollar increase in AI spending this year, as investment hits $2.52 trillion, according to Gartner.…</p>",
+    "isoDate": "2026-01-16T14:18:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3e837ac3d5e1244325d516edb5ad8dcc3b3f8388",
+    "title": "Mother of one of Elon Musk’s offspring sues xAI over sexualized deepfakes",
+    "link": "https://arstechnica.com/tech-policy/2026/01/mother-of-one-of-elon-musks-offspring-sues-xai-over-sexualized-deepfakes/",
+    "summary": "Claims Grok chatbot created \"countless\" sexual images of her without her consent.",
+    "isoDate": "2026-01-16T14:16:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Hannah Murphy and Rafe Rosner-Uddin, Financial Times",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai sex images",
+      "deepfakes",
+      "Elon Musk",
+      "grok",
+      "syndication",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ashleystclair-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0f4ddd0a4ab8420020c5c03d1ecf0fcd12882cff",
+    "title": "Tesla’s Lithium Refinery Enters Production — Eliminates Hazardous Byproducts and Reduces Costs",
+    "link": "https://www.notateslaapp.com/news/3510/tesla-lithium-refinery-enters-production-eliminates-hazardous-byproducts-and-reduces-costs",
+    "summary": "Tesla’s Corpus Christi Lithium Refinery enters volume production, securing a domestic supply of battery materials and proving its new acid-free refining tech.&hellip; <a href=\"https://www.notateslaapp.com/news/3510/tesla-lithium-refinery-enters-production-eliminates-hazardous-byproducts-and-reduces-costs\">Read More</a>",
+    "isoDate": "2026-01-16T14:12:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/corpus_christi_refinery.png/cc5b038c52492ed263c61a88a20516a9/corpus_christi_refinery.jpg",
+    "pinned": false
+  },
+  {
     "id": "0269441819fb4f1d9a69578c1f5451531d5f656b",
     "title": "Lawmakers urge FTC to probe Trump Mobile over 'deceptive' marketing",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/ftc_trump_mobile/",
@@ -16,7 +64,7 @@
     "id": "05c9804166c19169f6a138f8012f7cc8c069311d",
     "title": "RondoDox botnet linked to large-scale exploit of critical HPE OneView bug",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/rondodox_botnet_hpe_oneview/",
-    "summary": "<h4>Check Point observes 40K+ attack attempts in our hours, with government organizations under fire</h4> <p>A critical HPE OneView flaw is now being exploited at scale, with Check Point tying mass, automated attacks to the RondoDox botnet.…</p>",
+    "summary": "<h4>Check Point observes 40K+ attack attempts in 4 hours, with government organizations under fire</h4> <p>A critical HPE OneView flaw is now being exploited at scale, with Check Point tying mass, automated attacks to the RondoDox botnet.…</p>",
     "isoDate": "2026-01-16T13:00:29Z",
     "source": "The Register",
     "category": "Tech",
@@ -940,27 +988,6 @@
     "pinned": false
   },
   {
-    "id": "93e41c90b8cf16c3b0e553770f438204a50b4692",
-    "title": "A single click mounted a covert, multistage attack against Copilot",
-    "link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-    "summary": "Exploit exfiltrating data from chat histories worked even after users closed chat windows.",
-    "isoDate": "2026-01-14T22:03:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "copilot",
-      "data exfiltration",
-      "LLMs",
-      "prompt injections"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-500x500-1763493460.jpeg",
-    "pinned": false
-  },
-  {
     "id": "8445078be55a09707c387060b0a055b240b5b5b5",
     "title": "Google offers bargain: Sell your soul to Gemini, and it'll give you smarter answers",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/google_gemini_personalize_responses/",
@@ -1125,19 +1152,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2c9ff067a85f5eba17207f65e2990705c5367687",
-    "title": "UK backtracks on digital ID requirement for right to work",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/uk_digital_id_climbdown/",
-    "summary": "<h4>U-turn leaves questions on costs, funding, and benefits unanswered</h4> <p>The UK government has backed down from making digital ID mandatory for proof of a right to work in the country, adding to confusion over the scheme's cost and purpose.…</p>",
-    "isoDate": "2026-01-14T12:20:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
