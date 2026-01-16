@@ -1,5 +1,18 @@
 [
   {
+    "id": "ce9d2ca0f0c11875bf20480f1a4fefe5b753d934",
+    "title": "TSMC sees no signs of the AI boom slowing for at least two or three years",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/tsmc_q4_2025/",
+    "summary": "<h4>2nm process will go large this year, and bring inevitable price rises</h4> <p>Taiwanese chipmaking giant TSMC has posted huge growth, says more is on the way as the AI boom is not abating, but also pointed to the inevitability of price rises for its output.…</p>",
+    "isoDate": "2026-01-16T03:38:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "b299cf06c52fbd4d202a39b3a0789c4c460eee85",
     "title": "OpenAI invests in brain-interface biz co-founded by CEO Sam Altman",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/openai_merge_labs_brain_interface_investment/",
@@ -1074,19 +1087,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a4612b22eb594041053fbb42fa7da214db9b12b4",
-    "title": "Popular Python libraries used in Hugging Face models subject to poisoned metadata attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_python_library_bugs_allow/",
-    "summary": "<h4>The open-source libraries were created by Salesforce, Nvidia, and Apple with a Swiss group</h4> <p>Vulnerabilities in popular AI and ML Python libraries used in Hugging Face models with tens of millions of downloads allow remote attackers to hide malicious code in metadata. The code then executes automatically when a file containing the poisoned metadata is loaded.…</p>",
-    "isoDate": "2026-01-13T21:17:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
