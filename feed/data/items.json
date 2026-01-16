@@ -1,5 +1,75 @@
 [
   {
+    "id": "05c9804166c19169f6a138f8012f7cc8c069311d",
+    "title": "RondoDox botnet linked to large-scale exploit of critical HPE OneView bug",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/rondodox_botnet_hpe_oneview/",
+    "summary": "<h4>Check Point observes 40K+ attack attempts in our hours, with government organizations under fire</h4> <p>A critical HPE OneView flaw is now being exploited at scale, with Check Point tying mass, automated attacks to the RondoDox botnet.…</p>",
+    "isoDate": "2026-01-16T13:00:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cad6314bed680907dafe139a23953a311917d597",
+    "title": "Congress throws NASA a lifeline, leaves Mars sample mission to die in the dust",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/nasa_science_budget/",
+    "summary": "<h4>Agency dodges deep cut and mass mission shutdowns, but ambitious red planet plan gets the boot</h4> <p>US Congress has rejected plans to slash NASA's science budget, restoring most funding with one notable exception: Mars Sample Return remains cancelled.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-16T12:54:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "591a331ce9ceb8885fc4393048098b57d5b26adb",
+    "title": "Researchers scrutinize datacenters' lifecycles, aiming to make them more sustainable",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/datacenter_lifecycle_study/",
+    "summary": "<h4>Much of the damage done well before first power-on, in bit barns' childhood, says study</h4> <p>Constructing datacenters accounts for 39 percent of their total carbon dioxide emissions, almost as much as operating them, according to an environmental analysis covering the entire lifecycle of a facility.…</p>",
+    "isoDate": "2026-01-16T12:47:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0512987901f06c90b2d0a1cfeb2c8f5d23037734",
+    "title": "Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?",
+    "link": "https://arstechnica.com/space/2026/01/rocket-report-ariane-64-to-debut-soon-india-has-a-falcon-9-clone-too/",
+    "summary": "\"We are fundamentally shifting our approach to securing our munitions supply chain.\"",
+    "isoDate": "2026-01-16T12:00:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "launch",
+      "rocket report",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/spacex-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0e3d5d5bd6f676c1f9e1c138f04256e48d0a7f24",
+    "title": "Bankrupt scooter startup left one private key to rule them all",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/bankrupt_scooter_startup_key/",
+    "summary": "<h4>Owner reverse-engineered his ride, revealing authentication was never properly individualized</h4> <p>An Estonian e-scooter owner locked out of his own ride after the manufacturer went bust did what any determined engineer might do. He reverse-engineered it, and claims he ended up discovering the master key that unlocks every scooter the company ever sold.…</p>",
+    "isoDate": "2026-01-16T11:59:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "4680225a8aae53f07c13a51c001eb9e87eebc9df",
     "title": "Just because Linus Torvalds vibe codes doesn't mean it's a good idea",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/linus_torvalds_vibe_coding/",
@@ -891,27 +961,6 @@
     "pinned": false
   },
   {
-    "id": "14f80ef283a983001dec97e6756008ee4b980b4e",
-    "title": "I can’t stop shooting Oddcore’s endless waves of weird little guys",
-    "link": "https://arstechnica.com/gaming/2026/01/i-cant-stop-shooting-oddcores-endless-waves-of-weird-little-guys/",
-    "summary": "Zippy action, fun upgrade system make for a great pick-up-and-play shooter.",
-    "isoDate": "2026-01-14T21:42:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "boomer shooter",
-      "Classic",
-      "fps",
-      "oddcore",
-      "retro",
-      "shooter"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/oddcore1-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "77eb2d676eb948cbb8e48a00a04492c90f0875a4",
     "title": "New Linux malware targets the cloud, steals creds, and then vanishes",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/voidlink_linux_malware/",
@@ -1107,32 +1156,6 @@
     "pinned": false
   },
   {
-    "id": "26f4826b34f8bfce5ca2b893ef089265231aeb83",
-    "title": "Buy servers now or cry later: DRAM price spike threatens infrastructure budgets",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/dram_infrastructure_costs/",
-    "summary": "<h4>Component up 63% since September, more pricey memory coming to a supply chain near you</h4> <p>Enterprise IT infrastructure buyers are bracing for hefty price hikes across servers, storage systems, and networking kit, driven by steep inflation in memory component costs that industry analysts warn will soon cascade through the supply chain.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-14T11:00:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Paul Kunert",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "48d1346ca41851ca64fbef0990d11b174377c487",
-    "title": "Spanish power giant sparks breach probe amid claims of massive data grab",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/endesa_breach/",
-    "summary": "<h4>Endesa says payment info stolen after alleged crook boasted of 1 TB-plus haul</h4> <p>Spanish energy giant Endesa is warning customers about a data breach after a cybercrim claimed to have walked off with a vast cache of personal information allegedly tied to more than 20 million people.…</p>",
-    "isoDate": "2026-01-14T10:15:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "d4bf36191284c30beb52a4ddc05d11fe627e7232",
     "title": "The Daily Mail guide to twisting the facts on vehicle emissions",
     "link": "https://www.skeptic.org.uk/2026/01/the-daily-mail-guide-to-twisting-the-facts-on-vehicle-emissions/",
@@ -1145,32 +1168,6 @@
       "Climate Change",
       "Media"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "35a79372119a7a4df1820f293d6d154db2b0b44a",
-    "title": "Windows 2000 rusts in peace by the sea",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/windows_2000_rust_in_peace/",
-    "summary": "<h4>When salty coastal air meets memory errors in one of Portugal's rail ticket machines</h4> <p><strong>Bork!Bork!Bork!</strong>  It's back to the railways of Portugal for today's bork. Remember how we called Windows 2000 the unkillable cockroach of the IT world? Seems it's been upset by software peeking at memory where it shouldn't.…</p>",
-    "isoDate": "2026-01-14T09:30:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "cbbd145fc8845d43e0b9f268235d3459e544f673",
-    "title": "Anthropic finds $1.5 million to help Python Foundation improve security",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/anthropic_python_security/",
-    "summary": "<h4>AI upstart also upscales its Labs to find the next frontier</h4> <p>The Python Software Foundation (PSF) has an extra $1.5 million heading its way, after AI upstart Anthropic entered into a partnership aimed at improving security in the Python ecosystem.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-14T06:25:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
     "image": "",
     "pinned": false
   },
