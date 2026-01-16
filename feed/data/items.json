@@ -1,5 +1,47 @@
 [
   {
+    "id": "1ab8a6cb264c64956742dbdde12ff037c64c22c7",
+    "title": "TSMC says AI demand is “endless” after record Q4 earnings",
+    "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
+    "summary": "Amid fears of bubble, world's top chipmaker TSMC says customers just keep asking for more.",
+    "isoDate": "2026-01-16T16:55:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "AI chips",
+      "AI infrastructure",
+      "Amazon",
+      "arizona",
+      "C.C. Wei",
+      "datacenters",
+      "google",
+      "machine learning",
+      "microsoft",
+      "NVIDIA",
+      "semiconductors",
+      "Taiwan",
+      "TSMC"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/tsmc_factory-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1b7a274d0081501d52f223042077f5167ec0fca2",
+    "title": "Sorry Dave, I’m afraid I can’t do that! PCs refuse to shut down after Microsoft patch",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
+    "summary": "<h4>Microsoft claims it's a Secure Launch bug</h4> <p>We're not saying Copilot has become sentient and decided it doesn't want to lose consciousness. But if it did, it would create Microsoft's January Patch Tuesday update, which has made it so that some PCs flat-out refuse to shut down or hibernate, no matter how many times you try.…</p>",
+    "isoDate": "2026-01-16T16:44:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "8384fd6c1088d6694aed8160191d1d0b6abcf59d",
     "title": "Windows Backup adds second-chance restore at sign-in",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/microsoft_windows_backup/",
@@ -1016,25 +1058,6 @@
     "pinned": false
   },
   {
-    "id": "3ba3ba375c1a113e84d7586ce75444c9b41d9bbf",
-    "title": "A British redcoat’s lost memoir resurfaces",
-    "link": "https://arstechnica.com/science/2026/01/a-british-redcoats-lost-memoir-resurfaces/",
-    "summary": "Shadrack Byfield lost his left arm in the War of 1812; his life sheds light on post-war re-integration.",
-    "isoDate": "2026-01-15T00:01:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Science",
-      "disability",
-      "History",
-      "military history"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/redcoat1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bbc97ea4109a6d14ccd30199ba141b02e949e001",
     "title": "CrowdStrike shareholders lose battle to recoup losses from 2024 outage",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/crowdstrike_shareholders_lawsuit_dismiss/",
@@ -1134,19 +1157,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "acdb1c36af15c63e19217d0e3f29b847b1c81f64",
-    "title": "'Imagination the limit': DeadLock ransomware gang using smart contracts to hide their work",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/deadlock_ransomware_smart_contracts/",
-    "summary": "<h4>New crooks on the block get crafty with blockchain to evade defenses</h4> <p>Researchers at Group-IB say the DeadLock ransomware operation is using blockchain-based anti-detection methods to evade defenders' attempts to analyze their tradecraft.…</p>",
-    "isoDate": "2026-01-14T14:16:44Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
