@@ -1,5 +1,48 @@
 [
   {
+    "id": "8384fd6c1088d6694aed8160191d1d0b6abcf59d",
+    "title": "Windows Backup adds second-chance restore at sign-in",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/microsoft_windows_backup/",
+    "summary": "<h4>First sign-in restore aims to cut rebuilds when users skip setup options</h4> <p>Microsoft has quietly tweaked Windows Backup for Organizations to include restore at first sign-in.…</p>",
+    "isoDate": "2026-01-16T16:31:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "25cb55e6b3276496a7aa9fd85bed27f459e8cf5b",
+    "title": "Feds give Tesla another five weeks to respond to FSD probe",
+    "link": "https://arstechnica.com/cars/2026/01/feds-give-tesla-another-five-weeks-to-respond-to-fsd-probe/",
+    "summary": "Regulators want to know why Tesla's system ignores red lights and runs into traffic.",
+    "isoDate": "2026-01-16T15:40:00Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "nhtsa",
+      "Tesla FSD"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1149999036-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f37aeb282113a6e262ebd9d90f1643c3a398a6ad",
+    "title": "Ready for a newbie-friendly Linux? Mint team officially releases v 22.3, 'Zena'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/linux_mint_223_zena_officially_release/",
+    "summary": "<h4>Newer kernel, newer Cinnamon, new tools, and even new icons</h4> <p>The timing is right if you're looking to try out Mint. New improved \"Zena\" is here – still based on Ubuntu Noble, but now with Cinnamon 6.6 and improved Wayland support, plus better internationalization, new System Information and System Administration tools, and clearer icons.…</p>",
+    "isoDate": "2026-01-16T15:32:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "f7c4fc4da2656ddafd721adfabcd7dc4c17f6bff",
     "title": "German cops add Black Basta boss to EU most-wanted list",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/black_basta_boss_wanted/",
@@ -992,25 +1035,6 @@
     "pinned": false
   },
   {
-    "id": "c0b64630709151b70a19d6fa48879e96fb80c719",
-    "title": "Musk and Hegseth vow to “make Star Trek real” but miss the show’s lessons",
-    "link": "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/",
-    "summary": "AI weapons systems may annihilate their creators.",
-    "isoDate": "2026-01-14T23:43:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cyrus Farivar",
-    "tags": [
-      "AI",
-      "Culture",
-      "staircase",
-      "Star Trek",
-      "war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/vulcan-salute-500x500-1768432775.jpg",
-    "pinned": false
-  },
-  {
     "id": "bbc97ea4109a6d14ccd30199ba141b02e949e001",
     "title": "CrowdStrike shareholders lose battle to recoup losses from 2024 outage",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/crowdstrike_shareholders_lawsuit_dismiss/",
@@ -1138,32 +1162,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/99.jpeg/895b914a5bba08f169c971c2d65e9b46/99.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6b153dd20564b5716a2cf7f41fe776333f1d505b",
-    "title": "AI's $3T infrastructure binge continues despite lack of clear profits",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/ai_investment/",
-    "summary": "<h4>Investment in datacenters to peak by 2029, place your bets please</h4> <p>The AI-driven datacenter construction frenzy shows no signs of slowing, but neither do concerns that the whole edifice could collapse under the weight of its own hype and mounting investment demands.…</p>",
-    "isoDate": "2026-01-14T13:41:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e9d78da051e8de5b1e4fbefeb5153fdb606f56e3",
-    "title": "Firefox 147 brings GPU boost, tidier tabs, and video that follows you around",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/firefox_and_tbird_147/",
-    "summary": "<h4>Latest update focuses on hardware acceleration, security tightening, and a handful of quality-of-life tweaks</h4> <p>The latest Firefox is here with some handy changes – most of which differ depending on what OS and type of CPU you run it on.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-14T13:15:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1379,19 +1377,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y/0x0-model-y_06_cropped.webp/01409b990b27c75475bd64e47efab990/0x0-model-y_06_cropped.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b216044eef5cb7ad65043c4bc31b6a961e977dff",
-    "title": "Musk Reveals Giga Texas Expansion and Roadster Details in New Interview",
-    "link": "https://www.notateslaapp.com/news/3493/musk-reveals-giga-texas-expansion-and-roadster-details-in-new-interview",
-    "summary": "Elon Musk confirms an 8-million-sq-ft Optimus factory at Giga Texas, hover capability for the Roadster, and a 2026 timeline for Cybercab in a new interview.&hellip; <a href=\"https://www.notateslaapp.com/news/3493/musk-reveals-giga-texas-expansion-and-roadster-details-in-new-interview\">Read More</a>",
-    "isoDate": "2026-01-09T16:05:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/elon-musk-moonshots.jpg/c3dd77d057f9d72d6b4d01c5ec5c56a2/elon-musk-moonshots.jpg",
     "pinned": false
   }
 ]
