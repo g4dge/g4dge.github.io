@@ -1,5 +1,36 @@
 [
   {
+    "id": "288336d6921618a39afa37f0bfbf0822750c9a3d",
+    "title": "Nvidia leans on emulation to squeeze more HPC oomph from AI chips in race against AMD",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/nvidia_fp64_emulation/",
+    "summary": "<h4>AMD researchers argue that, while algorithms like the Ozaki scheme merit investigation, they're still not ready for prime time.</h4> <p>Double precision floating point computation (aka FP64) is what keeps modern aircraft in the sky, rockets going up, vaccines effective, and, yes, nuclear weapons operational. But rather than building dedicated chips that process this essential data type in hardware, Nvidia is leaning on emulation to increase performance for HPC and scientific computing applications, an area where AMD has had the lead in recent generations.…</p>",
+    "isoDate": "2026-01-18T12:21:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "bf8d86ed576482453d5c6c5cee40430802c35cc5",
+    "title": "Ocean damage nearly doubles the cost of climate change",
+    "link": "https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/",
+    "summary": "Ignoring the blue economy has left a multi-trillion-dollar blind spot in climate finance.",
+    "isoDate": "2026-01-18T12:00:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Johnny Sturgeon, Inside Climate News",
+    "tags": [
+      "Science",
+      "climate change",
+      "ocean ecology",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2245161347-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "35e14feb98e97245c034a5c9321adad31aaa8daa",
     "title": "Not hot on bots, project names and shames AI-created open source software",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/openslopware_is_back/",
@@ -879,25 +910,6 @@
     "pinned": false
   },
   {
-    "id": "020f9d5e42fe21e1d4d88c1bea62b47a9adcf39d",
-    "title": "Spotify’s 3rd price hike in 2.5 years hints at potential new normal",
-    "link": "https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/",
-    "summary": "Spotify claims the higher fees will help \"benefit artists.\"",
-    "isoDate": "2026-01-15T19:22:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "apps",
-      "music",
-      "spotify",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2248295045-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8821d6b62867b5594aa6348a2580d2bacaf2f4da",
     "title": "Bond, debt bond: Investors shaken, not stirred by Oracle’s borrowing spree sue Big Red",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/oracle_faces_class_action_over/",
@@ -1192,19 +1204,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9c6b1a7f2e00301a99c10238aa446b03ffa32701",
-    "title": "Maker fight! SparkFun cuts ties with Adafruit in harassment dispute",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/sparkfun_cuts_ties_with_adafruit/",
-    "summary": "<h4>Adafruit claims SparkFun aims to shoot the messenger for criticizing corporate tolerance of intolerance</h4> <p>Retailer SparkFun Electronics last month said it would no longer do business with electronics kit-maker Adafruit Industries, citing violations of SparkFun's Code of Conduct during online interactions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-15T00:30:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
