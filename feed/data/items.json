@@ -1,5 +1,55 @@
 [
   {
+    "id": "050bc0bbce65b7dbe2204577977a2bdce097de37",
+    "title": "Reports of ad-supported Xbox game streams show Microsoft's lack of imagination",
+    "link": "https://arstechnica.com/gaming/2026/01/reports-of-ad-supported-xbox-game-streams-show-microsofts-lack-of-imagination/",
+    "summary": "Xbox maker needs some fresher ideas for expanding access to cloud gaming.",
+    "isoDate": "2026-01-19T17:16:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "cloud gaming",
+      "game streaming",
+      "streaming",
+      "xboxmicrosoft"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/Cloud-Gaming_iPadSurfaceiPhone-500x500-1768842287.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b779224297cd1b39927f01e9d3ae054fc98590a3",
+    "title": "ERP isn't dead yet – but most execs are planning the wake",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/erp_survey_rimini_street/",
+    "summary": "<h4>7 out of 10 C-suite cats reckon software category's best days are behind it, but can't agree what's next</h4> <p>Seven out of ten C-suite leaders see a life beyond ERP as businesses have come to know it, but are divided on what the future holds for this big-ticket item critical to organizational performance.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-19T17:14:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0eeb44441a7eeae9ec48c855a9cbefc069e44b9d",
+    "title": "The race to build a super-large ground telescope is likely down to two competitors",
+    "link": "https://arstechnica.com/space/2026/01/as-europes-large-ground-telescope-project-advances-how-is-its-us-competitor-faring/",
+    "summary": "Ars checks in with the new president of the Giant Magellan Telescope.",
+    "isoDate": "2026-01-19T17:06:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "european extremely large telescope",
+      "giant magellan telescope",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GMT-Rendering-IDOM-Enclosure-2024-1-scaled-1-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "7774e8d258542bce537f373693f410f16d15727c",
     "title": "Broker who sold malware to the FBI set for sentencing",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/iab_sentencing/",
@@ -1156,24 +1206,6 @@
     "pinned": false
   },
   {
-    "id": "e95f9491a7acee3857832891aa63abc333304817",
-    "title": "“I am very annoyed”: Pharma execs blast RFK Jr.’s attack on vaccines",
-    "link": "https://arstechnica.com/health/2026/01/big-pharma-is-openly-railing-against-rfk-jr-s-anti-vaccine-agenda/",
-    "summary": "Pharma execs had avoided conflict with Trump admin, but now join doctors in rebukes.",
-    "isoDate": "2026-01-15T23:01:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anti-vaccine",
-      "pharmaceutical",
-      "Robert F Kenned Jr."
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/GettyImages-1232477788-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "af900d77c418b272884542ef6cdce41873eec074",
     "title": "Chinese spies used Maduro's capture as a lure to phish US govt agencies",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/chinese_spies_used_maduros_capture/",
@@ -1184,24 +1216,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6f3423535fbcda44292933d54a8b62755f2ef456",
-    "title": "Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity",
-    "link": "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/",
-    "summary": "NYT says US hackers were able to turn off power and then quickly turn it back on.",
-    "isoDate": "2026-01-15T21:29:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Security",
-      "Cyberattacks",
-      "hacking",
-      "Venezuela"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/power-outage-electric-cord-500x500.jpg",
     "pinned": false
   },
   {
@@ -1226,19 +1240,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "47c34a2225472ce6a051e13714eb76a6c8a67695",
-    "title": "Contagious Claude Code bug Anthropic ignored promptly spreads to Cowork",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/anthropics_claude_bug_cowork/",
-    "summary": "<h4>Office workers without AI experience warned to watch for prompt injection attacks - good luck with that</h4> <p>Anthropic's tendency to wave off prompt-injection risks is rearing its head in the company's new Cowork productivity AI, which suffers from a Files API exfiltration attack chain first disclosed last October and acknowledged but not fixed by Anthropic.…</p>",
-    "isoDate": "2026-01-15T19:15:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
