@@ -1,5 +1,44 @@
 [
   {
+    "id": "a04d666eadbda33f191880611f26d3e135020213",
+    "title": "NASA's Artemis II Moon rocket arrives at the launch pad",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/nasa_artemis_ii/",
+    "summary": "<h4>If it all goes wrong, British kids of the '80s might remember an alternative</h4> <p>NASA's monster Moon rocket, the Space Launch System (SLS), has trundled out to the launch pad – though the upper stage and Orion spacecraft look uncannily like a prop from a 1980s British children's television show.…</p>",
+    "isoDate": "2026-01-19T14:34:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "331270cc5a0f9c18c9495f450d0009e4960c18bb",
+    "title": "Microsoft Intune changes to start biting unprepared admins",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/microsoft_intune_deadline/",
+    "summary": "<h4>Mobile application management updates mean apps could soon be blocked</h4> <p>Today's a critical day for administrators managing a fleet of mobile devices via Microsoft Intune. Without updates, apps - including Microsoft's own - may stop working.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-19T14:00:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f6908f15df0b8591929328c4f324296b035a80ef",
+    "title": "Don't underestimate pro-Russia hacktivists, warns UK's cyber crew",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/dont_underestimate_prorussia_hacktivists_warns/",
+    "summary": "<h4>They’re not the most sophisticated, but even simple attacks can lead to costly consequences</h4> <p>The UK's National Cyber Security Centre (NCSC) is once again warning that pro-Russia hacktivists are a threat to critical services operators.…</p>",
+    "isoDate": "2026-01-19T13:37:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7725f75b837fc2c33a2c89a35d91733563e260dd",
     "title": "Windows 11 shutdown bug forces Microsoft into out-of-band damage control",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/windows_11_shutdown_bug/",
@@ -1175,19 +1214,6 @@
     "pinned": false
   },
   {
-    "id": "8354096f433fdbe55938f41e7c27c70b00edcf31",
-    "title": "A simple CodeBuild flaw put every AWS environment at risk – and pwned 'the central nervous system of the cloud'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/codebuild_flaw_aws/",
-    "summary": "<h4>And it's 'not unique to AWS,' researcher tells <i>The Reg</i></h4> <p>A critical misconfiguration in AWS's CodeBuild service allowed complete takeover of the cloud provider's own GitHub repositories and put every AWS environment in the world at risk, according to Wiz security researchers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-15T15:00:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "9425b5edb8931b5fa6cfdcb279a1c9c2c6777b4e",
     "title": "With Tesla Ending FSD Purchases, Should You Buy It Now? Pros and Cons List",
     "link": "https://www.notateslaapp.com/news/2628/with-tesla-ending-fsd-purchases-should-you-buy-it-now-pros-and-cons-list",
@@ -1198,32 +1224,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-vis.jpg/5728beaa6064ac1bdd4dde3366beba4a/fsd-beta-vis.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4fc219d19cdb011e715e0436d5f2f8de00f3bd90",
-    "title": "Budget smartphones will be hit hardest as memory prices rise",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/memory_crisis_smartphones/",
-    "summary": "<h4>When margins are this tight, mergers might follow</h4> <p>The memory shortage is forecast to push smartphone prices higher in 2026, triggering a market decline and forcing budget phone makers to merge or disappear.…</p>",
-    "isoDate": "2026-01-15T14:38:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "677e2d551eee4c09c3424c478c4c4fc9cade459f",
-    "title": "Windows App forgets how to log in with first security update of the year",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/windows_app_credential_failures/",
-    "summary": "<h4>January patch trips up Azure Virtual Desktop and Windows 365 authentication</h4> <p>Microsoft has kicked off 2026 with another faulty Windows update. This time, it is connection and authentication failures in Azure Virtual Desktop and Windows 365 related to the Windows App.…</p>",
-    "isoDate": "2026-01-15T14:12:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1411,32 +1411,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_52.jpg/25dc7dbde319434d0d2d61903c265f5c/group_52.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6f38dae969c99ee1da18d01f71f9237d8629652d",
-    "title": "Tesla Introduces New Solar Panels With Improved Efficiency and Appearance",
-    "link": "https://www.notateslaapp.com/news/3497/tesla-introduces-new-solar-panels-with-improved-efficiency-and-appearance",
-    "summary": "Tesla restarts its solar push with new 420W stealth panels and a leasing program, addressing both the aesthetics and the upfront cost of solar adoption.&hellip; <a href=\"https://www.notateslaapp.com/news/3497/tesla-introduces-new-solar-panels-with-improved-efficiency-and-appearance\">Read More</a>",
-    "isoDate": "2026-01-12T14:35:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-solar-gen-2.webp/7e4458bb64ebd39ed7159a7728a5e1db/tesla-solar-gen-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3db4c78ead8d1fd9c1ad350417a4dd2d9a340cc7",
-    "title": "Tesla Launches Model Y Standard in Canada and Standard Long Range in Europe",
-    "link": "https://www.notateslaapp.com/news/3500/tesla-launches-model-y-standard-in-canada-and-standard-long-range-in-europe",
-    "summary": "Tesla launches a $49k Model Y Standard in Canada and a long-range RWD Standard trim in Europe, utilizing a new simplified interior to cut costs and boost range.&hellip; <a href=\"https://www.notateslaapp.com/news/3500/tesla-launches-model-y-standard-in-canada-and-standard-long-range-in-europe\">Read More</a>",
-    "isoDate": "2026-01-12T13:50:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/standard/modelystandard_93.jpg/4c011bbb5880c1c8c1c11f0696f28d85/modelystandard_93.jpg",
     "pinned": false
   }
 ]
