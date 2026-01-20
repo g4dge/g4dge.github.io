@@ -1,5 +1,58 @@
 [
   {
+    "id": "39e94f4e6907e290a0a084adf787006fa6d32a1a",
+    "title": "Zuck stuck on Trump’s bad side: FTC appeals loss in Meta monopoly case",
+    "link": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
+    "summary": "FTC will appeal ruling that found Meta has no monopoly in social networking.",
+    "isoDate": "2026-01-20T23:22:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "Antitrust law",
+      "Facebook",
+      "FTC",
+      "Instagram",
+      "meta",
+      "monopoly",
+      "whatsapp"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/zuck-the-monopolist-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6ed2d1c8175792b2d164249a1dfa6d3d9729cdf5",
+    "title": "Cloudflare whacks WAF bypass bug that opened side door for attackers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/cloudflare_fixes_acme_validation/",
+    "summary": "<h4>ACME validation had a challenge-request hole</h4> <p>Cloudflare has fixed a flaw in its web application firewall (WAF) that allowed attackers to bypass security rules and directly access origin servers, which could lead to data theft or full server takeover.…</p>",
+    "isoDate": "2026-01-20T23:05:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f875cc01eb0c11a2098c39c87b1d0d7ec87e8a6a",
+    "title": "Verizon starts requiring 365 days of paid service before it will unlock phones",
+    "link": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
+    "summary": "Verizon changed prepaid brands' policy a week after FCC waived unlocking rule.",
+    "isoDate": "2026-01-20T22:35:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "phone unlocking",
+      "tracfone",
+      "verizon"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-500x500-1752087145.jpg",
+    "pinned": false
+  },
+  {
     "id": "2172e16b830b898b3104162502c48c908a56f21b",
     "title": "Google temporarily disabled YouTube's advanced captions without warning",
     "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
@@ -1121,45 +1174,6 @@
     "pinned": false
   },
   {
-    "id": "257ba11a97d516e09399ada797203f13f9fbb8a0",
-    "title": "Rackspace customers grapple with “devastating” email hosting price hike",
-    "link": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/",
-    "summary": "Reseller says Rackspace plans to charge it 706 percent more.",
-    "isoDate": "2026-01-16T23:15:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Biz & IT",
-      "cloud",
-      "email",
-      "Rackspace"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2206289956-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "178292bf8d5ac5c96f80e713f421eea3a3b3e96a",
-    "title": "Archaeologists find a supersized medieval shipwreck in Denmark",
-    "link": "https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/",
-    "summary": "The sunken ship reveals that the medieval European economy was growing fast.",
-    "isoDate": "2026-01-16T22:07:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "Archaeology",
-      "maritime archaeology",
-      "medieval Europe",
-      "nautical archaeology",
-      "science",
-      "shipwrecks"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Ubena_von_Bremen_Kiel2007_1_cropped-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c635ddd930edae5779507f5564624ee9f5573371",
     "title": "How to \"Hack\" Tesla Rear Screen to Watch Any Video Streaming Apps/Services [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3503/how-to-hack-tesla-rear-screen-to-watch-any-video-streaming-appsservices",
@@ -1181,19 +1195,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1b7a274d0081501d52f223042077f5167ec0fca2",
-    "title": "Sorry Dave, I’m afraid I can’t do that! PCs refuse to shut down after Microsoft patch",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
-    "summary": "<h4>Microsoft claims it's a Secure Launch bug</h4> <p>We're not saying Copilot has become sentient and decided it doesn't want to lose consciousness. But if it did, it would create Microsoft's January Patch Tuesday update, which has made it so that some PCs flat-out refuse to shut down or hibernate, no matter how many times you try.…</p>",
-    "isoDate": "2026-01-16T16:44:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
