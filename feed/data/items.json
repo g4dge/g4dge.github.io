@@ -1,5 +1,44 @@
 [
   {
+    "id": "160b3bd098ce3edfee3769d395f001c80e098d21",
+    "title": "Anthropic quietly fixed flaws in its Git MCP server that allowed for remote code execution",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/anthropic_prompt_injection_flaws/",
+    "summary": "<h4>Prompt injection for the win</h4> <p>Anthropic has fixed three bugs in its official Git MCP server that researchers say can be chained with other MCP tools to remotely execute malicious code or overwrite files via prompt injection.…</p>",
+    "isoDate": "2026-01-20T13:00:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "435ecdd99f3143d1095957f85d925f425d50da3c",
+    "title": "For the price of Netflix, crooks can now rent AI to run cybercrime",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/group_ib_ai_cycercrime_subscriptions/",
+    "summary": "<h4>Group-IB says crims forking out for Dark LLMs, deepfakes, and more at subscription prices</h4> <p>Cybercrime has entered its AI era, with criminals now using weaponized language models and deepfakes as cheap, off-the-shelf infrastructure rather than experimental tools, according to researchers at Group-IB.…</p>",
+    "isoDate": "2026-01-20T12:32:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ff2f7db3d507f552917b08d5c6f211fb91de5ba7",
+    "title": "Microsoft veteran explains the one weird trick that made Windows 95 restart faster",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/chen_shift_reboot_windows/",
+    "summary": "<h4>Hold down Shift to make the magic happen (or not, as the case might be)</h4> <p>Microsoft's Raymond Chen has explained why holding down Shift during a Windows 95 restart would get the system up and running again far faster than a full reboot.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-20T12:08:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "fa8d556459f7d43a9081b8601592463d3df1fdef",
     "title": "Global economy shrugs off US tariff shock, tech spending does heavy lifting",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/global_economy_shrugs_off_us/",
@@ -1240,45 +1279,6 @@
       "Paranormal",
       "Parapsychology"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "76e2c9779afece3ec76cf6a1f4a1d551fa89175d",
-    "title": "An old parking meter and a Pi make beautiful music together",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/parking_meter_jukebox/",
-    "summary": "<h4>You can't park there, mate</h4> <p>An enterprising engineer has turned an old parking meter into a jukebox using a Pi Zero 2 and some open source code.…</p>",
-    "isoDate": "2026-01-16T09:30:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2afd90dc45d10cbfc08d46035ff39d36a64cde9a",
-    "title": "Engineer used welding shop air hose to 'clean' PCs – hilarity did not ensue",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/on_call/",
-    "summary": "<h4>How not to maintain computers</h4> <p><strong>On Call</strong>  Welcome again to On Call, <i>The Register's</i> Friday column in which we take great delight in telling your tech support stories – mostly the ones involving bizarre behavior and heroic fixes.…</p>",
-    "isoDate": "2026-01-16T07:30:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7d51739a0ef141cb3ca227c82ef06e359a0630e3",
-    "title": "Wikimedia’s 25th birthday gift: Letting more AIs scour pages volunteers created",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/wikimedia_25_ai_partner_access/",
-    "summary": "<h4>Microsoft promises to be a responsible copilot</h4> <p>The Wikimedia Foundation, the org behind Wikipedia and other open knowledge platforms, has revealed it’s signed six more AI companies as ‘enterprise partners’, status that gives them preferential access to the content it tends.…</p>",
-    "isoDate": "2026-01-16T05:17:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
     "image": "",
     "pinned": false
   },
