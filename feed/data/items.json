@@ -1,5 +1,18 @@
 [
   {
+    "id": "8269f24c566021d15f143b05dcbdb1c2b819a6b9",
+    "title": "Akamai CEO wants help to defeat piracy, reckons he can handle edge AI alone",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/akamai_ceo_tom_leighton_piracy_interview/",
+    "summary": "<h4>OG CDN boss says fighting illegal streams is about stopping criminals cashing in, not free speech</h4> <p><strong>Interview</strong>  After Cloudflare CEO Matthew Prince recently <a href=\"https://www.theregister.com/2026/01/12/cloudflare_vs_italy/\" target=\"_blank\">threatened</a> to disrupt the Winter Olympics to protect free speech after Italian authorities fined his company for not disrupting pirate video streams, rival CDN provider Akamai’s CEO Dr. Tom Leighton fired back with what reads a lot like thinly veiled criticism.…</p>",
+    "isoDate": "2026-01-20T04:55:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e5ba861f29c13016c2a4047c9fe3729449fd3d78",
     "title": "Micron finds a way to make more DRAM with $1.8bn chip plant purchase",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/micron_powerchip_fab_acquisition/",
@@ -1237,19 +1250,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "19a902aba0932dfde2c225ec98fbeb4190960d99",
-    "title": "Flipping one bit leaves AMD CPUs open to VM vuln",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/stackwarp_bug_amd_cpus/",
-    "summary": "<h4>Fix landed in July, but OEM firmware updates are required</h4> <p>If you use virtual machines, there's reason to feel less-than-Zen about AMD's CPUs. Computer scientists affiliated with the CISPA Helmholtz Center for Information Security in Germany have found a vulnerability in AMD CPUs that exposes secrets in its secure virtualization environment.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-15T21:11:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
