@@ -1,5 +1,38 @@
 [
   {
+    "id": "102e0d4526a48286946597ffaeeb197e2b39b894",
+    "title": "OpenAI will try to guess your age before ChatGPT gets spicy",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/openai_bets_on_age_prediction/",
+    "summary": "<h4>Think of the children...and the monetization options available where they're not allowed</h4> <p>OpenAI says it has begun deploying an age prediction model to determine whether ChatGPT users are old enough to view \"sensitive or potentially harmful content.\"…</p>",
+    "isoDate": "2026-01-21T01:37:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b184b63faf8faf0d4e2b2cdbe25dc6361ae83e0f",
+    "title": "Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular",
+    "link": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
+    "summary": "The colors show the star’s final breath transforming into the raw ingredients for new worlds.",
+    "isoDate": "2026-01-20T23:33:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "helix nebula",
+      "NASA",
+      "Nebula",
+      "space",
+      "Webb"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ-500x500.png",
+    "pinned": false
+  },
+  {
     "id": "39e94f4e6907e290a0a084adf787006fa6d32a1a",
     "title": "Zuck stuck on Trump’s bad side: FTC appeals loss in Meta monopoly case",
     "link": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
@@ -56,7 +89,7 @@
     "id": "2172e16b830b898b3104162502c48c908a56f21b",
     "title": "Google temporarily disabled YouTube's advanced captions without warning",
     "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
-    "summary": "Google says SRV3 was causing playback errors, so it has \"temporarily\" disabled them.",
+    "summary": "Google says SRV3 captions were causing playback errors, so it has \"temporarily\" disabled them.",
     "isoDate": "2026-01-20T22:17:02Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -475,7 +508,7 @@
     "id": "8269f24c566021d15f143b05dcbdb1c2b819a6b9",
     "title": "Akamai CEO wants help to defeat piracy, reckons he can handle edge AI alone",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/akamai_ceo_tom_leighton_piracy_interview/",
-    "summary": "<h4>OG CDN boss says fighting illegal streams is about stopping criminals cashing in, not free speech</h4> <p><strong>Interview</strong>  After Cloudflare CEO Matthew Prince recently <a href=\"https://www.theregister.com/2026/01/12/cloudflare_vs_italy/\" target=\"_blank\">threatened</a> to disrupt the Winter Olympics to protect free speech after Italian authorities fined his company for not disrupting pirate video streams, rival CDN provider Akamai’s CEO Dr. Tom Leighton fired back with what reads a lot like thinly veiled criticism.…</p>",
+    "summary": "<h4>OG CDN boss says fighting illegal streams is about stopping criminals cashing in, not free speech</h4> <p><strong>Interview</strong>  When Cloudflare CEO Matthew Prince recently <a href=\"https://www.theregister.com/2026/01/12/cloudflare_vs_italy/\" target=\"_blank\">threatened</a> to disrupt the Winter Olympics to protect free speech after Italian authorities fined his company for not disrupting pirate video streams, rival CDN provider Akamai’s CEO Dr. Tom Leighton fired back with what reads a lot like thinly veiled criticism.…</p>",
     "isoDate": "2026-01-20T04:55:41Z",
     "source": "The Register",
     "category": "Tech",
@@ -1111,30 +1144,6 @@
     "pinned": false
   },
   {
-    "id": "63b42111ce3c23e9e0b38d48866a49542a403ce6",
-    "title": "Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission",
-    "link": "https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/",
-    "summary": "\"I’ve got one job, and it’s the safe return of Reid, Victor, Christina, and Jeremy.\"",
-    "isoDate": "2026-01-17T04:45:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "artemis",
-      "artemis II",
-      "human spaceflight",
-      "Kennedy Space Center",
-      "moon",
-      "NASA",
-      "orion",
-      "space launch system"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Artemis-II-Trajectory-Thumbnail-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3ec2a5023690ad667ccd56a4d9baeea16ac405d0",
     "title": "Coming soon: We interrupt this ChatGPT session with a very special message from our sponsors",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/17/openai_chatgpt_ads/",
@@ -1184,19 +1193,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/rear-screen-video-2.webp/727dc276592a16948b00cd56f8364000/rear-screen-video-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "222d2ca9834b83711382d6681362b10ab4703099",
-    "title": "Micron breaks ground on humungous NY DRAM fab after beating bats and tree huggers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/micron_fab_breaks_ground/",
-    "summary": "<h4>Chipmaker claims the four-fab site could expand US-based DRAM production by a factor of 12</h4> <p>Micron broke snowy winter ground in New York on Friday to begin building a chip fab that promises to bring up to 50,000 jobs and much-needed computer memory production to US shores, as the AI boom continues to push memory prices up.…</p>",
-    "isoDate": "2026-01-16T21:11:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
