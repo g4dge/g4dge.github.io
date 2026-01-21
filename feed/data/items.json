@@ -1,5 +1,86 @@
 [
   {
+    "id": "4ff5f73b1195f86f2380d9d85a9f945ab4518a47",
+    "title": "Ireland wants to give its cops spyware, ability to crack encrypted messages",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/ireland_wants_to_give_police/",
+    "summary": "<h4>Its very own Snooper’s Charter comes a month after proposed biometric tech expansion</h4> <p>The Irish government is planning to bolster its police's ability to intercept communications, including encrypted messages, and provide a legal basis for spyware use.…</p>",
+    "isoDate": "2026-01-21T13:05:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0a55f02a0e203f9841e86f99ec22e324388bdeb2",
+    "title": "Microsoft admits Outlook might freeze when saving files to OneDrive",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/outlook_freeze_onedrive/",
+    "summary": "<h4>January update is the gift that keeps on giving</h4> <p>Microsoft's January Windows update has delivered another blow for unsuspecting users – apps including Outlook might freeze when saving files to cloud storage services such as OneDrive or Dropbox.…</p>",
+    "isoDate": "2026-01-21T12:33:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "bddc74a5742fe1563e98a9174cd7e6b8fa841b86",
+    "title": "Best of British: UK's infosec envoys include Cisco, Palo Alto, and Accenture",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/uk_security_code_practice/",
+    "summary": "<h4>Minister unwraps ambassadors of the Software Security Code of Practice</h4> <p>Britain's digital economy minister has sent forth a raft of companies as \"ambassadors\" to help organizations across the land embrace the UK's Software Security Code of Practice.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-21T12:31:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6d1502d59b0600ef9d72d6638fd6da879240e1c9",
+    "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+    "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+    "summary": "The web's best guide to spotting AI writing has become a manual for hiding it.",
+    "isoDate": "2026-01-21T12:15:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "AI detection",
+      "AI detectors",
+      "ai slop",
+      "AI writing",
+      "Anthropic",
+      "chatbots",
+      "ChatGPT",
+      "chatgtp",
+      "Claude",
+      "generative ai",
+      "large language models",
+      "machine learning",
+      "wikipedia"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "755cea8363d60427d1d72ef45f907dcc121e25b9",
+    "title": "Microsoft CEO: AI sovereignty isn't where it runs, it's who controls it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/nadella_ai_sovereignty_wef/",
+    "summary": "<h4>Ownership of models, embedded corporate knowledge matters more than server location, Nadella says</h4> <p>Microsoft CEO Satya Nadella says datacenter location is \"the least important thing\" for AI sovereignty.…</p>",
+    "isoDate": "2026-01-21T11:45:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "cbbe7b21329b97f99d2714f513b5235460690365",
     "title": "The immortality paradox",
     "link": "https://aeon.co/videos/would-immortality-offer-a-curse-of-boredom-or-endless-novelty?utm_source=rss-feed",
@@ -1096,45 +1177,6 @@
     "pinned": false
   },
   {
-    "id": "d174428f5b31bdc74fc31be54de47be40c0ebce8",
-    "title": "Hiring at India’s Big Four outsourcers stalls, as AI seemingly makes an impact",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/hcl_infosys_tcs_wipro_results/",
-    "summary": "<h4>Revenue growth is sluggish, too</h4> <p>India’s big four outsourcers – HCL, Infosys, TCS and Wipro – have essentially stopped hiring, perhaps coinciding with their increased use of AI to power their practices.…</p>",
-    "isoDate": "2026-01-19T05:03:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f6787701eb38a9fc4980b4995732490ec904cb9f",
-    "title": "Microsoft hiring energy strategists to power its Asian datacenters",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/asia_tech_news_roundup/",
-    "summary": "<h4>PLUS: ASUS gets into healthcare gadgets; Vietnam’s first fab; Australia's child social ban takes out 4.7 million accounts; And more!</h4> <p><strong>Asia In Brief</strong>  Microsoft is hiring senior managers to ensure its datacenters in Asia can access the energy they need.…</p>",
-    "isoDate": "2026-01-19T02:11:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c76a4064c0f6c6d98453fc0b9ff2bf6e6ab713a7",
-    "title": "Mandiant releases quick credential cracker, to hasten the death of a bad protocol",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/infosec_news_in_brief/",
-    "summary": "<h4>PLUS: Navy spy sent to brig for 200 months; Black Axe busted again; Bill aims to crimp ICE apps; and more</h4> <p><strong>Infosec In Brief</strong>  PLUS: Google’s security outfit Mandiant last week released tools that can crack credentials in 12 hours, in the hope that doing so will accelerate the death of an ancient Microsoft security protocol.…</p>",
-    "isoDate": "2026-01-18T23:57:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "c857e63583086751ac4ba0fbc1ce9495c25e533f",
     "title": "Tesla Owner Reaches Almost 13,000 Miles of Intervention-Free FSD Driving",
     "link": "https://www.notateslaapp.com/news/3514/tesla-owner-reaches-almost-13000-miles-of-intervention-free-fsd-driving",
@@ -1145,19 +1187,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/david_moss_fsd_streak_ends.jpg/a5d31a96107837a02cf066fc2538c2b5/david_moss_fsd_streak_ends.jpg",
-    "pinned": false
-  },
-  {
-    "id": "288336d6921618a39afa37f0bfbf0822750c9a3d",
-    "title": "Nvidia leans on emulation to squeeze more HPC oomph from AI chips in race against AMD",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/nvidia_fp64_emulation/",
-    "summary": "<h4>AMD researchers argue that, while algorithms like the Ozaki scheme merit investigation, they're still not ready for prime time.</h4> <p>Double precision floating point computation (aka FP64) is what keeps modern aircraft in the sky, rockets going up, vaccines effective, and, yes, nuclear weapons operational. But rather than building dedicated chips that process this essential data type in hardware, Nvidia is leaning on emulation to increase performance for HPC and scientific computing applications, an area where AMD has had the lead in recent generations.…</p>",
-    "isoDate": "2026-01-18T12:21:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1189,26 +1218,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/park-assist-high-fidelity.jpg/c41b6781234d3acd212b6e64ed788003/park-assist-high-fidelity.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a50c38d5ea1e086e20d0f9e7f4d329bda840aa41",
-    "title": "Meta’s layoffs leave Supernatural fitness users in mourning",
-    "link": "https://arstechnica.com/gadgets/2026/01/metas-layoffs-leave-supernatural-fitness-users-in-mourning/",
-    "summary": "Supernatural has had its staff cut and won’t receive any more content updates.",
-    "isoDate": "2026-01-17T12:00:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Boone Ashworth, WIRED.com",
-    "tags": [
-      "Gaming",
-      "Tech",
-      "meta",
-      "Meta VR",
-      "syndication",
-      "vr headsets"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/06_Lifestyle-500x500.jpg",
     "pinned": false
   },
   {
