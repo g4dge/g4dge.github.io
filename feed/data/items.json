@@ -1,5 +1,63 @@
 [
   {
+    "id": "309639f0d9f9a98de5837c218336f44f3bc5ccb4",
+    "title": "Windows fails to tip the scales in grocery store deployment",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/windows_grocery_store_scale/",
+    "summary": "<h4>Recovery from an excess of sprouts, or something else?</h4> <p><strong>Bork!Bork!Bork!</strong>  Microsoft's flagship OS can power everything from a mini PC to a giant workstation or even a server. But using it for a grocery-store scale might just be overkill.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-22T18:10:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "52fd74d1ef57731acc721d8ded68d7c851f9c111",
+    "title": "Tesla App Update 4.53: Powershare Limit Control, Automatic Damage Detection, Brake-by-Wire",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.53.0/release-notes",
+    "summary": "Tesla app update 4.53.0 includes Adjust Powershare Limit in App, Automated Damage Detection, Cybercab to Use Brake-by-Wire, More Smart Breaker Support. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.53.0/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-01-22T17:56:14Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-53-0/powershare-limit.webp/5ad4dc11886885a8d0e6d31dc15491e3/powershare-limit.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c39b117a602473158c220e41810c5e20cf05c9a4",
+    "title": "Blue Origin makes impressive strides with reuse—next launch will refly booster",
+    "link": "https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/",
+    "summary": "With this quick turnaround, Blue Origin takes a step toward a faster cadence.",
+    "isoDate": "2026-01-22T17:49:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "ast spacemobile",
+      "blue origin",
+      "reuse",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-bird-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "82f9d549082f676a83b375a77967c6e7b1114883",
+    "title": "Palantir helps Ukraine train interceptor drone brains",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/ukraine_interceptor_drone_palantir/",
+    "summary": "<h4>Beleaguered country, unfortunately, has plenty of data from its conflict</h4> <p>Ukraine is getting a little AI help with its war against Russia. The country is giving Palantir a new level of access to critical warfighting data so its interceptor drones can become more autonomous. …</p>",
+    "isoDate": "2026-01-22T17:46:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5004bab399b2ec573e243d5593811810017b849e",
     "title": "PowerShell architect retires after decades at the prompt",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/powershell_snover_retires/",
@@ -1082,28 +1140,6 @@
     "pinned": false
   },
   {
-    "id": "39e94f4e6907e290a0a084adf787006fa6d32a1a",
-    "title": "Zuck stuck on Trump’s bad side: FTC appeals loss in Meta monopoly case",
-    "link": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
-    "summary": "FTC will appeal ruling that found Meta has no monopoly in social networking.",
-    "isoDate": "2026-01-20T23:22:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "Antitrust law",
-      "Facebook",
-      "FTC",
-      "Instagram",
-      "meta",
-      "monopoly",
-      "whatsapp"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/zuck-the-monopolist-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6ed2d1c8175792b2d164249a1dfa6d3d9729cdf5",
     "title": "Cloudflare whacks WAF bypass bug that opened side door for attackers",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/cloudflare_fixes_acme_validation/",
@@ -1125,19 +1161,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "471335f34b0f738794e9c554772ae9d06784fd1c",
-    "title": "AI researchers map models to banish 'demon' persona",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/ai_demon_vs_assistant/",
-    "summary": "<h4>Keeping models on the Assistant Axis improves AI safety</h4> <p>Researchers from Anthropic and other orgs have observed situations in which LLMs act like a helpful personal assistant, and are trying to study the phenomenon further to make sure chatbots don't go off the rails and cause harm.…</p>",
-    "isoDate": "2026-01-20T21:03:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
