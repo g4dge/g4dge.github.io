@@ -1,5 +1,52 @@
 [
   {
+    "id": "92803e0207723650725098c51e1ba199b8764086",
+    "title": "Crims compromised energy firms' Microsoft accounts, sent 600 phishing emails",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_compromised_energy_firms_microsoft/",
+    "summary": "<h4>Logging in, not breaking in</h4> <p>Unknown attackers are abusing Microsoft SharePoint file-sharing services to target multiple energy-sector organizations, harvest user credentials, take over corporate inboxes, and then send hundreds of phishing emails from compromised accounts to contacts inside and outside those organizations.…</p>",
+    "isoDate": "2026-01-22T19:18:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3359a41d4f25d381f753710225b3e4305015d73d",
+    "title": "Check out the first trailer for Masters of the Universe",
+    "link": "https://arstechnica.com/culture/2026/01/check-out-the-first-trailer-for-masters-of-the-universe/",
+    "summary": "\"Talking tigers, spaceships, and magic swords that can make a man as mighty as a god.\"",
+    "isoDate": "2026-01-22T19:18:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "amazon mgm studios",
+      "entertainment",
+      "film trailers",
+      "He-Man",
+      "Masters of the Universe",
+      "Trailers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/heman4-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3f1bc50f2ab83c7f6534401083d1249c036c5e97",
+    "title": "Female-dominated careers among most exposed to AI disruption",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/female_dominated_careers_ai_disruption/",
+    "summary": "<h4>Dentists least likely to get an LLM kick in the teeth</h4> <p>Most US workers in jobs exposed to AI are also relatively well placed to adapt if disruption leads to displacement, according to research summarized by the Brookings Institution. However, there are some careers with high percentages of female workers that are in a bad position.…</p>",
+    "isoDate": "2026-01-22T18:56:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "309639f0d9f9a98de5837c218336f44f3bc5ccb4",
     "title": "Windows fails to tip the scales in grocery store deployment",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/windows_grocery_store_scale/",
@@ -1115,52 +1162,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b184b63faf8faf0d4e2b2cdbe25dc6361ae83e0f",
-    "title": "Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular",
-    "link": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
-    "summary": "The colors show the star’s final breath transforming into the raw ingredients for new worlds.",
-    "isoDate": "2026-01-20T23:33:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "helix nebula",
-      "NASA",
-      "Nebula",
-      "space",
-      "Webb"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ-500x500.png",
-    "pinned": false
-  },
-  {
-    "id": "6ed2d1c8175792b2d164249a1dfa6d3d9729cdf5",
-    "title": "Cloudflare whacks WAF bypass bug that opened side door for attackers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/cloudflare_fixes_acme_validation/",
-    "summary": "<h4>ACME validation had a challenge-request hole</h4> <p>Cloudflare has fixed a flaw in its web application firewall (WAF) that allowed attackers to bypass security rules and directly access origin servers, which could lead to data theft or full server takeover.…</p>",
-    "isoDate": "2026-01-20T23:05:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fb1fb92b7bf126ac073ddd4825efe663cea0e3c0",
-    "title": "Anthropic CEO: Selling H200s to China is like giving nukes to North Korea",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/anthropic_nvidia_china/",
-    "summary": "<h4>This is totally not because China is giving away its best models away for free, right?</h4> <p>Anthropic CEO Dario Amodei isn’t happy about the US allowing Nvidia to sell GPUs to Chinese companies, and likened the decision to giving nuclear weapons to an adversary.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-20T22:10:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
     "tags": [],
     "image": "",
     "pinned": false
