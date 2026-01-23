@@ -1,5 +1,74 @@
 [
   {
+    "id": "29735fec61f3024c7e22accf7e46dcaec194a315",
+    "title": "NASA planet hunter resumes operations after low power incident",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/nasa_planet_hunter_resumes_operations/",
+    "summary": "<h4>Pointing problem left TESS in the dark</h4> <p>Good news for planet hunters – NASA's Transiting Exoplanet Survey Satellite (TESS) is back online after a short flirtation with safe mode.…</p>",
+    "isoDate": "2026-01-23T17:30:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "548124c434fdacf162ac24f93cd4aa75f3529dc3",
+    "title": "AI-powered cyberattack kits are 'just a matter of time,' warns Google exec",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/ai_cyberattack_google_security/",
+    "summary": "<h4>Security chief says criminals are already automating workflows, with full end-to-end tools likely within years</h4> <p>CISOs must prepare for \"a really different world\" where cybercriminals can reliably automate cyberattacks at scale, according to a senior Googler.…</p>",
+    "isoDate": "2026-01-23T17:10:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c141fba362b8f880a0808ceb662e4c09a3eb0db8",
+    "title": "Tesla kills Autopilot, locks lane-keeping behind $99/month fee",
+    "link": "https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/",
+    "summary": "With falling sales and shrinking profits, the recurring revenue will be most welcome.",
+    "isoDate": "2026-01-23T16:54:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "tesla autopilot",
+      "Tesla FSD"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1415090444-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1fdbccc590ad11a8ace3afd1bff585aaeb25c8a3",
+    "title": "Tesla Adds Megapacks for Its Next-Generation Supercomputer (Cortex 2)",
+    "link": "https://www.notateslaapp.com/news/3520/tesla-adds-megapacks-for-its-next-generation-supercomputer-cortex-2",
+    "summary": "Tesla Energy installs $585M worth of Megapacks at xAI's Colossus supercomputer and begins deliveries for the Cortex 2 Optimus cluster.&hellip; <a href=\"https://www.notateslaapp.com/news/3520/tesla-adds-megapacks-for-its-next-generation-supercomputer-cortex-2\">Read More</a>",
+    "isoDate": "2026-01-23T16:47:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/megapack_epochai.jpg/93362ed95ecf3ee78b902813d8a79b40/megapack_epochai.jpg",
+    "pinned": false
+  },
+  {
+    "id": "dfc7bd883238074797fbaa99eb248c386767dde8",
+    "title": "Microsoft shifting to cloud management software brings possibility of it peeking into your estate",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/microsoft_shifting_to_cloud_management/",
+    "summary": "<h4>Depreciation of popular management tool requires a new look at Azure-based system</h4> <p>Microsoft recently announced it will <a href=\"https://techcommunity.microsoft.com/blog/sqlserver/deprecation-announcement-ssrspbirs-and-ssas-management-packs-for-scom/4486497\" target=\"_blank\">deprecate</a> System Center Operations Manager (SCOM) Management Packs (MPs) for SQL Server Reporting Services, Power BI Report Server,and SQL Server Analysis Services.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-23T16:44:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5d3da7bda0a5da1659cbf5f304308f6155cfe11b",
     "title": "Tesla FSD Hardware 4.5 Appears: A 3-Chip Upgrade Before AI5?",
     "link": "https://www.notateslaapp.com/news/3529/tesla-fsd-hardware-45-appears-a-3-chip-upgrade-before-ai5",
@@ -1054,27 +1123,6 @@
     "pinned": false
   },
   {
-    "id": "49ce670e7ffc62feb8bf56d7f41c37d775592124",
-    "title": "Millions of people imperiled through sign-in links sent by SMS",
-    "link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
-    "summary": "Even well-known services with millions of users are exposing sensitive data.",
-    "isoDate": "2026-01-21T23:22:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Policy",
-      "Security",
-      "authentication links",
-      "privacy",
-      "security",
-      "sms messages"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/sms-phone-risk-trap-privacy-security-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "253f020587f220091051ea78fd52ff791b396dc6",
     "title": "Davos discussion mulls how to keep AI agents from running wild",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/davos_ai_agents_security/",
@@ -1085,28 +1133,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fd019e3a8882629e58a1c5623c77ff3e9062f182",
-    "title": "mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say",
-    "link": "https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/",
-    "summary": "The vaccines are tailor-made to target each patient's unique cancer.",
-    "isoDate": "2026-01-21T22:51:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "cancer",
-      "clinical trial",
-      "melanoma",
-      "moderna",
-      "mRNA",
-      "skin cancer",
-      "vaccine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683-500x500.jpg",
     "pinned": false
   },
   {
@@ -1157,32 +1183,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9be3f38f5a85a60a27b83466a98f814882cfb914",
-    "title": "Trump promises nuclear datacenter permits in 3 weeks, calls Greenland 'big beautiful ice'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/american_genius_says_dont_panic/",
-    "summary": "<h4>Also at Davos, Nvidia boss Jensen Huang pitches AI five-layer cake</h4> <p>Donald Trump and Jensen Huang both took the stage at Davos today, giving attendees a myriad of reasons to feel assured or panic stricken about humanity’s future, depending on your point of view.…</p>",
-    "isoDate": "2026-01-21T17:58:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c90b7104039b152d0dff92b7c725738d28de201d",
-    "title": "ESA puts ExoMars lander through its paces with eye on 2028 launch",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/esa_mars_lander/",
-    "summary": "<h4>After Russia drama and NASA's on-again-off-again romance, rover shows it still has legs... four of them</h4> <p>The European Space Agency (ESA) has unveiled a full-scale structural mock-up of the landing platform for its long-delayed ExoMars Rosalind Franklin rover.…</p>",
-    "isoDate": "2026-01-21T16:50:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
