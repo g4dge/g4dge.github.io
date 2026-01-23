@@ -1,5 +1,38 @@
 [
   {
+    "id": "ba1250adbdbab91309a4ce6caa6446599c4da4c5",
+    "title": "Demand for Intel's processors is apparently there, but the supply is not",
+    "link": "https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/",
+    "summary": "Intel is allocating more of its own production to its money-making server chips.",
+    "isoDate": "2026-01-23T20:48:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "18a",
+      "core ultra series 3",
+      "Intel",
+      "intel 18a",
+      "panther lake"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/intel-core-ultra-series-3-500x500-1769199922.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9c4fd84731418115b405c8e920cf2fa69e62e9bd",
+    "title": "Surrender as a service: Microsoft unlocks BitLocker for feds",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/surrender_as_a_service_microsoft/",
+    "summary": "<h4>If you're serious about encryption, keep control of your encryption keys</h4> <p>If you think using Microsoft's BitLocker encryption will keep your data 100 percent safe, think again. Last year, Redmond reportedly provided the FBI with encryption keys to unlock the laptops of Windows users charged in a fraud indictment.…</p>",
+    "isoDate": "2026-01-23T20:41:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "288043c9239dd81fae38e02cfd4bfea90c442b2c",
     "title": "DHS keeps trying and failing to unmask anonymous ICE critics online",
     "link": "https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/",
@@ -849,41 +882,6 @@
     "pinned": false
   },
   {
-    "id": "6525a44d9d1419cafcfb307bff017b41275d457b",
-    "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
-    "link": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
-    "summary": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform.",
-    "isoDate": "2026-01-22T15:56:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "agentic AI",
-      "agentic commerce",
-      "AI agents",
-      "AI shopping",
-      "Amazon",
-      "Anthropic",
-      "arbitration",
-      "ChatGPT",
-      "eBay",
-      "eCommerce",
-      "Etsy",
-      "google",
-      "large language models",
-      "machine learning",
-      "openai",
-      "Perplexity",
-      "shopify",
-      "user agreements",
-      "web scraping"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/robot_shopper_1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "25386e0881f7c54e4bba1e75b0b77a625913f574",
     "title": "Tesla's AI5 to Enter Production in 2H 2026, Rivals NVIDIA's $30K Chip in Performance",
     "link": "https://www.notateslaapp.com/news/3519/teslas-ai5-to-enter-production-in-2h-2026-rivals-nvidias-30k-chip-in-performance",
@@ -1157,19 +1155,6 @@
     "pinned": false
   },
   {
-    "id": "7488820f97b394b95bd701117897270159d955ab",
-    "title": "AI hasn't delivered the profits it was hyped for, says Deloitte",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/deloitte_enterprises_adopting_ai_revenue_lift/",
-    "summary": "<h4>Business transformation, but not much remuneration</h4> <p>Making money isn't everything ... at least not when it comes to AI. Research from professional services firm Deloitte shows that, for most companies, adopting AI tools hasn't helped the bottom line at all. But researchers still sing the technology's praises.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-21T21:50:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "e32913fc519142b082a567e4211ebc71128e19a4",
     "title": "Should Tesla Adopt NVIDIA’s Cooperative Steering? [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3504/should-tesla-adopt-nvidias-cooperative-steering-video",
@@ -1382,19 +1367,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/park-assist-high-fidelity.jpg/c41b6781234d3acd212b6e64ed788003/park-assist-high-fidelity.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c635ddd930edae5779507f5564624ee9f5573371",
-    "title": "How to \"Hack\" Tesla Rear Screen to Watch Any Video Streaming Apps/Services [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/3503/how-to-hack-tesla-rear-screen-to-watch-any-video-streaming-appsservices",
-    "summary": "Watch any video streaming service on your Tesla's rear screen.&hellip; <a href=\"https://www.notateslaapp.com/news/3503/how-to-hack-tesla-rear-screen-to-watch-any-video-streaming-appsservices\">Read More</a>",
-    "isoDate": "2026-01-16T21:26:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/rear-screen-video-2.webp/727dc276592a16948b00cd56f8364000/rear-screen-video-2.jpg",
     "pinned": false
   }
 ]
