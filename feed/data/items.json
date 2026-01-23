@@ -1,5 +1,65 @@
 [
   {
+    "id": "a65590b688cb393268318cdebc51de1a1466cf48",
+    "title": "White House posts altered arrest photo to make it appear ICE critic was sobbing",
+    "link": "https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/",
+    "summary": "Lawyer calls it \"outrageous that the White House would make up stories.\"",
+    "isoDate": "2026-01-23T18:46:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "ice",
+      "immigration and customs enforcement"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/nekima-levy-white-house-manipulated-image-500x500-1769192278.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9cc512048b89da3f10ded32112df9e8292ce0dc2",
+    "title": "Telly’s \"free\" ad-based TVs make notable revenue—when they’re actually delivered",
+    "link": "https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/",
+    "summary": "The LA startup said it would ship \"millions\" of TVs by 2024.",
+    "isoDate": "2026-01-23T18:32:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "asd",
+      "TVs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/652fa4f61e054d1c335ce241_Rectangle_20180_203-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d0991c083a4a80abdd14f6b0b044419a7a030322",
+    "title": "China’s Deepin Linux gets a slick desktop - and, yes, built-in AI",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/deepin_25010/",
+    "summary": "<h4>Where FOSS desktop OSes meet geopolitics</h4> <p><strong>Hands On</strong>  Uniontech's Deepin 25.0.10 release shows that the Chinese desktop world isn't waiting on Western tech. It's modern and good-looking, and (pausing only to sigh deeply) has built-in \"AI\".…</p>",
+    "isoDate": "2026-01-23T18:13:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "060dc0645b1736dd505a34fed7c077c5a9e87a42",
+    "title": "Hacker taps Raspberry Pi to turn Wi-Fi signals into wall art",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/raspberry_pi_wifi_wall_art/",
+    "summary": "<h4>Pipe local wireless noise through an SDR into an RPi, and 64 LED filaments do the rest</h4> <p>Unless you live in a Faraday cage, you're surrounded at all times by invisible radio signals, from Bluetooth and Wi-Fi to cellular traffic. French artist Théo Champion has found a way to make that wireless noise visible, with an intense piece of Raspberry Pi-driven art that turns nearby radio activity into light.…</p>",
+    "isoDate": "2026-01-23T17:38:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "29735fec61f3024c7e22accf7e46dcaec194a315",
     "title": "NASA planet hunter resumes operations after low power incident",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/nasa_planet_hunter_resumes_operations/",
@@ -153,7 +213,7 @@
   },
   {
     "id": "e3fd89e37323929e1afaa3602eb11b83d65a9ca2",
-    "title": "Devs begin to assess options for MySQL's future beyond Oracle",
+    "title": "As Oracle loses interest in MySQL, devs mull future options",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/mysql_post_oracle/",
     "summary": "<h4>As Big Red's governance of the popular database comes into question, contributors to MySQL consider wresting control</h4> <p>Developers in the MySQL community are working together to challenge Oracle to improve transparency and commitment in its handling of the popular open source database, while considering other options, including forking the code.…</p>",
     "isoDate": "2026-01-23T13:33:13Z",
@@ -829,23 +889,6 @@
     "pinned": false
   },
   {
-    "id": "f291c98f5222a7837e7bc472be99c7df5e61a221",
-    "title": "Meta wants to block data about social media use, mental health in child safety trial",
-    "link": "https://arstechnica.com/tech-policy/2026/01/meta-wants-to-block-data-about-social-media-use-mental-health-in-child-safety-trial/",
-    "summary": "Company is pulling out all the stops to protect itself in advance of New Mexico trial.",
-    "isoDate": "2026-01-22T14:25:35Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Lauren Goode, wired.com",
-    "tags": [
-      "Policy",
-      "meta",
-      "social media"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/meta-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "25386e0881f7c54e4bba1e75b0b77a625913f574",
     "title": "Tesla's AI5 to Enter Production in 2H 2026, Rivals NVIDIA's $30K Chip in Performance",
     "link": "https://www.notateslaapp.com/news/3519/teslas-ai5-to-enter-production-in-2h-2026-rivals-nvidias-30k-chip-in-performance",
@@ -1106,23 +1149,6 @@
     "pinned": false
   },
   {
-    "id": "6b6ca77e5a02ec040f4d6d932103081f984c2627",
-    "title": "Judge orders stop to FBI search of devices seized from Washington Post reporter",
-    "link": "https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/",
-    "summary": "Order says gov't must stop search while court reviews Washington Post motions.",
-    "isoDate": "2026-01-21T23:33:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "fbi",
-      "Washington Post"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "253f020587f220091051ea78fd52ff791b396dc6",
     "title": "Davos discussion mulls how to keep AI agents from running wild",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/davos_ai_agents_security/",
@@ -1157,32 +1183,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e6ce9b2cc59f5da86d6833eaa263b894566b7629",
-    "title": "House GOP wants final say on AI chip exports after Trump gives Nvidia a China hall pass",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/house_gop_ai_chip_exports_trump_china_nvidia/",
-    "summary": "<h4>Bill still needs to pass the House and Senate before the president can sign or veto it</h4> <p>President Trump's decision to green-light the sale of Nvidia H200 GPUs to China isn't sitting well with some of his Republican colleagues in the House of Representatives. These GOP politicians have proposed a bill that would give Congress final say over the export of AI chips to China and other countries of concern.…</p>",
-    "isoDate": "2026-01-21T20:53:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "77b120936db7a59fd5da7a751fdeb076e916b7dc",
-    "title": "Don't click on the LastPass 'create backup' link - it's a scam",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/lastpass_backup_phishing_campaign/",
-    "summary": "<h4>Phishing campaign tries to reel in master passwords</h4> <p><strong>updated</strong>  Password managers make great targets for attackers because they can hold many of the keys to your kingdom. Now, LastPass has warned customers about phishing emails claiming that action is required ahead of scheduled maintenance and told them not to fall for the scam. …</p>",
-    "isoDate": "2026-01-21T18:10:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
