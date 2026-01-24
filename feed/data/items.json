@@ -1,5 +1,39 @@
 [
   {
+    "id": "fe4fc8180780cccc208b379ac771ddb032ba5844",
+    "title": "A weird, itchy rash is linked to the keto diet—but no one knows why",
+    "link": "https://arstechnica.com/health/2026/01/a-weird-itchy-rash-is-linked-to-the-keto-diet-but-no-one-knows-why/",
+    "summary": "While the rash has a clear link to ketones, the underlying mechanism remains elusive.",
+    "isoDate": "2026-01-24T12:00:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "case report",
+      "dermatology",
+      "ketogenic",
+      "New England Journal of Medicine",
+      "rash",
+      "weight loss"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/nejmicm2514242_f1-500x500-1769209816.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d3cac270fadcfc3ec13031e33cad719087b916e4",
+    "title": "Bill Gates-backed startup aims to revive Moore's Law with optical transistors",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/24/neurophos_hopes_to_revive_moores_law/",
+    "summary": "<h4>Neurophos is developing a massive optical systolic array clocked at 56GHz good for 470 petaFLOPS of FP4 compute</h4> <p>As Moore's Law slows to a crawl and the amount of energy required to deliver generational performance gains grows, some chip designers are looking to alternative architectures for salvation.…</p>",
+    "isoDate": "2026-01-24T11:30:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5df375678abeb4f1395a878323930a465d7cee22",
     "title": "UK border tech budget swells by £100M as Home Office targets small boat crossings",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/24/home_office_small_boats/",
@@ -10,6 +44,19 @@
     "author": "Lindsay Clark",
     "tags": [],
     "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4dfaf643c8a828666828f0e09798a491e30075a2",
+    "title": "Tesla Update 2025.45.9 (FSD V14.2.2.4) Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2025.45.9/release-notes",
+    "summary": "Tesla software update 2025.45.9 (FSD 14.2.2.4) includes FSD (Supervised) v14.2.2.4, Arrival Options, Speed Profiles, UI Improvements, Brake Confirm, Full Self-Driving (Supervised), Grok with Navigation Commands (Beta), Tesla Photobooth, Dog Mode Live Activity on iOS, Dashcam Viewer Update, Santa Mode Updates, Light Show Update, Paint Shop, Paint Shop Upgrade, Navigation Improvements, Automatic HOV Lanes Routing, Supercharger Site Maps, Full Self-Driving (Supervised), Phone Left On Wireless Charger, Phone Left Behind, Save Charge Limit by Location, SpaceX Docking Simulator, Minor Updates. <a href=\"https://www.notateslaapp.com/software-updates/version/2025.45.9/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-01-24T05:30:12Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
     "pinned": false
   },
   {
@@ -886,27 +933,6 @@
     "pinned": false
   },
   {
-    "id": "81bc59d94cf9f56db402ff764e128f5c4e16e584",
-    "title": "Google adds your Gmail and Photos to AI Mode to enable \"Personal Intelligence\"",
-    "link": "https://arstechnica.com/google/2026/01/google-ai-mode-can-now-customize-responses-with-your-email-and-photos/",
-    "summary": "Personal Intelligence is optional and rolling out first to AI Pro and AI Ultra subscribers.",
-    "isoDate": "2026-01-22T16:35:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "gemini",
-      "generative ai",
-      "google",
-      "search"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/AI-Mode-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "31d15b80b108ff08e02e588de2bc2f099f138ff9",
     "title": "Cursor used agents to write a browser, proving AI can write shoddy code at scale",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/cursor_ai_wrote_a_browser/",
@@ -1136,19 +1162,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ed6f4ddcf2c5ea8c2aee825637f23af6e1590917",
-    "title": "Anthropic writes 23,000-word 'constitution' for Claude, suggests it may have feelings",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/anthropic_claude_constitution/",
-    "summary": "<h4>Describes its LLMs as an ‘entity’ that probably has something like emotions</h4> <p>The Constitution of the United States of America is about 7,500 words long, a factoid <i>The Register</i> mentions because on Wednesday AI company Anthropic delivered an updated 23,000-word constitution for its Claude family of AI models.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-22T05:48:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
