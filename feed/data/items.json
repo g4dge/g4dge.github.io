@@ -1,5 +1,73 @@
 [
   {
+    "id": "40665292e695588f2a7874a17df87be73bddd476",
+    "title": "Do we really need polio shots? Deep thoughts by RFK Jr. advisor get dragged.",
+    "link": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
+    "summary": "Kirk Milhoan's comments come as federal vaccine policy slides to insignificance.",
+    "isoDate": "2026-01-26T21:31:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Science",
+      "ACIP",
+      "anti-vaccine",
+      "CDC",
+      "Kirk Milhoan",
+      "measles",
+      "polio",
+      "robert f kennedy jr",
+      "vaccines"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2235571142-500x500-1769462500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "644aafa23198986b125db39ccc5891b901c1242a",
+    "title": "How one developer used Claude to build a memory-safe extension of C",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/trapc_claude_c_memory_safe_robin_rowe/",
+    "summary": "<h4>Robin Rowe talks about coding, programming education, and China in the age of AI</h4> <p><strong>feature</strong>  TrapC, a memory-safe version of the C programming language, is almost ready for testing.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-26T21:30:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5eb4b0192ee76a03a16298847498b344e3d140fd",
+    "title": "Microsoft's Maia 200 promises Blackwell levels of performance for two-thirds the power",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/microsoft_maia_200/",
+    "summary": "<h4>Inference-optimized chip 30% cheaper than any other AI silicon on the market today, Azure's Scott Guthrie claims</h4> <p>Microsoft on Monday unveiled a new in-house AI accelerator to rival Nvidia's Blackwell GPUs.…</p>",
+    "isoDate": "2026-01-26T21:09:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ab65fcfdc1eea89c42d8d470d8bac55765079e7b",
+    "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
+    "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
+    "summary": "Company's autodiscover caused users' test credentials to be sent outside Microsoft networks.",
+    "isoDate": "2026-01-26T21:02:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "example.com",
+      "Internet routing",
+      "microsoft"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/error-message-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "8191e4913d960964e513681018d259547d700185",
     "title": "US ownership of TikTok off to a rocky start as outage continues into second day",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/tiktok_outage_datacenter_power/",
@@ -911,23 +979,6 @@
     "pinned": false
   },
   {
-    "id": "c141fba362b8f880a0808ceb662e4c09a3eb0db8",
-    "title": "Tesla kills Autopilot, locks lane-keeping behind $99/month fee",
-    "link": "https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/",
-    "summary": "With falling sales and shrinking profits, the recurring revenue will be most welcome.",
-    "isoDate": "2026-01-23T16:54:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "tesla autopilot",
-      "Tesla FSD"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1415090444-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "1fdbccc590ad11a8ace3afd1bff585aaeb25c8a3",
     "title": "Tesla Adds Megapacks for Its Next-Generation Supercomputer (Cortex 2)",
     "link": "https://www.notateslaapp.com/news/3520/tesla-adds-megapacks-for-its-next-generation-supercomputer-cortex-2",
@@ -964,28 +1015,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/fsd-hardware-chips.webp/cc162cc4e3f8537a3b7862663c5d9a6b/fsd-hardware-chips.jpg",
-    "pinned": false
-  },
-  {
-    "id": "587fdcff23d977d2c9dab5080d53a8f11ac38c0c",
-    "title": "Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback",
-    "link": "https://arstechnica.com/space/2026/01/rocket-report-rocket-lab-reports-neutron-setback-australia-backs-launch-startup/",
-    "summary": "Another partially reusable Chinese rocket, the Long March 12B, is nearing its first test flight.",
-    "isoDate": "2026-01-23T14:31:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "australia",
-      "Commercial space",
-      "Gilmour space",
-      "isar aerospace",
-      "launch",
-      "rocket report"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/54643108625_7db2967a37_k-500x500.jpg",
     "pinned": false
   },
   {
@@ -1183,32 +1212,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fcfe91d2099975512d5f5f7d6fd8c77312d2f1ef",
-    "title": "Intel puts consumer chip production on back burner as datacenters make a run on Xeons",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/intel_earnings_q4_2025/",
-    "summary": "<h4>CFO David Zinsner says foundry capacity should improve starting in Q2</h4> <p>If you notice PC prices creeping up over the next few months, the rising cost of memory won’t be the only reason, because on Thursday Intel said it is reallocating foundry capacity from client chips to meet surging demand for Xeon processors used in AI servers.…</p>",
-    "isoDate": "2026-01-23T01:41:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3a2955f01a4e6b56d8737ed45d08c1cf01946203",
-    "title": "Former crypto-mining company building 430 MW datacenter in secret location for secret client",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/applied_digital_secret_datacenter/",
-    "summary": "<h4>Keeps location under wraps after communities opposed past projects</h4> <p>Crypto miner turned AI infrastructure provider Applied Digital announced it has broken ground on a 430 MW data center somewhere in the southern US, but it isn’t yet ready to reveal the location of its new facility.…</p>",
-    "isoDate": "2026-01-23T01:24:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
     "tags": [],
     "image": "",
     "pinned": false
