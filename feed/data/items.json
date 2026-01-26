@@ -1,9 +1,99 @@
 [
   {
+    "id": "bfc26c2d39ed5f89f6566521081d4f91ad4784e1",
+    "title": "Tesla Updates the Camera Housing on the Model Y: Potential Off-Gassing Fix",
+    "link": "https://www.notateslaapp.com/news/3538/tesla-updates-the-camera-housing-on-the-model-y-potential-off-gassing-fix",
+    "summary": "Tesla has updated the Model Y front camera housing with a new sealed design. Here is how the new hardware aims to fix the foggy camera and off-gassing issue.&hellip; <a href=\"https://www.notateslaapp.com/news/3538/tesla-updates-the-camera-housing-on-the-model-y-potential-off-gassing-fix\">Read More</a>",
+    "isoDate": "2026-01-26T16:30:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/forward_camera_housing_sealed.jpg/84a7c95736fed51c4f3b977ffc126b41/forward_camera_housing_sealed.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a450e731bf02b6e40320d8c77b6b79e66f27c935",
+    "title": "Data center power outage took out TikTok first weekend under US ownership",
+    "link": "https://arstechnica.com/tech-policy/2026/01/tiktok-glitches-caused-by-data-center-power-outage-us-joint-venture-says/",
+    "summary": "US TikTok users experienced a wide range of errors, sparking conspiracies.",
+    "isoDate": "2026-01-26T16:23:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "outage",
+      "tiktok"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2257704765-500x500-1769443637.jpg",
+    "pinned": false
+  },
+  {
+    "id": "72b257e5f1238e99ea11969763a2860dccec5c73",
+    "title": "How to get Doom running on a pair of earbuds",
+    "link": "https://arstechnica.com/gaming/2026/01/how-to-get-doom-running-on-a-pair-of-earbuds/",
+    "summary": "No display? No problem for the UART-to-web-server \"Doombuds\" project.",
+    "isoDate": "2026-01-26T16:13:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "can it run doom",
+      "coding",
+      "Doom",
+      "hack",
+      "id",
+      "port"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/PineBuds-Pro-4-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4b7d218da8071e9266b96c1b170207f9e9b9ab4f",
+    "title": "New Teslas No Longer Come With Autopilot, Now Only Include Cruise Control",
+    "link": "https://www.notateslaapp.com/news/3535/new-teslas-no-longer-come-with-autopilot-now-only-include-cruise-control",
+    "summary": "Tesla has officially discontinued Basic Autopilot for new Model 3 and Model Y orders, making TACC the only standard feature.&hellip; <a href=\"https://www.notateslaapp.com/news/3535/new-teslas-no-longer-come-with-autopilot-now-only-include-cruise-control\">Read More</a>",
+    "isoDate": "2026-01-26T16:08:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-vis.jpg/5728beaa6064ac1bdd4dde3366beba4a/fsd-beta-vis.jpg",
+    "pinned": false
+  },
+  {
+    "id": "43d068a92060e0cc6dac8852e3a03250a217b1da",
+    "title": "Internet spent Q4 '25 losing fights with cables, power, and itself",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/the_internet_spent_q4_2025/",
+    "summary": "<h4>Latest data from Cloudflare shows cable cuts, power failures, and network faults drive steady run of internet outages</h4> <p>The internet spent the closing months of 2025 being knocked over by cut cables, broken power grids, bad weather, military strikes, and the occasional self-inflicted technical wound, according to Cloudflare's latest global traffic data.…</p>",
+    "isoDate": "2026-01-26T15:56:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "841877d0dd55fa1fdfcc95002e8f45f182b0f75e",
+    "title": "KDE Plasma 6.6 beta ships a login manager that won't log in without systemd",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/plasma_6_6_systemd_login/",
+    "summary": "<h4>Bad luck, BSDs – although alternatives still work</h4> <p>KDE Plasma 6.6 is approaching, and one of its more controversial changes is a new login screen that depends on systemd – meaning that it won't work on the non-Linux operating systems KDE still nominally supports.…</p>",
+    "isoDate": "2026-01-26T15:45:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "31137d9078aaf2c662461ba34c7bce3d8077671a",
     "title": "Three is the magic number for Alaska Airlines: triple redundancy",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/three_is_the_magic_number/",
-    "summary": "<h4>Thankfully they only sufffered two outages in 2025. And now it's flown in experts to play with configurations</h4> <p>Alaska Air's CEO says IT outages last year damaged the company on multiple fronts despite \"triple redundancies\" built into its disaster recovery plan.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Thankfully they only sufffered two outages in 2025. And now it has flown in experts to play with configurations</h4> <p>Alaska Air's CEO says IT outages last year damaged the company on multiple fronts despite \"triple redundancies\" built into its disaster recovery plan.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-01-26T15:35:01Z",
     "source": "The Register",
     "category": "Tech",
@@ -364,7 +454,7 @@
   },
   {
     "id": "c2680b3023124296ac29a7de3ac2e820a14eba7f",
-    "title": "Insurance Company Starts Offering 50% Discount When FSD Drives; Integrates Tesla API",
+    "title": "Insurance Company Starts Offering 50% Discount When FSD Drives [Now available in Arizona]",
     "link": "https://www.notateslaapp.com/news/3533/lemonade-offers-50-insurance-discount-for-fsd-calls-it-safer-than-humans",
     "summary": "Lemonade launches a new insurance product offering a 50% discount for FSD miles, citing data that it is safer than human drivers.&hellip; <a href=\"https://www.notateslaapp.com/news/3533/lemonade-offers-50-insurance-discount-for-fsd-calls-it-safer-than-humans\">Read More</a>",
     "isoDate": "2026-01-24T15:32:00Z",
@@ -1074,44 +1164,6 @@
     "pinned": false
   },
   {
-    "id": "6664a974ac78d5e93e7ccded25066a60f9fa7571",
-    "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-    "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
-    "summary": "The onslaught includes LLMs finding bogus vulnerabilities and code that won't compile.",
-    "isoDate": "2026-01-22T22:46:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "bug bounties",
-      "LLMs",
-      "slop"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "98e80d4f386c429f5e18fc72da9b32b03c899caa",
-    "title": "Hacker who stole 120,000 bitcoins wants a second chance—and a security job",
-    "link": "https://arstechnica.com/security/2026/01/hacker-who-stole-120000-bitcoins-wants-a-second-chance-and-a-security-job/",
-    "summary": "Crypto theft was \"the worst thing I had ever done.\"",
-    "isoDate": "2026-01-22T22:23:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cyrus Farivar",
-    "tags": [
-      "Security",
-      "bitcoin",
-      "cryptocurrency",
-      "cybercrime"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/getty-hacker-500x500-1769119458.jpg",
-    "pinned": false
-  },
-  {
     "id": "7023de6e7570311a0145355a111cbddfc6a8ffff",
     "title": "AI conference's papers contaminated by AI hallucinations",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/neurips_papers_contaiminated_ai_hallucinations/",
@@ -1146,32 +1198,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3f1bc50f2ab83c7f6534401083d1249c036c5e97",
-    "title": "Female-dominated careers among most exposed to AI disruption",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/female_dominated_careers_ai_disruption/",
-    "summary": "<h4>Dentists least likely to get an LLM kick in the teeth</h4> <p>Most US workers in jobs exposed to AI are also relatively well placed to adapt if disruption leads to displacement, according to research summarized by the Brookings Institution. However, there are some careers with high percentages of female workers that are in a bad position.…</p>",
-    "isoDate": "2026-01-22T18:56:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "309639f0d9f9a98de5837c218336f44f3bc5ccb4",
-    "title": "Windows fails to tip the scales in grocery store deployment",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/windows_grocery_store_scale/",
-    "summary": "<h4>Recovery from an excess of sprouts, or something else?</h4> <p><strong>Bork!Bork!Bork!</strong>  Microsoft's flagship OS can power everything from a mini PC to a giant workstation or even a server. But using it for a grocery-store scale might just be overkill.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-22T18:10:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1335,32 +1361,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a548beb9a9c13eadbb75ad2d72d186721139f2f8",
-    "title": "How Your Tesla Really Knows the Speed Limit: It's Not Just Reading Signs",
-    "link": "https://www.notateslaapp.com/news/3164/how-your-tesla-really-knows-the-speed-limit-its-not-just-about-reading-signs",
-    "summary": "Ever wonder how your Tesla knows the speed limit? It's a complex fusion of reading signs with its cameras and relying on detailed map data as a backup.&hellip; <a href=\"https://www.notateslaapp.com/news/3164/how-your-tesla-really-knows-the-speed-limit-its-not-just-about-reading-signs\">Read More</a>",
-    "isoDate": "2026-01-19T16:11:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-yellow-light.webp/5ade5128643a5a6333f93a45f00a6757/fsd-vis-yellow-light.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8e14e6a48ebc231b63dee528e71cdf5edf328b41",
-    "title": "Musk Targets 9-Month Chip Cycle for Tesla; Talks AI5, AI6 and Space-Based AI",
-    "link": "https://www.notateslaapp.com/news/3515/musk-targets-9-month-chip-cycle-for-tesla-talks-ai5-ai6-and-space-based-ai",
-    "summary": "Elon Musk reveals a 9-month chip design cycle for Tesla, aiming for Space-Based AI with AI7. Here is the roadmap from AI4 to orbital compute.&hellip; <a href=\"https://www.notateslaapp.com/news/3515/musk-targets-9-month-chip-cycle-for-tesla-talks-ai5-ai6-and-space-based-ai\">Read More</a>",
-    "isoDate": "2026-01-19T15:47:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/ai5-chip.webp/dd09ee32c5d7e1e20367170173c2e60b/ai5-chip.jpg",
     "pinned": false
   }
 ]
