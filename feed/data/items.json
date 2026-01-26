@@ -1,5 +1,49 @@
 [
   {
+    "id": "42d17e3380b530f7be13b6db30a33fdc0d55a6e8",
+    "title": "EU launches formal investigation of xAI over Grok's sexualized deepfakes",
+    "link": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/",
+    "summary": "Elon Musk's company faces fines of up to 6 percent of its daily turnover.",
+    "isoDate": "2026-01-26T14:17:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Barbara Moens, Financial Times",
+    "tags": [
+      "AI",
+      "Policy",
+      "syndication",
+      "xAI Grok"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-500x500-1752596846.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7dd046a3d0263a493c751874c830aaf148195059",
+    "title": "Sandia boffins let three AI agents loose in the lab. Science, not chaos, ensued",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/sandia_ai_agents_feature/",
+    "summary": "<h4>Researchers demonstrate fourfold improvement to LED steering results after enlisting the help of some good old-fashion AI</h4> <p>Boffins at the Department of Energy's Sandia National Labs are working to develop cheap and power efficient LEDs to replace lasers. One day, they let a trio of AI assistants loose in their lab.…</p>",
+    "isoDate": "2026-01-26T14:00:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "14ec0d54bb84397067427fafa41b674fc300e78d",
+    "title": "EU looking into Elon Musk's X after Grok produces deepfake sex images",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/ec_open_new_investigation_into/",
+    "summary": "<h4>Probe follows outcry over use of creepy image generation tool</h4> <p>The European Commission has launched an investigation into X amid concerns that its GenAI model Grok offered users the ability to generate sexually explicit imagery, including sexualized images of children.…</p>",
+    "isoDate": "2026-01-26T13:17:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "4e6c57ee5960fe46c4e6c24fe31ee15c137f10f2",
     "title": "Data thieves borrow Nike's 'Just Do It' mantra, claim they ran off with 1.4TB",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/data_thieves_claim_nike_data_haul/",
@@ -1055,28 +1099,6 @@
     "pinned": false
   },
   {
-    "id": "a435e6b586b8e2b5a98eae9ae51b98bc50bf2ee7",
-    "title": "Report: Apple plans to launch AI-powered wearable pin device as soon as 2027",
-    "link": "https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/",
-    "summary": "Apple, OpenAI, Meta, and more are all racing toward AI hardware products.",
-    "isoDate": "2026-01-22T21:32:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Apple",
-      "apple",
-      "gemini",
-      "Humane",
-      "LLM",
-      "Siri",
-      "wearable"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/AirTag-1-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "02acd2f6c0acfa17d711dabb39208ba05967a713",
     "title": "Raspberry Pi flashes new branded USB drives that promise speedy performance",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/raspberry_pi_usb_drive/",
@@ -1163,32 +1185,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "31d15b80b108ff08e02e588de2bc2f099f138ff9",
-    "title": "Cursor used agents to write a browser, proving AI can write shoddy code at scale",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/cursor_ai_wrote_a_browser/",
-    "summary": "<h4>Project kind-of worked but left a lot of messes for humans to clean up</h4> <p>A week ago, Cursor CEO Michael Truell celebrated what sounded like a remarkable event.…</p>",
-    "isoDate": "2026-01-22T16:23:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ed3104b0ab1026cb8cd8063d25a49271b9a06690",
-    "title": "FortiGate firewalls hit by silent SSO intrusions and config theft",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/fortigate_firewalls_hit_by_silent/",
-    "summary": "<h4>Admins say attackers are still getting in despite recent patches</h4> <p>FortiGate firewalls are getting quietly reconfigured and stripped down by miscreants who've figured out how to sidestep SSO protections and grab sensitive settings right out of the box.…</p>",
-    "isoDate": "2026-01-22T16:07:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
