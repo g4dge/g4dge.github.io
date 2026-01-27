@@ -1,5 +1,44 @@
 [
   {
+    "id": "751315b4137372efc910599fa3441e0c1e275033",
+    "title": "Succession: Linux kernel community gets continuity plan for post-Linus era",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/linux_continuity_plan/",
+    "summary": "<h4>Conclave doc outlines path to eternal releases</h4> <p>The Linux kernel project has finally answered one of the biggest questions gripping the community: what happens if Linus Torvalds is no longer able to lead it?…</p>",
+    "isoDate": "2026-01-27T12:52:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "77c286b750289f3699aabd415790600a9f7a0d86",
+    "title": "Japan doubles down on Trump's Genesis AI supercomputing effort",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/japan_ai_genesis/",
+    "summary": "<h4>RIKEN links up with Argonne, Fujitsu, and Nvidia to build next-gen infrastructure</h4> <p>Japan's RIKEN scientific research institute and Fujitsu are working with America's Argonne National Laboratory (ANL) and Nvidia to build and operate next-gen compute infrastructure for AI and high-performance computing (HPC), in line with President Trump's Genesis Mission.…</p>",
+    "isoDate": "2026-01-27T12:43:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "63bbe881de23ad8d889be271eb4195818594eca5",
+    "title": "Microsoft illegally installed cookies on schoolkid's tech, data protection ruling finds",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/microsft_illegally_installed_cookies_ruling_austra_school/",
+    "summary": "<h4>Austrian education ministry unaware of tracking software until campaigners launched case</h4> <p>Microsoft illegally installed cookies on a school pupil's devices without consent, according to a ruling by the Austrian data protection authority (DSB).…</p>",
+    "isoDate": "2026-01-27T12:21:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "a2549006373f171d6224b6779ae5ab515a4ed410",
     "title": "High Court to grill London cops over live facial recognition creep",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/high_court_lfr/",
@@ -103,6 +142,19 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b611e6170c0eacc4b234363ea9da580b38ec9a16",
+    "title": "Tesla Update 2026.2.3 - Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2026.2.3/release-notes",
+    "summary": "Tesla software update 2026.2.3 includes Unlatching Charge Cable, Minor Fixes. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.2.3/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-01-27T05:15:06Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.20/2025.20-latching-charge-cable.png",
     "pinned": false
   },
   {
@@ -1140,19 +1192,6 @@
     "pinned": false
   },
   {
-    "id": "548124c434fdacf162ac24f93cd4aa75f3529dc3",
-    "title": "AI-powered cyberattack kits are 'just a matter of time,' warns Google exec",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/ai_cyberattack_google_security/",
-    "summary": "<h4>Security chief says criminals are already automating workflows, with full end-to-end tools likely within years</h4> <p>CISOs must prepare for \"a really different world\" where cybercriminals can reliably automate cyberattacks at scale, according to a senior Googler.…</p>",
-    "isoDate": "2026-01-23T17:10:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "1fdbccc590ad11a8ace3afd1bff585aaeb25c8a3",
     "title": "Tesla Adds Megapacks for Its Next-Generation Supercomputer (Cortex 2)",
     "link": "https://www.notateslaapp.com/news/3520/tesla-adds-megapacks-for-its-next-generation-supercomputer-cortex-2",
@@ -1163,19 +1202,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/megapack_epochai.jpg/93362ed95ecf3ee78b902813d8a79b40/megapack_epochai.jpg",
-    "pinned": false
-  },
-  {
-    "id": "dfc7bd883238074797fbaa99eb248c386767dde8",
-    "title": "Microsoft shifting to cloud management software brings possibility of it peeking into your estate",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/microsoft_shifting_to_cloud_management/",
-    "summary": "<h4>Deprecation of popular management tool requires a new look at Azure-based system</h4> <p>Microsoft recently announced it will <a href=\"https://techcommunity.microsoft.com/blog/sqlserver/deprecation-announcement-ssrspbirs-and-ssas-management-packs-for-scom/4486497\" target=\"_blank\">deprecate</a> System Center Operations Manager (SCOM) Management Packs (MPs) for SQL Server Reporting Services, Power BI Report Server,and SQL Server Analysis Services.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-23T16:44:30Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1202,19 +1228,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/robotaxi-unsupervised.webp/f6c58640d5bf076858b3de8e22889fb1/robotaxi-unsupervised.jpg",
-    "pinned": false
-  },
-  {
-    "id": "21e8c2efeb794b229c7c3015d45689a96d2b3e76",
-    "title": "Tesla Full Self Driving subscription to rise alongside its capabilities",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/tesla_full_self_driving_subscription/",
-    "summary": "<h4>One-time FSD purchase no longer available as Elon Musk talks up future where drivers can be asleep at the wheel</h4> <p>Having confirmed Tesla will start charging $99 a month for supervised Full Self-Driving (FSD), CEO Elon Musk has told the faithful that the cost will rise \"as FSD's capabilities improve.\"…</p>",
-    "isoDate": "2026-01-23T13:52:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
