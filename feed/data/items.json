@@ -1,7 +1,100 @@
 [
   {
+    "id": "4e8ea9bf6c9950893b1ad9d284b4b191b16a72f3",
+    "title": "Meta blocks links to ICE List across Facebook, Instagram, and Threads",
+    "link": "https://arstechnica.com/tech-policy/2026/01/meta-blocks-links-to-ice-list-across-facebook-instagram-and-threads/",
+    "summary": "Mark Zuckerberg's social media platforms are assisting the Trump administration.",
+    "isoDate": "2026-01-28T17:22:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "David Gilbert, wired.com",
+    "tags": [
+      "Policy",
+      "Facebook",
+      "ice",
+      "Instagram",
+      "meta",
+      "syndication",
+      "threads"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/zuck-trump-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "33068c2070fde6489fad2459f6eeff59f76f34c6",
+    "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
+    "link": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/",
+    "summary": "Over 400,000 H200 chips coming to tech giants as China tries to balance tech needs with self-reliance.",
+    "isoDate": "2026-01-28T17:21:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "AI chips",
+      "AI GPU",
+      "AI infrastructure",
+      "alibaba",
+      "bytedance",
+      "china",
+      "datacenters",
+      "Jensen Huang",
+      "machine learning",
+      "NVIDIA",
+      "semiconductors",
+      "Tencent",
+      "US-China relations"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2131985696-1536x864-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "56e1dba097b594afcc4c428d3db48b1fd74a1a6f",
+    "title": "South Carolina tops Texas measles outbreak record—with no end in sight",
+    "link": "https://arstechnica.com/health/2026/01/sc-measles-23-schools-hit-over-550-quarantined-as-outbreak-hits-record/",
+    "summary": "Since start of the year, South Carolina's outbreak has accelerated dramatically.",
+    "isoDate": "2026-01-28T17:02:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "measles",
+      "measles outbreak"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2257300982-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a862e43d1b68191dc46ffad86e4214786711b70c",
+    "title": "Yes, you can build an AI agent - here’s how, using LangFlow",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/a_beginners_guide_to_ai_agents/",
+    "summary": "<h4>AI automation, now as simple as point, click, drag, and drop</h4> <p><strong>Hands On</strong>  For all the buzz surrounding them, AI agents are simply another form of automation that can perform tasks using the tools you've provided. Think of them as smart macros that make decisions and go beyond simple if/then rules to handle edge cases in input data. Fortunately, it's easy enough to code your own agents and below we'll show you how.…</p>",
+    "isoDate": "2026-01-28T16:59:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1cc27008174abd7df9250afa770c1f352c0d3674",
+    "title": "Tesla to Introduce New Automations App, Letting Users Create Custom Automations",
+    "link": "https://www.notateslaapp.com/news/3543/tesla-to-introduce-new-automations-app-letting-users-create-custom-automations",
+    "summary": "A leaked Automations app in Tesla's Chinese firmware brings native If This Then That logic to the car.&hellip; <a href=\"https://www.notateslaapp.com/news/3543/tesla-to-introduce-new-automations-app-letting-users-create-custom-automations\">Read More</a>",
+    "isoDate": "2026-01-28T16:58:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/automations-app.webp/0340aa8c31eaf1117415ba48f7bb2299/automations-app.jpg",
+    "pinned": false
+  },
+  {
     "id": "41b9b5aa8efcffdfec4ff8e9e69e8bb189f6e828",
-    "title": "Review: AMD's Ryzen 7 9850X3D is a little faster and a lot more power-hungry",
+    "title": "Ryzen 9850X3D review: AMD's bragging-rights gaming CPU gets more to brag about",
     "link": "https://arstechnica.com/gadgets/2026/01/review-amds-ryzen-7-9850x3d-is-a-little-faster-and-a-lot-more-power-hungry/",
     "summary": "The tradeoffs for the $499 9850X3D make it hard to get excited about.",
     "isoDate": "2026-01-28T16:41:40Z",
@@ -728,26 +821,6 @@
     "pinned": false
   },
   {
-    "id": "24396540e141a57413954fc685004f27a3a35989",
-    "title": "Meet the mysterious electrides",
-    "link": "https://arstechnica.com/science/2026/01/meet-the-mysterious-electrides/",
-    "summary": "These chemical oddities may explain why Earth seems to be deficient in certain elements.",
-    "isoDate": "2026-01-27T14:48:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Rachel Brazil, Knowable Magazine",
-    "tags": [
-      "Science",
-      "chemistry",
-      "Earth",
-      "Earth science",
-      "Electrides",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/earthcore-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "88ff97a1f4d3f1b9843124bea8e1f34348f9d974",
     "title": "What's Changed in Tesla FSD v14.2.2.4",
     "link": "https://www.notateslaapp.com/news/3537/whats-changed-in-tesla-fsd-v14224",
@@ -758,24 +831,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-intersection.webp/eec8f007733e3d1af1beeb08d2db8d89/fsd-vis-intersection.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7cb4bbcba268b3ad03321fad606f9f9ee0ca7afe",
-    "title": "As data from space spikes, an innovative ground station company seeks to cash in",
-    "link": "https://arstechnica.com/space/2026/01/as-data-from-space-spikes-an-innovative-ground-station-company-seeks-to-cash-in/",
-    "summary": "\"That's why we're here, that's why we're building what we're building.\"",
-    "isoDate": "2026-01-27T14:16:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "northwood space",
-      "phased array",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/2405e3f23bdc3b88ca609d0a228cb64fe0761063-3840x2160-1.avif",
     "pinned": false
   },
   {
@@ -989,35 +1044,6 @@
     "pinned": false
   },
   {
-    "id": "b6b24aaa5074de9a7be90f8b8198dc5bf49ca2f5",
-    "title": "OpenAI spills technical details about how its AI coding agent works",
-    "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
-    "summary": "Unusually detailed post explains how OpenAI handles the Codex agent loop.",
-    "isoDate": "2026-01-26T23:05:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "agentic AI",
-      "AI agents",
-      "AI coding",
-      "AI development tools",
-      "API",
-      "code agents",
-      "Codex",
-      "Developer Tools",
-      "large language models",
-      "machine learning",
-      "openai",
-      "Programming",
-      "prompt caching"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3af4adf9d9f8296205589f72c608331d545a2b7e",
     "title": "AWS's inevitable destiny: becoming the next Lumen",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/aws_destiny_lumen_corey_quinn/",
@@ -1182,19 +1208,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "841877d0dd55fa1fdfcc95002e8f45f182b0f75e",
-    "title": "KDE Plasma 6.6 beta ships a login manager that won't log in without systemd",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/plasma_6_6_systemd_login/",
-    "summary": "<h4>Bad luck, BSDs – although alternatives still work</h4> <p>KDE Plasma 6.6 is approaching, and one of its more controversial changes is a new login screen that depends on systemd – meaning that it won't work on the non-Linux operating systems KDE still nominally supports.…</p>",
-    "isoDate": "2026-01-26T15:45:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
     "tags": [],
     "image": "",
     "pinned": false
