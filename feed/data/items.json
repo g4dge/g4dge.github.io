@@ -1,5 +1,55 @@
 [
   {
+    "id": "41b9b5aa8efcffdfec4ff8e9e69e8bb189f6e828",
+    "title": "Review: AMD's Ryzen 7 9850X3D is a little faster and a lot more power-hungry",
+    "link": "https://arstechnica.com/gadgets/2026/01/review-amds-ryzen-7-9850x3d-is-a-little-faster-and-a-lot-more-power-hungry/",
+    "summary": "The tradeoffs for the $499 9850X3D make it hard to get excited about.",
+    "isoDate": "2026-01-28T16:41:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Features",
+      "Gaming",
+      "Tech",
+      "3d V-cache",
+      "am5",
+      "AMD",
+      "AMD Ryzen",
+      "Ryzen",
+      "socket am5",
+      "zen 5"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-500x500-1769617347.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "f2c88e52d26265a01f3bf7f81492572dc2973085",
+    "title": "Fortinet unearths another critical bug as SSO accounts borked post-patch",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/fortinet_forticloud_vuln/",
+    "summary": "<h4>More work for admins on the cards as they await a full dump of fixes</h4> <p>Things aren't over yet for Fortinet customers – the security shop has disclosed yet another critical FortiCloud SSO vulnerability.…</p>",
+    "isoDate": "2026-01-28T16:30:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9367e724749f4e47f2c8e466b44d5b0de15c26fa",
+    "title": "AI agent hype cools as enterprises struggle to get into production",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/ai_agents_redis/",
+    "summary": "<h4>Only the biggest businesses are up to the challenge, says Redis CEO</h4> <p>Anyone scanning the news might think it's pedal to the metal as far as AI agent implementations go, but there is a slump in rollouts as many organizations figure out what to do next, Redis CEO Rowan Trollope told <em>The Register</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-28T16:17:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "4052b04a6c2a9e6b62492b90a69cbd9d005dbc3d",
     "title": "Tesla App Update 4.53.1: Tesla Adds Minor Fixes",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.53.1/release-notes",
@@ -994,29 +1044,6 @@
     "pinned": false
   },
   {
-    "id": "40665292e695588f2a7874a17df87be73bddd476",
-    "title": "Doctors face-palm as RFK Jr.’s top vaccine advisor questions need for polio shot",
-    "link": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
-    "summary": "Kirk Milhoan's comments come as federal vaccine policy slides to insignificance.",
-    "isoDate": "2026-01-26T21:31:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Science",
-      "ACIP",
-      "anti-vaccine",
-      "CDC",
-      "Kirk Milhoan",
-      "measles",
-      "polio",
-      "robert f kennedy jr",
-      "vaccines"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2235571142-500x500-1769462500.jpg",
-    "pinned": false
-  },
-  {
     "id": "644aafa23198986b125db39ccc5891b901c1242a",
     "title": "How one developer used Claude to build a memory-safe extension of C",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/trapc_claude_c_memory_safe_robin_rowe/",
@@ -1168,32 +1195,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "31137d9078aaf2c662461ba34c7bce3d8077671a",
-    "title": "Three is the magic number for Alaska Airlines: triple redundancy",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/three_is_the_magic_number/",
-    "summary": "<h4>Thankfully they only sufffered two outages in 2025. And now it has flown in experts to play with configurations</h4> <p>Alaska Air's CEO says IT outages last year damaged the company on multiple fronts despite \"triple redundancies\" built into its disaster recovery plan.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-26T15:35:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Paul Kunert",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ac26ece2c7bb17bb48f9c98cd4e5e05ec11e67fe",
-    "title": "Knee-Deep in the CAD: Boffin gets Doom running inside a design modeler",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/openscad_doom/",
-    "summary": "<h4>The seminal shooter finds yet another unlikely home</h4> <p>Not content with rendering Doom in PCB design software or playing it on an oscilloscope, engineer Mike Ayles has got the 1990s shooter running in a computer-aided design (CAD) modeler.…</p>",
-    "isoDate": "2026-01-26T14:38:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1410,19 +1411,6 @@
     "author": "Agnieszka Pasieka",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e32913fc519142b082a567e4211ebc71128e19a4",
-    "title": "Should Tesla Adopt NVIDIA’s Cooperative Steering? [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/3504/should-tesla-adopt-nvidias-cooperative-steering-video",
-    "summary": "NVIDIA's Alpamayo platform introduces Cooperative Steering, a feature that blends human input with autonomous control. Should Tesla adopt this approach for FSD?&hellip; <a href=\"https://www.notateslaapp.com/news/3504/should-tesla-adopt-nvidias-cooperative-steering-video\">Read More</a>",
-    "isoDate": "2026-01-21T16:07:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/134.jpeg/19bf57bded25480d080a47ddeeb46195/134.jpg",
     "pinned": false
   }
 ]
