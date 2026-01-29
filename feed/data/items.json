@@ -1,5 +1,77 @@
 [
   {
+    "id": "a1fdc2ba0d63ad2ae220d7f343f2c38d990bce67",
+    "title": "Having that high-deductible health plan might kill you, literally",
+    "link": "https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/",
+    "summary": "With ACA tax credits gone, more people are turning to high-deductible plans.",
+    "isoDate": "2026-01-29T23:22:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "cancer",
+      "deductivels",
+      "health insurance",
+      "survival"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2211388790-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "caec758054981f15855ffc7183a2de9a2ec447f7",
+    "title": "Maybe CISA should take its own advice about insider threats hmmm?",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/cisa_insider_threat_guidance/",
+    "summary": "<h4>The call is coming from inside the house</h4> <p><strong>opinion</strong>  Maybe everything is all about timing, like the time (this week) America's lead cyber-defense agency sounded the alarm on insider threats after it came to light that its senior official uploaded sensitive documents to ChatGPT.…</p>",
+    "isoDate": "2026-01-29T23:19:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0964c75f0b9fef29a6a3a61a8f810db7d92d7f0b",
+    "title": "US spy satellite agency declassifies high-flying Cold War listening post",
+    "link": "https://arstechnica.com/space/2026/01/us-spy-satellite-agency-declassifies-high-flying-cold-war-listening-post/",
+    "summary": "The JUMPSEAT satellites loitered over the North Pole to spy on the Soviet Union.",
+    "isoDate": "2026-01-29T23:07:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "Boeing",
+      "classified",
+      "Hughes",
+      "military space",
+      "National Reconnaissance Office",
+      "sigint"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/jumpseat_art1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "42090b86f272c3e7a83aff9a68822b4c68f08d8f",
+    "title": "People complaining about Windows 11 hasn't stopped it from hitting 1 billion users",
+    "link": "https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/",
+    "summary": "Windows 11 clears a milestone as Windows 10 continues its slow fade.",
+    "isoDate": "2026-01-29T22:46:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "microsoft",
+      "windows 10",
+      "windows 11",
+      "windows 11 25h2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/win11-light-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "aa45eb9c8d3a10578509c45d38761556ac297387",
     "title": "How often do AI chatbots lead users down a harmful path?",
     "link": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/",
@@ -759,25 +831,6 @@
     "pinned": false
   },
   {
-    "id": "99951890cfc1b9bc8f0fcee514d3dbbb1bad2c68",
-    "title": "SpaceX sends list of demands to US states giving broadband grants to Starlink",
-    "link": "https://arstechnica.com/tech-policy/2026/01/starlink-demands-grant-money-from-states-even-when-residents-dont-buy-service/",
-    "summary": "SpaceX won't make specific promises on Starlink network capacity or subscribers.",
-    "isoDate": "2026-01-28T21:02:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "BEAD program",
-      "Broadband Equity Access and Deployment",
-      "spacex",
-      "starlink"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/starlink-snow-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e314d334514dbf603ac19bea27f449b1619b7165",
     "title": "Claude Code's prying AIs read off-limits secret files",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/claude_code_ai_secrets_files/",
@@ -788,50 +841,6 @@
     "author": "Thomas Claburn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "15ef36bfb4381ba8dc09ece48e9e6655b8a19bbd",
-    "title": "Angry Norfolk residents lose lawsuit to stop Flock license plate scanners",
-    "link": "https://arstechnica.com/tech-policy/2026/01/angry-norfolk-residents-lose-lawsuit-to-stop-flock-license-plate-scanners/",
-    "summary": "Plaintiffs called Norfolk's Flock camera network a “dragnet.\"",
-    "isoDate": "2026-01-28T20:06:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cyrus Farivar",
-    "tags": [
-      "Policy",
-      "alpr",
-      "cameras",
-      "Flock!",
-      "norfolk",
-      "surveillance",
-      "Virginia"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Flock-camera-500x500-1769628829.jpg",
-    "pinned": false
-  },
-  {
-    "id": "630f480c73ff0748cee8c9825904af9eec5019d1",
-    "title": "US cyber defense chief accidentally uploaded secret government info to ChatGPT",
-    "link": "https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/",
-    "summary": "Congress recently grilled the acting chief on mass layoffs and a failed polygraph.",
-    "isoDate": "2026-01-28T19:56:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ChatGPT",
-      "CISA",
-      "cybersecurity and infrastructure security agency",
-      "Department of Homeland Security",
-      "DHS",
-      "ice",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2202418998-500x500-1769627564.jpg",
     "pinned": false
   },
   {
@@ -1175,19 +1184,6 @@
     "pinned": false
   },
   {
-    "id": "25af2dae155a99a09ea53cf1fd2aea2333096908",
-    "title": "Penguin in your pocket: Nexphone dual boots into Linux, Windows 11",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/nex_brax_dualboot_fondleslabs/",
-    "summary": "<h4>An expandable tablet, and a phone that reboots into desktop Windows</h4> <p>For most mobile devices, the OS is either Android or iOS, but a pair of new systems promises a host of additional OS options you can dual boot into. The Android phone can run Linux and boot into Windows 11 where it functions as a PC while the tablet runs a smorgasbord of Google-free OSes.…</p>",
-    "isoDate": "2026-01-27T18:57:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "c7f0914dbd731da20c5100655fa348bbfdb09d92",
     "title": "Musk Says FSD Subscription Prices Will Rise as Capabilities Increase",
     "link": "https://www.notateslaapp.com/news/3534/musk-says-fsd-subscription-prices-will-rise-as-capabilities-increase",
@@ -1453,19 +1449,6 @@
       "UFOs"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a579e59545cbef67d5e8518cf43650867d5df5fc",
-    "title": "Tesla Update 2026.2 - Release Notes",
-    "link": "https://www.notateslaapp.com/software-updates/version/2026.2/release-notes",
-    "summary": "Tesla software update 2026.2 includes Minor Fixes. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.2/release-notes\">View Release Notes</a>",
-    "isoDate": "2026-01-22T23:07:59Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2021.4/2021.4-Minor_Fixes.png",
     "pinned": false
   }
 ]
