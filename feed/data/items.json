@@ -1,5 +1,44 @@
 [
   {
+    "id": "eb8d4dcc3233ca55e4187c9f86fe3f43af22a492",
+    "title": "Oracle seeks to build bridges with MySQL developers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/oracle_mysql/",
+    "summary": "<h4>Big Red promises 'new era' as long-frustrated contributors weigh whether to believe it</h4> <p>Oracle is taking steps to \"repair\" its relationship with the MySQL community, according to sources, by moving \"commercial-only\" features into the database application's Community Edition and prioritizing developer needs.…</p>",
+    "isoDate": "2026-01-30T14:42:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "faaa1beb325cfab8b0557c17c2653454e8ee2856",
+    "title": "Autonomous cars, drones cheerfully obey prompt injection by road sign",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/road_sign_hijack_ai/",
+    "summary": "<h4>AI vision systems can be very literal readers</h4> <p>Indirect prompt injection occurs when a bot takes input data and interprets it as a command. We've seen this problem numerous times when AI bots were fed prompts via web pages or PDFs they read. Now, academics have shown that self-driving cars and autonomous drones will follow illicit instructions that have been written onto road signs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-01-30T14:27:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0915d16405593c635d1de4adb5d6d0ca3378fed4",
+    "title": "Want digital sovereignty? That'll be 1% of your GDP into AI infrastructure please",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/1pc_gdp_ai_gartner/",
+    "summary": "<h4>Analyst predicts massive spend on domestic AI stacks</h4> <p>Countries intent on digital sovereignty will need to invest at least 1 percent of their entire gross domestic product (GDP) into AI infrastructure by 2029, according to analyst biz Gartner.…</p>",
+    "isoDate": "2026-01-30T13:42:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3e91a7183165ad9456fd11c45d3405cd520a9206",
     "title": "OpenAI gives ChatGPT models the chop – two weeks' notice, take it or leave it",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/openai_gpt_deprecations/",
@@ -79,7 +118,7 @@
     "id": "ef976401fbf3624135149c9afb751bc22a0beade",
     "title": "The Skeptic Podcast – Episode 049",
     "link": "https://www.skeptic.org.uk/2026/01/the-skeptic-podcast-episode-049/",
-    "summary": "<p>Featuring articles from Dave Hahn (August 2024), Deborah Hyde (June 2021), Aaron Rabinowitz (April 2022), and Mark Williams (July 2012).</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/01/the-skeptic-podcast-episode-049/\">The Skeptic Podcast &#8211; Episode 049</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "summary": "<p>Featuring articles from Maeve Hanan (October 2024), Dave Hahn (December 2022), and Michael Marshall (June 2024).</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/01/the-skeptic-podcast-episode-049/\">The Skeptic Podcast &#8211; Episode 049</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
     "isoDate": "2026-01-30T11:00:00Z",
     "source": "The Skeptic",
     "category": "Tech",
@@ -1139,19 +1178,6 @@
     "pinned": false
   },
   {
-    "id": "4cd272a28f442c3cdb518f3fbb3070af83b7479c",
-    "title": "Cops get more facial recognition vans as UK bets big on AI policing",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/tech_in_policing_white_paper/",
-    "summary": "<h4>Home Office white paper promises millions for LFR, a new Police.AI unit, and a bespoke legal framework</h4> <p>Police in England and Wales will increase their use of live facial recognition (LFR) and artificial intelligence (AI) under wide-ranging government plans to reform law enforcement.…</p>",
-    "isoDate": "2026-01-28T13:02:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "d92eabe5cc323b7170e92ad34030594b2b6874e8",
     "title": "A Look at Tesla’s Robotaxi UI — and What Happens If You Touch the Steering Wheel",
     "link": "https://www.notateslaapp.com/news/3528/a-look-at-teslas-robotaxi-ui-and-what-happens-if-you-touch-the-steering-wheel",
@@ -1162,32 +1188,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/robotaxi-ui.webp/bfaedcefe8c985b15d7e9a194eec4143/robotaxi-ui.jpg",
-    "pinned": false
-  },
-  {
-    "id": "117bf08f351d981937accd6b0883719d2f5bc14c",
-    "title": "How agentic AI can strain modern memory hierarchies",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/how_agentic_ai_strains_modern_memory_heirarchies/",
-    "summary": "<h4>You can’t cheaply recompute without re-running the whole model – so KV cache starts piling up</h4> <p><strong>Feature</strong>  Large language model inference is often stateless, with each query handled independently and no carryover from previous interactions. A request arrives, the model generates a response, and the computational state gets discarded. In such AI systems, memory grows linearly with sequence length and can become a bottleneck for long contexts. …</p>",
-    "isoDate": "2026-01-28T12:00:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Abhishek Jadhav",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e1b0c987d929c9a02f3b948121ecf9fe7b270cc9",
-    "title": "Oracle silent over user complaints about OCI London 'wobble' last week",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/oci_access_complaints/",
-    "summary": "<h4>But did it falter? Oracle debuts Schrödinger's cloud</h4> <p>Oracle Cloud Infrastructure (OCI) users reported an outage late last week in its London region, yet despite complaints from <em>Register</em> readers, Big Red is staying quiet.…</p>",
-    "isoDate": "2026-01-28T11:15:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1428,19 +1428,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/fsd-hardware-chips.webp/cc162cc4e3f8537a3b7862663c5d9a6b/fsd-hardware-chips.jpg",
-    "pinned": false
-  },
-  {
-    "id": "665a0dd943319318f73648f0dad9c6781eeda22b",
-    "title": "Tesla Launches Unsupervised Robotaxi Rides in Austin",
-    "link": "https://www.notateslaapp.com/news/3527/tesla-launches-unsupervised-robotaxi-rides-in-austin",
-    "summary": "Tesla has officially started unsupervised Robotaxi rides for the general public in Austin.&hellip; <a href=\"https://www.notateslaapp.com/news/3527/tesla-launches-unsupervised-robotaxi-rides-in-austin\">Read More</a>",
-    "isoDate": "2026-01-23T14:30:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/robotaxi-unsupervised.webp/f6c58640d5bf076858b3de8e22889fb1/robotaxi-unsupervised.jpg",
     "pinned": false
   }
 ]
