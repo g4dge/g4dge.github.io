@@ -1,5 +1,50 @@
 [
   {
+    "id": "fa1866bd4c52fbd9ca5b6c768ccb231a0f6510b6",
+    "title": "Thousands more Oregon residents learn their health data was stolen in TriZetto breach",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/trizetto_health_data_stolen/",
+    "summary": "<h4>Parent company Cognizant hit with multiple lawsuits</h4> <p>Thousands more Oregonians will soon receive data breach letters in the continued fallout from the TriZetto data breach, in which someone hacked the insurance verification provider and gained access to its healthcare provider customers across multiple US states.…</p>",
+    "isoDate": "2026-01-30T18:32:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a3894c2a0a53e8b65efa03ca03f926cf01031682",
+    "title": "Feeling taxed by layoffs, IRS turns to AI helpers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/irs_ai_helpers/",
+    "summary": "<h4>Fewer humans, more bots - just in time for filing season</h4> <p>Tax season 2026 could be an interesting one as the IRS seeks to replace the staff it sent to the unemployment line with AI. Bots could handle tasks ranging from reviewing an org's request for tax-exempt status to processing amended individual filings.…</p>",
+    "isoDate": "2026-01-30T18:01:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b46c176a61e8d4625914eb4ba18fbcb92db7dad5",
+    "title": "Web portal leaves kids' chats with AI toy open to anyone with Gmail account",
+    "link": "https://arstechnica.com/security/2026/01/web-portal-leaves-kids-chats-with-ai-toy-open-to-anyone-with-gmail-account/",
+    "summary": "Just about anyone with a Gmail account could access Bondu chat transcripts.",
+    "isoDate": "2026-01-30T17:49:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andy Greenberg, wired.com",
+    "tags": [
+      "AI",
+      "Security",
+      "Bondu",
+      "eavesdropping",
+      "Toys"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/bondu-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "31304192037531365c27aafa067416068c871e81",
     "title": "Backblaze says AI traffic and neoclouds could shape future networks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/backblaze_ai_traffic_bandwidth/",
@@ -887,26 +932,6 @@
     "pinned": false
   },
   {
-    "id": "0b1bf1671e2bbbc7001958696f4ef3a76686e303",
-    "title": "Early Universe's supermassive black holes grew in cocoons like butterflies",
-    "link": "https://arstechnica.com/science/2026/01/early-universes-supermassive-black-holes-grew-in-cocoons-like-butterflies/",
-    "summary": "During cocoon phase, young, supermassive black holes are surrounded by high-density gas.",
-    "isoDate": "2026-01-29T12:00:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "black holes",
-      "James Webb Space Telescope",
-      "little red dots",
-      "supermassive black holes",
-      "x-ray telescope"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/image-1-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "2d2e9e87fa4dcbbe909ff1e4b62ebf9c77a52310",
     "title": "Capita pension portal 'fiasco' forces Cabinet Office into damage control",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/capita_pension_portal_update/",
@@ -1188,32 +1213,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0421a81f43b00b4c9da552c282af1ccf49782ed6",
-    "title": "Cops put Microsoft Copilot in holding cell after controversial hallucination",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/microsoft_copilot_wmp/",
-    "summary": "<h4>Chatbot banned – for now – after it dreamed up West Ham match that never happened</h4> <p>West Midlands Police's acting Chief Constable has suspended use of Microsoft Copilot following a controversy that led to the early retirement of his predecessor over a recommendation to ban Israeli football fans from a Birmingham match.…</p>",
-    "isoDate": "2026-01-28T13:40:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c23c24e7d2067d86807b18268944036ccff394ad",
-    "title": "Old Windows quirks help punch through new admin defenses",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/google_windows_admin_exploit/",
-    "summary": "<h4>Google researcher sits on UAC bypass for ages, only for it to become valid with new security feature</h4> <p>Microsoft patched a bevy of bugs that allowed bypasses of Windows Administrator Protection before the feature was made available earlier this month.…</p>",
-    "isoDate": "2026-01-28T13:16:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
