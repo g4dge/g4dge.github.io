@@ -1,5 +1,117 @@
 [
   {
+    "id": "2e75a87d93cd11035cb13df749ae6a614d67a1c8",
+    "title": "ICE protester says her Global Entry was revoked after agent scanned her face",
+    "link": "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/",
+    "summary": "Global Entry and Precheck revoked three days after incident, court filing says.",
+    "isoDate": "2026-01-30T22:36:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "ice",
+      "immigration and customs enforcement"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ice-protest-500x500-1769811214.jpg",
+    "pinned": false
+  },
+  {
+    "id": "43d4b45df14db63de6954c70b0ac1d3d71766550",
+    "title": "TrumpRx delayed as senators question if it's a giant scam with Big Pharma",
+    "link": "https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/",
+    "summary": "The website is delayed as senators seek answers from health department watchdog.",
+    "isoDate": "2026-01-30T22:25:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-kickback statute",
+      "kickbacks",
+      "telehealth",
+      "trumprx"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2238342037-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "085a3008c9e15d57a12834b9ecfb527eb19af4bb",
+    "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
+    "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
+    "summary": "Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.",
+    "isoDate": "2026-01-30T22:12:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "agentic AI",
+      "AI agents",
+      "AI behavior",
+      "AI consciousness",
+      "AI ethics",
+      "AI security",
+      "Anthropic",
+      "machine learning",
+      "Moltbook",
+      "Moltbot",
+      "open source",
+      "OpenClaw",
+      "Peter Steinberger",
+      "prompt injection",
+      "social media"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/moltbook-blue-v-red-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "10de53e0370b1dd352bf19737973c313883ed411",
+    "title": "January blues return as Ivanti coughs up exploited EPMM zero-days",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/ivanti_epmm_zero_days/",
+    "summary": "<h4>Consider yourselves compromised, experts warn</h4> <p>Ivanti has patched two critical zero-day vulnerabilities in its Endpoint Manager Mobile (EPMM) product that are already being exploited, continuing a grim run of January security incidents for enterprise IT vendors.…</p>",
+    "isoDate": "2026-01-30T22:01:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fd22876fb4b74dcad09208075030319623e410b2",
+    "title": "'Hey! I’m chatting here!’ Fugazi answers doom NYC’s AI bot",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/nyc_bot_fugazi_doom/",
+    "summary": "<h4>Lying means dying</h4> <p>Lying means dying, at least for one falsehood-peddling government AI. A Microsoft-powered chatbot that New York City rolled out to help business owners answer frequently asked questions – but was often wrong – has been silenced as the city grapples with a $12 billion budget shortfall.…</p>",
+    "isoDate": "2026-01-30T21:58:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b072a1f4131f7073f1a4e600d688693bbb7ff56f",
+    "title": "Here's why Blue Origin just ended its suborbital space tourism program",
+    "link": "https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/",
+    "summary": "\"This program has laid the groundwork for our company's future success.\"",
+    "isoDate": "2026-01-30T21:50:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "blue origin",
+      "new glenn",
+      "new shepard",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/blue-origin-ns18-lift-off-october-13-2021-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "2d8744b3274239d987569c1c79d719720f7db210",
     "title": "Ex-Googler nailed for stealing AI secrets for Chinese startups",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/google_engineer_convicted_ai_secrets_china/",
@@ -658,37 +770,6 @@
     "pinned": false
   },
   {
-    "id": "f54c90cec40add8875581167d47ccf3dfb3144d4",
-    "title": "New OpenAI tool renews fears that “AI slop” will overwhelm scientific research",
-    "link": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
-    "summary": "New \"Prism\" workspace launches just as studies show AI-assisted papers are flooding journals with diminished quality.",
-    "isoDate": "2026-01-29T17:51:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Science",
-      "Academic publishing",
-      "AI assistants",
-      "ai slop",
-      "AI writing",
-      "Cambridge University Press",
-      "cornell university",
-      "GPT-5",
-      "Kevin Weil",
-      "large language models",
-      "machine learning",
-      "openai",
-      "peer review",
-      "Science journal",
-      "scientific research",
-      "Yian Yin"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/robot_science_header-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "708eb1b754e82196eab9b19783de0a663064afd1",
     "title": "AI datacenter boom triples US gas power builds, filling the air with more CO2",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ai_datacenter_boom_tripled_us_gas_power_builds/",
@@ -699,28 +780,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8adebb4d6c836e53887511c3bd9e6a08db66fd64",
-    "title": "Custom machine kept man alive without lungs for 48 hours",
-    "link": "https://arstechnica.com/health/2026/01/custom-machine-kept-man-alive-without-lungs-for-48-hours/",
-    "summary": "Infections had turned his lungs to soup and had to be cleared before transplant.",
-    "isoDate": "2026-01-29T17:26:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Health",
-      "bioengineering",
-      "breathing",
-      "engineering",
-      "infection",
-      "lungs",
-      "machinery",
-      "transplants"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1358869815-500x500.jpg",
     "pinned": false
   },
   {
@@ -786,60 +845,6 @@
     "author": "Joe Fay",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fef5d7472ef97e156a8624dc4cd79eafeec65841",
-    "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
-    "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
-    "summary": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes.",
-    "isoDate": "2026-01-29T15:19:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Features",
-      "AI alignment",
-      "AI anthropomorphism",
-      "AI behavior",
-      "AI consciousness",
-      "AI ethics",
-      "AI psychosis",
-      "AI sycophancy",
-      "AI welfare",
-      "Amanda Askell",
-      "Anthropic",
-      "Anthropic Claude",
-      "chatbots",
-      "Claude",
-      "Constitutional AI",
-      "Dario Amodei",
-      "large language models",
-      "machine learning",
-      "rlhf"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/the-AI-ghost-in-the-machine-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "35e1be570aceda1ef2956dd0bca0cb2e3dd2f2ae",
-    "title": "Do you have ideas about how to improve America's space program?",
-    "link": "https://arstechnica.com/space/2026/01/do-you-have-ideas-about-how-to-improve-americas-space-program/",
-    "summary": "\"Any time there’s dynamic change, there’s the opportunity for new ideas.\"",
-    "isoDate": "2026-01-29T15:18:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "challenge",
-      "idea",
-      "NASA",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/space-suggestion-box-500x500.jpg",
     "pinned": false
   },
   {
@@ -1181,19 +1186,6 @@
     "pinned": false
   },
   {
-    "id": "9367e724749f4e47f2c8e466b44d5b0de15c26fa",
-    "title": "AI agent hype cools as enterprises struggle to get into production",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/ai_agents_redis/",
-    "summary": "<h4>Only the biggest businesses are up to the challenge, says Redis CEO</h4> <p>Anyone scanning the news might think it's pedal to the metal as far as AI agent implementations go, but there is a slump in rollouts as many organizations figure out what to do next, Redis CEO Rowan Trollope told <em>The Register</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-28T16:17:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "4052b04a6c2a9e6b62492b90a69cbd9d005dbc3d",
     "title": "Tesla App Update 4.53.1: Tesla Adds Minor Fixes",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.53.1/release-notes",
@@ -1204,19 +1196,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-49-6/tesla-app-modely-standard.webp/a34132d0e2d75e4befc1457b1e43c0e2/tesla-app-modely-standard.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a54e132a93d4792b468abd882e8d8d804f88925f",
-    "title": "Flush with cash, SK hynix spawns mysteriously named 'AI Co.'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/sk_hynix_ai_co/",
-    "summary": "<h4>Memory boom funds $10B punt on 'solutions' outfit that's still light on details</h4> <p>SK hynix is surfing the AI hype wave by setting up what it nebulously describes as a solutions biz to further exploit the hysteria.…</p>",
-    "isoDate": "2026-01-28T14:45:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
