@@ -1,5 +1,367 @@
 [
   {
+    "id": "6f882ef374d908d9a2be029e3a63361abd477082",
+    "title": "Notepad++ hijacking blamed on Chinese Lotus Blossom crew behind Chrysalis backdoor",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/notepad_hijacking_lotus_blossom/",
+    "summary": "<h4>The group targets telecoms, critical infrastructure - all the usual high-value orgs</h4> <p>Security researchers have attributed the Notepad++ update hijacking to a Chinese government-linked espionage crew called Lotus Blossom (aka Lotus Panda, Billbug), which abused weaknesses in the update infrastructure to gain a foothold in high-value targets by delivering a newly identified backdoor dubbed Chrysalis.…</p>",
+    "isoDate": "2026-02-02T23:23:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "924852a6b20becb2725d13a6a559c063ff2f4f8a",
+    "title": "Looking back at Catacomb 3D, the game that led to Wolfenstein 3D",
+    "link": "https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/",
+    "summary": "Romero, Carmack, and colleagues discuss an oft-forgotten piece of PC gaming history",
+    "isoDate": "2026-02-02T22:57:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "Carmack",
+      "Doom",
+      "History",
+      "id Software",
+      "john",
+      "PC gaming",
+      "romero",
+      "wolfenstein 3d"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/c3d-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0ceb4688de6aeecbfb217af17fe29f1b34758ca8",
+    "title": "Streaming service Crunchyroll raises prices weeks after killing its free tier",
+    "link": "https://arstechnica.com/gadgets/2026/02/streaming-service-crunchyroll-raises-prices-weeks-after-killing-its-free-tier/",
+    "summary": "Sony has made streaming anime pricier since buying Crunchyroll.",
+    "isoDate": "2026-02-02T22:31:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "acquisitions",
+      "anime",
+      "Sony",
+      "streaming"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2258531948-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "55c2a8f906789e69c885ceb521d57ffbf463d731",
+    "title": "Let them eat Pi: RAM shortage bumps Raspberry prices as much as $60",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/raspberry_pi_ram_shortage_price_hike/",
+    "summary": "<h4>Second price increase in just two months</h4> <p>That slice of Pi is getting much more expensive. Everyone’s favorite single-board computer, the Raspberry Pi, is jumping up in price again, with increases ranging from $10 to $60, depending on how much memory your board has.…</p>",
+    "isoDate": "2026-02-02T22:26:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9b36e273302033c215589fe93fc9affd8646e932",
+    "title": "SpaceX acquires xAI, plans 1 million satellite constellation to power it",
+    "link": "https://arstechnica.com/space/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/",
+    "summary": "\"This marks not just the next chapter, but the next book in SpaceX and xAI's mission.\"",
+    "isoDate": "2026-02-02T21:55:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "orbital data centers",
+      "space",
+      "spacex",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/starship_march2025-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "01880d845e88d82c75c4ee1ce4dee138baadbbef",
+    "title": "Russian drones use Starlink, but Ukraine has plan to block their Internet access",
+    "link": "https://arstechnica.com/tech-policy/2026/02/russian-drones-use-starlink-but-ukraine-has-plan-to-block-their-internet-access/",
+    "summary": "Defense chief: \"No Ukrainians have been killed by Russian drones using Starlink.\"",
+    "isoDate": "2026-02-02T21:32:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "spacex",
+      "starlink",
+      "Ukraine"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-ukraine-starlink-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d793b0df30ddd996c635d3d8b0ede6ceea0a562c",
+    "title": "Intel welcomes memory apocalypse with Xeon workstation refresh",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/intel_xeon_workstation/",
+    "summary": "<h4>Chipzilla touts 4 TB of DDR5 and 128 lanes of PCIe 5 for less than the House of Zen just in time for memory winter</h4> <p>Intel's workstation lineup is getting a much-needed refresh with the launch of its Xeon 600-series processors, boasting up to 86 cores and clocks topping 4.9 GHz. Chipzilla's timing couldn't be worse.…</p>",
+    "isoDate": "2026-02-02T21:30:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "df94f233c568624de7d567c802930ef54223ba50",
+    "title": "Court orders restart of all US offshore wind construction",
+    "link": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
+    "summary": "Trump admin's \"it's classified\" ploy put on hold in five different cases.",
+    "isoDate": "2026-02-02T20:43:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Policy",
+      "Science",
+      "department of the interior",
+      "green",
+      "injunction",
+      "lawsuit",
+      "offshore wind",
+      "renewable energy",
+      "trump administration",
+      "wind power"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1623091024-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "866b430c3f3afed6576ffca80e82ae72773e130c",
+    "title": "There's nothing micro about this super-sized Arduino Uno",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/arduino_uno/",
+    "summary": "<h4>It's 7x the size of the regular board</h4> <p>Arduino boards power everything from robots to RGB lights, but they're a little on the small side. YouTuber UncleStem has his own solution: build a gigantic, yet fully functional one.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-02T20:31:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0f30f5041855846a1d8b59d55f11b2c0d1c8e831",
+    "title": "Notepad++ users take note: It's time to check if you're hacked",
+    "link": "https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/",
+    "summary": "Suspected China-state hackers used update infrastructure to deliver backdoored version.",
+    "isoDate": "2026-02-02T20:30:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "notepad",
+      "Open source software",
+      "supply chain attacks"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0b9c87ff360ff0df9abf0bfef3304d5033cb9d66",
+    "title": "A century of hair samples proves leaded gas ban worked",
+    "link": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
+    "summary": "“We should not forget the lessons of history. And the lesson is those regulations have been very important.”",
+    "isoDate": "2026-02-02T20:00:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "chemistry",
+      "geochemistry",
+      "leaded gasoline"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lead2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "44892bdf1287ae40e712f94de7d72d4d7d91d3f8",
+    "title": "Ongoing RAM crisis prompts Raspberry Pi's second price hike in two months",
+    "link": "https://arstechnica.com/gadgets/2026/02/ongoing-ram-crisis-prompts-raspberry-pis-second-price-hike-in-two-months/",
+    "summary": "The more RAM the Pi board has, the more its price is increasing.",
+    "isoDate": "2026-02-02T19:52:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "Raspberry Pi",
+      "raspberry pi 4",
+      "raspberry pi 5"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/IMG_0625-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "afa2275f9231dba660b654a38c8248a8d9ce0bcc",
+    "title": "Want more ads on your web pages? Try the AdBoost extension",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/ads_web_pages_adboost_extension/",
+    "summary": "<h4>'If we don't feed the advertisers, then we'll be forced to pay artists for their creative work'</h4> <p>Come on, admit it. You like seeing banner ads on your favorite web pages, because they provide a nice break from reading text. If you're honest about this feeling, there's a new extension for you.…</p>",
+    "isoDate": "2026-02-02T19:51:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9216fcb94b2f4eb9ce213b43d0a8023d7bf9cd38",
+    "title": "Judge rules Department of Energy's climate working group was illegal",
+    "link": "https://arstechnica.com/science/2026/02/us-forced-to-disclose-its-climate-working-groups-communications/",
+    "summary": "Meant to undercut EPA regulations, the group tried to work in secret.",
+    "isoDate": "2026-02-02T19:40:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Policy",
+      "Science",
+      "climate change",
+      "DOE",
+      "endangerment finding",
+      "EPA",
+      "greenhouse gasses",
+      "lawsuit"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1804069599-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5e472a2e7ae1a746f114b276b6d55fdca3592750",
+    "title": "DRAM prices expected to double in Q1 as AI ambitions push memory fabs to their limit",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/dram_prices_expected_to_double/",
+    "summary": "<h4>NAND flash now expected to surge 55–60% compared to Q4</h4> <p>The memory shortage is worse than most of us first thought. Prices on DRAM and NAND flash memory are expected to surge in the first quarter of 2026 as AI-driven hyperscalers and cloud service providers (CSPs) continue to strain supply chains.…</p>",
+    "isoDate": "2026-02-02T19:32:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "79a6477071e8c62c7b8f0f13589845beb6a0fd5a",
+    "title": "StopICE hacked to send alarming text messages, admins accuse border patrol agent of sabotage",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/stopice_alerts_hacked/",
+    "summary": "<h4>The ICE-tracking service says it doesn't store usernames or addresses</h4> <p>ICE-reporting service StopICE has blamed a US Customs and Border Protection (CBP) agent for attacking its app and website and sending users text messages warning them that their information had been \"sent to the authorities.\"…</p>",
+    "isoDate": "2026-02-02T19:16:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "34fd07e0687d23ba03755082df488dc17f9dd78b",
+    "title": "DOJ released Epstein files with dozens of nudes and victims' names, reports say",
+    "link": "https://arstechnica.com/tech-policy/2026/02/doj-released-epstein-files-with-dozens-of-nudes-and-victims-names-reports-say/",
+    "summary": "DOJ reportedly failed to redact nearly 40 nude photos and 43 victims' names.",
+    "isoDate": "2026-02-02T18:58:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "department of justice",
+      "epstein files",
+      "Jeffrey Epstein"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/epstein-files-500x500-1770057504.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1dc07b416e9590252f65423001801cce0b05534b",
+    "title": "Intel Panther Lake Core Ultra review: Intel's best laptop CPU in a very long time",
+    "link": "https://arstechnica.com/gadgets/2026/02/intel-panther-lake-core-ultra-review-intels-best-laptop-cpu-in-a-very-long-time/",
+    "summary": "Intel manages big boosts to CPU and GPU speed without blowing up battery life.",
+    "isoDate": "2026-02-02T18:23:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Features",
+      "Tech",
+      "Intel",
+      "panther lake"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/IMG_3607-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "79d0eda5a3aa95289b119a0b59447e655a71d4ab",
+    "title": "Russia-linked APT28 attackers already abusing new Microsoft Office zero-day",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/russialinked_apt28_microsoft_office_bug/",
+    "summary": "<h4>Ukraine’s CERT says the bug went from disclosure to active exploitation in days</h4> <p>Russia-linked attackers are already exploiting Microsoft's latest Office zero-day, with Ukraine's national cyber defense team warning that the same bug is being used to target government agencies inside the country and organizations across the EU.…</p>",
+    "isoDate": "2026-02-02T18:18:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b9d968360e8eb8d7fb3870b8650584feea1e2a88",
+    "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
+    "link": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
+    "summary": "When the eradication program began in 1986, there were a 3.5 million cases.",
+    "isoDate": "2026-02-02T18:08:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "carter",
+      "guinea worm",
+      "infection",
+      "Infectious disease",
+      "parasite"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-594370432-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ec9597388e48fdddd227582c4497f63fdd3c37d6",
+    "title": "OpenAI picks up pace against Claude Code with new Codex desktop app",
+    "link": "https://arstechnica.com/ai/2026/02/openai-picks-up-pace-against-claude-code-with-new-codex-desktop-app/",
+    "summary": "The macOS app does everything the CLI, IDE, and web interfaces do.",
+    "isoDate": "2026-02-02T18:00:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "agentic AI",
+      "Claude Code",
+      "Codex",
+      "coding",
+      "openai",
+      "Programming",
+      "software development"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Codex-dark-500x500-1770052646.jpg",
+    "pinned": false
+  },
+  {
     "id": "050c97a01be53ab51d3c68df1a4cbec28772a048",
     "title": "Oracle's first general on-prem release of its .ai database iteration draws skeptics",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/oracles_on_prem_ai_database/",
@@ -489,26 +851,6 @@
     "pinned": false
   },
   {
-    "id": "02b1b6f4cf5bf49bec8450a8eaebe37fc1e9f03c",
-    "title": "A cup of coffee for depression treatment has better results than microdosing",
-    "link": "https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/",
-    "summary": "The effect of microdosing have been overstated, at least when it comes to depression.",
-    "isoDate": "2026-01-31T12:19:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Semley, wired.com",
-    "tags": [
-      "Health",
-      "depression",
-      "LSD",
-      "mental health",
-      "microdosing",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1079704034-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "da7813c1a9c55c0145ad6d085e8f9748d7dacd2e",
     "title": "Broadcom 'bulldozes' VMware cloud partners as March deadline looms",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/31/broadcom_vmware_cloud_partners/",
@@ -519,91 +861,6 @@
     "author": "Paul Kunert",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0e5e7bbcfb03cd3f2ffaf1470a351265c7d4e44c",
-    "title": "The TV industry finally concedes that the future may not be in 8K",
-    "link": "https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/",
-    "summary": "With virtually no content and limited benefits, 8K TVs were doomed.",
-    "isoDate": "2026-01-30T23:09:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "8k",
-      "LG",
-      "TVs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Desktop_01-1-500x500-1769809183.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2e75a87d93cd11035cb13df749ae6a614d67a1c8",
-    "title": "ICE observer says her Global Entry was revoked after agent scanned her face",
-    "link": "https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/",
-    "summary": "Global Entry and PreCheck revoked three days after incident, court filing says.",
-    "isoDate": "2026-01-30T22:36:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "ice",
-      "immigration and customs enforcement"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ice-protest-500x500-1769811214.jpg",
-    "pinned": false
-  },
-  {
-    "id": "43d4b45df14db63de6954c70b0ac1d3d71766550",
-    "title": "TrumpRx delayed as senators question if it's a giant scam with Big Pharma",
-    "link": "https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/",
-    "summary": "The website is delayed as senators seek answers from health department watchdog.",
-    "isoDate": "2026-01-30T22:25:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anti-kickback statute",
-      "kickbacks",
-      "telehealth",
-      "trumprx"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2238342037-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "085a3008c9e15d57a12834b9ecfb527eb19af4bb",
-    "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
-    "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
-    "summary": "Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.",
-    "isoDate": "2026-01-30T22:12:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "agentic AI",
-      "AI agents",
-      "AI behavior",
-      "AI consciousness",
-      "AI ethics",
-      "AI security",
-      "Anthropic",
-      "machine learning",
-      "Moltbook",
-      "Moltbot",
-      "open source",
-      "OpenClaw",
-      "Peter Steinberger",
-      "prompt injection",
-      "social media"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/moltbook-blue-v-red-500x500.jpg",
     "pinned": false
   },
   {
@@ -633,25 +890,6 @@
     "pinned": false
   },
   {
-    "id": "b072a1f4131f7073f1a4e600d688693bbb7ff56f",
-    "title": "Here's why Blue Origin just ended its suborbital space tourism program",
-    "link": "https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/",
-    "summary": "\"This program has laid the groundwork for our company's future success.\"",
-    "isoDate": "2026-01-30T21:50:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "blue origin",
-      "new glenn",
-      "new shepard",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/blue-origin-ns18-lift-off-october-13-2021-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2d8744b3274239d987569c1c79d719720f7db210",
     "title": "Ex-Googler nailed for stealing AI secrets for Chinese startups",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/google_engineer_convicted_ai_secrets_china/",
@@ -662,58 +900,6 @@
     "author": "Thomas Claburn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "af0abb811463c598eb20c73d564eed47e6fb6edb",
-    "title": "FCC aims to ensure \"only living and lawful Americans\" get Lifeline benefits",
-    "link": "https://arstechnica.com/tech-policy/2026/01/fcc-chair-fights-calif-governor-over-alleged-lifeline-benefits-for-dead-people/",
-    "summary": "Alleging fraud in California, Carr proposes making enrollment stricter nationwide.",
-    "isoDate": "2026-01-30T19:28:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Anna Gomez",
-      "brendan carr",
-      "California",
-      "FCC",
-      "Gavin Newsom",
-      "Lifeline"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/brendan-carr-anna-gomez-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7a402bee394c63174f3eddb240c6391736373348",
-    "title": "Developers say AI coding tools work—and that's precisely what worries them",
-    "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
-    "summary": "Ars spoke to several software devs about AI and found enthusiasm tempered by unease.",
-    "isoDate": "2026-01-30T19:04:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI agents",
-      "AI and work",
-      "AI coding",
-      "Anthropic",
-      "Claude",
-      "Claude Code",
-      "GitHub Copilot",
-      "large language models",
-      "machine learning",
-      "microsoft",
-      "openai",
-      "openai codex",
-      "Programming",
-      "software development",
-      "vibe coding"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/dual-sides-ai-programming-500x500.jpg",
     "pinned": false
   },
   {
@@ -743,26 +929,6 @@
     "pinned": false
   },
   {
-    "id": "b46c176a61e8d4625914eb4ba18fbcb92db7dad5",
-    "title": "Web portal leaves kids' chats with AI toy open to anyone with Gmail account",
-    "link": "https://arstechnica.com/security/2026/01/web-portal-leaves-kids-chats-with-ai-toy-open-to-anyone-with-gmail-account/",
-    "summary": "Just about anyone with a Gmail account could access Bondu chat transcripts.",
-    "isoDate": "2026-01-30T17:49:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andy Greenberg, wired.com",
-    "tags": [
-      "AI",
-      "Security",
-      "Bondu",
-      "eavesdropping",
-      "syndication",
-      "Toys"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/bondu-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "31304192037531365c27aafa067416068c871e81",
     "title": "Backblaze says AI traffic and neoclouds could shape future networks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/backblaze_ai_traffic_bandwidth/",
@@ -789,22 +955,6 @@
     "pinned": false
   },
   {
-    "id": "0ae5bea0a12b5de7f05a353b97bd7a54222f90eb",
-    "title": "How far does $5,000 go when you want an electric car?",
-    "link": "https://arstechnica.com/cars/2026/01/how-far-does-5000-go-when-you-want-an-electric-car/",
-    "summary": "You won't be going on road trips, but a very cheap electric runabout is possible.",
-    "isoDate": "2026-01-30T15:55:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "used ev prices"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/electric-piggy-bank-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "faf451b7baa603ca19826bece6ead8239d78b312",
     "title": "Elon Musk Discusses Tesla's Mission, Solar, Optimus and Space at WEF [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3540/elon-musk-at-wef-sustainable-abundance-solar-and-humanoid-robots",
@@ -815,28 +965,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/elon_wef.jpg/32da2e7f728ae23528eef195186195aa/elon_wef.jpg",
-    "pinned": false
-  },
-  {
-    "id": "18567f6792ae75756b9bf6a0742650db7126346b",
-    "title": "NASA faces a crucial choice on a Mars spacecraft—and it must decide soon",
-    "link": "https://arstechnica.com/space/2026/01/nasa-faces-a-crucial-choice-on-a-mars-spacecraft-and-it-must-decide-soon/",
-    "summary": "\"We think that’s a really important mission, and something that we can do.\"",
-    "isoDate": "2026-01-30T15:31:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "blue origin",
-      "Mars",
-      "mars telecommunications orbiter",
-      "NASA",
-      "rocket lab",
-      "space",
-      "spacex"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin-500x500.jpg",
     "pinned": false
   },
   {
@@ -915,43 +1043,6 @@
     "author": "Paul Kunert",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1cf921664c1b67f9938821e0ac00f912da320252",
-    "title": "Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?",
-    "link": "https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/",
-    "summary": "\"We’re seeing remarkable growth year after year.\"",
-    "isoDate": "2026-01-30T12:00:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "rocket report",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/07/LaunchsiteScotland_3b-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "dc442081dc577e1a516dc8b2294acc8faa9f3c69",
-    "title": "Inside Nvidia's 10-year effort to make the Shield TV the most updated Android device ever",
-    "link": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
-    "summary": "\"Selfishly, a little bit, we built Shield for ourselves.\"",
-    "isoDate": "2026-01-30T12:00:35Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Features",
-      "Tech",
-      "android",
-      "android tv",
-      "NVIDIA",
-      "Set-top boxes"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-500x500.jpg",
     "pinned": false
   },
   {
@@ -1115,32 +1206,6 @@
     "pinned": false
   },
   {
-    "id": "85ca6c66e41272efca315f67f1ef5778cc0faadb",
-    "title": "Agents gone wild! Companies give untrustworthy bots keys to the kingdom",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ai_agent_identity_security/",
-    "summary": "<h4>'We're letting thousands of interns run around in our production environment'</h4> <p>Corporate use of AI agents in 2026 looks like the Wild West, with bots running amok and no one quite knowing what to do about it - especially when it comes to managing and securing their identities.…</p>",
-    "isoDate": "2026-01-29T18:31:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3c253d2d7c772aa3a62257fdd6d187b29abd98de",
-    "title": "Dow Chemical says AI is the element behind 4,500 job cuts",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/dow_chemical_ai_layoffs/",
-    "summary": "<h4>The 129 year old chemical company uses Palantir-rival C3's AI as its software of choice.</h4> <p><strong>ai-pocalypse</strong>  The jury is still out when it comes to determining how much job loss AI is causing. However, we now have another case study. Dow Chemical blames AI automation for its plans to cut 4,500 jobs, about 12.5 percent of its work force.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-29T18:23:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "44fd35850adb74f0b473c857ee143d983d7083c3",
     "title": "Tesla Reduces FSD Subscription to $49/Month for Vehicles With Enhanced Autopilot",
     "link": "https://www.notateslaapp.com/news/3539/tesla-reduces-fsd-subscription-to-49month-for-vehicles-with-enhanced-autopilot",
@@ -1151,84 +1216,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/discounted_fsd_sub_eap.jpg/e84969fc5dbbdaa59166f49c00d4496a/discounted_fsd_sub_eap.jpg",
-    "pinned": false
-  },
-  {
-    "id": "708eb1b754e82196eab9b19783de0a663064afd1",
-    "title": "AI datacenter boom triples US gas power builds, filling the air with more CO2",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ai_datacenter_boom_tripled_us_gas_power_builds/",
-    "summary": "<h4>Reduce emissions? Screw that - we have money to lose and memes to generate</h4> <p>Fossil fuel-fired power plant development is roaring back to life in the US thanks to the AI datacenter boom, with data from 2025 suggesting we're reaching the point where the renewable energy transition - and efforts to ease carbon emissions - may well be doomed.…</p>",
-    "isoDate": "2026-01-29T17:39:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5ee08873a4ac65c6e02a0ea1b814a083b9b3539a",
-    "title": "To stop crims, Google starts dismantling residential proxy network they use to hide",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/google_ipidea_crime_network/",
-    "summary": "<h4>The Chocolate Factory strikes again, targeting the infrastructure attackers use to stay anonymous</h4> <p>Crims love to make it look like their traffic is actually coming from legit homes and businesses, and they do so by using residential proxy networks. Now, Google says it has \"significantly degraded\" what it believes is one of the world's largest residential proxy networks.…</p>",
-    "isoDate": "2026-01-29T17:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "90075c1252b4e0231126507d1b14deaf55f69ad8",
-    "title": "AV vendor goes to war with security shop over update server scare",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/escan_morphisec_dispute/",
-    "summary": "<h4>eScan lawyers up after Morphisec claimed 'critical supply-chain compromise'</h4> <p>A spat has erupted between antivirus vendor eScan and threat intelligence outfit Morphisec over who spotted an update server incident that disrupted some eScan customers earlier this month.…</p>",
-    "isoDate": "2026-01-29T16:58:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0a0479a9a99ae1aafb2d33880eb9ff3504795978",
-    "title": "Uncle Sam dangles nuclear campuses for states while watering down safety rules",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/us_nuclear_campuses/",
-    "summary": "<h4>Governors offered atomic megasites and federal cash as hundreds of pages of regulations go missing</h4> <p>The Department of Energy (DOE) is inviting US states to host \"Nuclear Lifecycle Innovation Campuses\" to revitalize atomic power amid reports the agency has weakened safety rules governing the way nuclear sites operate.…</p>",
-    "isoDate": "2026-01-29T16:33:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "64b3dfb3aaccb4f6da9e2c44732ed9d186331a19",
-    "title": "Systemd daddy quits Microsoft to prove Linux can be trusted",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/lennart_poettering_quits_microsoft/",
-    "summary": "<h4>Lennart Poettering's Amutable aims to bring 'cryptographically verifiable integrity' to the other OS</h4> <p>Linux celeb Lennart Poettering has left Microsoft and co-founded a new company, Amutable, with Chris Kühl and Christian Brauner.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-29T16:08:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "96329a8757d397122a9962d6caa72a25f5cd0d40",
-    "title": "IBM says AI is insane in the mainframe as z17 sales surge",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/ibm_q4_2025/",
-    "summary": "<h4>Big Blue leaning on software smarts to modernize COBOL estates and cut costs</h4> <p>IBM's leader has trumpeted an AI-on-the-mainframe future as generative AI fills in the COBOL gap left by earlier generations of techies.…</p>",
-    "isoDate": "2026-01-29T15:43:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
