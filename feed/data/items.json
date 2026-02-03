@@ -1,5 +1,105 @@
 [
   {
+    "id": "04bc0261caa3ff98118c03663748320bfc55bf01",
+    "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
+    "link": "https://arstechnica.com/apple/2026/02/xcode-26-3-adds-support-for-claude-codex-and-other-agentic-tools-via-mcp/",
+    "summary": "With Model Context Protocol (MCP), this works with more than Codex/Claude, too.",
+    "isoDate": "2026-02-03T18:01:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "Apple",
+      "Anthropic",
+      "apple",
+      "Claude Agent",
+      "Codex",
+      "IDE",
+      "MCP",
+      "Model Context Protocol",
+      "openai",
+      "Xcode"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-500x500-1770141251.png",
+    "pinned": false
+  },
+  {
+    "id": "92daa2aedde8de1fc2faab3314373e51d80bce5c",
+    "title": "Wing Commander III: \"Isn't that the guy from Star Wars?\"",
+    "link": "https://arstechnica.com/gaming/2026/02/wing-commander-iii-the-game-kind-of-sucked-but-the-experience-blew-me-away/",
+    "summary": "C:\\ArsGames looks a vanguard of the multimedia FMV future that never quite came to pass.",
+    "isoDate": "2026-02-03T17:29:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Lee Hutchinson",
+    "tags": [
+      "Gaming",
+      "C:\\ArsGames",
+      "Chris Roberts",
+      "christopher roberts",
+      "flight sim",
+      "FMV",
+      "gog",
+      "Good Old Games",
+      "Origin",
+      "origin systems",
+      "retrogaming",
+      "space combat",
+      "space combat sim",
+      "Wing Commander",
+      "wing commander 3"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/wc3_boxart_sm-500x500-1770132187.jpg",
+    "pinned": false
+  },
+  {
+    "id": "61a1f7d2cac72fe1fa0b2d48c22bd4d0ab72ea0c",
+    "title": "CISA updated ransomware intel on 59 bugs last year without telling defenders",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/greynoise_cisa_ransomware_gripe/",
+    "summary": "<h4>GreyNoise's Glenn Thorpe counts the cost of missed opportunities</h4> <p>On 59 occasions throughout 2025, the US Cybersecurity and Infrastructure Security Agency (CISA) silently tweaked vulnerability notices to reflect their use by ransomware crooks. Experts say that's a problem.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-03T17:17:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c26930089f392de3991cc538cad4a877514f5c72",
+    "title": "Upset at reports that he'd given up, Trump now wants $1B from Harvard",
+    "link": "https://arstechnica.com/tech-policy/2026/02/upset-at-reports-that-hed-given-up-trump-now-wants-1b-from-harvard/",
+    "summary": "Hefty \"fine\" comes in wake of NY Times reporting of money-free settlement.",
+    "isoDate": "2026-02-03T17:08:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Policy",
+      "education",
+      "funding",
+      "Harvard",
+      "lawsuit",
+      "research funding",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-578751544-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "308813b3eb2dbfcd3ec9bf493da0b0d5080b86d6",
+    "title": "Palantir declares itself the guardian of Americans' rights",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/palantir_american_rights/",
+    "summary": "<h4>CEO Alex Karp meets criticism with soaring revenues and a sermon</h4> <p><strong>Opinion</strong>  Palantir had a whopper of a Q4, showing accelerating revenue growth, beating Wall Street's profit estimates, and enjoying a share price jump of as much as 11% during pre-market trading on Tuesday before coming back down to earth.…</p>",
+    "isoDate": "2026-02-03T17:08:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark and O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6fb72b0ffe2accf1fe7e13a5c7625c2db2f99a7d",
     "title": "Tesla to Increase Dashcam Recording History, Keeping Up To Last 24 Hours of Footage",
     "link": "https://www.notateslaapp.com/news/3561/tesla-to-increase-dashcam-recording-history-keeping-up-to-last-24-hours-of-footage",
@@ -287,7 +387,6 @@
     "category": "Tech",
     "author": "Stephen Clark",
     "tags": [
-      "Science",
       "Space",
       "artemis",
       "artemis II",
@@ -732,52 +831,6 @@
     "pinned": false
   },
   {
-    "id": "db85adcadcd5b48d8a26da4b91737df1e22cadc8",
-    "title": "Why Civilization VII is the way it is, and how its devs plan to win critics back",
-    "link": "https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/",
-    "summary": "Firaxis' Ed Beach and Dennis Shirk talk major overhauls in \"Test of Time\" update.",
-    "isoDate": "2026-02-02T17:00:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Gaming",
-      "2K Games",
-      "4X",
-      "civilization",
-      "Civilization VII",
-      "Dennis Shirk",
-      "early access",
-      "Ed Beach",
-      "Firaxis Games",
-      "game development",
-      "strategy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/yields-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fce0f03b0c3ee0cae75123e1c58fb4a324a9f9e6",
-    "title": "Here's what Cities: Skylines 2’s new developer is updating first",
-    "link": "https://arstechnica.com/gaming/2026/02/heres-what-cities-skylines-2s-new-developer-is-updating-first/",
-    "summary": "Visual upgrades include new UI, realistic snow cover, better lighting.",
-    "isoDate": "2026-02-02T16:32:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "cities skylines",
-      "city-builder",
-      "colossal",
-      "iceflake",
-      "paradox",
-      "SimCity"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/citiessnow-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "8a3ea604e1cc496138d01af2936bd012c7091a15",
     "title": "Tesla Reveals FSD Subscription Numbers for the First Time",
     "link": "https://www.notateslaapp.com/news/3551/tesla-reveals-fsd-subscription-numbers-for-the-first-time",
@@ -827,28 +880,6 @@
     "author": "Lindsay Clark",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "dee8f44bf6853691c103b0201fc3c30001efe01a",
-    "title": "Narwhals become quieter as the Arctic Ocean grows louder",
-    "link": "https://arstechnica.com/science/2026/02/narwhals-become-quieter-as-the-arctic-ocean-grows-louder/",
-    "summary": "Increasing shipping traffic is interfering with the whales’ ability to hunt and communicate.",
-    "isoDate": "2026-02-02T14:43:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Teresa Tomassoni",
-    "tags": [
-      "Science",
-      "cetaceans",
-      "climate change",
-      "conservation",
-      "narwhals",
-      "shipping",
-      "syndication",
-      "whales"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/narwhal-500x500.jpg",
     "pinned": false
   },
   {
@@ -1161,32 +1192,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fa1866bd4c52fbd9ca5b6c768ccb231a0f6510b6",
-    "title": "Thousands more Oregon residents learn their health data was stolen in TriZetto breach",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/trizetto_health_data_stolen/",
-    "summary": "<h4>Parent company Cognizant hit with multiple lawsuits</h4> <p>Thousands more Oregonians will soon receive data breach letters in the continued fallout from the TriZetto data breach, in which someone hacked the insurance verification provider and gained access to its healthcare provider customers across multiple US states.…</p>",
-    "isoDate": "2026-01-30T18:32:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a3894c2a0a53e8b65efa03ca03f926cf01031682",
-    "title": "Feeling taxed by layoffs, IRS turns to AI helpers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/irs_ai_helpers/",
-    "summary": "<h4>Fewer humans, more bots - just in time for filing season</h4> <p>Tax season 2026 could be an interesting one as the IRS seeks to replace the staff it sent to the unemployment line with AI. Bots could handle tasks ranging from reviewing an org's request for tax-exempt status to processing amended individual filings.…</p>",
-    "isoDate": "2026-01-30T18:01:30Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
