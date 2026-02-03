@@ -1,5 +1,86 @@
 [
   {
+    "id": "a7b076cf8424546ac4c5288bac36a7da1054b288",
+    "title": "Critical React Native Metro dev server bug under attack as researchers scream into the void",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/critical_react_native_metro_server/",
+    "summary": "<h4>Too slow react-ion time</h4> <p>Baddies are exploiting a critical bug in React Native's Metro development server to deliver malware to both Windows and Linux machines, and yet the in-the-wild attacks still haven't received the \"broad public acknowledgement\" that they should, according to security researchers.…</p>",
+    "isoDate": "2026-02-03T19:01:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9f8fe6de430baf1d82308f10f50b01de6f88f4cb",
+    "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2",
+    "link": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
+    "summary": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube.",
+    "isoDate": "2026-02-03T18:56:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "Nintendo",
+      "Nintendo DS",
+      "nintendo switch",
+      "nintendo switch 2",
+      "ps2",
+      "Sony",
+      "sony playstation 2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/NintendoSwitchOLEDmodel_02-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "03f6500981bcbd200235c79762987e723e8742be",
+    "title": "Next-gen nuclear reactors safe enough to skip full environmental reviews, says Trump admin",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/nextgen_nuclear_reactors_skip_nepa_reviews/",
+    "summary": "<h4>DoE trims NEPA paperwork for advanced reactors</h4> <p>The Department of Energy says advanced nuclear reactor designs - many of which have so far existed mainly at the experimental, testing, or demonstration stage - generally pose limited environmental risk and can qualify for a streamlined environmental review for future projects.…</p>",
+    "isoDate": "2026-02-03T18:40:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e6443054d027ace8755ffbb2442694174bc72818",
+    "title": "Google court filings suggest ChromeOS has an expiration date",
+    "link": "https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/",
+    "summary": "ChromeOS may be canned once the current support guarantee has run its course.",
+    "isoDate": "2026-02-03T18:25:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "aluminium",
+      "android",
+      "ChromeOS",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/9_Lenovo-Chromebook-Plus-14-copy-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "66b82be9f989069b1a61da7d96115df023af9a3f",
+    "title": "Snowflake plugs PostgreSQL into its AI Data Cloud",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/snowflake_postgresql_ai_data/",
+    "summary": "<h4>Yes, it already had Unistore</h4> <p>Snowflake is launching a PostgreSQL database-as-a-service within its AI data environment to place transactional workloads alongside analytics and AI under a single set of governance rules.…</p>",
+    "isoDate": "2026-02-03T18:06:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "04bc0261caa3ff98118c03663748320bfc55bf01",
     "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
     "link": "https://arstechnica.com/apple/2026/02/xcode-26-3-adds-support-for-claude-codex-and-other-agentic-tools-via-mcp/",
@@ -9,6 +90,7 @@
     "category": "Tech",
     "author": "Samuel Axon",
     "tags": [
+      "AI",
       "Apple",
       "Anthropic",
       "apple",
@@ -27,7 +109,7 @@
     "id": "92daa2aedde8de1fc2faab3314373e51d80bce5c",
     "title": "Wing Commander III: \"Isn't that the guy from Star Wars?\"",
     "link": "https://arstechnica.com/gaming/2026/02/wing-commander-iii-the-game-kind-of-sucked-but-the-experience-blew-me-away/",
-    "summary": "C:\\ArsGames looks a vanguard of the multimedia FMV future that never quite came to pass.",
+    "summary": "C:\\ArsGames looks at a vanguard of the multimedia FMV future that never quite came to pass.",
     "isoDate": "2026-02-03T17:29:16Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -121,19 +203,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b05a4aa760e05134d2dee5760343c1959bdad4bc",
-    "title": "Robotics will break AI infrastructure: Here's what comes next",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/robotics-ai-infrastructure-next/",
-    "summary": "<h4>Robotics is forcing a fundamental rethink of AI compute, data, and systems design</h4> <p><strong>Partner Content</strong>  Physical AI and robotics are moving from the lab to the real world— and the cost of getting it wrong is no longer theoretical. With robots deployed in factories, warehouses, and public settings, large-scale simulation has become tightly coupled with real-world operations.…</p>",
-    "isoDate": "2026-02-03T16:00:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Evan Helda, Head of Physical AI at Nebius",
     "tags": [],
     "image": "",
     "pinned": false
@@ -763,48 +832,6 @@
     "pinned": false
   },
   {
-    "id": "b9d968360e8eb8d7fb3870b8650584feea1e2a88",
-    "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
-    "link": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
-    "summary": "When the eradication program began in 1986, there were a 3.5 million cases.",
-    "isoDate": "2026-02-02T18:08:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "carter",
-      "guinea worm",
-      "infection",
-      "Infectious disease",
-      "parasite"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-594370432-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ec9597388e48fdddd227582c4497f63fdd3c37d6",
-    "title": "OpenAI picks up pace against Claude Code with new Codex desktop app",
-    "link": "https://arstechnica.com/ai/2026/02/openai-picks-up-pace-against-claude-code-with-new-codex-desktop-app/",
-    "summary": "The macOS app does everything the CLI, IDE, and web interfaces do.",
-    "isoDate": "2026-02-02T18:00:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "agentic AI",
-      "Claude Code",
-      "Codex",
-      "coding",
-      "openai",
-      "Programming",
-      "software development"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Codex-dark-500x500-1770052646.jpg",
-    "pinned": false
-  },
-  {
     "id": "050c97a01be53ab51d3c68df1a4cbec28772a048",
     "title": "Oracle's first general on-prem release of its .ai database iteration draws skeptics",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/oracles_on_prem_ai_database/",
@@ -1166,32 +1193,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fd22876fb4b74dcad09208075030319623e410b2",
-    "title": "'Hey! I'm chatting here!' Fugazi answers doom NYC's AI bot",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/nyc_bot_fugazi_doom/",
-    "summary": "<h4>Lying means dying</h4> <p>Lying means dying, at least for one falsehood-peddling government AI. A Microsoft-powered chatbot that New York City rolled out to help business owners answer frequently asked questions – but was often wrong – has been silenced as the city grapples with a $12 billion budget shortfall.…</p>",
-    "isoDate": "2026-01-30T21:58:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2d8744b3274239d987569c1c79d719720f7db210",
-    "title": "Ex-Googler nailed for stealing AI secrets for Chinese startups",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/google_engineer_convicted_ai_secrets_china/",
-    "summary": "<h4>Network access from China and side hustle as AI upstart CEO aroused suspicion</h4> <p>A former Google software engineer has been convicted of stealing AI hardware secrets from the company for the benefit of two China-based firms, one of which he founded. The second startup intended to use these secrets to market its technology to PRC-controlled organizations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-01-30T21:26:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
