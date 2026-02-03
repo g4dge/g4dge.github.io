@@ -1,5 +1,91 @@
 [
   {
+    "id": "3b65a581c9d271fa577ebd77c57d5d532ecdbedc",
+    "title": "French cops raid X's Paris office in algorithmic bias probe",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/french_police_raid_x/",
+    "summary": "<h4>CEO Elon Musk summoned to defend the platform's corner</h4> <p>French police raided Elon Musk's X offices in Paris this morning as part of a criminal investigation into alleged algorithmic manipulation by foreign powers.…</p>",
+    "isoDate": "2026-02-03T13:09:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "777031844e65ca396e25405f446e9f0be9b41251",
+    "title": "Microsoft finally sends TLS 1.0 and 1.1 to the cloud retirement home",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/microsoft_tls_deprecations/",
+    "summary": "<h4>Azure Storage now requires version 1.2 or newer for encrypted connections</h4> <p>Today is the day Azure Storage stops supporting versions 1.0 and 1.1 of Transport Layer Security (TLS). TLS 1.2 is the new minimum.…</p>",
+    "isoDate": "2026-02-03T12:59:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8ee5e19787d96356021eae59a947926b9bfa4d45",
+    "title": "Polish cops bail 20-year-old bedroom botnet operator",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/polish_cops_ddos_arrest/",
+    "summary": "<h4>DDoSer of 'strategically important' websites admitted to most charges</h4> <p>Polish authorities have cuffed a 20-year-old man on suspicion of carrying out DDoS attacks.…</p>",
+    "isoDate": "2026-02-03T12:34:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e3dd14659727c9201663b4980c37cd59f37b6c09",
+    "title": "UK names Barnsley as first Tech Town to see whether AI can fix... well, anything",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/barnsley_ai_town/",
+    "summary": "<h4>South Yorkshire becomes ground zero for nationwide experiment with £500K seed funding</h4> <p><strong>AI-pocalypse</strong>  Barnsley, a town in South Yorkshire, England, best known for coal mining and glassmaking, is being thrust into the limelight as the country's first \"Tech Town\" – shoehorning AI into everything from local businesses to public services.…</p>",
+    "isoDate": "2026-02-03T12:25:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ea65474b37370878cb9c873330301773a06e695e",
+    "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
+    "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
+    "summary": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
+    "isoDate": "2026-02-03T12:00:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "agentic AI",
+      "AI agents",
+      "AI alignment",
+      "AI ethics",
+      "AI safety",
+      "AI security",
+      "AI self-preservation",
+      "cryptocurrency",
+      "machine learning",
+      "Moltbook",
+      "Moltbot",
+      "MoltBunker",
+      "OpenClaw",
+      "p2p",
+      "Peter Steinberger",
+      "prompt injection",
+      "prompt worm"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "933350877febfd0be84f909aafe3af00a196039f",
     "title": "Firefox makes AI optional, like it probably should have been all along",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/firefox_ai_kill_switch/",
@@ -909,26 +995,6 @@
     "pinned": false
   },
   {
-    "id": "35ec3a1948a1d9654ac3448f34b7c23123b1e36f",
-    "title": "Fungus could be the insecticide of the future",
-    "link": "https://arstechnica.com/science/2026/02/fungus-could-be-the-insecticide-of-the-future/",
-    "summary": "Plant chemicals made more potent by insect pests are detoxified by the fungus.",
-    "isoDate": "2026-02-01T12:00:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Elizabeth Rayne",
-    "tags": [
-      "Science",
-      "biochemistry",
-      "Biology",
-      "fungus",
-      "insecticides",
-      "pine beetles"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1541622283-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8d9df9d20ca0587ecce67dffe26e10ce50bbd24b",
     "title": "Sword of Damocles hangs over UK military’s Ajax as minister says back it or scrap it",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/01/uk_military_ajax_vehicle/",
@@ -1137,45 +1203,6 @@
     "pinned": false
   },
   {
-    "id": "3e91a7183165ad9456fd11c45d3405cd520a9206",
-    "title": "OpenAI gives ChatGPT models the chop – two weeks' notice, take it or leave it",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/openai_gpt_deprecations/",
-    "summary": "<h4>GPT-4o gets second death sentence after last year's reprieve, but this time barely anyone's bothered</h4> <p>OpenAI is sunsetting some of its ChatGPT models next month, a move it knows \"will feel frustrating for some users.\"…</p>",
-    "isoDate": "2026-01-30T12:59:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3ef1aa2d0589136904fa1de1adf0ae85de37aa85",
-    "title": "Phones down, brooms up: HashiCorp co-founder lectures business hopefuls",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/hashicorp_phone_lecture/",
-    "summary": "<h4>Stock management also important, says Mitchell Hashimoto</h4> <p>HashiCorp co-founder Mitchell Hashimoto took to X this week to unveil the secret of workplace success: stay off your phone, sweep the floor, and clean the machines after that.…</p>",
-    "isoDate": "2026-01-30T12:30:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Paul Kunert",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "71ad70badfd47c83c7121a8c75cef9a68e107e09",
-    "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
-    "summary": "<h4>Just because you're paranoid about digital sovereignty doesn't mean they're not after you</h4> <p><strong>Opinion</strong>  I'm an eighth-generation American, and let me tell you, I wouldn't trust my data, secrets, or services to a US company these days for love or money. Under our current government, we're simply not trustworthy.…</p>",
-    "isoDate": "2026-01-30T11:45:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Steven J. Vaughan-Nichols",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "ef976401fbf3624135149c9afb751bc22a0beade",
     "title": "The Skeptic Podcast – Episode 049",
     "link": "https://www.skeptic.org.uk/2026/01/the-skeptic-podcast-episode-049/",
@@ -1187,19 +1214,6 @@
     "tags": [
       "Podcast"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4a6a13845d9f426f4eef43ed185546f1fd7aeac5",
-    "title": "Mechanical mutts make it official: Now full-time at Sellafield's hot zones",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/sellafield_robot_dogs/",
-    "summary": "<h4>Spot's new cleanup gig involves gamma rays, alpha particles, and considerably less PPE than fleshy colleagues</h4> <p><strong>Bark!Bark!Bark!</strong>  Sellafield Ltd is to use Boston Dynamics' Spot robot dogs in \"routine, business-as-usual operations\" amid the ongoing cleanup and decommissioning of the notorious UK nuclear site.…</p>",
-    "isoDate": "2026-01-30T10:15:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
     "image": "",
     "pinned": false
   },
