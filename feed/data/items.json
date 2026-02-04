@@ -1,5 +1,59 @@
 [
   {
+    "id": "425684322111101f2ba83e2de0f6344840b2dfe4",
+    "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+    "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
+    "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
+    "isoDate": "2026-02-04T12:00:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Lee Hutchinson",
+    "tags": [
+      "Biz & IT",
+      "Features",
+      "AI",
+      "Anthropic",
+      "artificial inteligence",
+      "ChatGPT",
+      "chatgpt codex",
+      "Claude",
+      "Claude Code",
+      "Codex",
+      "gpt codex",
+      "LLM",
+      "openai",
+      "vibe coding"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lee-romance-violence-anything-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "58dc5f2018cdc31e14055698ed9ff7c8a9417b74",
+    "title": "EU's fishy digital certificate system leaves exporters floundering",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/catch_eu_fishing_problems/",
+    "summary": "<h4>Catch platform sinks under weight of bugs, missing species, and postal code gaffes while containers pile up at ports</h4> <p>Problems with a new digital European system for certifying fishing catches are hampering producers and delaying exports, according to ministers from several EU member states.…</p>",
+    "isoDate": "2026-02-04T11:53:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "SA Mathieson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2d38eb0dc5e06d18abea2bc45d9761828ebc68fe",
+    "title": "Universal £7,500 payout offered to PSNI staff over major data breach",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/psni_breach_compensation/",
+    "summary": "<h4>Affected police officers squeezed mental health services, relocated over safety fears</h4> <p>Police Service of Northern Ireland (PSNI) employees who had their details exposed in a significant 2023 data breach will each receive £7,500 ($10,279) as part of a universal offer of compensation.…</p>",
+    "isoDate": "2026-02-04T11:41:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "104a3785583cfa7f58a1745a173aba285b63dde5",
     "title": "SpaceX halts Falcon 9 flights after second stage anomaly",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/spacex_halts_falcon_9_flights/",
@@ -27,7 +81,7 @@
   },
   {
     "id": "f0d489ae77af4ac5ab2541d211a5c1d5c9b434c7",
-    "title": "'The EU runs on Microsoft' – and Uncle Sam could turn it off",
+    "title": "'The EU runs on Microsoft' – and Uncle Sam could turn it off, claims MEP",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/eu_foss_fears/",
     "summary": "<h4>Open source gains urgency as Europe reassesses reliance on US tech</h4> <p><strong>Open Source Policy Summit 2026</strong>  European tech leaders are waking up to the risk of the US simply turning off their IT services.…</p>",
     "isoDate": "2026-02-04T10:49:51Z",
@@ -42,7 +96,7 @@
     "id": "21e8411ffc7f03c3e0cad2c44a8acb218a061b15",
     "title": "AWS says you're on your own if media codec patent owners come knocking",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/aws_codec_patent_holders/",
-    "summary": "<h4>Service terms update removes infringement cover tied to audio and video encoding tech</h4> <p>Amazon is warning users of its media services that it will not protect them against patent infringement claims relating to media codec technology supported by those services.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Service terms update removes infringement cover tied to audio and video encoding tech</h4> <p><strong>Exclusive</strong>  Amazon is warning users of its media services that it will not protect them against patent infringement claims relating to media codec technology supported by those services.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-02-04T10:43:22Z",
     "source": "The Register",
     "category": "Tech",
@@ -964,25 +1018,6 @@
     "pinned": false
   },
   {
-    "id": "0f30f5041855846a1d8b59d55f11b2c0d1c8e831",
-    "title": "Notepad++ users take note: It's time to check if you're hacked",
-    "link": "https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/",
-    "summary": "Suspected China-state hackers used update infrastructure to deliver backdoored version.",
-    "isoDate": "2026-02-02T20:30:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "notepad",
-      "Open source software",
-      "supply chain attacks"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "afa2275f9231dba660b654a38c8248a8d9ce0bcc",
     "title": "Want more ads on your web pages? Try the AdBoost extension",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/ads_web_pages_adboost_extension/",
@@ -1134,19 +1169,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "278aadd3f7fadde4f3e70bbed8d7e351a1e81306",
-    "title": "US TikTok service restored after cloud 'that doesn't go down' went down",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/tiktok_service_restored_us/",
-    "summary": "<h4>Winter storm knocks out Oracle datacenter, despite Larry Ellison's reliability boasts</h4> <p>TikTok has restored US services after winter storms hit an Oracle datacenter - the same infrastructure that Big Red's founder Larry Ellison previously claimed doesn't go down.…</p>",
-    "isoDate": "2026-02-02T13:03:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1389,19 +1411,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_98.jpg/38382cc2b6aad5eb90a2dc2c30f0d82f/group_98.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d92eabe5cc323b7170e92ad34030594b2b6874e8",
-    "title": "A Look at Tesla’s Robotaxi UI — and What Happens If You Touch the Steering Wheel",
-    "link": "https://www.notateslaapp.com/news/3528/a-look-at-teslas-robotaxi-ui-and-what-happens-if-you-touch-the-steering-wheel",
-    "summary": "Tesla's unsupervised Robotaxis feature a new Rider-First UI and strict steering wheel lockouts. Here is how the car handles passengers who try to take control.&hellip; <a href=\"https://www.notateslaapp.com/news/3528/a-look-at-teslas-robotaxi-ui-and-what-happens-if-you-touch-the-steering-wheel\">Read More</a>",
-    "isoDate": "2026-01-28T12:12:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/robotaxi-ui.webp/bfaedcefe8c985b15d7e9a194eec4143/robotaxi-ui.jpg",
     "pinned": false
   }
 ]
