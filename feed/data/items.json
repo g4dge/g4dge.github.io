@@ -1,5 +1,76 @@
 [
   {
+    "id": "ccc02332a33f45b9febaada9e56834c24fe0d436",
+    "title": "NASA finally acknowledges the elephant in the room with the SLS rocket",
+    "link": "https://arstechnica.com/space/2026/02/nasa-finally-acknowledges-the-elephant-in-the-room-with-the-sls-rocket/",
+    "summary": "\"You know, you're right, the flight rate—three years is a long time.\"",
+    "isoDate": "2026-02-04T14:41:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "NASA",
+      "nasa rocket",
+      "space",
+      "space launch system"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Artemis-II-at-the-pad-Full-Snow-Moon-02012026_8large-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f6243dff75c35b0f714602a91d31902ee9c95a96",
+    "title": "Tesla Announces Q4 2025 Supercharger Site Winners",
+    "link": "https://www.notateslaapp.com/news/3565/tesla-announces-q4-2025-supercharger-site-winners",
+    "summary": "Tesla announces winners of the Q4 2025 Supercharger vote, opens voting for Q1 2026.&hellip; <a href=\"https://www.notateslaapp.com/news/3565/tesla-announces-q4-2025-supercharger-site-winners\">Read More</a>",
+    "isoDate": "2026-02-04T14:26:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/0x0-supercharger_05.jpg/3a1caa57231cf513b9aae1707dde0ce4/0x0-supercharger_05.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5f833310f8dad374a755deba03506babd4a3100d",
+    "title": "Nitrogen ransomware is so broken even the crooks can't unlock your files",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/nitrogen_ransomware_broken_decryptor/",
+    "summary": "<h4>Gang walks away with nothing, victims are left with irreparable hypervisors</h4> <p>Cybersecurity experts usually advise victims against paying ransomware crooks, but that advice goes double for those who have been targeted by the Nitrogen group. There's no way to get your data back from them!…</p>",
+    "isoDate": "2026-02-04T13:50:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d7e02aee0b941c82ed6ef9d4156dda33ef06530d",
+    "title": "UK watchdog to rule on £246M Post Office subsidy over Horizon scandal and IR35",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/post_office_horizon_subsidy/",
+    "summary": "<h4>CMA's Subsidy Advice Unit reviewing state aid linked to redress and off-payroll tax costs</h4> <p>The UK competition regulator is set to report on a request for £246 million in subsidies to the Post Office, a publicly owned company, to cover its costs in compensation for the Horizon IT scandal and tax liability for IR35, a mechanism commonly used by tech consultants.…</p>",
+    "isoDate": "2026-02-04T13:34:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1e27da04e66032c395727d44e4e7810e158221c0",
+    "title": "Microsoft actually does something useful, adds Sysmon to Windows",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/microsoft_adds_sysmon_to_windows/",
+    "summary": "<h4>After years of bolting AI onto everything, Redmond remembers admins exist</h4> <p>There is good news for administrators: Microsoft has delivered on its promise to build Sysmon functionality into Windows.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-04T13:33:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "425684322111101f2ba83e2de0f6344840b2dfe4",
     "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
     "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
@@ -216,7 +287,7 @@
     "id": "f8ec1d92328041bc48a1e2737d6fa494a01b7c3e",
     "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
     "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
-    "summary": "80 percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
+    "summary": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
     "isoDate": "2026-02-03T23:41:39Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -981,30 +1052,6 @@
     "pinned": false
   },
   {
-    "id": "df94f233c568624de7d567c802930ef54223ba50",
-    "title": "Court orders restart of all US offshore wind construction",
-    "link": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
-    "summary": "Trump admin's \"it's classified\" ploy put on hold in five different cases.",
-    "isoDate": "2026-02-02T20:43:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Policy",
-      "Science",
-      "department of the interior",
-      "green",
-      "injunction",
-      "lawsuit",
-      "offshore wind",
-      "renewable energy",
-      "trump administration",
-      "wind power"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1623091024-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "866b430c3f3afed6576ffca80e82ae72773e130c",
     "title": "There's nothing micro about this super-sized Arduino Uno",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/arduino_uno/",
@@ -1130,45 +1177,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "356cd471e694382439969fe0253b2bb06b2a8c0d",
-    "title": "SAP refuses to budge on renewal discounts despite cloud growth slowdown",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/sap_renewal_discounts/",
-    "summary": "<h4>Drop in customers' cloud conversion rate causes share price to plunge 22% – steepest decline since 2020</h4> <p>SAP is refusing to change tack on renewal discounts despite lower-than-expected cloud forecasts prompting its biggest share price slide in five years.…</p>",
-    "isoDate": "2026-02-02T14:45:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8bf265da5dae50a5be1a10d45a9a202811610298",
-    "title": "OpenClaw patches one-click RCE as security Whac-A-Mole continues",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/openclaw_security_issues/",
-    "summary": "<h4>Researchers disclose rapid exploit chain that let attackers run code via a single malicious web page</h4> <p>Security issues continue to pervade the OpenClaw ecosystem, formerly known as ClawdBot then Moltbot, as multiple projects patch bot takeover and remote code execution (RCE) exploits.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-02T14:10:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "df87dceb9eed163eb1bc9e22954a41a535b1e7bb",
-    "title": "Microsoft spends billions on AI, converts just 3.3% of Copilot Chat users",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/microsoft_ai_spend_copilot/",
-    "summary": "<h4>CEO talks momentum while paid uptake remains minimal</h4> <p>Only 3.3 percent of Microsoft 365 and Office 365 users who touch Copilot Chat actually pay for it, an awkward figure that landed alongside Microsoft's $37.5 billion quarterly AI splurge and its insistence that the payoff is coming.…</p>",
-    "isoDate": "2026-02-02T14:01:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1398,19 +1406,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-49-6/tesla-app-modely-standard.webp/a34132d0e2d75e4befc1457b1e43c0e2/tesla-app-modely-standard.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b6c6ef73f5b98b496fa8112b0007840b8a5d4ca4",
-    "title": "Tesla's Earnings Call Today: Time of Event and How to Listen [REPLAY]",
-    "link": "https://www.notateslaapp.com/news/3544/teslas-earnings-call-today-time-of-event-and-how-to-listen-live",
-    "summary": "Tesla is holding its 2025 Q4 earnings call today, on January 28th at 2:30pm PT.&hellip; <a href=\"https://www.notateslaapp.com/news/3544/teslas-earnings-call-today-time-of-event-and-how-to-listen-live\">Read More</a>",
-    "isoDate": "2026-01-28T14:35:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_98.jpg/38382cc2b6aad5eb90a2dc2c30f0d82f/group_98.jpg",
     "pinned": false
   }
 ]
