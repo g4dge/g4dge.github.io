@@ -1,5 +1,66 @@
 [
   {
+    "id": "c10f5457d3ed28a69be562708465d3cd0d71f997",
+    "title": "Should AI chatbots have ads? Anthropic says no.",
+    "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+    "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
+    "isoDate": "2026-02-04T21:15:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "AI advertising",
+      "AI assistants",
+      "AI business models",
+      "Anthropic",
+      "chatbots",
+      "ChatGPT",
+      "Claude",
+      "machine learning",
+      "openai",
+      "sam altman"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "4f0064e5165500ec67d4ee4fd9786f7cc0522d82",
+    "title": "AWS intruder achieved admin access in under 10 minutes thanks to AI assist, researchers say",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/aws_cloud_breakin_ai_assist/",
+    "summary": "<h4>LLMs automated most phases of the attack</h4> <p>A digital intruder broke into an AWS cloud environment and in just under 10 minutes went from initial access to administrative privileges, thanks to an AI speed assist.…</p>",
+    "isoDate": "2026-02-04T21:09:42Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fbc0af126d60f2173316bf682ce34e28e0b788cc",
+    "title": "US House takes first step toward creating \"commercial\" deep space program",
+    "link": "https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/",
+    "summary": "\"We will continue to rely on the ingenuity of the private sector.\"",
+    "isoDate": "2026-02-04T21:01:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "Commercial",
+      "congress",
+      "deep space transportation",
+      "NASA",
+      "new glenn",
+      "space",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0060-1-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "48e69a09af5f61cd60f374904904565d3ce2e861",
     "title": "Anthropic cements its position as the not-OpenAI with no-ads pledge",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/anthropic_no_advertising_in_claude/",
@@ -399,22 +460,6 @@
     "pinned": false
   },
   {
-    "id": "cb21e7e1157d70420ff73274468fc6b777a1ea85",
-    "title": "Intellectual humility doesn’t require us to be open to absolutely anything being true",
-    "link": "https://www.skeptic.org.uk/2026/02/intellectual-humility-doesnt-require-us-to-be-open-to-absolutely-anything-being-true/",
-    "summary": "<p>It is right to have epistemic humility, and awareness of the limits of our knowledge - but that doesn't mean we need to be open to absolutely every possibility.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/02/intellectual-humility-doesnt-require-us-to-be-open-to-absolutely-anything-being-true/\">Intellectual humility doesn&#8217;t require us to be open to absolutely anything being true</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-02-04T10:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Aaron Rabinowitz",
-    "tags": [
-      "Philosophy",
-      "Skepticism"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "e1ed07fceca6adb53585c71c1847a24edd9fdb52",
     "title": "Lego shrinks NASA's biggest rocket – accuracy sold separately",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/lego_artemis/",
@@ -552,7 +597,7 @@
     "id": "97678d1eedd32ce879f8ed46e55e8dc002cdb81c",
     "title": "Sudo maintainer, handling utility for more than 30 years, is looking for support",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/sudo_maintainer_asks_for_help/",
-    "summary": "<h4>Many vital open source resources rely on the devotion of a few individuals</h4> <p>It's hard to imagine something as fundamental to computing as the sudo command becoming abandonware, yet here we are: its solitary maintainer is asking for help to keep the project alive.…</p>",
+    "summary": "<h4>Many vital open source resources rely on the devotion of a few individuals</h4> <p><strong>updated</strong>  It's hard to imagine something as fundamental to computing as the sudo command becoming abandonware, yet here we are: its solitary maintainer is asking for help to keep the project alive.…</p>",
     "isoDate": "2026-02-03T21:28:07Z",
     "source": "The Register",
     "category": "Tech",
@@ -897,24 +942,6 @@
     "pinned": false
   },
   {
-    "id": "1e3d137f587e93f298ccd2e552e84df91de32985",
-    "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
-    "link": "https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/",
-    "summary": "Resources are redirected from long-term research toward improving the flagship chatbot.",
-    "isoDate": "2026-02-03T14:02:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cristina Criddle, Financial Times",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "openai",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-500x500-1741196880.jpg",
-    "pinned": false
-  },
-  {
     "id": "8ab762c952eb2ce4e2847859f4b4f9c44802bc38",
     "title": "HP CEO prints final page after six years, moves to PayPal",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/enrique_lores_exits_hp/",
@@ -993,40 +1020,6 @@
     "pinned": false
   },
   {
-    "id": "ea65474b37370878cb9c873330301773a06e695e",
-    "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
-    "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
-    "summary": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
-    "isoDate": "2026-02-03T12:00:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "agentic AI",
-      "AI agents",
-      "AI alignment",
-      "AI ethics",
-      "AI safety",
-      "AI security",
-      "AI self-preservation",
-      "cryptocurrency",
-      "machine learning",
-      "Moltbook",
-      "Moltbot",
-      "MoltBunker",
-      "OpenClaw",
-      "p2p",
-      "Peter Steinberger",
-      "prompt injection",
-      "prompt worm"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "933350877febfd0be84f909aafe3af00a196039f",
     "title": "Firefox makes AI optional, like it probably should have been all along",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/firefox_ai_kill_switch/",
@@ -1062,21 +1055,6 @@
     "category": "Tech",
     "author": "Thomas Claburn",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e0236b61bdb1b6891fcd186d8e0c75adcaaec721",
-    "title": "From the archives: Ball Lightning – When to believe, and when to disbelieve?",
-    "link": "https://www.skeptic.org.uk/2026/02/from-the-archives-ball-lightning-when-to-believe-and-when-to-disbelieve/",
-    "summary": "<p>From the archives in 1992, Frank Chambers looks at rejection of the ball lightning phenomenon, and what it says about reactionary disbelief</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/02/from-the-archives-ball-lightning-when-to-believe-and-when-to-disbelieve/\">From the archives: Ball Lightning &#8211; When to believe, and when to disbelieve?</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-02-03T10:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Frank Chambers",
-    "tags": [
-      "Archive"
-    ],
     "image": "",
     "pinned": false
   },
@@ -1172,19 +1150,6 @@
     "pinned": false
   },
   {
-    "id": "866b430c3f3afed6576ffca80e82ae72773e130c",
-    "title": "There's nothing micro about this super-sized Arduino Uno",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/arduino_uno/",
-    "summary": "<h4>It's 7x the size of the regular board</h4> <p>Arduino boards power everything from robots to RGB lights, but they're a little on the small side. YouTuber UncleStem has his own solution: build a gigantic, yet fully functional one.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-02T20:31:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "8a3ea604e1cc496138d01af2936bd012c7091a15",
     "title": "Tesla Reveals FSD Subscription Numbers for the First Time",
     "link": "https://www.notateslaapp.com/news/3551/tesla-reveals-fsd-subscription-numbers-for-the-first-time",
@@ -1233,21 +1198,6 @@
     "category": "Long Reads",
     "author": "Ivan Franceschini & Ling Li",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a6e22f57e4b9e1e126995dc74d7fce34b47589fc",
-    "title": "Taylor Swift isn’t “MAGA-coded”, she is a lightning rod for conspiracist grievances",
-    "link": "https://www.skeptic.org.uk/2026/02/taylor-swift-isnt-maga-coded-she-is-a-lightning-rod-for-conspiracist-grievances/",
-    "summary": "<p>Conspiracy theorising around Taylor Swift being \"MAGA-coded\" is designed appeal to those who have already decided they dislike the pop megastar. </p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/02/taylor-swift-isnt-maga-coded-she-is-a-lightning-rod-for-conspiracist-grievances/\">Taylor Swift isn&#8217;t &#8220;MAGA-coded&#8221;, she is a lightning rod for conspiracist grievances</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-02-02T10:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Dave Hahn",
-    "tags": [
-      "Conspiracy Theories"
-    ],
     "image": "",
     "pinned": false
   },
@@ -1314,36 +1264,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/model-s-model-x-cropped.webp/6bc3a912b2a72b0ae9bfa73227e6efe3/model-s-model-x-cropped.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ef976401fbf3624135149c9afb751bc22a0beade",
-    "title": "The Skeptic Podcast – Episode 049",
-    "link": "https://www.skeptic.org.uk/2026/01/the-skeptic-podcast-episode-049/",
-    "summary": "<p>Featuring articles from Maeve Hanan (October 2024), Dave Hahn (December 2022), and Michael Marshall (June 2024).</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/01/the-skeptic-podcast-episode-049/\">The Skeptic Podcast &#8211; Episode 049</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-01-30T11:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "The Skeptic Podcast",
-    "tags": [
-      "Podcast"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "72f452c5445629b1c6cae0da24a38622086c3f3a",
-    "title": "No, a study didn’t show oat milk and veganism will make you depressed",
-    "link": "https://www.skeptic.org.uk/2026/01/no-a-study-didnt-show-oat-milk-and-veganism-will-make-you-depressed/",
-    "summary": "<p>The media warned that vegan diets and oat milk cause depression – based on a study that says nothing of the sort.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/01/no-a-study-didnt-show-oat-milk-and-veganism-will-make-you-depressed/\">No, a study didn&#8217;t show oat milk and veganism will make you depressed</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-01-30T10:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Michael Marshall",
-    "tags": [
-      "Nutrition"
-    ],
-    "image": "",
     "pinned": false
   },
   {
