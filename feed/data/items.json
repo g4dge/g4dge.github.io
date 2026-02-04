@@ -1,5 +1,55 @@
 [
   {
+    "id": "48e69a09af5f61cd60f374904904565d3ce2e861",
+    "title": "Anthropic cements its position as the not-OpenAI with no-ads pledge",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/anthropic_no_advertising_in_claude/",
+    "summary": "<h4>As profit-starved AI companies scramble to monetize chat interactions, Claude bets on trust</h4> <p>Anthropic has taken the high road by committing to keep its Claude AI model family free of advertising.…</p>",
+    "isoDate": "2026-02-04T20:37:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3575d190191c58e7b14d1fc0df496e5e7b544fa0",
+    "title": "Judge gives Musk bad news, says Trump hasn't intervened to block SEC lawsuit",
+    "link": "https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/",
+    "summary": "Musk is stuck fighting SEC suit seeking $150M in disgorgements from his Twitter takeover.",
+    "isoDate": "2026-02-04T20:23:47Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "Elon Musk",
+      "SEC",
+      "Securities and Exchange Commission",
+      "Twitter",
+      "X"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2217852297-500x500-1770233345.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cf26d7a81bae744c14c2036c95988dae25e555e7",
+    "title": "Trump admin is \"destroying medical research,\" Senate report finds",
+    "link": "https://arstechnica.com/health/2026/02/trump-admin-is-destroying-medical-research-senate-report-finds/",
+    "summary": "In a Senate hearing Tuesday, NIH director dismissed concern about research chaos.",
+    "isoDate": "2026-02-04T20:02:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "Bhattacharya",
+      "NIH"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259222585-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "61737091303daac485279cd9a71d349efbd98c48",
     "title": "\"Capture it all\": ICE urged to explain memo about collecting info on protesters",
     "link": "https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/",
@@ -1044,31 +1094,6 @@
     "pinned": false
   },
   {
-    "id": "7825c80617f4c95e6d22c1e9f0014c4b89377d28",
-    "title": "Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March",
-    "link": "https://arstechnica.com/space/2026/02/unable-to-tame-hydrogen-leaks-nasa-delays-launch-of-artemis-ii-until-march/",
-    "summary": "NASA spent most of Monday trying to overcome hydrogen leaks on the Artemis II rocket.",
-    "isoDate": "2026-02-03T08:06:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "artemis",
-      "artemis II",
-      "human spaceflight",
-      "Kennedy Space Center",
-      "launch",
-      "moon",
-      "NASA",
-      "orion",
-      "space launch system",
-      "wet dress rehearsal"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/AFRC2026-0017-15orig-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "94c3b6488394c312ff109de7893c63ebccb64e1f",
     "title": "Microsoft kills standalone SharePoint and OneDrive plans, because they’re not suite enough",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/microsoft_retires_sharepoint_onedrive_standalone/",
@@ -1121,29 +1146,6 @@
     "pinned": false
   },
   {
-    "id": "924852a6b20becb2725d13a6a559c063ff2f4f8a",
-    "title": "Looking back at Catacomb 3D, the game that led to Wolfenstein 3D",
-    "link": "https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/",
-    "summary": "Romero, Carmack, and colleagues discuss an oft-forgotten piece of PC gaming history.",
-    "isoDate": "2026-02-02T22:57:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "Carmack",
-      "Doom",
-      "History",
-      "id Software",
-      "john",
-      "PC gaming",
-      "romero",
-      "wolfenstein 3d"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/c3d-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "55c2a8f906789e69c885ceb521d57ffbf463d731",
     "title": "Let them eat Pi: RAM shortage bumps Raspberry prices as much as $60",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/raspberry_pi_ram_shortage_price_hike/",
@@ -1178,19 +1180,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "afa2275f9231dba660b654a38c8248a8d9ce0bcc",
-    "title": "Want more ads on your web pages? Try the AdBoost extension",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/ads_web_pages_adboost_extension/",
-    "summary": "<h4>'If we don't feed the advertisers, then we'll be forced to pay artists for their creative work'</h4> <p>Come on, admit it. You like seeing banner ads on your favorite web pages, because they provide a nice break from reading text. If you're honest about this feeling, there's a new extension for you.…</p>",
-    "isoDate": "2026-02-02T19:51:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
