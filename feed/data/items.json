@@ -1,5 +1,70 @@
 [
   {
+    "id": "3e129191b5d56742bb05a130b7f0a69787eb62e2",
+    "title": "n8n security woes roll on as new critical flaws bypass December fix",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/n8n_security_woes_roll_on/",
+    "summary": "<h4>Patch meant to close a severe expression bug fails to stop attackers with workflow access</h4> <p>Multiple newly disclosed bugs in the popular workflow automation tool n8n could allow attackers to hijack servers, steal credentials, and quietly disrupt AI-driven business processes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-05T11:38:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "129fa5fe03f31462a54ca87c4fd3ec59cbf296dc",
+    "title": "CentOS is coming to RISC-V soon if you have the kit",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/centos_coming_to_riscv_soon/",
+    "summary": "<h4>The RHELatives are more versatile than you might realize</h4> <p><strong>FOSDEM 2026</strong>  <a href=\"https://www.centos.org/events/connect/\" rel=\"nofollow\" target=\"_blank\">CentOS Connect 2026</a> took place in Brussels last week, over the two days preceding the sprawling FOSDEM festival of FOSS – the nerd world's Glastonbury, complete with the queues and the questionable hygiene.…</p>",
+    "isoDate": "2026-02-05T11:31:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "eb312d8f8a966f18b85d094f33556301fe40c753",
+    "title": "Africa’s cultural landmarks: Tsodilo Hills, Botswana",
+    "link": "https://aeon.co/videos/what-the-louvre-of-the-desert-reveals-about-the-human-story?utm_source=rss-feed",
+    "summary": "<p><img alt=\"Rock painting of animals in red pigment on a rough stone surface, depicting various quadrupeds across the rocky wall.\" src=\"https://images.aeonmedia.co/images/f5185e7d-04f4-4b95-ab4f-7b4e97729666/africa_s-cultural-landmarks-tsodilo-hills-botswana-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Rising far above the desert, the walls of these magnificent hills carry the ancient story of humanity’s creative spark</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/what-the-louvre-of-the-desert-reveals-about-the-human-story?utm_source=rss-feed\">Watch on Aeon</a></p>",
+    "isoDate": "2026-02-05T11:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "624a28cb2063834a8a2e7a2de685581d4b3d34ce",
+    "title": "Cloud sovereignty is no longer just a public sector concern",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/opennebula_sovereignty_interview/",
+    "summary": "<h4>Businesses still chase the cheapest option, but politics and licensing shocks are changing priorities, says OpenNebula</h4> <p><strong>Interview</strong>  Sovereignty remains a hot topic in the tech industry, but interpretations of what it actually means – and how much it matters – vary widely between organizations and sectors. While public bodies are often driven by regulation and national policy, the private sector tends to take a more pragmatic, cost-focused view.…</p>",
+    "isoDate": "2026-02-05T11:00:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b1b2ad7d768a132d94259f129016109a5ed1c33f",
+    "title": "Between being and emptiness",
+    "link": "https://aeon.co/essays/the-japanese-ethics-of-ningen-dethrones-the-western-self?utm_source=rss-feed",
+    "summary": "<p><img alt=\"A person in a garden facing a traditional Japanese building with a curved roof across a pond, surrounded by trees and bushes.\" src=\"https://images.aeonmedia.co/images/3a3973dd-4950-4c8a-a0c1-a683b33370ec/essay-par388351.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>In Japanese philosophy, unlike the atomised Western self, we are ‘ningen’ (人間), each enmeshed with other humans and nature</p><p><em>- by Takeshi Morisato</em></p><p><a href=\"https://aeon.co/essays/the-japanese-ethics-of-ningen-dethrones-the-western-self?utm_source=rss-feed\">Read on Aeon</a></p>",
+    "isoDate": "2026-02-05T11:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Takeshi Morisato",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5b3af980efa2c4cc98e49d3576a32fe69230e89d",
     "title": "UK justice system unplugs from ancient datacenters after five-year slog",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/uk_courts_cloud/",
@@ -1118,45 +1183,6 @@
     "pinned": false
   },
   {
-    "id": "777031844e65ca396e25405f446e9f0be9b41251",
-    "title": "Microsoft finally sends TLS 1.0 and 1.1 to the cloud retirement home",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/microsoft_tls_deprecations/",
-    "summary": "<h4>Azure Storage now requires version 1.2 or newer for encrypted connections</h4> <p>Today is the day Azure Storage stops supporting versions 1.0 and 1.1 of Transport Layer Security (TLS). TLS 1.2 is the new minimum.…</p>",
-    "isoDate": "2026-02-03T12:59:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8ee5e19787d96356021eae59a947926b9bfa4d45",
-    "title": "Polish cops bail 20-year-old bedroom botnet operator",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/polish_cops_ddos_arrest/",
-    "summary": "<h4>DDoSer of 'strategically important' websites admitted to most charges</h4> <p>Polish authorities have cuffed a 20-year-old man on suspicion of carrying out DDoS attacks.…</p>",
-    "isoDate": "2026-02-03T12:34:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e3dd14659727c9201663b4980c37cd59f37b6c09",
-    "title": "UK names Barnsley as first Tech Town to see whether AI can fix... well, anything",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/barnsley_ai_town/",
-    "summary": "<h4>South Yorkshire becomes ground zero for nationwide experiment with £500K seed funding</h4> <p><strong>AI-pocalypse</strong>  Barnsley, a town in South Yorkshire, England, best known for coal mining and glassmaking, is being thrust into the limelight as the country's first \"Tech Town\" – shoehorning AI into everything from local businesses to public services.…</p>",
-    "isoDate": "2026-02-03T12:25:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "e0236b61bdb1b6891fcd186d8e0c75adcaaec721",
     "title": "From the archives: Ball Lightning – When to believe, and when to disbelieve?",
     "link": "https://www.skeptic.org.uk/2026/02/from-the-archives-ball-lightning-when-to-believe-and-when-to-disbelieve/",
@@ -1370,32 +1396,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group-cropped.webp/13125f87604d305e6a4f80ad0adf62e8/group-cropped.jpg",
-    "pinned": false
-  },
-  {
-    "id": "02327a4bf455c2efde3f8df021c5ad44f24d3adb",
-    "title": "Inside, the valley sings",
-    "link": "https://aeon.co/videos/the-elaborate-places-ones-mind-wanders-in-solitary-confinement?utm_source=rss-feed",
-    "summary": "<p><img alt=\"Illustration of a person framing their face with their fingers wearing an orange shirt against a grey background.\" src=\"https://images.aeonmedia.co/images/4798593e-00e7-45cd-bd25-d7f96a9d4ec2/inside-the-valley-sings-landscape-1-v2.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Where does the mind go in solitary confinement? An evocative animation exploring three individual experiences</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/the-elaborate-places-ones-mind-wanders-in-solitary-confinement?utm_source=rss-feed\">Watch on Aeon</a></p>",
-    "isoDate": "2026-01-29T11:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5491b317a16e7c0c5552999ef1d9558e20641d89",
-    "title": "Is inherited wealth bad?",
-    "link": "https://aeon.co/essays/inherited-wealth-is-a-natural-byproduct-of-a-healthy-growing-economy?utm_source=rss-feed",
-    "summary": "<p><img alt=\"Two boys in colourful clothes standing beside a large painting of an elderly woman in a gold frame.\" src=\"https://images.aeonmedia.co/images/a704f328-1a95-4b9d-b9ad-0adda1365ab7/essay-gettyimages-2155870196.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Despite associations with the idle rich, the fact that inheritances are rising is a sign of a healthy, growing economy</p><p><em>- by Daniel Waldenström</em></p><p><a href=\"https://aeon.co/essays/inherited-wealth-is-a-natural-byproduct-of-a-healthy-growing-economy?utm_source=rss-feed\">Read on Aeon</a></p>",
-    "isoDate": "2026-01-29T11:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Daniel Waldenström",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
