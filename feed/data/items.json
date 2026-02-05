@@ -1,5 +1,69 @@
 [
   {
+    "id": "ab8a5d366486bf0fb8f8c0604c1c654e621f614f",
+    "title": "UK's 'world-first' deepfake detection framework unlikely to stop the fakes, says expert",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/uk_government_deepfake_framework/",
+    "summary": "<h4>Home Office enlists Microsoft to set industry standards as AI-generated forgeries surge from 500K to 8M in two years</h4> <p>The UK government claims it will develop a \"world-first\" framework to evaluate deepfake detection technologies as AI-generated content proliferates.…</p>",
+    "isoDate": "2026-02-05T14:38:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b361c90617768bec6993a6e8cf75e2cc25db99c7",
+    "title": "Steam Machine and Steam Frame delays are the latest product of the RAM crisis",
+    "link": "https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/",
+    "summary": "Valve says it still hopes to ship both devices \"in the first half of the year.\"",
+    "isoDate": "2026-02-05T14:22:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "steam frame",
+      "steam machine",
+      "steamos",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/valve-steam-machine-desktop-500x500-1770298750.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "9b1b2c17a409dbd0796e9c2c2afb623b15a244b2",
+    "title": "Increase of AI bots on the Internet sparks arms race",
+    "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+    "summary": "Publishers are rolling out more aggressive defenses.",
+    "isoDate": "2026-02-05T14:21:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Will Knight, Wired",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "AI agents",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/botai-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6088d7b110816fe79187ebef294f2c6bec6b848a",
+    "title": "Microsoft sets Copilot agents loose on your OneDrive files",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_onedrive_agents/",
+    "summary": "<h4>AI helpers can now rummage through multiple documents</h4> <p>Microsoft has made OneDrive agents generally available, allowing users to query multiple documents simultaneously through Copilot instead of just one at a time.…</p>",
+    "isoDate": "2026-02-05T14:15:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "325e254d5d9978a2525b68216fb9769077e17e1f",
     "title": "Curse of AI to push up PC prices as memory and CPU shortages bite",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/pc_prices_rising/",
@@ -1035,25 +1099,6 @@
     "pinned": false
   },
   {
-    "id": "e6443054d027ace8755ffbb2442694174bc72818",
-    "title": "Google court filings suggest ChromeOS has an expiration date",
-    "link": "https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/",
-    "summary": "ChromeOS may be canned once the current support guarantee has run its course.",
-    "isoDate": "2026-02-03T18:25:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "aluminium",
-      "android",
-      "ChromeOS",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/9_Lenovo-Chromebook-Plus-14-copy-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "66b82be9f989069b1a61da7d96115df023af9a3f",
     "title": "Snowflake plugs PostgreSQL into its AI Data Cloud",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/snowflake_postgresql_ai_data/",
@@ -1064,31 +1109,6 @@
     "author": "Lindsay Clark",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "04bc0261caa3ff98118c03663748320bfc55bf01",
-    "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
-    "link": "https://arstechnica.com/apple/2026/02/xcode-26-3-adds-support-for-claude-codex-and-other-agentic-tools-via-mcp/",
-    "summary": "With Model Context Protocol (MCP), this works with more than Codex/Claude, too.",
-    "isoDate": "2026-02-03T18:01:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Apple",
-      "Anthropic",
-      "apple",
-      "Claude Agent",
-      "Codex",
-      "IDE",
-      "MCP",
-      "Model Context Protocol",
-      "openai",
-      "Xcode"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-500x500-1770141251.png",
     "pinned": false
   },
   {
@@ -1128,32 +1148,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/dashcam_storage.png/dbaaf3833b8876f089745506dbe2a36a/dashcam_storage.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9b3c4ce935c6a8344aa2965f8731f9170bb3dbb4",
-    "title": "Azure outages ripple across multiple dependent Microsoft services",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/azure_virtual_machine_outage/",
-    "summary": "<h4>Managed Identity and virtual machine failures triggered knock-on problems throughout cloud platform</h4> <p>Microsoft has reported two Azure service wobbles in as many days, including a disruption affecting Virtual Machine management ops yesterday and a Managed Identity for Azure resources outage in East US and West US regions today.…</p>",
-    "isoDate": "2026-02-03T16:31:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a553474fefa94b8bc19664fde8c30d4890079650",
-    "title": "Europe shrugs off tariffs, plots to end tech reliance on US",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/europe_tariffs_forrester/",
-    "summary": "<h4>Governments and businesses respond to Trump pressures by upping spending in domestically controlled infrastructure</h4> <p>US tariffs may be squeezing Europe's trade balance, but they are also pushing governments and businesses to spend big on keeping tech closer to home.…</p>",
-    "isoDate": "2026-02-03T15:05:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1383,19 +1377,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/discounted_fsd_sub_eap.jpg/e84969fc5dbbdaa59166f49c00d4496a/discounted_fsd_sub_eap.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cfd392b24e36e0fb56d095ecedef3cc7c3d49c2c",
-    "title": "Everything Tesla Announced During Its Earnings Call: Model S/X Discontinued, Next Robotaxi Locations",
-    "link": "https://www.notateslaapp.com/news/3546/everything-tesla-announced-during-its-earnings-call-model-sx-discontinued-next-robotaxi-locations",
-    "summary": "A full recap of Tesla's Q4 2025 / Fiscal Year 2025 Earnings Call - everything announced, everything answered&hellip; <a href=\"https://www.notateslaapp.com/news/3546/everything-tesla-announced-during-its-earnings-call-model-sx-discontinued-next-robotaxi-locations\">Read More</a>",
-    "isoDate": "2026-01-29T14:46:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group-cropped.webp/13125f87604d305e6a4f80ad0adf62e8/group-cropped.jpg",
     "pinned": false
   }
 ]
