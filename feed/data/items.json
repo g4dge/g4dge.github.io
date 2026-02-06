@@ -1,5 +1,76 @@
 [
   {
+    "id": "dacaa3476204bbf63d19b24fe89ed73507fdd9d9",
+    "title": "A Look at Tesla's Automations App That Adds Apple Shortcuts Functionality to Your Tesla",
+    "link": "https://www.notateslaapp.com/news/3554/a-look-at-teslas-upcoming-automations-app",
+    "summary": "Tesla is developing a native Automations app. From UI sketches to specific triggers like AQI and Shift to Park, here is a preview of the new logic engine.&hellip; <a href=\"https://www.notateslaapp.com/news/3554/a-look-at-teslas-upcoming-automations-app\">Read More</a>",
+    "isoDate": "2026-02-06T14:47:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/automations.webp/ad6e4826049993ba8ad1422192c74853/automations.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fda2848ce7d38e39f289fcc4bf1164cfb2790350",
+    "title": "EU says TikTok needs to drop \"addictive design\"",
+    "link": "https://arstechnica.com/tech-policy/2026/02/eu-says-tiktok-needs-to-drop-addictive-design/",
+    "summary": "Regulators say design choices that hook users could breach EU's digital rules.",
+    "isoDate": "2026-02-06T14:31:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Barbara Moens, Financial Times",
+    "tags": [
+      "Policy",
+      "Digital Markets Act",
+      "EU",
+      "European Commision",
+      "tiktok"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1243334115-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5f3a6ad058a6f6bce21a2c7fc74d5df137223ec7",
+    "title": "Tesla's Cybercab Charging Port and Butterfly Doors in Action [VIDEO]",
+    "link": "https://www.notateslaapp.com/news/3564/teslas-cybercab-charging-port-and-butterfly-doors-in-action-video",
+    "summary": "Tesla’s Cybercab prototypes reveal a hidden NACS port and manual butterfly door operation as testing ramps up in Austin.&hellip; <a href=\"https://www.notateslaapp.com/news/3564/teslas-cybercab-charging-port-and-butterfly-doors-in-action-video\">Read More</a>",
+    "isoDate": "2026-02-06T14:15:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/cybercab-charging.webp/596b68d569660fe1a149cf330788b49e/cybercab-charging.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b106fd219b614c1e0eb3ce0affbe28cb8f413840",
+    "title": "Microsoft starts the countdown for the end of Exchange Web Services",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/microsoft_ews_shutdown/",
+    "summary": "<h4>Windows giant might try turning it off and on again to see who notices</h4> <p>Microsoft has laid out a timeline for the disablement and shutdown of Exchange Web Services (EWS) in Microsoft 365 and Exchange Online.…</p>",
+    "isoDate": "2026-02-06T13:51:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8c6d998f67364c0efed3540851f9c9ebe1519d59",
+    "title": "CISA orders federal agencies to rip out EOL edge kit before cybercrooks move in",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/cisa_eol_edge_order/",
+    "summary": "<h4>A year to replace end-of-support firewalls, routers, and VPN gateways</h4> <p>America's federal agencies have been told to hunt down and rip out aging firewalls, routers, and other network gatekeepers before attackers use them as skeleton keys into government systems.…</p>",
+    "isoDate": "2026-02-06T13:18:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "0360fcf973b2eaaae1e35325ce58f9b455817462",
     "title": "Rocket Report: SpaceX probes upper stage malfunction; Starship testing resumes",
     "link": "https://arstechnica.com/space/2026/02/rocket-report-spacex-probes-upper-stage-malfunction-starship-testing-resumes/",
@@ -994,32 +1065,6 @@
     "pinned": false
   },
   {
-    "id": "c10f5457d3ed28a69be562708465d3cd0d71f997",
-    "title": "Should AI chatbots have ads? Anthropic says no.",
-    "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
-    "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
-    "isoDate": "2026-02-04T21:15:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "AI advertising",
-      "AI assistants",
-      "AI business models",
-      "Anthropic",
-      "chatbots",
-      "ChatGPT",
-      "Claude",
-      "machine learning",
-      "openai",
-      "sam altman"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "4f0064e5165500ec67d4ee4fd9786f7cc0522d82",
     "title": "AWS intruder achieved admin access in under 10 minutes thanks to AI assist, researchers say",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/aws_cloud_breakin_ai_assist/",
@@ -1197,32 +1242,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1e27da04e66032c395727d44e4e7810e158221c0",
-    "title": "Microsoft actually does something useful, adds Sysmon to Windows",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/microsoft_adds_sysmon_to_windows/",
-    "summary": "<h4>After years of bolting AI onto everything, Redmond remembers admins exist</h4> <p>There is good news for administrators: Microsoft has delivered on its promise to build Sysmon functionality into Windows.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-04T13:33:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "58dc5f2018cdc31e14055698ed9ff7c8a9417b74",
-    "title": "EU's fishy digital certificate system leaves exporters floundering",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/catch_eu_fishing_problems/",
-    "summary": "<h4>Catch platform sinks under weight of bugs, missing species, and postal code gaffes while containers pile up at ports</h4> <p>Problems with a new digital European system for certifying fishing catches are hampering producers and delaying exports, according to ministers from several EU member states.…</p>",
-    "isoDate": "2026-02-04T11:53:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
     "tags": [],
     "image": "",
     "pinned": false
