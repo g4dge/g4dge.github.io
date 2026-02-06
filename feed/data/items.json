@@ -1,5 +1,62 @@
 [
   {
+    "id": "7ba6c8aa0ecf4cd8f61118ee944d39d86f9487b1",
+    "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
+    "link": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
+    "summary": "Incident is at least the third time the exchange has been targeted by thieves.",
+    "isoDate": "2026-02-06T22:16:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "cryptocurrency exchanges",
+      "malware",
+      "open source",
+      "supply chain attack"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bcc1b36410a5eefd22bce0ca7c31da68284ac14d",
+    "title": "Why $700 could be a \"death sentence\" for the Steam Machine",
+    "link": "https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/",
+    "summary": "Analysts expect Valve might be hit particularly hard by soaring RAM, storage prices.",
+    "isoDate": "2026-02-06T21:53:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "console",
+      "microsoft",
+      "Nintendo",
+      "pricing",
+      "Sony",
+      "Steam",
+      "steam machine",
+      "steamos",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2227105271-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e59cb9fd086340e9de2e32ae34f191d218b25020",
+    "title": "AI video company arouses fury by boasting about replacing creative jobs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/higgsfield_ai_job_loss/",
+    "summary": "<h4>Marketing stunt backfires with creators</h4> <p>The first rule of AI-generated job loss is you don't talk about AI-generated job loss ... if you're the company that caused it. Higgsfield.ai, a startup offering AI video creation tools, recently generated outrage when it claimed it had caused artists to hit the unemployment line.…</p>",
+    "isoDate": "2026-02-06T21:45:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1a976fcc7625f23e671ccc61debc2c3c62426953",
     "title": "COVID-19 cleared the skies but also supercharged methane emissions",
     "link": "https://arstechnica.com/science/2026/02/covid-19-cleared-the-skies-but-also-supercharged-methane-emissions/",
@@ -815,26 +872,6 @@
     "pinned": false
   },
   {
-    "id": "3768611b5901c1d16bdd80b8524e4f2740424705",
-    "title": "Google hints at big AirDrop expansion for Android \"very soon\"",
-    "link": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/",
-    "summary": "AirDrop came to the Pixel 10 last year, and more Android phones will join the party in 2026.",
-    "isoDate": "2026-02-05T18:06:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "AirDrop",
-      "android",
-      "file sharing",
-      "iphone"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-13-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bd2bc800983b59c6cefbc50845953ac94b4a5608",
     "title": "Tesla Is Adding \"Hey, Tesla\" Wake Word in China With Spatial Awareness",
     "link": "https://www.notateslaapp.com/news/3566/tesla-is-adding-hey-tesla-wake-word-in-china-with-spatial-awareness",
@@ -858,38 +895,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3e3cacc615c4980ee1be4a76b85ed0ed8ce690bf",
-    "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
-    "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
-    "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
-    "isoDate": "2026-02-05T17:46:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "advertising",
-      "AI assistants",
-      "AI behavior",
-      "AI ethics",
-      "AI sycophancy",
-      "Anthropic",
-      "chatbots",
-      "ChatGPT",
-      "Claude",
-      "Dario Amodei",
-      "greg brockman",
-      "Kate Rouch",
-      "machine learning",
-      "openai",
-      "sam altman",
-      "Super Bowl"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/anthropic_ad_2-500x500.jpg",
     "pinned": false
   },
   {
@@ -1239,19 +1244,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0d3333bd236692cbf21ce5a786910a804bcff622",
-    "title": "US Army looks for robots that can clean up chemical and bioweapons messes",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/army_bots_cleanup_ai_biological_chemical/",
-    "summary": "<h4>Just in time for the predicted rise of AI-assisted threats</h4> <p>It's bot versus bot! Just in time for the predicted rise of AI-made biological and chemical weapons, the US Army has plans to fight autonomy with autonomy by getting its hands on some bot-based chemical weapon cleanup tech.…</p>",
-    "isoDate": "2026-02-04T17:16:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
