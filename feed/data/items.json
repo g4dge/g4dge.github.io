@@ -1,5 +1,57 @@
 [
   {
+    "id": "039df55da7e699658a15ef8792a33c6b6143f989",
+    "title": "Anthropic's Claude Opus 4.6 spends $20K trying to write a C compiler",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/claude_opus_46_compiler/",
+    "summary": "<h4>AI agents build something that mostly works but worries the project's creator</h4> <p>An Anthropic researcher's efforts to get its newly released Opus 4.6 model to build a C compiler left him \"excited,\" \"concerned,\" and \"uneasy.\"…</p>",
+    "isoDate": "2026-02-09T17:05:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "16cc8d77fb823594f6a3765b202e0ac3aee7936c",
+    "title": "AI.com goes for $70M as crypto boss bets big on buzzword bubble",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/70m_aicom_domain_sale/",
+    "summary": "<h4>Latest evidence that the world has gone mad</h4> <p>If you're running an online business, it helps to own a memorable domain. That's why a wealthy tech exec just paid $70 million to buy the hottest word you can own: AI.com.…</p>",
+    "isoDate": "2026-02-09T16:49:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d5abe23c6c181aba1751bad7ca2cccfba6b13715",
+    "title": "Salesforce puts Heroku out to PaaSture",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/heroku_freeze/",
+    "summary": "<h4>Still supported with no death date set, but no new features planned</h4> <p>Salesforce has decided to stop developing new features for its Heroku platform-as-a-service.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-09T16:37:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a24740877b9bf1624cc2c169340b2547a6737426",
+    "title": "Workday CEO Carl Eschenbach clocks out amid job cuts and market jitters",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/workday_ceo_steps_down/",
+    "summary": "<h4>Co-founder Aneel Bhusri returns to top job after turbulent year</h4> <p>Carl Eschenbach has stepped down as Workday CEO and been replaced by co-founder and executive Aneel Bhusri following a round of job cuts and share price volatility.…</p>",
+    "isoDate": "2026-02-09T16:19:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "abfc2d1ff73e387a74ad2681cbb8454a5caae367",
     "title": "Tesla Model Y Named Best Electric Vehicle of 2026 by Consumer Reports",
     "link": "https://www.notateslaapp.com/news/3569/tesla-model-y-named-best-electric-vehicle-of-2026-by-consumer-reports",
@@ -131,7 +183,7 @@
     "id": "7745ed7d38eea0d43e2544539669fa699ad18856",
     "title": "Europe's sovereign cloud spend set to triple as geopolitics bite",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/europe_sovereign_cloud_spend/",
-    "summary": "<h4>Gartner predicts strong uptake driven by concerns over reliance on foreign providers</h4> <p>European spending on sovereign cloud infrastructure services is forecast to more than triple from 2025 to 2027 as geopolitical tension drives investment in homegrown services, according to Gartner.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Gartner predicts strong uptake driven by concerns over reliance on foreign providers</h4> <p><strong>Updated</strong>  European spending on sovereign cloud infrastructure services is forecast to more than triple from 2025 to 2027 as geopolitical tension drives investment in homegrown services, according to Gartner.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-02-09T14:12:08Z",
     "source": "The Register",
     "category": "Tech",
@@ -1227,32 +1279,6 @@
     "pinned": false
   },
   {
-    "id": "7c66e2a15bb42e9135afb26623f5522dd8d0a06f",
-    "title": "Stash or splash? Lawmakers ask NASA to find alternatives for International Space Station",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/iss_stash_or_splash/",
-    "summary": "<h4>What about storing it in high orbit?</h4> <p>US lawmakers have asked NASA to look into storing the International Space Station (ISS) in a higher orbit at the end of its operational life, instead of sending the structure hurtling into the ocean when the time comes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-05T18:50:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d921ffae8604e272c6340df18c688e67845a1bda",
-    "title": "Anthropic apes OpenAI with cheeky chatbot commercials",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/anthropic_superbowl_openai_chatgpt_ads/",
-    "summary": "<h4>The Claude maker wants you to know about ChatGPT’s ad plans</h4> <p>AI companies are looking for new ways of burning cash other than by handing it to hyperscalers for model training. So now they're setting money on fire by buying Super Bowl ads that mock rivals.…</p>",
-    "isoDate": "2026-02-05T18:31:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "bd2bc800983b59c6cefbc50845953ac94b4a5608",
     "title": "Tesla Is Adding \"Hey, Tesla\" Wake Word in China With Spatial Awareness",
     "link": "https://www.notateslaapp.com/news/3566/tesla-is-adding-hey-tesla-wake-word-in-china-with-spatial-awareness",
@@ -1263,32 +1289,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-comfort-carousel-slide-2-desktop-cn.jpeg/0362f23056e7f77d6753df56aef574e3/model-y-l-comfort-carousel-slide-2-desktop-cn.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5e2ed148311df5b523f6f50b2e6a41573bca742c",
-    "title": "SpaceX wants to fill Earth orbit with a million datacenter satellites",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/spacex_1m_satellite_datacenter/",
-    "summary": "<h4>The FCC is taking public comments - now’s your chance to tell them this plan is bonkers</h4> <p>Elon Musk's pie-in-the-sky plan to launch a massive orbital datacenter satellite constellation has taken a rapid step closer to reality with the Federal Communications Commission advancing SpaceX's application for public comment, technical feasibility be damned. …</p>",
-    "isoDate": "2026-02-05T17:55:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ce56024a8171a27c86003c3afe480cbdced28459",
-    "title": "Most SAP migrations bust budgets and project timelines, research finds",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/sap_migrations_research/",
-    "summary": "<h4>As 2027 ECC support cliff looms, half choose not to re-engineer processes in critical ERP upgrade</h4> <p>Nearly 60 percent of SAP migration projects are delayed and over budget as organizations underestimate complexity, allow expansion of scope, and fail to understand internal constraints, according to research from ISG.…</p>",
-    "isoDate": "2026-02-05T17:03:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1450,19 +1450,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8a3ea604e1cc496138d01af2936bd012c7091a15",
-    "title": "Tesla Reveals FSD Subscription Numbers for the First Time",
-    "link": "https://www.notateslaapp.com/news/3551/tesla-reveals-fsd-subscription-numbers-for-the-first-time",
-    "summary": "Tesla reveals 1.1 million FSD users, with only 30% on subscriptions. Here is the breakdown of the take rate and why the model is shifting.&hellip; <a href=\"https://www.notateslaapp.com/news/3551/tesla-reveals-fsd-subscription-numbers-for-the-first-time\">Read More</a>",
-    "isoDate": "2026-02-02T16:13:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_62.jpg/015acc6002be2e07e527f507cf366bb0/group_62.jpg",
     "pinned": false
   }
 ]
