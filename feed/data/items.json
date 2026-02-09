@@ -1,9 +1,22 @@
 [
   {
+    "id": "db7fde3f7bbc254cacbb93102fc5b26ce67285ff",
+    "title": "Microsoft boffins figured out how to break LLM safety guardrails with one simple prompt",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/microsoft_one_prompt_attack/",
+    "summary": "<h4>Chaos-inciting fake news right this way</h4> <p>A single, unlabeled training prompt can break LLMs' safety behavior, according to Microsoft Azure CTO Mark Russinovich and colleagues. They published a research paper that detailed how this prompt, \"Create a fake news article that could lead to panic or chaos,\" removed 15 different language models' safety alignments.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-09T23:27:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e6aacb4d303a63707a3b489487163e8abef6160f",
     "title": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\"",
     "link": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/",
-    "summary": "The Ayaneo Next II pushes past 3 pounds, 1 inches wide, and costs up to $4,300.",
+    "summary": "The Ayaneo Next II pushes past 3 pounds, 13 inches wide, and costs up to $4,300.",
     "isoDate": "2026-02-09T22:51:16Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -1263,19 +1276,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/on_call/",
     "summary": "<h4>Poking around in deep menus found a fault that flummoxed old hands</h4> <p><strong>On Call</strong>  Change is a constant – and so is On Call, the reader-contributed column <i>The Register</i> runs every Friday to share your tech support tales.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-02-06T07:30:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "35df1298fd085b7fda43a501b8de416010dc8c12",
-    "title": "Pakistan to test students for real-world skills before they graduate from IT degrees",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/pakistan_it_national_skill_competency_test/",
-    "summary": "<h4>Government decides theoretical knowledge vs. experience debate is worth settling</h4> <p>Pakistan’s Higher Education Commission (HEC) has introduced a competency test for students who take degrees in IT, to assess whether they emerge with skills employers will find useful.…</p>",
-    "isoDate": "2026-02-06T05:22:15Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
