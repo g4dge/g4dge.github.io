@@ -1,5 +1,51 @@
 [
   {
+    "id": "5d5b26b0f02957d902fd0a26bb7612ead53edca5",
+    "title": "Google soaks up 1GW of Texas sunshine to power $185B AI spending spree",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/google_power_solar/",
+    "summary": "<h4>TotalEnergies PPA to supply 28TWh of electricity over next 15 years, weather permitting of course</h4> <p>Let's hope it's always sunny ... in Texas, at least for Google's sake. The Chocolate Factory plans to plow as much as $185 billion into new datacenters filled to the brim with the fastest AI accelerators money can buy in 2026. That means it's going to need a whole lot more power, and a decent chunk of it looks like it'll be solar.…</p>",
+    "isoDate": "2026-02-09T21:23:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "01f8c1efb7015ce63b4ba7136309bca10d8f2fca",
+    "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
+    "link": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
+    "summary": "<em>SpaceMolt</em> envisions a world where AI plays with itself and the humans just watch.",
+    "isoDate": "2026-02-09T21:09:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Gaming",
+      "agents",
+      "Claude Code",
+      "MMO",
+      "Moltbook"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltmining-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "5724fd03e177e33fc0aaf59ba34a2256e4f55925",
+    "title": "AI chatbots are no better at medical advice than a search engine",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/ai_chatbots_medical_advice_sucks/",
+    "summary": "<h4>And people make bad information worse by failing to provide chatbots with the right details</h4> <p>Healthcare researchers have found that AI chatbots could put patients at risk by giving shoddy medical advice.…</p>",
+    "isoDate": "2026-02-09T20:58:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "2b9605a6ac56480b1be5f8ba51d074530e91997f",
     "title": "Discord to start assuming all users are underage unless they prove otherwise",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/discord_demands_id_proof_of_age/",
@@ -14,7 +60,7 @@
   },
   {
     "id": "668bae2eaa63d332b013ed9b1f1e2588e0fd0e13",
-    "title": "Google locks YouTube Music lyrics behind paywall",
+    "title": "Google experiments with locking YouTube Music lyrics behind paywall",
     "link": "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/",
     "summary": "After a lengthy test, YouTube Music is making lyrics a premium feature.",
     "isoDate": "2026-02-09T20:40:13Z",
@@ -1013,25 +1059,6 @@
     "pinned": false
   },
   {
-    "id": "b05e3b44da2cae6f70f27299962d2427f643dc2b",
-    "title": "New critique debunks claim that trees can sense a solar eclipse",
-    "link": "https://arstechnica.com/science/2026/02/new-critique-debunks-claim-that-trees-can-sense-a-solar-eclipse/",
-    "summary": "Controversial 2025 study \"represents the encroachment of pseudoscience into the heart of biological research.\"",
-    "isoDate": "2026-02-06T16:17:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "botany",
-      "Debunking",
-      "plant behavior",
-      "plant communication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/dolomite4-500x500-1770221613.jpg",
-    "pinned": false
-  },
-  {
     "id": "233f340a69a794fa0247803cca1713239dc8e075",
     "title": "Summoning the spirit of the BBC Micro with a Pi 500+ and a can of spray paint",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/summoning_the_spirit_of_the/",
@@ -1252,32 +1279,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "726ed80eda6ffb32f4dd0c77aa1c4f35b466e42f",
-    "title": "Amazon can't build AI capacity fast enough, throws another $200B at the problem",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/amazon_earnings_q4_2025/",
-    "summary": "<h4>'As fast as we install this AI capacity, we are monetizing it,' says Amazon CEO Andy Jassy</h4> <p>AWS has an open cash spigot for AI infrastructure, with Amazon CEO Andy Jassy telling investors the company has been monetizing compute capacity as fast as it brings it online and it plans to double capacity by the end of 2027.…</p>",
-    "isoDate": "2026-02-06T02:13:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b9b1c36912ab268da452cd845902b5cf4acd155d",
-    "title": "Ad blocking is alive and well, despite Chrome's attempts to make it harder",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/chrome_mv3_no_harm_ad_blocking/",
-    "summary": "<h4>The end isn't nigh after all</h4> <p>Chrome's latest revision of its browser extension architecture, known as Manifest v3 (MV3), was widely expected to make content blocking and privacy extensions less effective than its predecessor, Manifest v2 (MV2).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-06T00:39:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
