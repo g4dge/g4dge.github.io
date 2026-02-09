@@ -1,5 +1,31 @@
 [
   {
+    "id": "2757aed1b51fb84202944c7e859edc033ce4f11d",
+    "title": "Brussels eyes crowbar for Meta's WhatsApp AI lockout",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/brussels_eyes_crowbar_for_metas/",
+    "summary": "<h4>Euro watchdog says Zuckercorp blocked rival assistants, weighs emergency action to force 'em back in</h4> <p>Brussels has accused Meta of breaking EU competition rules by locking rival AI chatbots out of WhatsApp, opening the door to emergency action that could force the tech giant to let competitors back onto the platform.…</p>",
+    "isoDate": "2026-02-09T12:46:38Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8f439a82c540d15d499c9d5155fb45168072f99d",
+    "title": "How the GNU C Compiler became the Clippy of cryptography",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/compilers_undermine_encryption/",
+    "summary": "<h4>Security devs forced to hide Boolean logic from overeager optimizer</h4> <p><strong>FOSDEM 2026</strong>  The creators of security software have encountered an unlikely foe in their attempts to protect us: modern compilers.…</p>",
+    "isoDate": "2026-02-09T12:07:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joab Jackson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9eb6476c465ab85535bfcb983f3de932da9d9dbb",
     "title": "Follow the money: Switzerland remains Europe's top destination for tech pay",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/switzerland_tech_salaries/",
@@ -160,7 +186,7 @@
   },
   {
     "id": "f23a4234f004daa0c9efde7112ad4fa339681f9e",
-    "title": "A Project Hail Mary final trailer? Yes please",
+    "title": "A Project Hail Mary final trailer? Yes please.",
     "link": "https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/",
     "summary": "\"There are infinite possibilities for this to go wrong.\"",
     "isoDate": "2026-02-08T23:26:37Z",
@@ -1266,32 +1292,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ea0d17b8054cbb2c54c0af4f21e4cf4506d5056a",
-    "title": "Italy claims cyberattacks 'of Russian origin' are pelting Winter Olympics",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/winter_olympics_russian_attacks/",
-    "summary": "<h4>Right on cue, petulant hacktivists attempt to disrupt yet another global sporting event</h4> <p>Italy's foreign minister says the country has already started swatting away cyberattacks from Russia targeting the Milano Cortina Winter Olympics.…</p>",
-    "isoDate": "2026-02-05T11:49:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3e129191b5d56742bb05a130b7f0a69787eb62e2",
-    "title": "n8n security woes roll on as new critical flaws bypass December fix",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/n8n_security_woes_roll_on/",
-    "summary": "<h4>Patch meant to close a severe expression bug fails to stop attackers with workflow access</h4> <p>Multiple newly disclosed bugs in the popular workflow automation tool n8n could allow attackers to hijack servers, steal credentials, and quietly disrupt AI-driven business processes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-05T11:38:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
