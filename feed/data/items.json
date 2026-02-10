@@ -1,5 +1,52 @@
 [
   {
+    "id": "e55d2f5a5ac5cf379e9f42eccf433dfeb7133efe",
+    "title": "Microsoft dials up the nagging in Windows, calls it security",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/microsoft_windows_security/",
+    "summary": "<h4>More prompts when apps and agents roam around a user's system</h4> <p>Microsoft is introducing a raft of Windows security features that users and administrators alike might assume are already part of the operating system.…</p>",
+    "isoDate": "2026-02-10T15:05:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "81afa7bda451b7a13aaa1267e19c3e683c9517b3",
+    "title": "Alphabet selling very rare 100-year bonds to help fund AI investment",
+    "link": "https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/",
+    "summary": "Alphabet becomes first tech company to issue 100-year bonds in nearly three decades.",
+    "isoDate": "2026-02-10T14:44:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Euan Healy, Tim Bradshaw, and Michelle Chan, Financial Times",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "alphabet",
+      "debt",
+      "google",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/yields-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a45c2ab075a8d7929c5272a277015901e4af2fe7",
+    "title": "Oracle Java licensing worries are percolating through the userbase",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/oracle_java_licensing/",
+    "summary": "<h4>Survey finds nine in ten customers concerned as pricing changes push many toward open source alternatives</h4> <p>Concerns over changes to Oracle's Java licensing strategy are hitting more than nine out of ten users as businesses struggle to adapt to the regime, according to research.…</p>",
+    "isoDate": "2026-02-10T14:01:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "567b7bd691f1cb991fcb3a2aafb43b590c6a81a8",
     "title": "Singapore spent 11 months booting China-linked snoops out of telco networks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/singapore_telco_espionage/",
@@ -118,7 +165,7 @@
     "isoDate": "2026-02-10T10:45:11Z",
     "source": "The Register",
     "category": "Tech",
-    "author": "Paul Kunert",
+    "author": "Joe Fay",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1184,40 +1231,6 @@
     "pinned": false
   },
   {
-    "id": "7ef0329175517693850687728f00187b46de9f88",
-    "title": "Waymo leverages Genie 3 to create a world model for self-driving cars",
-    "link": "https://arstechnica.com/google/2026/02/waymo-leverages-genie-3-to-create-a-world-model-for-self-driving-cars/",
-    "summary": "With Genie 3, Waymo wants to explore rare and even impossible driving conditions.",
-    "isoDate": "2026-02-06T20:44:35Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Cars",
-      "Google",
-      "google",
-      "self-driving car",
-      "waymo",
-      "world models"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Waymo-IO-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "992316dcb2a135f317bd27f2663f52b0984638a2",
-    "title": "Let there be light! DARPA seeking physics-defying photonic computers to supercharge AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/darpa_seeking_physicsdefying_photonic_computers/",
-    "summary": "<h4>There’s about $35M up for grabs if your circuits can beat today’s limits</h4> <p>It's no lightweight matter. DARPA is putting about $35 million in total funding on the table in the hope that it will spur researchers to work around fundamental physical constraints and build much larger-scale photonic circuits that do more of the computing with light, not electronics.…</p>",
-    "isoDate": "2026-02-06T18:34:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "ff4b509f8299972b55e033a4ab8a39d9ad3992ad",
     "title": "Tesla Updates App to 4.53.5: Dashcam Multi-Delete, Charging Improvements",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.53.5/release-notes",
@@ -1228,19 +1241,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-53-5/dashcam-multi-delete.webp/aa0950cec0fe2a9d745e94f00ce629d0/dashcam-multi-delete.jpg",
-    "pinned": false
-  },
-  {
-    "id": "91f5d5c2f2e2bce59f877c6f52e983d3c6a15b35",
-    "title": "Four horsemen of the AI-pocalypse line up capex bigger than Israel's GDP",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/ai_capex_plans/",
-    "summary": "<h4>Amazon, Google, Meta, Microsoft eye $635B in infrastructure spend</h4> <p>Four tech megacorps intend to collectively fork out roughly $635 billion this year on capex, much of it for datacenters and AI infrastructure – more than the entire output of Israel's economy and well beyond all global cloud infrastructure services revenue generated last year.…</p>",
-    "isoDate": "2026-02-06T17:44:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1456,32 +1456,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/dashcam_storage.png/dbaaf3833b8876f089745506dbe2a36a/dashcam_storage.jpg",
-    "pinned": false
-  },
-  {
-    "id": "32150bba1f52ad20d3dcd04055006e656a500369",
-    "title": "SpaceX Acquires xAI; Building Data Centers in Space",
-    "link": "https://www.notateslaapp.com/news/3560/spacex-acquires-xai-building-data-centers-in-space",
-    "summary": "SpaceX acquires xAI, creating an orbital AI powerhouse to launch 100 GW of compute annually. Tesla's $2B stake secures its AI future.&hellip; <a href=\"https://www.notateslaapp.com/news/3560/spacex-acquires-xai-building-data-centers-in-space\">Read More</a>",
-    "isoDate": "2026-02-03T14:42:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/space-x/starship.jpg/715c14c2b22ccf4f9e94b97df2f20671/starship.jpg",
-    "pinned": false
-  },
-  {
-    "id": "00cdc22cb0045f784392681d56bea4d089f4558c",
-    "title": "Tesla Launches New, Cheaper Model Y AWD, Removes “Standard” Branding",
-    "link": "https://www.notateslaapp.com/news/3562/tesla-launches-new-cheaper-model-y-awd-removes-standard-branding",
-    "summary": "Tesla launches a new $41,990 Model Y AWD in the U.S. and rebrands its lineup to RWD, AWD, and Premium trims, dropping the Standard name.&hellip; <a href=\"https://www.notateslaapp.com/news/3562/tesla-launches-new-cheaper-model-y-awd-removes-standard-branding\">Read More</a>",
-    "isoDate": "2026-02-03T13:51:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/standard/modelystandard_84.jpg/1a370936fdcabdfcdd1b807a4d76ebfb/modelystandard_84.jpg",
     "pinned": false
   }
 ]
