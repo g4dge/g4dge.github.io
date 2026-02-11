@@ -1,5 +1,64 @@
 [
   {
+    "id": "6265a3e2a0231a909f4aa594c1b271a3f6cca6ab",
+    "title": "FDA refuses to review Moderna's mRNA flu vaccine",
+    "link": "https://arstechnica.com/health/2026/02/fda-refuses-to-review-modernas-mrna-flu-vaccine/",
+    "summary": "The move comes amid RFK Jr.'s relentless efforts to enact his anti-vaccine agenda.",
+    "isoDate": "2026-02-11T01:21:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "fda",
+      "flu",
+      "moderna",
+      "vaccine"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b0b63953dd9ab21c9d25787e4af8a54e484e211b",
+    "title": "Cisco looses Splunk to probe and tame its growing agentic menagerie",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/cisco_agentic_ai_update/",
+    "summary": "<h4>Just change the name to C<em>AI</em>sco already, Chuck</h4> <p>Cisco is on track to deliver its unified management tool Cloud Control later in 2026, but while its users wait for that moment it’s pumping out plenty more agentic tools to manage their networks – and make sure agents behave.…</p>",
+    "isoDate": "2026-02-11T00:58:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cba16946fb4bf44ac20d1c87038b256a448b41db",
+    "title": "AI connector for Google Calendar makes convenient malware launchpad, researchers show",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/claude_desktop_extensions_prompt_injection/",
+    "summary": "<h4>'Claude DXT's container falls noticeably short of what is expected from a sandbox'</h4> <p>LayerX, a security company based in Tel Aviv, says it has identified a zero-click remote code execution vulnerability in Claude Desktop Extensions that can be triggered by processing a Google Calendar entry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-11T00:24:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0f96eafb628d587e32da29ab13b6a65cd29ba5f2",
+    "title": "Market for gear that stops GPUs losing their cool is red hot as Trane gulps down LiquidStack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/trane_acquires_liquidstack/",
+    "summary": "<h4>Great time to be a liquid cooling startup</h4> <p>GPUs are so hot right now – literally and metaphorically – that they’re driving mergers and acquisitions in the datacenter cooling industry.…</p>",
+    "isoDate": "2026-02-11T00:08:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "2212ffc70cf316a543aea51f28253ac1353b2049",
     "title": "SpaceX's next-gen Super Heavy booster aces four days of \"cryoproof\" testing",
     "link": "https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/",
@@ -48,7 +107,7 @@
   },
   {
     "id": "696d539853b141f0bbace297a408e982101339c3",
-    "title": "AI face analysis used to predict MBA pay, researchers claim",
+    "title": "AI can predict your future salary based on your photo, boffins claim",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ai_face_analysis_mba_pay/",
     "summary": "<h4>Academics look at problematic algorithm to inform regulatory discussion</h4> <p>A picture is worth a thousand words or, perhaps, a hundred thousand dollars in extra salary. Academics claim that personality traits inferred using AI photo analysis can predict how depicted individuals will fare in the labor market.…</p>",
     "isoDate": "2026-02-10T21:24:58Z",
@@ -1165,65 +1224,6 @@
     "author": "Simon Sharwood",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c37ad638466a9ca8a1a61e0535344289e6c93951",
-    "title": "Cache is king and DIMMS are bling as memory prices soar",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/memory_price_rises_cashing_in/",
-    "summary": "<h4>Upgraders and home lab builders flaunt their memory-inflated wealth</h4> <p>The <a href=\"https://www.theregister.com/2026/02/02/dram_prices_expected_to_double/\" rel=\"nofollow\" target=\"_blank\">rising price of memory</a> has produced an interesting phenomenon: technologists wondering if the memory they have installed in home labs, or bottom drawers, might make them rich.…</p>",
-    "isoDate": "2026-02-09T06:58:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e72fb3440ac56afd0aa253bd1bd04dd85f5af503",
-    "title": "Indian police commissioner wants ID cards for AI agents",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/asia_tech_news_roundup/",
-    "summary": "<h4>PLUS: China broadens cryptocurrency crackdown; Australian facial recognition privacy revisited; Singapore debuts electric VTOL; and more!</h4> <p><strong>Asia In Brief</strong>  The Commissioner of Police in the Indian city of Hyderabad, population 11 million, has called for AI agents to be issued with identity cards – or at least their digital equivalent.…</p>",
-    "isoDate": "2026-02-09T04:08:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2644c846a6960c1511f85a54fd942168dd3b03ce",
-    "title": "Linus Torvalds keeps his ‘fingers and toes’ rule by decreeing next Linux will be version 7.0",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/linux_6_19_7_named/",
-    "summary": "<h4>But first, kernel 6.19 is upon us, with many goodies</h4> <p>Penguin emperor Linus Torvalds has announced the next version of the Linux kernel will be version 7.0, a matter of some small interest, because it continues his convention of not using version numbers he can’t count on his fingers and toes, and perhaps cements a numbering convention that sees kernel series end with version 19.…</p>",
-    "isoDate": "2026-02-09T00:44:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f23a4234f004daa0c9efde7112ad4fa339681f9e",
-    "title": "A Project Hail Mary final trailer? Yes please.",
-    "link": "https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/",
-    "summary": "\"There are infinite possibilities for this to go wrong.\"",
-    "isoDate": "2026-02-08T23:26:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "amazon mgm studios",
-      "andy weir",
-      "entertainment",
-      "project hail mary",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hailmary1-500x500-1770592187.jpg",
     "pinned": false
   },
   {
