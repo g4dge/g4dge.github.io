@@ -1,5 +1,57 @@
 [
   {
+    "id": "3c84018b0c9a3cbdcb77d6f1730b6617a563627c",
+    "title": "Trump official overruled FDA scientists to reject Moderna's flu shot",
+    "link": "https://arstechnica.com/health/2026/02/trump-official-overruled-fda-scientists-to-reject-modernas-flu-shot/",
+    "summary": "FDA's top vaccine regulator, Vinay Prasad, is known for overruling scientists.",
+    "isoDate": "2026-02-12T22:36:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "fda",
+      "moderna",
+      "vinay prasad"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-628879332-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bccde55dd80abadd9e89f7f181308ea0fc383127",
+    "title": "OpenAI dishes out its first model on a plate of Cerebras silicon",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/openai_model_cerebras/",
+    "summary": "<h4>GPT-5.3-Codex-Spark may be a mouthfull, but it's certainly fast at 1,000 Tok/s running on Nvidia rival's CS3 accelerators</h4> <p>Nvidia and AMD can take a seat. On Thursday, OpenAI unveiled GPT-5.3-Codex-Spark, its first model that will run on Cerebras Systems' dinner-place-sized AI accelerators, which feature some of the world's fastest on-chip memory.…</p>",
+    "isoDate": "2026-02-12T22:32:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b272c18aa84c957178cf4c746c6c7d500ed2b18b",
+    "title": "Spider-Noir teaser comes in colorized \"True Hue\" and black and white",
+    "link": "https://arstechnica.com/culture/2026/02/spider-noir-teaser-comes-in-colorized-true-hue-and-black-and-white/",
+    "summary": "Nicolas Cage described his character as \"70 percent Humphrey Bogart and 30 percent Bugs Bunny.\"",
+    "isoDate": "2026-02-12T22:14:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "entertainment",
+      "Nicolas Cage",
+      "prime video",
+      "Spider-Noir",
+      "streaming television",
+      "Trailers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/noirTOP-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "57241a2ca7e5a4f19f44dc401129b7a3d4449d39",
     "title": "Waymo launching China-made van that won't fail in rain, snow, or gloom of night",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/waymo_6th_gen_autonomous_driving_system/",
@@ -697,25 +749,6 @@
     "pinned": false
   },
   {
-    "id": "d8528acea38efdf22c4a0632012a512a2cc51ad2",
-    "title": "Did seabird poop fuel rise of Chincha in Peru?",
-    "link": "https://arstechnica.com/science/2026/02/did-seabird-poop-fuel-rise-of-chincha-in-peru/",
-    "summary": "Guano dramatically boosted the production of maize, and the surplus helped fuel the Chincha Kingdom’s economy.",
-    "isoDate": "2026-02-11T20:55:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "archaelogy",
-      "Chincha Kingdom",
-      "Ecology",
-      "guano"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/chinchaTOP-500x500-1770834521.jpg",
-    "pinned": false
-  },
-  {
     "id": "80db98bc6ec551b2d24fa8cbd5f79fd61bd3d2f5",
     "title": "Meta will let users tweak Threads algorithms as long as they ask nicely",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/meta_threads_algo_tweak/",
@@ -1129,19 +1162,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "910583968944db3e4c7f45b2618bf016c98a633c",
-    "title": "Cadence heard you wanted some AI in your AI so it used AI to design an AI chip",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/cadences_agentic_chip_design_tool/",
-    "summary": "<h4>Nvidia, Qualcomm, and Altera among the first to trial EDA giant's AI chip design agent</h4> <p>The idea of machines that can build even better machines sounds like sci-fi, but the concept is becoming a reality as companies like Cadence tap into generative AI to design and validate next-gen processors that also use AI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-10T20:31:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
     "tags": [],
     "image": "",
     "pinned": false
