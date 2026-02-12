@@ -1,5 +1,123 @@
 [
   {
+    "id": "5229a5f87ff8541d866a68b9a22d62e35da6bbd3",
+    "title": "Trump FTC wants Apple News to promote more Fox News and Breitbart stories",
+    "link": "https://arstechnica.com/tech-policy/2026/02/trump-ftc-denies-being-speech-police-but-says-apple-news-is-too-liberal/",
+    "summary": "FTC claims Apple News suppresses conservatives, cites study by pro-Trump group.",
+    "isoDate": "2026-02-12T20:30:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "andrew ferguson",
+      "Apple News",
+      "FTC",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/apple-news-app-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ad1e1e0e3a3935e390a7cfb39ac37332a31c4919",
+    "title": "Who's the bossware? Ransomware slingers like employee monitoring tools, too",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/ransomware_slingers_bossware/",
+    "summary": "<h4>As if snooping on your workers wasn't bad enough</h4> <p>Your supervisor may like using employee monitoring apps to keep tabs on you, but crims like the snooping software even more. Threat actors are now using legit bossware to blend into corporate networks and attempt ransomware deployment.…</p>",
+    "isoDate": "2026-02-12T20:07:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d589aa2afc66abbbee9bf32455e2d7dc9e401688",
+    "title": "DIY PC maker Framework has needed monthly price hikes to navigate the RAM shortage",
+    "link": "https://arstechnica.com/gadgets/2026/02/frameworks-ram-prices-climbing-on-a-monthly-cadence-with-more-hikes-to-come/",
+    "summary": "And Framework expects things to get worse before they get better.",
+    "isoDate": "2026-02-12T20:03:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "framework",
+      "framework desktop",
+      "framework laptop"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/IMG_2928-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "f1743306acc5a201c88ada4dff8d37ae9305e327",
+    "title": "Tesla’s New Automations Feature in Action [VIDEO]",
+    "link": "https://www.notateslaapp.com/news/3589/teslas-new-automations-feature-in-action-video",
+    "summary": "Tesla's new Automations feature brings 'If This, Then That' logic to your car. Here is an in-depth look at the Triggers, Actions, and safety guardrails.&hellip; <a href=\"https://www.notateslaapp.com/news/3589/teslas-new-automations-feature-in-action-video\">Read More</a>",
+    "isoDate": "2026-02-12T20:01:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/automations-2.webp/4264be3366c3331e5b428cb9c28b4674/automations-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "df92eeb39f6aae35d0a411dd8afd5b8773fc2b37",
+    "title": "It took two years, but Google released a YouTube app on Vision Pro",
+    "link": "https://arstechnica.com/gadgets/2026/02/it-took-two-years-but-google-released-a-youtube-app-on-vision-pro/",
+    "summary": "App arrives months after Google requested takedowns of third-party options.",
+    "isoDate": "2026-02-12T19:53:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "Apple",
+      "Google",
+      "Tech",
+      "apple",
+      "Apple Vision Pro",
+      "google",
+      "mixed reality",
+      "vision pro",
+      "visionOS",
+      "XR",
+      "YouTube"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Vision-Pro-YouTube-500x500-1770924348.png",
+    "pinned": false
+  },
+  {
+    "id": "c4e7fb787ed7e482b061de8d0e9fe0d012e27a14",
+    "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+    "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+    "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
+    "isoDate": "2026-02-12T19:42:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Benj Edwards",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Google",
+      "AI language models",
+      "AI security",
+      "ChatGPT",
+      "chatgtp",
+      "deepseek",
+      "Distillation",
+      "gemini",
+      "google",
+      "Google Gemini",
+      "large language models",
+      "LLMs",
+      "machine learning",
+      "openai"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "607cfbf45e0210b954a153400e80bafc5cd1bec8",
     "title": "Bringing the \"functionally extinct\" American chestnut back from the dead",
     "link": "https://arstechnica.com/science/2026/02/can-modern-genetics-help-us-restore-the-appalachian-forests-of-the-1800s/",
@@ -595,25 +713,6 @@
     "pinned": false
   },
   {
-    "id": "cb8b2ac49e3a2973ccea5c59dd7a41f14cd84464",
-    "title": "Google recovers \"deleted\" Nest video in high-profile abduction case",
-    "link": "https://arstechnica.com/google/2026/02/google-recovers-deleted-nest-video-in-high-profile-abduction-case/",
-    "summary": "Users only get three hours of free Nest video storage, but Google can retrieve videos much later.",
-    "isoDate": "2026-02-11T20:15:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "google",
-      "Nest",
-      "privacy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Nest-Doorbell-2024-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "569b4b5a15d16f14dbe58faa8bc74b7f5742ed09",
     "title": "Lawmakers demand great wall to keep advanced chipmaking gear out of China",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/lawmakers_china_cut_off_advaced_chipmaking/",
@@ -627,23 +726,6 @@
     "pinned": false
   },
   {
-    "id": "92ae613107156425954698804c8167d7905a77e5",
-    "title": "US decides SpaceX is like an airline, exempting it from Labor Relations Act",
-    "link": "https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/",
-    "summary": "US labels SpaceX a common carrier by air, will regulate firm under railway law.",
-    "isoDate": "2026-02-11T20:05:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "nlrb",
-      "spacex"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/musk-and-trump-500x500-1770838082.jpg",
-    "pinned": false
-  },
-  {
     "id": "52bcc3dcbaf94e17f8731b3d617fe59f8cf32f74",
     "title": "AI spurs employees to work harder, faster, and with fewer breaks, study finds",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/ai_makes_employees_work_harder/",
@@ -654,50 +736,6 @@
     "author": "O'Ryan Johnson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d92575d95cbfb20b7be6e933a285e64ff72045fa",
-    "title": "Apple releases iOS 26.3 with updates that mainly benefit non-Apple devices",
-    "link": "https://arstechnica.com/gadgets/2026/02/apple-releases-ios-26-3-with-updates-that-mainly-benefit-non-apple-devices/",
-    "summary": "It's getting a little easier to move from iOS to Android, if that's your thing.",
-    "isoDate": "2026-02-11T19:49:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Tech",
-      "apple",
-      "ios 26",
-      "ipados 26",
-      "macos 26 tahoe",
-      "watchos 26"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-500x500-1750706554.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "f6b055b6775c9135126ced748b35e1675c51e191",
-    "title": "China showcases new Moon ship and reusable rocket in one extraordinary test",
-    "link": "https://arstechnica.com/space/2026/02/china-showcases-new-moon-ship-and-reusable-rocket-in-one-extraordinary-test/",
-    "summary": "The test marks a significant step in China's push to land humans on the Moon by 2030.",
-    "isoDate": "2026-02-11T19:35:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "china",
-      "human spaceflight",
-      "launch",
-      "long march 10",
-      "mengzhou",
-      "moon",
-      "reusable rocket",
-      "Wenchang"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2261003763-500x500.jpg",
     "pinned": false
   },
   {
@@ -1140,19 +1178,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6e2303fe2b70017b44f0aad0c49d487f8bd603ac",
-    "title": "AFRINIC says it's back on track and will soon deliver the plan that proves it",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/afrinic_turnaround/",
-    "summary": "<h4>As the governance policy designed to protect regional internet registries nears completion</h4> <p><strong>APRICOT 2026</strong>  After years of strife, the African Network Information Centre (AFRINIC) is weeks away from signing off on a budget and action plan, activity that one of the organization’s newly appointed executives believes demonstrates it is back on track.…</p>",
-    "isoDate": "2026-02-10T16:55:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
