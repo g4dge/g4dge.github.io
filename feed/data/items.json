@@ -1,5 +1,31 @@
 [
   {
+    "id": "84e0095baaccc58bccad55a46e7fa0c3230592cd",
+    "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/google_china_apt31_gemini/",
+    "summary": "<h4>Meanwhile, IP-stealing 'distillation attacks' on the rise</h4> <p>A Chinese government hacking group that has been sanctioned for targeting America's critical infrastructure used Google's AI chatbot, Gemini, to auto-analyze vulnerabilities and plan cyberattacks against US organizations, the company says.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-12T07:00:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ebb3a6193ecac7caad60b9d25857391f1c775db2",
+    "title": "Starlink speeds past terrestrial networks – and regulators",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/starlink_challenges/",
+    "summary": "<h4>Low-earth orbit broadband is a no-brainer for remote area connectivity, but a brain teaser for lawmakers and networkers</h4> <p><strong>APRICOT 2026</strong>  Starlink can sometimes shift data more quickly than is possible on terrestrial networks, and improves connectivity in remote areas. But the space broadband service also presents new technical and regulatory challenges, according to speakers who took to the stage on Tuesday at the Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT) in Jakarta, Indonesia.…</p>",
+    "isoDate": "2026-02-12T06:03:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7881b1d83678d1dcde8976f0890da5a41abf9a43",
     "title": "Cisco hikes prices to cover memory cost rises, says you don’t much care",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/cisco_q2_2026/",
@@ -1155,32 +1181,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3115a5630d4ee8a8bf81f7376597067a720ec55c",
-    "title": "Dijkstra’s algorithm won’t be replaced in production routers any time soon",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/dijkstras_algorithm_impact_on_networks/",
-    "summary": "<h4>Researchers have found a new approach to finding shortest paths, but it's complex</h4> <p><strong>Systems Approach</strong>  Last year a couple of people forwarded to me the same article on a <a href=\"https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/\">new method of finding shortest paths in networks</a>.…</p>",
-    "isoDate": "2026-02-10T05:47:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Bruce Davie",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "946125797dff42d871947679fa5c85903f683c9e",
-    "title": "Yahoo<em>!</em> Japan<em>!</em> and <em>!</em> Line<em>!</em> to<em>!</em> merge<em>!</em> systems<em>!</em> into<em>!</em> massive<em>!</em> private<em>!</em> cloud<em>!</em>",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ly_corp_yahoo_line_private_cloud/",
-    "summary": "<h4>Just the sort of project that screams ‘years of delays and blowouts’, but Asian giant thinks it can beat Silicon Valley at its own game</h4> <p>LY Corporation, the Korean web giant that combines Yahoo<em>!</em> Japan and regional messaging colossus LINE, will try to build a unified private cloud for the brands, adopt AIOps, and get it all done in three years.…</p>",
-    "isoDate": "2026-02-10T03:58:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
