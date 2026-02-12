@@ -1,5 +1,66 @@
 [
   {
+    "id": "0e6708f5caeeabf577bfa108a9f2fb21e1d051ad",
+    "title": "Memory price explosion triggers PC buying spree",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/memory_pc_rush/",
+    "summary": "<h4>DRAM doubles, NAND jumps 70% as corporate buyers race the clock</h4> <p>Exploding memory prices are pushing corporate buyers to fast-track PC purchases before costs climb further.…</p>",
+    "isoDate": "2026-02-12T13:31:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "66c72e3b0e63bca4dde60f7c0456052e2853fa7a",
+    "title": "NASA pauses most Swift science ops to buy time for reboost mission",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/nasa_swift_reboost/",
+    "summary": "<h4>Anticipated summer launch is cutting it fine</h4> <p>NASA has ended most science operations on its Swift observatory to keep the spacecraft in orbit a little longer.…</p>",
+    "isoDate": "2026-02-12T12:35:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "02cf9cbdf850b8fdbc7a6fa8406a20603161ed31",
+    "title": "We let Chrome's Auto Browse agent surf the web for us—here's what happened",
+    "link": "https://arstechnica.com/google/2026/02/tested-how-chromes-auto-browse-agent-handles-common-web-tasks/",
+    "summary": "Auto Browse is capable of some impressive things, but it can also crash and burn spectacularly.",
+    "isoDate": "2026-02-12T12:00:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Features",
+      "Google",
+      "AI agents",
+      "Artificial Intelligence",
+      "browser agent",
+      "chrome",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0ee909af1845f15b6464e7d38cf70c7d6557eb77",
+    "title": "Supply chain attacks now fuel a 'self-reinforcing' cybercrime economy",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/supply_chain_attacks/",
+    "summary": "<h4>Researchers say breaches link identity abuse, SaaS compromise, and ransomware into a cascading cycle</h4> <p>Cybercriminals are turning supply chain attacks into an industrial-scale operation, linking breaches, credential theft, and ransomware into a \"self-reinforcing\" ecosystem, researchers say.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-12T11:59:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1ab83e27e540eec0c9d86b31b940bb6c63c2e1be",
     "title": "The big FOSS vendors don't eat their own dogfood – they pay for proprietary groupware",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/suse_runs_ms/",
@@ -958,24 +1019,6 @@
     "pinned": false
   },
   {
-    "id": "53066fd737f8ad2240f90269e8389b837d6d2016",
-    "title": "Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site",
-    "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/",
-    "summary": "DDoS hit blog that tried to uncover Archive.today founder's identity in 2023.",
-    "isoDate": "2026-02-10T19:29:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "archive.is",
-      "archive.today",
-      "wikipedia"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/wikipedia-500x500-1754933545.jpg",
-    "pinned": false
-  },
-  {
     "id": "91a626f830a365be7a0967917aed109c5c3c0cd1",
     "title": "Tesla Announces Specs for the Tesla Semi",
     "link": "https://www.notateslaapp.com/news/3580/tesla-announces-specs-for-the-tesla-semi",
@@ -1119,19 +1162,6 @@
     "pinned": false
   },
   {
-    "id": "c153e8b77bd8da84819bf6b4351d297c6b929d8e",
-    "title": "Apple, Google agree to loosen grip on UK app stores",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/apple_google_uk_app_stores/",
-    "summary": "<h4>Competition watchdog secures promises on approvals, rankings, and platform access</h4> <p>Apple and Google have pledged to change how their app stores operate in the UK following scrutiny from the Competition and Markets Authority (CMA), which is trying to curb their control over the app distribution pipelines feeding UK phones.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-10T12:34:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "ccfb8f85febbbc8bf68d7b40dba9cea4fca7d7cf",
     "title": "Tesla Cybertruck to Get Vehicle-to-Grid Support",
     "link": "https://www.notateslaapp.com/news/3576/tesla-cybertruck-gets-vehicle-to-grid-capabilities-with-powershare-grid-support",
@@ -1142,32 +1172,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/cybertruck-v2g.webp/146d6896f8be5b3ad32f89a4ae378765/cybertruck-v2g.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cc5c344aab23301ed6db6bd0a88567e0834534c4",
-    "title": "AI vastly reduced stress of IPv6 migrations in university experiment",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ipv6_generative_ai_experiment/",
-    "summary": "<h4>Leaving you to worry about the effects on your team, vendor lock-in, tokenomics, and more</h4> <p><strong>APRICOT 2026</strong>  Indonesia's Universitas Islam conducted experiments that found using generative AI vastly reduces the cognitive load on network pros during IPv4 to IPv6 migrations, but that organizations may not be ready for both AI and the new network protocol.…</p>",
-    "isoDate": "2026-02-10T11:56:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "077ee206fed78d96169910aa0c8ce7badd4f03d3",
-    "title": "Nearly 17,000 Volvo staff dinged in supplier breach",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/conduent_volvo_breach/",
-    "summary": "<h4>HR outsourcer Conduent confirms intruders accessed benefits-related records tied to US personnel</h4> <p>Nearly 17,000 Volvo employees had their personal data exposed after cybercriminals breached Conduent, an outsourcing giant that handles workforce benefits and back-office services.…</p>",
-    "isoDate": "2026-02-10T11:09:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
