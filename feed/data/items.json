@@ -1,5 +1,67 @@
 [
   {
+    "id": "57241a2ca7e5a4f19f44dc401129b7a3d4449d39",
+    "title": "Waymo launching China-made van that won't fail in rain, snow, or gloom of night",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/waymo_6th_gen_autonomous_driving_system/",
+    "summary": "<h4>And hey, maybe the overseas remote operators senators fret about won’t be needed quite so often</h4> <p>Waymo is rolling out its sixth-generation autonomous driving system, saying it's designed to avoid a repeat of past weather-related snafus. It's also causing controversy by putting the new kit on vehicles built by a Chinese automaker. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-12T21:36:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "33af7d0c68cb56bae410763837e9151d1da8a7a9",
+    "title": "ULA's Vulcan rocket suffers another booster problem on the way to orbit",
+    "link": "https://arstechnica.com/space/2026/02/ulas-vulcan-launcher-still-has-a-solid-rocket-booster-problem/",
+    "summary": "Vulcan's Blue Origin-made BE-4 engines appear to have saved the rocket from failure.",
+    "isoDate": "2026-02-12T21:33:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "united launch alliance",
+      "vulcan rocket"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/v004plume-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0318828225efd4dbd7d0b2bb7464404dba57c692",
+    "title": "EPA kills foundation of greenhouse gas regulations",
+    "link": "https://arstechnica.com/tech-policy/2026/02/as-expected-trumps-epa-guts-climate-endangerment-finding/",
+    "summary": "The agency is betting the the Supreme Court will reverse a prior ruling.",
+    "isoDate": "2026-02-12T21:04:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Policy",
+      "carbon emissions",
+      "climate change",
+      "EPA",
+      "Supreme Court"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/sad-epa-smog-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "defe0270d36e533e2d1e182105ceef4087e5f9f4",
+    "title": "AI agent seemingly tries to shame open source developer for rejected pull request",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/ai_bot_developer_rejected_pull_request/",
+    "summary": "<h4>Belligerent bot bullies maintainer in blog post to get its way</h4> <p>Today, it's back talk. Tomorrow, could it be the world? On Tuesday, Scott Shambaugh, a volunteer maintainer of Python plotting library Matplotlib, rejected an AI bot's code submission, citing a requirement that contributions come from people. But that bot wasn't done with him.…</p>",
+    "isoDate": "2026-02-12T20:47:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5229a5f87ff8541d866a68b9a22d62e35da6bbd3",
     "title": "Trump FTC wants Apple News to promote more Fox News and Breitbart stories",
     "link": "https://arstechnica.com/tech-policy/2026/02/trump-ftc-denies-being-speech-police-but-says-apple-news-is-too-liberal/",
@@ -9,6 +71,7 @@
     "category": "Tech",
     "author": "Jon Brodkin",
     "tags": [
+      "Apple",
       "Policy",
       "andrew ferguson",
       "Apple News",
@@ -666,53 +729,6 @@
     "pinned": false
   },
   {
-    "id": "ed99fdb168e52d6e9b48c24230a6808d36dee5e9",
-    "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
-    "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
-    "summary": "Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.",
-    "isoDate": "2026-02-11T20:44:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Benj Edwards",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "advertising",
-      "AI behavior",
-      "AI ethics",
-      "AI sycophancy",
-      "Anthropic",
-      "chatbots",
-      "ChatGPT",
-      "generative ai",
-      "machine learning",
-      "openai",
-      "sam altman",
-      "sycophancy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/open-ai-monkey-ad-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d5d75e631f4a196ee118c0eb1990fb9f8bd234ec",
-    "title": "\"Windows 11 26H1\" is a special version of Windows exclusively for new Arm PCs",
-    "link": "https://arstechnica.com/gadgets/2026/02/windows-11-26h1-is-a-special-version-of-windows-exclusively-for-new-arm-pcs/",
-    "summary": "Arm PCs have enjoyed special treatment from Microsoft for the past two years.",
-    "isoDate": "2026-02-11T20:28:35Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "windows 11",
-      "windows 11 24h2",
-      "windows 11 25h2",
-      "windows 11 26h1"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/win11-24h2-500x500-1770839195.jpg",
-    "pinned": false
-  },
-  {
     "id": "569b4b5a15d16f14dbe58faa8bc74b7f5742ed09",
     "title": "Lawmakers demand great wall to keep advanced chipmaking gear out of China",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/lawmakers_china_cut_off_advaced_chipmaking/",
@@ -1144,19 +1160,6 @@
     "pinned": false
   },
   {
-    "id": "1863e41729011b3bbbffd20f5f8aa3b0783cac96",
-    "title": "AI agents spill secrets just by previewing malicious links",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/ai_agents_messaging_apps_data_leak/",
-    "summary": "<h4>Zero-click prompt injection can leak data when AI agents meet messaging apps, researchers warn</h4> <p>AI agents can shop for you, program for you, and, if you're feeling bold, chat for you in a messaging app. But beware: attackers can use malicious prompts in chat to trick an AI agent into generating a data-leaking URL, which link previews may fetch automatically.…</p>",
-    "isoDate": "2026-02-10T17:55:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "e37411013d9a5668e84655bc41c3a9af79278700",
     "title": "Musk Announces SpaceX Will Build City on Moon First",
     "link": "https://www.notateslaapp.com/news/3585/musk-announces-spacex-will-build-city-on-moon-first",
@@ -1167,19 +1170,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/starship_hero.jpg/3d63d99e785ca75d4573bb1a545114da/starship_hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ed818796213d0828ce811462fc42f67295b1d5e6",
-    "title": "Kyndryl to review accounting practices as several execs leave",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/10/kyndryl_reviews_accounting_practices/",
-    "summary": "<h4>CFO and general counsel both step down</h4> <p>IBM services spin-out Kyndryl said it was reviewing its accounting practices after it announced revenue below market expectations and the departure of its CFO.…</p>",
-    "isoDate": "2026-02-10T17:25:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
