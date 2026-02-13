@@ -1,5 +1,48 @@
 [
   {
+    "id": "d9ae74e37ae857179af0f21e3d46f188d65e2903",
+    "title": "Attackers finally get around to exploiting critical Microsoft bug from 2024",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/critical_microsoft_bug_from_2024/",
+    "summary": "<h4>As if admins haven't had enough to do this week</h4> <p>Ignore patches at your own risk. According to Uncle Sam, a SQL injection flaw in Microsoft Configuration Manager patched in October 2024 is now being actively exploited, exposing unpatched businesses and government agencies to attack.…</p>",
+    "isoDate": "2026-02-13T18:45:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c63de0ebaaa07c3d503f6dbfc5daf807b28b4939",
+    "title": "Trump's Genesis Mission gets its first set of 26 sure-to-succeed objectives",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/trumps_genesis_mission/",
+    "summary": "<h4>DoE bets AI can speed fusion, unlock decades of nuclear data, and probe fundamental physics</h4> <p>The Trump administration has outlined the first 26 goals for its project to inject AI into the government's scientific research, and everything from securing critical minerals to discovering a unified theory of physics is on the table. …</p>",
+    "isoDate": "2026-02-13T18:18:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "982482541f92ec638da92dc2c10c618479a7dd9b",
+    "title": "$1.8 million MST3K Kickstarter brings in (almost) everyone from the old show",
+    "link": "https://arstechnica.com/culture/2026/02/1-8-million-mst3k-kickstarter-brings-in-almost-everyone-from-the-old-show/",
+    "summary": "<em>MST3K</em>'s 2010s revival looked forward; this one is emphatically looking backward.",
+    "isoDate": "2026-02-13T17:52:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Culture",
+      "MST3K",
+      "Mystery Science Theater 3000"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/mst3k-mike-puppets-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "ec0d142db38ee73158206b0f96ab4bd1cbb17127",
     "title": "AMD climbs in desktop and server CPUs while Intel battles supply squeeze",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/amd_intel_market_share/",
@@ -801,26 +844,6 @@
     "pinned": false
   },
   {
-    "id": "b66802744648d1fb7055f6e32a78081b11a4736f",
-    "title": "RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr.",
-    "link": "https://arstechnica.com/health/2026/02/rfk-jr-food-pyramid-site-links-to-grok-which-says-you-shouldnt-trust-rfk-jr/",
-    "summary": "Grok generated a meal plan to fit RFK Jr.'s food pyramid, then explained why it's bad.",
-    "isoDate": "2026-02-12T16:44:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "diet",
-      "fat",
-      "nutrition",
-      "Protein",
-      "robert f kennedy jr"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screen-Shot-2026-01-08-at-2.50.34-PM-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "0d8694d43f2a430bca54dcd79f12a04a33b4c108",
     "title": "California Reserves $165 Million for Tesla Semi",
     "link": "https://www.notateslaapp.com/news/3583/california-reserves-165-million-for-tesla-semi",
@@ -1159,19 +1182,6 @@
     "pinned": false
   },
   {
-    "id": "eeacedf7ba2cdab10d6bfdf002a6a7f66708ec03",
-    "title": "Were telcos tipped off to *that* ancient Telnet bug? Cyber pros say the signs stack up",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/were_telcos_tipped_off_to/",
-    "summary": "<h4>Curious port filtering and traffic patterns suggest advisories weren’t the earliest warning signals sent</h4> <p>Telcos likely received advance warning about January's critical Telnet vulnerability before its public disclosure, according to threat intelligence biz GreyNoise.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-11T15:41:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "38978bda0cb8c469602c75cd42531ab03de02f69",
     "title": "Tesla Unveils Powerwall 3P — a 3-Phase Powerwall",
     "link": "https://www.notateslaapp.com/news/3586/tesla-unveils-powerwall-3p-a-3-phase-powerwall",
@@ -1195,19 +1205,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/starlink-ad.webp/2e9ad82d4f08f6301a03cc2cba9e5047/starlink-ad.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4d57b901198b38e960544d4038fd5f5852e20366",
-    "title": "Brussels drafts blueprint to spot and swat rogue drones",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/eu_drone_action_plan/",
-    "summary": "<h4>Action Plan calls for EU-wide drills, industry forums, and expanded identification requirements</h4> <p>The European Commission wants to see stronger EU-wide cooperation over malicious drones via a new action plan. Proposals include a central counter-drone test facility, changing the current rules governing civilian use, and a development boost to Europe's own drones and counter-drone systems.…</p>",
-    "isoDate": "2026-02-11T13:51:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1436,19 +1433,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/park-assist-high-fidelity-2.webp/7047ec2ef02335cf2b3c1bd9f092ea07/park-assist-high-fidelity-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ff4b509f8299972b55e033a4ab8a39d9ad3992ad",
-    "title": "Tesla Updates App to 4.53.5: Dashcam Multi-Delete, Charging Improvements",
-    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.53.5/release-notes",
-    "summary": "Tesla app update 4.53.5 includes Dashcam Viewer — Multi-Delete, Vehicle Charging/Discharging With Wall Connector, Powerwall Charging/Discharging, Automatic Damage Detection. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.53.5/release-notes\">View Release Notes</a>",
-    "isoDate": "2026-02-06T18:29:46Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-53-5/dashcam-multi-delete.webp/aa0950cec0fe2a9d745e94f00ce629d0/dashcam-multi-delete.jpg",
     "pinned": false
   }
 ]
