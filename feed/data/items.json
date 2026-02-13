@@ -1,5 +1,56 @@
 [
   {
+    "id": "a310024c742e6a4b9d35b09596408af3089b84ae",
+    "title": "What if riders don't close a robotaxi door after a ride? Try DoorDash.",
+    "link": "https://arstechnica.com/cars/2026/02/what-if-riders-dont-close-a-robotaxi-door-after-a-ride-try-doordash/",
+    "summary": "Robotaxis can't escape the gig economy as Waymo tries to solve a human problem.",
+    "isoDate": "2026-02-13T15:32:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "doordash",
+      "robotaxis",
+      "waymo"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/unnamed-2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b7f4e4b02bcc002f9bc781b5f82b72897a96893c",
+    "title": "Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.",
+    "link": "https://arstechnica.com/space/2026/02/why-is-bezos-trolling-musk-on-x-with-turtle-pics-because-he-has-a-new-moon-plan/",
+    "summary": "\"It’s time to go back to the Moon—this time to stay.\"",
+    "isoDate": "2026-02-13T15:19:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "artemis",
+      "blue moon",
+      "blue origin",
+      "space",
+      "spacex"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/turtle-twitter-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0888a6c28dc3d96c4f8109c48bf422892234e752",
+    "title": "Broadband rollouts feel the burn from AI memory frenzy",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/ai_memory_router_prices/",
+    "summary": "<h4>Prices for router and set-top boxes up nearly sevenfold, squeezing telcos and raising deployment costs</h4> <p>Prices for memory used in routers and set-top boxes are surging nearly sevenfold thanks to AI, raising fresh fears that the industry's silicon binge could leave telcos scrambling to get customers online.…</p>",
+    "isoDate": "2026-02-13T15:03:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "788eaa392d4316f0b1292f756cabbfa1b03cc8cd",
     "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
     "link": "https://arstechnica.com/ai/2026/02/i-spent-two-days-gigging-at-rentahuman-and-didnt-make-a-single-cent/",
@@ -728,23 +779,6 @@
     "pinned": false
   },
   {
-    "id": "cbb8f420a3e2a69cc241c42be90d782327e8d560",
-    "title": "Party like it's 2001: Diablo II gets a new expansion, new playable class",
-    "link": "https://arstechnica.com/gaming/2026/02/diablo-ii-gets-its-first-new-playable-class-in-over-25-years/",
-    "summary": "Alongside new endgame content, Blizzard says the Warlock is coming to other Diablo games soon.",
-    "isoDate": "2026-02-12T15:36:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "Diablo 2",
-      "diablo ii resurrected"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/warlockd2-500x500-1770909262.png",
-    "pinned": false
-  },
-  {
     "id": "0d8694d43f2a430bca54dcd79f12a04a33b4c108",
     "title": "California Reserves $165 Million for Tesla Semi",
     "link": "https://www.notateslaapp.com/news/3583/california-reserves-165-million-for-tesla-semi",
@@ -820,28 +854,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "02cf9cbdf850b8fdbc7a6fa8406a20603161ed31",
-    "title": "We let Chrome's Auto Browse agent surf the web for us—here's what happened",
-    "link": "https://arstechnica.com/google/2026/02/tested-how-chromes-auto-browse-agent-handles-common-web-tasks/",
-    "summary": "Auto Browse is capable of some impressive things, but it can also crash and burn spectacularly.",
-    "isoDate": "2026-02-12T12:00:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Features",
-      "Google",
-      "AI agents",
-      "Artificial Intelligence",
-      "browser agent",
-      "chrome",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-500x500.jpg",
     "pinned": false
   },
   {
@@ -1165,19 +1177,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ba8f46b5433da9de0b6d275d22eb9f15ae115313",
-    "title": "Doctors told to give Palantir's NHS data platform the cold shoulder",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/bma_palantir_nhs/",
-    "summary": "<h4>200,000-strong union says spy-tech firm's ICE work undermines patient trust</h4> <p>British doctors are being urged to pull back from the NHS Federated Data Platform (FDP) after their union called on members to stop non-clinical use of the Palantir-built system.…</p>",
-    "isoDate": "2026-02-11T13:03:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
