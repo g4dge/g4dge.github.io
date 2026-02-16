@@ -1,5 +1,72 @@
 [
   {
+    "id": "825b9cc5792a7bd4a168c1eb236eb66863e00ed9",
+    "title": "Michigan accuses oil companies of antitrust violations in climate change lawsuit",
+    "link": "https://arstechnica.com/tech-policy/2026/02/michigan-accuses-oil-companies-of-antitrust-violations-in-climate-change-lawsuit/",
+    "summary": "The energy industry is pressing for laws that would ban climate liability lawsuits.",
+    "isoDate": "2026-02-16T14:47:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dana Drugman, Inside Climate News",
+    "tags": [
+      "Policy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1466169248-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2d42df4788457c2f3c9bc030fcb27cdf9adb2913",
+    "title": "Secondhand laptop market goes 'mainstream' amid memory crunch",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/refurbished_pcs_memory_crunch/",
+    "summary": "<h4>Budget-conscious buyers in Europe voting with their wallet</h4> <p>Sales of refurbished PCs are on the up amid shortages of key components, including memory chips, that are making brand new devices more expensive.…</p>",
+    "isoDate": "2026-02-16T14:29:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1d647a03d01e46c60bc6a5ff5120cbd81f6728fb",
+    "title": "Why AI writing is so generic, boring, and dangerous: Semantic ablation",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
+    "summary": "<h4>The subtractive bias we're ignoring</h4> <p><strong>opinion</strong>  Just as the community adopted the term \"hallucination\" to describe additive errors, we must now codify its far more insidious counterpart: semantic ablation.…</p>",
+    "isoDate": "2026-02-16T14:02:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Claudio Nastruzzi",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "aa08443dc46be064de0c2708b70f96ae93a4fd56",
+    "title": "FTC to probe whether Microsoft's cloud clout crosses the line",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/ftc_microsoft/",
+    "summary": "<h4>Competitors asked to detail licensing terms, training costs, and business practices in widening antitrust inquiry</h4> <p>The US Federal Trade Commission has sent out a raft of civil investigative demands to Microsoft's competitors as it warms up a probe into whether the cloud and software giant has an illegal monopoly across chunks of the enterprise tech market.…</p>",
+    "isoDate": "2026-02-16T13:53:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7e2d7dabd6bee80542f8fc578eba9fc433a6cb68",
+    "title": "NASA's fill-'er-up Moon rocket 'confidence' test sees mixed results",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/nasa_has_mixed_results_from/",
+    "summary": "<h4>Plan was to turn SLS into Seal Leaks Stemmed... But the flow was off</h4> <p>NASA engineers spent the weekend studying the data after another attempt to fill the agency's monster Space Launch System (SLS) produced mixed results.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-16T13:48:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "4f82913783cf57a71ee950caa5fa419e44f88ec1",
     "title": "Google patches Chrome zero-day as in-the-wild exploits surface",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/chromes_zeroday/",
@@ -856,30 +923,6 @@
     "pinned": false
   },
   {
-    "id": "90aa8037d19db7040fe7a44e1288161da22cf80e",
-    "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
-    "link": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
-    "summary": "Pam Bondi and Kristi Noem sued for coercing platforms into censoring ICE posts.",
-    "isoDate": "2026-02-13T12:00:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Features",
-      "Policy",
-      "apple",
-      "censorship",
-      "Facebook",
-      "First Amendment",
-      "google",
-      "ice",
-      "meta",
-      "signal"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/meta-google-apple-ICE-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "44f9f41b20f48f51049cfc2940e9eb6d98557c3e",
     "title": "Top Dutch telco Odido admits 6.2M customers caught in contact system caper",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/odido_breach/",
@@ -1105,32 +1148,6 @@
     "pinned": false
   },
   {
-    "id": "f79e5ea470eaa33077a61f0534c1917f3f754837",
-    "title": "Oracle suits up for Air Force Cloud One program with $88M contract",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/oracle_airforce_cloud_88m/",
-    "summary": "<h4>Big Red joins AWS on a multi-cloud defense platform</h4> <p>Oracle has picked up an $88 million contract with the US Air Force to provide cloud infrastructure services for the department's Cloud One program.…</p>",
-    "isoDate": "2026-02-12T17:40:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "deecbf9940dfe764879d96e8a2c4771060614259",
-    "title": "$8K laundry bot knows when to hold ’em, knows when to fold ’em, and knows it has help standing by",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/laundry_folding_robot_8000_dollars_teleoperated/",
-    "summary": "<h4>Not-onamous by a long shot</h4> <p>Nobody likes folding laundry, but you really have to hate it to spend $7,999 on a robot that'll fold it for you with a whole heap of limitations – including company employees getting the occasional peep at your tough-to-fold unmentionables.…</p>",
-    "isoDate": "2026-02-12T17:10:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "0d8694d43f2a430bca54dcd79f12a04a33b4c108",
     "title": "California Reserves $165 Million for Tesla Semi",
     "link": "https://www.notateslaapp.com/news/3583/california-reserves-165-million-for-tesla-semi",
@@ -1141,32 +1158,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/semi/semi_82.webp/f62f2f2efdcb13d022694a921011df5e/semi_82.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e2ac36570c7f631e86350ae3a73b6df29f55e470",
-    "title": "Elon Musk paints exodus of xAI co-founders as 'evolution'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/musk_xai_departures/",
-    "summary": "<h4>12-strong founding team down to 6 as boss looks Moonwards</h4> <p>Elon Musk has framed the recent exodus of talent from his artificial intelligence startup, xAI, as a necessary growing pain, saying the company's evolution \"required parting ways with some people.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-12T14:46:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f3917c8df025b10017e7e41fa33c7d50f80bf34a",
-    "title": "'Another dark day': Users slam Microsoft over Polyglot Notebooks deprecation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/polyglot_notebooks_deprecation/",
-    "summary": "<h4>Visual Studio Code extension faces March shutdown with no transition guidance</h4> <p>Microsoft has abruptly announced the deprecation of Polyglot Notebooks with less than two months' notice, throwing the future of the .NET Interactive project into doubt.…</p>",
-    "isoDate": "2026-02-12T14:23:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
