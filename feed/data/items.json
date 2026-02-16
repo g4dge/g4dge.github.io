@@ -1,5 +1,51 @@
 [
   {
+    "id": "4f82913783cf57a71ee950caa5fa419e44f88ec1",
+    "title": "Google patches Chrome zero-day as in-the-wild exploits surface",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/chromes_zeroday/",
+    "summary": "<h4>High-severity CSS flaw let malicious webpages run code inside the sandbox</h4> <p>Google has quietly pushed out an emergency Chrome fix after attackers were caught exploiting the browser's first reported zero-day of 2026.…</p>",
+    "isoDate": "2026-02-16T12:39:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "78a5db942543a5d9011fd5925da170d1feb1555e",
+    "title": "Why does the Windows 11 taskbar hurt me like that?",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/former_windows_manager_explains_the/",
+    "summary": "<h4>Former Windows manager explains design decisions behind it</h4> <p>A former Windows boss has explained why the taskbar in Windows 11 is the way it is and how he \"fought hard\" to stop Microsoft from removing customization options present in Windows 10.…</p>",
+    "isoDate": "2026-02-16T12:24:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e37e26fcc7449be5579d15029968020deeb9ce00",
+    "title": "Sideways on the ice, in a supercar: Stability control is getting very good",
+    "link": "https://arstechnica.com/features/2026/02/learning-the-limits-of-stability-control-on-a-frozen-lake-in-a-mclaren/",
+    "summary": "To test stability control, it helps to have a wide-open space with very low grip.",
+    "isoDate": "2026-02-16T12:00:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Features",
+      "ice driving",
+      "McLaren Artura",
+      "stability control",
+      "traction control"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026-McLaren-Arctic-driving-1-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "d65fe082c266fc3cf1d54a78035e0cb2e97a8d3d",
     "title": "Price of popularity: Linux Mint's success also means maintainer stress",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/mints_success_and_stress/",
@@ -955,33 +1001,6 @@
     "pinned": false
   },
   {
-    "id": "238b7b1b3bdeee4018bbe70f7dd25101d4750657",
-    "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
-    "link": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
-    "summary": "This was the first launch of the Ariane 64, the most powerful rocket in European space history.",
-    "isoDate": "2026-02-13T00:34:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "Amazon",
-      "amazon leo",
-      "ariane 6",
-      "ArianeGroup",
-      "Arianespace",
-      "broadband",
-      "Commercial space",
-      "french guiana",
-      "Guiana space center",
-      "launch",
-      "project kuiper"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/HA-evg8WgAAY3tl-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a892efe49b6a8802d3c9198fd6271f2658e8f051",
     "title": "Cloudflare turns websites into faster food for AI agents",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/cloudflare_markdown_for_ai_crawlers/",
@@ -1146,32 +1165,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a382de2bb1920a99a8c91d733ff9154bc1a4907e",
-    "title": "Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/apple_ios_263/",
-    "summary": "<h4>Flaw abused 'in an extremely sophisticated attack against specific targeted individuals'</h4> <p>Apple patched a zero-day vulnerability affecting every iOS version since 1.0, used in what the company calls an \"extremely sophisticated attack\" against targeted individuals.…</p>",
-    "isoDate": "2026-02-12T14:01:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0e6708f5caeeabf577bfa108a9f2fb21e1d051ad",
-    "title": "Memory price explosion triggers PC buying spree",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/memory_pc_rush/",
-    "summary": "<h4>DRAM doubles, NAND jumps 70% as corporate buyers race the clock</h4> <p>Exploding memory prices are pushing corporate buyers to fast-track PC purchases before costs climb further.…</p>",
-    "isoDate": "2026-02-12T13:31:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
