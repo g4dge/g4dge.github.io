@@ -1,5 +1,70 @@
 [
   {
+    "id": "8f1392972fab4fd7d7ff049d03fb87e4a5103722",
+    "title": "Tesla Launches Grok With Nav Commands in Europe",
+    "link": "https://www.notateslaapp.com/news/3597/tesla-launches-grok-with-nav-commands-in-europe",
+    "summary": "Tesla vehicles across Europe are getting a significant intelligence boost this week as xAI’s Grok chatbot officially begins its international rollout&hellip; <a href=\"https://www.notateslaapp.com/news/3597/tesla-launches-grok-with-nav-commands-in-europe\">Read More</a>",
+    "isoDate": "2026-02-16T16:56:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-app.webp/3aee0127c222514f83a585f875903379/grok-app.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2db5de7e74277a1466b5e93aa4dae3f72ebdafa8",
+    "title": "Oracle vows 'new era' for MySQL as users sharpen their forks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/oracle_new_era_mysql/",
+    "summary": "<h4>Commit drought and governance gripes push Big Red to reset</h4> <p>Oracle has promised a \"decisive new approach\" to MySQL, the popular open source database it owns, following growing criticism of its approach and the prospect of a significant fork in the code.…</p>",
+    "isoDate": "2026-02-16T16:48:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cf5cb352abcdfa595ba24b5589d272cc7119e058",
+    "title": "You probably can't trust your password manager if it's compromised",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/password_managers/",
+    "summary": "<h4>Researchers demo weaknesses affecting some of the most popular options</h4> <p>Academics say they found a series of flaws affecting three popular password managers, all of which claim to protect user credentials in the event that their servers are compromised.…</p>",
+    "isoDate": "2026-02-16T16:20:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a496ce0488b93182423916a7b95f39d4bc0c8117",
+    "title": "Tesla CarPlay: Tesla Working With Apple on Better Integration",
+    "link": "https://www.notateslaapp.com/news/3595/tesla-carplay-tesla-working-with-apple-on-better-integration",
+    "summary": "Tesla's highly anticipated Apple CarPlay integration is being delayed by a navigation conflict with FSD and slow iOS 26 adoption rates.&hellip; <a href=\"https://www.notateslaapp.com/news/3595/tesla-carplay-tesla-working-with-apple-on-better-integration\">Read More</a>",
+    "isoDate": "2026-02-16T16:04:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla-carplay-2.webp/5e322a6979a7753641b6afb8d1a13baa/tesla-carplay-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "36f55106c50597d6447b09f537bbcc6f24c169cb",
+    "title": "KPMG partner in Oz turned to AI to pass an exam on... AI",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/kpmg_partner_in_oz_turned/",
+    "summary": "<h4>Unnamed consultant – one of a dozen cases at the company's Australian arm – now nursing a fine</h4> <p><strong>AIpocolypse</strong>  A partner at accounting and consultancy giant KPMG in Australia was forced to cough up a AU$10k ($7,084/ £5,195) fine after he used AI to ace an internal training course on... AI.…</p>",
+    "isoDate": "2026-02-16T15:54:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "b6cc6688b6492586154c6341543793e9dc9021ac",
     "title": "X users howl into the void as timelines fail to load",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/x_timeline_outage/",
@@ -1096,45 +1161,6 @@
     "pinned": false
   },
   {
-    "id": "e5a3c61831124556df6a650378b456e93eccb973",
-    "title": "30+ Chrome extensions disguised as AI chatbots steal users' API keys, emails, other sensitive data",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/30_chrome_extensions_ai/",
-    "summary": "<h4>Are you a good bot or a bad bot?</h4> <p>More than 30 malicious Chrome extensions installed by at least 260,000 users purport to be helpful AI assistants, but they steal users' API keys, email messages, and other personal data. Even worse: many of these are still available on the Chrome Web Store as of this writing.…</p>",
-    "isoDate": "2026-02-12T22:59:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bccde55dd80abadd9e89f7f181308ea0fc383127",
-    "title": "OpenAI dishes out its first model on a plate of Cerebras silicon",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/openai_model_cerebras/",
-    "summary": "<h4>GPT-5.3-Codex-Spark may be a mouthfull, but it's certainly fast at 1,000 Tok/s running on Nvidia rival's CS3 accelerators</h4> <p>Nvidia and AMD can take a seat. On Thursday, OpenAI unveiled GPT-5.3-Codex-Spark, its first model that will run on Cerebras Systems' dinner-place-sized AI accelerators, which feature some of the world's fastest on-chip memory.…</p>",
-    "isoDate": "2026-02-12T22:32:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "57241a2ca7e5a4f19f44dc401129b7a3d4449d39",
-    "title": "Waymo launching China-made van that won't fail in rain, snow, or gloom of night",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/waymo_6th_gen_autonomous_driving_system/",
-    "summary": "<h4>And hey, maybe the overseas remote operators senators fret about won’t be needed quite so often</h4> <p>Waymo is rolling out its sixth-generation autonomous driving system, saying it's designed to avoid a repeat of past weather-related snafus. It's also causing controversy by putting the new kit on vehicles built by a Chinese automaker. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-12T21:36:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "f1743306acc5a201c88ada4dff8d37ae9305e327",
     "title": "Tesla’s New Automations Feature in Action [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3589/teslas-new-automations-feature-in-action-video",
@@ -1357,19 +1383,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/cybervehicle.webp/985e00163d5a66ee5cd10715e033a97c/cybervehicle.jpg",
-    "pinned": false
-  },
-  {
-    "id": "abfc2d1ff73e387a74ad2681cbb8454a5caae367",
-    "title": "Tesla Model Y Named Best Electric Vehicle of 2026 by Consumer Reports",
-    "link": "https://www.notateslaapp.com/news/3569/tesla-model-y-named-best-electric-vehicle-of-2026-by-consumer-reports",
-    "summary": "Consumer Reports names the Tesla Model Y a Top Pick for 2026. It is the only fully electric vehicle to make the list, beating out a wave of hybrids.&hellip; <a href=\"https://www.notateslaapp.com/news/3569/tesla-model-y-named-best-electric-vehicle-of-2026-by-consumer-reports\">Read More</a>",
-    "isoDate": "2026-02-09T16:05:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-snow-2.jpeg/26ed14ee42a4f165a645a04e0863e426/model-y-snow-2.jpg",
     "pinned": false
   }
 ]
