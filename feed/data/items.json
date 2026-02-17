@@ -1,5 +1,55 @@
 [
   {
+    "id": "b54b8e7eb30dcafa374c0e093fbfd966e2bb2b40",
+    "title": "GameHub will give Mac owners another imperfect way to play Windows games",
+    "link": "https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/",
+    "summary": "GameHub's existing Windows emulator on Android has its fair share of issues.",
+    "isoDate": "2026-02-17T22:45:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Apple",
+      "Gaming",
+      "emulation",
+      "Mac",
+      "Macintosh",
+      "proton",
+      "Steam",
+      "steamos",
+      "valvew",
+      "Windows"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gamehub-500x500-1771366644.png",
+    "pinned": false
+  },
+  {
+    "id": "dfb9d37f85d0f8c9bf566bd3b7f74404dbe67a47",
+    "title": "Amazon's $200 billion capex plan: How I learned to stop worrying and love negative free cash flow",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/amazons_200_billion_capex_plan/",
+    "summary": "<h4>It isn't insane, and Amazon will be fine when the music stops. Other players, maybe not so much</h4> <p>In their recent earnings call, Amazon kinda blew the doors off of industry analyst (motto: \"we'll be wrong, then take it out on your stock\") projections for their capex spend.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-17T22:26:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Corey Quinn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e1db1d597f9fa4a428d438de891bbd517eb5db17",
+    "title": "China remains embedded in US energy networks 'for the purpose of taking it down'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/volt_typhoon_dragos/",
+    "summary": "<h4>Plus 3 new goon squads targeted critical infrastructure last year</h4> <p>Three new threat groups began targeting critical infrastructure last year, while a well-known Beijing-backed crew - Volt Typhoon - continued to compromise cellular gateways and routers, and then break into US electric, oil, and gas companies in 2025, according to Dragos' annual threat report published on Tuesday.…</p>",
+    "isoDate": "2026-02-17T21:45:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "00ca38f92fdbcee8682441cf6860aa777fb76279",
     "title": "GPU who? Meta to deploy Nvidia CPUs at large scale",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/meta_nvidia_cpu/",
@@ -1063,26 +1113,6 @@
     "pinned": false
   },
   {
-    "id": "f9380beb6e4373204bd857360cdfff8cf324d8be",
-    "title": "Space Station returns to a full crew complement after a month",
-    "link": "https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/",
-    "summary": "\"It's only possible because of the incredibly talented workforce we have.\"",
-    "isoDate": "2026-02-15T21:11:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "crew 12",
-      "docking",
-      "iss",
-      "NASA",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/crew-12-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "10878efdc78b3cac92660c230c91457a2d426e86",
     "title": "Why Tesla Walked Away from Radar and LiDAR to Go All-In on Vision",
     "link": "https://www.notateslaapp.com/news/3077/why-tesla-walked-away-from-radar-and-lidar-to-go-all-in-on-vision",
@@ -1148,19 +1178,6 @@
     "pinned": false
   },
   {
-    "id": "8a7b9a22bcde668e732d63fd342ed984a84bce32",
-    "title": "Contain your Windows apps inside Linux Windows",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/14/winapps_and_winboat/",
-    "summary": "<h4>Can't live without Adobe? Get on board WinBoat – or WinApps sails a similar course</h4> <p><strong>Hands-on</strong>  Run real Windows in an automatically managed virtual machine, and mix Windows apps in their own windows on your Linux desktop.…</p>",
-    "isoDate": "2026-02-14T12:32:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "2dee13af75625ec5f3b2c90c831c8ef961116ab9",
     "title": "How to Use a Single Key Card to Open Multiple Teslas",
     "link": "https://www.notateslaapp.com/news/3298/how-to-use-a-single-key-card-to-open-multiple-teslas",
@@ -1171,32 +1188,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2021/key-card-1.jpg/5c7692cc905244ccc02976ffa7a0aa9a/key-card-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "730c1aabb5166b4baf62f55639f755c057639331",
-    "title": "How AI could eat itself: Competitors can probe models to steal their secrets and clone them",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/14/ai_risk_distillation_attacks/",
-    "summary": "<h4>Just ask DeepSeek</h4> <p>Two of the world's biggest AI companies, Google and OpenAI, both warned this week that competitors including China's DeepSeek are probing their models to steal the underlying reasoning, and then copy these capabilities in their own AI systems.…</p>",
-    "isoDate": "2026-02-14T11:02:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d193d93b86b8652635863a0555b5051917418da2",
-    "title": "Log files that describe the history of the internet are disappearing. A new project hopes to save them",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/14/internet_history_initiative/",
-    "summary": "<h4>The Internet History Initiative wants future historians to have a chance to understand how human progress and technical progress align</h4> <p><strong>APRICOT 2026</strong>  For almost 30 years, the PingER project at the USA’s SLAC National Accelerator Laboratory used ping thousands of time each day to measure the time a packet of data required to make a round trip between two nodes on the internet.…</p>",
-    "isoDate": "2026-02-14T09:01:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
