@@ -1,5 +1,44 @@
 [
   {
+    "id": "11d2e3b971e5586501738e0ef1a107279dcdc45f",
+    "title": "Indian conglomerate Adani plans very slow $100 billion AI datacenter build",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/india_ai_summit_adani_datacenters/",
+    "summary": "<h4>PM Modi tells citizens AI will lift them up, not take their jobs</h4> <p>Giant Indian industrial conglomerate Adani has said it will spend up to $100 billion on AI datacenters to equip the nation with sovereign infrastructure, but will do so at slower pace than Big Tech tech companies plan to bring their own bit barns to Bharat.…</p>",
+    "isoDate": "2026-02-18T02:16:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "421e4a7535fe93b7d0ca19e9da5d5238c6183d66",
+    "title": "Anthropic's latest Sonnet gets better at using computers, amid bouts of existential angst",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/anthropic_debuts_sonnet_4_6/",
+    "summary": "<h4>Version 4.6 can also be 'warm, honest, prosocial, and at times funny'</h4> <p>Anthropic has updated its Sonnet model to version 4.6 and claims the upgrade is better at coding and using computers, and also possesses improved reasoning and planning capabilities.…</p>",
+    "isoDate": "2026-02-18T01:38:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6ee2fcefb97532cc6e60aa2dabb42171d0cebce5",
+    "title": "China-linked snoops have been exploiting Dell 0-day since mid-2024, using 'ghost NICs' to avoid detection",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/dell_0day_brickstorm_campaign/",
+    "summary": "<h4>Full scale of infections remains 'unknown'</h4> <p>China-linked attackers exploited a maximum-severity hardcoded-credential bug in Dell RecoverPoint for Virtual Machines as a zero-day since at least mid-2024. It's all part of a long-running effort to backdoor infected machines for long-term access, according to Google's Mandiant incident response team.…</p>",
+    "isoDate": "2026-02-18T00:05:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "056d912f5185ba31a5b66b6e53b05e170e4fb981",
     "title": "Gemini lies to user about health info, says it wanted to make him feel better",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/17/google_gemini_lie_placate_user/",
@@ -1136,32 +1175,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2021/vision-ai.jpg/1d8f6e634d773cfcd81c8d445ea99c47/vision-ai.jpg",
-    "pinned": false
-  },
-  {
-    "id": "439e9e17c8c3998911bd8db54056f7651aec2e7d",
-    "title": "GPT-5 bests human judges in legal smack down",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/15/gpt5_bests_human_judges_in/",
-    "summary": "<h4>But that doesn't mean AI is ready to dispense justice</h4> <p><strong>ai-pocalypse</strong>  Legal scholars have found that OpenAI's GPT-5 follows the law better than human judges, but they leave open the question of whether AI is right for the job.…</p>",
-    "isoDate": "2026-02-15T14:32:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "62803d475a345e1d43d39032c41d00a0eabc2930",
-    "title": "Penguin-powered platform board keels over at Alpine station",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/15/swiss_railway_bork/",
-    "summary": "<h4>It must be that fresh mountain air</h4> <p><strong>Bork!Bork!Bork!</strong>  Just picture it. You're at a Swiss train station, looking for information on your connecting line. You peer up at the sign hoping to find out how long you'll be waiting and whether you're standing in the right place. But instead of helpful info, you see \"* Installation log files are stored in /tmp.\" Gee, thanks a lot!…</p>",
-    "isoDate": "2026-02-15T12:30:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
