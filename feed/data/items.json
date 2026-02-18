@@ -1,5 +1,87 @@
 [
   {
+    "id": "7c17bf124ac25b283aed8a4a2fc7d2bc3e2f6379",
+    "title": "ShinyHunters allegedly drove off with 1.7M CarGurus records",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/shinyhunters_cargurus_breach/",
+    "summary": "<h4>Latest in a rash of grab-and-leak data incidents</h4> <p>CarGurus allegedly suffered a data breach with 1.7 million corporate records stolen, according to a notorious cybercrime crew that posted the online vehicle marketplace on its leak site on Wednesday.…</p>",
+    "isoDate": "2026-02-18T20:40:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a6de48a4a7d2678dec39a889d7ab7833ada8a040",
+    "title": "Chevy Bolt, BMW i3, or something else? At $10K, you have lots of EV options",
+    "link": "https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/",
+    "summary": "Two of Ars' favorite electric vehicles are now available for not very much money.",
+    "isoDate": "2026-02-18T20:22:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "used ev prices"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/electric-piggy-bank-10k-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "85a597fe5abdd0d93c1d7c770792e5efba1c34fb",
+    "title": "Lawsuit: EPA revoking greenhouse gas finding risks “thousands of avoidable deaths”",
+    "link": "https://arstechnica.com/tech-policy/2026/02/lawsuit-epa-revoking-greenhouse-gas-finding-risks-thousands-of-avoidable-deaths/",
+    "summary": "EPA sued for abandoning its mission to protect public health.",
+    "isoDate": "2026-02-18T19:48:06Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "climate change",
+      "climate denial",
+      "Environmental Protection Agency",
+      "EPA",
+      "greenhouse gas emissions",
+      "trump administration"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1324589360-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "08a47fe45c995eb8db8cfa4b93d1681c170d6efe",
+    "title": "Copilot spills the beans, summarizing emails it's not supposed to read",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/microsoft_copilot_data_loss_prevention/",
+    "summary": "<h4>Data Loss Prevention? Yeah, about that...</h4> <p>The bot couldn't keep its prying eyes away. Microsoft 365 Copilot Chat has been summarizing emails labeled “confidential” even when data loss prevention policies were configured to prevent it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-18T19:32:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8640adf1f4818637e46e22f890b1ae7201bf9575",
+    "title": "5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas",
+    "link": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
+    "summary": "The 26.3 updates were mostly invisible; these changes are more significant.",
+    "isoDate": "2026-02-18T19:28:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Tech",
+      "ios 26",
+      "ipados 26",
+      "macos 26 tahoe"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Apple-WWDC25-iOS-26-hero-250609-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "1d336cde74e7e15ca4752aa012ca8e03cdcf0e93",
     "title": "DARPA's autonomous missile-firing missile advances toward flight tests",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/darpa_autonomous_missilefiring_missile/",
@@ -829,28 +911,6 @@
     "pinned": false
   },
   {
-    "id": "a8b1aed936e0abd943468f87a6e3418a8f69efc6",
-    "title": "EU launches probe into xAI over sexualized images",
-    "link": "https://arstechnica.com/tech-policy/2026/02/eu-launches-probe-into-xai-over-sexualized-images/",
-    "summary": "\"Large-scale\" investigation could result in massive fines.",
-    "isoDate": "2026-02-17T15:47:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Hannah Murphy, Financial Times",
-    "tags": [
-      "Policy",
-      "csam",
-      "EU",
-      "gdpr",
-      "grok",
-      "spacex",
-      "X",
-      "xAI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/xai-grok-500x500-1752596846.jpg",
-    "pinned": false
-  },
-  {
     "id": "701cdcfb6d8746c606698293b52a485deef7a157",
     "title": "Forbes Names Elon Musk America’s #1 Innovator",
     "link": "https://www.notateslaapp.com/news/3596/forbes-names-elon-musk-americas-1-innovator",
@@ -861,49 +921,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2023/elon-musk.jpg/34237e2c3d26c255fc83c435666fa5a1/elon-musk.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cf8485d56c7f66a978b420a59364a6d7914eb26e",
-    "title": "Scientists hunting mammoth fossils found whales 400 km inland",
-    "link": "https://arstechnica.com/science/2026/02/scientists-hunting-mammoth-fossils-found-whales-400-km-inland/",
-    "summary": "Sometimes, new data raises more questions than it answers.",
-    "isoDate": "2026-02-17T15:14:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "Alaska",
-      "ancient DNA",
-      "colossal",
-      "de-extinction",
-      "mammoth",
-      "Megafauna",
-      "megafaunal extinction",
-      "paleontology",
-      "science",
-      "whales"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/north-pacific-right-whale-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "55107992499ea86a0d7bd107f2d8276aae1684bf",
-    "title": "Looks a lot like an electric station wagon: the 2026 Toyota bZ Woodland",
-    "link": "https://arstechnica.com/cars/2026/02/looks-a-lot-like-an-electric-station-wagon-the-2026-toyota-bz-woodland/",
-    "summary": "A little more ground clearance and a lot more cargo room make the bZ compelling.",
-    "isoDate": "2026-02-17T15:00:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Chad Kirchner",
-    "tags": [
-      "Cars",
-      "car review",
-      "First drive",
-      "Toyota bZ Woodland"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026_Toyota_bZ_Woodland_Premium_Bronze_050-500x500.jpg",
     "pinned": false
   },
   {
@@ -1104,32 +1121,6 @@
     "pinned": false
   },
   {
-    "id": "22cc0844aa5ca18a7bb3d91d258f6108cd7e2d22",
-    "title": "Canada Goose ruffles feathers over 600K record dump, says leak is old news",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/canada_goose_shinyhunters/",
-    "summary": "<h4>Fashion brand latest to succumb to ShinyHunters' tricks</h4> <p>Canada Goose says an advertised breach of 600,000 records is an old raid and there are no signs of a recent compromise.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-16T18:01:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1207f644a80e068eb1850ffd1a3e1534e1c9e0ae",
-    "title": "Dutch cops arrest man after sending him confidential files by mistake",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/dutch_cops_breach/",
-    "summary": "<h4>Bungled link handed over sensitive docs, and when recipient didn't cooperate, police opted for cuffs</h4> <p>Dutch police have arrested a man for \"computer hacking\" after accidentally handing him their own sensitive files and then getting annoyed when he didn't hand them back.…</p>",
-    "isoDate": "2026-02-16T17:26:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "8f1392972fab4fd7d7ff049d03fb87e4a5103722",
     "title": "Tesla Launches Grok With Nav Commands in Europe",
     "link": "https://www.notateslaapp.com/news/3597/tesla-launches-grok-with-nav-commands-in-europe",
@@ -1140,19 +1131,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-app.webp/3aee0127c222514f83a585f875903379/grok-app.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2db5de7e74277a1466b5e93aa4dae3f72ebdafa8",
-    "title": "Oracle vows 'new era' for MySQL as users sharpen their forks",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/oracle_new_era_mysql/",
-    "summary": "<h4>Commit drought and governance gripes push Big Red to reset</h4> <p>Oracle has promised a \"decisive new approach\" to MySQL, the popular open source database it owns, following growing criticism of its approach and the prospect of a significant fork in the code.…</p>",
-    "isoDate": "2026-02-16T16:48:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
