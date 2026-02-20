@@ -1,5 +1,95 @@
 [
   {
+    "id": "a27a9bf8d01e4821cbea6bb34b12dee89e19509d",
+    "title": "Tesla slashes Cybertruck prices as it tries to move (unpainted) metal",
+    "link": "https://arstechnica.com/cars/2026/02/tesla-slashes-cybertruck-prices-as-it-tries-to-move-unpainted-metal/",
+    "summary": "The stainless steel pickup truck is Tesla's first real flop.",
+    "isoDate": "2026-02-20T14:31:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Tesla Cybertruck"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259708169-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e8f528fe81d0ac1737800b75a1d1991ecfb0c66c",
+    "title": "Ukrainian gets five years for helping North Koreans secure US tech jobs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/north_korean_it_worker_prison/",
+    "summary": "<h4>Polish arrest leads to extradition and federal prison sentence</h4> <p>Ukrainian national Oleksandr Didenko will spend the next five years behind bars in the US for his involvement in helping North Korean IT workers secure fraudulent employment.…</p>",
+    "isoDate": "2026-02-20T14:30:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "20bca17ee2b2e4bdaa685953a65c1225f20f1101",
+    "title": "Accenture tells staffers: Want promotion? Use AI at work",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/accenture_tells_staffers_want_promotion/",
+    "summary": "<h4>Consultancy to monitor usage by meatbags with corporate aspirations</h4> <p>Accenture staff must demonstrate they have fully bought into the consultancy's AI vision if they want to get on.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-20T14:15:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ea32821c47b19435e26f5abab5c1e8449064e797",
+    "title": "An AI coding bot took down Amazon Web Services",
+    "link": "https://arstechnica.com/ai/2026/02/an-ai-coding-bot-took-down-amazon-web-services/",
+    "summary": "Blames \"user error, not AI error\" for incident in December involving its Kiro tool.",
+    "isoDate": "2026-02-20T14:13:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Rafe Rosner-Uddin, Financial Times",
+    "tags": [
+      "AI",
+      "agentic AI",
+      "AI coding",
+      "Amazon",
+      "AWS",
+      "coding",
+      "Kiro",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1192325886-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "757cef8b7e75201a29550cfb1e1d57d6be7d410e",
+    "title": "Founder ditches AWS for Euro stack, finds sovereignty isn't plug-and-play",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ditching_aws_euro_stack/",
+    "summary": "<h4>Attempt to go 'Made in EU' offers big tech escapees a reality check where lower cloud bills come with higher effort</h4> <p>Building a startup entirely on European infrastructure sounds like a nice sovereignty flex right up until you actually try it and realize the real price gets paid in time, tinkering, and slowly unlearning a decade of GitHub muscle memory.…</p>",
+    "isoDate": "2026-02-20T14:06:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5fb66f456da71e9baf862a135c374324860af979",
+    "title": "Hard drives already sold out for this year – AI to blame",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ai_blamed_again_as_hard_drives_sell_out/",
+    "summary": "<h4>Oh snap! The hyperscalers bought all the HDDs</h4> <p>Hard drive manufacturers have already sold all the units they will make this year, and it looks like the AI infrastructure boom is to blame, with hyperscalers soaking up all the high-capacity storage.…</p>",
+    "isoDate": "2026-02-20T14:00:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5a31e32eeba438b38ab2171e805a8f4f090c3eaf",
     "title": "LLM wrote it? Fine, but show us human documentation, demands EFF",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/eff_demands_human_documentation_as/",
@@ -29,7 +119,7 @@
     "id": "e25c8f3cefae17f294b84a911b710181843d9bb2",
     "title": "Microsoft deletes blog telling users to train AI on pirated Harry Potter books",
     "link": "https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/",
-    "summary": "The now-deleted Harry Potter data set was \"mistakenly\" marked public domain.",
+    "summary": "The now-deleted Harry Potter dataset was \"mistakenly\" marked public domain.",
     "isoDate": "2026-02-20T12:11:28Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -1007,25 +1097,6 @@
     "pinned": false
   },
   {
-    "id": "e020668ba41aa09232d432b0e817d78512e279aa",
-    "title": "Record scratch—Google's Lyria 3 AI music model is coming to Gemini today",
-    "link": "https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/",
-    "summary": "With a simple prompt, you can generate 30 seconds of something like music.",
-    "isoDate": "2026-02-18T16:00:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "generative ai",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Lyria_Hero-Image-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "8ffabbc08fd3a40b69b4eb45d97ec589bae70d07",
     "title": "Tesla Skirts California Sales Ban After Killing Autopilot",
     "link": "https://www.notateslaapp.com/news/3629/tesla-skirts-california-sales-ban-by-killing-autopilot",
@@ -1049,26 +1120,6 @@
     "author": "Dan Robinson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4e9a98c43605320fc21598fde662a66974527acb",
-    "title": "Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear",
-    "link": "https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/",
-    "summary": "Google's new budget phone is here, but don't expect a big upgrade.",
-    "isoDate": "2026-02-18T15:00:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "android",
-      "google",
-      "pixel 10a",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Pixel-10a-lifestyle-500x500.jpg",
     "pinned": false
   },
   {
@@ -1119,58 +1170,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0274a1943b99576e78ce19eeb95e823e2f2a4fba",
-    "title": "Notepad++ declares hardened update process 'effectively unexploitable'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/notepadplusplus_security_update/",
-    "summary": "<h4>Miscreants will need to find another avenue for malware shenanigans</h4> <p>Notepad++ has continued beefing up security with a release the project's author claims makes the \"update process robust and effectively unexploitable.\"…</p>",
-    "isoDate": "2026-02-18T12:41:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2588c2b0287f14b67f54b600bdf06ef848b4ee96",
-    "title": "You can jailbreak an F-35 just like an iPhone, says Dutch defense chief",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/jailbreak_an_f35/",
-    "summary": "<h4>No worries if the US doesn't want to be friends with Europe anymore</h4> <p>Lockheed Martin's F-35 fighter aircraft can be jailbroken \"just like an iPhone,\" the Netherlands' defense secretary has claimed.…</p>",
-    "isoDate": "2026-02-18T12:11:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4f38862ed5234ec18634b2b757c575762406a3c7",
-    "title": "Windows 11 Start menu makes unscheduled stop in Saint Moritz",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/st_moritz_bork/",
-    "summary": "<h4>Passenger info display takes scenic detour via desktop and pending updates</h4> <p><strong>Bork!Bork!Bork!</strong>  The curse of bork is not limited to obsolete operating systems or obscure hardware. Today's example of railway signage disruption is something bang up to date from the Swiss town of Saint Moritz.…</p>",
-    "isoDate": "2026-02-18T12:00:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0738eacd03d28642980e48a6c9a3b6d0f5fb1aa2",
-    "title": "Europe's 5G Standalone stall risks falling behind US, Asia",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/europe_falling_behind_5g/",
-    "summary": "<h4>Report warns delayed rollouts could widen capability gap as new standards emerge</h4> <p>North American and Asian markets are enjoying the benefits of a transition to 5G Standalone (SA) mobile networks, but much of Europe lags behind, risking a growing disadvantage as new capabilities roll out.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-18T11:30:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
