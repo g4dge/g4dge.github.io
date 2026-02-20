@@ -1,5 +1,61 @@
 [
   {
+    "id": "3dc165fa9ee18af53ac267f6754b212c2da7420c",
+    "title": "Wikipedia blacklists Archive.today, starts removing 695,000 archive links",
+    "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+    "summary": "If DDoSing a blog wasn't bad enough, archive site also tampered with web snapshots.",
+    "isoDate": "2026-02-20T18:35:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "archive.today",
+      "wikipedia"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/wikipedia-500x500-1771611341.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ed3e018e3855d82c5192a7e650533c2611306654",
+    "title": "ShinyHunters demands $1.5M not to leak Vegas casino and resort chain data",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/shinyhunters_wynn_resorts/",
+    "summary": "<h4>What happens in Vegas…</h4> <p>Las Vegas hotel and casino giant Wynn Resorts appears to be the latest victim of data-grabbing and extortion gang ShinyHunters.…</p>",
+    "isoDate": "2026-02-20T18:27:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "91548561d5c692ae618bd9eabd2e730da8faa74b",
+    "title": "Tesla Discontinues Cyberbeast Luxe Package to Lower Prices",
+    "link": "https://www.notateslaapp.com/news/3667/tesla-discontinues-cyberbeast-luxe-package-to-lower-prices",
+    "summary": "Tesla is making it a lot cheaper to own its fastest truck, but it comes at the cost of some legendary perks like free FSD, lifetime Supercharging, and more&hellip; <a href=\"https://www.notateslaapp.com/news/3667/tesla-discontinues-cyberbeast-luxe-package-to-lower-prices\">Read More</a>",
+    "isoDate": "2026-02-20T18:23:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck_51.jpg/c6fde3d94701c63c86f1ef36f3d9dd42/cybertruck_51.jpg",
+    "pinned": false
+  },
+  {
+    "id": "133c27f8b94a5321c508c3e09d47952cf079f06e",
+    "title": "Amazon's vibe-coding tool Kiro reportedly vibed too hard and brought down AWS",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/amazon_denies_kiro_agentic_ai_behind_outage/",
+    "summary": "<h4>Bezos-corp blames user error for outage, 'specifically misconfigured access controls'</h4> <p>In a cautionary tale of agentic AI, AWS reportedly suffered service outages caused by its own AI coding tools in December - though the company insists the downtime was ultimately due to human error.…</p>",
+    "isoDate": "2026-02-20T17:52:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "8d6dd357e6957cb7979bf6bb82cea4b688b7247d",
     "title": "Why Final Fantasy is now targeting PC as its \"lead platform\"",
     "link": "https://arstechnica.com/gaming/2026/02/why-final-fantasy-is-now-targeting-pc-as-its-lead-platform/",
@@ -84,7 +140,7 @@
   },
   {
     "id": "0d1a0b4229aa7ba48cdb5c640eafe49fe95842ef",
-    "title": "Pokémon Red and Green’s GBA remakes are getting re-released on Switch for $20 a pop",
+    "title": "Nintendo brings GBA-era Pokémon to the Switch, but not Switch Online subscribers",
     "link": "https://arstechnica.com/gaming/2026/02/pokemon-red-and-greens-gba-remakes-are-getting-re-released-on-switch-for-20-a-pop/",
     "summary": "Games appear to be mostly unmodified ports of the well-regarded remakes.",
     "isoDate": "2026-02-20T16:30:21Z",
@@ -105,7 +161,7 @@
     "id": "2e406dd32f03204210044a1c3bde362e09ab9d89",
     "title": "Quebec vehicles agency spent C$245M over budget on SAP ERP it wasn't sure it needed",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/saaq_sap_overrun/",
-    "summary": "<h4>Probe says SAAQ misled government and botched rollout caused province-wide disruption</h4> <p>A judge-led commission in Quebec has found that the state agency responsible for driver's licenses and license plates misled the Canadian government about a troubled SAP ERP project that ran more than C$245 million ($179 million/ £132.6 million) over budget.…</p>",
+    "summary": "<h4>Probe says SAAQ misled government and botched rollout caused province-wide disruption</h4> <p>A judge-led commission in Quebec has found that the state agency responsible for driver's licenses and license plates misled the Canadian government about a troubled SAP ERP project that ran more than C$245 million ($179 million/£132.6 million) over budget.…</p>",
     "isoDate": "2026-02-20T15:43:16Z",
     "source": "The Register",
     "category": "Tech",
@@ -1037,24 +1093,6 @@
     "pinned": false
   },
   {
-    "id": "3f9f3bc8f1e2a2a4f59670144952ce887bef9399",
-    "title": "Verizon acknowledges \"pain\" of new unlock policy, suggests change is coming",
-    "link": "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/",
-    "summary": "Report: Verizon's goal is \"immediate unlock for all payment methods really soon.\"",
-    "isoDate": "2026-02-18T20:58:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "FCC",
-      "phone unlock",
-      "verizon"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/getty-verizon-500x500-1747846759.jpg",
-    "pinned": false
-  },
-  {
     "id": "7c17bf124ac25b283aed8a4a2fc7d2bc3e2f6379",
     "title": "ShinyHunters claims it drove off with 1.7M CarGurus records",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/shinyhunters_cargurus_breach/",
@@ -1193,32 +1231,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b3970fd5b2a7a2ccfa5f45c9e34238eea6107b3b",
-    "title": "Tesla drops 'Autopilot' branding in California after DMV order",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/tesla_drops_autopilot_marketing/",
-    "summary": "<h4>EV maker avoids 30-day license suspension after state ruling on self-driving claims</h4> <p>Tesla has complied with an order by the California Department of Motor Vehicles (DMV) and stopped using the term \"Autopilot\" in its marketing of electric vehicles, having already modified use of \"Full Self-Driving\" to clarify that it requires driver supervision.…</p>",
-    "isoDate": "2026-02-18T13:41:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "72ffb8ef751a9d11746eb49583a057c7b12123d9",
-    "title": "Cabinet Office probes digital ID minister over think tank's journalist investigation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/digital_id_minister_probe/",
-    "summary": "<h4>Starmer orders inquiry after Labour Together commissioned dossier on reporters</h4> <p>Josh Simons, the Cabinet Office minister responsible for the UK government's digital identity program, is being probed by the department for his actions running a Labour think tank that commissioned an investigation into journalists.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-18T13:17:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
     "tags": [],
     "image": "",
     "pinned": false
