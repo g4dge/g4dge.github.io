@@ -1,5 +1,89 @@
 [
   {
+    "id": "5a31e32eeba438b38ab2171e805a8f4f090c3eaf",
+    "title": "LLM wrote it? Fine, but show us human documentation, demands EFF",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/eff_demands_human_documentation_as/",
+    "summary": "<h4>'Just trust us' – Big Tech's hackneyed catchphrase makes an unwelcome return</h4> <p>The Electronic Frontier Foundation says it will accept LLM generated code from contributors to its open source projects but will draw the line at non-human generated comments and documentation.…</p>",
+    "isoDate": "2026-02-20T12:55:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joe Fay",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0d5f6ecf3d03f9ee7bb986ba4f307f79ba7c7b92",
+    "title": "CISA gives federal agencies three days to patch actively exploited Dell bug",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/cisa_dell_vulnerability/",
+    "summary": "<h4>Hardcoded credential flaw in RecoverPoint already abused in espionage campaign</h4> <p>Uncle Sam's cyber defenders have given federal agencies just three days to patch a maximum-severity Dell bug that's been under active exploitation since at least mid-2024.…</p>",
+    "isoDate": "2026-02-20T12:13:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e25c8f3cefae17f294b84a911b710181843d9bb2",
+    "title": "Microsoft deletes blog telling users to train AI on pirated Harry Potter books",
+    "link": "https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/",
+    "summary": "The now-deleted Harry Potter data set was \"mistakenly\" marked public domain.",
+    "isoDate": "2026-02-20T12:11:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "generative ai",
+      "harry potter",
+      "Isaac Asimov",
+      "large language models",
+      "LLMs",
+      "microsoft"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/AI-generated-Harry-Potter-image-via-Microsoft-blog-500x500-1771541382.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ebabeeec777bdb489bab926c1b6ab62995f29f40",
+    "title": "Rocket Report: Chinese launch firm raises big money; Falcon 9 back to the Bahamas",
+    "link": "https://arstechnica.com/space/2026/02/rocket-report-chinese-launch-firm-raises-big-money-falcon-9-back-to-the-bahamas/",
+    "summary": "The company that attempted China's first orbital-class rocket landing says it will soon try again.",
+    "isoDate": "2026-02-20T12:00:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "artemis II",
+      "launch",
+      "NASA",
+      "rocket report",
+      "space launch system",
+      "spacex",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/HBifCunX0AAeDpk-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2ae1591a605dbe649cb32700362d3c6c91eef7bd",
+    "title": "Tesla Model 3 and Model Y Top 2026 EV Satisfaction Study",
+    "link": "https://www.notateslaapp.com/news/3662/tesla-takes-top-2-spots-in-2026-ev-satisfaction-study",
+    "summary": "According to JD Power's 2026 U.S. Electric Vehicle Ownership Study, owner satisfaction has climbed to an all-time high, with Tesla leading the charge&hellip; <a href=\"https://www.notateslaapp.com/news/3662/tesla-takes-top-2-spots-in-2026-ev-satisfaction-study\">Read More</a>",
+    "isoDate": "2026-02-20T12:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_62.jpg/015acc6002be2e07e527f507cf366bb0/group_62.jpg",
+    "pinned": false
+  },
+  {
     "id": "ca4ff6a97915b85527f6c72a12533265f6e8b0ad",
     "title": "Why Doesn’t Tesla Pay Federal Taxes?",
     "link": "https://www.notateslaapp.com/news/3623/why-doesnt-tesla-pay-federal-taxes",
@@ -988,46 +1072,6 @@
     "pinned": false
   },
   {
-    "id": "4925d7371d6475f68f15e7f4d0e91c8be3f70999",
-    "title": "X-rays reveal kingfisher feather structure in unprecedented detail",
-    "link": "https://arstechnica.com/science/2026/02/what-the-chinese-art-of-tian-tsui-has-to-do-with-kingfishers/",
-    "summary": "Synchrotron radiation imaging revealed a porous, almost sponge-like nanostructure to create bright hues",
-    "isoDate": "2026-02-18T14:24:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "animals",
-      "kingfishers",
-      "nanostructure",
-      "photonic crystals",
-      "scanning electron microscopy",
-      "structural color"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/kingfisher4-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "88aebe226b7b4cc63f5de1395744aaf4def950b4",
-    "title": "Inside the DHS forum where ICE agents trash talk one another",
-    "link": "https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/",
-    "summary": "Forum members have discussed their discomfort with mass deportation efforts.",
-    "isoDate": "2026-02-18T14:14:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Vittoria Elliott, wired.com",
-    "tags": [
-      "Policy",
-      "DHS",
-      "Forums",
-      "ice",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hsi-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0ad74ada58b9727533592bc577456369404dbee3",
     "title": "Your AI-generated password isn't random, it just looks that way",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/generating_passwords_with_llms/",
@@ -1140,19 +1184,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "89a6f278b5ec73dfd5ad37f745c49536b0de8982",
-    "title": "HackerOne 'updating' Ts&amp;Cs after bug hunters question if they're training AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/hackerone_ai_policy/",
-    "summary": "<h4>CEO lauds security researchers, insists they're not 'inputs'</h4> <p>HackerOne has clarified its stance on GenAI after researchers fretted their submissions were being used to train its models.…</p>",
-    "isoDate": "2026-02-18T11:00:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
     "tags": [],
     "image": "",
     "pinned": false
