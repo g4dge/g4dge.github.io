@@ -1,5 +1,52 @@
 [
   {
+    "id": "e419e5b3a033e822c2e7e948da9734beb3d3ae7d",
+    "title": "AI coding assistant Cline compromised to create more OpenClaw chaos",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/openclaw_snuck_into_cline_package/",
+    "summary": "<h4>4K unintended installs in very odd supply chain attack</h4> <p>Someone compromised open source AI coding assistant Cline CLI's npm package earlier this week in an odd <a href=\"https://www.theregister.com/2026/02/12/supply_chain_attacks/\" target=\"_blank\">supply chain attack</a> that secretly installed OpenClaw on developers' machines without their knowledge. …</p>",
+    "isoDate": "2026-02-20T20:05:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4b0dcb11a340b811ff7f01381f028d3524a2f2c4",
+    "title": "SpaceX's faulty Falcon spewed massive lithium plume over Europe, say scientists",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/spacex_falcon_europe_breakup_lithium_plume/",
+    "summary": "<h4>Good news: Team shows re-entry pollution can be measured. Bad news: There may be more of it coming</h4> <p>The SpaceX Falcon 9 rocket that burned up over Europe last year left a massive lithium plume in its wake, say a group of scientists. They warn the disaster is likely a sign of things to come as Earth's atmosphere continues to become a heavily trafficked superhighway to space. …</p>",
+    "isoDate": "2026-02-20T19:55:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "aa5d3c4a5145b081e2ce9f12a29ad78a04bc992e",
+    "title": "Controversial NIH director now in charge of CDC, too, in RFK Jr. shake-up",
+    "link": "https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/",
+    "summary": "The unusual dual role has renewed criticism of Bhattacharya's lack of leadership.",
+    "isoDate": "2026-02-20T19:44:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "Bhattacharya",
+      "CDC",
+      "NIH",
+      "robert f kennedy jr",
+      "vaccine"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2236807442-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "6e491ec8632a15efb22b2d5b8401c110407941d2",
     "title": "Cerebras plans humongous AI supercomputer in India backed by UAE",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/india_ai_supercomputer_cerebras_uae/",
@@ -905,25 +952,6 @@
     "pinned": false
   },
   {
-    "id": "c9cf62e6eaed4ca5fb705c180e862ee25c8d82fd",
-    "title": "Rare gifted word-learner dogs like to share their toys",
-    "link": "https://arstechnica.com/science/2026/02/rare-gifted-word-learner-dogs-like-to-share-their-toys/",
-    "summary": "\"It raises the possibility that social motivation plays a role in why some dogs end up learning object names.\"",
-    "isoDate": "2026-02-19T13:32:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "animal cognition",
-      "animals",
-      "Biology",
-      "gifted word learner dogs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/doggo5-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "de14086be866004657ef3581795a643abaacc581",
     "title": "DEF CON bans three Epstein-linked men from future events",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/def_con_epstein_bans/",
@@ -1210,19 +1238,6 @@
     "pinned": false
   },
   {
-    "id": "dc8e036cdfd7435e572a135b1f6c40c61d468524",
-    "title": "Deutsche Bahn back on track after DDoS yanks the brakes",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/deutsche_bahn_ddos/",
-    "summary": "<h4>National rail bookings and timetables disrupted for nearly 24 hours</h4> <p>If you wanted to book a train trip in Germany recently, you would have been out of luck. The country's national rail company says that its services were disrupted for hours because of a cyberattack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-18T16:36:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "8ffabbc08fd3a40b69b4eb45d97ec589bae70d07",
     "title": "Tesla Skirts California Sales Ban After Killing Autopilot",
     "link": "https://www.notateslaapp.com/news/3629/tesla-skirts-california-sales-ban-by-killing-autopilot",
@@ -1233,19 +1248,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2022/model-3-model-y.jpg/a31e5f158174fe8d6f651f7b8e59349a/model-3-model-y.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b7447f3c497bb6d019a0aa2c43a1f3240d0b8947",
-    "title": "6,000 execs struggle to find the AI productivity boom",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/ai_productivity_survey/",
-    "summary": "<h4>Survey says 80% of firms see no gains from the tech</h4> <p>A survey of almost 6,000 corporate execs across the US, UK, Germany, and Australia found that more than 80 percent detect no discernible impact from AI on either employment or productivity.…</p>",
-    "isoDate": "2026-02-18T15:07:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
