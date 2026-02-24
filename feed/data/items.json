@@ -1,5 +1,49 @@
 [
   {
+    "id": "23fff0e9979c216b59c99aae74081e51230567e0",
+    "title": "Rogue devs of sideloaded Android apps beg for freedom from Google’s verification regime",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/google_android_developer_verification_plan/",
+    "summary": "<h4>37 groups urge the company to drop ID checks for apps distributed outside Play</h4> <p>Soon, developers who just want to make Android apps for sideloading will have to register with Google. Thirty-seven technology companies, nonprofits, and civil society groups think that the Chocolate Factory should keep its nose out of third-party app stores and have asked its leadership to reconsider.…</p>",
+    "isoDate": "2026-02-24T19:09:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "073518abd8512bb0164fd48cb2a0afab8f2f1341",
+    "title": "In a replay of 2019, Apple says a single desktop Mac will be manufactured in the US",
+    "link": "https://arstechnica.com/apple/2026/02/in-a-replay-of-2019-apple-says-a-single-desktop-mac-will-be-manufactured-in-the-us/",
+    "summary": "Apple is still working to get favorable tariff treatment from the Trump administration.",
+    "isoDate": "2026-02-24T18:46:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Policy",
+      "apple",
+      "Mac mini"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/IMG_2326-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "ca233d586d36c6afb1aea431e16aed3b93226fe9",
+    "title": "North Korea's Lazarus Group targets healthcare orgs with Medusa ransomware",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/north_koreas_lazarus_group_healthcare_medusa_ransomware/",
+    "summary": "<h4>New ransomware of choice, same critical targets</h4> <p>North Korea’s Lazarus Group appears to have added another tool to its kit. It has begun using Medusa ransomware in extortion attacks targeting at least one US healthcare organization and an unnamed victim in the Middle East, according to Symantec and Carbon Black threat hunters.…</p>",
+    "isoDate": "2026-02-24T18:25:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6832c607855a1962677071d0e93a6885682ec238",
     "title": "Tesla CarPlay Video: A Glimpse at the Potential Integration",
     "link": "https://www.notateslaapp.com/news/3670/tesla-carplay-video-a-glimpse-at-the-potential-integration",
@@ -316,7 +360,7 @@
   },
   {
     "id": "4790cbca23d422330a7fce92156855d11a403546",
-    "title": "Microsoft teases ‘reimagined SharePoint experience’ landing in April",
+    "title": "Microsoft teases ‘reimagined SharePoint experience’ with added AI",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/microsoft_365_roadmap_update/",
     "summary": "<h4>Redmond also offers to take the OneDrive name out of your OneDrive</h4> <p>Microsoft has teased a significant upgrade to its SharePoint collaborationware package.…</p>",
     "isoDate": "2026-02-24T07:03:14Z",
@@ -1130,27 +1174,6 @@
     "pinned": false
   },
   {
-    "id": "678f8a4098220f35309030d6cd2d518ab8a857fc",
-    "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company",
-    "link": "https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/",
-    "summary": "Microsoft CoreAI exec Asha Sharma will take over in surprise executive shake-up.",
-    "isoDate": "2026-02-20T23:28:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "executives",
-      "microsoft",
-      "Phil Spencer",
-      "spencer",
-      "XBox",
-      "xbox series x"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/02/dice_spencer-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2d0dc32f94a343e47723715f8133ac94fbf022ff",
     "title": "Exclusive First Look at FSD Stats in the Tesla App",
     "link": "https://www.notateslaapp.com/news/3672/exclusive-first-look-at-fsd-stats-in-the-tesla-app",
@@ -1185,32 +1208,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e419e5b3a033e822c2e7e948da9734beb3d3ae7d",
-    "title": "AI coding assistant Cline compromised to create more OpenClaw chaos",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/openclaw_snuck_into_cline_package/",
-    "summary": "<h4>4K unintended installs in very odd supply chain attack</h4> <p>Someone compromised open source AI coding assistant Cline CLI's npm package earlier this week in an odd <a href=\"https://www.theregister.com/2026/02/12/supply_chain_attacks/\" target=\"_blank\">supply chain attack</a> that secretly installed OpenClaw on developers' machines without their knowledge. …</p>",
-    "isoDate": "2026-02-20T20:05:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4b0dcb11a340b811ff7f01381f028d3524a2f2c4",
-    "title": "SpaceX's faulty Falcon spewed massive lithium plume over Europe, say scientists",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/spacex_falcon_europe_breakup_lithium_plume/",
-    "summary": "<h4>Good news: Team shows re-entry pollution can be measured. Bad news: There may be more of it coming</h4> <p>The SpaceX Falcon 9 rocket that burned up over Europe last year left a massive lithium plume in its wake, say a group of scientists. They warn the disaster is likely a sign of things to come as Earth's atmosphere continues to become a heavily trafficked superhighway to space. …</p>",
-    "isoDate": "2026-02-20T19:55:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
