@@ -1,5 +1,76 @@
 [
   {
+    "id": "968560ce20ea9eb1727635c3667856615c8917d5",
+    "title": "Orbital datacenters are a pie-in-the-sky idea: Gartner",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/gartner_orbiting_datacenter_peak_insanity/",
+    "summary": "<h4>Analyst firm bemoans ‘peak insanity’ among those who think circling servers can replace down-to-earth server farms</h4> <p>Analyst firm Gartner thinks talk of placing datacenters in space has reached “peak insanity,” because orbiting facilities can’t be run economically or satisfy demand for compute power on Earth.…</p>",
+    "isoDate": "2026-02-25T02:47:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1b05b899cc5aa9338810830989f9d5fd39d9cfd7",
+    "title": "Workday CEO's AI talk can't shake off weaker sales forecast",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/workday_q4_2026/",
+    "summary": "<h4>Claims HR company can escape the SaaSpocalypse with its core expertise</h4> <p>Workday CEO Aneel Bhusri has used the first quarterly earnings announcement since he returned to the big chair to reassure investors the company is building more capable agentic AI while keeping the fundamentals of the HR platform strong.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-25T01:02:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6ec4ffd43efa646fa60770bf036c5e1a9ea37fd2",
+    "title": "Meta frees React to live in its own foundation",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/meta_sends_react_to_live/",
+    "summary": "<h4>Organizations using the front-end JavaScript framework can expect vendor-neutral governance</h4> <p>Meta has turned over control of React, React Native, and associated projects like JSX to the newly formed React Foundation, fulfilling a commitment made last October.…</p>",
+    "isoDate": "2026-02-25T00:30:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b973abab3f35fcc3631d1ab2dada221ed7db761d",
+    "title": "It's only Tuesday and AI chip startups have already soaked up $1.1B in funding",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/ai_chips_vc_funding_1point1billion/",
+    "summary": "<h4>Fears of an AI bubble haven't tempered vulture capitalists' enthusiasm for silicon</h4> <p>AI chip startups collectively walked away with more than a billion dollars of new capital on Tuesday, showing that venture capitalists are still excited about the opportunity to challenge Nvidia's dominance despite all the talk of an AI bubble.…</p>",
+    "isoDate": "2026-02-25T00:08:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f3777dbcb737e42d6f6de2736e0d084679a7b0f2",
+    "title": "Boozy chimps fail urine test, confirm hotly debated theory",
+    "link": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/",
+    "summary": "Spare a thought for the intrepid graduate students who spent last summer in Africa collecting chimp urine.",
+    "isoDate": "2026-02-25T00:05:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "animal behavior",
+      "animals",
+      "Biology",
+      "primates"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/chimp1-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "d628aab73e95126f921473ee2a048798d08f226b",
     "title": "Amazon would rather blame its own engineers than its AI",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/amazon_blame_human_not_ai/",
@@ -1103,32 +1174,6 @@
     "pinned": false
   },
   {
-    "id": "9290e044af0be6618ef2b162c6a68088613c5e38",
-    "title": "Linus Torvalds: Someone ‘more competent who isn't afraid of numbers past the teens’ will take over Linux one day",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/linux_7_0_rc1/",
-    "summary": "<h4>Emperor Penguin releases kernel 7.0 rc1 with some numerological musings</h4> <p>Linus Torvalds has pondered his professional mortality in a self-deprecating post to mark the release of the first release candidate for version 7.0 of the Linux kernel.…</p>",
-    "isoDate": "2026-02-23T00:56:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3d643e23c135f340333fcc1ee5aa20027cb54bc7",
-    "title": "Attacker gets into France's database listing all bank accounts, makes off with 1.2 million records",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/22/french_bank_hack/",
-    "summary": "<h4>PLUS: Unpatched Ivanti boxes under attack; 0APT might not be a scam; AI gets better at helping cyber-scum; And more</h4> <p><strong>Infosec In Brief</strong>  An unknown attacker accessed the French government’s database listing every bank account in the country and made off with 1.2 million records.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-22T23:26:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "7a086e87782a6f224698b94ee848d54390592c60",
     "title": "Tesla’s Megacharger Network Coming to Europe",
     "link": "https://www.notateslaapp.com/news/3677/teslas-megacharger-network-coming-to-europe",
@@ -1161,35 +1206,6 @@
     "pinned": false
   },
   {
-    "id": "b8d9f808225edf2141b583acfdc9342b001ed33f",
-    "title": "UK council faces data breach claim after mishandling trans complaints",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/22/cornwall_council_complaints_breach/",
-    "summary": "<h4>Confidential complainant details passed to local politician following debate</h4> <p>A UK councillor has dubbed her local authority's data breach \"crazy\" after the personal details of individuals behind a series of complaints were revealed to her.…</p>",
-    "isoDate": "2026-02-22T09:34:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a8e46cbf921b581a706a2c561aa4875135f2ebb7",
-    "title": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs",
-    "link": "https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/",
-    "summary": "\"Accessing and remediating any of these issues can only be performed in the VAB.\"",
-    "isoDate": "2026-02-21T23:54:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/IMG_0016-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0d2847cbf7c1d091ea0664814a9ccbd3d64f9ebb",
     "title": "The Best Tesla Grok Tips",
     "link": "https://www.notateslaapp.com/news/3624/the-best-tesla-grok-tips",
@@ -1200,19 +1216,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-app.webp/3aee0127c222514f83a585f875903379/grok-app.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bb450ca67218fa029f71f2c92ba8e636f729745a",
-    "title": "Government upgrades drones, deploys joystick tweakers to catch illegal dumpers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/21/head/",
-    "summary": "<h4>Electronic eyes are watching from above, ready to catch dumpers of smashed up couches in the act</h4> <p>The UK government is pulling together an elite squad of drone operators to crack down on the scourge of fly tippers and unauthorized dumpers across this ever less green and pleasant land.…</p>",
-    "isoDate": "2026-02-21T11:03:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joe Fay",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
