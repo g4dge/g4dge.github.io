@@ -1,5 +1,83 @@
 [
   {
+    "id": "675e8ff62a887cfc1fc4b90136cb37ccf86d8b1c",
+    "title": "Hardly anybody bought Samsung's last smartphones for AI. It hopes this year's models change that",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/samsung_galaxy_s26_launch/",
+    "summary": "<h4>But only Qualcomm can power the most alluring features</h4> <p>Just 20 percent of punters who bought Samsung's 2025 flagship smartphone, the Galaxy S25 Ultra, cited AI as the main reason for their purchase. With this year's S26 models, the Korean giant hopes to improve that number.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-25T18:00:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4bef9e7b12f41b8ac6da4b9fc23caf2ccbe9d38b",
+    "title": "Tesla Confirms Hollywood Diner Built From Recycled Cybertruck Steel",
+    "link": "https://www.notateslaapp.com/news/3692/tesla-confirms-hollywood-diner-built-from-recycled-cybertruck-steel",
+    "summary": "Tesla officially opened its Hollywood diner last summer, and it turns out the building is just as 'tough as nails' as the trucks parked outside&hellip; <a href=\"https://www.notateslaapp.com/news/3692/tesla-confirms-hollywood-diner-built-from-recycled-cybertruck-steel\">Read More</a>",
+    "isoDate": "2026-02-25T17:02:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/tesla-diner-1.jpeg/2e2477e32d5bb3c5da680603ae7673b3/tesla-diner-1.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b4fda043005ed094e1e18c0b7e9ed60ad96ebcb5",
+    "title": "Tesla App Update 4.54.0: FSD Stats, Loyalty Program, FSD Impacted",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.54.0/release-notes",
+    "summary": "Tesla app update 4.54.0 includes Upcoming Loyalty Rewards, FSD Stats, FSD Impacted. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.54.0/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-02-25T16:53:29Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/loot-rewards.jpg/7205c142b8298902d01d426ba307d124/loot-rewards.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ea1433f3c20ea7f90b1452ae9c72736842cb1050",
+    "title": "Fake 'interview' repos lure Next.js devs into running secret-stealing malware",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/jobseeking_nextjs_devs_attack/",
+    "summary": "<h4>Come for the coding test, stay for the C2 traffic</h4> <p>Next.js developers are once again in the crosshairs as hackers seed malicious repositories disguised as legitimate projects, according to Microsoft, which said a limited set of those repos were directly tied to observed compromises.…</p>",
+    "isoDate": "2026-02-25T16:51:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "028b9e8953e8620f41213eed9763a952ae64fa3f",
+    "title": "Microsoft boss on AI content: 'Nobody wants anything that is sloppy'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/microsoft_boss_on_ai_content/",
+    "summary": "<h4>Sometimes the 'S' word slips through even the best media training</h4> <p>Is it OK to say \"slop\" again? Microsoft boss Satya Nadella took to the stage on the London leg of the company's AI tour and said the words that many an IT pro has uttered when faced with a Copilot rollout: \"Nobody wants anything that is sloppy in terms of AI creation.\"…</p>",
+    "isoDate": "2026-02-25T16:30:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "bc3b70b2f450f7fd05fdaca3566a6fc785158b5f",
+    "title": "Cloudflare experiment ports most of Next.js API 'in one week' with AI",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/cloudflare_nextjs_api_ai/",
+    "summary": "<h4>Uses Vite and Claude to sidestep Vercel lock-in</h4> <p>A Cloudflare engineer says he has implemented 94 percent of the Next.js API by directing Anthropic's Claude, spending about $1,100 on tokens.…</p>",
+    "isoDate": "2026-02-25T16:14:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "54f25197fe93f182cb4aca58a915031bf2664f5e",
     "title": "Trump's MAHA influencer pick for surgeon general goes before Senate",
     "link": "https://arstechnica.com/health/2026/02/rfk-jr-ally-casey-means-faces-senate-for-surgeon-general-confirmation-hearing/",
@@ -1025,19 +1103,6 @@
     "pinned": false
   },
   {
-    "id": "26434ac986f77574be1e30be32947bf83c7b50a7",
-    "title": "Infosec community panics as Anthropic rolls out Claude code security checker",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/claude_code_security_panic/",
-    "summary": "<h4>Not the first of its kind</h4> <p><strong>ai-pocalypse</strong>  Anthropic sent the infosec community into a tizzy on Friday when it rolled out Claude Code Security, a new feature that scans codebases for vulnerabilities and suggests patches to fix the issues.…</p>",
-    "isoDate": "2026-02-23T19:50:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "4c40422a7fe27b51fdd2412f96642646ed321435",
     "title": "Tesla Website Hints at Monthly FSD Subscriptions for Europe",
     "link": "https://www.notateslaapp.com/news/3680/tesla-website-hints-at-monthly-fsd-subscriptions-for-europe",
@@ -1048,19 +1113,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a7acb6bfafe7778296b84720ee461b2e4cc1ef6a",
-    "title": "Microsoft execs worry AI will eat entry level coding jobs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/microsoft_ai_entry_level_russinovich_hanselman/",
-    "summary": "<h4>Russinovich and Hanselman say firms must train juniors to fix agent mistakes – not replace them with prompts</h4> <p>Microsoft Azure CTO Mark Russinovich and VP of Developer Community Scott Hanselman have written a paper arguing that senior software engineers must mentor junior developers to prevent AI coding agents from hollowing out the profession's future skills base.…</p>",
-    "isoDate": "2026-02-23T18:01:42Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1080,32 +1132,6 @@
       "XBox"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/sharma-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f10544e04ad3061aae929182fc86c7439810ae8c",
-    "title": "Indie web browser Ladybird flutters toward Rust with a little help from AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/ladybird_goes_rusty/",
-    "summary": "<h4>Project ditches Swift and translates C++ with LLM assistance</h4> <p>The independent Ladybird web browser project is changing course on its choice of programming languages, with LLM-based coding assistants helping to evaluate the shift.…</p>",
-    "isoDate": "2026-02-23T17:43:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2ab3e98cd2ddac87d0de25175cf8974515f1e9ca",
-    "title": "Artemis II headed back to the bay; helium issues force another delay",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/artemis_ii_launch_april_helium_issues/",
-    "summary": "<h4>Sending humans around the Moon in <s>February</s>, er, <s>March</s> - now April 2026, maybe</h4> <p>The quest to return to the Moon has hit another snag. NASA is delaying Artemis II again, as interrupted helium flow to the rocket’s upper stage forces a rollback to the Vehicle Assembly Building (VAB) and wipes out the March launch window.…</p>",
-    "isoDate": "2026-02-23T17:05:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1482,32 +1508,6 @@
     "author": "Carlo Iacono",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "19ff743d466477a44581a7de9f0e0d6a15d49ef1",
-    "title": "Musk Confirms Tesla Will Sell the Cybercab This Year to Consumers",
-    "link": "https://www.notateslaapp.com/news/3626/musk-confirms-tesla-will-sell-the-cybercab-this-year-to-consumers",
-    "summary": "Elon Musk has officially accepted MKBHD’s bet, confirming Tesla will deliver a sub-$30,000 Cybercab before 2027.&hellip; <a href=\"https://www.notateslaapp.com/news/3626/musk-confirms-tesla-will-sell-the-cybercab-this-year-to-consumers\">Read More</a>",
-    "isoDate": "2026-02-18T17:43:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/munro-cybercab.jpg/3b72d1e2fbe81d137b6867635515aeab/munro-cybercab.jpg",
-    "pinned": false
-  },
-  {
-    "id": "71f0c01a0a39e8be73f9a3f2ac1766d2decef859",
-    "title": "Tesla Model 3 Wins Edmunds Top Rated Electric Car Award",
-    "link": "https://www.notateslaapp.com/news/3630/tesla-model-3-wins-edmunds-top-rated-electric-car-award",
-    "summary": "The Tesla Model 3 has officially been named the Edmunds Top Rated Electric Car for 2026, beating out stiff competition from legacy automakers like Audi and BMW&hellip; <a href=\"https://www.notateslaapp.com/news/3630/tesla-model-3-wins-edmunds-top-rated-electric-car-award\">Read More</a>",
-    "isoDate": "2026-02-18T16:43:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-3/0x0-model-3_01.jpg/71c76bc68af96613ba698024a89a3f05/0x0-model-3_01.jpg",
     "pinned": false
   }
 ]
