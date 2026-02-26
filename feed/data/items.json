@@ -1,5 +1,18 @@
 [
   {
+    "id": "33bc047f8d20a2d14e4ac568c9f85cd7ecbded8f",
+    "title": "AI models still suck at math",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/ai_models_get_better_at/",
+    "summary": "<h4>Just less than before, according to the ORCA test</h4> <p><strong>exclusive</strong>  Current-day LLMs are prediction engines and, as such, they can only find the most likely solution to problems, which is not necessarily the correct one. Though popular models have mostly become better at math, even top performer Gemini 3 Flash would receive a C if assessed with a letter grade.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-26T20:42:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6439f7ae6ac2aa7879b24ec63872b8e26dbf5b71",
     "title": "Tesla FSD Officially Begins Road Testing in the UAE",
     "link": "https://www.notateslaapp.com/news/3706/tesla-fsd-officially-begins-road-testing-in-the-uae",
@@ -1204,19 +1217,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "12839241095060fab8cb9fe598327ac6a5c7dac5",
-    "title": "Patch these 4 critical, make-me-root SolarWinds bugs ASAP",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/patch_these_4_critical_makemeroot/",
-    "summary": "<h4>SolarWinds + file transfer software = what attackers' dreams are made of</h4> <p>If you run SolarWinds’ Serv-U, you should patch promptly. Four critical vulnerabilities in the file transfer software can allow attackers to execute code as root.…</p>",
-    "isoDate": "2026-02-24T19:55:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
