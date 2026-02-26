@@ -1,5 +1,31 @@
 [
   {
+    "id": "0fc4f458dca5f417b8fc4f434b70ec543b71127d",
+    "title": "Moon's mighty magnetic field was a 5,000-year titanium blip",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/moon_magnetic_field/",
+    "summary": "<h4>So say Oxford boffins who found 'bias' related to Apollo rock samples created false impression</h4> <p>Scientists at the University of Oxford say they may have cracked the puzzle of the Moon's magnetic field and settled a debate that has raged since the Apollo missions returned with rock samples.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-02-26T10:37:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b89d9fde32d67a766e1196221aaca05dfd7ad874",
+    "title": "GCHQ dangles up to £130K for a CISO to fight the world's most capable adversaries",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/gchq_ciso_job/",
+    "summary": "<h4>No pressure</h4> <p>GCHQ is looking to recruit a chief information security officer (CISO), a job it describes as \"one of the most influential cybersecurity leadership roles in the UK,\" at a salary of £96,981 to £130,000.…</p>",
+    "isoDate": "2026-02-26T10:13:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "SA Mathieson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "26db95c2ec9283691c1e5fa92c8ef3c209ba0f53",
     "title": "Britain's creaking courts to use Copilot for transcriptions",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/copilot_courts_system/",
@@ -14,9 +40,9 @@
   },
   {
     "id": "2d4da57dcb8ffbbe2ec85e9ce2166414501e0cc3",
-    "title": "Microsoft ‘cooperating’ with Japanese antitrust probe",
+    "title": "Microsoft 'cooperating' with Japanese antitrust probe",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/microsoft_japan_cloud_monopoly_investigation/",
-    "summary": "<h4>It looks like the same cloudy software licenses that offend Europe may be in play - along with a cute little monster</h4> <p>Microsoft is “fully cooperating” with a probe by Japan’s Fair Trade Commission, which wants to know if the software giant has violated the nation’s anti-monopoly laws.…</p>",
+    "summary": "<h4>It looks like the same cloudy software licenses that offend Europe may be in play – along with a cute little monster</h4> <p>Microsoft is \"fully cooperating\" with a probe by Japan's Fair Trade Commission, which wants to know if the software giant has violated the nation's anti-monopoly laws.…</p>",
     "isoDate": "2026-02-26T04:27:45Z",
     "source": "The Register",
     "category": "Tech",
@@ -40,7 +66,7 @@
   },
   {
     "id": "000d9ebdbb7142d4524f2a50a41f6a6f86d566df",
-    "title": "Nvidia hasn't made a cent in China lately - and might not need to given $120 billion profit",
+    "title": "Nvidia hasn't made a cent in China lately – and might not need to given $120B profit",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/nvidia_q4_2026/",
     "summary": "<h4>GPU giant sees yet more growth coming soon, most of it in the datacenter</h4> <p>Nearly three months after the Trump administration allowed Nvidia to sell its H200 accelerator in China, the GPU giant is still waiting for Beijing to allow them in and for any revenue to materialize.…</p>",
     "isoDate": "2026-02-26T01:28:47Z",
@@ -55,7 +81,7 @@
     "id": "72aea88b4f8e80dc3352819ef6d2bbe2ca7f5396",
     "title": "Claude collaboration tools left the door wide open to remote code execution",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/clade_code_cves/",
-    "summary": "<h4>Anthropic fixed the flaws - but the AI-enabled attack surfaces remain</h4> <p>Security vulnerabilities in Claude Code could have allowed attackers to remotely execute code on users' machines and steal API keys by injecting malicious configurations into repositories, and then waiting for a developer to clone and open an untrustworthy project.…</p>",
+    "summary": "<h4>Anthropic fixed the flaws – but the AI-enabled attack surfaces remain</h4> <p>Security vulnerabilities in Claude Code could have allowed attackers to remotely execute code on users' machines and steal API keys by injecting malicious configurations into repositories, and then waiting for a developer to clone and open an untrustworthy project.…</p>",
     "isoDate": "2026-02-26T00:33:20Z",
     "source": "The Register",
     "category": "Tech",
@@ -1098,32 +1124,6 @@
       "X-rays"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/scotch1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c45360ddd494728c781507a422ea047578a2fcce",
-    "title": "UK data watchdog fines Reddit £14.47M for letting kids slip past the gate",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/ico_fines_reddit/",
-    "summary": "<h4>Social media giant retorts it doesn't want to collect 'private' data, and plans to appeal</h4> <p>The UK's data protection regulator has fined social media giant Reddit £14.47 million ($19.5 million) over its use of children's data.…</p>",
-    "isoDate": "2026-02-24T13:29:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "087f03e8961adfe2949a6859d8acb09372a36a90",
-    "title": "KDE Plasma 6.6 isn't forcing systemd but the arguments rage on",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/kde_plasma_66/",
-    "summary": "<h4>BSD support improves, FreeBSD eyes a desktop option, and the init wars refuse to die</h4> <p>The latest KDE desktop environment is out. Among other things, it comes with a pledge that it won't require systemd, and this version has improved OpenBSD support. FreeBSD 15.1's installer offers KDE too.…</p>",
-    "isoDate": "2026-02-24T12:30:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
