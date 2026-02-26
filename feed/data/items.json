@@ -1,5 +1,62 @@
 [
   {
+    "id": "bd9d5ac46787c1f3016061bee1c3e6e72bbb3eea",
+    "title": "ServiceNow boasts its AI bot is resolving 90% of its own help desk tickets",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/servicenow_ai_bot_helpdesk_tickets/",
+    "summary": "<h4>When it gets stuck, the bot will escalate rather than hallucinate</h4> <p>ServiceNow claims it has created an AI agent that is currently solving 90 percent of the inbound IT tickets to the company's own employee help desk.…</p>",
+    "isoDate": "2026-02-26T23:22:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "18d179075df8577d3fb846d83244b0e02305efe4",
+    "title": "Neanderthals seemed to have a thing for modern human women",
+    "link": "https://arstechnica.com/science/2026/02/genomes-chart-the-history-of-neanderthal-modern-human-interactions/",
+    "summary": "\"Neanderthal deserts\" in our genomes suggest a strong pattern in matings.",
+    "isoDate": "2026-02-26T23:16:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "Biology",
+      "evolution",
+      "Genomics",
+      "human evolution",
+      "Neanderthals"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1243699616-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2054dfd10ac725336ec39cd681725cf0c441fe89",
+    "title": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
+    "link": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/",
+    "summary": "It's also a buttoned-down, ostensibly safer take on the OpenClaw concept.",
+    "isoDate": "2026-02-26T22:53:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "agentic AI",
+      "Claude Code",
+      "Claude Cowork",
+      "LLM",
+      "MCP",
+      "Model Context Protocol",
+      "OpenClaw",
+      "Perplexity",
+      "Perplexity Computer"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Perplexity-Computer-500x500-1772142771.jpg",
+    "pinned": false
+  },
+  {
     "id": "fc4edfb630eaa4a9336a888a8069cfa93f1b86d7",
     "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
     "link": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/",
@@ -1149,25 +1206,6 @@
     "pinned": false
   },
   {
-    "id": "f3777dbcb737e42d6f6de2736e0d084679a7b0f2",
-    "title": "Boozy chimps fail urine test, confirm hotly debated theory",
-    "link": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/",
-    "summary": "Spare a thought for the intrepid graduate students who spent last summer in Africa collecting chimp urine.",
-    "isoDate": "2026-02-25T00:05:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "animal behavior",
-      "animals",
-      "Biology",
-      "primates"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/chimp1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d628aab73e95126f921473ee2a048798d08f226b",
     "title": "Amazon would rather blame its own engineers than its AI",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/amazon_blame_human_not_ai/",
@@ -1176,41 +1214,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Corey Quinn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "710cf5a2cdc2bd2b06dfa24609ea48c04603d712",
-    "title": "WBD says Paramount’s new higher offer could be “superior” to Netflix's",
-    "link": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
-    "summary": "WBD's board is still reviewing the offer.",
-    "isoDate": "2026-02-24T22:52:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "acquisitions",
-      "hbo max",
-      "mergers",
-      "Netflix",
-      "Paramount Skydance",
-      "streaming",
-      "warner bros. discovery"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2215193098-500x500-1768255627.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e6ca3da62f43442f67016d9126578bedd8ea36da",
-    "title": "AI has gotten good at finding bugs, not so good at swatting them",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/ai_finding_bugs/",
-    "summary": "<h4>Discovery is getting cheaper. Validation and patching aren’t</h4> <p>What good is finding a hole if you can't fix it? Anthropic last week talked up Claude Code's improved ability to find software vulnerabilities and propose patches. But security researchers say that's not enough.…</p>",
-    "isoDate": "2026-02-24T22:36:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
