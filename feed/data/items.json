@@ -1,5 +1,47 @@
 [
   {
+    "id": "f7bd6e1cec4c1373c4001b0b9c74a9ac3a91f657",
+    "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+    "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+    "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+    "isoDate": "2026-02-28T01:26:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Google",
+      "Security",
+      "certificate transparency",
+      "HTTPS",
+      "merkle trees",
+      "shor's algorithm"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-500x500-1772240635.jpg",
+    "pinned": false
+  },
+  {
+    "id": "138322a2a2a2ee2a0857d02d58f2905bffc32b86",
+    "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
+    "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
+    "summary": "\"There were assumptions that were made in the strategy that obviously didn’t come to fruition.\"",
+    "isoDate": "2026-02-28T00:32:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "ICBM",
+      "Northrop Grumman",
+      "rockets",
+      "sentinel",
+      "strategic command",
+      "US Air Force"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/6404099-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "6a313dd447cdadace1440328d1e92f2a4237bb88",
     "title": "Double whammy: Steaelite RAT bundles data theft, ransomware in one evil tool",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/double_extortion_whammy_steaelite_rat/",
@@ -129,7 +171,7 @@
       "Sam Rockwell",
       "science fiction film"
     ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/goodluckTOP-500x500.jpg",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GLHFDD-TOP-500x500.jpg",
     "pinned": false
   },
   {
@@ -882,27 +924,6 @@
       "nano banana"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/NB2_Hero.width-2200.format-webp-500x500.png",
-    "pinned": false
-  },
-  {
-    "id": "6d235a92a025364819e0fe9d64e9b2869d25cd61",
-    "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
-    "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-    "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
-    "isoDate": "2026-02-26T15:45:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Features",
-      "Security",
-      "encryption",
-      "Networking",
-      "security",
-      "wi-fi"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-500x500-1751309971.jpg",
     "pinned": false
   },
   {
