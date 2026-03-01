@@ -1,5 +1,31 @@
 [
   {
+    "id": "c12a18b2db23114372afcefed75d5c684e7e2fff",
+    "title": "Lenovo shows off snap-together laptop with removable keyboard, screen, and ports",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/lenovo_shows_off_modular_laptop/",
+    "summary": "<h4>New ThinkPads also come in blue, get perfect fixability score</h4> <p>If you own a desktop computer, you're used to swapping parts and peripherals around, but most laptops are closed boxes with few ways to modify them. Lenovo's new ThinkBook Modular AI PC concept shows what happens when you can remove a screen, a keyboard, and even blocks of ports from a mobile PC.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-01T23:01:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a1eb98620f7839b0683d2c5ddd3cd712a1a43ef1",
+    "title": "AWS Middle East disrupted after ‘objects struck datacenter’ amid Iran war",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/01/asia_tech_news_roundup/",
+    "summary": "<h4>PLUS: AI claims 2,000 jobs at Australia’s WiseTech; Samsung wants humanoid robots for autonomous factories; Micron opens India plant; And more!</h4> <p><strong>Asia In brief</strong>  One of Amazon Web Services’ availability zones in the United Arab Emirates is offline after the facility was hit by unknown objects.…</p>",
+    "isoDate": "2026-03-01T22:49:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1610e9f97642bf15454d215a8b425d128a9fa1ec",
     "title": "Tesla Changes FSD Transfer Policy: The Changes and What They Mean",
     "link": "https://www.notateslaapp.com/news/3721/tesla-shifts-fsd-transfer-policy-leaving-buyers-out-in-the-cold",
@@ -1314,32 +1340,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "72aea88b4f8e80dc3352819ef6d2bbe2ca7f5396",
-    "title": "Claude collaboration tools left the door wide open to remote code execution",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/clade_code_cves/",
-    "summary": "<h4>Anthropic fixed the flaws – but the AI-enabled attack surfaces remain</h4> <p>Security vulnerabilities in Claude Code could have allowed attackers to remotely execute code on users' machines and steal API keys by injecting malicious configurations into repositories, and then waiting for a developer to clone and open an untrustworthy project.…</p>",
-    "isoDate": "2026-02-26T00:33:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "489612c928f21c4c1ed12f9ae1027ab185814ece",
-    "title": "LLMs killed the privacy star, we can't rewind, we've gone too far",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/llms_killed_privacy_star/",
-    "summary": "<h4>You'll find these days that there's no hiding place</h4> <p>Add privacy to the list of potential casualties caused by the proliferation of AI, because researchers have found that large language models (LLMs) can be used to deanonymize internet users – even those who use pseudonyms – more efficiently than human sleuths.…</p>",
-    "isoDate": "2026-02-26T00:14:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
