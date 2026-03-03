@@ -1,5 +1,74 @@
 [
   {
+    "id": "24c5f91c4506301e97254a17f448483d61cbba88",
+    "title": "Turns out most cybercriminals are old enough to know better",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/turns_out_most_cybercriminals_are/",
+    "summary": "<h4>Law enforcement data shows profit-driven cybercrime is dominated by 35- to 44-year-olds, not script kiddies</h4> <p>Contrary to what some believe, cybercrime is not a kids' game. Middle-aged adults, not teenagers, now make up the biggest chunk of people getting busted.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-03T15:25:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7303b65d8b722cf599f2652e89cffd692318601c",
+    "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+    "link": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
+    "summary": "New laptops come with more storage but also higher starting prices.",
+    "isoDate": "2026-03-03T15:19:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Tech",
+      "MacBook Pro",
+      "studio display"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303-500x500-1772550890.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "2cb3634d5e8337d93a278e4fb9156edbc2c0e6c2",
+    "title": "This is why our electricity bills are so high right now",
+    "link": "https://arstechnica.com/tech-policy/2026/03/this-is-why-our-electricity-bills-are-so-high-right-now/",
+    "summary": "New data shows electricity rates rose 5 percent nationwide in 2025.",
+    "isoDate": "2026-03-03T15:01:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Gearino and Marianne Lavelle, Inside Climate news",
+    "tags": [
+      "Policy",
+      "electricity",
+      "energy policy",
+      "syndication",
+      "utilities"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/electric-transmission-grid-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1df9f711c28eb8af7df90ab9622ced80b4a645ea",
+    "title": "As Moon interest heats up, two companies unveil plans for a lunar \"harvester\"",
+    "link": "https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/",
+    "summary": "\"Ultimately, we want to build a fleet of electric harvesters.\"",
+    "isoDate": "2026-03-03T15:00:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "astrolab",
+      "interlune",
+      "lunar rover",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/FLEX-Exc.4k3_closeup-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "0ca86a1151768068b871d53873b6dc0890ebe97c",
     "title": "Western governments seek to lock down 6G before it even exists",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/telecoms_coalition_6g/",
@@ -1082,27 +1151,6 @@
     "pinned": false
   },
   {
-    "id": "138322a2a2a2ee2a0857d02d58f2905bffc32b86",
-    "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
-    "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
-    "summary": "\"There were assumptions that were made in the strategy that obviously didn’t come to fruition.\"",
-    "isoDate": "2026-02-28T00:32:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "ICBM",
-      "Northrop Grumman",
-      "rockets",
-      "sentinel",
-      "strategic command",
-      "US Air Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/6404099-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6a313dd447cdadace1440328d1e92f2a4237bb88",
     "title": "Double whammy: Steaelite RAT bundles data theft, ransomware in one evil tool",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/double_extortion_whammy_steaelite_rat/",
@@ -1129,31 +1177,6 @@
     "pinned": false
   },
   {
-    "id": "8a494c24366922303a844d4a4b6b87005d400210",
-    "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
-    "link": "https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/",
-    "summary": "Can two declining companies form a profitable one?",
-    "isoDate": "2026-02-27T22:39:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Policy",
-      "Tech",
-      "acquisitions",
-      "cable",
-      "hbo max",
-      "mergers",
-      "Netflix",
-      "paramount plus",
-      "Paramount Skydance",
-      "streaming",
-      "warner bros. discovery"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-79075226-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b3534ff8b2ec0b8fd9244e8c6564d1a1b1ba5acc",
     "title": "PCs and phones to get more boring and expensive in 2026 thanks to memory drought",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/memory_drought_pcs_phones_suck/",
@@ -1164,24 +1187,6 @@
     "author": "O'Ryan Johnson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "af287e41cb1f59d76feee24a27bf86fc67c816fc",
-    "title": "Photons that aren't actually there influence superconductivity",
-    "link": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
-    "summary": "Interactions between neighboring materials is mediated by virtual photons.",
-    "isoDate": "2026-02-27T21:27:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "Physics",
-      "superconductivity",
-      "virtual particles"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/niac_2011_thibeault-500x500.jpg",
     "pinned": false
   },
   {
@@ -1552,19 +1557,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/modely_45.jpg/67e6f4adfacb7e10eedaaaad0f9511b5/modely_45.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fb3bcdc474ef130cf0ad595958debaf7aa12fc6a",
-    "title": "Tesla Launches Grok in Australia & New Zealand With Update 2026.2.6.1",
-    "link": "https://www.notateslaapp.com/news/3684/tesla-launches-grok-in-australia-new-zealand-with-update-2026261",
-    "summary": "Tesla has officially started rolling out Grok AI with natural language navigation commands to owners in Australia and New Zealand.&hellip; <a href=\"https://www.notateslaapp.com/news/3684/tesla-launches-grok-in-australia-new-zealand-with-update-2026261\">Read More</a>",
-    "isoDate": "2026-02-24T15:54:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/ai/tesla-xai.jpg/c95c99a054e537ed89037391796e04fd/tesla-xai.jpg",
     "pinned": false
   }
 ]
