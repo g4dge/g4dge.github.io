@@ -1,9 +1,117 @@
 [
   {
+    "id": "29dbeb2aa85a5233e59550ab23bb0a290e5fbc46",
+    "title": "Bank of England says it can run £431M settlement system without Accenture",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/bank_of_england_accenture/",
+    "summary": "<h4>Deputy governor tells MPs central bank now has in-house skills and IP to maintain revamped RTGS</h4> <p>As the last Accenture employee clocked off from supporting the Bank of England's £431 million Real-Time Gross Settlement (RTGS) system, the Old Lady of Threadneedle Street was assured it would no longer depend on the global consultancy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-03T13:14:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "adac5f14e978e62ca82380bab49ceddb29ca7c0f",
+    "title": "Bootleg Windows, Office scheme crashes, triggers 22-month lockup for Florida woman",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/windows_office_software_scalper/",
+    "summary": "<h4>Heidi Richards paid more than $5M for certificate of authenticity labels in five years</h4> <p>A Florida woman will spend nearly two years behind bars after being found guilty of fraudulently acquiring Microsoft certificate of authenticity (COA) labels and selling them in bulk.…</p>",
+    "isoDate": "2026-03-03T12:47:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e43fa0a96933267435bd7e526f84fc728108b480",
+    "title": "Microsoft reportedly eyes E7 tier to make AI agents pay their way - like the humans they'll replace",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_365_e7_rumors/",
+    "summary": "<h4>Redmond wants a monthly cut from every digital worker on your payroll. Agents don't need dental, they will need a SKU</h4> <p>Microsoft is reportedly planning to license AI agents like employees - and charge accordingly.…</p>",
+    "isoDate": "2026-03-03T12:39:55Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "71bce302136d37c67fb524a3bfc39802b4356755",
+    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+    "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+    "isoDate": "2026-03-03T12:30:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "deanonymization",
+      "LLMs",
+      "privacy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2e6f0db3f35c68fea16e408ea48e34fb146652f0",
+    "title": "With developer verification, Google's Apple envy threatens to dismantle Android's open legacy",
+    "link": "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
+    "summary": "Questions remain as Google prepares to lock down Android app distribution in the name of security.",
+    "isoDate": "2026-03-03T12:00:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Features",
+      "Google",
+      "Tech",
+      "android",
+      "developer verification",
+      "google",
+      "malware",
+      "privacy",
+      "security"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/app-cops-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "111bdd98b0505cbceed713bc840ae3600b47be03",
+    "title": "Tesla Clears Out Model 3 Inventory in Canada Ahead of Chinese EV Imports",
+    "link": "https://www.notateslaapp.com/news/3727/tesla-clears-out-model-3-inventory-in-canada-ahead-of-chinese-ev-imports",
+    "summary": "Tesla has quietly removed all Model 3 inventory from Canada just as a new federal import quota opens the door for cheaper, Giga Shanghai-built EVs.&hellip; <a href=\"https://www.notateslaapp.com/news/3727/tesla-clears-out-model-3-inventory-in-canada-ahead-of-chinese-ev-imports\">Read More</a>",
+    "isoDate": "2026-03-03T12:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/model3premium_69.webp/6161d1f2ceb2be186a51d90bbb928894/model3premium_69.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b7d4c6fdc4a6433c7f28216b4e84bca8e13e2ebe",
+    "title": "Chrome Gemini panel became privilege escalator for rogue extensions",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/google_chrome_bug_gemini/",
+    "summary": "<h4>High-severity flaw let malicious add-ons access system via browser's embedded AI feature</h4> <p>Security boffins have discovered a high-severity bug in Google Chrome that allowed malicious extensions to hijack its Gemini Live AI panel and inherit privileges they were never meant to have.…</p>",
+    "isoDate": "2026-03-03T11:39:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "dec249bff222aab84c9ce0c5537877f98d62452e",
     "title": "Cybercriminals swipe 15.8M medical records from French doctors ministry",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/french_medical_leak/",
-    "summary": "<h4>Third-party software supplier breached leading to leak of doctors' notes</h4> <p>Around 15.8 million administrative files were stolen after attackers breached a software supplier to France's health ministry.…</p>",
+    "summary": "<h4>Third-party software supplier breached leading to leak of notes</h4> <p>Around 15.8 million administrative files were stolen after attackers breached a software supplier to France's health ministry.…</p>",
     "isoDate": "2026-03-03T11:00:07Z",
     "source": "The Register",
     "category": "Tech",
@@ -1037,27 +1145,6 @@
     "pinned": false
   },
   {
-    "id": "e666db3d1d1aab62d587fa708b07a6476bd0badc",
-    "title": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
-    "link": "https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/",
-    "summary": "Director Gore Verbinksi and screenwriter Matthew Robinson on the making of this darkly satirical sci-fi film.",
-    "isoDate": "2026-02-27T19:04:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Briarcliff Entertainment",
-      "film",
-      "Good Luck Have Fun Don't Die",
-      "Gore Verbinski",
-      "Sam Rockwell",
-      "science fiction film"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GLHFDD-TOP-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "35fedee97aab9fc25734d4a4c3a21dc4c27d9e0c",
     "title": "Oak Ridge spawns institute to curb AI datacenter power surge",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/oak_ridge_datacenter_power/",
@@ -1081,25 +1168,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2021/4680-batteries.jpg/ff0d45be62109f88ea22b0fadb28fa63.jpg",
-    "pinned": false
-  },
-  {
-    "id": "72d5441d5b5ec1418257c9eb1666890aa7502d79",
-    "title": "Hyperion author Dan Simmons dies from stroke at 77",
-    "link": "https://arstechnica.com/culture/2026/02/hyperion-author-dan-simmons-dies-from-stroke-at-77/",
-    "summary": "I went into <em>Hyperion</em> blind, decades ago, knowing almost nothing about it. I was never the same.",
-    "isoDate": "2026-02-27T18:36:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Culture",
-      "Space",
-      "dan simmons",
-      "Hyperion",
-      "obituary"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/06/Hyperion-500x500.jpg",
     "pinned": false
   },
   {
@@ -1142,32 +1210,6 @@
     "pinned": false
   },
   {
-    "id": "585d355b7ced3530324f2f60ca151fa9d5c038b0",
-    "title": "Lovable-hosted app littered with basic flaws exposed 18K users, researcher claims",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/lovable_app_vulnerabilities/",
-    "summary": "<h4>Who's to blame – the vibey platforms or the humans who ignore security warnings?</h4> <p>Vibe-coding platform Lovable has been accused of hosting apps riddled with vulnerabilities after saying users are responsible for addressing security issues flagged before publishing.…</p>",
-    "isoDate": "2026-02-27T16:36:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4e73236bbbca2374547785cd36fa1e13362e92a6",
-    "title": "Ransomware payments cratered in 2025, but attacks surged to record highs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/ransomware_chainalysis/",
-    "summary": "<h4>Smaller crews piled in as old names splintered and rebranded</h4> <p>Ransomware payments cratered in 2025, but it seems like the cybercrooks launching the attacks didn't get the memo.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-27T16:15:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "713ab7ff1864dee13d2456af3e9e3ca0be2b8922",
     "title": "Tesla's 7-Seat Model Y Returns to Europe With New Upgrades",
     "link": "https://www.notateslaapp.com/news/3713/teslas-7-seat-model-y-returns-to-europe-with-new-upgrades",
@@ -1181,19 +1223,6 @@
     "pinned": false
   },
   {
-    "id": "671d7131e5baa37ba0534eb761f3ba24f10159dd",
-    "title": "French DIY etailer ManoMano admits customer data stolen",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/manomano_breach/",
-    "summary": "<h4>Crooks claim they helped themselves to over 37M accounts during January hit on subcontractor</h4> <p><strong>Updated</strong>  French online marketplace ManoMano is warning customers their personal data was siphoned off after a cyberattack hit one of its customer support subcontractors – and criminals are already claiming the haul is far larger than the company's carefully worded notice suggests.…</p>",
-    "isoDate": "2026-02-27T15:15:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "893314bd384c82d99b1e8d9d19b86121f706e4ed",
     "title": "Tesla Updates App to 4.54.3: Spring Festival Charging Badges",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.54.3/release-notes",
@@ -1204,19 +1233,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-54-3/spring-festival-charging.webp/0218dca28742838e8c823731094bf75d/spring-festival-charging.jpg",
-    "pinned": false
-  },
-  {
-    "id": "351e6385323c87f1d128ceae440fe34fca8142a1",
-    "title": "Japan's Rapidus lands $1.7B to chase 2nm chip production by 2027",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/rapidus_funding/",
-    "summary": "<h4>Government and 32 private-sector backers fund push to take on TSMC and Samsung at leading-edge nodes</h4> <p>Japan's fledgling foundry biz Rapidus has secured funding of $1.7 billion to help it progress to mass production of 2nm semiconductors by 2027, making it a potential rival for Taiwan's TSMC.…</p>",
-    "isoDate": "2026-02-27T14:30:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
