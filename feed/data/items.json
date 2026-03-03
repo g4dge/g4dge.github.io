@@ -1,5 +1,75 @@
 [
   {
+    "id": "0ca86a1151768068b871d53873b6dc0890ebe97c",
+    "title": "Western governments seek to lock down 6G before it even exists",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/telecoms_coalition_6g/",
+    "summary": "<h4>Telecoms coalition wants to avoid another 5G-style vendor scramble with early security guardrails</h4> <p>A group of Western governments has launched a fresh bid to shape 6G before it's even standardized, unveiling a set of security and resilience principles to bake supply chain controls and cyber safeguards into the next generation of mobile networks.…</p>",
+    "isoDate": "2026-03-03T14:41:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2520a359e7637cb1a4bb4ca7fc73d357686d812b",
+    "title": "CIOs say AI adoption is moving faster than they can manage",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/cios_say_ai_adoption_too_fast/",
+    "summary": "<h4>Risk management? Continuity plan if our provider disappears? We've heard of these things</h4> <p>AI adoption is moving too rapidly say senior tech leaders, as the pressure to deploy clashes with risk management and compliance concerns.…</p>",
+    "isoDate": "2026-03-03T14:22:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5248406c8f09d08c0083537cdac453c0daa1edd4",
+    "title": "AWS backs Open VSX as Rust survey shows VS Code decline",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/open_vsx_aws/",
+    "summary": "<h4>AI-first editors and agent-driven tooling intensify competition in the IDE market</h4> <p>The Open VSX registry, used for installing extensions in editors compatible with Visual Studio Code (VS Code), will run on Amazon Web Services (AWS) infrastructure in Europe as part of a \"strategic investment\" from the cloud giant.…</p>",
+    "isoDate": "2026-03-03T14:05:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c230f50ef5d12e273d448dd1d4dc939f19a07c5e",
+    "title": "Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/perplexity_comet_browser_hole_cal_invite/",
+    "summary": "<h4>AI browsing agent left local files open for the taking</h4> <p>If you wanted to steal local files from someone using Perplexity's Comet browser, until last month you could just schedule the theft by sending your victim a calendar event.…</p>",
+    "isoDate": "2026-03-03T14:01:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ff516366e2d4c3bf6f9d131e8fd1e83efba4e136",
+    "title": "Medical journal The Lancet blasts RFK Jr.’s health work as a failure",
+    "link": "https://arstechnica.com/health/2026/03/medical-journal-the-lancet-blasts-rfk-jr-s-health-work-as-a-failure/",
+    "summary": "Kennedy's destruction \"might take generations to repair,\" The Lancet said.",
+    "isoDate": "2026-03-03T13:24:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "Medical research",
+      "Robert F Kenned Jr.",
+      "The Lancet"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "29dbeb2aa85a5233e59550ab23bb0a290e5fbc46",
     "title": "Bank of England says it can run £431M settlement system without Accenture",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/bank_of_england_accenture/",
@@ -27,9 +97,9 @@
   },
   {
     "id": "e43fa0a96933267435bd7e526f84fc728108b480",
-    "title": "Microsoft reportedly eyes E7 tier to make AI agents pay their way - like the humans they'll replace",
+    "title": "Microsoft reportedly eyes E7 tier to make AI agents pay their way – like the humans they'll replace",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_365_e7_rumors/",
-    "summary": "<h4>Redmond wants a monthly cut from every digital worker on your payroll. Agents don't need dental, they will need a SKU</h4> <p>Microsoft is reportedly planning to license AI agents like employees - and charge accordingly.…</p>",
+    "summary": "<h4>Redmond wants a monthly cut from every digital worker on your payroll. Agents don't need dental, they will need a SKU</h4> <p>Microsoft is reportedly planning to license AI agents like employees – and charge accordingly.…</p>",
     "isoDate": "2026-03-03T12:39:55Z",
     "source": "The Register",
     "category": "Tech",
@@ -1115,49 +1185,6 @@
     "pinned": false
   },
   {
-    "id": "737a7c4e5c1e1dbf019e12d41dd236283b169758",
-    "title": "Suspected Nork digital intruders caught breaking into US healthcare, education orgs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/suspected_nork_digital_intruders_caught/",
-    "summary": "<h4>Who is knocking at the Dohdoor?</h4> <p>Digital intruders with possible links to North Korea have been infecting US education and healthcare sectors with a never-before-seen backdoor since at least December, according to security researchers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-02-27T19:59:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6080aee3fc6995b35f7f8a7dd2880085678b23f5",
-    "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
-    "link": "https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/",
-    "summary": "Trump admin \"incompetence continues to cause chaos in our skies,\" Duckworth says.",
-    "isoDate": "2026-02-27T19:14:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "cbp",
-      "drone"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cbp-drone-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "35fedee97aab9fc25734d4a4c3a21dc4c27d9e0c",
-    "title": "Oak Ridge spawns institute to curb AI datacenter power surge",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/oak_ridge_datacenter_power/",
-    "summary": "<h4>Lab aims to link power, cooling, and workload management to ease strain on the US grid</h4> <p>Oak Ridge National Laboratory (ORNL) is hoping to turn its technical expertise to the problem of growing electricity demand from AI datacenters.…</p>",
-    "isoDate": "2026-02-27T18:56:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "29f99f49d983fc4cb3e13dbfd38d4977abb9562b",
     "title": "Tesla Shares Battery Tips: Don’t Supercharge Regularly, Charge to 80%, and More",
     "link": "https://www.notateslaapp.com/news/3715/teslas-new-battery-tips-regular-supercharging-is-a-no-go",
@@ -1181,32 +1208,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/energy/powerwalls.jpeg/4caad9b39a437eec926335d6f5a3fa06/powerwalls.jpg",
-    "pinned": false
-  },
-  {
-    "id": "85cb26ad7aeb388800a35065271ddf1005c5b98e",
-    "title": "Microsoft HoloLens finds second home in the military after failing battlefield tests",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/hololens_headsets_pentagon/",
-    "summary": "<h4>Let’s hope air cargo checks don’t trigger the same headaches</h4> <p>The US Army's attempt to turn Microsoft HoloLens headsets into battlefield kit may have failed, but the AR goggles aren't going into the garbage. Instead, they're being repurposed for remote cargo inspection support.…</p>",
-    "isoDate": "2026-02-27T18:07:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c70210b2f4d6489463cf401a54992ed28ea668b0",
-    "title": "Harvard boffins finally crack the mystery of squeaky sneakers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/harvard_boffins_squeaky_sneakers/",
-    "summary": "<h4>Are they shoe-ins for an award? Hard to say</h4> <p>It is a sound evocative of high school: the characteristic squeak of sneakers on a basketball court. UK readers may, however, be familiar with the same sound from their trainers while playing badminton.…</p>",
-    "isoDate": "2026-02-27T17:50:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
