@@ -1,5 +1,90 @@
 [
   {
+    "id": "471b74122b86ea3ccd5ce5c5bf353404c9c73b0a",
+    "title": "Flex appeal: UK datacenter cuts AI power draw 40% on command",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/demo_shows_datacenters_can_reduce/",
+    "summary": "<h4>London GPU farm dances to National Grid's tune in five-day trial, critical workloads not disrupted</h4> <p>A UK datacenter has successfully demonstrated it can reduce the amount of power drawn by AI infrastructure in response to grid events, without disrupting critical workloads.…</p>",
+    "isoDate": "2026-03-04T14:37:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9826df49b8bd5390bfdb55ae2eb96974b6f56b7b",
+    "title": "Kaspersky dismisses claims Coruna iPhone exploit kit is connected to NSA-linked operation",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/kaspersky_dismisses_claims_that_coruna/",
+    "summary": "<h4>Follows suggestions iPhone-pwning toolset bears hallmarks of zero-days that targeted Russian diplomats</h4> <p>Russian cybersecurity outfit Kaspersky is waving away claims that an iPhone exploit kit recently uncovered by Google was developed by the same people who were behind a group of zero-days that allegedly compromised thousands of Russian diplomats in a 2023 campaign.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-04T14:18:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9c50262e1ddb7080093622f3fb8837d97dcb8738",
+    "title": "The $599 MacBook Neo is Apple's long-awaited colorful, lower-cost MacBook",
+    "link": "https://arstechnica.com/gadgets/2026/03/the-599-macbook-neo-is-apples-long-awaited-colorful-lower-cost-macbook/",
+    "summary": "Cute, colorful laptop takes the place of the old $599 M1 MacBook Air.",
+    "isoDate": "2026-03-04T14:18:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Tech",
+      "apple",
+      "Apple silicon",
+      "Mac",
+      "MacBook"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-MacBook-Neo-hero-260304-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "329d248101235f4276a823a144d759b3f673c810",
+    "title": "Google stuffs Gemini into Android Studio Panda 2 to build apps from prompts",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/android_studio_panda_2/",
+    "summary": "<h4>The card game bridge could be a bridge too far for Mountain View's AI</h4> <p>Google has released Android Studio Panda 2, a feature drop including an AI agent that can create apps from scratch and an AI-driven version upgrade assistant.…</p>",
+    "isoDate": "2026-03-04T14:06:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "63a0be93616a3de567f8dbe390e527c085f03970",
+    "title": "NIMBY pushback begins to bite US datacenter buildout",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/cbre_datacenter_figures_2025/",
+    "summary": "<h4>New capacity under construction falls for first time since 2020 as permitting, zoning, and power hurdles mount</h4> <p>New datacenter capacity under construction in primary US markets declined in the second half of 2025, as community opposition increasingly disrupted planning approvals - a dynamic commercial real estate firm CBRE says is reshaping the industry.…</p>",
+    "isoDate": "2026-03-04T14:00:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1f221187c00bd6b0d1054b7026a815257516a668",
+    "title": "Once upon a time, saving your bits meant punching holes in floppies",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/chen_floppy_disks/",
+    "summary": "<h4>Microsoft vet revisits the gloriously manual era of write protection</h4> <p>Microsoft's Raymond Chen took a delightful trip down memory lane this week, tracing how write protection for removable media has changed over the decades.…</p>",
+    "isoDate": "2026-03-04T13:40:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "ef1e7c76bb4cf8adf36d7a972c3021c56c8b16e3",
     "title": "Gram: Zed, but with AI and chat features removed",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/gram_cut_down_zed/",
@@ -895,19 +980,6 @@
     "pinned": false
   },
   {
-    "id": "59300d76563b6baf5e82cadb3d0a61dd69a9e519",
-    "title": "Singapore eyes barge-based hydrogen power for datacenters",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/singapore_bargebased_hydrogen_power_datacenters/",
-    "summary": "<h4>Saves real estate by putting the power on the water</h4> <p>Datacenters increasingly want dedicated power, and Singapore has a unique solution. Bridge Data Centres (BDC) and Concord New Energy (CNE) are working to put hydrogen power generators on barges, saying that this arrangement is particularly suited to the local environment.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-02T17:47:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "9a5e017b394faf5f65b1972532a30b48d46d8b3a",
     "title": "Musk Lays Out Massive Giga Berlin Expansion — On One Condition",
     "link": "https://www.notateslaapp.com/news/3708/musk-lays-out-massive-giga-berlin-expansion-on-one-condition",
@@ -918,32 +990,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/elon-musk/elon_musk_giga_berlin.jpg/c043bd92df7327fe847f18148cde6a68/elon_musk_giga_berlin.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a669f3cc4db2100bfc0bd036aec0e7bdb8f01378",
-    "title": "Generic methods arrive in Golang, but they weren't the top dev demand",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/generic_methods_go/",
-    "summary": "<h4>Approved proposal reverses earlier stance, even as survey highlights bigger frustrations</h4> <p>The Go team has approved generic methods, reversing a longstanding position in the language's FAQ. The proposal, from Go co-designer Robert Griesemer, now moves to implementation.…</p>",
-    "isoDate": "2026-03-02T16:44:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "445ca85b539b972af61584f68803735b69ea688a",
-    "title": "Stop macOS 26 nagging with one tiny policy tweak",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/stop_tahoe_update/",
-    "summary": "<h4>Trick uses a simple configuration profile to convince your Mac that upgrading isn't allowed</h4> <p>Averse to \"liquid glass\"? Are you happy enough with your Mac as it is? Try this local policy and banish those upgrade nag screens for a few months.…</p>",
-    "isoDate": "2026-03-02T16:14:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -963,19 +1009,6 @@
       "syndication"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iowadatacenter-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e2240bb5af1a2f9675628e5806ea3462c67b7d8c",
-    "title": "Fly me to the Moon: NASA reshuffles the Artemis card deck",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/nasa_artemis_reshuffle/",
-    "summary": "<h4>Artemis III now to follow in Apollo 9's footsteps, 2028 landing still planned for Artemis IV</h4> <p>NASA has reshuffled its Artemis program, pushing the first crewed lunar landing in more than half a century back to Artemis IV, with Artemis III performing a check-out of the lunar lander in Earth orbit.…</p>",
-    "isoDate": "2026-03-02T15:06:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1036,37 +1069,6 @@
       "iphone SE"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-iPhone-17e-family-lineup-260302-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d70f7f5924081f8f5051ad5727f5ccdb0f6afa9b",
-    "title": "SAP writes $480M check to finally end IP legal spat with Teradata",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/sap_teradata_settlement/",
-    "summary": "<h4>A joint venture from 2008 led to years of claims and counter-claims between the data whizzkids</h4> <p>Data warehousing and analytics biz Teradata and SAP have ended their long-running legal dispute after the German ERP vendor agreed to cough up $480 million to bring the fighting to a close.…</p>",
-    "isoDate": "2026-03-02T14:15:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "97f39de1c0ff7efda9edf1353ad815ad5771da3a",
-    "title": "It's almost a station wagon: The 2026 Subaru Trailseeker, driven",
-    "link": "https://arstechnica.com/cars/2026/03/2026-subaru-trailseeker-first-drive-the-most-quintessentially-subaru-ev-yet/",
-    "summary": "Despite the Toyota platform, there's plenty of Subaru DNA in this one.",
-    "isoDate": "2026-03-02T14:00:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Michael Teo Van Runkle",
-    "tags": [
-      "Cars",
-      "suba",
-      "Subaru",
-      "Subaru Trailseeker"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026_Subaru_Trailerseeker_16-500x500.jpg",
     "pinned": false
   },
   {
