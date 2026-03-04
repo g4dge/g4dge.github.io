@@ -1,5 +1,90 @@
 [
   {
+    "id": "bada1e7c1e42cfabf59f58f749cc0212248442d0",
+    "title": "Recreating the complex cuisine of prehistoric Europeans",
+    "link": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
+    "summary": "SEM analysis of pottery residues showed people combined fish with a wide variety of plants when cooking.",
+    "isoDate": "2026-03-04T19:00:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "anthropology",
+      "Archaeology",
+      "forensic archaeology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cuisine2CROP-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8bd9fc3510b0a09f791392c0aea3aec1aab6e526",
+    "title": "The US Senate empowers NASA to fully engage in lunar space race",
+    "link": "https://arstechnica.com/space/2026/03/the-us-senate-empowers-nasa-to-fully-engage-in-lunar-space-race/",
+    "summary": "\"Our bill authorizes critical funding for, and gives strategic direction to, the agency.\"",
+    "isoDate": "2026-03-04T18:50:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "artemis",
+      "isaacman",
+      "NASA",
+      "Senate",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-500x500-1738093209.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4e43c5494b945ea7c43f9ac0d16d6d1e59fe66a9",
+    "title": "MacBook Neo hands-on: Apple build quality at a substantially lower price",
+    "link": "https://arstechnica.com/gadgets/2026/03/macbook-neo-hands-on-apple-build-quality-at-a-substantially-lower-price/",
+    "summary": "The Neo won't be for everyone, but Apple has managed to preserve a premium feel.",
+    "isoDate": "2026-03-04T18:44:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Tech",
+      "apple",
+      "Apple A18 Pro",
+      "Apple silicon",
+      "Mac",
+      "macbook neo"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_7378-500x500-1772644686.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "230398e4a7024a9e49a51528d27883c1978ea113",
+    "title": "AI doctor's assistant is easily swayed to change prescriptions, give bad medical advice",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/ai_doctor_easily_swayed/",
+    "summary": "<h4>Spread false medical info, supersize drug orders, and more!</h4> <p>A healthcare AI with the power to manage prescriptions is rather open to mind-altering suggestions, according to security experts. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-04T18:33:55Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "149fae9743682e2779cd35730c6f9b004dfd5cc1",
+    "title": "AWS-hosted tech providers urge Middle East customers to fail over now",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/aws_saas_middle_east_customer_warnings/",
+    "summary": "<h4>Snowflake, Red Hat, and others warn customers not to wait around for the cloud to recover</h4> <p>After aerial strikes damaged AWS datacenters in the United Arab Emirates and Bahrain, Snowflake, Red Hat, and IoT platform EMQX have told customers to open their disaster recovery playbook and move to new bit barns.…</p>",
+    "isoDate": "2026-03-04T18:07:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3b772691f44f211b7ed29e7b54a3d916bfb0c5cb",
     "title": "Tesla Publishes New Guide on Solar Panel Payback Periods",
     "link": "https://www.notateslaapp.com/news/3730/tesla-publishes-new-guide-on-solar-panel-payback-periods",
@@ -1005,32 +1090,6 @@
     "pinned": false
   },
   {
-    "id": "56b6f26d48df7309da88e254731eaece8a09a697",
-    "title": "Motorola partners with GrapheneOS for future phones",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/motorola_grapheneos/",
-    "summary": "<h4>Don't expect to see compatible hardware before 2027</h4> <p>GrapheneOS is headed to Motorola smartphones in 2027, pending hardware from the Lenovo-owned brand that satisfies the privacy-focused Android fork's requirements.…</p>",
-    "isoDate": "2026-03-02T19:45:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "92a849cf1c4f835463db03243575e504c8476b78",
-    "title": "US struck Iran with copies of its own drones",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/us_iran_clone_drones/",
-    "summary": "<h4>Iran's own technology reverse engineered and used against it.</h4> <p>The Pentagon has confirmed that US forces struck Iranian targets using weapons that are copies of Iran's own Shahed 136 suicide drones.…</p>",
-    "isoDate": "2026-03-02T19:17:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "0f61ffcfebf6133bd4a3b8b35bf108d7e414573e",
     "title": "Tesla Giga Berlin Head Slams Media for 'False' Union Claims",
     "link": "https://www.notateslaapp.com/news/3722/tesla-giga-berlin-head-slams-media-for-false-union-claims",
@@ -1044,25 +1103,6 @@
     "pinned": false
   },
   {
-    "id": "efb6eb20148fb447831b61d3f8a18ff09b46dc59",
-    "title": "Charter gets FCC permission to buy Cox and become largest ISP in the US",
-    "link": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/",
-    "summary": "FCC rejects protests because Charter and Cox don't compete directly in most places.",
-    "isoDate": "2026-03-02T18:19:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Charter",
-      "Cox",
-      "FCC",
-      "spectrum"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cox-truck-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "9a5e017b394faf5f65b1972532a30b48d46d8b3a",
     "title": "Musk Lays Out Massive Giga Berlin Expansion — On One Condition",
     "link": "https://www.notateslaapp.com/news/3708/musk-lays-out-massive-giga-berlin-expansion-on-one-condition",
@@ -1073,46 +1113,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/elon-musk/elon_musk_giga_berlin.jpg/c043bd92df7327fe847f18148cde6a68/elon_musk_giga_berlin.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2eba82bc530207aac0aa1849e5c6fe3eb8375a81",
-    "title": "Iowa county adopts strict zoning rules for data centers, but residents still worry",
-    "link": "https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/",
-    "summary": "Though the rules are among the strictest in the US, locals say they aren't enough.",
-    "isoDate": "2026-03-02T15:34:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Anika Jane Beamer, Inside Climate News",
-    "tags": [
-      "AI",
-      "data centers",
-      "envirtonme",
-      "regulation",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iowadatacenter-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1a06f22924039b89e8b63cf7a20962047a2976b2",
-    "title": "$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost",
-    "link": "https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/",
-    "summary": "Unexpected RAM upgrade is the highlight of an otherwise straightforward refresh.",
-    "isoDate": "2026-03-02T15:06:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Tech",
-      "apple",
-      "ipad",
-      "iPad Air",
-      "iPadOS",
-      "ipados 26"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ipad-air-m4-500x500-1772463928.jpg",
     "pinned": false
   },
   {
