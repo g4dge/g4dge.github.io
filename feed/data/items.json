@@ -1,5 +1,38 @@
 [
   {
+    "id": "17f77db778bd3fba8593edbea207b0c5ee920087",
+    "title": "Malware-laced OpenClaw installers get Bing AI search boost",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/fake_openclaw_installers_malware/",
+    "summary": "<h4>Think before you download</h4> <p>OpenClaw, the AI agent that can manage just about anything, is risky all by itself, but now fake installers for it are wreaking havoc. Users who searched Bing’s AI results for “OpenClaw Windows” were directed to a malicious GitHub repository that delivered information stealers and GhostSocks onto their machines.…</p>",
+    "isoDate": "2026-03-04T20:50:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cb6d11faa56a4953de74c5b36ed2febfa71b6f7f",
+    "title": "Google and Epic announce settlement to end app store antitrust case",
+    "link": "https://arstechnica.com/gadgets/2026/03/google-and-epic-look-to-bury-the-hatchet-with-new-app-store-settlement/",
+    "summary": "The era of the 30 percent app store cut has ended.",
+    "isoDate": "2026-03-04T20:48:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "app stores",
+      "Epic Games",
+      "google",
+      "play store"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "d7bc49826c001a06ea9236338213062963e728b9",
     "title": "Lawsuit: Google Gemini sent man on violent missions, set suicide \"countdown\"",
     "link": "https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/",
@@ -10,6 +43,7 @@
     "author": "Jon Brodkin",
     "tags": [
       "AI",
+      "Google",
       "Policy",
       "Google Gemini"
     ],
@@ -911,26 +945,6 @@
     "pinned": false
   },
   {
-    "id": "71bce302136d37c67fb524a3bfc39802b4356755",
-    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-    "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-    "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
-    "isoDate": "2026-03-03T12:30:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "deanonymization",
-      "LLMs",
-      "privacy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "111bdd98b0505cbceed713bc840ae3600b47be03",
     "title": "Tesla Clears Out Model 3 Inventory in Canada Ahead of Chinese EV Imports",
     "link": "https://www.notateslaapp.com/news/3727/tesla-clears-out-model-3-inventory-in-canada-ahead-of-chinese-ev-imports",
@@ -1086,19 +1100,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-3.webp/33f926a11dc8835a9fb9e63a8f5abd4c/spacex-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d5f43c6af26f2566951edaaf02d82eb7648cdb2c",
-    "title": "AWS says drones hit two of its datacenters in UAE, urges users to move resources to different regions",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/amazon_outages_middle_east/",
-    "summary": "<h4>Multiple zones Middle East in UAE disrupted, with water damage complicating recovery</h4> <p><strong>UPDATED</strong>  Multiple Amazon Web Services (AWS) availability zones in the Middle East are experiencing outages or degraded connectivity after objects struck a UAE facility, as Iranian retaliatory missile and drone attacks hit targets across the Gulf.…</p>",
-    "isoDate": "2026-03-02T21:14:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
