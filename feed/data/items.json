@@ -1,5 +1,31 @@
 [
   {
+    "id": "4eed516bf6b0aef6c85ad5a2de415bc39da0f3bb",
+    "title": "UK watchdog eyes Meta's smart glasses after workers say they 'see everything'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/ico_meta_glasses/",
+    "summary": "<h4>Contractors tasked with improving AI reportedly had access to intimate footage captured through wearables</h4> <p>Britain's privacy watchdog is asking questions about Meta's AI-powered smart glasses after reports that human contractors reviewing recordings from the devices were exposed to extremely private moments captured by unsuspecting users.…</p>",
+    "isoDate": "2026-03-05T12:18:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e70f8993af65fac7433c10cc0716601729e1ea7a",
+    "title": "Solar superstorm gave ESA's Mars orbiters a handy science opportunity",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/mars_spacecraft_solar_storm/",
+    "summary": "<h4>Veteran spacecraft overcome computer glitches as atmosphere 'flooded by electrons'</h4> <p>Almost two years ago, a solar storm hit Earth, triggering auroras that were seen as far south as Mexico. The storm also reached Mars and was detected by a pair of ESA spacecraft, Mars Express and ExoMars Trace Gas Orbiter (TGO).…</p>",
+    "isoDate": "2026-03-05T12:09:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "87328ea5c207a0eb8b0577390299883d2320d1f0",
     "title": "CERN sends AI-trained robot mice scurrying through LHC beam pipes",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/robot_mice_lhc/",
@@ -1122,32 +1148,6 @@
     "pinned": false
   },
   {
-    "id": "b7d4c6fdc4a6433c7f28216b4e84bca8e13e2ebe",
-    "title": "Chrome Gemini panel became privilege escalator for rogue extensions",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/google_chrome_bug_gemini/",
-    "summary": "<h4>High-severity flaw let malicious add-ons access system via browser's embedded AI feature</h4> <p>Security boffins have discovered a high-severity bug in Google Chrome that allowed malicious extensions to hijack its Gemini Live AI panel and inherit privileges they were never meant to have.…</p>",
-    "isoDate": "2026-03-03T11:39:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "dec249bff222aab84c9ce0c5537877f98d62452e",
-    "title": "Cybercriminals swipe 15.8M medical records from French doctors ministry",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/french_medical_leak/",
-    "summary": "<h4>Third-party software supplier breached leading to leak of notes</h4> <p>Around 15.8 million administrative files were stolen after attackers breached a software supplier to France's health ministry.…</p>",
-    "isoDate": "2026-03-03T11:00:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "1380e2c18156f94e0ed5d27d4e1f842dc842db3f",
     "title": "From the archives: In no hurry to go – musings on life and death",
     "link": "https://www.skeptic.org.uk/2026/03/from-the-archives-in-no-hurry-to-go-musings-on-life-and-death/",
@@ -1517,19 +1517,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi_81.jpg/24fe559ca5c2366361576a3ea986cb32/robotaxi_81.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b2bf50aa2c12c4c8b9a16978cd35660b6caa5308",
-    "title": "SpaceX’s Starlink Joins Microsoft to Expand Rural Internet",
-    "link": "https://www.notateslaapp.com/news/3700/spacexs-starlink-joins-microsoft-to-expand-rural-internet",
-    "summary": "Microsoft and SpaceX are joining forces in a major move to ensure that 'middle of nowhere' doesn't mean 'offline' anymore&hellip; <a href=\"https://www.notateslaapp.com/news/3700/spacexs-starlink-joins-microsoft-to-expand-rural-internet\">Read More</a>",
-    "isoDate": "2026-02-26T11:44:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/starlink-dish-hero-1.webp/1416b39f0a19710df073dd27cf250b13/starlink-dish-hero-1.jpg",
     "pinned": false
   }
 ]
