@@ -1,5 +1,71 @@
 [
   {
+    "id": "4897b327cf6f90ae2894ca1290186b07fff9dfd8",
+    "title": "Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/firefox_bugs_anthropic_ai/",
+    "summary": "<h4>Now if only device makers would deliver higher quality components</h4> <p>Thanks to Anthropic's AI and its bug-detecting abilities, Firefox users can now enjoy stronger security. Unfortunately, if browser crashes rather than security flaws are the problem, Claude probably can't help.…</p>",
+    "isoDate": "2026-03-06T20:41:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d8d731511b82dd89719516c8b566db694535ffb9",
+    "title": "Tesla Updates App to 4.54.5: Self-Driving Stats Addition, Wall Connector Improvements and More",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.54.5/release-notes",
+    "summary": "Tesla app update 4.54.5 includes Self-Driving Stats, Wall Connector Details, Powershare Intro. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.54.5/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-03-06T20:35:25Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-54-5/fsd_statistics.png/15ead4a8c9525f2cfd794b26d711a7eb/fsd_statistics.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a8a3188f606abc90e8fa622a1f961dbfa6057dc4",
+    "title": "Google's new command line tool can plug OpenClaw into your Workspace data",
+    "link": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
+    "summary": "This could make it easier to plug AI into Workspace APIs, but it's not yet an official Google product.",
+    "isoDate": "2026-03-06T19:56:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "generative ai",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/maxresdefault-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b984f6d78921435ce05c5e271476f9969ac985d1",
+    "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+    "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+    "summary": "The long, strange trip of a large assembly of advanced iOS exploits.",
+    "isoDate": "2026-03-06T19:41:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Apple",
+      "Biz & IT",
+      "Security",
+      "exploits",
+      "iOS",
+      "iPhones",
+      "vulnerabilities"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iphone-14-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "dc194579c2a7e9edb30fba37fafbd0412f5661c7",
     "title": "Asteroid defense mission shifted the orbit of more than its target",
     "link": "https://arstechnica.com/science/2026/03/nasas-dart-mission-shifted-the-orbits-of-two-asteroids/",
@@ -714,23 +780,6 @@
     "pinned": false
   },
   {
-    "id": "677098f6bb3dcf36e7545b0b0e9a884eb2c427d9",
-    "title": "The Boys S5 trailer tees up a bloody final season",
-    "link": "https://arstechnica.com/culture/2026/03/the-boys-s5-trailer-tees-up-a-bloody-final-season/",
-    "summary": "\"My power is absolute. At heights no one ever dreamed of. But I have a bigger destiny.\"",
-    "isoDate": "2026-03-05T18:55:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "amazon video",
-      "The Boys"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/boys2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "136d83db742fea0732db026a35930fbd83b5cf79",
     "title": "Iran intelligence backdoored US bank, airport, software outfit networks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/mudywater_backdoor_us_networks/",
@@ -741,29 +790,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "74d9961881259d6bf19ca3a15a8bb6be666362d8",
-    "title": "Trump gets data center companies to pledge to pay for power generation",
-    "link": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
-    "summary": "With no enforcement and questionable economics, it may not make a difference.",
-    "isoDate": "2026-03-05T18:41:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Biz & IT",
-      "Policy",
-      "coal",
-      "data centers",
-      "Energy",
-      "natural gas",
-      "nuclear",
-      "renewables",
-      "trump administration"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2258665361-500x500.jpg",
     "pinned": false
   },
   {
@@ -1204,19 +1230,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "589c8b60b36c7bac2d34d85e3b1b0f78cedbe97d",
-    "title": "Ex-NASA chief gives Isaacman's Moon reboot a thumbs up, stays schtum on the awkward bits",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/former_nasa_administrator_endorses_artemis/",
-    "summary": "<h4>Jim Bridenstine says 'adjustments' to Artemis program were needed</h4> <p>NASA Administrator Jared Isaacman has won an endorsement from his predecessor Jim Bridenstine, who praised Isaacman's shake-up of the perpetually delayed Artemis program.…</p>",
-    "isoDate": "2026-03-04T15:34:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
