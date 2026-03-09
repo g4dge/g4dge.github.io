@@ -1,5 +1,74 @@
 [
   {
+    "id": "71f2d2a9e22d0d4b378f6d705c6034019ef27580",
+    "title": "Dutch cops warn 100 alleged scammers: Turn yourselves in or we tell Grandma",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/dutch_police_fraud_shaming/",
+    "summary": "<h4>Two-week deadline to fraudsters to fess up or have their faces plastered across every screen in the country</h4> <p>Dutch national police are taking a novel stand against scammers - 100 suspects now have less than two weeks to hand themselves in or face public shaming.…</p>",
+    "isoDate": "2026-03-09T13:08:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4e6923e03f108e85560310dd63fb539c596e313c",
+    "title": "Chevrolet killed it then brought it back, now we drive it: The 2027 Bolt",
+    "link": "https://arstechnica.com/cars/2026/03/new-battery-new-motor-but-the-2027-chevrolet-bolt-keeps-its-charm/",
+    "summary": "Faster charging, more modern infotainment, and a new LFP battery are highlights.",
+    "isoDate": "2026-03-09T13:00:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Chevy Bolt",
+      "First drive"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/2027-Chevrolet-Bolt-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e24080198f990b56d8b7329711abd34498c2eee3",
+    "title": "Russian cybercrims phish their way into officials' Signal and WhatsApp accounts",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/dutch_spies_say_russian_cybercrims/",
+    "summary": "<h4>Dutch spies flag large-scale campaign to hijack secure messaging accounts</h4> <p>Russian-linked hackers are trying to break into the Signal and WhatsApp accounts of government officials, journalists, and military personnel globally – not by cracking encryption, but by simply tricking people into handing over the keys.…</p>",
+    "isoDate": "2026-03-09T12:40:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4a1c8282f6b3e0013de75fcdabb2e0e0b2c8a1dd",
+    "title": "NASA abandons delayed SLS upper stage for ULA's Centaur V instead",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/nasa_centaur_v_sls/",
+    "summary": "<h4>Vulcan rocket hardware drafted in amid Artemis reshuffle but still no word on lander</h4> <p>NASA has selected United Launch Alliance's Centaur V upper stage for the Artemis missions that aim to return astronauts to the lunar surface for the first time since 1972.…</p>",
+    "isoDate": "2026-03-09T12:08:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "383de02dcf53eac5b479d7e904d66a4a10956751",
+    "title": "Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/claude_legacy_code_vulns/",
+    "summary": "<h4>This isn't just a nostalgia trip – billions of legacy microcontrollers may be at risk</h4> <p>AI can reverse engineer machine code and find vulnerabilities in ancient legacy architectures, says Microsoft Azure CTO Mark Russinovich, who used his own Apple II code from 40 years ago as an example.…</p>",
+    "isoDate": "2026-03-09T11:58:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "f1b67f88d63683ba543a5ea34bdd151a03d352da",
     "title": "Musk's Grok sparks outrage after chatbot makes offensive jibes about football disasters",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/grok_football_controvery/",
@@ -824,24 +893,6 @@
     "pinned": false
   },
   {
-    "id": "cc9c400a611aea0df6f768dc9e6622a1c01ec7e4",
-    "title": "Why are vertebrate eyes so different from those of other animals?",
-    "link": "https://arstechnica.com/science/2026/03/the-vertebrate-eye-may-have-begun-as-a-cyclops/",
-    "summary": "A new hypothesis proposes that our ancestors lost their eyes, then rebuilt them.",
-    "isoDate": "2026-03-06T14:23:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Federica Sgorbissa",
-    "tags": [
-      "Science",
-      "Biology",
-      "evolution",
-      "eyes"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1849503032-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "1a3e63c5b87940e3e033495ea42a61b4fda6ce5c",
     "title": "Tesla Officially Announces the Model Y L in Australia and New Zealand",
     "link": "https://www.notateslaapp.com/news/3747/tesla-officially-announces-the-model-y-l-in-australia-and-new-zealand",
@@ -1156,19 +1207,6 @@
     "pinned": false
   },
   {
-    "id": "7b0a5bfcdc9e8472d0b3626f996c65f1a99d39f2",
-    "title": "Document Foundation urges EU to ditch Excel lock-in for cybersecurity law consultation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/document_foundation_excel/",
-    "summary": "<h4>LibreOffice steward pleased says Commish saw the light, no longer requires Excel feedback form</h4> <p><strong>UPDATED</strong>  The Document Foundation has taken a swipe at the European Commission over its consultation on guidance for the <a href=\"https://www.theregister.com/2023/12/04/infosec_in_brief/\">EU's Cyber Resilience Act</a> – because the feedback template is only available as a Microsoft Excel spreadsheet.…</p>",
-    "isoDate": "2026-03-05T17:50:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "d005b3493d29a958205c899e3ce7a500cb3160ad",
     "title": "Tesla Patents One-Piece Seat Design for Next-Gen Roadster",
     "link": "https://www.notateslaapp.com/news/3741/tesla-patents-one-piece-seat-design-for-next-gen-roadster",
@@ -1182,19 +1220,6 @@
     "pinned": false
   },
   {
-    "id": "95572bef3b216f4f12fad7758a531b8e2d1530e9",
-    "title": "Congress puts the ISS on life support until 2032, orders Moon base plan",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/iss_extension/",
-    "summary": "<h4>Authorization Act seeks to keep lights on until commercial stations are ready</h4> <p>The <a href=\"https://www.commerce.senate.gov/2026/3/commerce-committee-advances-nasa-reauthorization-act-and-weather-act\" rel=\"nofollow\" target=\"_blank\">NASA Authorization Act of 2026</a> has been approved, and alongside a directive for NASA to establish a permanent Moon base, the legislation includes language extending the International Space Station to 2032.…</p>",
-    "isoDate": "2026-03-05T15:55:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "d1086b65c6d9775c0e6f77a06fca73a200417efa",
     "title": "Tesla Powerwall 3 to Finally Get Powerwall 2 Compatibility",
     "link": "https://www.notateslaapp.com/news/3740/tesla-powerwall-3-to-finally-get-powerwall-2-compatibility",
@@ -1205,32 +1230,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/energy/powerwall3-backwards-compatibility.webp/bb1c1155dd3e68f3eb7de99626ceaf48/powerwall3-backwards-compatibility.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b45bff10496be5831301a6b5daf08d7a1f6af52d",
-    "title": "Office EU waves sovereignty flag with a familiar stack under the bonnet",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/office_eu_suite/",
-    "summary": "<h4>Euro productivity suite appears to be hosted Nextcloud and Collabora Online</h4> <p>In the battle of the online office suites, a new contender has entered the ring... but under the wrestler's mask, we think there may be a familiar face.…</p>",
-    "isoDate": "2026-03-05T14:43:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ed3586ed8151eab9688ad7d33a4de3ab6252cc1a",
-    "title": "Trump administration spoiling for a fight over global satellite regulations",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/trump_administration_spoiling_for_a/",
-    "summary": "<h4>FCC not pleased about EU space tech reqs to enter Common market, among other things</h4> <p><strong>Updated</strong>  The US government is consulting with the telecoms industry about \"reciprocity\" in satellite services, in a move that could see another dispute erupt with the European Union over regulations.…</p>",
-    "isoDate": "2026-03-05T14:25:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
