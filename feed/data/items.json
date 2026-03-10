@@ -1,5 +1,38 @@
 [
   {
+    "id": "a1ad7e304491428f513f9e96ee82fb836380250c",
+    "title": "AIOps is so powerful, vendors are building tools to clean up after agents break your infrastructure",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/agentic_ai_rollback_recovery_cohesity/",
+    "summary": "<h4>Cohesity, ServiceNow and Datadog team on recoverability suite</h4> <p>Three more vendors have decided that the world needs tools to roll back mistakes made by AI, after Cohesity teamed with ServiceNow and Datadog on a recoverability service that will hunt down all the files and data corrupted by bad AI actors and restore systems to a “trusted state.”…</p>",
+    "isoDate": "2026-03-10T23:31:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "032447ee63728e5fdbedd5ee380dfa751e97fb87",
+    "title": "Reentry of NASA satellite will exceed the agency's risk guidelines",
+    "link": "https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/",
+    "summary": "\"Due to late-stage design changes, the potential risk of uncontrolled reentry increased.\"",
+    "isoDate": "2026-03-10T23:01:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "NASA",
+      "reentry",
+      "space debris",
+      "Van Allen belts",
+      "van allen probe"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-2012-4288large-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "c8f210c98eb75ec4593a569f7d18d190dd3eccd8",
     "title": "FDA contradicts Trump admin, declines to approve generic drug for autism",
     "link": "https://arstechnica.com/health/2026/03/fda-contradicts-trump-admin-declines-to-approve-generic-drug-for-autism/",
@@ -903,27 +936,6 @@
     "pinned": false
   },
   {
-    "id": "d71eee75864bcfd2ca4b9271c30c7cb5ef0cc01a",
-    "title": "Don't worry, Valve still plans to launch the Steam Machine \"this year\"",
-    "link": "https://arstechnica.com/gaming/2026/03/dont-worry-valve-still-plans-to-launch-the-steam-machine-this-year/",
-    "summary": "What part of \"this year,\" exactly, is still anyone's guess.",
-    "isoDate": "2026-03-09T16:31:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "delay",
-      "hardware",
-      "ram shortage",
-      "Steam",
-      "steam machine",
-      "Valve"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/steammachinetable-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "4b19a794acb4225b5478b26717dddcd0a6a535da",
     "title": "Microsoft 365 confirms new premium tier, stuffed with AI and few discounts",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/microsoft_adds_a_premium_tier/",
@@ -1194,19 +1206,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "91ab33413c082336f233d0d214c07cd2c922f34d",
-    "title": "Iran is the first out-loud cyberwar the US has fought",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/kettle_2026_episode_01_iran_war/",
-    "summary": "<h4>Cyber is no longer the hush-hush thing it used to be, as team Trump invades Iran with hackers taking the lead</h4> <p><strong>Kettle</strong>  Unlike previous military conflicts, the cyber domain has been front and center since the Trump administration invaded Iran, upending the traditionally quiet role played by hackers in military conflicts.…</p>",
-    "isoDate": "2026-03-09T01:31:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
