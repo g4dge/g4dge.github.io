@@ -1,5 +1,85 @@
 [
   {
+    "id": "4ed220608e32bc63a9331e4628e7aceb0f0133fc",
+    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+    "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+    "summary": "AWS has suffered at least two incidents linked to the use of AI coding assistants.",
+    "isoDate": "2026-03-10T13:16:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Rafe Rosner-Uddin, Financial Times",
+    "tags": [
+      "AI",
+      "Amazon",
+      "amazon outage",
+      "AWS",
+      "Programming"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/GettyImages-1157406884-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b03d2d75fd30e819d434aeb71b0cd08f286c951e",
+    "title": "Apple MacBook Neo review: Can a Mac get by with an iPhone’s processor inside?",
+    "link": "https://arstechnica.com/gadgets/2026/03/apple-macbook-neo-review-can-a-mac-get-by-with-an-iphones-processor-inside/",
+    "summary": "8GB of RAM is a bummer, but this $599 laptop cuts most of the right corners.",
+    "isoDate": "2026-03-10T13:00:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Features",
+      "Tech",
+      "apple",
+      "Apple A18 Pro",
+      "Apple silicon",
+      "MacBook",
+      "macbook neo"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_7410-500x500-1772996276.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "a0b92810ad666585c3e2765d018d51fd1113461d",
+    "title": "Ericsson blames vendor vishing slip-up for breach exposing thousands of records",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/ericsson_blames_vendor_vishing_slipup/",
+    "summary": "<h4>Crooks used simple phone scam to compromise vendor account, spilling personal and financial data belonging to more than 15,000 people</h4> <p>A voice-phishing scam targeting one of Ericsson's service providers has exposed the personal data of more than 15,000 individuals after attackers sweet-talked an employee into handing over access.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-10T12:16:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e2eb17e17874b21c4d4039d63c66d0b28d5571b1",
+    "title": "Protecting democracy means democratizing cybersecurity. Bring on the hackers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/democratizing_security_opinion/",
+    "summary": "<h4>Digital freedom needs a Kali Linux for the rest of us</h4> <p><strong>Opinion</strong>  The hacker mind is a curious way to be. To have it means to embody endless analytical curiosity, an awareness of any given rule set as just one system among many, and an ability to see any system in ways that its creators never expected. Combine this with a drive to find the bad and make things better, and you become one of the fundamental forces of the technological universe.…</p>",
+    "isoDate": "2026-03-10T12:09:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Rupert Goodwins",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9a4a9b046f7c3c7570e9439fee054124a006d8c6",
+    "title": "Polish cops bust alleged teen DDoS kit sellers – youngest just 12",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/poland_ddos_teens_bust/",
+    "summary": "<h4>Kids profited from tools used to attack popular websites, say officials</h4> <p>Polish police have referred seven suspected juvenile cybercriminals to family court over an alleged scheme to flog DDoS kits online.…</p>",
+    "isoDate": "2026-03-10T11:41:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "0ad4e9d4ca976f4253d24346a7555814c4149b74",
     "title": "Watch: Tesla Full Self-Driving Now Avoids Pot Holes [VIDEO]",
     "link": "https://www.notateslaapp.com/news/3765/watch-tesla-full-self-driving-now-avoids-pot-holes-video",
@@ -1080,26 +1160,6 @@
     "pinned": false
   },
   {
-    "id": "fe99453097b8b9cd8b0e00a76bfb45e8536d08a1",
-    "title": "Fishing crews in the Atlantic keep accidentally dredging up chemical weapons",
-    "link": "https://arstechnica.com/health/2026/03/fishing-crews-in-the-atlantic-keep-accidentally-dredging-up-chemical-weapons/",
-    "summary": "Fishing crews face horrifying burns from dredging the dumped chemical weapons.",
-    "isoDate": "2026-03-06T22:03:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "burns",
-      "chemical weapons",
-      "fishing",
-      "mustard agents",
-      "mustard gas"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2202289392-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4897b327cf6f90ae2894ca1290186b07fff9dfd8",
     "title": "Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/firefox_bugs_anthropic_ai/",
@@ -1123,25 +1183,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/4-54-5/fsd_statistics.png/15ead4a8c9525f2cfd794b26d711a7eb/fsd_statistics.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a8a3188f606abc90e8fa622a1f961dbfa6057dc4",
-    "title": "Google's new command-line tool can plug OpenClaw into your Workspace data",
-    "link": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
-    "summary": "This could make it easier to use multiple Workspace APIs, but it's not yet an official Google product.",
-    "isoDate": "2026-03-06T19:56:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "generative ai",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/maxresdefault-500x500.jpg",
     "pinned": false
   },
   {
@@ -1197,32 +1238,6 @@
     "pinned": false
   },
   {
-    "id": "529dc6dd92645431acd9313ee115ee2ddfd75bb0",
-    "title": "Anthropic sues US government after unprecedented national security designation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/anthropic_left_with_no_other/",
-    "summary": "<h4>Brands Trump administration decision 'legally unsound' and has 'no choice but to challenge it in court'</h4> <p>AI giant Anthropic says that it has \"no choice\" but to sue the US government after being officially designated a supply chain risk to national security.…</p>",
-    "isoDate": "2026-03-06T14:37:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "74dcb42f6adbcd1cad69734372dd77a1c5a8f335",
-    "title": "Asteroid 2024 YR4 won't smack Moon in 2032, boffins confirm",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/no_moon_asteroid_impact/",
-    "summary": "<h4>Humanity and its neighbor safe from this menace at least</h4> <p>Scientists have ruled out the possibility that the near-Earth asteroid 2024 YR4 might hit the Moon on December 22, 2032.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-06T14:35:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "69f6b017eab6ad3ceffd31a41233ef2690d024ff",
     "title": "Tesla Has Updated Its Referral Program Again",
     "link": "https://www.notateslaapp.com/news/3746/tesla-has-updated-its-referral-program-again",
@@ -1246,19 +1261,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-handling-desktop.jpeg/3c200079bc1b8f3742b3f7aa68c4e224/model-y-l-handling-desktop.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ccc3bcf093a772b8af6461f877919848dae7dff7",
-    "title": "Washington reportedly moves to tighten leash on AI chip exports",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/us_ai_chips_restrictions/",
-    "summary": "<h4>Draft rules could force Nvidia and AMD to seek government approval before selling abroad</h4> <p>The Trump administration is reportedly planning new restrictions on GPU exports, aimed not only at controlling who gets them, but at driving AI investment back into the US.…</p>",
-    "isoDate": "2026-03-06T13:51:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1498,19 +1500,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex_sl_17_23_falcon_9_launch.jpg/df7d6dbc137882c473066efb52c7109a/spacex_sl_17_23_falcon_9_launch.jpg",
-    "pinned": false
-  },
-  {
-    "id": "111bdd98b0505cbceed713bc840ae3600b47be03",
-    "title": "Tesla Clears Out Model 3 Inventory in Canada Ahead of Chinese EV Imports",
-    "link": "https://www.notateslaapp.com/news/3727/tesla-clears-out-model-3-inventory-in-canada-ahead-of-chinese-ev-imports",
-    "summary": "Tesla has quietly removed all Model 3 inventory from Canada just as a new federal import quota opens the door for cheaper, Giga Shanghai-built EVs.&hellip; <a href=\"https://www.notateslaapp.com/news/3727/tesla-clears-out-model-3-inventory-in-canada-ahead-of-chinese-ev-imports\">Read More</a>",
-    "isoDate": "2026-03-03T12:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/model3premium_69.webp/6161d1f2ceb2be186a51d90bbb928894/model3premium_69.jpg",
     "pinned": false
   }
 ]
