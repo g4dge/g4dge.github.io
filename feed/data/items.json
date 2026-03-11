@@ -1,5 +1,59 @@
 [
   {
+    "id": "e83c6ab53b56f815a30777e237b44860639c5e14",
+    "title": "Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it's unpopular",
+    "link": "https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/",
+    "summary": "Meanwhile, Kennedy's allies want all vaccine recommendations eliminated.",
+    "isoDate": "2026-03-11T22:19:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "COVID-19",
+      "MAHA",
+      "mRNA",
+      "robert f kennedy jr"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1baa75f016db87cdc6468209b191b59ea777cac9",
+    "title": "Iran plots 'infrastructure warfare' against US tech giants",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/iran_threatens_us_tech_companies/",
+    "summary": "<h4>State news published a list of nearly 30 sites that could be targeted</h4> <p>Iran has reportedly designated Amazon, Google, IBM, Microsoft, Nvidia, Oracle, and Palantir facilities as legitimate targets of retaliatory strikes, according to an Al Jazeera report citing Iran’s state-affiliated Tasnim news agency.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-11T22:18:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7f4a4b968f624b33b1f340654e07394b7a53f7e9",
+    "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
+    "link": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
+    "summary": "Will it really take \"centuries\" for SpaceX to deploy its megaconstellation?",
+    "isoDate": "2026-03-11T22:04:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Policy",
+      "Space",
+      "Amazon",
+      "FCC",
+      "megaconstellation",
+      "space",
+      "spacex"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/brendan-carr-500x500-1751402471.jpg",
+    "pinned": false
+  },
+  {
     "id": "523c0feadf2d336b2560754e464d45692daacab7",
     "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
     "link": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
@@ -794,41 +848,6 @@
     "pinned": false
   },
   {
-    "id": "d5690f93e93ceb27baa51f115d6df4a77dc0eb11",
-    "title": "After complaints, Google will make it easier to disable gen AI search in Photos",
-    "link": "https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/",
-    "summary": "One toggle for \"fast classic search.\"",
-    "isoDate": "2026-03-10T18:37:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "google",
-      "Google photos"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/03aizylUVApdyLAIku1AvRV-39.v1605559903-500x500.png",
-    "pinned": false
-  },
-  {
-    "id": "4da9691b6003b4d920dc36c57985139591f5061b",
-    "title": "Anthropic sues US over blacklisting; White House calls firm \"radical left, woke\"",
-    "link": "https://arstechnica.com/tech-policy/2026/03/anthropic-sues-us-over-blacklisting-white-house-calls-firm-radical-left-woke/",
-    "summary": "Anthropic says it was blacklisted for opposing autonomous weapons, mass surveillance.",
-    "isoDate": "2026-03-10T18:26:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Anthropic"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg",
-    "pinned": false
-  },
-  {
     "id": "c7916314c2f68747f7288393cd33937e7a52bbbb",
     "title": "Cybercrime isn't just a cover for Iran's government goons - it's a key part of their operations",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/cybercrime_iran_mois/",
@@ -1164,19 +1183,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e1abf856d3ac1ae871cc8c9cdc31f83033d6fe00",
-    "title": "AI vs AI: Agent hacked McKinsey's chatbot and gained full read-write access in just two hours",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/mckinsey_ai_chatbot_hacked/",
-    "summary": "<h4>David and Goliath…but with AI agents</h4> <p>Researchers at red-team security startup CodeWall say their AI agent hacked McKinsey's internal AI platform and gained full read and write access to the chatbot in just two hours.…</p>",
-    "isoDate": "2026-03-09T22:22:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
