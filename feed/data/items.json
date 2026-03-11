@@ -1,8 +1,55 @@
 [
   {
-    "id": "6094f938c1647f93d2da43b477f3452983d29dc9",
+    "id": "20f24388f2a28299f03a53d631b06f875e26d3d3",
+    "title": "A glimpse into tuner culture: Fast and Furious exhibit at the Petersen",
+    "link": "https://arstechnica.com/cars/2026/03/a-glimpse-into-tuner-culture-fast-and-furious-exhibit-at-the-petersen/",
+    "summary": "The museum is celebrating 25 years of the original <em>F&#038;F</em> film with a 23-car exhibit.",
+    "isoDate": "2026-03-11T17:41:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Fast and Furious",
+      "The Petersen Museum"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-895188618-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4a425c5841a0c8f5bc84b188d1bad0927af251a6",
+    "title": "Meta, international cops use handcuffs and AI to stop scammers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/meta_international_cops_ai_scammers/",
+    "summary": "<h4>150k accounts nuked, 21 suspects arrested</h4> <p>Not every scam starts with malware or a compromised account. Sometimes all it takes is a friend request or a link shared via chat.…</p>",
+    "isoDate": "2026-03-11T17:21:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "635255ac5c963e87fc983deeb82b9bd7ce02a78c",
+    "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips",
+    "link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
+    "summary": "New CPUs are a bit faster and a bit cheaper than the ones they replace.",
+    "isoDate": "2026-03-11T17:21:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "Intel",
+      "intel core ultra"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/intel-core-ultra-march11-launch-1-1536x864-1-500x500-1773247545.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c9c83781586ad5b5f64580c0cb6a78be49f58080",
     "title": "Anduril, the autonomous weapons maker, doubles the size of its space unit",
-    "link": "https://arstechnica.com/science/2026/03/anduril-the-autonomous-weapons-maker-doubles-the-size-of-its-space-unit/",
+    "link": "https://arstechnica.com/space/2026/03/anduril-the-autonomous-weapons-maker-doubles-the-size-of-its-space-unit/",
     "summary": "\"We are focused on protecting space, assuring access to space, ensuring custody of space.\"",
     "isoDate": "2026-03-11T16:50:28Z",
     "source": "Ars Technica",
@@ -906,47 +953,6 @@
     "pinned": false
   },
   {
-    "id": "4ed220608e32bc63a9331e4628e7aceb0f0133fc",
-    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-    "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-    "summary": "AWS has suffered at least two incidents linked to the use of AI coding assistants.",
-    "isoDate": "2026-03-10T13:16:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Rafe Rosner-Uddin, Financial Times",
-    "tags": [
-      "AI",
-      "Amazon",
-      "amazon outage",
-      "AWS",
-      "Programming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/GettyImages-1157406884-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b03d2d75fd30e819d434aeb71b0cd08f286c951e",
-    "title": "Apple MacBook Neo review: Can a Mac get by with an iPhone’s processor inside?",
-    "link": "https://arstechnica.com/gadgets/2026/03/apple-macbook-neo-review-can-a-mac-get-by-with-an-iphones-processor-inside/",
-    "summary": "8GB of RAM is a bummer, but this $599 laptop cuts most of the right corners.",
-    "isoDate": "2026-03-10T13:00:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Features",
-      "Tech",
-      "apple",
-      "Apple A18 Pro",
-      "Apple silicon",
-      "MacBook",
-      "macbook neo"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_7410-500x500-1772996276.jpeg",
-    "pinned": false
-  },
-  {
     "id": "a0b92810ad666585c3e2765d018d51fd1113461d",
     "title": "Ericsson blames vendor vishing slip-up for breach exposing thousands of records",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/ericsson_blames_vendor_vishing_slipup/",
@@ -1165,19 +1171,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e01324baf6c67414d07ddc930fb40bbd9ce24ad1",
-    "title": "ShinyHunters claims more high-profile victims in latest Salesforce customers data heist",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/shinyhunters_claims_more_highprofile_victims/",
-    "summary": "<h4>And they abused a Mandiant-developed open source tool in the attacks</h4> <p>ShinyHunters told <em>The Register</em> that it has stolen data from about 100 high-profile companies in its latest Salesforce customer data heist, including Salesforce itself.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-09T18:30:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1522,32 +1515,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-production.webp/96d81d8cde67d7c123a79bdfaafbab54/optimus-production.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3b772691f44f211b7ed29e7b54a3d916bfb0c5cb",
-    "title": "Tesla Publishes New Guide on Solar Panel Payback Periods",
-    "link": "https://www.notateslaapp.com/news/3730/tesla-publishes-new-guide-on-solar-panel-payback-periods",
-    "summary": "Tesla has launched a new guide breaking down the average residential solar panel payback period by state following the expiration of the federal tax credit.&hellip; <a href=\"https://www.notateslaapp.com/news/3730/tesla-publishes-new-guide-on-solar-panel-payback-periods\">Read More</a>",
-    "isoDate": "2026-03-04T17:28:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/energy/0x0-solarroof_03.webp/c1c05d08de797b1f9e034b7648d3e75e/0x0-solarroof_03.jpg",
-    "pinned": false
-  },
-  {
-    "id": "eebd2c30dd1cec32cc3ea2402de0473cc928f2f3",
-    "title": "Tesla’s Emissions Credit Revenue Shrinks as Toyota and Stellantis Exit CO₂ Pool",
-    "link": "https://www.notateslaapp.com/news/3732/teslas-emissions-credit-revenue-shrinks-as-toyota-and-stellantis-exit-co2-pool",
-    "summary": "Toyota and Stellantis have withdrawn from Tesla's European CO₂ pool for 2026, cutting off a major source of regulatory credit revenue.&hellip; <a href=\"https://www.notateslaapp.com/news/3732/teslas-emissions-credit-revenue-shrinks-as-toyota-and-stellantis-exit-co2-pool\">Read More</a>",
-    "isoDate": "2026-03-04T17:18:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_47.webp/d03e50897b13f238e9ba417499838f50/group_47.jpg",
     "pinned": false
   }
 ]
