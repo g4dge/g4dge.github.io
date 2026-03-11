@@ -1,5 +1,51 @@
 [
   {
+    "id": "747aa3982067d237f8d234348f0db420b1e8a63a",
+    "title": "EU legal eagle says banks should refund cybercrime victims first, argue later",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/eu_psd2_compensation/",
+    "summary": "<h4>Advocate General urges rethink of PSD2 to speed compensation after scams</h4> <p><strong>Analysis</strong>  One of the European Union's top legal advisors is trying to change how banks treat cybercrime victims – meaning they could enjoy greater financial protections sooner than expected.…</p>",
+    "isoDate": "2026-03-11T11:29:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c7bb199a737c9ec6447c04bfaca44f8b5e863cd5",
+    "title": "Quantum computing meets the Möbius molecule",
+    "link": "https://arstechnica.com/science/2026/03/quantum-computing-meets-the-mobius-molecule/",
+    "summary": "A complex structure with multiple electrons is within reach of today's hardware.",
+    "isoDate": "2026-03-11T11:07:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "chemistry",
+      "Computer science",
+      "electrons",
+      "quantum computing",
+      "quantum mechanics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Half-Moebius-topology-illustration-IBM-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "69fe16317d395524dd94ceb789fbd828295fa622",
+    "title": "Your datacenter's power architecture called. It's not happy",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/your_datacenters_power_architecture_called/",
+    "summary": "<h4>AI factories demand 800 volts because physics doesn't care about your upgrade budget</h4> <p><strong>Feature</strong>  Hyperscale computing was built on a foundation of certainty. For years, 12V and 48V rack architectures – implemented at a steady 50–54 VDC (Volts of Direct Current) - ruled the datacenter floor, engineered to perfection for power densities of 10–15 kW per rack. These systems were finely tuned machines, optimized around the predictable, steady-state demands of general-purpose CPUs and storage servers. The infrastructure was stable. The math was settled.…</p>",
+    "isoDate": "2026-03-11T11:00:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Abhishek Jadhav",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "ae0a05f3927318408f5a49f1c99c512f1593c40d",
     "title": "Watchdog clears £142M Post Office subsidy for Horizon fallout and IR35 bill",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/post_office_tax_subsidies/",
@@ -960,23 +1006,6 @@
     "pinned": false
   },
   {
-    "id": "8b01588ac844e5451710373a7176117b0348ce32",
-    "title": "Flexible feline spines shed light on \"falling cat\" problem",
-    "link": "https://arstechnica.com/science/2026/03/tuck-and-turn-or-bend-and-twist-how-falling-cats-land-on-their-feet/",
-    "summary": "Falling cats in the study also seemed to show a marked preference for turning to the right.",
-    "isoDate": "2026-03-09T17:54:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "falling cats",
-      "Physics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/fallingcat-TOP-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f8e326737279985aa6477c05dc100cf1bd68f846",
     "title": "China browses lunar landing spots in race to land on Moon",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/china_browses_lunar_landing_spots/",
@@ -1141,32 +1170,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "383de02dcf53eac5b479d7e904d66a4a10956751",
-    "title": "Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/claude_legacy_code_vulns/",
-    "summary": "<h4>This isn't just a nostalgia trip – billions of legacy microcontrollers may be at risk</h4> <p>AI can reverse engineer machine code and find vulnerabilities in ancient legacy architectures, says Microsoft Azure CTO Mark Russinovich, who used his own Apple II code from 40 years ago as an example.…</p>",
-    "isoDate": "2026-03-09T11:58:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f1b67f88d63683ba543a5ea34bdd151a03d352da",
-    "title": "Musk's Grok sparks outrage after chatbot makes offensive jibes about football disasters",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/grok_football_controvery/",
-    "summary": "<h4>UK government slams comments as 'sickening and irresponsible'</h4> <p>Elon Musk's AI chatbot Grok is once again under investigation after it began posting explicit and derogatory remarks about historic football disasters when prompted by users on X.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-09T11:14:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1511,19 +1514,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-s/models_71.webp/c619dabb2a83001316aec06caa476b50/models_71.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9ffb47c3868b23c4ed9558b402233eb9e84955e1",
-    "title": "Exploratorium",
-    "link": "https://aeon.co/videos/museum-goers-toy-with-reality-in-this-oscar-nominated-short?utm_source=rss-feed",
-    "summary": "<p><img alt=\"Silhouette of person reaching towards vibrant colourful light patterns on a wall.\" src=\"https://images.aeonmedia.co/images/6a7ca960-05be-4360-8dc6-819c9b9b75b8/exploratorium-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Play with the physics of perception at Frank Oppenheimer’s Exploratorium in this captivating, Oscar-nominated short from 1974</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/museum-goers-toy-with-reality-in-this-oscar-nominated-short?utm_source=rss-feed\">Watch on Aeon</a></p>",
-    "isoDate": "2026-03-04T11:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
