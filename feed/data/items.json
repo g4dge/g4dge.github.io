@@ -1,5 +1,87 @@
 [
   {
+    "id": "1f7aba8ed1864a2aafc0d12c1b36ed1b0ddd8382",
+    "title": "More modular design makes MacBook Neo easier to fix than other Apple laptops",
+    "link": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
+    "summary": "Neo is the first MacBook in a long time with an easily replaceable keyboard.",
+    "isoDate": "2026-03-12T16:03:06Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Tech",
+      "apple",
+      "macbook neo",
+      "right to repair"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3655-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "986b6aefb0e73e65baf95ae586a2986e7d1d6321",
+    "title": "Oracle tops up restructuring fund for FY26 by $500M",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/oracle_increases_restructuring_fund_for/",
+    "summary": "<h4>Pot of money grows to $2.1BN for fiscal '26, as Big Red exec says AI helping smaller engineering teams do more</h4> <p>Oracle has increased funding for its restructuring plans for the current financial year by $500 million, with some observers anticipating a spate of job losses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-12T16:00:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "955e8c40f6fe7f1eb676fe482ee65f7b7cfc7c5f",
+    "title": "Musk makes the Macrohard joke again",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/musk_macrohard/",
+    "summary": "<h4>The idea being that fleets of AI agents could emulate the 'function of entire companies'</h4> <p>Elon Musk wheeled out his \"Macrohard\" dad joke again in the form of a supposed fleet of \"Digital Optimus\" agents that he claims would be capable of \"emulating the function of entire companies.\"…</p>",
+    "isoDate": "2026-03-12T15:33:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ef5f54695b9287919cc1ca8d8a1df81db9e737cf",
+    "title": "Valve compares its loot boxes to Labubus in lawsuit defense",
+    "link": "https://arstechnica.com/gaming/2026/03/valve-compares-its-loot-boxes-to-labubus-in-lawsuit-defense/",
+    "summary": "Steam maker says settling the case would be easier but would set a bad precedent.",
+    "isoDate": "2026-03-12T15:15:47Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "gambling",
+      "legal",
+      "loot boxes",
+      "new york",
+      "Steam",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/loot-box-skull-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2e72a3955935bb3cb026d7040cefa0b0f67cf61b",
+    "title": "Rivian reveals pricing and trim details for its R2 SUV",
+    "link": "https://arstechnica.com/cars/2026/03/rivian-reveals-pricing-and-trim-details-for-its-r2-suv/",
+    "summary": "The midsize AWD EV goes on sale this spring, single-motor versions in 2027.",
+    "isoDate": "2026-03-12T15:00:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Rivian R2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/R2_GlacierWhiteExterior12-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "bab76d90c1223f0826672d7200fb32e85100919c",
     "title": "Users protest as Google Antigravity price floats upward",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/users_protest_as_google_antigravity/",
@@ -669,28 +751,6 @@
     "pinned": false
   },
   {
-    "id": "fde5ede783c066e7198edc3e335605503c0448ef",
-    "title": "NIH director launches \"Scientific Freedom\" lectures with non-scientist",
-    "link": "https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/",
-    "summary": "First speaker minimizes climate change, COVID risks—and is a lab leak proponent.",
-    "isoDate": "2026-03-11T15:33:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "Bhattacharya",
-      "climate change",
-      "Covid",
-      "Lab leak",
-      "Matt Ridley",
-      "NIH",
-      "pandemic"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2260549686-500x500-1773238471.jpg",
-    "pinned": false
-  },
-  {
     "id": "483d6d78a7403ae0bfa501b8da16bbd3bd7ea358",
     "title": "NASA watchdog report pokes holes in Artemis lunar lander plans",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/nasa_oig_artemis_lander/",
@@ -701,30 +761,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2945d9c608ac3b09b3dd9bb0710560af41e46d67",
-    "title": "Verdict: Yes, you should go see Project Hail Mary as soon as possible",
-    "link": "https://arstechnica.com/culture/2026/03/verdict-yes-you-should-go-see-project-hail-mary-as-soon-as-possible/",
-    "summary": "A brief spoiler-free review of the film, which opens in the US on March 20.",
-    "isoDate": "2026-03-11T14:44:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Lee Hutchinson",
-    "tags": [
-      "Culture",
-      "Amazon Studios",
-      "andy weir",
-      "drew goddard",
-      "film review",
-      "hail mary",
-      "MGM",
-      "movie review",
-      "project hail mary",
-      "review"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/phm_petrova_line-500x500-1773237067.jpg",
     "pinned": false
   },
   {
@@ -777,25 +813,6 @@
     "author": "Lindsay Clark",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6e3364aa241fb0e7a1ed7f08aeaf1f368f3912db",
-    "title": "What crackdown? Trump's EPA enforcement claims don't pass sniff test.",
-    "link": "https://arstechnica.com/tech-policy/2026/03/trumps-epa-says-its-cracking-down-but-the-data-tell-a-different-story/",
-    "summary": "75% of the criminal cases closed last fiscal year originated before Trump took office.",
-    "isoDate": "2026-03-11T13:27:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Wyatt Myskow and Lisa Sorg, Inside Climate News",
-    "tags": [
-      "Policy",
-      "clean air act",
-      "environmental regulation",
-      "EPA",
-      "trump administration"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-128228162-500x500.jpg",
     "pinned": false
   },
   {
@@ -1173,32 +1190,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c2ecd533fdd1d050f3a68a9433e8a3c78e0a7efa",
-    "title": "Flying cabs, next-gen aircraft cleared for takeoff in 26 states",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/evtol_pilot_26_states/",
-    "summary": "<h4>FAA launches pilot projects starting this summer</h4> <p>The skies over parts of the US could soon get busier, as the Federal Aviation Administration launches pilot projects spanning 26 states to test electric air taxis and other next-gen aircraft, with operations expected to begin by summer 2026.…</p>",
-    "isoDate": "2026-03-10T16:19:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "543b65586b15e764320fa92d8f19c4e0930b5a48",
-    "title": "Musk admits Starship V3 launch date has slipped as Super Heavy booster rolls into place",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/spacex_gets_a_starship_booster/",
-    "summary": "<h4>Launch predictions continue to be optimistic as 2027 and Artemis III near</h4> <p>SpaceX has rolled another Starship super heavy booster to the launch pad as the company's boss, Elon Musk, admits the first launch of Starship V3 had slipped.…</p>",
-    "isoDate": "2026-03-10T15:22:42Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
