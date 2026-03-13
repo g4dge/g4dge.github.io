@@ -1,5 +1,31 @@
 [
   {
+    "id": "b908de688207607e42d61538143995a3a518614b",
+    "title": "Pentagon AI chief praises Palantir tech for speeding battlefield strikes",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/",
+    "summary": "<h4>Going from eight systems to one means fewer people make decisions to unleash Epic Fury</h4> <p>As the US continues its strikes on Iran as part of Operation Epic Fury, speakers at Palantir's AIPCON event on Thursday said the company’s Maven Smart System product has shortened the time it takes the Department of Defense to select and hit targets on the battlefield during the conflict.…</p>",
+    "isoDate": "2026-03-13T01:00:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6f6e6e880c3410e3fd21c6527c5658941f795d2e",
+    "title": "Rogue AI agents can work together to hack systems and steal secrets",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/rogue_ai_agents_worked_together/",
+    "summary": "<h4>Prompt like a hard-ass boss who won't tolerate failure and bots will find ways to breach policy</h4> <p>AI agents work together to bypass security controls and stealthily steal sensitive data from within the enterprise systems in which they operate, according to tests carried out by frontier security lab Irregular.…</p>",
+    "isoDate": "2026-03-12T23:49:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6428ffd1b1c6b6533eacb7dacc9dc6b95c87135d",
     "title": "Perplexity: Everything is Computer, everything is AI, Computer is everything, AI is us",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/perplexity_extends_cloud_computer_to_enterprise/",
@@ -14,7 +40,7 @@
   },
   {
     "id": "71f7d07778574717f18192b241d0a12e6d006398",
-    "title": "The who, what, and why of the attack that has shut down Stryker's Windows network\"",
+    "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
     "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
     "summary": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
     "isoDate": "2026-03-12T22:18:11Z",
@@ -623,9 +649,9 @@
   },
   {
     "id": "bae02dfc92169f123b8dc86e84e44bb6cd82d410",
-    "title": "Microsoft adding Xbox mode to Windows 11",
+    "title": "Microsoft adding Xbox mode to Windows 11 - even the Professional edition",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/xbox_mode_windows_11/",
-    "summary": "<h4>Out of the Copilot and into the fire</h4> <p>Organizations that rely on consumer-grade PCs or allow staff to bring their own devices to work have something new to worry about: a virtual Xbox lurking inside Windows 11.…</p>",
+    "summary": "<h4>Out of the Copilot and into the fire</h4> <p><strong>Updated</strong>  Windows shops have something new to worry about: a virtual Xbox lurking inside Windows 11, including the Professional edition.…</p>",
     "isoDate": "2026-03-12T06:10:40Z",
     "source": "The Register",
     "category": "Tech",
@@ -1165,19 +1191,6 @@
     "pinned": false
   },
   {
-    "id": "a1ad7e304491428f513f9e96ee82fb836380250c",
-    "title": "AIOps is so powerful, vendors are building tools to clean up after agents break your infrastructure",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/agentic_ai_rollback_recovery_cohesity/",
-    "summary": "<h4>Cohesity, ServiceNow and Datadog team on recoverability suite</h4> <p>Three more vendors have decided that the world needs tools to roll back mistakes made by AI, after Cohesity teamed with ServiceNow and Datadog on a recoverability service that will hunt down all the files and data corrupted by bad AI actors and restore systems to a “trusted state.”…</p>",
-    "isoDate": "2026-03-10T23:31:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "dfbea01f857c5188ee5ce49582b26ddfe8bf5cf8",
     "title": "Production Cybercab: Larger Cabin Camera, Interior Trunk Cam, First Look at Door and Hazards Button",
     "link": "https://www.notateslaapp.com/news/3769/first-look-at-the-production-cybercab-whats-changed",
@@ -1188,19 +1201,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-cabin-camera.webp/87c1334cac796b8bb81f5cd8817f9993/cybercab-cabin-camera.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a1070a0662bb12f9a9b81176a8b4d81bd1a13b24",
-    "title": "Critical Microsoft Excel bug weaponizes Copilot Agent for zero-click information disclosure attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/zeroclick_microsoft_info_disclosure_bug/",
-    "summary": "<h4>Could steal sensitive personal and financial data</h4> <p>After a whopper of a <a href=\"https://www.theregister.com/2026/02/10/microsofts_valentines_gift_to_admins/\" target=\"_blank\">Patch Tuesday last month</a>, with six Microsoft flaws exploited as zero-days, March didn't exactly roar in like a lion. Just two of the 83 Microsoft CVEs released on Tuesday are listed as publicly known, and none is under active exploitation, which we're sure is a welcome change to sysadmins.…</p>",
-    "isoDate": "2026-03-10T20:35:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
