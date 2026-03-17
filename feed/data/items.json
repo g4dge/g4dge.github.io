@@ -1,5 +1,94 @@
 [
   {
+    "id": "4c53525dfd2c24b3720ed04f5da5bea319884c43",
+    "title": "Firefighting drones head to Aspen—can they suppress a blaze before humans arrive?",
+    "link": "https://arstechnica.com/gadgets/2026/03/firefighting-drones-head-to-aspen-can-they-suppress-a-blaze-before-humans-arrive/",
+    "summary": "Seneca's drones carry foam, fly at night, and don't need an on-site pilot.",
+    "isoDate": "2026-03-17T13:10:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cyrus Farivar",
+    "tags": [
+      "Tech",
+      "aspen",
+      "Colorado",
+      "drones",
+      "fire"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/aspen-fire-drone-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6f3188cfaebe57c0932152f1fb3b9215c31ce805",
+    "title": "Ofcom sees no need for overhaul in next phase of fiber rollout despite BT domination",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/ofcom_telelcoms_access_review/",
+    "summary": "<h4>Regulator nudges broadband market, hopes competition will turn up in 2031</h4> <p>Ofcom is laying out its pathway for fiber broadband almost everywhere across the UK in five years, but concedes that BT still dominates the market.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-17T13:09:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7ae9df93eb9182a09172355303329323715fdf41",
+    "title": "Upmarket looks, mass-market price: The 2027 Kia Telluride, driven",
+    "link": "https://arstechnica.com/cars/2026/03/upmarket-looks-mass-market-price-the-2027-kia-telluride-driven/",
+    "summary": "The three-row SUV starts at under $40,000, and now there's a 35 mpg hybrid version.",
+    "isoDate": "2026-03-17T13:00:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Hyatt",
+    "tags": [
+      "Cars",
+      "car review",
+      "First drive",
+      "Kia Telluride"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/23951_2027_Telluride_HEV_SXP-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "22d11b2111422fe8306d63b23236aae70df0019b",
+    "title": "Tesla Just Outsold Every Other Car Brand Combined in Norway",
+    "link": "https://www.notateslaapp.com/news/3810/tesla-just-outsold-every-other-car-brand-combined-in-norway",
+    "summary": "During the first week of March, Tesla reached a level of dominance in Norway that few automakers ever achieve in a developed market&hellip; <a href=\"https://www.notateslaapp.com/news/3810/tesla-just-outsold-every-other-car-brand-combined-in-norway\">Read More</a>",
+    "isoDate": "2026-03-17T13:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_48.webp/3c1b80bde2d8d06c73f00c0714fdb99b/group_48.jpg",
+    "pinned": false
+  },
+  {
+    "id": "71bf3bbacfdd38e3efa13d6e09d5dc1c66e9269f",
+    "title": "Out-of-band getting out of hand as Microsoft pushes hotpatch for Bluetooth",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/microsoft_bluetooth_hotpatch/",
+    "summary": "<h4>Second emergency fix in days targets Windows 11 24H2 and 25H2</h4> <p>Microsoft has pushed out yet another out-of-band hotpatch, this time to fix Bluetooth issues in Windows 11 25H2 and 24H2.…</p>",
+    "isoDate": "2026-03-17T12:27:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7cb627c9e2358dcc71fd393d5939ac74768c12df",
+    "title": "Iran's 'chosen users' get 'privileged access' despite internet blackout for masses",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/iran_internet_blackout/",
+    "summary": "<h4>Civilians relying on Dutch shortwave radio broadcast for outside information</h4> <p>Iran's internet blackout is entering day 18, according to monitoring outfit NetBlocks, which says the vast majority of the country has been offline for more than 400 consecutive hours.…</p>",
+    "isoDate": "2026-03-17T12:19:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3e38be338d8d89b52011768cad564b073c843fd6",
     "title": "Big moves in Linux filesystems as new bcachefs lands and KDE adds support for Apple's APFS",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/bcachefs_and_apfs_news/",
@@ -317,7 +406,7 @@
   },
   {
     "id": "95428043d157dee6af08e334e7f79996bb50e43c",
-    "title": "Tesla Produces Last V3 Supercharger, Transitions to V4",
+    "title": "Tesla Produces Last V3 Supercharger, Transitions to V4 Everywhere",
     "link": "https://www.notateslaapp.com/news/3807/tesla-produces-last-v3-supercharger-switches-over-to-v4",
     "summary": "The company’s Gigafactory in New York has just assembled its final V3 Supercharger cabinet, signaling a total shift in production toward next-gen V4 hardware&hellip; <a href=\"https://www.notateslaapp.com/news/3807/tesla-produces-last-v3-supercharger-switches-over-to-v4\">Read More</a>",
     "isoDate": "2026-03-16T19:11:00Z",
@@ -1048,46 +1137,6 @@
     "pinned": false
   },
   {
-    "id": "b351f685610accbefa2406c2f8dd596e27429ccb",
-    "title": "Figuring out why AIs get flummoxed by some games",
-    "link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
-    "summary": "When winning depends on intuiting a mathematical function, AIs come up short.",
-    "isoDate": "2026-03-13T21:47:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "AI",
-      "Science",
-      "chess",
-      "Computer science",
-      "games",
-      "math",
-      "NIM",
-      "training"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2230224523-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "76e16004b76306efe6a9ee4d5c13c508ead398e9",
-    "title": "Google Fiber will be sold to private equity firm and merge with cable company",
-    "link": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
-    "summary": "GFiber and Astound to merge with Alphabet, selling majority stake to Stonepeak.",
-    "isoDate": "2026-03-13T20:57:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Google",
-      "Policy",
-      "astound broadband",
-      "Google Fiber"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/google-fiber-van-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "264693079eaa478df81c508f49b64bd6af1a5d8a",
     "title": "GitHub infuriates students by removing some models from free Copilot plan",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/microsoft_github_removes_models_student_plan/",
@@ -1252,45 +1301,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2124f1f35a0b2c2f7d6c405b76bb27137e9e8992",
-    "title": "NASA pencils in fresh Artemis II Moon launch attempt for April 1",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nasa_aims_for_an_april_artemis_ii_launch/",
-    "summary": "<h4>'When we tank the vehicle ... I would like it to be on a day that we could actually launch'</h4> <p>NASA has set April 1 for the Artemis II launch, with engineers preparing the Space Launch System (SLS) for a rollout to the pad on March 19.…</p>",
-    "isoDate": "2026-03-13T12:48:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "65daa69ec599897412cf46c020acd8baa880c13a",
-    "title": "Interpol cybercrime crackdown leads to 94 arrests, 45,000 IP takedowns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/interpol_operation_synergia/",
-    "summary": "<h4>Operation Synergia's third season is the most productive to date</h4> <p>Ninety-four people were arrested as part of a global, multi-month cybercrime crackdown, Interpol revealed today.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-13T12:39:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5ec93254454db8d248dab48572bdc17c27485b9f",
-    "title": "Nanny state discovers Linux, demands it check kids' IDs before booting",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/opinion_os_verification/",
-    "summary": "<h4>Age-verification laws target operating systems because apparently teenagers having root access is now a safeguarding crisis</h4> <p><strong>Opinion</strong>  A new wave of age verification laws requires kids and teenagers to register before they can use a computer.…</p>",
-    "isoDate": "2026-03-13T12:23:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Steven J. Vaughan-Nichols",
     "tags": [],
     "image": "",
     "pinned": false
