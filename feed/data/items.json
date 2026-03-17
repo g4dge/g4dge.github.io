@@ -1,5 +1,60 @@
 [
   {
+    "id": "c1d61ed2d7d6075f6a4261d9a1ae4f038b133385",
+    "title": "Judge upholds Apple delisting of free Musi app that streams songs from YouTube",
+    "link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+    "summary": "Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"",
+    "isoDate": "2026-03-17T21:38:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "App Store",
+      "apple",
+      "iphone",
+      "musi youtube"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/musi-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "16decc3d9e6b9ab09b7cce782054cb62b6fffa86",
+    "title": "How World ID wants to put a unique human identity on every AI agent",
+    "link": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+    "summary": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.",
+    "isoDate": "2026-03-17T21:28:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Security",
+      "agents",
+      "AI agents",
+      "identity",
+      "OpenClaw",
+      "security",
+      "worldcoin",
+      "WorldID"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-667311229-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6b094b732a47bd3706cb565442357ef8a7b85ae8",
+    "title": "Tesla Robotaxi Appears to Be Launching in Las Vegas and Dallas",
+    "link": "https://www.notateslaapp.com/news/3813/tesla-robotaxi-appears-to-be-launching-in-las-vegas-and-dallas",
+    "summary": "Recent sightings in Nevada and Texas suggest that Tesla's long-anticipated Robotaxi service is on the verge of a massive multi-city expansion&hellip; <a href=\"https://www.notateslaapp.com/news/3813/tesla-robotaxi-appears-to-be-launching-in-las-vegas-and-dallas\">Read More</a>",
+    "isoDate": "2026-03-17T20:56:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-las-vegas-3.webp/b863af223d95e1cb9feee20b156476f1/robotaxi-las-vegas-3.jpg",
+    "pinned": false
+  },
+  {
     "id": "c0cdee8c777a995609750bb108af14d06439b5e4",
     "title": "World<s>Coin</s>'s newest pitch: Scan your eyeballs to prove AI agents really represent you",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/worldcoin_identity_ai_agents_whatever/",
@@ -209,7 +264,7 @@
     "id": "b3a844fa9ae6611134f4ab0af087201a1bac575c",
     "title": "HPE adds Blackwell, Rubin systems to Nvidia-backed sovereign AI push",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/hpe_adds_blackwell_rubin_systems/",
-    "summary": "<h4>Plus: Object storage gets stamp of approval, and it intros network linked 'AI Grid'</h4> <p>HPE has expanded its Nvidia-based AI portfolio with new systems built on Blackwell and upcoming Rubin GPUs, alongside updates to its Alletra Storage MP X10000, which it claims is the first object storage platform to achieve Nvidia-Certified Storage validation.…</p>",
+    "summary": "<h4>Plus: Object storage gets stamp of approval, and it intros network linked 'AI Grid'</h4> <p><strong>GTC</strong>  HPE has expanded its Nvidia-based AI portfolio with new systems built on Blackwell and upcoming Rubin GPUs, alongside updates to its Alletra Storage MP X10000, which it claims is the first object storage platform to achieve Nvidia-Certified Storage validation.…</p>",
     "isoDate": "2026-03-17T16:22:15Z",
     "source": "The Register",
     "category": "Tech",
@@ -785,24 +840,6 @@
     "pinned": false
   },
   {
-    "id": "f8dfc0126e19761b0a1e615eac886c8d8d14e6d3",
-    "title": "Driving the $375,000 Porsche race car that debuted as a $12 DLC in iRacing",
-    "link": "https://arstechnica.com/cars/2026/03/from-pixels-to-pavement-testing-the-new-porsche-911-cup-in-iracing-and-irl/",
-    "summary": "Porsche's new 911 Cup debuted in iRacing, and then we took it out on the track.",
-    "isoDate": "2026-03-16T18:00:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Tim Stevens",
-    "tags": [
-      "Cars",
-      "iRacing",
-      "Porsche 911",
-      "Porsche 911 GT3"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/2026-Porsche-911-Cup-012-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d5529b95236002d9b7be577885ab2e43ca616d42",
     "title": "Vite team boasts 10-30x faster builds with Rust-powered Rolldown",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/vite_8_rolldown/",
@@ -813,23 +850,6 @@
     "author": "Tim Anderson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5cc941a98d9a44a84026dbb8b25ab8aed3a93f0b",
-    "title": "F1 in China: I've never seen so many people in those grandstands",
-    "link": "https://arstechnica.com/cars/2026/03/f1-in-china-ive-never-seen-so-many-people-in-those-grandstands/",
-    "summary": "Formula 1's new style of racing puts on an entertaining sprint weekend in Shanghai.",
-    "isoDate": "2026-03-16T17:11:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "F1",
-      "Formula 1"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266728234-500x500.jpg",
     "pinned": false
   },
   {
