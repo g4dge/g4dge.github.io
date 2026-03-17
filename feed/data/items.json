@@ -1,5 +1,18 @@
 [
   {
+    "id": "86f81b39cd6f61e0b530e54b84b967cc9416d26f",
+    "title": "Switzerland built a secure alternative to BGP. The rest of the world hasn't noticed yet",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+    "summary": "<h4>SCION: Proven in banking and healthcare, slow to spread everywhere else</h4> <p><strong>Feature</strong>  BGP, the Border Gateway Protocol, was not designed to be secure. It was designed to work – to route packets between the thousands of autonomous systems that make up the internet, quickly and at scale.…</p>",
+    "isoDate": "2026-03-17T08:15:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Kim Loohuis",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "477412df472d726c925d6adf0884642cbd68d836",
     "title": "In the name of science: Boffins build fart-tracking undies",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/scientists_build_farttracking_underwear_discover/",
@@ -599,7 +612,7 @@
   },
   {
     "id": "884d965b836aa87023495f0868d0d14d697fc13c",
-    "title": "Microsoft points at Samsung after Galaxy app bug locks users out of C:/",
+    "title": "Microsoft points at Samsung after Galaxy app bug locks users out of C:\\",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/samsung_c_drive_windows/",
     "summary": "<h4>'Access denied' errors hit certain Windows 11 machines running vendor utility</h4> <p>Microsoft has blamed Samsung for some devices suffering C:\\ drive access problems coincidentally close to March's Patch Tuesday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-03-16T11:37:24Z",
@@ -1250,19 +1263,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e94ca6042ed08c45d76fa935707c357d8e6eb12b",
-    "title": "NanoClaw latches onto Docker Sandboxes for safer AI agents",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nanoclaw_latches_onto_docker_sandboxes/",
-    "summary": "<h4>Take your YOLO and box it up</h4> <p><strong>exclusive</strong>  NanoClaw, an open source agent platform, can now run inside Docker Sandboxes, furthering the project's commitment to security.…</p>",
-    "isoDate": "2026-03-13T11:50:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
