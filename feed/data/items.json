@@ -1,5 +1,70 @@
 [
   {
+    "id": "15a8686705ad76dcc8e094add0379b56eba20ea8",
+    "title": "AI for software developers is in a 'dangerous state'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/ai_for_software_developers_qcon/",
+    "summary": "<h4>Strong forces tempting humans out of the AI loop, and reducing the experience needed to supervise and review</h4> <p><strong>QCon London</strong>  AI is in a dangerous state where it is too useful not to use, but where by using it, developers are giving up the experience they need to review what it does, said a speaker at QCon London, a vendor-neutral developer conference underway this week.…</p>",
+    "isoDate": "2026-03-18T12:53:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a2b0a1637b671c1dece7823d7df396d5e1dab213",
+    "title": "Microsoft 365 pauses Copilot creep after admins cry foul",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/automatic_deployment_copilot/",
+    "summary": "<h4>Automatic deployment of Redmond's assistant halted for now</h4> <p>Microsoft has paused plans to force the Microsoft 365 Copilot app on users, halting automatic installations for an unspecified period.…</p>",
+    "isoDate": "2026-03-18T12:38:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "582756a5c930f6d0b476dbfbdd308c910bfbedac",
+    "title": "Britain's satellite-watching gap to be plugged with £17.5M eyeball in Cyprus",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/miniastry_of_defence_to_spend/",
+    "summary": "<h4>No 1 Space Operations Squadron will get a persistent stare capability</h4> <p>The Ministry of Defence (MoD) plans to spend £17.5 million on a remotely-operated satellite monitoring facility in Cyprus, partly to protect the UK's secure communications system Skynet.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-18T12:34:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "SA Mathieson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "af92b404d2f631adc9b4bc8d509b470c9e97c551",
+    "title": "IBM CEO pay pack jumps 51% for 2025 in target smash and grab",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/ibm_ceo_pay_pack_jumps/",
+    "summary": "<h4>Median employee increase? 2.1%. And shareholders urged to vote against a request for AI bias reporting</h4> <p>Not all employees are created equally, just ask IBM boss Arvind Krishna, who received a financial package valued at $38 million in calendar 2025 - equivalent to the average collective pay of 765 Big Blue workers.…</p>",
+    "isoDate": "2026-03-18T12:26:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Paul Kunert",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "033c965c4a4454370d42604dd7a91e73aa79b509",
+    "title": "Tesla Update 2026.8 Lets You See Who's Driving in the App",
+    "link": "https://www.notateslaapp.com/news/3814/tesla-update-20268-lets-you-see-whos-driving-in-the-app",
+    "summary": "For the first time, Tesla is allowing owners to see exactly which driver profile is currently active in their vehicle directly from the Tesla app&hellip; <a href=\"https://www.notateslaapp.com/news/3814/tesla-update-20268-lets-you-see-whos-driving-in-the-app\">Read More</a>",
+    "isoDate": "2026-03-18T12:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-driver-profile.webp/61c5e66dc54de560e19ce856a602bbef/tesla-app-driver-profile.jpg",
+    "pinned": false
+  },
+  {
     "id": "ce77511c04502314ffe3ad8ead53100353205a02",
     "title": "Users hate it, but age-check tech is coming. Here's how it works.",
     "link": "https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/",
@@ -9,6 +74,7 @@
     "category": "Tech",
     "author": "Ashley Belanger",
     "tags": [
+      "Features",
       "Policy",
       "age checks",
       "age gates",
@@ -198,7 +264,7 @@
     "id": "16decc3d9e6b9ab09b7cce782054cb62b6fffa86",
     "title": "How World ID wants to put a unique human identity on every AI agent",
     "link": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-    "summary": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.",
+    "summary": "Iris scan-backed tokens could help stop agent swarms from overwhelming online systems.",
     "isoDate": "2026-03-17T21:28:27Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -1144,19 +1210,6 @@
     "pinned": false
   },
   {
-    "id": "c64aa5c75adf8809b525b7a703945a6032ed9aa9",
-    "title": "West Sussex's Oracle rollout pushed back again as costs balloon 15 times",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/west_sussex_oracle/",
-    "summary": "<h4>Already five years late, project delayed another six months after price tag swells from £2.6M to £41M</h4> <p>West Sussex County Council has once again delayed the implementation of Oracle Fusion for HR and payroll – set to replace an aging SAP system – following a series of setbacks that have seen expected costs swell to more than 15 times the original estimate.…</p>",
-    "isoDate": "2026-03-16T10:15:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "da627f7c611f68af85ae344e2c605280276366e6",
     "title": "Henri Bergson: Creative Evolution",
     "link": "https://aeon.co/videos/henri-bergson-on-why-our-world-is-built-of-objects-and-space?utm_source=rss-feed",
@@ -1181,45 +1234,6 @@
     "tags": [
       "UFOs"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b7eee253beef59debe1daa02f7a69bb0f7b6a7db",
-    "title": "Horizon redress still a mess, MPs say – and Fujitsu hasn't paid a penny",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/horizon_redress_still_a_mess/",
-    "summary": "<h4>System compensating victims of the Post Office Horizon scandal still slow, thousands of ex-subpostmasters waiting for payments</h4> <p>More than a year after MPs warned that victims of the Post Office Horizon scandal were still waiting for compensation, Parliament says the system meant to pay them remains slow, bureaucratic, and flawed – meaning thousands of sub-postmasters are still fighting for payouts while taxpayers pick up the bill.…</p>",
-    "isoDate": "2026-03-16T09:30:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7764d10160338439536eadfc79d21307311b3a4f",
-    "title": "Brilliant backups that kept data alive for ages landed web developer in big trouble",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/who_me/",
-    "summary": "<h4>Client omissions caused the problem, so guess who was thrown under the bus</h4> <p><strong>Who, Me?</strong>  The world of work can be thankless, which is why <i>The Register</i> tries to brighten up the Monday return to toil by bringing you a fresh installment of Who, Me? It's the reader-contributed column where you confess to your IT screw-ups and tell us how you got away with it.…</p>",
-    "isoDate": "2026-03-16T07:30:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1eedbddff271aca89f330ad6828eaf8f27da8723",
-    "title": "AWS S3 turns 20 and reaches ‘hundreds of exabytes’",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/aws_s3_turns_20/",
-    "summary": "<h4>Cloudy storage service's scale gave it a hefty cultural footprint</h4> <p>Amazon Web Services on Saturday celebrated the 20th birthday of its Simple Storage Service (S3) and revealed a few little secrets about the service.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-16T06:24:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
     "image": "",
     "pinned": false
   },
@@ -1524,32 +1538,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-dot-showcase-8.webp/b241a16c001e23824b88aee4ffd7428b/robotaxi-dot-showcase-8.jpg",
-    "pinned": false
-  },
-  {
-    "id": "02e74344389a360174228c80e052b63546aee641",
-    "title": "Real-World Test Shows Tesla Semi Running at Just 15¢ Per Mile — Far Below Diesel",
-    "link": "https://www.notateslaapp.com/news/3768/real-world-test-shows-tesla-semi-running-at-just-15c-per-mile-far-below-diesel",
-    "summary": "Mone Transport recently put the Tesla Semi to the test in Texas, logging over 4,700 miles with a impressive average efficiency of just 1.64 kWh per mile.&hellip; <a href=\"https://www.notateslaapp.com/news/3768/real-world-test-shows-tesla-semi-running-at-just-15c-per-mile-far-below-diesel\">Read More</a>",
-    "isoDate": "2026-03-11T13:26:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/semi-mone.webp/01196e29f577d4f91890d0ec5fdfa31a/semi-mone.jpg",
-    "pinned": false
-  },
-  {
-    "id": "38ad284c7a334b1dcf6c210457e8185a9f2c9f45",
-    "title": "Tesla and Google Launch “Utilize” to Lower Electricity Costs",
-    "link": "https://www.notateslaapp.com/news/3770/tesla-and-google-launch-utilize-to-lower-electricity-costs",
-    "summary": "Tesla and Google have launched 'Utilize,' a new industry coalition focused on tackling soaring electricity costs by tapping into underused grid capacity.&hellip; <a href=\"https://www.notateslaapp.com/news/3770/tesla-and-google-launch-utilize-to-lower-electricity-costs\">Read More</a>",
-    "isoDate": "2026-03-11T13:08:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/us-energy-electricity-costs.webp/20c7802d089d96b89e8025ba3f1589e2/us-energy-electricity-costs.jpg",
     "pinned": false
   }
 ]
