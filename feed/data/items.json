@@ -1,5 +1,94 @@
 [
   {
+    "id": "f61b9435279dca66bb7b7e62762042f7d7688cef",
+    "title": "A private space company has a radical new plan to bag an asteroid",
+    "link": "https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/",
+    "summary": "Company has previously tested its technology on the International Space Station.",
+    "isoDate": "2026-03-18T19:00:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "asteroid",
+      "Capture",
+      "space",
+      "transastra"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7d71831a788b7ce7e352628c76d102e135be6ed8",
+    "title": "Storage vendors orbit the Nvidia sun at GTC",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/gtc_storage_hitatchi_ibm_seagate/",
+    "summary": "<h4>Hitachi Vantara, IBM, Nutanix, and Seagate all had something to say</h4> <p><strong>GTC</strong>  Hitachi Vantara and Nutanix announced support for Nvidia’s new GPUs and software at GTC 2026, much like every other storage system vendor, while IBM integrated Watsonx and other offerings more tightly with GPUzilla's offerings. Seagate demonstrated a two-tier hybrid external KV Cache composed of SSDs and disk drives, as it did last year.…</p>",
+    "isoDate": "2026-03-18T18:14:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Chris Mellor",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d4d30685544ce54c72ddf098ee08f6859ac287ae",
+    "title": "Microsoft promises all-in-one database wrangling hub on Fabric",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/microsoft_fabric_latest/",
+    "summary": "<h4>PostgreSQL, MySQL, SQL Server all handled via Database Hub, vendor says</h4> <p>Microsoft has launched a database management tool it promises will help users manage multiple databases sharing a single SQL engine.…</p>",
+    "isoDate": "2026-03-18T17:44:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a0980e8262e5f4f91047419c381fde543dbb57a0",
+    "title": "Amazon security boss says crims abused max-security Cisco firewall flaw weeks before disclosure",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/amazon_cisco_firewall_0_day_ransomware/",
+    "summary": "<h4>Interlock's post-exploit toolkit exposed</h4> <p>Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-18T17:40:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2f23964934bc56988eccac9f2fb316e64d95d06c",
+    "title": "Tesla Cybercab Gets New Charge Port, Wheelchair-Height Seats",
+    "link": "https://www.notateslaapp.com/news/3816/tesla-cybercab-gets-new-charge-port-wheelchair-height-seats",
+    "summary": "New sightings of the autonomous two-seater have revealed a significantly updated charge port and a focus on accessibility that could make it a game-changer&hellip; <a href=\"https://www.notateslaapp.com/news/3816/tesla-cybercab-gets-new-charge-port-wheelchair-height-seats\">Read More</a>",
+    "isoDate": "2026-03-18T17:37:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-better-charge-port.webp/e2a4bb878ded4f78e138035c26bfb3d5/cybercab-better-charge-port.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d58b6c53a432a4a2197cee7f686d87c72c8bb3b9",
+    "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+    "link": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+    "summary": "One Microsoft product was approved despite years of concerns about its security.",
+    "isoDate": "2026-03-18T17:36:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Renee Dudley, with research by Doris Burke",
+    "tags": [
+      "Biz & IT",
+      "microsoft",
+      "Propublica",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "efa51aaa0c331ef26da29c02f2e5b71913562414",
     "title": "Ohio citizens tell hyperscalers to take their supersized datacenters elsewhere",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/ohio_datacenter_petition/",
@@ -1009,28 +1098,6 @@
     "pinned": false
   },
   {
-    "id": "f6ecd1d9a8e19bce5306ecf8a0c68e11405167b3",
-    "title": "RFK Jr.’s anti-vaccine changes to CDC vaccine guidance blocked by judge",
-    "link": "https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/",
-    "summary": "Ruling temporarily blocks changes to vaccine recommendations and an advisory board.",
-    "isoDate": "2026-03-16T22:20:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "ACIP",
-      "american academy of pediatrics",
-      "CDC",
-      "HHS",
-      "kennedy",
-      "robert f kennedy jr",
-      "vaccine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201503706-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a4335bae323d6017635699c44d383b557aa54a58",
     "title": "Salesforce stock buyback to saddle company with debt until 2066",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/salesforce_bonds_saas_share_buybacks/",
@@ -1041,30 +1108,6 @@
     "author": "O'Ryan Johnson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1e339aebabb65991bd7b2c31b0f5dd7fbe23453a",
-    "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
-    "link": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
-    "summary": "Discord user led cops to Grok-generated CSAM of real girls, lawsuit says.",
-    "isoDate": "2026-03-16T21:51:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "child safety",
-      "child sexual abuse materials",
-      "csam",
-      "Elon Musk",
-      "grok",
-      "Twitter",
-      "X",
-      "xAI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2255514345-500x500-1773695329.jpg",
     "pinned": false
   },
   {
@@ -1198,19 +1241,6 @@
     "pinned": false
   },
   {
-    "id": "ef6eefe546e64f82d0562134dbd899411b32e4fb",
-    "title": "AI finally delivers those elusive productivity gains... for cybercriminals",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/interpol_ai_fraud/",
-    "summary": "<h4>Interpol says fraud schemes using the tech are 4.5x more profitable</h4> <p>AI is apparently good for the bottom line if your business is crime. Financial fraud schemes carried out with the help of artificial intelligence are 4.5 times more profitable than those that aren't enhanced, according to Interpol's latest estimates.…</p>",
-    "isoDate": "2026-03-16T16:40:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "8f3da1d0029e06711f76d82cbf1884b62eb23fae",
     "title": "Tesla Update 2026.2 — The Undocumented Changes",
     "link": "https://www.notateslaapp.com/news/3805/tesla-update-20262-the-undocumented-changes",
@@ -1221,32 +1251,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/belgium-supercharger-site-maps.webp/04dcf92a8cba0057bdb22e021c5059ae/belgium-supercharger-site-maps.jpg",
-    "pinned": false
-  },
-  {
-    "id": "987f561c61c5212669fc4805768de6ef0754271b",
-    "title": "Digital fruit fly brain model walks and cleans its feelers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/digital_fruit_fly_brain_model/",
-    "summary": "<h4>Early demo hints at a future sci-fi writers warned us about</h4> <p>San Francisco startup Eon Systems claims that it has created the first digital simulation of a fruit fly brain that can control a virtual body and produce recognizable behaviors.…</p>",
-    "isoDate": "2026-03-16T14:35:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "cd348e455158343df99b3bb286c8d853fa9b4033",
-    "title": "Free Software Foundation calls for free-range LLMs rather than factory-farmed AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/free_software_foundation_urges_ai/",
-    "summary": "<h4>F is for Free, FSF, and fat chance</h4> <p><strong>Updated</strong>  The Free Software Foundation (FSF) has rattled a saber at Anthropic over the use of its materials in training the AI vendor's models, urging it to set its LLMs free.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-16T14:19:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
