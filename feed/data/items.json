@@ -1,5 +1,83 @@
 [
   {
+    "id": "3a2eb3440d9e14c1d150e361c7b617df4115228c",
+    "title": "Systemd 260 kills SysV, tells AI not to misbehave",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/systemd_260/",
+    "summary": "<h4>Good luck with that</h4> <p>The latest release of the most widely used Linux init system is here, and between dropping init script support and AI-assisted coding, we feel sure that this release will win it yet more admirers.…</p>",
+    "isoDate": "2026-03-18T15:15:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e1a3cd50a75d4f2269268bb3568dbdb636c9f154",
+    "title": "Microsoft Copilot boss Mustafa Suleyman to chase superintelligence",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/microsoft_suleyman_superintelligence/",
+    "summary": "<h4>Jacob Andreou takes reins in latest reshuffle</h4> <p>Microsoft has rearranged the deckchairs on the RMS Copilot, sending Mustafa Suleyman to seek out superintelligence, and putting Jacob Andreou in charge of Copilot across consumer and commercial.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-18T15:01:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "52f66ddb21fca48ceef5f2518bb0b6a1630af47a",
+    "title": "The Great Robotaxi Race: A Look at Tesla’s Competition",
+    "link": "https://www.notateslaapp.com/news/3775/the-great-robotaxi-race-a-look-at-teslas-competition",
+    "summary": "As Tesla prepares its Cybercab, the 2026 robotaxi market is already competitive. Here's a deep dive into Waymo, Zoox, Baidu, and other AV rivals.&hellip; <a href=\"https://www.notateslaapp.com/news/3775/the-great-robotaxi-race-a-look-at-teslas-competition\">Read More</a>",
+    "isoDate": "2026-03-18T15:01:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/autonomous-cars.webp/247b49049d24a959dbdb8661bbbde147/autonomous-cars.jpg",
+    "pinned": false
+  },
+  {
+    "id": "aab814a86af5b62addc7b9fccc4731bf27e93f79",
+    "title": "Tesla Accuses Supplier of Stealing 4680 Battery Tech",
+    "link": "https://www.notateslaapp.com/news/3771/tesla-vp-speaks-out-against-former-supplier-following-battery-tech-injunction",
+    "summary": "Tesla VP Bonne Eggleston has fired back at former supplier Matthews International over a recent DBE technology injunction, warning the industry of nonsense.&hellip; <a href=\"https://www.notateslaapp.com/news/3771/tesla-vp-speaks-out-against-former-supplier-following-battery-tech-injunction\">Read More</a>",
+    "isoDate": "2026-03-18T14:38:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2022/4680-cells.jpg/8687275a48f8fc6d12d18e59882d0310/4680-cells.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c1c7480174a149cee510451a6277c7b54d8b6ed9",
+    "title": "Tesla Updates Robotaxi App to 26.2: Android App, Setting Destination Improvements",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/robotaxi/version/26.2.0/release-notes",
+    "summary": "Tesla Robotaxi app update 26.2.0 includes Android App, Address Improvements. <a href=\"https://www.notateslaapp.com/tesla-app-updates/robotaxi/version/26.2.0/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-03-18T14:33:08Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-android.webp/6a3b4a96391b9d9bc091cc4512ec43c5/robotaxi-android.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1c3fafb412da553d0fa01c95d83f88ee954dde91",
+    "title": "North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/researchers_lift_the_lid_on/",
+    "summary": "<h4>Researchers map full org chart of the scam from dodgy recruiters to helpful Western collaborators</h4> <p>Researchers at IBM X‑Force and Flare Research have uncovered data that sheds light on how North Korea's fake IT worker schemes operate and infiltrate companies in order to funnel money back to the regime and steal sensitive information.…</p>",
+    "isoDate": "2026-03-18T13:57:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "15a8686705ad76dcc8e094add0379b56eba20ea8",
     "title": "AI for software developers is in a 'dangerous state'",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/ai_for_software_developers_qcon/",
@@ -53,7 +131,7 @@
   },
   {
     "id": "033c965c4a4454370d42604dd7a91e73aa79b509",
-    "title": "Tesla Update 2026.8 Lets You See Who's Driving in the App",
+    "title": "Tesla Update 2026.8 Lets You See Who's Driving in the Tesla App",
     "link": "https://www.notateslaapp.com/news/3814/tesla-update-20268-lets-you-see-whos-driving-in-the-app",
     "summary": "For the first time, Tesla is allowing owners to see exactly which driver profile is currently active in their vehicle directly from the Tesla app&hellip; <a href=\"https://www.notateslaapp.com/news/3814/tesla-update-20268-lets-you-see-whos-driving-in-the-app\">Read More</a>",
     "isoDate": "2026-03-18T12:00:00Z",
@@ -193,7 +271,7 @@
     "id": "d96c0885818a80184192d520745de308fc0dae6c",
     "title": "Water company wasted $200k on bad answers from an AI model – so built its own slop filtering system",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/rozum_ai/",
-    "summary": "<h4>'Rozum' orchestrates multiple flaky models and drives them to reasonable conclusions</h4> <p>Tech companies have in recent years developed a reputation for being rapacious rent-seekers, but can also be unwittingly generous because their penchant to prioritize popularity over quality leaves room for others to sell improvements or repairs.…</p>",
+    "summary": "<h4>Rozum orchestrates multiple flaky models and drives them to reasonable conclusions</h4> <p>Tech companies have in recent years developed a reputation for being rapacious rent-seekers, but can also be unwittingly generous because their penchant to prioritize popularity over quality leaves room for others to sell improvements or repairs.…</p>",
     "isoDate": "2026-03-18T06:31:05Z",
     "source": "The Register",
     "category": "Tech",
@@ -1171,45 +1249,6 @@
     "pinned": false
   },
   {
-    "id": "5e3654e1abc63bac6f39424a5fb387e1388d75d0",
-    "title": "Flaw in UK's corporate registry let directors rummage through rival records",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/companies_house_breach/",
-    "summary": "<h4>Back button blunder in WebFiling service run by Companies House revealed confidential paperwork</h4> <p>Companies House was forced to pull down its record-filing platform for the entire weekend to rectify a \"security issue\" that exposed the personal details of company directors and other data to any logged in users.…</p>",
-    "isoDate": "2026-03-16T12:18:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "884d965b836aa87023495f0868d0d14d697fc13c",
-    "title": "Microsoft points at Samsung after Galaxy app bug locks users out of C:\\",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/samsung_c_drive_windows/",
-    "summary": "<h4>'Access denied' errors hit certain Windows 11 machines running vendor utility</h4> <p>Microsoft has blamed Samsung for some devices suffering C:\\ drive access problems coincidentally close to March's Patch Tuesday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-16T11:37:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e554b95f747a9651791b147084872cbd3fe27d6f",
-    "title": "UK splashes £45M on AI supercomputer to help crack fusion power",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/uk_splurges_45m_on_ai/",
-    "summary": "<h4>'Sunrise' beast will run AI-heavy simulations of plasma behavior and reactor physics</h4> <p>The UK government is splashing out £45 million (c $60 million) on a new AI-driven supercomputer designed to help scientists model the chaotic physics of nuclear fusion, with the system expected to come online this summer at the UK Atomic Energy Authority's (UKAEA) Culham campus.…</p>",
-    "isoDate": "2026-03-16T11:05:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "da627f7c611f68af85ae344e2c605280276366e6",
     "title": "Henri Bergson: Creative Evolution",
     "link": "https://aeon.co/videos/henri-bergson-on-why-our-world-is-built-of-objects-and-space?utm_source=rss-feed",
@@ -1525,19 +1564,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/digital-optimus-visualization.webp/e45b2053f28094bc9689ba402121b2e6/digital-optimus-visualization.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9b139ce925a5028782254269f3d92202ca88ef3d",
-    "title": "NHTSA Announces It Will Reduce Regulations for Autonomous Vehicles",
-    "link": "https://www.notateslaapp.com/news/3767/nhtsa-announces-it-will-reduce-regulations-for-autonomous-vehicles",
-    "summary": "Tesla showcased its Cybercab at the NHTSA's first Autonomous Safety Forum, where Transportation Secretary Sean Duffy pledged to rethink FMVSS requirements.&hellip; <a href=\"https://www.notateslaapp.com/news/3767/nhtsa-announces-it-will-reduce-regulations-for-autonomous-vehicles\">Read More</a>",
-    "isoDate": "2026-03-11T14:30:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-dot-showcase-8.webp/b241a16c001e23824b88aee4ffd7428b/robotaxi-dot-showcase-8.jpg",
     "pinned": false
   }
 ]
