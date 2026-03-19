@@ -1,5 +1,82 @@
 [
   {
+    "id": "494550b3246b099b6a029375928d8f724c7534d4",
+    "title": "Lock down Microsoft Intune, feds warn after Stryker attack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/microsoft_intune_lockdown_stryker/",
+    "summary": "<h4>Iran-linked attackers wiped employees' devices using Intune</h4> <p>The US government has urged companies to better secure Microsoft Intune, an endpoint management tool that was abused in last week's cyberattack against med-tech firm Stryker.…</p>",
+    "isoDate": "2026-03-19T16:00:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8c3a4f32787ec7780136fcc4ca09da5f14e8dfdd",
+    "title": "After 25 years, Valve reworks Counter-Strike's reload system",
+    "link": "https://arstechnica.com/gaming/2026/03/after-25-years-valve-reworks-counter-strikes-reload-system/",
+    "summary": "Full-magazine reloads throw out muscle memory in favor of \"higher stakes\" decisions.",
+    "isoDate": "2026-03-19T15:59:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "Counter-Strike",
+      "CS2",
+      "realism",
+      "reloading",
+      "Valve",
+      "Weapons"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cs2reload-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "80e6e251fbeaaf4702c6cc8662849e8aea5a948d",
+    "title": "Study pinpoints when bow and arrow came to North America",
+    "link": "https://arstechnica.com/science/2026/03/study-pinpoints-when-bow-and-arrow-came-to-north-america/",
+    "summary": "Radiocarbon results suggest a single origin and rapid diffusion through cultural transition networks.",
+    "isoDate": "2026-03-19T15:45:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "Archaeology",
+      "experimental archaeology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/bowandarrow-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "29bf19ee1a6754a797ac128266cb22dff0446b17",
+    "title": "Digital Optimus Will Run on Your AI4 Tesla",
+    "link": "https://www.notateslaapp.com/news/3788/digital-optimus-will-run-on-your-ai4-tesla",
+    "summary": "Elon Musk has revealed that Tesla's Digital Optimus will utilize parked AI4 vehicles and millions of compute units at Superchargers to process AI tasks.&hellip; <a href=\"https://www.notateslaapp.com/news/3788/digital-optimus-will-run-on-your-ai4-tesla\">Read More</a>",
+    "isoDate": "2026-03-19T15:22:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/digital-optimus-visualization.webp/e45b2053f28094bc9689ba402121b2e6/digital-optimus-visualization.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2a01bdc7c0b69171b5c307fd4adfa9e54f646804",
+    "title": "PwC will say goodbye to staff who aren't convinced about AI",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/pwc_ai/",
+    "summary": "<h4>Professional services giant did not read its own report on lackluster benefits</h4> <p>You'll use AI and like it too - if you work for PwC. Paul Griggs, US chief executive of the global professional services giant, has made clear there is no room at the corporation for AI skeptics.…</p>",
+    "isoDate": "2026-03-19T14:59:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6e1225afc157e79348ec948e77abe8a23447dec4",
     "title": "Musk Confirms Tesla FSD V14.3 Is in Testing, Wide Release Soon",
     "link": "https://www.notateslaapp.com/news/3818/musk-confirms-tesla-fsd-v143-is-in-testing-wide-release-soon",
@@ -1123,46 +1200,6 @@
     "pinned": false
   },
   {
-    "id": "41cba69b4d69b480f24a6a52f3770c849ea7b8e6",
-    "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
-    "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
-    "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
-    "isoDate": "2026-03-17T17:07:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "ip kvms",
-      "networks",
-      "security",
-      "vulnerabilities"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3f67e9c288be0907575aa1ae496c0cae40bf6db0",
-    "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
-    "link": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
-    "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way.",
-    "isoDate": "2026-03-17T16:29:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Gaming",
-      "dlss",
-      "frame generation",
-      "NVIDIA",
-      "rtx"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/dlss5-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "b3a844fa9ae6611134f4ab0af087201a1bac575c",
     "title": "HPE adds Blackwell, Rubin systems to Nvidia-backed sovereign AI push",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/hpe_adds_blackwell_rubin_systems/",
@@ -1225,32 +1262,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_48.webp/3c1b80bde2d8d06c73f00c0714fdb99b/group_48.jpg",
-    "pinned": false
-  },
-  {
-    "id": "71bf3bbacfdd38e3efa13d6e09d5dc1c66e9269f",
-    "title": "Out-of-band getting out of hand as Microsoft pushes hotpatch for Bluetooth",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/microsoft_bluetooth_hotpatch/",
-    "summary": "<h4>Second emergency fix in days targets Windows 11 24H2 and 25H2</h4> <p>Microsoft has pushed out yet another out-of-band hotpatch, this time to fix Bluetooth issues in Windows 11 25H2 and 24H2.…</p>",
-    "isoDate": "2026-03-17T12:27:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7cb627c9e2358dcc71fd393d5939ac74768c12df",
-    "title": "Iran's 'chosen users' get 'privileged access' despite internet blackout for masses",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/iran_internet_blackout/",
-    "summary": "<h4>Civilians relying on Dutch shortwave radio broadcast for outside information</h4> <p>Iran's internet blackout is entering day 18, according to monitoring outfit NetBlocks, which says the vast majority of the country has been offline for more than 400 consecutive hours.…</p>",
-    "isoDate": "2026-03-17T12:19:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
