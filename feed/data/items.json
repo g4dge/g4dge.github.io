@@ -1,5 +1,36 @@
 [
   {
+    "id": "00c35e47131bd83371bf5798c3ed542836c908de",
+    "title": "WSL graphics driver update brings better GPU support for Linux apps",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/linux_directx_and_opengl/",
+    "summary": "<h4>Meanwhile, WINE and OpenGL tweaks speed Windows apps on 64-bit hosts</h4> <p>Whatever OS you run, you have a better chance to run non-native apps. Running Linux virtualized on Windows is set to speed up slightly, and so is running Windows apps on top of 64-bit Linux and macOS.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-20T16:40:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fdc9b7832d70486cfcd4999ba9a0eefbde4aaf95",
+    "title": "Amazon is reportedly developing an AI-centric smartphone",
+    "link": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
+    "summary": "Amazon's second smartphone could forego an app store.",
+    "isoDate": "2026-03-20T16:38:06Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "Amazon",
+      "amazon alexa",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2014/07/IMG_9890-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "e8d0c40e484c97d153609be9c67e929a83cbf5ae",
     "title": "Tesla FSD Set for Landmark European Approval in Netherlands Next Month",
     "link": "https://www.notateslaapp.com/news/3826/tesla-fsd-set-for-landmark-european-approval-in-netherlands-next-month",
@@ -836,24 +867,6 @@
     "pinned": false
   },
   {
-    "id": "86e145cf5d79438c027a4a2bfc421ea5e9cff3e6",
-    "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
-    "link": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
-    "summary": "\"This is a serious warning shot.\"",
-    "isoDate": "2026-03-19T11:00:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "Samsung",
-      "tcl",
-      "TVs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-909570482-500x500-1773867861.jpg",
-    "pinned": false
-  },
-  {
     "id": "7fbd3eee4bd7e5605d8b952ea59e68c28d3c7578",
     "title": "Microsoft startup credits are the gift that keeps on billing unsuspecting users",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/microsoft_startup_credits/",
@@ -1205,32 +1218,6 @@
     "pinned": false
   },
   {
-    "id": "1c3fafb412da553d0fa01c95d83f88ee954dde91",
-    "title": "North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/researchers_lift_the_lid_on/",
-    "summary": "<h4>Researchers map full org chart of the scam from dodgy recruiters to helpful Western collaborators</h4> <p>Researchers at IBM X‑Force and Flare Research have uncovered data that sheds light on how North Korea's fake IT worker schemes operate and infiltrate companies in order to funnel money back to the regime and steal sensitive information.…</p>",
-    "isoDate": "2026-03-18T13:57:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "15a8686705ad76dcc8e094add0379b56eba20ea8",
-    "title": "AI for software developers is in a 'dangerous state'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/ai_for_software_developers_qcon/",
-    "summary": "<h4>Strong forces tempting humans out of the AI loop, and reducing the experience needed to supervise and review</h4> <p><strong>QCon London</strong>  AI is in a dangerous state where it is too useful not to use, but where by using it, developers are giving up the experience they need to review what it does, said a speaker at QCon London, a vendor-neutral developer conference underway this week.…</p>",
-    "isoDate": "2026-03-18T12:53:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "033c965c4a4454370d42604dd7a91e73aa79b509",
     "title": "Tesla Update 2026.8 Lets You See Who's Driving in the Tesla App",
     "link": "https://www.notateslaapp.com/news/3814/tesla-update-20268-lets-you-see-whos-driving-in-the-app",
@@ -1520,19 +1507,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-zen-grey-2.webp/c4b777b0ceed9899d00eca6b499273ab/model-y-l-zen-grey-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "638b83ad12136e0f8b9e4e0bfc1959bedd116a0e",
-    "title": "Musk Cites Quiet Period for SpaceX, Predicts Moon Bases and Mini Mammoths",
-    "link": "https://www.notateslaapp.com/news/3781/musk-cites-quiet-period-for-spacex-predicts-moon-bases-and-mini-mammoths",
-    "summary": "Elon Musk confirmed SpaceX is in a quiet period regarding its xAI merger, while predicting moon bases and mass drivers within the next ten years.&hellip; <a href=\"https://www.notateslaapp.com/news/3781/musk-cites-quiet-period-for-spacex-predicts-moon-bases-and-mini-mammoths\">Read More</a>",
-    "isoDate": "2026-03-13T16:33:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-11.webp/5f9f99cb90ada17a8fa66140253d442f/spacex-11.jpg",
     "pinned": false
   }
 ]
