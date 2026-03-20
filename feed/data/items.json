@@ -1,5 +1,74 @@
 [
   {
+    "id": "247bb783c5773e3a70e2ce6fa0be19cb8059cac6",
+    "title": "Feds disrupt monster IoT botnets behind record-breaking DDoS attacks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/botnet_disruption/",
+    "summary": "<h4>Millions of hijacked devices powered traffic floods targeting defense systems and beyond</h4> <p>The US government has moved to disrupt a cluster of IoT botnets behind some of the largest DDoS attacks ever recorded, including traffic bursts topping 30 terabits per second.…</p>",
+    "isoDate": "2026-03-20T13:07:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ac3ab9adff21757ff5c6d5aa742f1749b033cca4",
+    "title": "Jaguar Land Rover's cyber bailout sets worrying precedent, watchdog warns",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/jlr_bailout_cmc/",
+    "summary": "<h4>Lack of clear criteria risks encouraging firms to lean on state support instead of worrying about insurance</h4> <p>The UK's cyber watchdog has warned that the government's £1.5 billion bailout of Jaguar Land Rover (JLR) risks setting a troubling precedent for how Britain handles major cyber crises.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-20T12:42:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ac67fdd5c4a896644124fb261a01ee302b57ce9f",
+    "title": "Dodge, Jeep, Fiat and Others Gain Access to Tesla’s Supercharger Network",
+    "link": "https://www.notateslaapp.com/news/3825/dodge-jeep-fiat-and-others-gain-access-to-teslas-supercharger-network",
+    "summary": "Owners of Dodge, Jeep, Ram, FIAT, and Maserati EVs can now officially access Tesla's Supercharger network. Here is the full list of supported automakers.&hellip; <a href=\"https://www.notateslaapp.com/news/3825/dodge-jeep-fiat-and-others-gain-access-to-teslas-supercharger-network\">Read More</a>",
+    "isoDate": "2026-03-20T12:20:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/superchargers-multiple.jpeg/ba5d2f3bd95e5028b3aa51caed4277bc/superchargers-multiple.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d3af955d9ac9d06da40bb3c38ac08d81210be13c",
+    "title": "Supermicro co-founder arrested, charged over $2.5B Nvidia GPU sales to China",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/supermicro_nvidia_gpu_charges/",
+    "summary": "<h4>Indictment claims dummy servers and bogus docs used to slip past US export controls</h4> <p>A co-founder of Supermicro is among three people charged with diverting servers fitted with Nvidia GPUs worth $2.5 billion to Chinese customers in violation of US export controls.…</p>",
+    "isoDate": "2026-03-20T11:57:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "25c498218c724d8d4d7c386df5c71c813d311fb7",
+    "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
+    "link": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
+    "summary": "\"Our security, our prosperity, and our sovereignty will increasingly extend beyond our atmosphere.\"",
+    "isoDate": "2026-03-20T11:45:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "rocket report",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/spectrum-rocket-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "7d1a56bdf45eb4c2f756505e391633f4534b551d",
     "title": "Project Hail Mary is in theaters—but do the linguistics work?",
     "link": "https://arstechnica.com/culture/2026/03/project-hail-mary-is-in-theaters-but-do-the-linguistics-work/",
@@ -920,25 +989,6 @@
     "pinned": false
   },
   {
-    "id": "f61b9435279dca66bb7b7e62762042f7d7688cef",
-    "title": "A private space company has a radical new plan to bag an asteroid",
-    "link": "https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/",
-    "summary": "Company has previously tested its technology on the International Space Station.",
-    "isoDate": "2026-03-18T19:00:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "asteroid",
-      "Capture",
-      "space",
-      "transastra"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "7d71831a788b7ce7e352628c76d102e135be6ed8",
     "title": "Storage vendors orbit the Nvidia sun at GTC",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/gtc_storage_hitatchi_ibm_seagate/",
@@ -1160,19 +1210,6 @@
     "pinned": false
   },
   {
-    "id": "af92b404d2f631adc9b4bc8d509b470c9e97c551",
-    "title": "IBM CEO pay pack jumps 51% for 2025 in target smash and grab",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/ibm_ceo_pay_pack_jumps/",
-    "summary": "<h4>Median employee increase? 2.1%. And shareholders urged to vote against a request for AI bias reporting</h4> <p>Not all employees are created equally, just ask IBM boss Arvind Krishna, who received a financial package valued at $38 million in calendar 2025 - equivalent to the average collective pay of 765 Big Blue workers.…</p>",
-    "isoDate": "2026-03-18T12:26:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Paul Kunert",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "033c965c4a4454370d42604dd7a91e73aa79b509",
     "title": "Tesla Update 2026.8 Lets You See Who's Driving in the Tesla App",
     "link": "https://www.notateslaapp.com/news/3814/tesla-update-20268-lets-you-see-whos-driving-in-the-app",
@@ -1183,32 +1220,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-driver-profile.webp/61c5e66dc54de560e19ce856a602bbef/tesla-app-driver-profile.jpg",
-    "pinned": false
-  },
-  {
-    "id": "82c32b9501430ac2b1af59068f6407aa69337979",
-    "title": "Samsung folds the Galaxy Z TriFold after just a few months",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/samsung_trifold_axed/",
-    "summary": "<h4>Analysts say three-screen smartphone successful as a proof of concept, memory crunch potentially made it unsustainable</h4> <p>Samsung is killing the Galaxy Z TriFold smartphone after just three months on the market.…</p>",
-    "isoDate": "2026-03-18T11:02:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "47ae2baf8549d9327d74d0118099eb5be1410063",
-    "title": "It's not a binary choice. Independent boffin builds a ternary CPU on an FPGA",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/ternary_cpu_on_fpga/",
-    "summary": "<h4>Three is the magic number as first off-the-shelf general-purpose ternary hardware since c 1965 lands</h4> <p>The 5500FP is a ternary CPU implemented on an FPGA. It's not very fast, but it makes it easier to experiment with computers that don't use binary.…</p>",
-    "isoDate": "2026-03-18T10:33:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
