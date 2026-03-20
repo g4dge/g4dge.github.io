@@ -1,5 +1,98 @@
 [
   {
+    "id": "3c51e13793c4b8eee2da951732c1ce0112b542a7",
+    "title": "SpaceX swipes yet another military contract from United Launch Alliance",
+    "link": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
+    "summary": "ULA's Vulcan launch vehicle is grounded after a solid rocket booster anomaly last month.",
+    "isoDate": "2026-03-20T21:35:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "GPS",
+      "launch",
+      "military space",
+      "spacex",
+      "united launch alliance",
+      "US Space Force"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GoeN_-iX0AA5uaR-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "96713271565351c31b20a053d807d19092e093e3",
+    "title": "Microsoft keeps insisting that it's deeply committed to the quality of Windows 11",
+    "link": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
+    "summary": "\"Reducing unnecessary Copilot entry points\" is one of Microsoft's action items.",
+    "isoDate": "2026-03-20T21:26:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "microsoft",
+      "Windows",
+      "windows 11",
+      "windows 11 25h2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-laptop-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "8b39c043e0ab39825d469bca03ed2f6835e18c23",
+    "title": "Cryptographers engage in war of words over RustSec bug reports and subsequent ban",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/",
+    "summary": "<h4>Rust security maintainers contend Nadim Kobeissi's vulnerability claims are too much</h4> <p>Since February, cryptographer Nadim Kobeissi has been trying to get code fixes applied to Rust cryptography libraries to address what he says are critical bugs. For his efforts, he's been dismissed, ignored, and banned from Rust security channels.…</p>",
+    "isoDate": "2026-03-20T21:07:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "67d00b3d117f50b08c2e4db962361775981ebd95",
+    "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
+    "link": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+    "summary": "One of the first controversies of its kind.",
+    "isoDate": "2026-03-20T21:03:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nate Anderson",
+    "tags": [
+      "AI",
+      "Culture",
+      "horror",
+      "publishing",
+      "shy girl"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2248542236-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "66c8e52a981b4c065830ea1dcc23e7a45bf2f873",
+    "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+    "link": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+    "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+    "isoDate": "2026-03-20T20:50:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "GitHub",
+      "info stealers",
+      "supply chain attacks",
+      "trivy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "a98285789e59e6da6793aeccc82300cee3d13738",
     "title": "NASA issues draft request for moving space shuttle Discovery—or Orion capsule",
     "link": "https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/",
@@ -665,47 +758,6 @@
     "pinned": false
   },
   {
-    "id": "d0f2f849a3883235f3b52928afd4284e6767715d",
-    "title": "FBI started buying Americans' location data again, Kash Patel confirms",
-    "link": "https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/",
-    "summary": "Tom Cotton supports FBI data purchasing, compares it to searching people's trash.",
-    "isoDate": "2026-03-19T19:57:35Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "fbi",
-      "FISA",
-      "kash patel",
-      "location data"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/kash-patel-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "34068f2ba3903946e024d68fd3bcc30d60e5cce7",
-    "title": "Dogfighting in space won't look like the movies, but this company wants in on it",
-    "link": "https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/",
-    "summary": "\"Where we are today in space warfare is very similar to where air superiority was in the 1930s.\"",
-    "isoDate": "2026-03-19T19:45:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "Commercial space",
-      "golden dome",
-      "military space",
-      "space force",
-      "space weapons",
-      "true anomaly"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/trueanomaly1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c642d755b363278bb9f122fca5697d6dfcb543f6",
     "title": "Unknown attackers exploit yet another critical SharePoint bug",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/unknown_attackers_exploit_yet_another/",
@@ -742,24 +794,6 @@
     "author": "Paul Kunert",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d86a4354f8627e1ec8fc1dc06751d427501134f4",
-    "title": "Meta decides not to kill Horizon Worlds VR after all",
-    "link": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
-    "summary": "VR will be on life support while mobile remains the focus, though.",
-    "isoDate": "2026-03-19T17:50:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Tech",
-      "Horizon Worlds",
-      "meta",
-      "VR"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/andrew-bosworth-instagram-500x500-1773941293.jpg",
     "pinned": false
   },
   {
@@ -1187,19 +1221,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d9918c58eb4240c8955f93614f6ebd977b5ed5ae",
-    "title": "Meatbags vs machines: DeepMind plans hackathon to draw line between human and AI brains",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/google_deepmind_agi_hackathon/",
-    "summary": "<h4>What exactly is AGI? Nobody knows, but Google's AI lab is asking for help trying to define it</h4> <p>If a bot actually achieved artificial general intelligence (AGI), how would we even know? Google DeepMind boffins have come up with what they say is an empirical, scientifically grounded framework to measure progress toward AGI, and they're looking for a few good devs to actually flesh it out. …</p>",
-    "isoDate": "2026-03-18T16:51:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
