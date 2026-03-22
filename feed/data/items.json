@@ -1,5 +1,36 @@
 [
   {
+    "id": "3923f50ecaad873f5340aea2d0dfac341cba87d6",
+    "title": "CERN eggheads burn AI into silicon to stem data deluge",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/",
+    "summary": "<h4>The operating system of the universe isn’t going to debug itself</h4> <p><strong>feature</strong>  CERN is nothing like today's agentic AI jockeys, who mostly rely on pre-set weights and generic TPUs and GPUs to generate their slop. CERN burns custom nanosecond-speed AI into the silicon itself just to eliminate excess data.…</p>",
+    "isoDate": "2026-03-22T11:11:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joab Jackson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "37f11ad0e75d4d8677b755005ef8e801d48af0df",
+    "title": "Mining the deep ocean",
+    "link": "https://arstechnica.com/science/2026/03/mining-the-deep-ocean/",
+    "summary": "Policymakers debate if we even need deep ocean mining and if we can do it safely.",
+    "isoDate": "2026-03-22T11:00:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Natasha Gilbert",
+    "tags": [
+      "Policy",
+      "Science",
+      "mining",
+      "sea floor mining"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2174489591-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "06fc28761774ce6654cc974d3e9838bc6412c613",
     "title": "Tesla App Update 4.55.0 Introduces New Service UI",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.55.0/release-notes",
@@ -623,23 +654,6 @@
     "pinned": false
   },
   {
-    "id": "25c498218c724d8d4d7c386df5c71c813d311fb7",
-    "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
-    "link": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
-    "summary": "\"Our security, our prosperity, and our sovereignty will increasingly extend beyond our atmosphere.\"",
-    "isoDate": "2026-03-20T11:45:25Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "rocket report",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/spectrum-rocket-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3e75974f8bba3aa1c411b7fdeaffabf62a49c2e1",
     "title": "The Skeptic Podcast – Episode 056",
     "link": "https://www.skeptic.org.uk/2026/03/the-skeptic-podcast-episode-056/",
@@ -1211,19 +1225,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a0980e8262e5f4f91047419c381fde543dbb57a0",
-    "title": "Ransomware crims abused Cisco 0-day weeks before disclosure, says Amazon security boss",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/amazon_cisco_firewall_0_day_ransomware/",
-    "summary": "<h4>Interlock's post-exploit toolkit exposed</h4> <p>Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-18T17:40:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
