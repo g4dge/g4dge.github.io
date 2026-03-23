@@ -1,5 +1,85 @@
 [
   {
+    "id": "cd6c81200c245879655be894e586b15b8508849a",
+    "title": "Long fingernails vs. touchscreens: This nail polish could help",
+    "link": "https://arstechnica.com/science/2026/03/long-fingernails-vs-touchscreens-this-nail-polish-could-help/",
+    "summary": "Undergraduate's prototype conductive nail polish could turn long fingernails into touchscreen styluses.",
+    "isoDate": "2026-03-23T17:59:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "chemistry",
+      "cosmetics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/fingernail1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "64122e9160cb0a3edef0256b101e06c32c58837d",
+    "title": "AI agents are 'gullible' and easy to turn into your minions",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/pwning_everyones_ai_agents/",
+    "summary": "<h4>Zenity CTO demos 0-click AI agent exploits on stage at RSAC</h4> <p><strong>RSA 2026</strong>  There's a very simple reason why just about every enterprise AI agent is vulnerable to zero-click attacks, according to Michael Bargury, CTO of AI security company Zenity.…</p>",
+    "isoDate": "2026-03-23T17:50:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4807a3ff5f1f1a9aa06b83ad33493f6e5e30d65b",
+    "title": "Republicans in Congress add $250 annual federal EV tax to transport bill",
+    "link": "https://arstechnica.com/cars/2026/03/republicans-in-congress-add-250-annual-federal-ev-tax-to-transport-bill/",
+    "summary": "Five principles should determine how you fund transport, says Consumer Reports.",
+    "isoDate": "2026-03-23T17:29:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Consumer Reports",
+      "Transportation policy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-922106816-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4e09d7b91c0d8695c7a13c017fe2d29916c203b6",
+    "title": "SoftBank to build massive AI datacenter on former US nuclear weapons site",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/softbank_to_put_mega_server/",
+    "summary": "<h4>10GW server farm, 10GW of new generation, and $4.2bn grid upgrade. And someone else is paying for the uranium cleanup</h4> <p>Softbank's SB Energy is redeveloping Department of Energy (DoE) land in Ohio for a massive datacenter campus, adding extra generation facilities and power infrastructure alongside it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-23T17:29:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "01c54b383240d72a3d9528da0c299703fcafe0e7",
+    "title": "As teens await sentencing for nudifying girls, parents aim to sue school",
+    "link": "https://arstechnica.com/tech-policy/2026/03/as-teens-await-sentencing-for-nudifying-girls-parents-aim-to-sue-school/",
+    "summary": "Teens will be sentenced Wednesday after admitting to creating AI CSAM.",
+    "isoDate": "2026-03-23T17:19:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai csam",
+      "ai nudes",
+      "nudify apps",
+      "online child safety"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2208370345-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "2442eb6d3486e8280c3dc66f124225072da7dee2",
     "title": "Forget drones – the US Army just took delivery of a self-flying Black Hawk helicopter",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/black_hawk_self_flying_army/",
@@ -839,28 +919,6 @@
     "pinned": false
   },
   {
-    "id": "582646163d9c89d600c3a8159a4f688ad9710920",
-    "title": "NASA wants to know how the launch industry's chic new rocket fuel explodes",
-    "link": "https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/",
-    "summary": "\"We put fuel in a rocket, blow it up in a remote location, and measure how big the boom is.\"",
-    "isoDate": "2026-03-20T17:18:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "launch",
-      "methane",
-      "NASA",
-      "range safety",
-      "space force",
-      "spacex"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/eglin_ch4-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "00c35e47131bd83371bf5798c3ed542836c908de",
     "title": "WSL graphics driver update brings better GPU support for Linux apps",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/linux_directx_and_opengl/",
@@ -874,24 +932,6 @@
     "pinned": false
   },
   {
-    "id": "fdc9b7832d70486cfcd4999ba9a0eefbde4aaf95",
-    "title": "Amazon is reportedly developing an AI-centric smartphone",
-    "link": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/",
-    "summary": "Amazon's second smartphone could forego an app store.",
-    "isoDate": "2026-03-20T16:38:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "Amazon",
-      "amazon alexa",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2014/07/IMG_9890-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e8d0c40e484c97d153609be9c67e929a83cbf5ae",
     "title": "Tesla FSD Set for Landmark European Approval in Netherlands Next Month",
     "link": "https://www.notateslaapp.com/news/3826/tesla-fsd-set-for-landmark-european-approval-in-netherlands-next-month",
@@ -902,25 +942,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "abc7f06dac7b5f929383623cac37b181a8da20f6",
-    "title": "Major SteamOS update adds support for Steam Machine, even more third-party hardware",
-    "link": "https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/",
-    "summary": "Both AMD- and Intel-based hardware is getting better support in SteamOS 3.8.",
-    "isoDate": "2026-03-20T15:36:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Gaming",
-      "Tech",
-      "steam deck",
-      "steam machine",
-      "steamos"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_ledStrip-500x500-1774019685.jpg",
     "pinned": false
   },
   {
@@ -1235,32 +1256,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a9bd00c47ccee312fa1890432207771c11cf586f",
-    "title": "FBI director leaves open the possibility that it's buying location data again",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/fbi_patel_location_data/",
-    "summary": "<h4>Kash Patel says the FBI uses all the tools it has to accomplish its mission - even if those tools are questionable</h4> <p>It's been three years since an FBI director admitted to purchasing the location data of Americans, potentially in violation of the Constitution. Here we go again.…</p>",
-    "isoDate": "2026-03-19T16:43:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "494550b3246b099b6a029375928d8f724c7534d4",
-    "title": "Lock down Microsoft Intune, feds warn after Stryker attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/microsoft_intune_lockdown_stryker/",
-    "summary": "<h4>Iran-linked attackers wiped employees' devices using Intune</h4> <p>The US government has urged companies to better secure Microsoft Intune, an endpoint management tool that was abused in last week's cyberattack against med-tech firm Stryker.…</p>",
-    "isoDate": "2026-03-19T16:00:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
