@@ -1,9 +1,43 @@
 [
   {
+    "id": "5f6903ba13373aac65198f41547edb70cf9a1d0b",
+    "title": "Claude attacks were 'Rorschach test' for infosec community, scaring former NSA boss",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/claude_attacks_rorschach_rsac_rob_joyce/",
+    "summary": "<h4>'It freakin' worked' says Rob Joyce - and shows how relentless AI agents can find holes humans miss</h4> <p><strong>RSAC 2026</strong>  The now-infamous <a href=\"https://www.theregister.com/2025/11/13/chinese_spies_claude_attacks/\" target=\"_blank\">Anthropic report about Chinese cyberspies</a> abusing Claude AI to automate cyberattacks was a Rorschach test for the infosec community, according to former NSA cyber boss Rob Joyce.…</p>",
+    "isoDate": "2026-03-23T22:50:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ee553b44d79da62acaceaefb9ae2180e0a49bf22",
+    "title": "A mission NASA might kill is still returning fascinating science from Jupiter",
+    "link": "https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/",
+    "summary": "\"We can’t quite afford to support everything that we have done in the past.\"",
+    "isoDate": "2026-03-23T22:49:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "juno",
+      "Jupiter",
+      "NASA",
+      "planetary science",
+      "solar system"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/jupiter_juno_pj39-enhanced-crop-500x437.jpg",
+    "pinned": false
+  },
+  {
     "id": "ec2f86ba7ecd12e121e45ccf2e65704361dd3d24",
     "title": "Public-private partnerships vital in disrupting China's Typhoons, says RSA panel with no government speakers",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_panel_china_threat_collaboration_call/",
-    "summary": "<h4>Washington content to be represented by actual empty chairs</h4> <p><strong>RSA 2026</strong>  Back in the day (circa 2023) when cybercrime group Scattered Spider and its help-desk voice-phishing calls were a relatively new threat, the feds considered pulling the government's top cyber-threat hunters and their private-sector counterparts into one room to share information, in real time, about this loosely knit extortion ring that was terrorizing enterprises.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>Washington content to be represented by actual empty chairs</h4> <p><strong>RSAC 2026</strong>  Back in the day (circa 2023) when cybercrime group Scattered Spider and its help-desk voice-phishing calls were a relatively new threat, the feds considered pulling the government's top cyber-threat hunters and their private-sector counterparts into one room to share information, in real time, about this loosely knit extortion ring that was terrorizing enterprises.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-03-23T21:56:05Z",
     "source": "The Register",
     "category": "Tech",
@@ -341,7 +375,7 @@
     "id": "cbc71248b4b097a6c53c93a86c83ee7befef6408",
     "title": "Smooth criminals talking their way into cloud environments, Google says",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/voice_phishing_skyrockets_as_smooth/",
-    "summary": "<h4>Voice phishing is second most common initial access method across all IR probes, and top in cloud break-ins</h4> <p>Voice phishing surged last year to become the second most common method used by cybercriminals to gain initial access to their victims' IT estate – and the No. 1 tactic used when breaking into cloud environments.…</p>",
+    "summary": "<h4>Voice phishing is second most common initial access method across all IR probes, and top in cloud break-ins</h4> <p><strong>RSAC 2026</strong>  Voice phishing surged last year to become the second most common method used by cybercriminals to gain initial access to their victims' IT estate – and the No. 1 tactic used when breaking into cloud environments.…</p>",
     "isoDate": "2026-03-23T15:00:10Z",
     "source": "The Register",
     "category": "Tech",
@@ -887,28 +921,6 @@
     "pinned": false
   },
   {
-    "id": "3c51e13793c4b8eee2da951732c1ce0112b542a7",
-    "title": "Once again, ULA can't deliver when the US military needs a satellite in orbit",
-    "link": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
-    "summary": "ULA's Vulcan launch vehicle is grounded after a solid rocket booster anomaly last month.",
-    "isoDate": "2026-03-20T21:35:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "GPS",
-      "launch",
-      "military space",
-      "spacex",
-      "united launch alliance",
-      "US Space Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GoeN_-iX0AA5uaR-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8b39c043e0ab39825d469bca03ed2f6835e18c23",
     "title": "Cryptographers engage in war of words over RustSec bug reports and subsequent ban",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/",
@@ -1248,19 +1260,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-x/model-x_82-fsd.jpg/086d50867bcbb31069b3fdcdd185632e/model-x_82-fsd.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c642d755b363278bb9f122fca5697d6dfcb543f6",
-    "title": "Unknown attackers exploit yet another critical SharePoint bug",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/unknown_attackers_exploit_yet_another/",
-    "summary": "<h4>Last time: Beijing-backed snoops and ransomware crims. Who's next?</h4> <p>Unknown baddies are abusing yet another critical Microsoft SharePoint bug to compromise victims' SharePoint servers, the US government warned.…</p>",
-    "isoDate": "2026-03-19T18:54:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
