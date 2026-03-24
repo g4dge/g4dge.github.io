@@ -1,5 +1,61 @@
 [
   {
+    "id": "769719c2ae7f86b455794d171725a47528564a7b",
+    "title": "1K+ cloud environments infected following Trivy supply chain attack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/1k_cloud_environments_infected_following/",
+    "summary": "<h4>Crims 'creating a snowball effect' across open source projects</h4> <p><strong>RSAC 2026</strong>  Thousands of organizations' cloud environments have been infected with secret-stealing malware as a result of the Trivy supply-chain attack last week, and now the crims that compromised the open source scanners are working with notorious extortion crews like Lapsus$.…</p>",
+    "isoDate": "2026-03-24T20:31:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5e1a2db954831953376e02bc19d8773c61a56888",
+    "title": "Tesla Sets Model S/X Order Deadline in South Korea As End of Production Nears",
+    "link": "https://www.notateslaapp.com/news/3849/tesla-sets-model-sx-order-deadline-in-south-korea-as-end-of-production-nears",
+    "summary": "Tesla has set a hard deadline for new orders of the Model S and Model X in South Korea, signaling the beginning of the end for the company's flagship duo&hellip; <a href=\"https://www.notateslaapp.com/news/3849/tesla-sets-model-sx-order-deadline-in-south-korea-as-end-of-production-nears\">Read More</a>",
+    "isoDate": "2026-03-24T20:31:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-s-x-order-deadline-south-korea.webp/ed2f4f1c9981fb045a8b1befa9d55d96/model-s-x-order-deadline-south-korea.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e7522a55a848b207f3b72577194c149792a6fc34",
+    "title": "Chemists concoct nail polish that lets clawed humans use touch screens",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/chemists_concoct_nail_polish_thatll/",
+    "summary": "<h4>They still look goofy, but at least you might be able to use 'em like a stylus</h4> <p>An undergraduate chemistry researcher has developed a nail polish formulation that will let people use their nails to tap away on touch screens.…</p>",
+    "isoDate": "2026-03-24T20:02:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ebfec3a83c2ea568184fbf021f8806ad2eb99b45",
+    "title": "FCC imposes sweeping ban on foreign-made routers, affecting all new models",
+    "link": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-prohibits-import-and-sale-of-new-wi-fi-routers-made-outside-us/",
+    "summary": "Trump admin to decide which router makers get exemptions from FCC import ban.",
+    "isoDate": "2026-03-24T19:16:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "FCC",
+      "routers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/getty-router-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "3937fc120dbb12014b980b75d484183f0cc5c081",
     "title": "LiteLLM loses game of Trivy pursuit, gets compromised",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/trivy_compromise_litellm/",
@@ -781,26 +837,6 @@
     "pinned": false
   },
   {
-    "id": "01c54b383240d72a3d9528da0c299703fcafe0e7",
-    "title": "As teens await sentencing for nudifying girls, parents aim to sue school",
-    "link": "https://arstechnica.com/tech-policy/2026/03/as-teens-await-sentencing-for-nudifying-girls-parents-aim-to-sue-school/",
-    "summary": "Teens will be sentenced Wednesday after admitting to creating AI CSAM.",
-    "isoDate": "2026-03-23T17:19:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ai csam",
-      "ai nudes",
-      "nudify apps",
-      "online child safety"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2208370345-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2442eb6d3486e8280c3dc66f124225072da7dee2",
     "title": "Forget drones – the US Army just took delivery of a self-flying Black Hawk helicopter",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/black_hawk_self_flying_army/",
@@ -1215,32 +1251,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "035598da76cfb1df9d89d45e5cfe1699c700a218",
-    "title": "Payment biz pulls plug on open source charity after KYC spat",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/21/fsfe_dropped_by_its_payments/",
-    "summary": "<h4>Free Software Foundation Europe says it was asked for supporters' passwords; Nexi insists it only wanted test credentials to check cancellation flows</h4> <p>The Free Software Foundation Europe says its electronic-payments provider Nexi Group unexpectedly \"cancelled\" its account – cutting the charity off from around 450 donors.…</p>",
-    "isoDate": "2026-03-21T09:30:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8b39c043e0ab39825d469bca03ed2f6835e18c23",
-    "title": "Cryptographers engage in war of words over RustSec bug reports and subsequent ban",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/",
-    "summary": "<h4>Rust security maintainers contend Nadim Kobeissi's vulnerability claims are too much</h4> <p><strong>Updated</strong>  Since February, cryptographer Nadim Kobeissi has been trying to get code fixes applied to Rust cryptography libraries to address what he says are critical bugs. For his efforts, he's been dismissed, ignored, and banned from Rust security channels.…</p>",
-    "isoDate": "2026-03-20T21:07:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
