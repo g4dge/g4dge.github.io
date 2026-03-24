@@ -1,5 +1,78 @@
 [
   {
+    "id": "5de68d80ef8e79645e2467c8f8cd9e79dc9913e8",
+    "title": "Arm rolls its own 136-core AGI CPU to chase AI hype train",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/arm_agi_cpu/",
+    "summary": "<h4>Turns out artificial general intelligence was a CPU this whole time</h4> <p>Arm unveiled its first homegrown silicon — yes, an actual chip, not another shake-n-bake blueprint — during an event in San Francisco on Tuesday, and said that flagship customer Meta is set to deploy the 136-core CPU at scale later this year.…</p>",
+    "isoDate": "2026-03-24T17:00:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6742cfefd7f4fddd79f6e97aefa7778742d007ee",
+    "title": "Goodbye, Lunar Gateway: NASA ditches Moon station for Moon base",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/goodbye_lunar_gateway_nasa_ditches/",
+    "summary": "<h4>NASA boss Jared Isaacman has no intention of letting this setback delay the Artemis program, apparently</h4> <p>NASA's ambitious plans to build a space station in orbit of the Moon are officially on hold, administrator Jared Isaacman said Tuesday, with the space agency instead skipping the orbital habitat in favor of building a permanent base on the Lunar surface. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-24T16:38:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3046a674ea0f9850bf371a9a02512cff862db46a",
+    "title": "Datadog bets DIY AI will mean it dodges the SaaSpocalypse",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/datadog_revising_custom_model/",
+    "summary": "<h4>The theory is that its domain-specific model will beat generalist LLMs on results and economics</h4> <p>Datadog is close to releasing an updated AI model that it thinks will help it avoid the so-called SaaSpocalypse – customers using AI to build their own tools.…</p>",
+    "isoDate": "2026-03-24T16:08:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "282bde0c3c4416c9735a4d50c58dc8980ca6c0c6",
+    "title": "Claude Code can now take over your computer to complete tasks",
+    "link": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
+    "summary": "But Anthropic urges caution as \"research preview\" safeguards \"aren't absolute.\"",
+    "isoDate": "2026-03-24T15:45:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "agent",
+      "agentic AI",
+      "Anthropic",
+      "Claude",
+      "Claude Code",
+      "Cowork"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1287582736-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c61cb96c5e1027c035e384058bca5c960288d2a4",
+    "title": "Understanding SpaceX's Lunar Mass Driver: What It Is and How It Works [VIDEO]",
+    "link": "https://www.notateslaapp.com/news/3845/understanding-spacexs-lunar-mass-driver-what-it-is-and-how-it-works-video",
+    "summary": "A deep dive into what exactly Elon Musk envisions with his Lunar Mass Driver concept, and how it will change the face of&hellip; <a href=\"https://www.notateslaapp.com/news/3845/understanding-spacexs-lunar-mass-driver-what-it-is-and-how-it-works-video\">Read More</a>",
+    "isoDate": "2026-03-24T15:37:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/mass-driver-1.webp/6375da5c1b253bd534da8a63de038d01/mass-driver-1.jpg",
+    "pinned": false
+  },
+  {
     "id": "0b1f643252df3c06c50b7d679f8003448a1fe9f0",
     "title": "Lucid Takes Aim at Tesla Model Y with New Earth & Cosmos SUVs",
     "link": "https://www.notateslaapp.com/news/3837/lucid-takes-aim-at-tesla-model-y-with-new-earth-cosmos-suvs",
@@ -1067,26 +1140,6 @@
     "pinned": false
   },
   {
-    "id": "6fa6b4383af833cf3a4a4778a4992150d9c3e1d7",
-    "title": "We keep finding the raw material of DNA in asteroids—what's it telling us?",
-    "link": "https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/",
-    "summary": "This week's result is just the latest in a growing collection of discoveries.",
-    "isoDate": "2026-03-21T11:00:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "asteroids",
-      "astronomy",
-      "chemistry",
-      "DNA",
-      "origin of life"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-1-500x500-1774038632.png",
-    "pinned": false
-  },
-  {
     "id": "035598da76cfb1df9d89d45e5cfe1699c700a218",
     "title": "Payment biz pulls plug on open source charity after KYC spat",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/21/fsfe_dropped_by_its_payments/",
@@ -1103,7 +1156,7 @@
     "id": "8b39c043e0ab39825d469bca03ed2f6835e18c23",
     "title": "Cryptographers engage in war of words over RustSec bug reports and subsequent ban",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/",
-    "summary": "<h4>Rust security maintainers contend Nadim Kobeissi's vulnerability claims are too much</h4> <p>Since February, cryptographer Nadim Kobeissi has been trying to get code fixes applied to Rust cryptography libraries to address what he says are critical bugs. For his efforts, he's been dismissed, ignored, and banned from Rust security channels.…</p>",
+    "summary": "<h4>Rust security maintainers contend Nadim Kobeissi's vulnerability claims are too much</h4> <p><strong>Updated</strong>  Since February, cryptographer Nadim Kobeissi has been trying to get code fixes applied to Rust cryptography libraries to address what he says are critical bugs. For his efforts, he's been dismissed, ignored, and banned from Rust security channels.…</p>",
     "isoDate": "2026-03-20T21:07:17Z",
     "source": "The Register",
     "category": "Tech",
@@ -1201,45 +1254,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/alpamayo.png/9dd921682bff2f1bce07591a929bd278/alpamayo.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ce8ba8d47aab4568f0b6561758abf099540a7271",
-    "title": "Microsoft breaks Microsoft account sign-ins in Windows 11 with latest update",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/microsoft_account_not_working_have/",
-    "summary": "<h4>OneDrive, Office, Teams Free users greeted with phantom 'no internet' errors, restart may help if you're lucky</h4> <p>Microsoft has broken account sign-ins in Windows 11 25H2 and 24H2 with a recent update, causing error messages in apps like OneDrive and Office.…</p>",
-    "isoDate": "2026-03-20T13:37:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b248ddcade4e88453d2caeb604d5549babb95e13",
-    "title": "UK police force presses pause on live facial recognition after study finds racial bias",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/uk_police_force_suspend_live_faical_recog_racial_bias/",
-    "summary": "<h4>Cams statistically more likely to ID Black people, says new research</h4> <p>A UK police force has suspended its deployment of live facial recognition (LFR) technology after a study revealed it was statistically more likely to identify Black people on a watchlist database.…</p>",
-    "isoDate": "2026-03-20T13:35:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "247bb783c5773e3a70e2ce6fa0be19cb8059cac6",
-    "title": "Feds disrupt monster IoT botnets behind record-breaking DDoS attacks",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/botnet_disruption/",
-    "summary": "<h4>Millions of hijacked devices powered traffic floods targeting defense systems and beyond</h4> <p>The US government has moved to disrupt a cluster of IoT botnets behind some of the largest DDoS attacks ever recorded, including traffic bursts topping 30 terabits per second.…</p>",
-    "isoDate": "2026-03-20T13:07:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1493,19 +1507,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/0x0-roadster_06.jpg/3069b5e5a11ebfde674f9b2d34ad947a/0x0-roadster_06.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cabb044b71623ad9b09579f459a37dfe9910baab",
-    "title": "Ashok Elluswamy to Lead Macrohard — Tesla and xAI Joint Venture",
-    "link": "https://www.notateslaapp.com/news/3799/ashok-elluswamy-to-lead-macrosoft-tesla-and-xai-joint-venture",
-    "summary": "Tesla VP of AI Software Ashok Elluswamy is taking on a dual role to lead MACROHARD, a joint enterprise AI venture between Tesla and xAI.&hellip; <a href=\"https://www.notateslaapp.com/news/3799/ashok-elluswamy-to-lead-macrosoft-tesla-and-xai-joint-venture\">Read More</a>",
-    "isoDate": "2026-03-17T17:10:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-reference/ashok-elluswamy-2.webp/6001ff2203ee0d4118d1c62539341a8c/ashok-elluswamy-2.jpg",
     "pinned": false
   }
 ]
