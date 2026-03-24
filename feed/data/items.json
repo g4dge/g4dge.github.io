@@ -1,7 +1,78 @@
 [
   {
+    "id": "67d98946a87cc07f8c29e4c3f3d4c183cd80fe75",
+    "title": "HackerOne slams supplier for delayed breach notice after staff data exposed",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach/",
+    "summary": "<h4>Nearly 300 employees caught up in intrusion at benefits provider Navia</h4> <p>Almost 300 HackerOne employees are caught up in a data breach, with the bug bounty biz slamming a third-party benefits provider for a weeks-long delay in notification.…</p>",
+    "isoDate": "2026-03-24T13:27:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "666b08b3397e0c4d4742d555d8e2092f96935d12",
+    "title": "Microslop stuffs AI photo restyling powers into OneDrive",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/onedrive_ai_restyle/",
+    "summary": "<h4>Microslop? Sorry, we meant Microsoft</h4> <p>Microsoft is rolling out technology to transform OneDrive photos into AI-infused masterpieces. Or top up the bucket of slop, depending on your perspective.…</p>",
+    "isoDate": "2026-03-24T13:05:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "442e0c97f55a366c3aa360b5d3741736ceb9826c",
+    "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+    "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+    "summary": "Development houses: It's time to check your networks for infections.",
+    "isoDate": "2026-03-24T12:38:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "malware",
+      "teampcp",
+      "worm"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fd5799812ac7ab7b2aaf2022443799cb70cc4fc7",
+    "title": "New routers? Made abroad? Yeah, that's going to be a no from Uncle Sam",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/fcc_foreign_routers/",
+    "summary": "<h4>Unfortunately, there aren't many options unless you're Starlink</h4> <p>Citing national security fears, America is effectively banning any new consumer-grade network routers made abroad.…</p>",
+    "isoDate": "2026-03-24T12:19:36Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fa0b77f61f23c69339c7a16008ab1c6dfb449fcc",
+    "title": "Mozilla introduces cq, describing it as 'Stack Overflow for agents'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/mozilla_introduces_cq_stack_overflow/",
+    "summary": "<h4>A knowledge database where AI agents read, add and score the items – what could go wrong?</h4> <p>Mozilla is building cq - described by staff engineer Peter Wilson as \"Stack Overflow for agents\" - as an open source project to enable AI agents to discover and share collective knowledge.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-24T11:52:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "dd8bec6d239fd14189a0e4931b497e4c072da57c",
-    "title": "Cybercab Debuts Tesla's New One-Button Door Releases",
+    "title": "Cybercab Debuts Tesla's New Interior Door Handle",
     "link": "https://www.notateslaapp.com/news/3846/cybercab-debuts-teslas-new-one-button-door-releases",
     "summary": "Recent production units have revealed a redesigned door handle system that solves one of the most persistent safety criticisms of Tesla’s current vehicle line&hellip; <a href=\"https://www.notateslaapp.com/news/3846/cybercab-debuts-teslas-new-one-button-door-releases\">Read More</a>",
     "isoDate": "2026-03-24T11:36:00Z",
@@ -113,7 +184,7 @@
     "id": "496d4b177146edbc75165bf92cde316c901785ca",
     "title": "Half of VMware users plan to reduce usage by 2028",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/vmware_usage_reduction_analysis/",
-    "summary": "<h4>Analyst says many others wouldn’t mind doing the same, but feel stuck</h4> <p>Half of VMware users plan to reduce their use of the virtualization pioneer’s products by 2028, according to a survey by independent analyst firm Virtified.…</p>",
+    "summary": "<h4>Silent exodus brewing but other customers say they feel trapped</h4> <p>Half of VMware users plan to reduce their use of the virtualization pioneer’s products by 2028, according to a survey by independent analyst firm Virtified.…</p>",
     "isoDate": "2026-03-24T05:35:09Z",
     "source": "The Register",
     "category": "Tech",
@@ -1031,26 +1102,6 @@
     "pinned": false
   },
   {
-    "id": "5b79090837f80c74dea1c211a7d8631df914ef32",
-    "title": "Jury finds Musk owes damages to Twitter investors for his tweets",
-    "link": "https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/",
-    "summary": "The verdict, while not a complete loss, could still cost him billions.",
-    "isoDate": "2026-03-20T22:27:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Policy",
-      "class action",
-      "Elon Musk",
-      "fraud",
-      "lawsuit",
-      "Twitter"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2217854935-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8b39c043e0ab39825d469bca03ed2f6835e18c23",
     "title": "Cryptographers engage in war of words over RustSec bug reports and subsequent ban",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/",
@@ -1194,19 +1245,6 @@
     "pinned": false
   },
   {
-    "id": "ac3ab9adff21757ff5c6d5aa742f1749b033cca4",
-    "title": "Jaguar Land Rover's cyber bailout sets worrying precedent, watchdog warns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/jlr_bailout_cmc/",
-    "summary": "<h4>Lack of clear criteria risks encouraging firms to lean on state support instead of worrying about insurance</h4> <p>The UK's cyber watchdog has warned that the government's £1.5 billion bailout of Jaguar Land Rover (JLR) risks setting a troubling precedent for how Britain handles major cyber crises.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-20T12:42:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "ac67fdd5c4a896644124fb261a01ee302b57ce9f",
     "title": "Tesla Opens Superchargers to More Manufacturers",
     "link": "https://www.notateslaapp.com/news/3825/dodge-jeep-fiat-and-others-gain-access-to-teslas-supercharger-network",
@@ -1217,19 +1255,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/superchargers-multiple.jpeg/ba5d2f3bd95e5028b3aa51caed4277bc/superchargers-multiple.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d3af955d9ac9d06da40bb3c38ac08d81210be13c",
-    "title": "Supermicro co-founder arrested, charged over $2.5B Nvidia GPU sales to China",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/supermicro_nvidia_gpu_charges/",
-    "summary": "<h4>Indictment claims dummy servers and bogus docs used to slip past US export controls</h4> <p>A co-founder of Supermicro is among three people charged with diverting servers fitted with Nvidia GPUs worth $2.5 billion to Chinese customers in violation of US export controls.…</p>",
-    "isoDate": "2026-03-20T11:57:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1244,19 +1269,6 @@
     "tags": [
       "Podcast"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d9793e3da07b338c05873e4d3ead02b6585ec97e",
-    "title": "Starmer's digital ID reboot raises same old questions as its Blair-era ancestor",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/digital_id_consultation/",
-    "summary": "<h4>Audit trails aplenty, but no price tag – and no clue how long your data sticks around</h4> <p><strong>Opinion</strong>  Last week's UK government consultation on its plans for digital identity had quite a few things missing. It did not include a <a href=\"https://www.theregister.com/2026/03/11/digital_id_cost/\" target=\"_blank\">price estimate</a> - something it said was due to decisions yet to be taken on the scheme's scope - or how long the government would keep \"audit trail\" records of ID checks.…</p>",
-    "isoDate": "2026-03-20T10:15:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
-    "tags": [],
     "image": "",
     "pinned": false
   },
@@ -1496,19 +1508,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-reference/ashok-elluswamy-2.webp/6001ff2203ee0d4118d1c62539341a8c/ashok-elluswamy-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "22d11b2111422fe8306d63b23236aae70df0019b",
-    "title": "Tesla Just Outsold Every Other Car Brand Combined in Norway",
-    "link": "https://www.notateslaapp.com/news/3810/tesla-just-outsold-every-other-car-brand-combined-in-norway",
-    "summary": "During the first week of March, Tesla reached a level of dominance in Norway that few automakers ever achieve in a developed market&hellip; <a href=\"https://www.notateslaapp.com/news/3810/tesla-just-outsold-every-other-car-brand-combined-in-norway\">Read More</a>",
-    "isoDate": "2026-03-17T13:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_48.webp/3c1b80bde2d8d06c73f00c0714fdb99b/group_48.jpg",
     "pinned": false
   }
 ]
