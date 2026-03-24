@@ -1,5 +1,85 @@
 [
   {
+    "id": "3623f13ddb81481c4f34cc8dc069e3eeba57599e",
+    "title": "Mozilla dev introduces cq, a \"Stack Overflow for agents\"",
+    "link": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+    "summary": "There are major problems to be solved before it can be adopted, though.",
+    "isoDate": "2026-03-24T21:37:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "agents",
+      "coding",
+      "developers",
+      "MCP",
+      "Mozilla",
+      "open source",
+      "Programming",
+      "software development"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7b322834a54b5d383588fe241376ca685436e133",
+    "title": "OpenAI announces plans to shut down its Sora video generator",
+    "link": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+    "summary": "Move comes amid a reported plan to refocus on business and productivity use cases.",
+    "isoDate": "2026-03-24T21:19:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "bytedance",
+      "openai",
+      "OpenAI Sora",
+      "seedance",
+      "seedance 2.0",
+      "Sora",
+      "Veo",
+      "video"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cooldog-500x500-1774386814.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1c745989d6ad511762a6cbf33639fc0e4532ab83",
+    "title": "Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate",
+    "link": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+    "summary": "Public interest in government tech abuses is peaking. EFF's new leader plans to build on that.",
+    "isoDate": "2026-03-24T21:00:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "Artificial Intelligence",
+      "digital rights",
+      "Donald Trump",
+      "Electronic Frontier Foundation",
+      "ice"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/eff-leadership-change-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7c666438010eecc539a9f9c9d5477f3ea5f87ed2",
+    "title": "EFF has a new boss to lead the fight against privacy-sucking forces of doom",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/eff_nicole_ozer_new_chief_interview/",
+    "summary": "<h4>Cyber rights org retools for the days of AI and unrestrained government</h4> <p><strong>interview</strong>  The Electronic Frontier Foundation (EFF) on Tuesday appointed Nicole Ozer to succeed Cindy Cohn as the cyber rights group's executive director when Cohn departs this summer.…</p>",
+    "isoDate": "2026-03-24T21:00:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "769719c2ae7f86b455794d171725a47528564a7b",
     "title": "1K+ cloud environments infected following Trivy supply chain attack",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/1k_cloud_environments_infected_following/",
@@ -755,45 +835,6 @@
     "pinned": false
   },
   {
-    "id": "2d609c65e1befa5eb01d00fb8c65dfc48771eebe",
-    "title": "Apple will talk iOS 27, macOS 27, and more at WWDC 2026 on June 8",
-    "link": "https://arstechnica.com/gadgets/2026/03/apple-will-talk-ios-27-macos-27-and-more-at-wwdc-2026-on-june-8/",
-    "summary": "WWDC is often light on hardware, but it's where big software announcements happen.",
-    "isoDate": "2026-03-23T18:34:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Tech",
-      "apple",
-      "ios 27",
-      "ipados 27",
-      "macos 27",
-      "WWDC",
-      "wwdc26"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-WWDC26-event-branding-500x500-1774290022.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cd6c81200c245879655be894e586b15b8508849a",
-    "title": "Long fingernails vs. touchscreens: This nail polish could help",
-    "link": "https://arstechnica.com/science/2026/03/long-fingernails-vs-touchscreens-this-nail-polish-could-help/",
-    "summary": "Undergraduate's prototype conductive nail polish could turn long fingernails into touchscreen styluses.",
-    "isoDate": "2026-03-23T17:59:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "chemistry",
-      "cosmetics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/fingernail1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "64122e9160cb0a3edef0256b101e06c32c58837d",
     "title": "AI agents are 'gullible' and easy to turn into your minions",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/pwning_everyones_ai_agents/",
@@ -804,23 +845,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4807a3ff5f1f1a9aa06b83ad33493f6e5e30d65b",
-    "title": "Republicans in Congress add $250 annual federal EV tax to transport bill",
-    "link": "https://arstechnica.com/cars/2026/03/republicans-in-congress-add-250-annual-federal-ev-tax-to-transport-bill/",
-    "summary": "Five principles should determine how you fund transport, says Consumer Reports.",
-    "isoDate": "2026-03-23T17:29:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Consumer Reports",
-      "Transportation policy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-922106816-500x500.jpg",
     "pinned": false
   },
   {
@@ -866,7 +890,7 @@
     "id": "5e78100f4b2dfd3688bb61adb4a0d501ba4f0857",
     "title": "Google unleashes Gemini AI agents on the dark web",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/google_dark_web_ai/",
-    "summary": "<h4>Claims it can analyze millions of daily events with 98 percent accuracy</h4> <p>Google's Gemini AI agents are crawling the dark web, sifting through upward of 10 million posts a day to find a handful of threats relevant to a particular organization.…</p>",
+    "summary": "<h4>Claims it can analyze millions of daily events with 98 percent accuracy</h4> <p><strong>RSAC 2026</strong>  Google's Gemini AI agents are crawling the dark web, sifting through upward of 10 million posts a day to find a handful of threats relevant to a particular organization.…</p>",
     "isoDate": "2026-03-23T15:05:09Z",
     "source": "The Register",
     "category": "Tech",
@@ -1243,19 +1267,6 @@
     "pinned": false
   },
   {
-    "id": "b86131de1fb7633d82fe3a91614a9bb751e0960f",
-    "title": "Turns out your coffee addiction may be doing your brain a favor",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/",
-    "summary": "<h4>Decades of data suggest people who stick to a couple of brews fare better in terms of gray matter</h4> <p>A decades-long study suggests that your daily caffeine fix might be doing more than jolting you through morning meetings – it could also be quietly helping your brain hold it together.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-21T12:10:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "06513531ea5b69c37d24614c13e5d9b4387f016d",
     "title": "Tesla Fixes Wall Connector Wi-Fi Issue With Update 26.2",
     "link": "https://www.notateslaapp.com/news/3831/tesla-fixes-wall-connector-wpa3-wi-fi-issues-with-update-262",
@@ -1532,19 +1543,6 @@
       "Technology"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6b094b732a47bd3706cb565442357ef8a7b85ae8",
-    "title": "Tesla Robotaxi Appears to Be Launching in Las Vegas and Dallas",
-    "link": "https://www.notateslaapp.com/news/3813/tesla-robotaxi-appears-to-be-launching-in-las-vegas-and-dallas",
-    "summary": "Recent sightings in Nevada and Texas suggest that Tesla's long-anticipated Robotaxi service is on the verge of a massive multi-city expansion&hellip; <a href=\"https://www.notateslaapp.com/news/3813/tesla-robotaxi-appears-to-be-launching-in-las-vegas-and-dallas\">Read More</a>",
-    "isoDate": "2026-03-17T20:56:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-las-vegas-3.webp/b863af223d95e1cb9feee20b156476f1/robotaxi-las-vegas-3.jpg",
     "pinned": false
   }
 ]
