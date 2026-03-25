@@ -1,5 +1,35 @@
 [
   {
+    "id": "3d3fa508d836581f81ad0cac03a0f295cece4248",
+    "title": "BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph",
+    "link": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+    "summary": "Company calls Guardian the \"most capable 911 response drone ever.”",
+    "isoDate": "2026-03-25T21:12:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cyrus Farivar",
+    "tags": [
+      "Tech",
+      "drones",
+      "police"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/guardian-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8719e6fb22d48d951ff9742669a494ae44c2772a",
+    "title": "AI supply chain attacks don’t even require malware…just post poisoned documentation",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/",
+    "summary": "<h4>A proof-of-concept attack on Context Hub suggests there's not much content santization</h4> <p>A new service that helps coding agents stay up to date on their API calls could be dialing in a massive supply chain vulnerability.…</p>",
+    "isoDate": "2026-03-25T20:50:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "b91a805856b62bf313b7abda3e4817329e67ad58",
     "title": "Scammers have virtual smartphones on speed dial for fraud",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/virtual_smartphones_fraud/",
@@ -669,7 +699,7 @@
   },
   {
     "id": "cd33a33ffa24808b1f42b32f8d55d455c0e6cb06",
-    "title": "HP's AI fly on the wall can record your in-person meetings to summarize later",
+    "title": "HP stuffs OpenAI LLM into new laptops in bid for small biz",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/hp_iq_laptop_ai/",
     "summary": "<h4>HP IQ can chat, share files, and break down everything people said in the conference room.</h4> <p>You’ve heard the call of Apple Intelligence, jumped for joy over Google Gemini, and cuddled up with Microsoft Copilot. Now, get ready for HP IQ, a local AI and collaboration application HP Inc. hopes will make its business laptops stand apart. Also, get ready for your boss to start recording in-person meetings.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-03-25T00:06:36Z",
@@ -734,29 +764,6 @@
       "walmart"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Vizio-500x500.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "3623f13ddb81481c4f34cc8dc069e3eeba57599e",
-    "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
-    "link": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
-    "summary": "There are major problems to be solved before it can be adopted, though.",
-    "isoDate": "2026-03-24T21:37:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "agents",
-      "coding",
-      "developers",
-      "MCP",
-      "Mozilla",
-      "open source",
-      "Programming",
-      "software development"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-500x500.jpg",
     "pinned": false
   },
   {
@@ -1186,19 +1193,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6301004976527ad0e4d61aeb74518ecca301995a",
-    "title": "If you love your boss, imagine how much more you'll love their AI twin",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/ai_boss_bots_not_welcome/",
-    "summary": "<h4>Digital twins of leaders may be plausible as novelty acts, but not really welcome</h4> <p>Imagine that your boss is too busy to show up at that meeting you called so she sends a bot of herself instead. With a digital twin, even your company's CEO - the one who spends all his time on the corporate jet - could make an appearance at your powwow about the break room coffee machine. But would you want them there?…</p>",
-    "isoDate": "2026-03-23T19:53:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
