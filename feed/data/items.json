@@ -1,5 +1,63 @@
 [
   {
+    "id": "e54019b13d362ef9d2561768fd04a991da43af5f",
+    "title": "JetBrains shifts to agentic dev with Central, retires pair programming",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jetbrains_central/",
+    "summary": "<h4>Bye-bye Code With Me as company focuses on other areas</h4> <p>Dev tooling biz JetBrains has previewed Central for agentic AI software development but will retire the Code With Me human pair programming feature.…</p>",
+    "isoDate": "2026-03-25T13:29:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3c7cddb297961f20bae472436f68a51998eb6337",
+    "title": "Honda cancels the two electric vehicles it was developing with Sony",
+    "link": "https://arstechnica.com/cars/2026/03/honda-cancels-the-two-electric-vehicles-it-was-developing-with-sony/",
+    "summary": "Sony Honda Mobility says the Afeela 1 and Afeela 2 are no more.",
+    "isoDate": "2026-03-25T13:12:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Afeela",
+      "honda",
+      "Sony",
+      "Sony Honda Mobility"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/web_eyecatch_OHIO_003-500x500.webp",
+    "pinned": false
+  },
+  {
+    "id": "f7853f2b01bb622b56f56020335ca7b0fe2abe7a",
+    "title": "Dell slims down business laptops, fattens up cooling and battery life",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/dell_business_laptops/",
+    "summary": "<h4>Pro line gets new naming convention and some serious upgrades</h4> <p>Dell's upcoming 2026 commercial laptops won't leave recent buyers kicking themselves - but they do bring meaningful upgrades, including a thinner Pro 7, larger batteries, and improved thermals.…</p>",
+    "isoDate": "2026-03-25T13:00:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cc47c7690055c89a2fdd7fef8b16b79fc80ba774",
+    "title": "Windows 95 let installers trash its files then fixed the mess behind their backs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/windows_95_installers_chen/",
+    "summary": "<h4>I'll just clear up that up, shall I?</h4> <p>Microsoft veteran Raymond Chen has shared another nugget of Windows lore – what Windows 95 did when installers stomped on its system files.…</p>",
+    "isoDate": "2026-03-25T12:30:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "506e204b5d3619dbba61af61a8afe98507aa0749",
     "title": "Samsung still glued to its bad habits with Galaxy S26 Ultra",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/galaxy_s26_ultra_ifixit/",
@@ -192,9 +250,9 @@
   },
   {
     "id": "cd33a33ffa24808b1f42b32f8d55d455c0e6cb06",
-    "title": "HP stuffs OpenAI LLM into new laptops to make them either more useful at work, or a bit creepy",
+    "title": "HP's AI fly on the wall can record your in-person meetings to summarize later",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/hp_iq_laptop_ai/",
-    "summary": "<h4>'HP IQ' can chat, share files, and record and summarize meetings</h4> <p>You’ve heard the call of Apple Intelligence, jumped for joy over Google Gemini, and cuddled up with Microsoft Copilot. Now, get ready for HP IQ, a local AI and collaboration application HP Inc. hopes will make its business laptops stand apart.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "summary": "<h4>'HP IQ' can chat, share files, and record and summarize meetings</h4> <p>You’ve heard the call of Apple Intelligence, jumped for joy over Google Gemini, and cuddled up with Microsoft Copilot. Now, get ready for HP IQ, a local AI and collaboration application HP Inc. hopes will make its business laptops stand apart. Also, get ready for your boss to start recording in-person meetings.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-03-25T00:06:36Z",
     "source": "The Register",
     "category": "Tech",
@@ -938,24 +996,6 @@
     "pinned": false
   },
   {
-    "id": "fb838bfbeecd9327f6a434c9dbfa276ba42b984c",
-    "title": "Trump's MAHA pick for surgeon general flounders amid GOP doubts",
-    "link": "https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/",
-    "summary": "She stalled over MAHA woo-woo, anti-vaccine views, and lacking medical background.",
-    "isoDate": "2026-03-23T21:43:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anti-vaccine",
-      "Casey Means",
-      "MAHA"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262971243-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2ab9ecf0cd83ce87ca1523c39b6a287ec963b9cf",
     "title": "Lightning-fast exploits make it essential to patch fast, ask questions later",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/cisco_talos_cybersecurity_report_patch_fast/",
@@ -1159,45 +1199,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "88c7649243d4cf9eaa13818ff5112d9dba5b39d7",
-    "title": "RSAC 2026: Uncle Sam backs out, and AI agents are everywhere",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_2026_san_francisco/",
-    "summary": "<h4>Infosec pros descend on San Francisco</h4> <p><strong>kettle</strong>  When El Reg cybersecurity editor Jessica Lyons joins infosec industry colleagues in San Francisco for RSAC 2026 this week, she's expecting agentic AI to be on everyone's lips - at least those who aren't busy gossiping about the lack of presence from any representatives of the US federal government.…</p>",
-    "isoDate": "2026-03-23T12:24:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "60e192b4fa615f7b44ab17d88fdb61ee88974512",
-    "title": "Microsoft fixes broken Windows update days after vowing fewer broken updates",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/emergency_fix_windows_11/",
-    "summary": "<h4>The era of reliability begins... right after this out-of-band patch</h4> <p>Microsoft has released an out-of-band update to resolve bugs introduced by a Windows patch just days after promising improved reliability.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-23T11:24:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "023e5baf9aed6dd2f382228abd862d71c861339c",
-    "title": "NASA sets 'impossible' ground rules for relocation of 'flown space vehicle'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/nasa_rfp_shuttle_relocation/",
-    "summary": "<h4>Draft Request for Proposals says you can move shuttle orbiter but you cannot break it</h4> <p>NASA has issued a <a href=\"https://sam.gov/workspace/contract/opp/57ca8b9cc3934dfcac19e1a8d87d3778/view\" rel=\"nofollow\" target=\"_blank\">draft Request for Proposals</a> to move a flown space vehicle, a step some lawmakers see as progress toward relocating Space Shuttle Discovery from the Smithsonian Museum in Virginia to Houston, Texas.…</p>",
-    "isoDate": "2026-03-23T11:01:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1558,19 +1559,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-android.webp/6a3b4a96391b9d9bc091cc4512ec43c5/robotaxi-android.jpg",
-    "pinned": false
-  },
-  {
-    "id": "033c965c4a4454370d42604dd7a91e73aa79b509",
-    "title": "Tesla Update 2026.8 Lets You See Who's Driving in the Tesla App",
-    "link": "https://www.notateslaapp.com/news/3814/tesla-update-20268-lets-you-see-whos-driving-in-the-app",
-    "summary": "For the first time, Tesla is allowing owners to see exactly which driver profile is currently active in their vehicle directly from the Tesla app&hellip; <a href=\"https://www.notateslaapp.com/news/3814/tesla-update-20268-lets-you-see-whos-driving-in-the-app\">Read More</a>",
-    "isoDate": "2026-03-18T12:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-driver-profile.webp/61c5e66dc54de560e19ce856a602bbef/tesla-app-driver-profile.jpg",
     "pinned": false
   }
 ]
