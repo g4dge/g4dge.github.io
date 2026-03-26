@@ -1,5 +1,54 @@
 [
   {
+    "id": "25ae45e5b340a5e3d499954fec1fa26192e42228",
+    "title": "Spotify lawsuit tries to kick Anna's Archive off the web, without much success",
+    "link": "https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/",
+    "summary": "Even with court orders, music firms struggle to eliminate notorious shadow library.",
+    "isoDate": "2026-03-26T21:27:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Anna's archive",
+      "record labels",
+      "spotify"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/spotify-logos-500x500-1767642286.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1bef3a7fb024f98c57a65dbd4a56b58f67c90791",
+    "title": "AMD’s new desktop CPU oozes cache out of all 16 cores",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/amd_crams_208mb_of_cache/",
+    "summary": "<h4>Turns out massive caches are good for more than games. House of Zen boasts 5-13% perf boost over prior-gen part</h4> <p>AMD aims to extend its lead in desktop gaming with a new CPU, dubbed the Ryzen 9 9950X3D2 Dual Edition. This top-of-the-line part has 16 cores fed by an absolutely massive 208 MB pool of cache, with memory spread across both CCDs.…</p>",
+    "isoDate": "2026-03-26T21:12:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "67cdf4daef802c3d9d23483a49d0ebb21d677988",
+    "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
+    "link": "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/",
+    "summary": "Ultra-sensitive data may have been hacked.",
+    "isoDate": "2026-03-26T21:04:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nate Anderson",
+    "tags": [
+      "Security",
+      "hack",
+      "P3",
+      "tipline"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/p3-app-500x500-1774557723.jpg",
+    "pinned": false
+  },
+  {
     "id": "87fe68c3bea2d38fa67a88d5dcf225138c1f1899",
     "title": "As RFK Jr.’s anti-vaccine ways turn toxic to GOP, CDC director is hard to find",
     "link": "https://arstechnica.com/health/2026/03/as-rfk-jr-s-anti-vaccine-ways-turn-toxic-to-gop-cdc-director-is-hard-to-find/",
@@ -19,7 +68,7 @@
   },
   {
     "id": "24e20513932dd745e66d2771e085edf16f3c8770",
-    "title": "'Empathic' Salesforce bots to help those fired by uncaring humans",
+    "title": "'Empathetic' Salesforce bots to help those fired by uncaring humans",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/salesforce_bots_to_help_those/",
     "summary": "<h4>I’m sorry, Dave. I can’t give you your job back, but here’s the form you fill out to collect benefits</h4> <p>There’s a joke in Boston that goes: the people in Southie will steal your wallet and help you look for it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-03-26T20:41:23Z",
@@ -660,28 +709,6 @@
     "pinned": false
   },
   {
-    "id": "18362a5c51eb4fd34251f19c1b9d32daa744f9cd",
-    "title": "Antibiotic resistance among germs swells during droughts, study suggests",
-    "link": "https://arstechnica.com/health/2026/03/antibiotic-resistance-among-germs-swells-during-droughts-study-suggests/",
-    "summary": "Study links two crises: Climate change and antibiotic-resistant infections.",
-    "isoDate": "2026-03-25T17:49:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "Science",
-      "antibiotic resistance",
-      "antibiotics",
-      "bacteria",
-      "environment",
-      "nature microbiology",
-      "soil"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2227035793-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a32587831c7d7e5e3679c5a30595468c07d49507",
     "title": "Oracle: AI agents can reason, decide and act - liability question remains",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/oracles_apps_and_agents_push/",
@@ -718,25 +745,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybersuv-2.webp/959ee499544e295c6be2acdbacb06b93/cybersuv-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5141482467e91991f689147e9bc7d4a0f26e2c7a",
-    "title": "Trump staffs science and technology panel with non-scientists",
-    "link": "https://arstechnica.com/science/2026/03/trump-staffs-science-and-technology-panel-with-non-scientists/",
-    "summary": "Appointee list is in keeping with the administration's hostility toward science.",
-    "isoDate": "2026-03-25T16:49:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "advisors",
-      "pcast",
-      "science",
-      "Trump"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2264811113-500x500.jpg",
     "pinned": false
   },
   {
@@ -1197,19 +1205,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/lucid_expanded_lineup.png/86a35107237e13fea197c3ce2e04c40e/lucid_expanded_lineup.jpg",
-    "pinned": false
-  },
-  {
-    "id": "67d98946a87cc07f8c29e4c3f3d4c183cd80fe75",
-    "title": "HackerOne slams supplier for delayed breach notice after staff data exposed",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach/",
-    "summary": "<h4>Nearly 300 employees caught up in intrusion at benefits provider Navia</h4> <p>Almost 300 HackerOne employees are caught up in a data breach, with the bug bounty biz slamming a third-party benefits provider for a weeks-long delay in notification.…</p>",
-    "isoDate": "2026-03-24T13:27:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
