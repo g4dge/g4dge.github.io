@@ -1,7 +1,61 @@
 [
   {
+    "id": "da73ba60ebac24617274d850dbdb69e26d532379",
+    "title": "Anthropic tweaks timed usage limits to discourage Claude demand during peak hours",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/anthropic_tweaks_usage_limits/",
+    "summary": "<h4>AI biz makes some Claude conversations more costly to manage capacity</h4> <p>Anthropic on Wednesday adjusted its opaque usage limits for Claude customers by reducing the power of the services it delivers during times of peak demand, in an effort to balance demand with its capacity to deliver service.…</p>",
+    "isoDate": "2026-03-26T22:15:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "84e7dedf822a1e53cffc3fadc57dab5d9c606f9e",
+    "title": "AI companies lick their chops as FCC proposes forcing call center onshoring",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/ai_companies_lick_their_chops/",
+    "summary": "<h4>You actually thing companies are going to pay Americans to take customer service calls in the AI age?</h4> <p>Uncle Sam is trying to make American call centers great again. The question is whether they will be great because they're filled with local workers or whether this will provide yet another excuse for companies to turn customer service jobs over to AI.…</p>",
+    "isoDate": "2026-03-26T22:11:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "03d8f54071bd648566772670c76c8bc4b4aafacc",
+    "title": "Elon Musk loses big in court; X boycott perfectly legal",
+    "link": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
+    "summary": "X admonished for \"fishing expedition\" as judge dismisses ad boycott lawsuit.",
+    "isoDate": "2026-03-26T21:50:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1244262469-2-500x500-1774560028.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c28058a2c52d3d4edb1a0088609a24481d965b92",
+    "title": "AWS would prefer to forget March ever happened in its UAE region",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/aws_would_prefer_to_forget/",
+    "summary": "<h4>Cloud giant waives an entire month of charges, then erases the billing data. There is literally nothing to see here.</h4> <p>I received an email / billing notification from AWS this week that may be the most diplomatically crafted communication in the history of cloud computing. Here it is, stripped of the usual boilerplate around it:…</p>",
+    "isoDate": "2026-03-26T21:39:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Corey Quinn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "25ae45e5b340a5e3d499954fec1fa26192e42228",
-    "title": "Spotify lawsuit tries to kick Anna's Archive off the web, without much success",
+    "title": "Spotify seeks $300M from Anna's Archive, which ignores all court proceedings",
     "link": "https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/",
     "summary": "Even with court orders, music firms struggle to eliminate notorious shadow library.",
     "isoDate": "2026-03-26T21:27:16Z",
@@ -689,26 +743,6 @@
     "pinned": false
   },
   {
-    "id": "76e1c9daf72649cba970c6a3d0b7e9b54bce7472",
-    "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-    "link": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
-    "summary": "TurboQuant makes AI models more efficient but doesn't reduce output quality like other methods.",
-    "isoDate": "2026-03-25T17:59:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "generative ai",
-      "google",
-      "large langauge models"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/TurboQuant-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "a32587831c7d7e5e3679c5a30595468c07d49507",
     "title": "Oracle: AI agents can reason, decide and act - liability question remains",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/oracles_apps_and_agents_push/",
@@ -1138,45 +1172,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5de68d80ef8e79645e2467c8f8cd9e79dc9913e8",
-    "title": "Arm rolls its own 136-core AGI CPU to chase AI hype train",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/arm_agi_cpu/",
-    "summary": "<h4>Turns out artificial general intelligence was a CPU this whole time</h4> <p>Arm unveiled its first homegrown silicon — yes, an actual chip, not another shake-n-bake blueprint — during an event in San Francisco on Tuesday, and said that flagship customer Meta is set to deploy the 136-core CPU at scale later this year.…</p>",
-    "isoDate": "2026-03-24T17:00:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6742cfefd7f4fddd79f6e97aefa7778742d007ee",
-    "title": "Goodbye, Lunar Gateway: NASA ditches Moon station for Moon base",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/goodbye_lunar_gateway_nasa_ditches/",
-    "summary": "<h4>NASA boss Jared Isaacman has no intention of letting this setback delay the Artemis program, apparently</h4> <p>NASA's ambitious plans to build a space station in orbit of the Moon are officially on hold, administrator Jared Isaacman said Tuesday, with the space agency instead skipping the orbital habitat in favor of building a permanent base on the Lunar surface. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-24T16:38:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3046a674ea0f9850bf371a9a02512cff862db46a",
-    "title": "Datadog bets DIY AI will mean it dodges the SaaSpocalypse",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/datadog_revising_custom_model/",
-    "summary": "<h4>The theory is that its domain-specific model will beat generalist LLMs on results and economics</h4> <p>Datadog is close to releasing an updated AI model that it thinks will help it avoid the so-called SaaSpocalypse – customers using AI to build their own tools.…</p>",
-    "isoDate": "2026-03-24T16:08:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
