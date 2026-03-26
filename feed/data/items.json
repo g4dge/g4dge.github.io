@@ -1,5 +1,44 @@
 [
   {
+    "id": "393b7293daf4548976ffe73ba0aadf0ef0516fd4",
+    "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
+    "summary": "<h4>Greg Kroah-Hartman can't explain the inflection point, but it's not slowing down or going away</h4> <p><strong>Interview</strong>  I was at a press luncheon at KubeCon Europe this week when, to my surprise, who should sit down next to me but long-term Linux kernel maintainer Greg Kroah-Hartman. Greg, who lives in the Netherlands these days, was there to briefly comment on AI, Linux, and security. We spoke about how, over the last month, AI-driven activity around Linux security and code review has \"really jumped\" in a way no one in the open source world saw coming.…</p>",
+    "isoDate": "2026-03-26T13:40:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Steven J. Vaughan-Nichols",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f4b20585fe3fa31683570b095b16d828d723d1a7",
+    "title": "Three more charged over alleged Nvidia GPU smuggling scheme to China",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/gpu_china_smuggling_charges/",
+    "summary": "<h4>Prosecutors say trio used Thai front companies to reroute high-end AI servers</h4> <p>The US has collared three more people for allegedly attempting to smuggle Nvidia GPUs to China, days after a Supermicro co-founder faced similar accusations.…</p>",
+    "isoDate": "2026-03-26T13:03:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5499b8011fb2829389a7ba5efec961de4632a878",
+    "title": "Brit lawmaker targeted by AI deepfake fails to get answers from US Big Tech",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/brit_law_maker_fails_to/",
+    "summary": "<h4>Appearing before Parliament, Meta, Google and X struggle to explain how fake political video circulated for so long</h4> <p>A member of the UK Parliament's lower house who was the victim of a deepfake AI campaign this week had a rare chance to confront the Big Tech executives who helped spread it. Their answers disappointed.…</p>",
+    "isoDate": "2026-03-26T11:49:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "464bebb11b402c263c48f1da87d988cbba5425dc",
     "title": "Digital euro goes full sovereignty mode, US cloud giants not on guest list",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/digital_euro_sovereignty/",
@@ -1185,19 +1224,6 @@
     "pinned": false
   },
   {
-    "id": "9564563c60338f370412ec1bc5312d6db9361204",
-    "title": "SAP already shifting focus from ERP migration disaster in pursuit of AI-driven growth",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/sap_commercial_focus/",
-    "summary": "<h4>New commercial models planned after cloud transition falls €2B behind target</h4> <p>SAP has begun to shift focus away from its failure to hit legacy software and cloud migration targets and onto the latest so-called \"innovation\" elements of its portfolio, such as AI.…</p>",
-    "isoDate": "2026-03-24T10:15:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "80506c1d951b54cb5ef1aeb8ff60f37082f61bd3",
     "title": "The clock in our genes",
     "link": "https://aeon.co/essays/far-from-junk-the-clock-in-our-dna-and-its-discoverer?utm_source=rss-feed",
@@ -1206,32 +1232,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Beatrice Steinert",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0fcd81d53bba7742edcb0dfb855e6c1f1ae604fe",
-    "title": "Windows boss promises to heal the operating system's self-inflicted wounds",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/windows_boss_promises/",
-    "summary": "<h4>Sorry seems to be the hardest word at Microsoft</h4> <p><strong>Opinion</strong>  Has Microsoft finally reckoned with Windows 11's many failings - or has its OS chief, Pavan Davuluri, simply offered more soothing platitudes to users fed up with bugs and unwanted AI?…</p>",
-    "isoDate": "2026-03-24T09:30:18Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "52f17ac65e113b377ecf26b2a4bb01d9dd5462fd",
-    "title": "EU broadcasters say smart TVs and voice assistants are the next gatekeepers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/smart_tvs_gatekeepers_eu/",
-    "summary": "<h4>Open letter warns tech is shaping what audiences see while slipping past regulation</h4> <p>Europe's broadcasters say smart TVs and voice assistants are fast becoming the next Big Tech gatekeepers, with little sign of Brussels stepping in.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-24T08:45:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1527,32 +1527,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/digital-optimus-visualization.webp/e45b2053f28094bc9689ba402121b2e6/digital-optimus-visualization.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6e1225afc157e79348ec948e77abe8a23447dec4",
-    "title": "Musk Confirms Tesla FSD V14.3 Is in Testing, Wide Release Soon",
-    "link": "https://www.notateslaapp.com/news/3818/musk-confirms-tesla-fsd-v143-is-in-testing-wide-release-soon",
-    "summary": "Elon Musk has confirmed that FSD V14.3 is currently in testing and will see a wide release in a few weeks.&hellip; <a href=\"https://www.notateslaapp.com/news/3818/musk-confirms-tesla-fsd-v143-is-in-testing-wide-release-soon\">Read More</a>",
-    "isoDate": "2026-03-19T13:34:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-overview.webp/415d61351f43a305b907a211a72d9439/fsd-vis-overview.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4382f041f88338df2a91718c14c17e5e143e47dc",
-    "title": "Tesla Starts Hiring for 'Terafab' AI Chip Factory",
-    "link": "https://www.notateslaapp.com/news/3820/tesla-starts-hiring-for-terafab-ai-chip-factory",
-    "summary": "Just days after Musk made the Tesla 'Terafab' official, the company is already hunting for the specialized talent needed to build a semiconductor factory&hellip; <a href=\"https://www.notateslaapp.com/news/3820/tesla-starts-hiring-for-terafab-ai-chip-factory\">Read More</a>",
-    "isoDate": "2026-03-19T12:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/fsd-hardware-chips.webp/cc162cc4e3f8537a3b7862663c5d9a6b/fsd-hardware-chips.jpg",
     "pinned": false
   }
 ]
