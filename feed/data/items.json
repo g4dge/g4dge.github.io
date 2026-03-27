@@ -1,5 +1,18 @@
 [
   {
+    "id": "5f296923bf083ffd49d215f3b13eecd73811555f",
+    "title": "Engineer sabotaged hardware then complained when it didn't work",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/on_call/",
+    "summary": "<h4>The 600 km drive to fix the mess was a special treat</h4> <p><strong>On Call</strong>  Every week is special in its own way, and <i>The Register</i> celebrates that fact by using Friday mornings to deliver a fresh installment of On Call, our weekly reader-contributed column that shares your memories of managing IT messes someone else made.…</p>",
+    "isoDate": "2026-03-27T07:30:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "565bb004729680506f13a25304f41e64c38c90f4",
     "title": "Security boffins scoured the web and found hundreds of valid API keys",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/security_boffins_harvest_bumper_crop/",
@@ -55,7 +68,7 @@
     "id": "84e7dedf822a1e53cffc3fadc57dab5d9c606f9e",
     "title": "AI companies lick their chops as FCC proposes forcing call center onshoring",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/ai_companies_lick_their_chops/",
-    "summary": "<h4>You actually thing companies are going to pay Americans to take customer service calls in the AI age?</h4> <p>Uncle Sam is trying to make American call centers great again. The question is whether they will be great because they're filled with local workers or whether this will provide yet another excuse for companies to turn customer service jobs over to AI.…</p>",
+    "summary": "<h4>You actually think companies are going to pay Americans to take customer service calls in the AI age?</h4> <p>Uncle Sam is trying to make American call centers great again. The question is whether they will be great because they're filled with local workers or whether this will provide yet another excuse for companies to turn customer service jobs over to AI.…</p>",
     "isoDate": "2026-03-26T22:11:07Z",
     "source": "The Register",
     "category": "Tech",
@@ -1131,19 +1144,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3937fc120dbb12014b980b75d484183f0cc5c081",
-    "title": "LiteLLM loses game of Trivy pursuit, gets compromised",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/trivy_compromise_litellm/",
-    "summary": "<h4>Python interface for LLMs infected with malware via polluted CI/CD pipeline</h4> <p>Two versions of LiteLLM, an open source interface for accessing multiple large language models, have been removed from the Python Package Index (PyPI) following a supply chain attack that injected them with malicious credential-stealing code.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-24T19:11:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
