@@ -1,5 +1,60 @@
 [
   {
+    "id": "44c692e99e424744b5788063134cd63a0bd223e4",
+    "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
+    "link": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
+    "summary": "Memory, storage shortages have made all kinds of consumer tech more expensive.",
+    "isoDate": "2026-03-27T15:57:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "PlayStation",
+      "playstation 5",
+      "ps5",
+      "Sony"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ps-logo-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7f562622f1eafe100a2ec0d8183154caf3dd88cd",
+    "title": "No one is happy with NASA's new idea for private space stations",
+    "link": "https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/",
+    "summary": "\"It reminds me of sort of Lucy and Charlie Brown with the football.\"",
+    "isoDate": "2026-03-27T15:42:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "axiom",
+      "blue origin",
+      "commercial space stations",
+      "NASA",
+      "space",
+      "vast",
+      "Voyager"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/core-module-500x500-1774626108.jpg",
+    "pinned": false
+  },
+  {
+    "id": "391c82311d0e621983365522305cdaf9fd02e403",
+    "title": "Microsoft tells crusty old kernel drivers to get with the Windows Hardware Compatibility Program",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/microsoft_kernel_trust/",
+    "summary": "<h4>Cross-signed code gets the cold shoulder as Redmond tightens trust</h4> <p>Microsoft is removing trust for kernel drivers that haven't been through the Windows Hardware Compatibility Program (WHCP) in a bid to further secure the Windows kernel.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-27T15:03:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "29a2fdeb255ec8a4c1dafda462f5e6d212c06005",
     "title": "Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop",
     "link": "https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/",
@@ -150,7 +205,7 @@
   },
   {
     "id": "5f046bcec59afb3ca3c451cbc9d91f39278dca2a",
-    "title": "Iran war drives urgent need  to counter underwater attack drones",
+    "title": "Iran war drives urgent need to counter underwater attack drones",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/us_and_uk_forces_auv_tender/",
     "summary": "<h4>US and UK forces seeking tech tender with an April 3 deadline</h4> <p>The UK and US are looking for technology to counter the threat posed by underwater drones to ships, harbors and other critical maritime infrastructure, and are asking industry for answers.…</p>",
     "isoDate": "2026-03-27T11:17:32Z",
@@ -837,23 +892,6 @@
     "pinned": false
   },
   {
-    "id": "3d3fa508d836581f81ad0cac03a0f295cece4248",
-    "title": "BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph",
-    "link": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
-    "summary": "Company calls Guardian the \"most capable 911 response drone ever.”",
-    "isoDate": "2026-03-25T21:12:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cyrus Farivar",
-    "tags": [
-      "Tech",
-      "drones",
-      "police"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/guardian-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8719e6fb22d48d951ff9742669a494ae44c2772a",
     "title": "AI supply chain attacks don’t even require malware…just post poisoned documentation",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/",
@@ -877,28 +915,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a44559a98b85423e74633545150521aba75433c9",
-    "title": "Here is NASA's plan for nuking Gateway and sending it to Mars",
-    "link": "https://arstechnica.com/space/2026/03/here-is-nasas-plan-for-nuking-gateway-and-sending-it-to-mars/",
-    "summary": "Only one US-built nuclear reactor has ever flown in space, and that was more than 60 years ago.",
-    "isoDate": "2026-03-25T20:21:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "Gateway",
-      "Mars",
-      "NASA",
-      "nuclear power",
-      "nuclear propulsion",
-      "space reactor-1"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/sr1art1-500x500.jpg",
     "pinned": false
   },
   {
@@ -1204,19 +1220,6 @@
     "pinned": false
   },
   {
-    "id": "111991831dcd905d9131587ec96b1b5a54fe4820",
-    "title": "Alibaba delivers RISC-V server chip optimized to run China’s top AI models",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip/",
-    "summary": "<h4>Claims its set performance records but looks to be years behind western fare</h4> <p>Alibaba has revealed a new server chip that it says is the most powerful processor ever to use the RISC-V instruction set.…</p>",
-    "isoDate": "2026-03-25T03:52:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "5e1a2db954831953376e02bc19d8773c61a56888",
     "title": "Tesla Sets Model S/X Order Deadline in South Korea As End of Production Nears",
     "link": "https://www.notateslaapp.com/news/3849/tesla-sets-model-sx-order-deadline-in-south-korea-as-end-of-production-nears",
@@ -1492,32 +1495,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/supercharger-end-of-page-desktop.jpeg/4266f400d0eaecb5acabaf12870bb491/supercharger-end-of-page-desktop.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e8d0c40e484c97d153609be9c67e929a83cbf5ae",
-    "title": "Tesla FSD Set for Landmark European Approval in Netherlands Next Month",
-    "link": "https://www.notateslaapp.com/news/3826/tesla-fsd-set-for-landmark-european-approval-in-netherlands-next-month",
-    "summary": "After well over a year of regulatory deadlock, Tesla has announced that FSD's first formal approval in Europe should be coming next month&hellip; <a href=\"https://www.notateslaapp.com/news/3826/tesla-fsd-set-for-landmark-european-approval-in-netherlands-next-month\">Read More</a>",
-    "isoDate": "2026-03-20T15:46:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "af9ff0d47d8160c9c38a435ba584c5a83dc24803",
-    "title": "Nvidia Will Launch Robotaxi Network to Compete with Tesla; Autonomy Suite Now Uses 10-Billion Parameters",
-    "link": "https://www.notateslaapp.com/news/3824/nvidia-will-launch-robotaxi-network-to-compete-with-tesla-autonomy-suite-now-uses-10-billion-parameters",
-    "summary": "Nvidia CEO Jensen Huang announced a massive expansion of the company's autonomous driving platform alongside Uber and OEMs with Alpamayo 1.5.&hellip; <a href=\"https://www.notateslaapp.com/news/3824/nvidia-will-launch-robotaxi-network-to-compete-with-tesla-autonomy-suite-now-uses-10-billion-parameters\">Read More</a>",
-    "isoDate": "2026-03-20T15:05:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/alpamayo.png/9dd921682bff2f1bce07591a929bd278/alpamayo.jpg",
     "pinned": false
   }
 ]
