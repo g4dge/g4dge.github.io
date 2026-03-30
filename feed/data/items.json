@@ -1,5 +1,110 @@
 [
   {
+    "id": "59b071949e80348559a74e5810219cf8f64eec3c",
+    "title": "Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/citrix_netscaler_flaw/",
+    "summary": "<h4>Researchers say attackers are already looting vulnerable boxes</h4> <p>In-the-wild exploitation of a critical Citrix NetScaler bug has begun less than a week after disclosure, with researchers warning that attackers are already poking and pillaging vulnerable boxes.…</p>",
+    "isoDate": "2026-03-30T13:49:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2ac9034f9d2efc4a47eba0d7bf0a78e15d4e1a6f",
+    "title": "Trump convenes \"God Squad\" to override Endangered Species Act, up oil production",
+    "link": "https://arstechnica.com/tech-policy/2026/03/trump-convenes-god-squad-to-override-endangered-species-act-up-oil-production/",
+    "summary": "Administration wants to exempt all federally regulated offshore oil from protections.",
+    "isoDate": "2026-03-30T13:30:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kiley Price, Inside Climate News",
+    "tags": [
+      "Policy",
+      "endangered species act",
+      "energy policy",
+      "gulf of mexico",
+      "Oil drilling"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/GettyImages-526100006-scaled-500x500-1774877262.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1bb9e9f2dc8d022a1b2078df81a4d2945636e517",
+    "title": "New Tesla Patent Doubles Steer-by-Wire Rotational Range",
+    "link": "https://www.notateslaapp.com/news/3861/new-tesla-patent-doubles-steer-by-wire-rotational-range",
+    "summary": "Tesla recently published a patent for a new multi-turn steering feedback actuator. Here is how the new steer-by-wire hardware expands steering rotation.&hellip; <a href=\"https://www.notateslaapp.com/news/3861/new-tesla-patent-doubles-steer-by-wire-rotational-range\">Read More</a>",
+    "isoDate": "2026-03-30T13:11:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/steering_patent_o-rings.png/cf57a53b9ffaa08b72586400ce04a7b7/steering_patent_o-rings.jpg",
+    "pinned": false
+  },
+  {
+    "id": "49066573dbd4399cd1b06ce39a7cca85ecce43f2",
+    "title": "South Korea's Rebellions raises $400B to take rack-scale AI platform global",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/rebellions_ai_rackscale/",
+    "summary": "<h4>Funding round comes ahead of planned IPO</h4> <p>SK Telecom-backed AI chip startup Rebellions has raised $400 million in a pre-IPO funding round to support its global expansion with a new rack-scale compute platform aimed at enterprises and sovereign clouds.…</p>",
+    "isoDate": "2026-03-30T13:01:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2237d155b58918a868a6e2294120ebc6f420fb07",
+    "title": "What happened to Amelia Earhart? New book takes on the case.",
+    "link": "https://arstechnica.com/science/2026/03/what-happened-to-amelia-earhart-new-book-takes-on-the-case/",
+    "summary": "Rachel Hartigan on her new book, <em>Lost: Amelia Earhart's Three Mysterious Deaths and One Extraordinary Life</em>.",
+    "isoDate": "2026-03-30T12:31:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "Science",
+      "Amelia Earhart",
+      "aviation history",
+      "books",
+      "historical mysteries",
+      "History"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ameliaTOP-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7cb7aaa1a18a820caa9b8187f04bce5676f4a96f",
+    "title": "Microsoft Fabric Database Hub only a 'partial' solution for admins",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/microsoft_fabric_database_hub_partial_solution/",
+    "summary": "<h4>Could help break silos, but users should take wait-and-see approach to system limited to Microsoft DBs and DBaaS</h4> <p>Microsoft's new Fabric Database Hub is a \"partial solution\" for enterprises relying on systems outside the vendor's portfolio, but within these confines, it could make databases more connected and manageable, say analysts reacting to <a href=\"https://www.theregister.com/2026/03/18/microsoft_fabric_latest/\" target=\"_blank\">the news</a>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-30T12:23:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "517b73eb5017a38bf80f0f9556472cc277018f8d",
+    "title": "Microsoft yanks Windows 11 preview update after install failures",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/microsoft_faulty_windows_update/",
+    "summary": "<h4>KB5079391 pulled after some devices hit errors, adding to recent quality woes</h4> <p>Microsoft has halted the rollout of a Windows update after some users encountered installation errors.…</p>",
+    "isoDate": "2026-03-30T11:44:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "adb846c336e2205f7af5a44cdd148496d5f14e6f",
     "title": "Humanoid robots one tiny step closer to exterminating autoworkers' jobs",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/humanoid_automotive_robots/",
@@ -417,7 +522,7 @@
     "id": "d09bd35c080afb9dfd77ec8231dbf66832ddfaab",
     "title": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
     "link": "https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/",
-    "summary": "Raw Farm denies link to illnesses while patients keep identifying its products.",
+    "summary": "Raw Farm denies link to illnesses, while patients keep identifying its products.",
     "isoDate": "2026-03-27T21:43:00Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -743,35 +848,6 @@
     "pinned": false
   },
   {
-    "id": "4e28440cbd8fb3916712b61d3282d698120a500a",
-    "title": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
-    "link": "https://arstechnica.com/space/2026/03/rocket-report-russian-megaconstellation-takes-off-isar-preps-for-second-launch/",
-    "summary": "The US Space Force might move additional payloads off of ULA's grounded Vulcan rocket.",
-    "isoDate": "2026-03-27T12:35:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "artemis",
-      "artemis II",
-      "falcon 9",
-      "isar aerospace",
-      "launch",
-      "NASA",
-      "nuclear propulsion",
-      "rocket report",
-      "space launch system",
-      "spacex",
-      "united launch alliance",
-      "US Space Force",
-      "vulcan"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "708981615c67988158656edc6a1b8f2602d02167",
     "title": "AFC Ajax drops ball as flaws let hackers play admin with tickets and bans",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/afc_ajax_drops_ball_as/",
@@ -955,21 +1031,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "03d8f54071bd648566772670c76c8bc4b4aafacc",
-    "title": "Elon Musk loses big in court; X boycott perfectly legal",
-    "link": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
-    "summary": "X admonished for \"fishing expedition\" as judge dismisses ad boycott lawsuit.",
-    "isoDate": "2026-03-26T21:50:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1244262469-2-500x500-1774560028.jpg",
     "pinned": false
   },
   {
@@ -1272,58 +1333,6 @@
     "pinned": false
   },
   {
-    "id": "ca30bef6718f93b42f05079b6d42751d697243e0",
-    "title": "Jen Easterly, cybersecurity's 'relentless optimist,' hopes feds come back to RSAC next year",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jen_easterly_interview/",
-    "summary": "<h4>Ex-CISA boss also says no reason to panic about AI and security</h4> <p><strong>RSAC 2026</strong>  \"Everybody feels massive FOMO if they don't get to RSAC,\" Jen Easterly says.…</p>",
-    "isoDate": "2026-03-25T19:39:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d5fb950c396a0d29d14a315c77d97ffa2a19cfaa",
-    "title": "Only Trump can decide when cyberwar turns into real war",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/whats_scarier_than_a_swarm/",
-    "summary": "<h4>Four former NSA bosses walk onto the stage at RSAC…</h4> <p><strong>rsac 2026</strong>  There's a theoretical red line with cyber warfare. Cross it, and the US will respond with a physical attack like missile strikes. And that line \"is whatever the President says it is,\" according to former NSA boss retired General Paul Nakasone.…</p>",
-    "isoDate": "2026-03-25T18:55:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "eb5854caab503d56a54dd7d25e79ec8f978dd1b0",
-    "title": "Meta cuts about 700 jobs as it shifts spending to AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/meta_cuts_700/",
-    "summary": "<h4>Forget the metaverse</h4> <p>Meta has begun laying off employees as it focuses more of its cash on building out datacenters, training its own large language models, and recruiting talent for AI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-25T18:27:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a32587831c7d7e5e3679c5a30595468c07d49507",
-    "title": "Oracle: AI agents can reason, decide and act - liability question remains",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/oracles_apps_and_agents_push/",
-    "summary": "<h4>Fusion Agentic Applications promise autonomous enterprise decisions. Gartner urges caution</h4> <p>Oracle says it's building a suite of AI agents into its cloud-based enterprise applications, claiming they can make and execute decisions autonmomously within business processes. But analysts are urging caution given unresolved questions around data integration and liability.…</p>",
-    "isoDate": "2026-03-25T17:47:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "d065e2347b860abe84d7a32d9d3fa4ab4567f167",
     "title": "Elon Musk Teases New Tesla SUV: 'Way Cooler Than a Minivan'",
     "link": "https://www.notateslaapp.com/news/3852/elon-musk-teases-new-tesla-suv-way-cooler-than-a-minivan",
@@ -1534,19 +1543,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-v11.3-1.jpg/812d6091aaf23e44d73de4be9e85e484/fsd-beta-v11.3-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cf8255c8cf1e8c4474148b10abe50e2a221d6a42",
-    "title": "Starlink Hits 10,000 Satellites, SpaceX Now Owns 67% of Satellites in Orbit",
-    "link": "https://www.notateslaapp.com/news/3839/starlink-hits-10000-satellites-spacex-now-owns-67-of-satellites-in-orbit",
-    "summary": "SpaceX has officially crossed 10,000 active Starlink satellites in orbit, meaning the company now controls over 66% of all active satellites around Earth.&hellip; <a href=\"https://www.notateslaapp.com/news/3839/starlink-hits-10000-satellites-spacex-now-owns-67-of-satellites-in-orbit\">Read More</a>",
-    "isoDate": "2026-03-23T13:44:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-7.webp/327e41e38519e2073653079347cfe373/spacex-7.jpg",
     "pinned": false
   }
 ]
