@@ -1,5 +1,57 @@
 [
   {
+    "id": "a2903235661dc37e255de29e225b2bc0744ca205",
+    "title": "UK fines Irish Apple outpost over sanctions-busting payments to Russian dev",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/apple_fine_russia_sanctions/",
+    "summary": "<h4>Regulator says payments totaling £635K reached entity owned and controlled by a designated person</h4> <p>The UK government has fined an Apple subsidiary £390,000 for breaching sanctions on Russia after it sent more than £600,000 to a developer linked to a designated entity.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-30T15:09:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "29de2b9c0000d2ec2b400f87b9351ac2333ed0bc",
+    "title": "New AI Breakthrough May Bring Full FSD V14 to Tesla’s HW3 Vehicles",
+    "link": "https://www.notateslaapp.com/news/3856/new-ai-breakthrough-may-bring-full-fsd-v14-to-teslas-hw3-vehicles",
+    "summary": "NVIDIA recently figured out how to shrink AI memory usage by 20x without altering model weights. Tesla could use similar tech to fit FSD v14 onto HW3.&hellip; <a href=\"https://www.notateslaapp.com/news/3856/new-ai-breakthrough-may-bring-full-fsd-v14-to-teslas-hw3-vehicles\">Read More</a>",
+    "isoDate": "2026-03-30T15:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/fsd-hardware-chips.webp/cc162cc4e3f8537a3b7862663c5d9a6b/fsd-hardware-chips.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fd4b6a279554cc26fa026c54d2efb2c15f7c493d",
+    "title": "SAP looking to pull more external data into its AI platform with Reltio acquisition",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/sap_reltio/",
+    "summary": "<h4>Merger positioned to boost appeal of ERP giant's Business Data Cloud</h4> <p>SAP is to acquire master data management and data integration specialist Reltio with the promise of helping integrate data from outside the vendor's broad application portfolio into its AI platform.…</p>",
+    "isoDate": "2026-03-30T14:36:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4b816653bff2af17283f8761366863324e1a3633",
+    "title": "Wall Street Analyst Predicts Tesla & SpaceX Will Merge by 2027",
+    "link": "https://www.notateslaapp.com/news/3873/wall-street-analyst-predicts-tesla-spacex-will-merge-by-2027",
+    "summary": "Wedbush analyst Dan Ives predicts a merger between Tesla and SpaceX by 2027, noting that the Terafab project is the first step toward a unified AI empire.&hellip; <a href=\"https://www.notateslaapp.com/news/3873/wall-street-analyst-predicts-tesla-spacex-will-merge-by-2027\">Read More</a>",
+    "isoDate": "2026-03-30T14:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/mass-driver-1.webp/6375da5c1b253bd534da8a63de038d01/mass-driver-1.jpg",
+    "pinned": false
+  },
+  {
     "id": "59b071949e80348559a74e5810219cf8f64eec3c",
     "title": "Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/citrix_netscaler_flaw/",
@@ -46,9 +98,9 @@
   },
   {
     "id": "49066573dbd4399cd1b06ce39a7cca85ecce43f2",
-    "title": "South Korea's Rebellions raises $400B to take rack-scale AI platform global",
+    "title": "South Korean AI chip startup Rebellions eyes new shores for rack-scale invasion",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/rebellions_ai_rackscale/",
-    "summary": "<h4>Funding round comes ahead of planned IPO</h4> <p>SK Telecom-backed AI chip startup Rebellions has raised $400 million in a pre-IPO funding round to support its global expansion with a new rack-scale compute platform aimed at enterprises and sovereign clouds.…</p>",
+    "summary": "<h4>Funding round comes ahead of planned IPO</h4> <p>GPU-makers like Nvidia and AMD may dominate the AI infrastructure market, but there are still more than a few AI chip startups knocking around.…</p>",
     "isoDate": "2026-03-30T13:01:07Z",
     "source": "The Register",
     "category": "Tech",
@@ -559,7 +611,7 @@
     "id": "609d0344d1268e6bccb16e51280c8400a3395565",
     "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
     "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
-    "summary": "Big Tech declaring AV1 royalty-free “doesn't mean that it is.\"",
+    "summary": "Big Tech declaring AV1 royalty-free “doesn't mean that it is,\" critic says.",
     "isoDate": "2026-03-27T20:31:21Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -1307,32 +1359,6 @@
     "pinned": false
   },
   {
-    "id": "8719e6fb22d48d951ff9742669a494ae44c2772a",
-    "title": "AI supply chain attacks don’t even require malware…just post poisoned documentation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/",
-    "summary": "<h4>A proof-of-concept attack on Context Hub suggests there's not much content santization</h4> <p>A new service that helps coding agents stay up to date on their API calls could be dialing in a massive supply chain vulnerability.…</p>",
-    "isoDate": "2026-03-25T20:50:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b91a805856b62bf313b7abda3e4817329e67ad58",
-    "title": "Scammers have virtual smartphones on speed dial for fraud",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/virtual_smartphones_fraud/",
-    "summary": "<h4>They cleverly mimic most traits of a real phone</h4> <p>Smartphones have fast become the basis of our digital identities, securing payment systems and bank accounts. Now virtual devices that pretend to be real handsets have become a key tool for financial scammers, according to one company. …</p>",
-    "isoDate": "2026-03-25T20:25:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "d065e2347b860abe84d7a32d9d3fa4ab4567f167",
     "title": "Elon Musk Teases New Tesla SUV: 'Way Cooler Than a Minivan'",
     "link": "https://www.notateslaapp.com/news/3852/elon-musk-teases-new-tesla-suv-way-cooler-than-a-minivan",
@@ -1517,32 +1543,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-giga-texas-2.webp/fd30487c30a5599299465b34f015cd7f/model-y-l-giga-texas-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "553d58319d90ebfd2372a8e722a7fa89b9e4dc71",
-    "title": "Tesla Asks Colorado Court to Dismiss Autopilot Lawsuit, Citing Drunk Driving and Inactive FSD",
-    "link": "https://www.notateslaapp.com/news/3838/tesla-asks-colorado-court-to-dismiss-autopilot-lawsuit-citing-drunk-driving-and-inactive-fsd",
-    "summary": "Tesla has filed a motion to dismiss a Colorado wrongful death lawsuit, presenting vehicle data that proves FSD was off and the driver was heavily intoxicated.&hellip; <a href=\"https://www.notateslaapp.com/news/3838/tesla-asks-colorado-court-to-dismiss-autopilot-lawsuit-citing-drunk-driving-and-inactive-fsd\">Read More</a>",
-    "isoDate": "2026-03-23T15:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/model3_37.jpg/cc7eff5a5aee682f3aceefd1733872ee/model3_37.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9907ba43136d9f10f68fc0e6e4e5f956d805c615",
-    "title": "Netherlands Authority Confirms Tesla FSD Is in Final Approval Stage",
-    "link": "https://www.notateslaapp.com/news/3833/netherlands-authority-confirms-tesla-fsd-is-in-final-approval-stage",
-    "summary": "Tesla and the RDW have completed the final testing phase for FSD (Supervised) in Europe. The expected approval date for the Netherlands is now April 10.&hellip; <a href=\"https://www.notateslaapp.com/news/3833/netherlands-authority-confirms-tesla-fsd-is-in-final-approval-stage\">Read More</a>",
-    "isoDate": "2026-03-23T14:05:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/fsd-beta-v11.3-1.jpg/812d6091aaf23e44d73de4be9e85e484/fsd-beta-v11.3-1.jpg",
     "pinned": false
   }
 ]
