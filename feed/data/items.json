@@ -1,5 +1,87 @@
 [
   {
+    "id": "ce1d9b456528f3701e3d616436e8272539c71622",
+    "title": "This is my third Orion launch, but it feels totally different",
+    "link": "https://arstechnica.com/space/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/",
+    "summary": "The first two launches of Orion felt hollow, but NASA is finally on a better course.",
+    "isoDate": "2026-03-31T17:09:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "artemis I",
+      "artemis II",
+      "Gateway",
+      "jared isaacman",
+      "NASA",
+      "orion",
+      "sls",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/55165944221_60d35d49b5_k-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1153598319c39ac108b72b30e5542131d0bd273c",
+    "title": "Anthropic goes nude, exposes Claude Code source by accident",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/anthropic_claude_code_source_code/",
+    "summary": "<h4>Oopsy-doodle: Did someone forget to check their build pipeline?</h4> <p>Would you like a closer look at Claude? Someone at Anthropic has some explaining to do, as the official npm package for Claude Code shipped with a map file exposing what appears to be the popular AI coding tool's entire source code.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-31T17:02:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "44184c41739d41446ac03d66312171beeb5af433",
+    "title": "Leaked memo suggests Red Hat's chugging the AI Kool-Aid",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/red_hat_ai_dev/",
+    "summary": "<h4>Sounds like an excellent time to start honing your Debian skills</h4> <p><strong>Exclusive</strong>  An internal memo dispatched by senior execs at Red Hat suggests the software biz is starting to push AI tooling within its Global Engineering department. RHEL may be about to get some Windows 11-style \"improvements.\"…</p>",
+    "isoDate": "2026-03-31T16:15:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "296d8a8b53b89e24859db65d6c10d34f22969b83",
+    "title": "UK watchdog targets Microsoft licensing in cloud competition probe",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/microsoft_cma_probe/",
+    "summary": "<h4>CMA to assess whether the company's terms unfairly favor Azure over rival platforms</h4> <p>The UK's competition watchdog will investigate Microsoft's business software ecosystem over concerns that its licensing policies reduce competition in the cloud market.…</p>",
+    "isoDate": "2026-03-31T16:12:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4070b45b1985f3eb8622814919beb55963195db4",
+    "title": "Costco sued for seeking refunds on tariffs customers paid",
+    "link": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
+    "summary": "Proposed class action accuses Costco of unjust enrichment.",
+    "isoDate": "2026-03-31T16:09:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "Costco",
+      "Donald Trump",
+      "ieepa tariffs",
+      "tariff refunds",
+      "tariffs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-855684128-500x500-1774971182.jpg",
+    "pinned": false
+  },
+  {
     "id": "4102d82bf81f23e87c26445f9285b260db6cf060",
     "title": "Mars coughs up another maybe-life clue in the form of nickel compounds",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/nickel_found_on_mars/",
@@ -1022,50 +1104,6 @@
     "pinned": false
   },
   {
-    "id": "ac1eb25710e2e4e9c00e136477cf0b138ef49f1f",
-    "title": "Playing Wolfenstein 3D with one hand in 2026",
-    "link": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
-    "summary": "Over three decades later, this historical curiosity has more than a few rough edges",
-    "isoDate": "2026-03-27T22:09:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "first-person shooter",
-      "fps",
-      "id Software",
-      "pc",
-      "retro",
-      "wolfenstein 3d"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1-500x500-1774646731.jpg",
-    "pinned": false
-  },
-  {
-    "id": "92fd1659b223a67e6249ec3a3035b7c3ea8ca7b0",
-    "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
-    "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
-    "summary": "Things are moving fast, and competitors have offered something similar for a while.",
-    "isoDate": "2026-03-27T21:53:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "Claude Code",
-      "Codex",
-      "LLM",
-      "MCP",
-      "openai",
-      "plugins",
-      "skills"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/codex-plugins-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "554e390f8ccf27cb9227a80c6fc28d704f827649",
     "title": "Microsoft takes up residence next to OpenAI, Oracle at Crusoe's 900 MW Texas datacenter expansion",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/microsoft_ai_crusoe/",
@@ -1278,58 +1316,6 @@
     "pinned": false
   },
   {
-    "id": "5f296923bf083ffd49d215f3b13eecd73811555f",
-    "title": "Engineer sabotaged hardware then complained when it didn't work",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/on_call/",
-    "summary": "<h4>The 600 km drive to fix the mess was a special treat</h4> <p><strong>On Call</strong>  Every week is special in its own way, and <i>The Register</i> celebrates that fact by using Friday mornings to deliver a fresh installment of On Call, our weekly reader-contributed column that shares your memories of managing IT messes someone else made.…</p>",
-    "isoDate": "2026-03-27T07:30:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "565bb004729680506f13a25304f41e64c38c90f4",
-    "title": "Security boffins scoured the web and found hundreds of valid API keys",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/security_boffins_harvest_bumper_crop/",
-    "summary": "<h4>Global bank's devs have some cleaning up to do after cloud creds found in website code</h4> <p>Computer security boffins have conducted an analysis of 10 million websites and found almost 2,000 API credentials strewn across 10,000 webpages.…</p>",
-    "isoDate": "2026-03-27T07:04:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ae0446b5bdb7e1377724e2f1dae1bb6c6a561cc1",
-    "title": "India's space program can't spend money fast enough, putting missions in peril",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/india_space_program_report/",
-    "summary": "<h4>Satnav systems aren't well, IP is being sold too cheap, and thousands of roles remain open</h4> <p>India’s space program has thousands of vacant roles it’s struggled to fill, isn’t spending money fast enough to meet its mission timelines, and may be undervaluing intellectual property it sells to the private sector.…</p>",
-    "isoDate": "2026-03-27T04:42:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "83192b517881feb1268942b45a7de7e1bbc7f251",
-    "title": "China's not thrilled its AI experts want to leave the country",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/china_ai_regulation/",
-    "summary": "<h4>Urges scientists to avoid major conference, and looks unkindly on Meta's Manus acquisition</h4> <p>China appears to be unhappy about its brightest AI talent going offshore, either to visit or to sell their wares.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-27T01:41:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "b14ed901c71405c638d44e292e7c2028b66e07c5",
     "title": "Tesla Releases Q1 2026 Delivery Estimates From Analysts",
     "link": "https://www.notateslaapp.com/news/3859/tesla-releases-q1-2026-delivery-estimates-from-analysts",
@@ -1514,19 +1500,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c61cb96c5e1027c035e384058bca5c960288d2a4",
-    "title": "Understanding SpaceX's Lunar Mass Driver: What It Is and How It Works [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/3845/understanding-spacexs-lunar-mass-driver-what-it-is-and-how-it-works-video",
-    "summary": "A deep dive into what exactly Elon Musk envisions with his Lunar Mass Driver concept, and how it will change the face of&hellip; <a href=\"https://www.notateslaapp.com/news/3845/understanding-spacexs-lunar-mass-driver-what-it-is-and-how-it-works-video\">Read More</a>",
-    "isoDate": "2026-03-24T15:37:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/mass-driver-1.webp/6375da5c1b253bd534da8a63de038d01/mass-driver-1.jpg",
     "pinned": false
   }
 ]
