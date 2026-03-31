@@ -1,5 +1,57 @@
 [
   {
+    "id": "9c65e6c3bc789019e7766c0b246af31e255554ad",
+    "title": "Usage pricing leaving software vendors guessing what lands on the invoice",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/usagebased_billing_muddles_software_vendor_pricing/",
+    "summary": "<h4>'Converting AI capability into sustainable, auditable revenue remains a challenge' says PwC survey</h4> <p>Software companies are leaving money on the table because their core financial systems haven't kept pace with the way they sell pay-per-use services, which often now incorporate AI capabilities.…</p>",
+    "isoDate": "2026-03-31T11:00:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "70cac4340e60719365613c53f916db1635d1c158",
+    "title": "Supply chain blast: Top npm package backdoored to drop dirty RAT on dev machines",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/axios_npm_backdoor_rat/",
+    "summary": "<h4>Hijacked maintainer account let attackers slip cross-platform trojan into 100M-downloads-a-week Axios</h4> <p>One of npm's most widely used HTTP client libraries briefly became a malware delivery vehicle after attackers hijacked a maintainer's account and slipped a remote-access trojan (RAT) into two seemingly legitimate axios releases, in what's being <a href=\"https://www.aikido.dev/blog/axios-npm-compromised-maintainer-hijacked-rat\" rel=\"nofollow\" target=\"_blank\">described</a> as \"one of the most impactful npm supply chain attacks on record.\"…</p>",
+    "isoDate": "2026-03-31T10:29:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f0bbdd3844cc794edbe06fef9c5d69168e0ebb1f",
+    "title": "Banking beyond the law",
+    "link": "https://aeon.co/essays/the-underground-bankers-who-reshape-the-flow-of-global-money?utm_source=rss-feed",
+    "summary": "<p><img alt=\"Men sitting cross-legged on a rug on the floor at a money exchange, one on a phone, exchanging currency; exchange rate board on wall.\" src=\"https://images.aeonmedia.co/images/91f5f191-d18f-48c2-a208-4b436ffd9e27/essay-terrorlaunder2.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>A centuries-old network of secret codes and shadowy brokers continues to outpace financial systems controlled by the state</p><p><em>- by Miles Kellerman</em></p><p><a href=\"https://aeon.co/essays/the-underground-bankers-who-reshape-the-flow-of-global-money?utm_source=rss-feed\">Read on Aeon</a></p>",
+    "isoDate": "2026-03-31T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Miles Kellerman",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3f62515722de7bc84e195d6b7653797ec9c66d6e",
+    "title": "Android keyboard ditches keys entirely, predicts what you mean",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/taptype_android_touch_keyboard/",
+    "summary": "<h4>Aimed at blind tablet users, although it's winning sighted fans too</h4> <p>TapType is a new Android keyboard that's invisible. You can't see it – but that's OK, neither can its developer nor some of its target users.…</p>",
+    "isoDate": "2026-03-31T09:27:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "d605ab76dae8dc62ff13b600cc644eb735cd85d6",
     "title": "From the archives: Skeptics and Scoffers – making sense… or making fun?",
     "link": "https://www.skeptic.org.uk/2026/03/from-the-archives-skeptics-and-scoffers-making-sense-or-making-fun/",
@@ -1281,19 +1333,6 @@
     "pinned": false
   },
   {
-    "id": "31601b9bbf0a06393a148f8de89b69d5ab9588d9",
-    "title": "Staff too scared of the AI axe to pick it up, Forrester finds",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/workplace_ai_forrester/",
-    "summary": "<h4>Your AI rollout isn't failing – your employees just hate it</h4> <p>If your company isn't seeing great returns from its investment in AI, you might want to look at the humans tasked with deploying it and how you can motivate them. Right now, many employees fear AI-driven job losses and aren't well trained to use the tech, according to Forrester.…</p>",
-    "isoDate": "2026-03-26T16:33:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "3f65e7e7d46800f5bb6d5ba44b2541e496d732c5",
     "title": "Tesla Optimus Gains Human-Like Hands as Gen 3 Reveal Nears",
     "link": "https://www.notateslaapp.com/news/3855/tesla-optimus-gains-human-like-hands-as-gen-3-reveal-nears",
@@ -1304,32 +1343,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-1.webp/5eda2cf04bea6526acda329d6188bfc1/optimus-human-hands-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "35f654df79685fed4e18fe0f1284db71b4576d56",
-    "title": "Linear moves sideways to agentic AI as CEO declares issue tracking dead",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/linear_agent/",
-    "summary": "<h4>Agent will capture issues and eventually debug code</h4> <p>The Linear cloudy issue tracker and project manager has introduced an AI agent and plans to add AI coding assistance, with CEO and co-founder Karri Saarinen declaring that \"issue tracking is dead.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-26T14:32:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "393b7293daf4548976ffe73ba0aadf0ef0516fd4",
-    "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
-    "summary": "<h4>Greg Kroah-Hartman can't explain the inflection point, but it's not slowing down or going away</h4> <p><strong>Interview</strong>  I was at a press luncheon at KubeCon Europe this week when, to my surprise, who should sit down next to me but long-term Linux kernel maintainer Greg Kroah-Hartman. Greg, who lives in the Netherlands these days, was there to briefly comment on AI, Linux, and security. We spoke about how, over the last month, AI-driven activity around Linux security and code review has \"really jumped\" in a way no one in the open source world saw coming.…</p>",
-    "isoDate": "2026-03-26T13:40:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Steven J. Vaughan-Nichols",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1530,19 +1543,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-new-interior-door-handle-1.webp/3cd261e6dd2405f4220238cbfeb75e8b/cybercab-new-interior-door-handle-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "80506c1d951b54cb5ef1aeb8ff60f37082f61bd3",
-    "title": "The clock in our genes",
-    "link": "https://aeon.co/essays/far-from-junk-the-clock-in-our-dna-and-its-discoverer?utm_source=rss-feed",
-    "summary": "<p><img alt=\"Microscope slides with various textures and markings, some labelled, with a yellow hue on the right side.\" src=\"https://images.aeonmedia.co/images/4610247b-cc47-4a60-ba35-9b43d11c362e/lightbox-essay-foe_negatives_lightbox.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The biologist Victoria Foe discovered a timing device in ‘junk’ DNA that could unlock the evolution of complex life</p><p><em>- by Beatrice Steinert</em></p><p><a href=\"https://aeon.co/essays/far-from-junk-the-clock-in-our-dna-and-its-discoverer?utm_source=rss-feed\">Read on Aeon</a></p>",
-    "isoDate": "2026-03-24T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Beatrice Steinert",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
