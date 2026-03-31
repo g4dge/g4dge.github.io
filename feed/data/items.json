@@ -1,14 +1,145 @@
 [
   {
-    "id": "ce1d9b456528f3701e3d616436e8272539c71622",
+    "id": "942d9711d1d11f0f4f6221258e456d1aac455f3c",
+    "title": "Iran targets M365 accounts with password-spraying attacks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/iran_password_spraying_m365/",
+    "summary": "<h4>Researchers say some targets correlate with cities hit by Iranian missile strikes</h4> <p>Suspected Iran-linked threat actors are conducting password-spraying attacks against hundreds of organizations, primarily Middle Eastern municipalities, in campaigns that security researchers believe may have been aimed at supporting bomb-damage assessment following missile strikes.…</p>",
+    "isoDate": "2026-03-31T19:09:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "454db9d13106000d531434d00080cad3b246cc2b",
+    "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
+    "link": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+    "summary": "512,000 lines of code that competitors and hobbyists will be studying for weeks.",
+    "isoDate": "2026-03-31T19:09:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude Code",
+      "cli",
+      "GitHub",
+      "map file",
+      "repo",
+      "repository",
+      "source code",
+      "typescript"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-500x500-1774983656.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f0539d189729b914bd88c1785f88f8d5e4bdcf76",
+    "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+    "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+    "summary": "No, the sky isn't falling, but Q Day <em>is</em> coming, and it won't be as expensive as thought.",
+    "isoDate": "2026-03-31T18:25:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "elliptic curve cryptography",
+      "neutral atoms",
+      "quantum computing"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a3a2e1aabdd998e91ddd60bc63c0400048a50dd2",
+    "title": "Tesla Delays Optimus Gen 3 Unveil for 'Finishing Touches'",
+    "link": "https://www.notateslaapp.com/news/3884/tesla-delays-optimus-gen-3-unveil-for-finishing-touches",
+    "summary": "Tesla was originally expected to end Q1 2026 with a bang, but it looks like fans will have to wait just a bit longer to see the future of humanoid robotics&hellip; <a href=\"https://www.notateslaapp.com/news/3884/tesla-delays-optimus-gen-3-unveil-for-finishing-touches\">Read More</a>",
+    "isoDate": "2026-03-31T18:06:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-2.webp/33dcaf6b89878453a59f0426bc1c60b0/optimus-human-hands-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "349dcedaab09115e6b96bedb0f14efcf5a3639ec",
+    "title": "You can finally change the goofy Gmail address you chose years ago",
+    "link": "https://arstechnica.com/gadgets/2026/03/you-can-finally-change-the-goofy-gmail-address-you-chose-years-ago/",
+    "summary": "All your data remains intact, and you can go back to your original address at any time.",
+    "isoDate": "2026-03-31T17:55:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "gmail",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/gmail-app-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d2266e0d8a975d6630534b5b59e227b6b30977b1",
+    "title": "Oracle cuts jobs across sales, engineering, security",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/oracle_cuts_jobs/",
+    "summary": "<h4>Big Red declines comment as reports point to layoffs in the thousands</h4> <p>Oracle laid off thousands of employees on Tuesday as it ramps spending on AI infrastructure projects internally and with major technology partners.…</p>",
+    "isoDate": "2026-03-31T17:42:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d9624ac75363606058e3a09580c0f57b30c068ad",
+    "title": "OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says",
+    "link": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+    "summary": "OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty.",
+    "isoDate": "2026-03-31T17:33:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "match",
+      "OKCupid"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/okcupid-500x500-1774975682.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0abdf19b051b7fa104893a3dac41adb886fd9081",
+    "title": "Tesla Warns Owners Against Using FSD Jailbreaking Devices",
+    "link": "https://www.notateslaapp.com/news/3883/tesla-warns-owners-against-jailbreaking-vehicles-to-enable-fsd",
+    "summary": "Tesla is taking a hard stance against a growing trend of 'jailbreaking' its vehicles to enable Full Self-Driving in regions where it isn’t available&hellip; <a href=\"https://www.notateslaapp.com/news/3883/tesla-warns-owners-against-jailbreaking-vehicles-to-enable-fsd\">Read More</a>",
+    "isoDate": "2026-03-31T17:11:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/134.jpeg/19bf57bded25480d080a47ddeeb46195/134.jpg",
+    "pinned": false
+  },
+  {
+    "id": "70bc7e41afebb36ea3468e612ac1e8e7e52fe904",
     "title": "This is my third Orion launch, but it feels totally different",
-    "link": "https://arstechnica.com/space/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/",
+    "link": "https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/",
     "summary": "The first two launches of Orion felt hollow, but NASA is finally on a better course.",
     "isoDate": "2026-03-31T17:09:31Z",
     "source": "Ars Technica",
     "category": "Tech",
     "author": "Eric Berger",
     "tags": [
+      "Features",
       "Space",
       "artemis I",
       "artemis II",
@@ -936,24 +1067,6 @@
     "pinned": false
   },
   {
-    "id": "72ffbdd200db0c7a665240ce0a948f127e57579a",
-    "title": "Polygraphs have major flaws. Are there better options?",
-    "link": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
-    "summary": "Research proceeds on alternatives, but some doubt whether true lie detection is possible.",
-    "isoDate": "2026-03-29T11:01:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Sarah Scoles, Undark Magazine",
-    "tags": [
-      "Science",
-      "polygraph",
-      "syndication",
-      "undark"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/liedetector-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b4e1b93903a49d7bf3c196274cd12c34536d53ea",
     "title": "Bees and hummingbirds aren't just buzzing – they're sipping trace booze",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/29/bees_hummingbirds_alcohol/",
@@ -1029,65 +1142,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/next-gen-car/tesla-cybersuv-minivan-concept-1.webp/97e44598ef3a89c2f002a74535b667b2/tesla-cybersuv-minivan-concept-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7cd0a593e9d225b0f813d40b46adbaa2e19103c9",
-    "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
-    "link": "https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/",
-    "summary": "Breathing capacity could have compensated for lower atmospheric oxygen.",
-    "isoDate": "2026-03-28T12:30:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "Biology",
-      "breathing",
-      "insects",
-      "metabolism",
-      "physiology",
-      "trachea"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1471125296-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "092c7d1530933b71bcca3e454e22b60ba8d03457",
-    "title": "Causality optional? Testing the \"indefinite causal order\" superposition",
-    "link": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
-    "summary": "A quantum experiment shows that we can formally test if the order of events matters.",
-    "isoDate": "2026-03-28T12:00:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "causality",
-      "Physics",
-      "quantum mechanics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2015/10/ligo-laser.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ff4298fb648f965eb1f2523ffa592d58d67c7d86",
-    "title": "How new fishing tech can reduce bycatch of turtles and other creatures",
-    "link": "https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/",
-    "summary": "Specially equipped nets can help save some species, while allowing fisherman to still catch others.",
-    "isoDate": "2026-03-28T11:15:35Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Gennaro Tomma, Knowable Magazine",
-    "tags": [
-      "Science",
-      "deep sea fishing",
-      "fisheries",
-      "marine conservation",
-      "oceanography",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/seaturtle-500x500.jpg",
     "pinned": false
   },
   {
@@ -1262,19 +1316,6 @@
     "pinned": false
   },
   {
-    "id": "b1d795df99415dab82ae2f990c3ea0dc8a13e7ec",
-    "title": "Lloyds app glitch turned transactions into shared experience for 447k users",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/lloyds_app_glitch_turned_transactions/",
-    "summary": "<h4>A botched update mixed up transaction data across accounts, with thousands now receiving goodwill payouts</h4> <p>A botched overnight software update at Lloyds Banking Group left up to 447,000 customers briefly seeing other people's transactions in its mobile apps, with the bank now acknowledging the scale of the incident and compensating affected users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-27T10:18:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "c0e22adbb3607dbcc8cbb18f08e8edc3a667b084",
     "title": "The Starbucks ‘Sippy Lid’ and the marketing doublespeak of greenwashing",
     "link": "https://www.skeptic.org.uk/2026/03/the-starbucks-sippy-lid-and-the-marketing-doublespeak-of-greenwashing/",
@@ -1298,19 +1339,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Jamie L Pietruska",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "806c4694e311208035e43e417d80c5c2584b9747",
-    "title": "UK government admits Capita pension portal was crapita at launch",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/capita_pension_portal_pac/",
-    "summary": "<h4>PAC grilling reveals £239M bought a system that couldn't handle the work, the volumes, or placeholder text</h4> <p>A UK government official has admitted Capita did not reach the expected level of performance following the disastrous launch of the Civil Service Pension Scheme (CSPS) web portal late last year.…</p>",
-    "isoDate": "2026-03-27T09:30:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1472,34 +1500,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-s-x-order-deadline-south-korea.webp/ed2f4f1c9981fb045a8b1befa9d55d96/model-s-x-order-deadline-south-korea.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1520f7af8ed9dfcfc8783fb1bfe7ca90e4395d59",
-    "title": "Elon Musk’s Boring Company to Build Three New Tunnel Projects for Free",
-    "link": "https://www.notateslaapp.com/news/3848/elon-musks-boring-company-to-build-three-new-tunnel-projects-for-free",
-    "summary": "Following a nationwide search for new project sites, the company has identified three major U.S. cities that could soon see their own high-tech transit loops&hellip; <a href=\"https://www.notateslaapp.com/news/3848/elon-musks-boring-company-to-build-three-new-tunnel-projects-for-free\">Read More</a>",
-    "isoDate": "2026-03-24T19:02:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/boring-company-tunnel-tesla-vehicle.webp/53afe72ddb285f4b647c5503edc0b145/boring-company-tunnel-tesla-vehicle.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b2cfd47fd06910a4c5f275abfbda18f7871c7727",
-    "title": "From the archives: Ann Moore, The Fasting Woman of Tutbury",
-    "link": "https://www.skeptic.org.uk/2026/03/from-the-archives-ann-moore-the-fasting-woman-of-tutbury/",
-    "summary": "<p>From the archives in 1992, Tom Ruffles takes a closer look at the supposed nineteenth century ‘miracle’ of Ann Moore's fast</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/03/from-the-archives-ann-moore-the-fasting-woman-of-tutbury/\">From the archives: Ann Moore, The Fasting Woman of Tutbury</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-03-24T18:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Tom Ruffles",
-    "tags": [
-      "Archive"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
