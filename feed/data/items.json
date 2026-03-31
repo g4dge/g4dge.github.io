@@ -1,5 +1,92 @@
 [
   {
+    "id": "00012e0cbf024d2a5659ab859de3e01570d07964",
+    "title": "Raspberry Pi leans into semiconductors as sales climb – especially in US and China",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/raspberry_pi_fy_2025/",
+    "summary": "<h4>Chip shipments overtake boards and modules as industrial demand grows, raising questions about hobbyist roots</h4> <p>Raspberry Pi has reported impressive revenue and profit growth, but its hobbyist origins risk taking a backseat amid soaring semiconductor shipments.…</p>",
+    "isoDate": "2026-03-31T13:45:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e13567c13aa108a3c0789ba9bf78bd1f0f01aaf0",
+    "title": "Iran's hackers are on the offensive against the US and Israel",
+    "link": "https://arstechnica.com/security/2026/03/irans-hackers-are-on-the-offensive-against-the-us-and-israel/",
+    "summary": "Tehran hopes to stoke fear and extract intel in a series of cyber attacks.",
+    "isoDate": "2026-03-31T13:37:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacob Judah, Financial Times",
+    "tags": [
+      "Security",
+      "cybersecurity",
+      "hacking",
+      "USA-Iran War"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iranhax-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "14ece991cf4fd3626071b83e5b9dccee6d3ac3a3",
+    "title": "Arm says agentic AI needs a new kind of CPU. Intel's DC chief isn't buying it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/intel_arm_agi_cpu/",
+    "summary": "<h4>Cores it's got what agents crave</h4> <p><strong>Interview</strong>  In recent weeks, the likes of Nvidia and Arm have revealed CPUs designed expressly to run AI agents like OpenClaw.…</p>",
+    "isoDate": "2026-03-31T13:00:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7a0f86279b9f26b7e052aae32ea452f6bfd91bbe",
+    "title": "Tesla Loses Two Key Product Leaders",
+    "link": "https://www.notateslaapp.com/news/3880/tesla-loses-two-key-product-leaders",
+    "summary": "Tesla's Head of Product Jose del Corral and Retail Program Manager Ryan Torres have officially left the company.&hellip; <a href=\"https://www.notateslaapp.com/news/3880/tesla-loses-two-key-product-leaders\">Read More</a>",
+    "isoDate": "2026-03-31T12:49:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/performance/model-3-performance_38.jpg/c825fb1f2002b280aeb263242eb8f2f3/model-3-performance_38.jpg",
+    "pinned": false
+  },
+  {
+    "id": "931316c964470ce8146d53d2ef0ac543037719d4",
+    "title": "As electric truck demand craters, GM lays off workers and idles plant",
+    "link": "https://arstechnica.com/cars/2026/03/gm-idles-electric-truck-factory-lays-off-1300-workers-for-a-month/",
+    "summary": "Factory Zero went idle on March 16, workers expected to return April 13.",
+    "isoDate": "2026-03-31T12:28:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "EV adoption",
+      "General Motors"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2243494784-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "42abc4716e7d5a31c017d4f0055bb6f85f112ecb",
+    "title": "Ubuntu 26.04 beta arrives packing GNOME 50, which no longer supports Google Drive",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/ubuntu_2604_beta/",
+    "summary": "<h4>Yep, you read that right. And there's no official Linux client from Google</h4> <p>Canonical has just released the beta of the next Ubuntu LTS – but what's grabbed the attention of many is that it features GNOME 50 as its default desktop environment. And GNOME 50 <a href=\"https://discourse.gnome.org/t/google-drive-in-gnome-50/34417/2\" rel=\"nofollow\" target=\"_blank\">no longer supports Google Drive</a>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-03-31T12:20:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "02a94be0391861438281ba669d9306ded354d964",
     "title": "Anthropic admits Claude Code users hitting usage limits 'way faster than expected'",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
@@ -1016,46 +1103,6 @@
     "pinned": false
   },
   {
-    "id": "0bd7a104ab73bd95f81c572522f1780aa7e59d6c",
-    "title": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
-    "link": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
-    "summary": "Hackers claimed the attack was retaliation after Patel vowed to \"hunt\" them.",
-    "isoDate": "2026-03-27T16:24:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "email",
-      "fbi",
-      "Federal Bureau of Investigation",
-      "gmail",
-      "hackers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "44c692e99e424744b5788063134cd63a0bd223e4",
-    "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
-    "link": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
-    "summary": "Memory, storage shortages have made all kinds of consumer tech more expensive.",
-    "isoDate": "2026-03-27T15:57:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Gaming",
-      "Tech",
-      "PlayStation",
-      "playstation 5",
-      "ps5",
-      "Sony"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ps-logo-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "391c82311d0e621983365522305cdaf9fd02e403",
     "title": "Microsoft tells crusty old kernel drivers to get with the Windows Hardware Compatibility Program",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/microsoft_kernel_trust/",
@@ -1289,45 +1336,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Corey Quinn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1bef3a7fb024f98c57a65dbd4a56b58f67c90791",
-    "title": "AMD's new desktop CPU oozes cache out of all 16 cores",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/amd_crams_208mb_of_cache/",
-    "summary": "<h4>Turns out massive caches are good for more than games. House of Zen boasts 5-13% perf boost over prior-gen part</h4> <p>AMD aims to extend its lead in desktop gaming with a new CPU, dubbed the Ryzen 9 9950X3D2 Dual Edition. This top-of-the-line part has 16 cores fed by an absolutely massive 208 MB pool of cache, with memory spread across both CCDs.…</p>",
-    "isoDate": "2026-03-26T21:12:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "24e20513932dd745e66d2771e085edf16f3c8770",
-    "title": "'Empathetic' Salesforce bots to help those fired by uncaring humans",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/salesforce_bots_to_help_those/",
-    "summary": "<h4>I’m sorry, Dave. I can’t give you your job back, but here’s the form you fill out to collect benefits</h4> <p>There’s a joke in Boston that goes: the people in Southie will steal your wallet and help you look for it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-26T20:41:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "06815802c87f3325fc7119b32457aa009efcd98c",
-    "title": "Using AI to code does not mean your code is more secure",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/ai_coding_assistant_not_more_secure/",
-    "summary": "<h4>Use of AI coding assistants has surged, but so has the number of vulnerabilities in AI-generated code</h4> <p>As more people use AI tools to write code, the tools themselves are introducing more vulnerabilities.…</p>",
-    "isoDate": "2026-03-26T19:38:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
