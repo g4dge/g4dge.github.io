@@ -1,5 +1,85 @@
 [
   {
+    "id": "71b7cb828053889accd94f6866fc463bb04a19f7",
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "link": "https://arstechnica.com/science/2026/04/sweden-goes-back-to-basics-swapping-screens-for-books-in-the-classroom/",
+    "summary": "Sweden is bringing back books amid declining test scores.",
+    "isoDate": "2026-04-01T13:46:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Joshua Cohen, Undark Magazine",
+    "tags": [
+      "Science",
+      "education",
+      "sweden",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/book-laptop-school-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "af36aeef3b6b407c5e2b5c67971783195d9cc839",
+    "title": "Launch day has arrived for NASA's Artemis II mission—here's what to expect",
+    "link": "https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/",
+    "summary": "\"It’ll go when the engines light at T-0.\"",
+    "isoDate": "2026-04-01T13:04:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Features",
+      "Science",
+      "Space",
+      "artemis",
+      "artemis II",
+      "human spaceflight",
+      "Kennedy Space Center",
+      "moon",
+      "NASA"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-20260324-PH-JBS01_0016large-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8d0cec6e3444f06394a85577dcbd2290506b7330",
+    "title": "Virgin Galactic reopens ticket sales with out-of-this-world price hikes",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/virgin_galactic_ticket_sales/",
+    "summary": "<h4>Flights to resume in 2026 before space tourism biz runs out of cash</h4> <p>Virgin Galactic has reopened suborbital ticket sales with a price rise and a promise for commercial spaceflight operations in Q4 2026.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-01T12:34:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1eac3ac20eb794dc36ada76dbe9915e70e884b49",
+    "title": "Elon Musk: Tesla FSD 14.3 is Dropping Very Soon",
+    "link": "https://www.notateslaapp.com/news/3886/elon-musk-tesla-fsd-143-is-dropping-very-soon",
+    "summary": "After months of iterative bug fixes and minor refinements, the next major leap for Tesla’s autonomy software is reportedly just around the corner&hellip; <a href=\"https://www.notateslaapp.com/news/3886/elon-musk-tesla-fsd-143-is-dropping-very-soon\">Read More</a>",
+    "isoDate": "2026-04-01T12:25:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-car-view.webp/1e4f4ecaf3be5144174f4080ec25221e/fsd-car-view.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0ff2018618615048cb8feae0a358b0265cee8205",
+    "title": "One in seven Americans are ready for an AI boss, but they might not trust it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/americans_ai_boss/",
+    "summary": "<h4>Poll finds 15% happy to take orders from a bot even as most question its output and fear job losses</h4> <p>Around 15 percent of Americans would be willing to work for an AI boss, according to a new poll that suggests while robots are not exactly welcome in the corner office, the idea no longer seems quite so far-fetched.…</p>",
+    "isoDate": "2026-04-01T11:29:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "2ed7df47940771facd9d9f2a31b60e90649b5231",
     "title": "AI server farms heat up the neighborhood for miles around, paper finds",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/ai_datacenter_heat_islands/",
@@ -641,23 +721,6 @@
     "pinned": false
   },
   {
-    "id": "931316c964470ce8146d53d2ef0ac543037719d4",
-    "title": "As electric truck demand craters, GM lays off workers and idles plant",
-    "link": "https://arstechnica.com/cars/2026/03/gm-idles-electric-truck-factory-lays-off-1300-workers-for-a-month/",
-    "summary": "Factory Zero went idle on March 16, workers expected to return April 13.",
-    "isoDate": "2026-03-31T12:28:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "EV adoption",
-      "General Motors"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2243494784-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "42abc4716e7d5a31c017d4f0055bb6f85f112ecb",
     "title": "Ubuntu 26.04 beta arrives packing GNOME 50, which no longer supports Google Drive",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/ubuntu_2604_beta/",
@@ -787,26 +850,6 @@
     "author": "Simon Sharwood",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9a84733994646e5f3b5f96036c14efc6e9e36ba6",
-    "title": "Water utility announces it's ditching fluoride—then reveals it did so years ago",
-    "link": "https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/",
-    "summary": "The water utility highlighted unsubstantiated health concerns.",
-    "isoDate": "2026-03-30T22:32:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "Alabama",
-      "cavities",
-      "fluoride",
-      "Oral health",
-      "teeth"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-486641681-500x500.jpeg",
     "pinned": false
   },
   {
@@ -1264,45 +1307,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/next-gen-car/tesla-cybersuv-minivan-concept-1.webp/97e44598ef3a89c2f002a74535b667b2/tesla-cybersuv-minivan-concept-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "63163c10481135b29561e6d32e8f313d87067cfc",
-    "title": "To BSOD or not to BSOD? Only Microsoft knows the answer",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/28/rsac_bork/",
-    "summary": "<h4>Famous blue screens remind conference of security pros that this OS sometimes has bad days</h4> <p><strong>Bork!Bork!Bork!</strong>  When is a bork not a bork? Perhaps when it's on a Microsoft stand at a US security conference.…</p>",
-    "isoDate": "2026-03-28T10:51:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "554e390f8ccf27cb9227a80c6fc28d704f827649",
-    "title": "Microsoft takes up residence next to OpenAI, Oracle at Crusoe's 900 MW Texas datacenter expansion",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/microsoft_ai_crusoe/",
-    "summary": "<h4>New campus to include on-site power generation</h4> <p>Bitcoin farmer turned bit barn builder Crusoe revealed plans to add 900 megawatts of capacity to its Abilene Texas datacenter campus on Friday to support Microsoft's AI ambitions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-27T20:03:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "af2487cc4a00c18f9ff1418fd010eba7173b4784",
-    "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-    "summary": "<h4>Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it</h4> <p>AI can lead mentally unwell people to some pretty dark places, as a number of recent news stories have taught us. Now researchers think sycophantic AI is actually having a harmful effect on everyone.…</p>",
-    "isoDate": "2026-03-27T18:25:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
