@@ -1,5 +1,37 @@
 [
   {
+    "id": "400765698e3a01eee5f40fe8b2f0236150afc032",
+    "title": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon",
+    "link": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
+    "summary": "Liftoff of Artemis II with four astronauts occurred at 6:35 pm EDT (22:35 UTC) on Wednesday.",
+    "isoDate": "2026-04-02T00:04:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "artemis 2",
+      "artemis II",
+      "rocket launch",
+      "sls rocket"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_0752-copy-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "602acd62c8e7250f2f4f5b99affdf77d09456dd4",
+    "title": "AI recruiting biz Mercor says it was 'one of thousands' hit in LiteLLM supply-chain attack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/mercor_supply_chain_attack/",
+    "summary": "<h4>First public downstream victim, but won't be the last</h4> <p>AI hiring startup Mercor confirmed it was \"one of thousands of companies\" affected by the LiteLLM supply-chain attack as the fallout from the Trivy compromise continues to spread.…</p>",
+    "isoDate": "2026-04-02T00:02:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "368b1a890d6fbf3a73bce5558b35f069d8528484",
     "title": "Google's TurboQuant saves memory, but won't save us from DRAM-pricing hell",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/googles_turboquant_reality/",
@@ -726,30 +758,6 @@
     "pinned": false
   },
   {
-    "id": "454db9d13106000d531434d00080cad3b246cc2b",
-    "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
-    "link": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
-    "summary": "512,000 lines of code that competitors and hobbyists will be studying for weeks.",
-    "isoDate": "2026-03-31T19:09:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Claude Code",
-      "cli",
-      "GitHub",
-      "map file",
-      "repo",
-      "repository",
-      "source code",
-      "typescript"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-500x500-1774983656.jpg",
-    "pinned": false
-  },
-  {
     "id": "a3a2e1aabdd998e91ddd60bc63c0400048a50dd2",
     "title": "Tesla Delays Optimus Gen 3 Unveil for 'Finishing Touches'",
     "link": "https://www.notateslaapp.com/news/3884/tesla-delays-optimus-gen-3-unveil-for-finishing-touches",
@@ -1202,19 +1210,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "517b73eb5017a38bf80f0f9556472cc277018f8d",
-    "title": "Microsoft yanks Windows 11 preview update after install failures",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/microsoft_faulty_windows_update/",
-    "summary": "<h4>KB5079391 pulled after some devices hit errors, adding to recent quality woes</h4> <p>Microsoft has halted the rollout of a Windows update after some users encountered installation errors.…</p>",
-    "isoDate": "2026-03-30T11:44:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
