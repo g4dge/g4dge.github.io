@@ -1,5 +1,42 @@
 [
   {
+    "id": "1ef9f142ed0c1ae2ca0a18b5ad84a86c9aabe7b8",
+    "title": "Google battles Chinese open-weights models with Gemma 4",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/googles_gemma_4_open_weights/",
+    "summary": "<h4>Now with a more permissive license, multi-modality, and support for more than 140 languages</h4> <p>Google on Thursday unleashed a wave of new open-weights Gemma models optimized for agentic AI and coding, under a more permissive Apache 2.0 license aimed at winning over enterprises.…</p>",
+    "isoDate": "2026-04-02T21:15:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6eeb51085f15d61a0c7e77229ea22e4a9f96d62e",
+    "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+    "summary": "Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue.",
+    "isoDate": "2026-04-02T20:54:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ad tracker",
+      "DoubleClick",
+      "google",
+      "Google Analytics",
+      "meta",
+      "Meta Pixel",
+      "online privacy",
+      "Perplexity"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2253795243-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "6309d94ac362bdfce7fbc7dd778f09fc50cb1153",
     "title": "SpaceX tries to convince FCC that Amazon put satellites into wrong altitude",
     "link": "https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/",
@@ -745,24 +782,6 @@
     "pinned": false
   },
   {
-    "id": "e7fb0b1fd9ba2db4a23831dd9847401ee9c5408e",
-    "title": "Trump defunding of NPR and PBS blocked by judge, but damage is already done",
-    "link": "https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/",
-    "summary": "Judge invalidates Trump executive order, but Congress also cut off all funding.",
-    "isoDate": "2026-04-01T18:02:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "NPR",
-      "PBS",
-      "Trump"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/npr-pbs-rally-500x500-1752771686.jpg",
-    "pinned": false
-  },
-  {
     "id": "118abaaa8d53c10e2fe83c2bfedd52eb41dc16e1",
     "title": "Tesla Model Y Dominates as Norway Sets New EV Sales Record",
     "link": "https://www.notateslaapp.com/news/3889/tesla-model-y-dominates-as-norway-sets-new-ev-sales-record",
@@ -1202,19 +1221,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "70cac4340e60719365613c53f916db1635d1c158",
-    "title": "Supply chain blast: Top npm package backdoored to drop dirty RAT on dev machines",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/axios_npm_backdoor_rat/",
-    "summary": "<h4>Hijacked maintainer account let attackers slip cross-platform trojan into 100M-downloads-a-week Axios</h4> <p><strong>Updated</strong>  One of npm's most widely used HTTP client libraries briefly became a malware delivery vehicle after attackers hijacked a maintainer's account and slipped a remote-access trojan (RAT) into two seemingly legitimate axios releases, in what's being <a href=\"https://www.aikido.dev/blog/axios-npm-compromised-maintainer-hijacked-rat\" rel=\"nofollow\" target=\"_blank\">described</a> as \"one of the most impactful npm supply chain attacks on record.\"…</p>",
-    "isoDate": "2026-03-31T10:29:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
