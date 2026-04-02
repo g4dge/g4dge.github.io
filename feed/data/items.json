@@ -1,5 +1,82 @@
 [
   {
+    "id": "c9804581b1b8b78647dabf16e9b4f070ba65bb50",
+    "title": "Tesla Robotaxi App Adds Apple Pay, Infotainment Reset, Improved Visuals and More in 26.3.0",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/robotaxi/version/26.3.0/release-notes",
+    "summary": "Tesla Robotaxi app update 26.3.0 includes Improved Visuals, Apple Pay Support, New Commands, Edit Destination Notification. <a href=\"https://www.notateslaapp.com/tesla-app-updates/robotaxi/version/26.3.0/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-04-02T14:41:14Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/26-3-0/car-image-in-robotaxi-app.webp/efa2c172657acbd4c5b7463db9f6719a/car-image-in-robotaxi-app.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9b67442c5918eeb1846726bedf2b301ca00d5636",
+    "title": "Tesla sales grew by 6% in Q1, but company has an overproduction problem",
+    "link": "https://arstechnica.com/cars/2026/04/tesla-sales-grew-by-6-in-q1-but-company-has-an-overproduction-problem/",
+    "summary": "Between January and March, Tesla built 50,000 more cars than it could sell.",
+    "isoDate": "2026-04-02T14:10:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Tesla deliveries"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2211162545-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1358acef4dea41383962264b21fbba3a58b84f81",
+    "title": "Salesforce is looking to Slackbot to help it solve the SaaSpocalypse puzzle",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/salesforce_slack_update/",
+    "summary": "<h4>The chatbot will be a doorway to the company's other services</h4> <p><strong>Opinion</strong>  Salesforce has begun to position Slack, its business collaboration platform, as the interface through which users can access and act on data in enterprise applications from rival vendors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-02T14:05:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "624798575af396b6e7fd5aa0e5aef8f5f6217989",
+    "title": "Cloudflare previews 'EmDash' – an AI-driven rebuild of WordPress in TypeScript",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/cloudflare_previews_emdash_an_aidriven/",
+    "summary": "<h4>Name is a joke but the project is real, said main engineer</h4> <p>The world's most popular CMS has been remade with the help of AI. Cloudflare has released EmDash version 0.1, described as a rebuild of the WordPress CMS (content management system) but using TypeScript rather than PHP. …</p>",
+    "isoDate": "2026-04-02T14:04:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "35fe8f063f18245ca5d640b7511c7efb8982afc5",
+    "title": "Amazon is trying to buy Globalstar to compete with SpaceX's Starlink",
+    "link": "https://arstechnica.com/tech-policy/2026/04/amazon-is-trying-to-buy-globalstar-to-compete-with-spacexs-starlink/",
+    "summary": "Amazon wants in on the low-Earth orbit Internet action.",
+    "isoDate": "2026-04-02T14:03:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ivan Levingston, Kieran Smith, Fontanella-Khan, and Amelia Pollard, FT",
+    "tags": [
+      "Policy",
+      "Space",
+      "Amazon",
+      "globalstar",
+      "Internet",
+      "satellite Internet",
+      "spacex",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/a6_kuiper_le01-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "ba07d2c5e9fe587f9cd9c60fc96fd54e7d259e1c",
     "title": "Microsoft veteran says some 'broken by update' PCs were already doomed",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/chen_windows_updates/",
@@ -191,7 +268,7 @@
     "id": "db790d2bd752d9c894ad3707f0478c0c3986a235",
     "title": "Claude Code bypasses safety rule if given too many commands",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/claude_code_rule_cap_raises/",
-    "summary": "<h4>A hard-coded limit on deny rules drops automatic enforcement for concatenated commands</h4> <p>Claude Code will ignore its deny rules, used to block risky actions, if burdened with a sufficiently long chain of subcommands. This vuln leaves the bot open to prompt injection attacks.…</p>",
+    "summary": "<h4>A hard-coded limit on deny rules drops automatic enforcement for concatenated commands</h4> <p><strong>Updated</strong>  Claude Code will ignore its deny rules, used to block risky actions, if burdened with a sufficiently long chain of subcommands. This vuln leaves the bot open to prompt injection attacks.…</p>",
     "isoDate": "2026-04-01T20:51:23Z",
     "source": "The Register",
     "category": "Tech",
@@ -778,44 +855,6 @@
     "pinned": false
   },
   {
-    "id": "5f4c410f5fc910587275b0dd8d74bf3a1d2da9a8",
-    "title": "He-Man gets an origin story in Masters of the Universe trailer",
-    "link": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
-    "summary": "\"Skeletor took my family and he destroyed our world.\"",
-    "isoDate": "2026-03-31T20:26:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "amazon mgm studios",
-      "entertainment",
-      "film trailers",
-      "Masters of the Universe",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/heman-500x500-1774988155.jpg",
-    "pinned": false
-  },
-  {
-    "id": "161b8bdbddfb5818fd767ad970951438713c18b0",
-    "title": "Sweaty, glassy-eyed Tiger Woods blames cell phone use for his car crash",
-    "link": "https://arstechnica.com/tech-policy/2026/03/sweaty-glassy-eyed-tiger-woods-blames-cell-phone-use-for-his-car-crash/",
-    "summary": "Cops arrest Woods after incident.",
-    "isoDate": "2026-03-31T20:00:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nate Anderson",
-    "tags": [
-      "Policy",
-      "cell phone",
-      "distracted driving",
-      "Tiger Woods"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268351717.jpg",
-    "pinned": false
-  },
-  {
     "id": "93bde356ff3820ef07b4232caa721ef614d6093b",
     "title": "Gmail celebrates 22 years by finally letting users change their addresses",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/gmail_change_account/",
@@ -826,26 +865,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9b0fa0815f037be77acf2883cb21c7563e402152",
-    "title": "It's a race against time to save Krypto in Supergirl trailer",
-    "link": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
-    "summary": "Have these villains not seen <em>John Wick</em>?",
-    "isoDate": "2026-03-31T19:50:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "DCU Chapter One",
-      "entertainment",
-      "Supergirl",
-      "Trailers",
-      "Warner Bros."
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-500x500-1774983464.jpg",
     "pinned": false
   },
   {
@@ -1189,32 +1208,6 @@
     "pinned": false
   },
   {
-    "id": "353cbf67fdd5ca0aca7747086f659f1fc238f5dc",
-    "title": "Telnyx joins LiteLLM in latest PyPI package poisoning tied to Trivy breach",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/telnyx_pypi_supply_chain_attack_litellm/",
-    "summary": "<h4>Also, EU probes Snapchat, RedLine suspect extradited, AstraZeneca leak claim surfaces, and more</h4> <p><strong>infosec in brief</strong>  The cybercrime crew linked to the Trivy supply-chain attack has struck again, this time pushing malicious Telnyx package versions to PyPI in an effort to plant credential-stealing malware on developers’ systems.…</p>",
-    "isoDate": "2026-03-30T17:42:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "25e5c64236fa56c4bf45e5795bb800554de97e49",
-    "title": "FCC says it's making it easier for US telcos to ditch legacy lines",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/fcc_copper_line_rules/",
-    "summary": "<h4>But critics say stopping some engineering tests is not the sort of corner you want to cut</h4> <p>America's telecoms regulator has unveiled new measures to speed the transition to modern high-speed networks, but critics argue the move could leave behind those in rural areas or with special needs.…</p>",
-    "isoDate": "2026-03-30T16:48:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "29de2b9c0000d2ec2b400f87b9351ac2333ed0bc",
     "title": "New AI Breakthrough May Bring Full FSD V14 to Tesla’s HW3 Vehicles",
     "link": "https://www.notateslaapp.com/news/3856/new-ai-breakthrough-may-bring-full-fsd-v14-to-teslas-hw3-vehicles",
@@ -1478,19 +1471,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_66.jpg/7620b55782eff45301d6a20b7e036258/group_66.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3f65e7e7d46800f5bb6d5ba44b2541e496d732c5",
-    "title": "Tesla Optimus Gains Human-Like Hands as Gen 3 Reveal Nears",
-    "link": "https://www.notateslaapp.com/news/3855/tesla-optimus-gains-human-like-hands-as-gen-3-reveal-nears",
-    "summary": "Tesla is making a massive push to turn its humanoid robot into a reality, and the latest progress reports suggest we are reaching a tipping point&hellip; <a href=\"https://www.notateslaapp.com/news/3855/tesla-optimus-gains-human-like-hands-as-gen-3-reveal-nears\">Read More</a>",
-    "isoDate": "2026-03-26T14:46:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-1.webp/5eda2cf04bea6526acda329d6188bfc1/optimus-human-hands-1.jpg",
     "pinned": false
   }
 ]
