@@ -1,5 +1,31 @@
 [
   {
+    "id": "f83517744606604e7ffbabc4c5873f0dab3914a8",
+    "title": "SystemRescue 13 lands with Linux 6.18 and bcachefs support",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/systemrescue_13/",
+    "summary": "<h4>And other handy tools that could save your data in a crisis</h4> <p>The latest update to the handy SystemRescue is here with a new kernel. There's also a new GParted Live, and some other handy utilities.…</p>",
+    "isoDate": "2026-04-02T09:02:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7dcba598dce65331dbfd54e7d07457b9a8cfaa6e",
+    "title": "The company's biggest security hole lived in the breakroom",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/pwned/",
+    "summary": "<h4>Connected devices can leave an otherwise secure network vulnerable</h4> <p><strong>Pwned</strong>  Welcome to Pwned, <i>The Register's</i> new column, where we highlight the worst infosec own goals so you can, hopefully, protect against them. Caffeine is an essential tool for most IT defenders, so, on balance, we're sure it has protected against a lot more exploits than it has caused. But in this case, the desire for everyone's favorite stimulant led to a massive breach.…</p>",
+    "isoDate": "2026-04-02T08:01:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "400765698e3a01eee5f40fe8b2f0236150afc032",
     "title": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon",
     "link": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
@@ -1186,32 +1212,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/steering_patent_o-rings.png/cf57a53b9ffaa08b72586400ce04a7b7/steering_patent_o-rings.jpg",
-    "pinned": false
-  },
-  {
-    "id": "49066573dbd4399cd1b06ce39a7cca85ecce43f2",
-    "title": "South Korean AI chip startup Rebellions eyes new shores for rack-scale invasion",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/rebellions_ai_rackscale/",
-    "summary": "<h4>Funding round comes ahead of planned IPO</h4> <p>GPU-makers like Nvidia and AMD may dominate the AI infrastructure market, but there are still more than a few AI chip startups knocking around.…</p>",
-    "isoDate": "2026-03-30T13:01:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7cb7aaa1a18a820caa9b8187f04bce5676f4a96f",
-    "title": "Microsoft Fabric Database Hub only a 'partial' solution for admins",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/microsoft_fabric_database_hub_partial_solution/",
-    "summary": "<h4>Could help break silos, but users should take wait-and-see approach to system limited to Microsoft DBs and DBaaS</h4> <p>Microsoft's new Fabric Database Hub is a \"partial solution\" for enterprises relying on systems outside the vendor's portfolio, but within these confines, it could make databases more connected and manageable, say analysts reacting to <a href=\"https://www.theregister.com/2026/03/18/microsoft_fabric_latest/\" target=\"_blank\">the news</a>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-03-30T12:23:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
