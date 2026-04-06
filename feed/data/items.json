@@ -1,5 +1,49 @@
 [
   {
+    "id": "30c4f7a48350d4074f8016cc0b51b4dfe152e736",
+    "title": "Trump's next budget once again calls for massive cuts to science",
+    "link": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
+    "summary": "Congress rejected huge cuts to science in 2026, but Trump is trying again.",
+    "isoDate": "2026-04-06T21:40:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "DOE",
+      "EPA",
+      "federal budget",
+      "funding",
+      "NIH",
+      "NIST",
+      "NSF",
+      "OMB",
+      "Science policy",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bd995342294b0cb478ed7f3b27dfe0ef1ad113f7",
+    "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
+    "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+    "summary": "OpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
+    "isoDate": "2026-04-06T21:23:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "Artificial Intelligence",
+      "openai",
+      "sam altman"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2236544323-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "2a7b06b0c6dc256b38db13832bd42a16b938dc60",
     "title": "AMD's AI director slams Claude Code for becoming dumber and lazier since last update",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/",
@@ -35,6 +79,7 @@
     "category": "Tech",
     "author": "Eric Berger",
     "tags": [
+      "Features",
       "Space",
       "artemis",
       "blue origin",
@@ -336,7 +381,7 @@
   },
   {
     "id": "ca7572ea6cb56183c5f33d9ec51196df36dad2d7",
-    "title": "AI agents promise to 'run the business,' but who is liable if things go wrong?",
+    "title": "If an AI agent screws up while running your business, there's nobody to sue",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/05/ai_agents_liability/",
     "summary": "<h4>Vendors tout the potential, but responsibility remains unclear</h4> <p>\"You can't blame it on the box,\" says the boss of a UK financial regulator. What about the people who sold you the box? Good luck with that, says a global tech analyst.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-04-05T10:00:11Z",
@@ -412,7 +457,7 @@
   },
   {
     "id": "b55a01358bbd102e516cc14ec2f921d8329b0afc",
-    "title": "Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup",
+    "title": "AI will make anyone a 10x programmer, but with 10x the cleanup",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/04/all_things_ai_conference/",
     "summary": "<h4>Agents to check the work of the agents</h4> <p><strong>All Things AI</strong>  AI is easy to use, but not quite as easy as just barking \"Alexa! Make me an e-commerce site.\" And, no, adding \"DON'T HALLUCINATE\" to the instruction loop won't help.…</p>",
     "isoDate": "2026-04-04T13:13:15Z",
@@ -808,26 +853,6 @@
     "pinned": false
   },
   {
-    "id": "5fef97b5abe9ec9b01b0e36b144a9b5727c918c6",
-    "title": "Four astronauts are now inexorably bound for the Moon",
-    "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/",
-    "summary": "“I don’t think we could be more pleased.\"",
-    "isoDate": "2026-04-03T02:17:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "artemis II",
-      "moon",
-      "NASA",
-      "orion",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-SLS_03302026_Artemis-II-Launch-wide_1medium-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "1d3318c246218e4fc13535af3dc956d107b32918",
     "title": "AI models will deceive you to save their own kind",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/ai_models_will_deceive_you/",
@@ -851,30 +876,6 @@
     "author": "Tobias Mann",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6eeb51085f15d61a0c7e77229ea22e4a9f96d62e",
-    "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
-    "summary": "Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue.",
-    "isoDate": "2026-04-02T20:54:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ad tracker",
-      "DoubleClick",
-      "google",
-      "Google Analytics",
-      "meta",
-      "Meta Pixel",
-      "online privacy",
-      "Perplexity"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2253795243-500x500.jpg",
     "pinned": false
   },
   {
