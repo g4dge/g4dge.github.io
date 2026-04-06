@@ -1,5 +1,76 @@
 [
   {
+    "id": "c1fc909e26c7f2147b00a115573d8a5eb243c8f6",
+    "title": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
+    "link": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
+    "summary": "The charter renewal gives Kennedy broad authority to pick anyone for the panel.",
+    "isoDate": "2026-04-06T22:34:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ACIP",
+      "anti-vaccine",
+      "CDC",
+      "robert f kennedy jr",
+      "vaccine"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8939a2fdbf6bf94adb865dde43d69432c9589508",
+    "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
+    "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+    "summary": "New model can respond to disruptions and figure out moves it wasn't trained for.",
+    "isoDate": "2026-04-06T22:18:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "generalist",
+      "Model",
+      "Robotics",
+      "robots",
+      "training"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gen1-500x500-1775511749.png",
+    "pinned": false
+  },
+  {
+    "id": "e76b749e2d626c4ca749991395e42d0978222517",
+    "title": "AI slop got better, so now maintainers have more work",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/ai_coding_tools_more_work/",
+    "summary": "<h4>Once AI bug reports become plausible, someone still has to verify them</h4> <p>If AI does more of the work but humans still have to check it, you need more reviewers. Now that AI models have gotten better at writing and evaluating code, open-source projects find themselves overwhelmed with the too-good-to-ignore output.…</p>",
+    "isoDate": "2026-04-06T22:16:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "dc276e6a87a1f3259caa850fab687d229fd2f11b",
+    "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
+    "link": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
+    "summary": "Court rules US preempts states from applying gambling laws to prediction markets.",
+    "isoDate": "2026-04-06T21:56:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Kalshi",
+      "prediction markets",
+      "sports betting"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-500x500-1775509438.jpg",
+    "pinned": false
+  },
+  {
     "id": "30c4f7a48350d4074f8016cc0b51b4dfe152e736",
     "title": "Trump's next budget once again calls for massive cuts to science",
     "link": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
@@ -676,26 +747,6 @@
     "pinned": false
   },
   {
-    "id": "c0b9717f62f42ed003cb6f4a9caec378e4c066c4",
-    "title": "Netflix must refund customers for years of price hikes, Italian court rules",
-    "link": "https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/",
-    "summary": "Consumer group says it will sue if Netflix doesn't reduce current prices.",
-    "isoDate": "2026-04-03T17:41:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Policy",
-      "Tech",
-      "europe",
-      "italy",
-      "Netflix",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2250244723-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2abfa861ce9306c71dfd300348ba01a8a95db73e",
     "title": "NHS staff resist using Palantir software",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/03/nhs_staff_against_palantir/",
@@ -732,41 +783,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/robotaxi-unsupervised.webp/f6c58640d5bf076858b3de8e22889fb1/robotaxi-unsupervised.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1518c95d3be1c1dc53a336476cf77f4f4c6afd1a",
-    "title": "EV adoption in America: Who's winning, who's losing?",
-    "link": "https://arstechnica.com/cars/2026/04/ev-adoption-in-america-whos-winning-whos-losing/",
-    "summary": "Some OEMs saw double-digit growth in Q1, others saw double-digit declines.",
-    "isoDate": "2026-04-03T15:00:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "EV adoption"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2269134483-500x500-1775226238.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9446a835ddc63b580a9ea11eaca809f4b5fcfefd",
-    "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
-    "link": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/",
-    "summary": "OpenAI says program will remain in Los Angeles and will be editorially independent.",
-    "isoDate": "2026-04-03T13:35:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "George Hammond, Financial Times",
-    "tags": [
-      "AI",
-      "media",
-      "OpenAT",
-      "syndication",
-      "TBPN"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/openai-sam-altman-500x500-1739898913.jpg",
     "pinned": false
   },
   {
@@ -1394,19 +1410,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2ed7df47940771facd9d9f2a31b60e90649b5231",
-    "title": "AI server farms heat up the neighborhood for miles around, paper finds",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/ai_datacenter_heat_islands/",
-    "summary": "<h4>Researchers say localized warming can extend well past site edges, raising concerns about community impact</h4> <p>Datacenters create heat islands that raise surrounding temperatures by several degrees at distances up to 10 km (over 6 miles), which could have an impact on surrounding communities.…</p>",
-    "isoDate": "2026-04-01T10:30:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
