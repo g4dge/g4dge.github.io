@@ -1,5 +1,116 @@
 [
   {
+    "id": "dc37cb5e0b18ce0d756175f729aab2c432118e4a",
+    "title": "Russia's Fancy Bear still attacking routers to boost fake sites, NCSC warns",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/russia_fancy_bear_ncsc_router_attack/",
+    "summary": "<h4>200 orgs and 5,000 devices compromised so far in Vlad's latest intelligence grab, Microsoft reckons</h4> <p>The UK's National Cyber Security Centre (NCSC) has issued a fresh warning about Russia's ongoing targeting of routers to steal passwords and other secrets.…</p>",
+    "isoDate": "2026-04-07T17:02:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ae76d5d4c9615eb277bba4d2b83f1391181c7232",
+    "title": "Testing suggests Google's AI Overviews tells millions of lies per hour",
+    "link": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
+    "summary": "Is 90 percent accuracy good enough for a search robot?",
+    "isoDate": "2026-04-07T16:53:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "ai overviews",
+      "Artificial Intelligence",
+      "generative ai",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Gemini-chat-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "f9587366ab98726145de844872ff56b321f12592",
+    "title": "Linux kernel maintainers are following through on removing Intel 486 support",
+    "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
+    "summary": "Linux devs think even one second spent on 486 support is a second too many.",
+    "isoDate": "2026-04-07T16:39:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "486",
+      "80486",
+      "i486",
+      "intel 486"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-90739236-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "20e716b7fc746ae6c046400256dba1dfc4e8edda",
+    "title": "How Tesla FSD Works Part 5: Modeling a Physical World Without LiDAR",
+    "link": "https://www.notateslaapp.com/news/3864/how-tesla-fsd-works-part-5-modeling-a-physical-world-without-lidar",
+    "summary": "Tesla published a patent detailing its vision-based occupancy network. We dive into how Tesla uses voxels and temporal fusion to understand the 3D world.&hellip; <a href=\"https://www.notateslaapp.com/news/3864/how-tesla-fsd-works-part-5-modeling-a-physical-world-without-lidar\">Read More</a>",
+    "isoDate": "2026-04-07T16:27:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/how_fsd_works_part_5.jpg/b80562cc706cab3c6c36aa18a4b41c48/how_fsd_works_part_5.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5772d7e7bd936676520af302020c8c79726b1dd6",
+    "title": "Stack Overflow abandons redesign after loyalists criticize it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/stack_overflow_retires_redesign_beta/",
+    "summary": "<h4>Fabled Q&amp;A site for devs struggles with its future as AI takes over its original purpose</h4> <p>Stack Overflow, the once-popular dev community, has abandoned a planned redesign that was meant to refocus the site more on discussions than the question-and-answer format that built its reputation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-07T16:26:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "db6528d715148ab8895f3ae91eff468c68f36181",
+    "title": "Finally, Artemis delivers some exceptional, high-quality photos of the Moon",
+    "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/",
+    "summary": "The Moon, the Earth, and the Sun; oh what fun!",
+    "isoDate": "2026-04-07T15:54:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "artemis",
+      "earthrise",
+      "moon",
+      "NASA",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55193002296_38b8afac3c_k-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3cdea53d9e2ea692f68cc52339aaf2e8dcdd7411",
+    "title": "Artemis II snaps eclipse, Earthset shots on first crewed lunar flyby since Apollo",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/artemis_ii_astronauts_snap_pics_moon/",
+    "summary": "<h4>Turns out deep space still looks better without AI helping</h4> <p>The Artemis II mission has produced some stunning imagery as the spacecraft loops around the Moon on its journey from Earth and back.…</p>",
+    "isoDate": "2026-04-07T15:53:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "c1f7407189b5bc52c7c76b994700b88634b35a92",
     "title": "Break, no fix: Apple and Samsung make repairs hard",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/apple_samsung_repairability/",
@@ -834,26 +945,6 @@
     "pinned": false
   },
   {
-    "id": "62156940ff16bf3914c6ff41f860a69e7732a9be",
-    "title": "Ice Age dice show early Native Americans may have understood probability",
-    "link": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
-    "summary": "Ice Age hunter-gatherers \"were intentionally relying on random outcomes in repeatable, rule-based ways.\"",
-    "isoDate": "2026-04-03T22:55:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "anthropology",
-      "Archaeology",
-      "Ethnography",
-      "gaming dice",
-      "probability"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iceage2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a8746c5c9a394b8057640ab97628f587c359102a",
     "title": "Trump wants to take a battle axe to CISA again and slash $707M from budget",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/03/trump_cisa_budget/",
@@ -864,44 +955,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0fc6aa9a02990403a07ea7b0d41e8b7971a77b65",
-    "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
-    "link": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
-    "summary": "The cabin was colder on Thursday, but the crew has been able to adjust the temperature.",
-    "isoDate": "2026-04-03T22:20:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "artemis II",
-      "mission control",
-      "NASA",
-      "orion"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/earth1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ec658911364552e7073c8b47a73e2ff43c9fc824",
-    "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
-    "link": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
-    "summary": "Some banks \"agreed to spend tens of millions on the chatbot,\" NYT reports.",
-    "isoDate": "2026-04-03T21:17:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Elon Musk",
-      "grok",
-      "spacex",
-      "spacex ipo"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/grok-icon-500x500-1775247970.jpg",
     "pinned": false
   },
   {
@@ -1378,45 +1431,6 @@
     "pinned": false
   },
   {
-    "id": "602acd62c8e7250f2f4f5b99affdf77d09456dd4",
-    "title": "AI recruiting biz Mercor says it was 'one of thousands' hit in LiteLLM supply-chain attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/mercor_supply_chain_attack/",
-    "summary": "<h4>First public downstream victim, but won't be the last</h4> <p>AI hiring startup Mercor confirmed it was \"one of thousands of companies\" affected by the LiteLLM supply-chain attack as the fallout from the Trivy compromise continues to spread.…</p>",
-    "isoDate": "2026-04-02T00:02:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "368b1a890d6fbf3a73bce5558b35f069d8528484",
-    "title": "Google's TurboQuant saves memory, but won't save us from DRAM-pricing hell",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/googles_turboquant_reality/",
-    "summary": "<h4>Chocolate Factory’s compression tech clears the way to cheaper AI inference, not more affordable memory</h4> <p>When Google unveiled <a href=\"https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/\" rel=\"nofollow\" target=\"_blank\">TurboQuant</a>, an AI data compression technology that promises to slash the amount of memory required to serve models, many hoped it would help with a memory shortage that has seen prices triple since last year. Not so much.…</p>",
-    "isoDate": "2026-04-01T22:17:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "428d2301635a9d4cae4d3d6a3b2e822d52aa0593",
-    "title": "'Uncle Larry’s biggest fan' cut by email in early morning Oracle layoff spree",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/laidoff_oracle_workers/",
-    "summary": "<h4>WARN filings in two states show 1,000+ layoffs, but wider cuts remain unconfirmed</h4> <p>By his third failed attempt to log into Oracle’s VPN on Tuesday morning, a decades-long employee of the company started to get a bad feeling.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-01T21:55:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "fd673bc4aacdafb5606a277777436a511f3dbae3",
     "title": "Tesla Sees Major Sales Surge Across Europe in March",
     "link": "https://www.notateslaapp.com/news/3890/tesla-sees-major-sales-surge-across-europe-in-march",
@@ -1533,19 +1547,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-2.webp/33dcaf6b89878453a59f0426bc1c60b0/optimus-human-hands-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0abdf19b051b7fa104893a3dac41adb886fd9081",
-    "title": "Tesla Warns Owners Against Using FSD Jailbreaking Devices",
-    "link": "https://www.notateslaapp.com/news/3883/tesla-warns-owners-against-jailbreaking-vehicles-to-enable-fsd",
-    "summary": "Tesla is taking a hard stance against a growing trend of 'jailbreaking' its vehicles to enable Full Self-Driving in regions where it isn’t available&hellip; <a href=\"https://www.notateslaapp.com/news/3883/tesla-warns-owners-against-jailbreaking-vehicles-to-enable-fsd\">Read More</a>",
-    "isoDate": "2026-03-31T17:11:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/134.jpeg/19bf57bded25480d080a47ddeeb46195/134.jpg",
     "pinned": false
   }
 ]
