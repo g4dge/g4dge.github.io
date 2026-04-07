@@ -1,5 +1,75 @@
 [
   {
+    "id": "69e743830323a897138810435c4362088f07c863",
+    "title": "Hundreds of orgs compromised daily in Microsoft device code phishing attacks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/microsoft_device_code_phishing/",
+    "summary": "<h4>Who needs MFA when you've got EvilTokens?</h4> <p>Hundreds of organizations have been compromised daily by a Microsoft device-code phishing campaign that uses AI and automation at nearly every stage of the attack chain to ultimately snoop through corporate email inboxes and steal financial data.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-07T20:19:42Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3279a16acc71e649fe12cbbf9abffe3ef6fc4daf",
+    "title": "Tesla Releases FSD 14.3: Fleet Learning, 20% Faster Reactions, and More",
+    "link": "https://www.notateslaapp.com/news/3925/tesla-releases-fsd-143-fleet-learning-20-faster-reactions-and-more",
+    "summary": "Tesla has officially started releasing FSD (Supervised) v14.3, which CEO Elon Musk has previously called 'the last big piece' of the self-driving puzzle&hellip; <a href=\"https://www.notateslaapp.com/news/3925/tesla-releases-fsd-143-fleet-learning-20-faster-reactions-and-more\">Read More</a>",
+    "isoDate": "2026-04-07T20:09:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/newmodely_87.jpg/5bff0be389efe09a703d50f2a72103e9/newmodely_87.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ada26f93651ba92b96cd9ea4d0b791f0d8b168bb",
+    "title": "What the heck is wrong with our AI overlords?",
+    "link": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+    "summary": "New profile of Sam Altman shines a light on a whole industry.",
+    "isoDate": "2026-04-07T20:02:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nate Anderson",
+    "tags": [
+      "AI",
+      "Policy",
+      "openai",
+      "sam altman"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2162021307-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "65bc37d7c1d62b7e1bb6424a91b1e3ca95ed71b6",
+    "title": "Intel gets trapped in Elon’s reality distortion field as it joins in megafab delusions",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/intel_elon_space_delusion/",
+    "summary": "<h4>Space is just the next stop on the AI hype train, right after AGI</h4> <p>In the realm of his other unrealistic plans and potentially broken promises, Elon Musk's Terafab stands out as one of the biggest pipedreams, promising to boost semiconductor production by 50x for the benefit of orbital datacenters. But hey, this idea must have legs, because now Intel has announced it is joining the aspiring Bond villain's initiative.…</p>",
+    "isoDate": "2026-04-07T19:36:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2cdc796b099f38314d0367e77df24c8fdfd79525",
+    "title": "Tesla Update FSD V14.3 (2026.2.9.6) Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2026.2.9.6/release-notes",
+    "summary": "Tesla software update 2026.2.9.6 includes FSD (Supervised) v14.3, Full Self-Driving (Supervised), Blind Spot Warning While Parked. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.2.9.6/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-04-07T19:17:35Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+    "pinned": false
+  },
+  {
     "id": "0cfab0dd1339c5c107f9ebecbdaedb4cfe0f0ac4",
     "title": "Tesla, SpaceX Partner With Intel for Terafab AI Chip Project",
     "link": "https://www.notateslaapp.com/news/3924/tesla-spacex-partner-with-intel-for-terafab-ai-chip-project",
@@ -159,7 +229,7 @@
     "id": "db6528d715148ab8895f3ae91eff468c68f36181",
     "title": "Finally, Artemis delivers some exceptional, high-quality photos of the Moon",
     "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/",
-    "summary": "The Moon, the Earth, and the Sun; oh what fun!",
+    "summary": "The Moon, the Earth, and the Sun—oh what fun!",
     "isoDate": "2026-04-07T15:54:54Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -912,26 +982,6 @@
     "pinned": false
   },
   {
-    "id": "aa51aeb744801f8c9e47311e3e486d1720393fe7",
-    "title": "Artemis II is going so well that all we're left to talk about is frozen urine",
-    "link": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
-    "summary": "\"I think the fixation on the toilet is kind of human nature.\"",
-    "isoDate": "2026-04-05T00:12:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "artemis",
-      "NASA",
-      "orion",
-      "space",
-      "toilet"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e004357large-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a3e5873b7ac65dfffb15a501c1db8424517ad61c",
     "title": "Dojo Isn’t Dead, It’s Moving Off-World: A Look at Tesla’s D3 Space Chip",
     "link": "https://www.notateslaapp.com/news/3858/dojo-isnt-dead-its-moving-off-world-a-look-at-teslas-d3-space-chip",
@@ -1392,32 +1442,6 @@
     "pinned": false
   },
   {
-    "id": "eff28d28fd777fd30affcbe3e8cf1c5f1497b320",
-    "title": "AI search is atomizing our information, warns government digital designer",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/ai_search_is_atomising_content/",
-    "summary": "<h4>We must design expecting much of what we publish will be reinterpreted by 'systems we don't control'</h4> <p>Those who rely on artificial intelligence to summarize official material may get a misleadingly narrow or incomplete version of it, a senior designer for the UK government has warned.…</p>",
-    "isoDate": "2026-04-02T10:53:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ea442cbf06bb71427a3643bc390e46aeae7cd356",
-    "title": "Artemis II blasts off on first crewed lunar mission since Apollo",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/artemis_ii/",
-    "summary": "<h4>And of course the Orion toilet malfunctioned</h4> <p>Toilet trouble, telemetry problems, and an issue with the flight termination system have not marred the Artemis II mission to the Moon, which launched yesterday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-02T10:19:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "b5e4b893e8a1e6000eafc44cc35094b25df1d5cd",
     "title": "The hidden world of plant roots",
     "link": "https://aeon.co/videos/what-a-plants-decision-making-reveals-about-intelligence?utm_source=rss-feed",
@@ -1534,19 +1558,6 @@
       "Crime"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b4c40a0f01dbbaade5d686d3c42be86ba4aea863",
-    "title": "Tesla Expands Unsupervised Robotaxi Geofence in Austin",
-    "link": "https://www.notateslaapp.com/news/3885/tesla-expands-unsupervised-robotaxi-geofence-in-austin",
-    "summary": "After launching fully unsupervised rides back in January, the company has now more than doubled the size of its 'driverless' geofence in Austin, Texas&hellip; <a href=\"https://www.notateslaapp.com/news/3885/tesla-expands-unsupervised-robotaxi-geofence-in-austin\">Read More</a>",
-    "isoDate": "2026-03-31T19:43:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-unsupervised-geofence-march-2026.webp/ac80ce3323f6426e75b76f8e0a12d15a/robotaxi-unsupervised-geofence-march-2026.jpg",
     "pinned": false
   }
 ]
