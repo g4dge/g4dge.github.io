@@ -1,5 +1,83 @@
 [
   {
+    "id": "0cfab0dd1339c5c107f9ebecbdaedb4cfe0f0ac4",
+    "title": "Tesla, SpaceX Partner With Intel for Terafab AI Chip Project",
+    "link": "https://www.notateslaapp.com/news/3924/tesla-spacex-partner-with-intel-for-terafab-ai-chip-project",
+    "summary": "Intel has officially joined the 'Terafab' project, a joint venture between Tesla, SpaceX, and xAI to build the world's most advanced AI chip factory&hellip; <a href=\"https://www.notateslaapp.com/news/3924/tesla-spacex-partner-with-intel-for-terafab-ai-chip-project\">Read More</a>",
+    "isoDate": "2026-04-07T19:12:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/intel-hero-image-3.webp/b8f2855dae61d5134360c7cb7c528e87/intel-hero-image-3.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4a1d581c06f8db58e08ee1b242fb7a07d65dbb55",
+    "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+    "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+    "summary": "Use of AI coding tools has become a convenient boogeyman for any tech issues.",
+    "isoDate": "2026-04-07T19:09:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Tech",
+      "AI coding",
+      "attie",
+      "bluesky",
+      "Claude Code",
+      "vibe coding"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/bluesky-vibe-coder-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e4ff7a872a38188ea966bf7d4d99b6bc4a96802c",
+    "title": "Nutanix brings its K8s to bare metal because hardware matters again",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/nutanix_bare_metal_k8s/",
+    "summary": "<h4>Expands compatibility since it's tough to buy the boxes you want right now</h4> <p><strong>.NEXT</strong>  Nutanix exists to abstract hardware into a pool of logical resources, leaving servers and storage forgotten by all but a few datacenter hardheads. But the company's annual .NEXT conference, which kicked off in Chicago on Tuesday, put hardware at the top of the agenda.…</p>",
+    "isoDate": "2026-04-07T18:30:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "461dd023b6a05876cdb55a34b4e4748968b5065f",
+    "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet",
+    "link": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
+    "summary": "Supreme Court's precedent-setting Cox ruling helps Grande beat music piracy claims.",
+    "isoDate": "2026-04-07T18:00:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "grande communications",
+      "piracy",
+      "Supreme Court"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-pirate-flag-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fad05d393fc31f0d7448f593d06babb75b6844ec",
+    "title": "US cybercrime losses pass $20B for first time as AI boosts online fraud",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/cybercrime_losses_reach_alltime_high/",
+    "summary": "<h4>Bots are now firmly in the toolbox, helping crooks scale old scams</h4> <p>Crims are taking advantage of AI to sharpen old scams. The FBI reported Monday that cybercrime losses hit a record $20.87 billion in 2025, with help from bots.…</p>",
+    "isoDate": "2026-04-07T17:59:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "dc37cb5e0b18ce0d756175f729aab2c432118e4a",
     "title": "Russia's Fancy Bear still attacking routers to boost fake sites, NCSC warns",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/russia_fancy_bear_ncsc_router_attack/",
@@ -14,7 +92,7 @@
   },
   {
     "id": "ae76d5d4c9615eb277bba4d2b83f1391181c7232",
-    "title": "Testing suggests Google's AI Overviews tells millions of lies per hour",
+    "title": "Testing suggests Google's AI Overviews tell millions of lies per hour",
     "link": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
     "summary": "Is 90 percent accuracy good enough for a search robot?",
     "isoDate": "2026-04-07T16:53:55Z",
@@ -193,9 +271,9 @@
   },
   {
     "id": "cfdd9a82d04366a3f82b54d7befcfb8f87d5f53e",
-    "title": "Shots fired over proposal to build datacenter in Indianapolis",
+    "title": "Shots fired – literally – over proposal to build datacenter in Indianapolis",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/indianapolis_datacenter_shots_fired/",
-    "summary": "<h4>Quite literally, from a gun, into the front door of a councilor who supports plan</h4> <p>Datacenter protests have taken an ugly turn in the US, with gunshots fired at the home of an Indianapolis councilor who recently lent his support to plans for a server farm in the area.…</p>",
+    "summary": "<h4>From a gun into the front door of a councilor who supports plan</h4> <p>Datacenter protests have taken an ugly turn in the US, with gunshots fired at the home of an Indianapolis councilor who recently lent his support to plans for a server farm in the area.…</p>",
     "isoDate": "2026-04-07T11:09:24Z",
     "source": "The Register",
     "category": "Tech",
@@ -454,7 +532,7 @@
   },
   {
     "id": "bd995342294b0cb478ed7f3b27dfe0ef1ad113f7",
-    "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
+    "title": "“The problem is Sam Altman”: OpenAI insiders don’t trust CEO",
     "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
     "summary": "OpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
     "isoDate": "2026-04-06T21:23:36Z",
@@ -854,23 +932,6 @@
     "pinned": false
   },
   {
-    "id": "fd49633fc1b91fb3aa0ceb94dd3c3ca1b223fd67",
-    "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
-    "link": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-    "summary": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
-    "isoDate": "2026-04-04T20:36:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Boone Ashworth, WIRED.com",
-    "tags": [
-      "Policy",
-      "right to repair",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/computer-repair-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a3e5873b7ac65dfffb15a501c1db8424517ad61c",
     "title": "Dojo Isn’t Dead, It’s Moving Off-World: A Look at Tesla’s D3 Space Chip",
     "link": "https://www.notateslaapp.com/news/3858/dojo-isnt-dead-its-moving-off-world-a-look-at-teslas-d3-space-chip",
@@ -920,28 +981,6 @@
     "author": "Thomas Claburn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2d3d88890c072c7266bebf9f9eb9c42a2f558b5d",
-    "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
-    "link": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
-    "summary": "Congress will likely reject the White House's NASA cuts, just as it did last year.",
-    "isoDate": "2026-04-03T23:19:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "artemis",
-      "NASA",
-      "nasa budget",
-      "science",
-      "solar system",
-      "space policy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55185418641_c81ccfeefb_k-500x500.jpg",
     "pinned": false
   },
   {
@@ -1405,32 +1444,6 @@
     "pinned": false
   },
   {
-    "id": "f83517744606604e7ffbabc4c5873f0dab3914a8",
-    "title": "SystemRescue 13 lands with Linux 6.18 and bcachefs support",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/systemrescue_13/",
-    "summary": "<h4>And other handy tools that could save your data in a crisis</h4> <p>The latest update to the handy SystemRescue is here with a new kernel. There's also a new GParted Live, and some other handy utilities.…</p>",
-    "isoDate": "2026-04-02T09:02:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7dcba598dce65331dbfd54e7d07457b9a8cfaa6e",
-    "title": "The company's biggest security hole lived in the breakroom",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/pwned/",
-    "summary": "<h4>Connected devices can leave an otherwise secure network vulnerable</h4> <p><strong>Pwned</strong>  Welcome to Pwned, <i>The Register's</i> new column, where we highlight the worst infosec own goals so you can, hopefully, protect against them. Caffeine is an essential tool for most IT defenders, so, on balance, we're sure it has protected against a lot more exploits than it has caused. But in this case, the desire for everyone's favorite stimulant led to a massive breach.…</p>",
-    "isoDate": "2026-04-02T08:01:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Avram Piltch",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "fd673bc4aacdafb5606a277777436a511f3dbae3",
     "title": "Tesla Sees Major Sales Surge Across Europe in March",
     "link": "https://www.notateslaapp.com/news/3890/tesla-sees-major-sales-surge-across-europe-in-march",
@@ -1534,19 +1547,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-unsupervised-geofence-march-2026.webp/ac80ce3323f6426e75b76f8e0a12d15a/robotaxi-unsupervised-geofence-march-2026.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a3a2e1aabdd998e91ddd60bc63c0400048a50dd2",
-    "title": "Tesla Delays Optimus Gen 3 Unveil for 'Finishing Touches'",
-    "link": "https://www.notateslaapp.com/news/3884/tesla-delays-optimus-gen-3-unveil-for-finishing-touches",
-    "summary": "Tesla was originally expected to end Q1 2026 with a bang, but it looks like fans will have to wait just a bit longer to see the future of humanoid robotics&hellip; <a href=\"https://www.notateslaapp.com/news/3884/tesla-delays-optimus-gen-3-unveil-for-finishing-touches\">Read More</a>",
-    "isoDate": "2026-03-31T18:06:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-2.webp/33dcaf6b89878453a59f0426bc1c60b0/optimus-human-hands-2.jpg",
     "pinned": false
   }
 ]
