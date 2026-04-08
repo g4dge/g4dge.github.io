@@ -1,5 +1,74 @@
 [
   {
+    "id": "0b540a825ae22fd6cedb15d62f4912bb86688702",
+    "title": "DARPA looking for battery that could power a laptop for months",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/darpa_fusion_firm_radioactive_battery/",
+    "summary": "<h4>Drawback: it’s radioactive</h4> <p>Forget recharging or swapping out disposable AAs every day. What if you could power energy-hungry devices for months or even years at a time from a single, reasonably-sized battery? A Washington state-based fusion energy startup is helping to make that dream a reality for DARPA, which wants higher-power radioactive batteries for space. …</p>",
+    "isoDate": "2026-04-08T20:52:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fc17aad0f32fc3261072824be54643444fedda07",
+    "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+    "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+    "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
+    "isoDate": "2026-04-08T20:49:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Policy",
+      "Security",
+      "critical infrastructure",
+      "hacking",
+      "PLCs",
+      "Programmable logic controllers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iranhax-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1810c49a1a74c891ccd9708dcf5cfc4d602f4bc7",
+    "title": "Call your existing automation ‘zero-token architecture’ to become an instant agentic AI wiz",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/automation_zerotoken_architecture_ai/",
+    "summary": "<h4>Kubernetes luminary Kelsey Hightower thinks IT pros need to get smart about thriving in a world that’s trying to hide deep tech</h4> <p>As businesses drink the agentic AI Kool-Aid and go looking for productivity enhancements, IT professionals can deliver by rebranding their existing automations as “zero-token architecture,” according to Kelsey Hightower, a former Google distinguished engineer and a notable early promoter of Kubernetes.…</p>",
+    "isoDate": "2026-04-08T20:21:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a75adb3eab9b7ccefc3f6e92e02f1e38ff0b042c",
+    "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+    "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+    "summary": "Meta touts strong benchmarks but admits \"performance gaps\" in agentic and coding systems.",
+    "isoDate": "2026-04-08T19:59:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "LLaMA",
+      "meta",
+      "Model",
+      "muse",
+      "muse spark",
+      "Spark",
+      "superintelligence"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "303d219369d041b0259e1acfea6b89f2db5ba98c",
     "title": "How our digital devices are putting our right to privacy at risk",
     "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
@@ -832,22 +901,6 @@
     "pinned": false
   },
   {
-    "id": "852e8f1d1e28c57086ff9d668219e91f35d9e3c7",
-    "title": "The Rivian R2 will launch with 335 miles of range",
-    "link": "https://arstechnica.com/cars/2026/04/rivian-r2-epa-certification-leaked-gets-335-miles-of-range/",
-    "summary": "The test document also shows the effect on range of fitting all-terrain tires.",
-    "isoDate": "2026-04-07T14:54:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Rivian R2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/R2_GlacierWhiteExterior11-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e73ca5113256a44716d71510bab48615ecac93c5",
     "title": "Only 28% of AI infrastructure projects fully pay off, survey finds",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/ai_returns_gartner/",
@@ -949,28 +1002,6 @@
     "author": "Rupert Goodwins",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "33e8f7d39ed4a3a467adf0acd6672eaba7716208",
-    "title": "Intel is going all-in on advanced chip packaging",
-    "link": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
-    "summary": "Intel is hoping to cash in on the AI boom.",
-    "isoDate": "2026-04-07T09:00:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Lauren Goode, wired.com",
-    "tags": [
-      "AI",
-      "Tech",
-      "AI chips",
-      "chips",
-      "chips fab",
-      "Intel",
-      "syndication",
-      "TSMC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/intelfab-500x500.jpg",
     "pinned": false
   },
   {
@@ -1272,32 +1303,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ca7572ea6cb56183c5f33d9ec51196df36dad2d7",
-    "title": "If an AI agent screws up while running your business, there's nobody to sue",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/05/ai_agents_liability/",
-    "summary": "<h4>Vendors tout the potential, but responsibility remains unclear</h4> <p>\"You can't blame it on the box,\" says the boss of a UK financial regulator. What about the people who sold you the box? Good luck with that, says a global tech analyst.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-05T10:00:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2d5642cbb7241a16a783d77430d038643bd77171",
-    "title": "How Nvidia learned to embrace the light in its quest for scale",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/05/nvidia_optical_scale_up/",
-    "summary": "<h4>The GPU king's move to optical scale-up was inevitable</h4> <p>If you thought Nvidia's GB200 rack systems were big, CEO Jensen Huang is just getting started. At GTC last month, the world's most valuable company revealed plans to use photonic interconnects to pack more than a thousand GPUs into a single mammoth system by 2028.…</p>",
-    "isoDate": "2026-04-05T08:00:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
     "tags": [],
     "image": "",
     "pinned": false
