@@ -1,7 +1,72 @@
 [
   {
+    "id": "b4973233a29eccfbb91d828164e0211db31db074",
+    "title": "Minnesota State payroll problems grew after Workday launch, auditors say",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/minnesota_workday_payroll/",
+    "summary": "<h4>Sample testing found incorrect payments and delays after college system adopted new HR platform</h4> <p>A Workday-based HR platform rollout at Minnesota State universities and colleges likely left more than a thousand faculty and staff with payroll errors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-08T16:55:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ca64ad73cf96c2b76690ba554e514bb0a9a55533",
+    "title": "Talk ain't cheap: DARPA offers grants for new AI-to-AI communication protocol",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/darpa_wants_ai_agent_communication/",
+    "summary": "<h4>MATHBAC program wants better machine-to-machine chatter for scientific discovery</h4> <p>To supercharge agents' ability to make scientific discoveries, DARPA is looking to improve cross-bot collaboration by developing a \"science of AI communication\" that will help the models work together to come up with better ideas. …</p>",
+    "isoDate": "2026-04-08T16:26:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1b630b95d8bc5cfa9ab1618842e4eb47ff0ce983",
+    "title": "Steam client files point to \"framerate estimator\" feature in the works",
+    "link": "https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/",
+    "summary": "JSON text strings suggest performance charts based on \"framerates of other Steam users.\"",
+    "isoDate": "2026-04-08T15:37:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "framerate",
+      "pc",
+      "PC gaming",
+      "performance",
+      "Steam",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/steam-stats-500x360.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "cc325f14668aab4f4200755cd05d62cfbb0bb63f",
+    "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
+    "link": "https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/",
+    "summary": "Post-2013 Kindles will continue to work, even if they no longer receive updates.",
+    "isoDate": "2026-04-08T15:26:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "Amazon",
+      "amazon kindle",
+      "kindle"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_2469-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "b64781b0d6b405d16bffb83f34c51ede9aec3702",
-    "title": "No F-150 in France? US automakers complain the EU blocks big trucks.",
+    "title": "No big trucks for little roads: American OEMs say EU is blocking imports",
     "link": "https://arstechnica.com/cars/2026/04/no-f-150-in-france-us-automakers-complain-the-eu-blocks-big-trucks/",
     "summary": "European buyers aren't interested in full-size trucks; US car industry doesn't care.",
     "isoDate": "2026-04-08T15:13:20Z",
@@ -954,50 +1019,6 @@
     "pinned": false
   },
   {
-    "id": "30c4f7a48350d4074f8016cc0b51b4dfe152e736",
-    "title": "Trump's next budget once again calls for massive cuts to science",
-    "link": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
-    "summary": "Congress rejected huge cuts to science in 2026, but Trump is trying again.",
-    "isoDate": "2026-04-06T21:40:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "DOE",
-      "EPA",
-      "federal budget",
-      "funding",
-      "NIH",
-      "NIST",
-      "NSF",
-      "OMB",
-      "Science policy",
-      "Trump"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bd995342294b0cb478ed7f3b27dfe0ef1ad113f7",
-    "title": "“The problem is Sam Altman”: OpenAI insiders don’t trust CEO",
-    "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
-    "summary": "OpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
-    "isoDate": "2026-04-06T21:23:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "Artificial Intelligence",
-      "openai",
-      "sam altman"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2236544323-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2a7b06b0c6dc256b38db13832bd42a16b938dc60",
     "title": "AMD's AI director slams Claude Code for becoming dumber and lazier since last update",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/",
@@ -1286,32 +1307,6 @@
     "pinned": false
   },
   {
-    "id": "56bef4685e479fd7b487a5241f5a4e836499efa4",
-    "title": "PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/04/prismml_1bit_llm/",
-    "summary": "<h4>Bonsai 8B model is competitive with other 8B models but 14x smaller and 5x more energy efficient</h4> <p>PrismML, an AI venture out of Caltech, has released a 1-bit large language model that outperforms weightier models, with the expectation that it will improve AI efficiency and viability on mobile devices, among other applications.…</p>",
-    "isoDate": "2026-04-04T08:09:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a8746c5c9a394b8057640ab97628f587c359102a",
-    "title": "Trump wants to take a battle axe to CISA again and slash $707M from budget",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/03/trump_cisa_budget/",
-    "summary": "<h4>Ex-CISA official tells The Reg: 'this would weaken the system for managing cyber risk'</h4> <p>The US Cybersecurity and Infrastructure Security Agency's budget will see yet another deep cut if Congress approves President Trump's proposal to slash CISA's spending by $707 million in fiscal year 2027.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-03T22:41:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "ac5195f04cf9889fa9e7eefe6b1a7bc5c0ef4ae2",
     "title": "Tesla Hits 80,000 Superchargers With Huge Site in France",
     "link": "https://www.notateslaapp.com/news/3906/tesla-hits-80000-superchargers-with-huge-site-in-france",
@@ -1535,19 +1530,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_49.webp/566f1c6ab3feee67bf3d23a57c75e21a/group_49.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cddac2dd8ac83bdcf056145a766c3255bb2ac996",
-    "title": "Tesla Officially Closes Model S and Model X Orders",
-    "link": "https://www.notateslaapp.com/news/3887/tesla-officially-closes-model-s-and-model-x-orders",
-    "summary": "If you were hoping to configure a brand-new Model S or Model X exactly to your liking and place an order, that window has officially slammed shut&hellip; <a href=\"https://www.notateslaapp.com/news/3887/tesla-officially-closes-model-s-and-model-x-orders\">Read More</a>",
-    "isoDate": "2026-04-01T15:49:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_56-1772721464.jpg/a5fa85bc2ba23b1c2930a2c94cd6f597/group_56-1772721464.jpg",
     "pinned": false
   }
 ]
