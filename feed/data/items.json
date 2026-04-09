@@ -1,5 +1,92 @@
 [
   {
+    "id": "b3579f9e2a7662195d19603129683742a16a41a4",
+    "title": "'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/several_dozen_highvalue_corporations_targeted/",
+    "summary": "<h4>Possible link to Mr. Raccoon's claimed Adobe break-in</h4> <p>A new extortion crew has targeted “several dozen high-value” corporations through phishing and helpdesk social-engineering, according to Google.…</p>",
+    "isoDate": "2026-04-09T17:11:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1502b232c120dc6f99ff54c650bd375bcff2a6cf",
+    "title": "Volkswagen stops building ID.4s in the US, has inventory \"into 2027\"",
+    "link": "https://arstechnica.com/cars/2026/04/volkswagen-ends-id-4-production-in-tennessee-to-build-atlas-suv/",
+    "summary": "Yet another automaker cancels an EV for gasoline SUVs in America.",
+    "isoDate": "2026-04-09T17:04:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "VW ID.4"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Original-16041-LIPMAN99479-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c5faae9715ba6222e4003b72f98070e4dfc7479f",
+    "title": "Deere oh Deere: Tractor repair row heads for $99M settlement",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/john_deere_repair_settlement/",
+    "summary": "<h4>FTC lawsuit lingers, while encouraging signs point to Iowa bill succeeding too</h4> <p>Agriculture manufacturing giant John Deere has agreed to a proposed $99 million settlement following a class action lawsuit in Illinois.…</p>",
+    "isoDate": "2026-04-09T17:00:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "613f617ef8402b833e9c9b3363243ad38e672f14",
+    "title": "Police corporal created AI porn from driver's license pics",
+    "link": "https://arstechnica.com/tech-policy/2026/04/state-police-corporal-created-porn-deepfakes-from-drivers-license-photos/",
+    "summary": "Officer created over 3,000 \"deepfake\" images.",
+    "isoDate": "2026-04-09T16:37:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nate Anderson",
+    "tags": [
+      "Policy",
+      "AI",
+      "deepfakes",
+      "Pennsylvania",
+      "state police"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2233168552-500x500-1775751717.jpg",
+    "pinned": false
+  },
+  {
+    "id": "273f527d50a39751760d62f7e03e84246c9bc1b8",
+    "title": "Spark creator bags computing gong for making big data a little bit smaller",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/matei_zaharia_acm_prize/",
+    "summary": "<h4>ACM salutes Databricks co-founder Matei Zaharia with $250K prize</h4> <p>The Association for Computing Machinery (ACM) has awarded its annual Prize in Computing to Matei Zaharia for his work developing open source data and analytics software, including the widely used Apache Spark analytics engine.…</p>",
+    "isoDate": "2026-04-09T16:30:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "278639ca8cdf3d33aa24a7d1df1ac387e318c603",
+    "title": "Nutanix to add KubeVirt support to run VMs on K8s at the edge",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/nutanix_kubevirt_arm_supoprt/",
+    "summary": "<h4>Arm support is on the agenda, too, because AI is going to run on everything</h4> <p><strong>Exclusive</strong>  Nutanix plans to support KubeVirt to allow its customers to run both containers and VMs on the edge.…</p>",
+    "isoDate": "2026-04-09T15:51:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "345fb43f1e97cd6ff4313bc99d1125f4df0c8c56",
     "title": "First man convicted under Take It Down Act kept making AI nudes after arrest",
     "link": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
@@ -829,27 +916,6 @@
     "pinned": false
   },
   {
-    "id": "1fa85f53fffa43c9cf52bf7df6e7eb2c524409a9",
-    "title": "Thousands of consumer routers hacked by Russia's military",
-    "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
-    "summary": "End-of-life routers in homes and small offices hacked in 120 countries.",
-    "isoDate": "2026-04-08T11:00:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Policy",
-      "Security",
-      "credentials",
-      "DNS",
-      "hacking",
-      "routers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "ed91cb117d917b9eaaba9b9ec86704616c956e43",
     "title": "Tesla Adds Parked Blind Spot Warning to Cybertruck",
     "link": "https://www.notateslaapp.com/news/3927/tesla-adds-parked-blind-spot-warning-to-cybertruck",
@@ -996,23 +1062,6 @@
     "pinned": false
   },
   {
-    "id": "743bd6753d23f81b6d1bc4b463dbbb99f5c5a89e",
-    "title": "Valve brings native Steam Link app to Apple's Vision Pro",
-    "link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
-    "summary": "New app can replace third-party options that were jankier to use.",
-    "isoDate": "2026-04-07T22:21:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Apple",
-      "Gaming",
-      "Tech"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "2030760ad296c7198c563d3f0b4c1abcfab1cc91",
     "title": "Cloudflare, GoDaddy team up to curb AI bot brigades",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/cloudflare_godaddy_ai_bot_blocking/",
@@ -1130,19 +1179,6 @@
     "pinned": false
   },
   {
-    "id": "dc37cb5e0b18ce0d756175f729aab2c432118e4a",
-    "title": "Russia's Fancy Bear still attacking routers to boost fake sites, NCSC warns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/russia_fancy_bear_ncsc_router_attack/",
-    "summary": "<h4>200 orgs and 5,000 devices compromised so far in Vlad's latest intelligence grab, Microsoft reckons</h4> <p>The UK's National Cyber Security Centre (NCSC) has issued a fresh warning about Russia's ongoing targeting of routers to steal passwords and other secrets.…</p>",
-    "isoDate": "2026-04-07T17:02:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "20e716b7fc746ae6c046400256dba1dfc4e8edda",
     "title": "How Tesla FSD Works Part 5: Modeling a Physical World Without LiDAR",
     "link": "https://www.notateslaapp.com/news/3864/how-tesla-fsd-works-part-5-modeling-a-physical-world-without-lidar",
@@ -1153,45 +1189,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/how_fsd_works_part_5.jpg/b80562cc706cab3c6c36aa18a4b41c48/how_fsd_works_part_5.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5772d7e7bd936676520af302020c8c79726b1dd6",
-    "title": "Stack Overflow abandons redesign after loyalists criticize it",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/stack_overflow_retires_redesign_beta/",
-    "summary": "<h4>Fabled Q&amp;A site for devs struggles with its future as AI takes over its original purpose</h4> <p>Stack Overflow, the once-popular dev community, has abandoned a planned redesign that was meant to refocus the site more on discussions than the question-and-answer format that built its reputation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-07T16:26:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3cdea53d9e2ea692f68cc52339aaf2e8dcdd7411",
-    "title": "Artemis II snaps eclipse, Earthset shots on first crewed lunar flyby since Apollo",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/artemis_ii_astronauts_snap_pics_moon/",
-    "summary": "<h4>Turns out deep space still looks better without AI helping</h4> <p>The Artemis II mission has produced some stunning imagery as the spacecraft loops around the Moon on its journey from Earth and back.…</p>",
-    "isoDate": "2026-04-07T15:53:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c1f7407189b5bc52c7c76b994700b88634b35a92",
-    "title": "Break, no fix: Apple and Samsung make repairs hard",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/apple_samsung_repairability/",
-    "summary": "<h4>Motorola and Google top PIRG's latest scorecard</h4> <p>Samsung and Apple phones are more difficult to repair than those from other makers, according to a report ranking devices by how easy to fix they are.…</p>",
-    "isoDate": "2026-04-07T15:08:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1500,19 +1497,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-frunk-sighting-giga-texas-1-1775152632.webp/c3c22dd2b2163c59e62e992416938e6d/cybercab-frunk-sighting-giga-texas-1-1775152632.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b593c4bfc24ebd12fa8c6700ca19cebe3a22c7b8",
-    "title": "Tesla Model X Inventory Sold Out, Model S Nearly Gone",
-    "link": "https://www.notateslaapp.com/news/3900/tesla-model-x-inventory-sold-out-in-us-model-s-nearly-gone",
-    "summary": "Just days after the company announced it was closing the order books for its flagship vehicles, the Model X appears to have sold out across the United States&hellip; <a href=\"https://www.notateslaapp.com/news/3900/tesla-model-x-inventory-sold-out-in-us-model-s-nearly-gone\">Read More</a>",
-    "isoDate": "2026-04-02T16:01:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/model-s-model-x-cropped.webp/6bc3a912b2a72b0ae9bfa73227e6efe3/model-s-model-x-cropped.jpg",
     "pinned": false
   }
 ]
