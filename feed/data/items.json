@@ -1,5 +1,57 @@
 [
   {
+    "id": "bd7e82e4ea57c410292bd4ff741bdfa8454392e8",
+    "title": "Clinical trial shows gene editing works for β-Thalassaemia, too",
+    "link": "https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/",
+    "summary": "Improved gene editing process reactivates the fetal version of a hemoglobin gene.",
+    "isoDate": "2026-04-09T20:28:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Health",
+      "Science",
+      "clinical trial",
+      "CRISPR",
+      "gene editing",
+      "β-Thalassaemia"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-185759358-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b3c5e631fa8f6b9b93a2191774681e13c3792052",
+    "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
+    "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+    "summary": "Western Union exec says there were \"challenges\" working with Broadcom.",
+    "isoDate": "2026-04-09T19:44:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Biz & IT",
+      "acquisitions",
+      "Broadcom",
+      "mergers",
+      "vmware"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "be07097684bded060ee64541c2651a234ff8aa9c",
+    "title": "Anthropic will let your agents sleep on its couch",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/anthropic_offers_to_host_ai/",
+    "summary": "<h4>Want to run your business on autopilot? For better or worse, Managed Agents might help with that</h4> <p>If you need AI agents to do a lot of ongoing tasks for your business, Anthropic has a new answer for you. The Claude maker has introduced Managed Agents, a service to help organizations create and deploy cloud-hosted knowledge work automations.…</p>",
+    "isoDate": "2026-04-09T19:29:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6a19065b0450b4bb3f0afec203decd697c24bb87",
     "title": "Ugandan chimps split into two factions, then killed rivals",
     "link": "https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/",
@@ -56,7 +108,17 @@
     "tags": [
       "Science",
       "Space",
-      "artemis II"
+      "artemis",
+      "artemis II",
+      "Christina Koch",
+      "human spaceflight",
+      "Jeremy Hansen",
+      "moon",
+      "NASA",
+      "orion",
+      "Reid Wiseman",
+      "solar eclipse",
+      "victor glover"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55193566011_1666acffaf_4k-500x500.jpg",
     "pinned": false
@@ -864,45 +926,6 @@
     "pinned": false
   },
   {
-    "id": "1b630b95d8bc5cfa9ab1618842e4eb47ff0ce983",
-    "title": "Steam client files point to \"framerate estimator\" feature in the works",
-    "link": "https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/",
-    "summary": "JSON text strings suggest performance charts based on \"framerates of other Steam users.\"",
-    "isoDate": "2026-04-08T15:37:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "framerate",
-      "pc",
-      "PC gaming",
-      "performance",
-      "Steam",
-      "Valve"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/steam-stats-500x360.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "cc325f14668aab4f4200755cd05d62cfbb0bb63f",
-    "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
-    "link": "https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/",
-    "summary": "Post-2013 Kindles will continue to work, even if they no longer receive updates.",
-    "isoDate": "2026-04-08T15:26:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "Amazon",
-      "amazon kindle",
-      "kindle"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_2469-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "5238a3cf0b2cb3b0f3203e271420282f0d98f973",
     "title": "Microsoft calls time on ASP.NET Core 2.3 on .NET Framework",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/aspnet_net_framework/",
@@ -1148,19 +1171,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "17f34f332bf3891c4924bcfd4ed087db342ac4e3",
-    "title": "AWS CEO: It's funny when people ask me if AI is overhyped",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/aws_garman_humanx_ai_underhyped/",
-    "summary": "<h4>Matt Garman sounds the alarm but plays down the SaaS-pocalypse at Human[X]</h4> <p>Stefan Weitz, CEO and co-founder of the Human[X] conference, welcomed attendees to the AI-focused bitshow in San Francisco with the promise that they would receive no certainty and no playbook.…</p>",
-    "isoDate": "2026-04-07T21:21:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1484,19 +1494,6 @@
       "Religion"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3097c1f38fbfa54213335ecb63ce811c26b23021",
-    "title": "Tesla Q1 Supercharger Stats: 53M Sessions, 2,500 New Stalls, and More",
-    "link": "https://www.notateslaapp.com/news/3902/tesla-q1-supercharger-stats-53m-sessions-2500-new-stalls-and-more",
-    "summary": "Tesla just dropped its Supercharging statistics for the first quarter of 2026, and the numbers show a network that is scaling faster than ever&hellip; <a href=\"https://www.notateslaapp.com/news/3902/tesla-q1-supercharger-stats-53m-sessions-2500-new-stalls-and-more\">Read More</a>",
-    "isoDate": "2026-04-02T19:55:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/supercharger-end-of-page-desktop.jpeg/4266f400d0eaecb5acabaf12870bb491/supercharger-end-of-page-desktop.jpg",
     "pinned": false
   }
 ]
