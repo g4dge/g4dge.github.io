@@ -1,5 +1,58 @@
 [
   {
+    "id": "82211bbc34d130d8be781c36a93d8d6bec76c0e7",
+    "title": "South Korea introduces universal basic mobile data access",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+    "summary": "<h4>Everyone gets 400kbps access, oldies get expanded caps, and leaky telcos get a rap over the knuckles</h4> <p>Universal basic income is an idea that hasn’t gained much traction, but South Korea on Thursday implemented a universal basic mobile data access scheme.…</p>",
+    "isoDate": "2026-04-10T03:14:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1a88f7241d5217b4b3e6d025389ba271c71cbbd7",
+    "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+    "link": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+    "summary": "After leaks on Artemis I and II, Orion's next flight to the Moon will need new valves.",
+    "isoDate": "2026-04-10T00:55:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "airbus",
+      "artemis",
+      "artemis II",
+      "artemis iii",
+      "artemis iv",
+      "european service module",
+      "european space agency",
+      "human spaceflight",
+      "moon",
+      "NASA",
+      "orion spacecraft"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55194459003_3bae619a73_o-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8e2965d1c04141f5468c25397687e37b3fc0b91a",
+    "title": "Microsoft cuts cloudy desktop prices by 20 percent, warns they’ll wake up slowly",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/microsoft_cuts_cloudy_desktop_prices/",
+    "summary": "<h4>Just in time to get buyers thinking as physical PC prices rise</h4> <p>Microsoft has told its channel partners to get ready for a 20 percent price cut for Windows 365 cloud PCs, effective May 1st.…</p>",
+    "isoDate": "2026-04-10T00:28:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "d4bb0a32870230f39972ce56164a497d06f10718",
     "title": "Chatbots are great at manipulating people to buy stuff, Princeton boffins find",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/chatbots_excel_at_manipulating_people/",
@@ -868,23 +921,6 @@
     "pinned": false
   },
   {
-    "id": "6f5444d0fa2f3d62a9a52e28a26113aa284edc02",
-    "title": "Motorola suddenly raises budget phone prices up to 50%—you can probably thank AI",
-    "link": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
-    "summary": "Motorola's budget phones are much less budget-friendly today.",
-    "isoDate": "2026-04-08T18:39:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Tech",
-      "motorola",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/moto_g_2026-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "ed076d31b49d2548e9f75b8f5b6774f8613a3c8e",
     "title": "Nvidia's Rubin GPU is likely to be late thanks to memory shortage and technical challenges",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/nvidia_supply_chain/",
@@ -1143,32 +1179,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4e40393e01189deb2c4c71a225103e2ae95596da",
-    "title": "Iran cyber actors disrupting US water, energy facilities, FBI warns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/iran_hackers_disrupting_us_water_energy/",
-    "summary": "<h4>Your PLCs aren't internet-connected, right? Right?!</h4> <p>Iranian-affiliated actors have escalated intrusions targeting critical US water and energy facilities, in some cases disrupting operations, the FBI and American cyber defense agencies said on Tuesday.…</p>",
-    "isoDate": "2026-04-07T23:30:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3196b29b57f9ef60ca45c9c107e3e8c8aefbbf28",
-    "title": "Nutanix thinks some Azure cloud desktops belong on-prem to make them usable",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/nutanix_azure_cloud_desktops/",
-    "summary": "<h4>Also asserts it can beat Cisco's homebrew hypervisor for calling apps</h4> <p><strong>.NEXT</strong>  Nutanix has teamed with Microsoft to bring cloudy desktops on-prem, using its extensive desktop virtualization (VDI) experience to make it work.…</p>",
-    "isoDate": "2026-04-07T23:14:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
     "tags": [],
     "image": "",
     "pinned": false
