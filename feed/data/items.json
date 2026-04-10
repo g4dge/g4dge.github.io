@@ -1,5 +1,41 @@
 [
   {
+    "id": "6ddbc59e6cba69733026e33b12246781154e24f5",
+    "title": "Dad stuck in support nightmare after teen lied about age on Discord",
+    "link": "https://arstechnica.com/tech-policy/2026/04/dad-stuck-in-support-nightmare-after-teen-lied-about-age-on-discord/",
+    "summary": "Data dump confirms dad's suspicions that Discord knew teen's age prior to hack.",
+    "isoDate": "2026-04-10T11:30:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "age checks",
+      "age estimation",
+      "age verification",
+      "chatbot",
+      "child safety",
+      "discord",
+      "financial extortion",
+      "online scam"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2260552350-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b275a8279029b4ab4195ad24364191bdee7280fe",
+    "title": "Project Glasswing and open source software: The good, the bad, and the ugly",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/project_glasswing/",
+    "summary": "<h4>Just what FOSS developers need – a flood of AI-discovered vulnerabilities</h4> <p><strong>Opinion</strong>  Anthropic describes Project Glasswing as a coalition of tech giants committing $100 million in AI resources to hunt down and fix long-hidden vulnerabilities in critical open source software that it's finding with its new Mythos AI program. Or as <em>The Reg</em> <a href=\"https://www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/\" target=\"_blank\">put it</a>, \"an AI model that can generate zero-day vulnerabilities.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-10T11:30:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Steven J. Vaughan-Nichols",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5eb53f8ea162ae33172ae7c87b0a156a795cd409",
     "title": "Britain seeks views before it drops the hammer on signal jammers",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/signal_jammer_consultation/",
@@ -14,7 +50,7 @@
   },
   {
     "id": "77f23007ff924e6c352432bbfa93db11fc9fd753",
-    "title": "Rocket Report: Price parity between Ariane 6 and Falcon 9? Isar stands down.",
+    "title": "Rocket Report: Chinese version of Falcon 9 fails; Artemis depends on rapid heavy lift",
     "link": "https://arstechnica.com/space/2026/04/rocket-report-price-parity-between-ariane-6-and-falcon-9-isar-stands-down/",
     "summary": "“As space becomes increasingly strategic, access is no longer a luxury.\"",
     "isoDate": "2026-04-10T11:00:00Z",
@@ -991,28 +1027,6 @@
     "pinned": false
   },
   {
-    "id": "a75adb3eab9b7ccefc3f6e92e02f1e38ff0b042c",
-    "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
-    "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
-    "summary": "Meta touts strong benchmarks but admits \"performance gaps\" in agentic and coding systems.",
-    "isoDate": "2026-04-08T19:59:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "LLaMA",
-      "meta",
-      "Model",
-      "muse",
-      "muse spark",
-      "Spark",
-      "superintelligence"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "52b6028d2d1c8b23400fc4b0ccb7c3a46b43fd0f",
     "title": "Tesla Cybercab Fleet Spotted at Giga Texas as Production Ramps",
     "link": "https://www.notateslaapp.com/news/3929/tesla-cybercab-fleet-spotted-at-giga-texas-as-production-ramps",
@@ -1190,19 +1204,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "13d757cf5a9e3b5e78ea12d5262fcd9019d5f815",
-    "title": "NHS Scotland-linked domains caught serving pr0n and dodgy sports streams",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/scotland_nhs_domain_compromised/",
-    "summary": "<h4>Two practice web addresses appear to have been compromised</h4> <p>Multiple domains belonging to Scottish healthcare providers have been hijacked and are now pushing links to adult content and illegal sports streams, according to a researcher.…</p>",
-    "isoDate": "2026-04-08T10:00:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
