@@ -1,5 +1,39 @@
 [
   {
+    "id": "049e6d53d26abeb6eb97dee7a1784398846da486",
+    "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+    "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+    "summary": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
+    "isoDate": "2026-04-11T11:15:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Tim Bradshaw, Financial Times",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "gambling",
+      "Grok sucks",
+      "LLMs",
+      "syndication",
+      "xAI Grok"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0a0cc287d97837bf4e36ca4baf2e4f020869b404",
+    "title": "Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/11/trivy_axios_supply_chain_attacks/",
+    "summary": "<h4>Time to start dropping SBOMs</h4> <p><strong>FEATURE</strong>  Two supply chain attacks in March infected open source tools with malware and used this access to steal secrets from tens of thousands – if not more – organizations. We won't know the full blast radius for months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-11T11:11:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "07e3801b90e996e3f6e2b5eb871b4d3156cf8d00",
     "title": "Hungarian government creds left in the safe hands of 'FrankLampard'",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/",
@@ -714,25 +748,6 @@
     "pinned": false
   },
   {
-    "id": "b3c5e631fa8f6b9b93a2191774681e13c3792052",
-    "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
-    "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
-    "summary": "Western Union exec says there were \"challenges\" working with Broadcom.",
-    "isoDate": "2026-04-09T19:44:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Biz & IT",
-      "acquisitions",
-      "Broadcom",
-      "mergers",
-      "vmware"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "be07097684bded060ee64541c2651a234ff8aa9c",
     "title": "Anthropic will let your agents sleep on its couch",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/anthropic_offers_to_host_ai/",
@@ -1222,19 +1237,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "cff896aa18c93965407ab177af0d977b974bf2ba",
-    "title": "RAF eyes cheap drone-killer as Typhoon jet tests laser-guided rockets",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/typhoon_drone_laser_rockets/",
-    "summary": "<h4>BAE says trials could offer cheaper way to counter uncrewed aerial threats</h4> <p>BAE Systems has successfully tested a laser-guided rocket system with a Typhoon fighter jet from Britain's Royal Air Force (RAF) as a potential anti-drone weapon. It follows earlier trials in the US with the F-15E Strike Eagle.…</p>",
-    "isoDate": "2026-04-08T17:58:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
