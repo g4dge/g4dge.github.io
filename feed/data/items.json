@@ -1,5 +1,44 @@
 [
   {
+    "id": "bc5cc39293e91f06ea998301804c648ec770dcf6",
+    "title": "Claude Code cache confusion as Anthropic tweaks defaults, but quotas still drain",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/claude_code_cache_confusion/",
+    "summary": "<h4>Dev reports suggest long sessions now burn through usage much faster</h4> <p>Anthropic last month reduced the TTL (time to live) for the Claude Code prompt cache from one hour to five minutes for many requests, but said this should not increase costs despite users reporting faster depleting quotas.…</p>",
+    "isoDate": "2026-04-13T15:14:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f0110535bd23ec620d2b9aa00aabf9fbff4e057b",
+    "title": "Notepad sheds Copilot from toolbar as Microsoft gives subtlety a try",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/microsoft_notepad_copilot_icon/",
+    "summary": "<h4>AI gubbins still there, just tucked under 'Writing Tools'</h4> <p>Copilot is on its way out of Notepad, but a return to the basic text editor is not on the cards.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-13T15:01:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "929af57c771ea4d309f8e4cdf17f63c2d47c5d7a",
+    "title": "Tesla Improves Camera Visibility Alerts With Larger UI in FSD V14.3",
+    "link": "https://www.notateslaapp.com/news/3942/tesla-improves-camera-visibility-alerts-with-larger-ui-in-fsd-v143",
+    "summary": "Tesla is making it easier to maintain FSD cameras. The new v14.3 update features massive on-screen alerts with better images of obstructed cameras.&hellip; <a href=\"https://www.notateslaapp.com/news/3942/tesla-improves-camera-visibility-alerts-with-larger-ui-in-fsd-v143\">Read More</a>",
+    "isoDate": "2026-04-13T15:01:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/new_camera_visibility_alert_14-3.jpg/d7352fa44886bdd1e4782203c8e18fd6/new_camera_visibility_alert_14-3.jpg",
+    "pinned": false
+  },
+  {
     "id": "26d45d4b30b04c519f67fdfb0f8d05a919de121f",
     "title": "Slate Auto raises $650 million as production gets closer and closer",
     "link": "https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer/",
@@ -1263,32 +1302,6 @@
     "pinned": false
   },
   {
-    "id": "a8a779ac455ab4389c0db497f88276647c6b0e67",
-    "title": "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/",
-    "summary": "<h4>Sam Altman's datacenter dreams hit a wall of watts and wonkery, cooling Britain's AI ambitions</h4> <p>OpenAI is pausing its planned Stargate datacenter project in the UK just months after announcing it, citing the regulatory environment and cost of energy as reasons for putting it on hold.…</p>",
-    "isoDate": "2026-04-09T14:54:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "64a6047cb9dcf196fbadde5c8c0d7a522bed2b7c",
-    "title": "Months-old Adobe Reader zero-day uses PDFs to size up targets",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/monthsold_adobe_reader_zeroday_uses/",
-    "summary": "<h4>Malicious PDFs abuse legit features to harvest system data and decide which victims get a 2nd-stage payload</h4> <p>Hackers have been quietly exploiting what appears to be a zero-day in Adobe Acrobat Reader for months, using booby-trapped PDFs to profile targets and decide who's worth fully compromising.…</p>",
-    "isoDate": "2026-04-09T14:30:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "00d74c69b8208b93e1d8b51c2bc0a9c3d80d7751",
     "title": "Tesla is Secretly Working On a New, Smaller SUV",
     "link": "https://www.notateslaapp.com/news/3932/tesla-is-secretly-working-on-a-new-smaller-suv",
@@ -1525,32 +1538,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-gen-3-silhouette-slide.webp/86c4157492410e3d676484aeeb7ab2d5/optimus-gen-3-silhouette-slide.jpg",
-    "pinned": false
-  },
-  {
-    "id": "77b64606ed21ec3b7d45a70a0d58eefa909455d3",
-    "title": "NHTSA Closes Investigation Into Tesla's Actually Smart Summon Feature",
-    "link": "https://www.notateslaapp.com/news/3916/nhtsa-closes-investigation-into-teslas-actually-smart-summon-feature",
-    "summary": "Tesla has officially cleared one of its many regulatory hurdles as the U.S. government winds down a year-long investigation into its remote-driving technology&hellip; <a href=\"https://www.notateslaapp.com/news/3916/nhtsa-closes-investigation-into-teslas-actually-smart-summon-feature\">Read More</a>",
-    "isoDate": "2026-04-06T16:12:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2022/smart-summon.jpg/798edbddcaab8ecac3cc8c21ac292add.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7bc0ef5cfd912cf674975f23f0d1d4a35dc15b2b",
-    "title": "Tesla’s Final Model S and X Units Get Massive Price Jump",
-    "link": "https://www.notateslaapp.com/news/3915/teslas-final-model-s-and-x-units-get-massive-price-jump",
-    "summary": "Just days after closing the order books for the Model S and Model X, the automaker has implemented a massive price hike on every remaining unit in its inventory&hellip; <a href=\"https://www.notateslaapp.com/news/3915/teslas-final-model-s-and-x-units-get-massive-price-jump\">Read More</a>",
-    "isoDate": "2026-04-06T15:21:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_54.jpg/2d493cfd173d9d8cd9f7b6146454e5ef/group_54.jpg",
     "pinned": false
   }
 ]
