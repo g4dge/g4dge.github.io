@@ -1,9 +1,83 @@
 [
   {
+    "id": "f504b42914b7316db9b308a2fcdb773d59331a66",
+    "title": "Commvault has a Ctrl+Z for rogue AI agents",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/commvault_has_a_ctrlz_for/",
+    "summary": "<h4>The company's new software keeps an eye on your agents and backs up data.</h4> <p>Keep your agents close and your agent-monitoring software closer. Commvault’s new AI Protect can discover and monitor AI agents running inside AWS, Azure, and GCP environments and even roll back their actions when something goes wrong.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-14T20:57:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "51605bb98a87f2a99851744071527e3ed4e39e91",
+    "title": "Microsoft's massive Patch Tuesday: It's raining bugs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsofts_massive_patch_tuesday/",
+    "summary": "<h4>One CVE under attack, one already disclosed by angry bug hunter, and 163 more</h4> <p>Attackers exploited a spoofing vulnerability in Microsoft SharePoint Server before Redmond issued a fix as part of April's mega Patch Tuesday.…</p>",
+    "isoDate": "2026-04-14T20:40:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d151f8d85da58d56bf3e015e8e33c356f2f4d822",
+    "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
+    "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
+    "summary": "Do you trust AI chatbots for health advice? What about one in your patient portal?",
+    "isoDate": "2026-04-14T20:30:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "AI",
+      "Health",
+      "chatbots",
+      "health systems",
+      "hospitals"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2245570667-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "01df52491085abd621e3c755f946cc0cb0b69026",
+    "title": "You can finally control serial devices from Firefox",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/firefox_nightly_web_serial/",
+    "summary": "<h4>Long languishing API gets love from Mozilla</h4> <p>Firefox will soon be able to communicate directly with your 3D printer. Thirteen years after the idea was initially proposed, the Web Serial API has landed in Firefox Nightly, Mozilla's work-in-progress channel for its browser.…</p>",
+    "isoDate": "2026-04-14T20:21:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1cd835bc23c602621c4b10ac70ba8ecc51027b5e",
+    "title": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away",
+    "link": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/",
+    "summary": "\"Paying more for the same stuff\" is the story of consumer technology in 2026.",
+    "isoDate": "2026-04-14T19:58:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "Microsoft Surface"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_1971-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "9dcc8c0c0fd6784d4e0c135e380dee4ccb19f19c",
     "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
     "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-    "summary": "New model is the first AI system to complete a difficult multi-step infiltration challenge.",
+    "summary": "New model is the first AI system to complete a difficult multistep infiltration challenge.",
     "isoDate": "2026-04-14T19:11:25Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -268,9 +342,9 @@
   },
   {
     "id": "b4577e6b3f12f03eff1389e53541bbe856d53190",
-    "title": "More bark than bite? NASA insiders oddly relaxed about latest budget threats",
+    "title": "NASA insiders oddly relaxed about latest budget threats",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/nasa_budget_insider_comment/",
-    "summary": "<h4>Veterans think Congress may swat cuts again, but uncertainty could still do lasting damage</h4> <p>As NASA's Artemis II mission headed for the Moon, the Trump administration unveiled another attempt to cut the agency's science budget. Yet some insiders, perhaps buoyed by déjà vu and a little post-traumatic resilience, are less alarmed than you might expect.…</p>",
+    "summary": "<h4>Veterans think Congress may swat cuts again, but uncertainty could still do lasting damage</h4> <p><strong>exclusive</strong>  As NASA's Artemis II mission headed for the Moon, the Trump administration unveiled another attempt to cut the agency's science budget. Yet some insiders, perhaps buoyed by déjà vu and a little post-traumatic resilience, are less alarmed than you might expect.…</p>",
     "isoDate": "2026-04-14T11:45:54Z",
     "source": "The Register",
     "category": "Tech",
@@ -449,7 +523,7 @@
   },
   {
     "id": "fa6b386f2cb2759aa52eba15f45364d042187db1",
-    "title": "Tesla Announces Spring 2026 Software Update: New Self-Driving App, 'Hey, Grok,' and More",
+    "title": "Tesla Announces Spring 2026 Software Update: New Self-Driving App, 'Hey Grok,' and More",
     "link": "https://www.notateslaapp.com/news/3966/tesla-announces-spring-2026-software-update-heres-whats-coming",
     "summary": "Tesla has just pulled the curtain back on its massive Spring 2026 update, and it is packed with a new FSD app and features that make your vehicle even better&hellip; <a href=\"https://www.notateslaapp.com/news/3966/tesla-announces-spring-2026-software-update-heres-whats-coming\">Read More</a>",
     "isoDate": "2026-04-13T21:38:00Z",
@@ -655,7 +729,7 @@
     "category": "Tech",
     "author": "",
     "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-europe-changes-8.webp/48562eb7ec50121fbd7dc96bdc247e5d/fsd-europe-changes-8.jpg",
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-europe-changes-5.webp/49450c49362ec7228d7fed94901567e8/fsd-europe-changes-5.jpg",
     "pinned": false
   },
   {
@@ -1186,27 +1260,6 @@
     "pinned": false
   },
   {
-    "id": "049e6d53d26abeb6eb97dee7a1784398846da486",
-    "title": "AI models are terrible at betting on soccer—especially xAI Grok",
-    "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
-    "summary": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
-    "isoDate": "2026-04-11T11:15:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Tim Bradshaw, Financial Times",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "gambling",
-      "Grok sucks",
-      "LLMs",
-      "syndication",
-      "xAI Grok"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0a0cc287d97837bf4e36ca4baf2e4f020869b404",
     "title": "Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/11/trivy_axios_supply_chain_attacks/",
@@ -1215,80 +1268,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "07e3801b90e996e3f6e2b5eb871b4d3156cf8d00",
-    "title": "Hungarian government creds left in the safe hands of 'FrankLampard'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/",
-    "summary": "<h4>Nearly 800 state logins surfaced in breach data, including defense and NATO-linked accounts</h4> <p>Hungary's government has discovered the hard way that the biggest threat to national security might just be its own password choices.…</p>",
-    "isoDate": "2026-04-11T08:30:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0032c94d8548ec2d628203e94d6c63a22cc9c823",
-    "title": "The Artemis II mission has ended. Where does NASA go from here?",
-    "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-    "summary": "\"The work ahead is greater than the work behind us.\"",
-    "isoDate": "2026-04-11T03:24:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "artemis",
-      "artemis II",
-      "blue origin",
-      "NASA",
-      "space",
-      "spacex"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e021278large-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3962f689bfddc67a41f28fcc27852028bcf26094",
-    "title": "Four astronauts are back home after a daring ride around the Moon",
-    "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
-    "summary": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
-    "isoDate": "2026-04-11T01:21:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "artemis",
-      "artemis II",
-      "Christina Koch",
-      "human spaceflight",
-      "Jeremy Hansen",
-      "moon",
-      "NASA",
-      "orion spacecraft",
-      "Reid Wiseman",
-      "US Navy",
-      "victor glover"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/a2splash1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "18ae24893126a260d78c00fe9ab452475e158b4b",
-    "title": "Snowflake manager explains the 'Spider-Man' theory of AI agent data access",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/ai_agents_spider_man_snowflake/",
-    "summary": "<h4>With access to great data comes great responsibility</h4> <p>Snowflake is betting that the biggest bottleneck to building more and better AI agents isn't the models themselves but whether the data those agents depend on is clean, accessible, and governed, Snowflake’s director of product management James Rowland-Jones told <em>The Register</em>.…</p>",
-    "isoDate": "2026-04-10T22:05:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1304,19 +1283,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_71.jpg/f1ad1adf4019ba5a3ce8c91af987ea11/group_71.jpg",
-    "pinned": false
-  },
-  {
-    "id": "009ac1b730bc9dbba922254107f049954275d558",
-    "title": "Here's how to watch the Artemis II splashdown",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/watch_artemis_ii_splashdown/",
-    "summary": "<h4>Crew went farther from Earth than any humans we know about, now they’re coming back!</h4> <p>In a world wracked by wars, beset by difficult economic conditions, and struggling with exploding RAM costs, there's one piece of good news. NASA's Artemis II mission has been an unqualified success, having carried four astronauts farther from Earth than any humans before them.…</p>",
-    "isoDate": "2026-04-10T21:44:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Avram Piltch",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1546,19 +1512,6 @@
       "UFOs"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3279a16acc71e649fe12cbbf9abffe3ef6fc4daf",
-    "title": "Tesla Releases FSD 14.3: Fleet Learning, 20% Faster Reactions, and More",
-    "link": "https://www.notateslaapp.com/news/3925/tesla-releases-fsd-143-fleet-learning-20-faster-reactions-and-more",
-    "summary": "Tesla has officially started releasing FSD (Supervised) v14.3, which CEO Elon Musk has previously called 'the last big piece' of the self-driving puzzle&hellip; <a href=\"https://www.notateslaapp.com/news/3925/tesla-releases-fsd-143-fleet-learning-20-faster-reactions-and-more\">Read More</a>",
-    "isoDate": "2026-04-07T20:09:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-v14.3-park.webp/55b2b2c01a159e85b2c0b5161196fc54/fsd-v14.3-park.jpg",
     "pinned": false
   }
 ]
