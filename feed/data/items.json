@@ -1,5 +1,53 @@
 [
   {
+    "id": "c911ddc288bc3b47566591b2c50811852e521f8e",
+    "title": "Ukraine’s military robot surge aims to offset drone risks to humans",
+    "link": "https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/",
+    "summary": "Ukraine is replacing more soldiers with robots in the battlefield kill zone.",
+    "isoDate": "2026-04-14T22:42:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "killer robots",
+      "military drones",
+      "weaponized robots"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/DevDroid-military-robot-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "364563ff3abaa34d44723622f9f5d46dee787edf",
+    "title": "Claude Code routines promise mildly clever cron jobs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/claude_code_routines/",
+    "summary": "<h4>Plus Anthropic has redesigned its Claude app</h4> <p>Anthropic has made it easier to automate Claude-oriented tasks without relying on autonomous agent software.…</p>",
+    "isoDate": "2026-04-14T22:40:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b84f96e3d9a50634bedfeb32dfa99cc03d366311",
+    "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
+    "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
+    "summary": "Some 2023 and 2024 models are also affected.",
+    "isoDate": "2026-04-14T22:00:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "Sony",
+      "TVs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/125732_original_local_1200x1050_v3_converted-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "f504b42914b7316db9b308a2fcdb773d59331a66",
     "title": "Commvault has a Ctrl+Z for rogue AI agents",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/commvault_has_a_ctrlz_for/",
@@ -929,26 +977,6 @@
     "pinned": false
   },
   {
-    "id": "3efe2de0a73b3fdadf5158f96417434e8098ca80",
-    "title": "To teach in the time of ChatGPT is to know pain",
-    "link": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
-    "summary": "LLM use is the most demoralizing problem I’ve faced as a college instructor.",
-    "isoDate": "2026-04-13T11:00:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scott K. Johnson",
-    "tags": [
-      "AI",
-      "Features",
-      "Science",
-      "LLMs",
-      "Science teaching",
-      "teaching"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2228543358-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "00e4858652ec16cd15867ea09b654aa5223a181c",
     "title": "Rockstar Games gets a taste of grand theft data",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/shinyhunters_rockstar_breach/",
@@ -1107,29 +1135,6 @@
     "pinned": false
   },
   {
-    "id": "beb72159ed6d747c51bbff53f5c10f8dc911b049",
-    "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
-    "link": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
-    "summary": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
-    "isoDate": "2026-04-12T11:17:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Marianne Lavalle, Inside Climate News",
-    "tags": [
-      "Science",
-      "diesel",
-      "donald trump iran war",
-      "energy poilcy",
-      "gasoline",
-      "jet fuel",
-      "syndication",
-      "transportation",
-      "USA-Ir"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dieselprices-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a90460d6e54e385aa979c07e80396a554416fbdd",
     "title": "Tesla Launches FSD Subscriptions in the Netherlands",
     "link": "https://www.notateslaapp.com/news/3956/tesla-launches-fsd-subscriptions-in-the-netherlands",
@@ -1257,19 +1262,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-road-conditions.webp/6e538e296037f92a41958737b8e4ef97/fsd-road-conditions.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0a0cc287d97837bf4e36ca4baf2e4f020869b404",
-    "title": "Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/11/trivy_axios_supply_chain_attacks/",
-    "summary": "<h4>Time to start dropping SBOMs</h4> <p><strong>FEATURE</strong>  Two supply chain attacks in March infected open source tools with malware and used this access to steal secrets from tens of thousands – if not more – organizations. We won't know the full blast radius for months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-11T11:11:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
