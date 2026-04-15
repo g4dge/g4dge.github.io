@@ -1,9 +1,114 @@
 [
   {
+    "id": "16b487b0808b24057604f22bef7e93b92d9a6744",
+    "title": "Blue Origin has a new employee stock plan, but not everyone is happy",
+    "link": "https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy/",
+    "summary": "\"We are being intentional about creating liquidity events.\"",
+    "isoDate": "2026-04-15T13:38:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "blue origin",
+      "space",
+      "spacex",
+      "stock options"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/HFqh0p3WsAEFUNs-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ebba2789f47a12d32ce14ddf0f2f2dbe5a22110c",
+    "title": "It's Tax Day, and no one knows how to file for prediction market winnings",
+    "link": "https://arstechnica.com/tech-policy/2026/04/its-tax-day-and-no-one-knows-how-to-file-for-prediction-market-winnings/",
+    "summary": "It's time for Americans to pay taxes on prediction market winnings, but no one knows how.",
+    "isoDate": "2026-04-15T13:15:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kate Knibbs, wired.com",
+    "tags": [
+      "Policy",
+      "gambling",
+      "income taxes",
+      "IRS",
+      "Kalshi",
+      "polymarket",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-tax-form-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3f12955ede9eb78c79f73f9ff1d89740e869c30f",
+    "title": "US states can't account for datacenter tax breaks. Literally",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/us_states_gaap_datacenters/",
+    "summary": "<h4>Report says authorities are flouting accounting rules by failing to disclose revenue lost to server farm subsidies</h4> <p>Many US states and local authorities are violating generally accepted accounting principles (GAAP) by failing to disclose revenue lost to datacenter tax subsidy schemes, according to Good Jobs First.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-15T12:35:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3da0e3e64a45ff0dcdbd47080397ced1c52e64fa",
+    "title": "Headless 360: Salesforce's latest pitch to let AI do the dev work",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/salesforce_headless_360/",
+    "summary": "<h4>Here comes 'enterprise vibe coding' as CRM giant aims to open development to anyone on the platform</h4> <p>Salesforce has introduced what it calls Headless 360 at its developer event TDX, which starts today in San Francisco, designed to expand the reach of its app-building tools beyond traditional developers.…</p>",
+    "isoDate": "2026-04-15T12:16:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a048eff32829819c2a0ba828c299bdcaa09bafae",
+    "title": "Tesla Rolls Out Safety Score 3.0: Cheaper Insurance for FSD",
+    "link": "https://www.notateslaapp.com/news/3973/tesla-rolls-out-safety-score-30-cheaper-insurance-for-fsd",
+    "summary": "In a major update to Tesla's in-house insurance program, Safety Score 3.0 introduces a massive incentive for those who let their cars do the heavy lifting&hellip; <a href=\"https://www.notateslaapp.com/news/3973/tesla-rolls-out-safety-score-30-cheaper-insurance-for-fsd\">Read More</a>",
+    "isoDate": "2026-04-15T12:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-safety-score-92.webp/c59df3094cbaa2858676b82321b991d7/tesla-safety-score-92.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f6a4ca9b39057a508401661ec345c5059d4e1dc2",
+    "title": "Ancient Excel bug comes out of retirement for active attacks",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/excel_exploit/",
+    "summary": "<h4>Vuln old enough to drive lands on CISA's exploited list</h4> <p>While Microsoft was rolling out its bumper Patch Tuesday updates this week, US cybersecurity agency CISA was readying an alert about a 17-year-old critical Excel flaw now under exploit.…</p>",
+    "isoDate": "2026-04-15T11:46:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "afee401597df62069553d17a27fe1e08a1fa9dfe",
+    "title": "Raspberry Pi OS ends open-door policy for sudo",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/raspberry_pi_os_sudo/",
+    "summary": "<h4>Command prefix will require password by default</h4> <p>The latest version of Raspberry Pi OS now requires a password for <code>sudo</code> by default.…</p>",
+    "isoDate": "2026-04-15T11:35:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "8d583a1ce68c1ce6b8b73096cbae615cc5f08e04",
     "title": "Fission impossible: Uncle Sam wants nuclear reactors in space by 2031",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/national_initiative_for_american_space/",
-    "summary": "<h4>Some on the Moon's surface, some in orbit. How does 5 years sound? Do-able, right nerds?</h4> <p>The nukes-in-space ambitions of the current US administration have taken a step forward - and the US Office of Science and Technology Policy has just published its hopes for who does what.…</p>",
+    "summary": "<h4>Some on the Moon's surface, some in orbit. How does 5 years sound? Do-able, right nerds?</h4> <p>The nukes-in-space ambitions of the current US administration have taken a step forward – and the US Office of Science and Technology Policy has just published its hopes for who does what.…</p>",
     "isoDate": "2026-04-15T11:06:18Z",
     "source": "The Register",
     "category": "Tech",
@@ -1009,22 +1114,6 @@
     "pinned": false
   },
   {
-    "id": "26d45d4b30b04c519f67fdfb0f8d05a919de121f",
-    "title": "Slate Auto raises $650 million as production gets closer and closer",
-    "link": "https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer/",
-    "summary": "The Slate Truck will start in the \"mid-$20,000s\" when it goes on sale in late 2026.",
-    "isoDate": "2026-04-13T14:35:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Slate Auto"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Blank-Slate-Profile-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bfaaa9188182f002e29b2145412790288b30fa27",
     "title": "Booking.com warns reservation data may have checked out with intruders",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/bookingcom_breach/",
@@ -1048,25 +1137,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7169cd8357ace369a572aad69fa723b9b36c81d0",
-    "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
-    "link": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
-    "summary": "The Meta chief is personally involved in training and testing his animated AI.",
-    "isoDate": "2026-04-13T13:52:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Hannah Murphy, Financial Times",
-    "tags": [
-      "AI",
-      "Mark Zuckerberg",
-      "meta",
-      "personal superintelligence",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1182969866-500x500.jpg",
     "pinned": false
   },
   {
@@ -1109,45 +1179,6 @@
     "pinned": false
   },
   {
-    "id": "85039b4e0a3b5e02dd4af487a34a2f668a20cded",
-    "title": "Gym giant Basic-Fit confirms data on a million members stolen in cyberattack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/basicfit_breach/",
-    "summary": "<h4>Names, addresses, dates of birth, and bank details accessed, though not passwords</h4> <p>Basic-Fit, Europe's largest gym chain, has confirmed data including the bank details of around a million customers was stolen from its systems.…</p>",
-    "isoDate": "2026-04-13T11:22:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "00e4858652ec16cd15867ea09b654aa5223a181c",
-    "title": "Rockstar Games gets a taste of grand theft data",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/shinyhunters_rockstar_breach/",
-    "summary": "<h4>ShinyHunters claims it accessed Snowflake metrics via third-party tool</h4> <p>ShinyHunters is back, this time pinning Rockstar Games to its leak site and claiming it didn't so much hack its way in as walk through a door someone else left wide open.…</p>",
-    "isoDate": "2026-04-13T10:41:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "18c4477d3ecaa2d78c910ae429a0ae4040f73939",
-    "title": "Digital sovereignty isn't just a buzzword – it's the future",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/digital_sovereignty/",
-    "summary": "<h4>Linux Foundation Europe boss predicts EU will run as fast as it can from US tech companies</h4> <p><strong>Opinion</strong>  You want to know who's even sicker of President Donald Trump than American liberals? European governments and companies who are realizing that putting all their eggs in one US basket was a stupid move.…</p>",
-    "isoDate": "2026-04-13T10:00:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Steven J. Vaughan-Nichols",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "3b654eac271f54876121f07668d3f5abe72b1a8b",
     "title": "The sterilisation-seekers",
     "link": "https://aeon.co/essays/why-did-disabled-people-support-eugenics-in-the-1930s?utm_source=rss-feed",
@@ -1172,19 +1203,6 @@
     "tags": [
       "Religion"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4f1f68eab5ae220610413bec4967f98dad941f09",
-    "title": "What happened when AI ran into the cold hard reality of the legal profession",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/ai_attorneys/",
-    "summary": "<h4>Hallucinations don't fly in a court of law</h4> <p><strong>Opinion</strong>  For a sector at the heart of US economic growth, AI claims and counter-claims remain curiously hard to reconcile. Models are improving at the speed of light, AI firms claim, yet the message from the codeface remains that benefits are more than offset by the downsides.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-13T08:44:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Rupert Goodwins",
-    "tags": [],
     "image": "",
     "pinned": false
   },
