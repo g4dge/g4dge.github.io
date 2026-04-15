@@ -1,7 +1,101 @@
 [
   {
+    "id": "424976dc5c01ea42673cb38a76d2f9f604c383a5",
+    "title": "Tesla Spring Update (2026.14) Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2026.14/release-notes",
+    "summary": "Tesla software update 2026.14 includes Pet Mode, Self-Driving App, \"Hey Grok\", Visual Updates, Trips, Sketchpad, Blind Spot Warning Accent Lights, Music App Queuing, Automatic Software Updates, Dashcam Viewer Updates, Weather Maps Improvements, Supercharger Pricing Filter, Keyboard, Security Improvements. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.14/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-04-15T20:37:42Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/pet-mode.png",
+    "pinned": false
+  },
+  {
+    "id": "cc8adfa06bcd9f2a14a1cc134b82a94211b19dc1",
+    "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
+    "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
+    "summary": "\"The vault is solid. The delivery truck is not.\"",
+    "isoDate": "2026-04-15T20:36:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Security",
+      "Tech",
+      "windows 11",
+      "windows 11 24h2",
+      "windows 11 25h2",
+      "windows recall"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/recall-02-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "92589c11ab51de40720cd1525a57f28f4eaeaccc",
+    "title": "Customers revolt as GitHub Copilot 'fixes' rate limits",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/github_copilot_rate_limiting_bug/",
+    "summary": "<h4>Repair of bug that undercounted token usage leads to rapid exhaustion of subscription allowance</h4> <p>Microsoft's GitHub last week told Copilot customers that they'd have to reduce their use of the AI service to ease the strain on company servers. This follows the company's discovery last month of a token counting bug that appears to have broken the company's pricing model.…</p>",
+    "isoDate": "2026-04-15T20:25:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7210835c33f8e88dae21c56e19e65a0273536e34",
+    "title": "First Look at Tesla's Grok Reminders in Software Update 2026.14",
+    "link": "https://www.notateslaapp.com/news/3976/first-look-at-teslas-grok-reminders-in-software-update-202614",
+    "summary": "Tesla has officially started rolling out its much-anticipated Spring 2026 Update, and it is bringing a serious boost to Grok functionality in the cabin&hellip; <a href=\"https://www.notateslaapp.com/news/3976/first-look-at-teslas-grok-reminders-in-software-update-202614\">Read More</a>",
+    "isoDate": "2026-04-15T20:25:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-grok-location-reminders.jpg/22495d3e0e2f4e244be5ac1f0f1983c9/tesla-grok-location-reminders.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2f8697a43dabd3e2f8e54bb792f7874888263347",
+    "title": "Shoe company says it's getting into AI infrastructure and yes this is the top",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/allbirds_ai_longislandicedtea_blockchain_lolol/",
+    "summary": "<h4>Following in the footsteps of Long Island Iced Tea</h4> <p><strong>OPINION</strong>  Back in December 2017, an obscure American soft drinks company changed its name from Long Island Iced Tea to Long Blockchain.…</p>",
+    "isoDate": "2026-04-15T20:06:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Matt Rosoff",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c00671d214e7c87b1c41bb9b9253d16fc636c06f",
+    "title": "Google releases new apps for Windows and MacOS",
+    "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+    "summary": "Google mostly creates products for the web, but it has some new desktop apps today.",
+    "isoDate": "2026-04-15T19:46:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "gemini",
+      "google",
+      "google search",
+      "MacOS",
+      "Windows"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "b5be93e4a454199d9933809f9f4256bd37a30d1a",
-    "title": "Robot dogs now read gauges and thermometers using Google Gemini",
+    "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
     "link": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
     "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities.",
     "isoDate": "2026-04-15T19:34:33Z",
@@ -10,6 +104,7 @@
     "author": "Jeremy Hsu",
     "tags": [
       "AI",
+      "Google",
       "boston dynamics",
       "google deepmind",
       "Google Gemini",
@@ -22,7 +117,7 @@
     "id": "d89f752ed1345b8471aed64c2299d2a11982d993",
     "title": "Prime Video shows “technical difficulties” sign instead of NBA game in overtime",
     "link": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
-    "summary": "\"Am I trippin??\" asks viewer Lebron James.",
+    "summary": "\"Am I trippin??\" asks LeBron James.",
     "isoDate": "2026-04-15T19:16:43Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -664,27 +759,6 @@
     "pinned": false
   },
   {
-    "id": "9dcc8c0c0fd6784d4e0c135e380dee4ccb19f19c",
-    "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
-    "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-    "summary": "New model is the first AI system to complete a difficult multistep infiltration challenge.",
-    "isoDate": "2026-04-14T19:11:25Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Security",
-      "AISI",
-      "Anthropic",
-      "Claude",
-      "Mythos",
-      "security"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2270583709-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "dada9ee10d298d1c0bef0c224cc8e8cd3c719e81",
     "title": "Nvidia slaps forehead: I know what quantum is missing – it's AI!",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/nvidia_ai_quantum_computing/",
@@ -786,25 +860,6 @@
     "author": "Tim Anderson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "21e299f8f256baefa304712e8f78651cd58e9bc4",
-    "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
-    "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
-    "summary": "You can save custom prompts you find useful or grab a premade Skill from Google's library.",
-    "isoDate": "2026-04-14T17:00:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "chrome",
-      "gemini"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-500x500.jpg",
     "pinned": false
   },
   {
@@ -1130,32 +1185,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9fe7c1c30a0fd210b3584792a04e261f3af2c5b1",
-    "title": "WARNING: Oracle's AI obsession could mean higher prices and worse support",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/oracle_job_losses_ai_impact_support/",
-    "summary": "<h4>Advisers say fewer staff could mean slower answers and tougher renewals</h4> <p>Oracle customers have been warned to watch for changes in support and pricing as Larry Ellison’s company makes huge datacenter spending commitments to support its AI ambitions.…</p>",
-    "isoDate": "2026-04-13T16:36:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "bc5cc39293e91f06ea998301804c648ec770dcf6",
-    "title": "Claude Code cache chaos creates quota complaints",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/claude_code_cache_confusion/",
-    "summary": "<h4>Dev reports suggest long sessions now burn through usage much faster</h4> <p>Anthropic last month reduced the TTL (time to live) for the Claude Code prompt cache from one hour to five minutes for many requests, but said this should not increase costs despite users reporting faster depleting quotas.…</p>",
-    "isoDate": "2026-04-13T15:14:49Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
     "tags": [],
     "image": "",
     "pinned": false
