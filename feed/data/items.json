@@ -1,5 +1,89 @@
 [
   {
+    "id": "173ea7bfafacb967a9b91a689b38ab95e1d07cf1",
+    "title": "Mozilla throws Thunderbolt at enterprise AI providers",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/mozilla_thunderbolt_enterprise_ai_client/",
+    "summary": "<h4>Client connects to deepset's Haystack platform</h4> <p>Mozilla has declared war on OpenAI, Microsoft, and other firms flogging enterprise AI platforms with an open-source alternative it says provides data privacy guarantees proprietary products never could. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-16T21:35:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "cef6fd49d553aa94fcb4ff89c93b6d339a5c87c3",
+    "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
+    "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
+    "summary": "For the first time in a while, the benefits of new Intel tech will trickle down.",
+    "isoDate": "2026-04-16T21:33:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "core series 3",
+      "Intel",
+      "wildcat lake"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/intel-core-series-3-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "33d502efc4848c4196c06f299210b04a2ad2bd49",
+    "title": "OpenAI starts offering a biology-tuned LLM",
+    "link": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+    "summary": "GPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
+    "isoDate": "2026-04-16T21:17:47Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "AI",
+      "Science",
+      "Biology",
+      "gpt",
+      "GPT-Rosalind",
+      "LLM",
+      "openai",
+      "research"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1421511892-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "614fc3bc9647ae37a2ea0d07d50ef038904da9df",
+    "title": "NodeWeaver says its perpetual licensing beats VMware’s perpetual price hikes",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/nodeweaver_vs_vmware_at_edge/",
+    "summary": "<h4>'I think you can run this thing on a potato,' NodeWeaver CTO Alan Conboy said.</h4> <p>Broadcom's price increases and policy changes have led many VMware customers to look for other options. Nodeweaver is positioning itself as an alternative for customers running computing workloads in far-flung edge locations, from cruise ships to solar farms in Sub-Saharan Africa, and it is taking cost out of the hardware needed as well.…</p>",
+    "isoDate": "2026-04-16T21:08:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4f7353bca5cff8b0351bc6bb17efa83b3d417dac",
+    "title": "As they got close to the Moon, Artemis II astronauts were eager to land",
+    "link": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
+    "summary": "\"If you had given us the keys to the lander, we would have taken it down.\"",
+    "isoDate": "2026-04-16T21:00:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "artemis II",
+      "moon base",
+      "Moon landing"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e013365large-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "213a0c19d67669622c021a28071eff5ef4e33fc9",
     "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
     "link": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
@@ -730,62 +814,6 @@
     "pinned": false
   },
   {
-    "id": "058b9e737cfa6fbeec88e625de78582afee2f5f9",
-    "title": "New teaser gives us first look at Godzilla Minus Zero",
-    "link": "https://arstechnica.com/culture/2026/04/new-teaser-gives-us-first-look-at-godzilla-minus-zero/",
-    "summary": "Director Takashi Yamazaki told Cinemacon attendees that sequel is first Japanese film shot for IMAX.",
-    "isoDate": "2026-04-15T18:50:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "film trailers",
-      "Godzilla Minus Zero",
-      "Toho",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/godzilla1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7e2fa691734b45356853bec1b0638a406517aa52",
-    "title": "Vulcan woes will \"absolutely\" be a factor in Pentagon's next rocket competition",
-    "link": "https://arstechnica.com/space/2026/04/space-force-looks-at-moving-significant-number-of-launches-from-ula-to-spacex/",
-    "summary": "\"If the spacecraft is ready to go, that's going to give it a priority.\"",
-    "isoDate": "2026-04-15T18:33:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "launch",
-      "military space",
-      "united launch alliance",
-      "vulcan"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0e8f3ef5addac2e27489e3c5b957aaa7f0168b9d",
-    "title": "FCC exempts Netgear from ban on foreign routers, doesn't explain why",
-    "link": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
-    "summary": "Trump FCC starts handing out exemptions to its ban on foreign-made routers.",
-    "isoDate": "2026-04-15T17:58:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "FCC",
-      "Netgear",
-      "routers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/netgear-routers-500x500-1776273453.jpg",
-    "pinned": false
-  },
-  {
     "id": "b2152c0a452fd7fd6b889253575d3655dd26d59e",
     "title": "Patch these critical Fortinet sandbox bugs that let attackers bypass login, run commands over HTTP",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/critical_fortinet_sandbox_bugs/",
@@ -1134,32 +1162,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "01df52491085abd621e3c755f946cc0cb0b69026",
-    "title": "You can finally control serial devices from Firefox",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/firefox_nightly_web_serial/",
-    "summary": "<h4>Long languishing API gets love from Mozilla</h4> <p>Firefox will soon be able to communicate directly with your 3D printer. Thirteen years after the idea was initially proposed, the Web Serial API has landed in Firefox Nightly, Mozilla's work-in-progress channel for its browser.…</p>",
-    "isoDate": "2026-04-14T20:21:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "dada9ee10d298d1c0bef0c224cc8e8cd3c719e81",
-    "title": "Nvidia slaps forehead: I know what quantum is missing – it's AI!",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/nvidia_ai_quantum_computing/",
-    "summary": "<h4>One error in every thousand operations is one too many</h4> <p>Quantum computers promise major speedups for problems in materials science, logistics, and financial modeling, but first they need to be made reliable, something Nvidia believes its AI models can help with. When you've got a GPU hammer, every problem starts to look like an AI nail. …</p>",
-    "isoDate": "2026-04-14T18:58:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
     "tags": [],
     "image": "",
     "pinned": false
