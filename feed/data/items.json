@@ -1,5 +1,31 @@
 [
   {
+    "id": "bcd49365a194d860a6eda7d6957f98916fd74199",
+    "title": "Visual Studio 18.5 lands with AI debugging at a price, devs still feeling blue",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/visual_studio_185/",
+    "summary": "<h4>Latest version points to a shift in how Microsoft thinks about IDEs</h4> <p>Visual Studio 2026 18.5 arrives with two headline changes – a smarter code suggestion system and an AI-powered debugger. Yet developer frustration over color contrast and forced updates continue to overshadow the improvements.…</p>",
+    "isoDate": "2026-04-16T13:53:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "50e60134a229af58de89565bca614fa849bcbea9",
+    "title": "Git identity spoof fools Claude into giving bad code the nod",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/git_identity_spoof_claude/",
+    "summary": "<h4>Forged metadata made AI reviewer treat hostile changes as though they came from known maintainer</h4> <p>Security boffins say Anthropic's Claude can be tricked into approving malicious code with just two Git commands by spoofing a trusted developer's identity.…</p>",
+    "isoDate": "2026-04-16T12:57:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "8973c5236d1d9b28d7d9af2b91e548a2e3b9a2b5",
     "title": "Textbook titan McGraw Hill on ransomware crew's reading list after 13.5M records exposed",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/mcgraw_hill_salesforce/",
@@ -1158,19 +1184,6 @@
     "pinned": false
   },
   {
-    "id": "216cd515b30afb8da347bad030b587b40ab380ae",
-    "title": "Man suspected of Molotov attack on Sam Altman's home charged with attempted murder",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/altman_attempted_murder/",
-    "summary": "<h4>20-year-old Texan also allegedly planned to kill everyone inside the OpenAI office building</h4> <p>The man accused of attacking Sam Altman's San Francisco home with a Molotov cocktail on April 10 now faces charges of attempted murder.…</p>",
-    "isoDate": "2026-04-14T09:50:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "f2e029fe2475638475bb9514a209e914b8d0f0ec",
     "title": "From the archives: Cold Comfort for Cold Fusion",
     "link": "https://www.skeptic.org.uk/2026/04/from-the-archives-cold-comfort-for-cold-fusion/",
@@ -1502,32 +1515,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-intersection.webp/eec8f007733e3d1af1beeb08d2db8d89/fsd-vis-intersection.jpg",
-    "pinned": false
-  },
-  {
-    "id": "00d74c69b8208b93e1d8b51c2bc0a9c3d80d7751",
-    "title": "Tesla is Secretly Working On a New, Smaller SUV",
-    "link": "https://www.notateslaapp.com/news/3932/tesla-is-secretly-working-on-a-new-smaller-suv",
-    "summary": "According to a new report, the automaker is in the early development stages of an all-new, smaller, and cheaper electric SUV as a play for mass-market dominance&hellip; <a href=\"https://www.notateslaapp.com/news/3932/tesla-is-secretly-working-on-a-new-smaller-suv\">Read More</a>",
-    "isoDate": "2026-04-09T14:01:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2022/model-2.jpg/10a6f12312899c50801f86a3529d8c44/model-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "244edd0a20424c8f037aa27c97ad0be1e649e37f",
-    "title": "Tesla Launches Supercharger for Businesses Calculator: Reveals Payback Period & Tesla's Cut",
-    "link": "https://www.notateslaapp.com/news/3930/tesla-unveils-supercharger-for-business-calculator-to-fix-pricing-transparency",
-    "summary": "Tesla has released a new financial calculator and public pricing details for its Supercharger for Business program, including a flat $0.10/kWh revenue fee.&hellip; <a href=\"https://www.notateslaapp.com/news/3930/tesla-unveils-supercharger-for-business-calculator-to-fix-pricing-transparency\">Read More</a>",
-    "isoDate": "2026-04-09T12:11:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/supercharging-businesses.webp/4d1f9a050d1a97f63dc599ff05c1b87b/supercharging-businesses.jpg",
     "pinned": false
   }
 ]
