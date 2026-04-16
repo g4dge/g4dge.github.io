@@ -1,5 +1,133 @@
 [
   {
+    "id": "c7235651a11a55f656cc16a57679519812e9888b",
+    "title": "First look: Also's upcoming e-bike disconnects the pedals and wheels",
+    "link": "https://arstechnica.com/cars/2026/04/first-look-alsos-upcoming-e-bike-disconnects-the-pedals-and-wheels/",
+    "summary": "The company bets that software can create a distinct—and better—riding experience.",
+    "isoDate": "2026-04-16T16:23:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Cars",
+      "Also",
+      "e-bike"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/20250918_BrysonMalone_Also_2484-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "56e096e34d9726a73d0c1ccf52998928ba3b4608",
+    "title": "DuckDB uses RDBMS to attack classic 'small changes' problem in lakehouses",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/duckdb_uses_rdbms_lakehouse/",
+    "summary": "<h4>Batching teensy changes in chunks creates massive performance boost, DuckDB Labs team claims</h4> <p>The team behind in-process OLAP database DuckDB has put forward a solution to the \"small changes\" problem that they say plagues lakehouse implementations of the kind based on technologies from Databricks, Snowflake, Google, and others.…</p>",
+    "isoDate": "2026-04-16T16:15:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3b36c871fb6149f53ed3a9e1ed75a38ef4770a44",
+    "title": "Iran has something America can only dream of: cheap broadband",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/iran_cheapest_broadband/",
+    "summary": "<h4>Shame about the internet blackouts and airstrikes</h4> <p>North America has some of the world's most expensive broadband, according to a new study, while Iran has the cheapest.…</p>",
+    "isoDate": "2026-04-16T15:49:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a83dc4c60d88baff5264f45134af21cf4c07054f",
+    "title": "Tesla Updates App to 4.55.6: Pet Mode, Dashcam Video Overlay, Sketchpad & More",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.55.6/release-notes",
+    "summary": "Tesla app update 4.55.6 includes Sketchpad Support, Vehicle Telemetry Now Saved, Dog Mode is Now Pet Mode, Custom Wrap & License Plate Support, Automatic Updates. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.55.6/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-04-16T15:27:03Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/spring-2026-update-8.webp/6c9815f40863a6347a9b12fc5382e573/spring-2026-update-8.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c0a78ae193c95c9049e3a05be2cb0060a96ef989",
+    "title": "Americans who masterminded Nork IT worker fraud sentenced to 200 months behind bars",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/nork_it_worker_scam_facilitators_sentenced_200_months/",
+    "summary": "<h4>Fortune 500 companies and one US defense contractor got taken for $5m in four-year scam</h4> <p>Two Americans have been jailed for a combined 200 months for helping North Korea generate $5 million through fraudulent IT worker schemes.…</p>",
+    "isoDate": "2026-04-16T15:13:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "94a4bb6a28d9e81d9184b861c1397bf4e56b22e3",
+    "title": "Musk: Tesla AI5 Has 5x the Compute Power of 2 AI4 Chips",
+    "link": "https://www.notateslaapp.com/news/3979/musk-tesla-ai5-has-5x-the-compute-power-of-2-ai4-chips",
+    "summary": "Elon Musk has officially announced that Tesla’s next-generation 'AI5' chip has exited the tape-out stage, and it is a literal beast of a processor&hellip; <a href=\"https://www.notateslaapp.com/news/3979/musk-tesla-ai5-has-5x-the-compute-power-of-2-ai4-chips\">Read More</a>",
+    "isoDate": "2026-04-16T14:38:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/ai5-chip.webp/dd09ee32c5d7e1e20367170173c2e60b/ai5-chip.jpg",
+    "pinned": false
+  },
+  {
+    "id": "194e4bb4827f4bcd14aa744c47550eae775f9944",
+    "title": "Brussels tells Google to hand rivals its search crown jewels as privacy row brews",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/brussels_tells_google_to_open/",
+    "summary": "<h4>Includes a to-do list on search data sharing and platform access as DMA enforcement ramps up</h4> <p>Brussels has told Google to open up its search data and give rivals equal footing on its own platforms, sketching out how it expects the tech giant to comply with the bloc's competition rulebook.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-16T14:37:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "55cb5f3506bc46371c25fa9cb83c69b2391a192e",
+    "title": "Meet the Quantum Kid",
+    "link": "https://arstechnica.com/science/2026/04/meet-the-quantum-kid/",
+    "summary": "Nine-year-old Kai Moskvitch's podcast explores how quantum technologies can transform our daily lives.",
+    "isoDate": "2026-04-16T14:17:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "Physics",
+      "podcasts",
+      "quantum computing",
+      "quantum mechanics",
+      "Science communication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kidTOP-500x500-1776347629.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a0a3a89933bb95a02f05bd361f6f6e89625dbe9b",
+    "title": "Make crappy moves around AI and face voter backlash, govts warned",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/steer_ai_into_delivering_common_good_govts_told/",
+    "summary": "<h4>When the taxpayers are wondering whose side you are on...</h4> <p>Britain's government faces a public backlash against AI unless it can show ordinary people that they stand to benefit from its push to inject the technology into every area of the UK in the name of growth.…</p>",
+    "isoDate": "2026-04-16T14:17:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "bcd49365a194d860a6eda7d6957f98916fd74199",
     "title": "Visual Studio 18.5 lands with AI debugging at a price, devs still feeling blue",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/visual_studio_185/",
@@ -902,24 +1030,6 @@
     "pinned": false
   },
   {
-    "id": "c911ddc288bc3b47566591b2c50811852e521f8e",
-    "title": "Ukraine’s military robot surge aims to offset drone risks to humans",
-    "link": "https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/",
-    "summary": "Ukraine is replacing more soldiers with robots in the battlefield kill zone.",
-    "isoDate": "2026-04-14T22:42:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "killer robots",
-      "military drones",
-      "weaponized robots"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/DevDroid-military-robot-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "364563ff3abaa34d44723622f9f5d46dee787edf",
     "title": "Claude Code routines promise mildly clever cron jobs",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/claude_code_routines/",
@@ -930,23 +1040,6 @@
     "author": "Thomas Claburn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b84f96e3d9a50634bedfeb32dfa99cc03d366311",
-    "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
-    "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
-    "summary": "Some 2023 and 2024 models are also affected.",
-    "isoDate": "2026-04-14T22:00:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "Sony",
-      "TVs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/125732_original_local_1200x1050_v3_converted-500x500.jpg",
     "pinned": false
   },
   {
@@ -1114,58 +1207,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "be58940e05ce411a308fd2fea6b32a867f6ef600",
-    "title": "No honor among thieves as 0APT threatens rival ransomware gang Krybit",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/0apt_krybit_spat/",
-    "summary": "<h4>Honey, the skids are fighting again</h4> <p>Two rival ransomware gangs have locked horns after 0APT threatened to expose people affiliated with Krybit.…</p>",
-    "isoDate": "2026-04-14T12:56:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b4577e6b3f12f03eff1389e53541bbe856d53190",
-    "title": "NASA insiders oddly relaxed about latest budget threats",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/nasa_budget_insider_comment/",
-    "summary": "<h4>Veterans think Congress may swat cuts again, but uncertainty could still do lasting damage</h4> <p><strong>exclusive</strong>  As NASA's Artemis II mission headed for the Moon, the Trump administration unveiled another attempt to cut the agency's science budget. Yet some insiders, perhaps buoyed by déjà vu and a little post-traumatic resilience, are less alarmed than you might expect.…</p>",
-    "isoDate": "2026-04-14T11:45:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e1b18f0ff40ed4df4368fa6f2459588cdcb8168d",
-    "title": "IBM becomes first company to pay up under Trump administration's diversity blitz",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/ibm_dei_settlement/",
-    "summary": "<h4>Didn't admit liability, will cough $17M, still fighting age discrimination cases</h4> <p>IBM has become the first company to settle with the US government under the Trump administration's Civil Rights Fraud Initiative, a program aimed at ensuring diversity programs don't cross a line and result in discrimination.…</p>",
-    "isoDate": "2026-04-14T11:14:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a91d93297134030d9878df80698e8557cd6d5aca",
-    "title": "Microsoft raises UK Surface prices as RAM crisis reaches the checkout",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsoft_surface_hikes/",
-    "summary": "<h4>Entry-level models jump by up to £220, mirroring steeper hikes in US</h4> <p>Microsoft's memory squeeze has reached the shop floor, and Surface prices have been jacked up to match.…</p>",
-    "isoDate": "2026-04-14T10:31:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
     "tags": [],
     "image": "",
     "pinned": false
