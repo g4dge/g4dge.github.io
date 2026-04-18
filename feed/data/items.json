@@ -1,5 +1,31 @@
 [
   {
+    "id": "5f72adda1b4633954356f3eade8070e86a1b0b9b",
+    "title": "Cloudflare can remember it for you wholesale",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/",
+    "summary": "<h4>Agent Memory stores AI chat scraps off to the side and recalls them when needed</h4> <p>Not only is hardware memory scarce these days, but context memory, the conversational data exchanged with AI models, can be an issue too.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-18T08:30:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "797275ba5341ba57da3654a676619dc33beeded5",
+    "title": "Atlassian’s new data collection policy protects rich customers while AI eats the rest",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/",
+    "summary": "<h4>From August 17, the outfit will collect customer metadata by default unless you pay for the top tier</h4> <p>Unless a customer pays for the most expensive enterprise license, or the law forbids it, Atlassian is going to collect their data to train its AI models. And you can't fully opt out.…</p>",
+    "isoDate": "2026-04-18T07:30:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "b7e20b50d68b9ce4cea8eff375dfc1914c55dade",
     "title": "Intel eases reliance on TSMC with 'Merica-made Core Series 3 processors",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/intel_eases_reliance_on_tsmc/",
@@ -1225,32 +1251,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c4314c7b24f1a7f83279736f01637939487b5f12",
-    "title": "Not all networks can handle AI traffic – and experts are sounding alarms",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/networks_not_ready_for_ai_challenges/",
-    "summary": "<h4>Y'all been focusing on compute and forgot about how the data moves around</h4> <p>AI is reshaping the demands on network infrastructure, and many organizations are not prepared – including some of the so-called neocloud providers offering AI services.…</p>",
-    "isoDate": "2026-04-15T15:40:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ea031037c4549638d5a41d69ec85bd3bebd7c03d",
-    "title": "Windows takes a crash dump after one McDonald's order too many",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/windows_mcdonalds_bork/",
-    "summary": "<h4>We've all been there</h4> <p><strong>Bork!Bork!Bork!</strong>  Windows is doing what it does best in California, with a Blue Screen of Death on the wall of a fast food restaurant where order progress is supposed to be.…</p>",
-    "isoDate": "2026-04-15T15:14:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
