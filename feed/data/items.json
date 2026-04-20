@@ -1,5 +1,31 @@
 [
   {
+    "id": "a5d6b578a303d613ccf5601ebc69746bb576cd39",
+    "title": "Vibe coding upstart Lovable denies data leak, cites 'intentional behavior,' then throws HackerOne under the bus",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/lovable_denies_data_leak/",
+    "summary": "<h4>A lesson in how not to respond to vulnerability reports</h4> <p>Vibe-coding platform Lovable is pooh-poohing a researcher’s finding that anyone could open a free account on the service and read other users' sensitive info, including credentials, chat history, and source code. However, the company’s story keeps changing: First it attributed the publicly exposed info to \"intentional behavior\" and \"unclear documentation,\" then threw bug-bounty service HackerOne under the bus.…</p>",
+    "isoDate": "2026-04-20T23:26:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9be8a945d8d0eb4135cf4eef33d263bc05203b43",
+    "title": "Trump-branded datacenter project fails to make itself great, again",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/fermi_america_reorg/",
+    "summary": "<h4>The struggles continue for Fermi America's 17 GW bit barn ambitions</h4> <p>It’s been a weekend filled with dizzying changes in the boardroom at datacenter wannabe Fermi America as it hopes eventually to expand its West Texas campus to about 17 gigawatts of behind-the-meter generation capacity.…</p>",
+    "isoDate": "2026-04-20T23:07:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "af97906dcc4871ca46adf3a0b209120fdb9638fa",
     "title": "World's blandest man steps down from CEO job to spend more time in tastefully appointed home",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/apple_tim_cook_ceo_leaving_john_ternus/",
@@ -1244,32 +1270,6 @@
     "pinned": false
   },
   {
-    "id": "e4fe7033bb04f7154fb25fca2d64602257aecea3",
-    "title": "North Korea targets macOS users in latest heist",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/north_korea_social_engineering_macos/",
-    "summary": "<h4>Social engineering: 'low-cost, hard to patch, and scales well'</h4> <p>North Korean criminals set on stealing Apple users' credentials and cryptocurrency are using a combination of social engineering and a fake Zoom software update to trick people into manually running malware on their own computers, according to Microsoft.…</p>",
-    "isoDate": "2026-04-16T18:20:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1b5a1bcac161fbb55d53be6af5be6c514dca5bf4",
-    "title": "If you want into Anthropic's Claude club, you may have to show ID",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_claude_id_verification_persona/",
-    "summary": "<h4>Worse: Anthropic is using Persona, a privacy checker that rings alarm bells for the paranoids on Reddit</h4> <p>Anthropic may check your ID before letting you access certain Claude features, and the verification vendor it has picked is the same outfit that sparked controversy when Discord tested similar checks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-16T17:49:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "6ac047bf425ec8b697c7a6b4f0d2d4a68a63e678",
     "title": "Elon Musk Shares Specs for Tesla's AI6 Chip, Teases AI6.5",
     "link": "https://www.notateslaapp.com/news/3986/elon-musk-shares-specs-for-teslas-ai6-chip-teases-ai65",
@@ -1280,19 +1280,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/fsd-hardware-chips.webp/cc162cc4e3f8537a3b7862663c5d9a6b/fsd-hardware-chips.jpg",
-    "pinned": false
-  },
-  {
-    "id": "56e096e34d9726a73d0c1ccf52998928ba3b4608",
-    "title": "DuckDB uses RDBMS to attack classic 'small changes' problem in lakehouses",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/duckdb_uses_rdbms_lakehouse/",
-    "summary": "<h4>Batching teensy changes in chunks creates massive performance boost, DuckDB Labs team claims</h4> <p>The team behind in-process OLAP database DuckDB has put forward a solution to the \"small changes\" problem that they say plagues lakehouse implementations of the kind based on technologies from Databricks, Snowflake, Google, and others.…</p>",
-    "isoDate": "2026-04-16T16:15:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
