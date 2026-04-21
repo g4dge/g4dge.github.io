@@ -1,5 +1,59 @@
 [
   {
+    "id": "d39ffd40cfbc2e389a16c6155cf5b19d092913d7",
+    "title": "England's school phone ban gets teeth, just in time to bite no one",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/government_moves_to_kick_phones/",
+    "summary": "<h4>90% of schools already compliant, but at least now there's paperwork</h4> <p>Ministers are moving to turn England's patchwork of school phone bans into law, after peers backed fresh changes to the Children's Wellbeing and Schools Bill in a Monday vote.…</p>",
+    "isoDate": "2026-04-21T10:13:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "69685ecdaab15660c69416f5d85fcb8137bd8859",
+    "title": "Justice is geometric",
+    "link": "https://aeon.co/essays/lessons-from-the-fairness-of-african-fractal-societies?utm_source=rss-feed",
+    "summary": "<p><img alt=\"Aerial photo of a desert village with round huts, winding paths and sparse greenery.\" src=\"https://images.aeonmedia.co/images/a52748cf-7e1e-40af-bc92-3ff558b1647d/essay-panos_00046406.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Where centralised societies excel at extraction, African fractal systems allow for circulation, reciprocity and return</p><p><em>- by Likam Kyanzaire</em></p><p><a href=\"https://aeon.co/essays/lessons-from-the-fairness-of-african-fractal-societies?utm_source=rss-feed\">Read on Aeon</a></p>",
+    "isoDate": "2026-04-21T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Likam Kyanzaire",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b2a4ed39b89dfe3cdc6ed93a5be45c212b1c17a1",
+    "title": "Task Manager's CPU meter is an obituary for the recent past, says the engineer who built it",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/task_manager_cpu_meter/",
+    "summary": "<h4>Spoiler: There's no magic value. Just a timer, some kernel calls, and too much coffee</h4> <p>Windows has always had a built-in portal to the very recent past: Task Manager's CPU usage meter.…</p>",
+    "isoDate": "2026-04-21T09:15:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7bdcfcd6d41a8974b80208854ff22ecbc748f615",
+    "title": "From the archives: The controversial phenomenon of ball lightning",
+    "link": "https://www.skeptic.org.uk/2026/04/from-the-archives-the-controversial-phenomenon-of-ball-lightning/",
+    "summary": "<p>From the archive in 1992, Steuart Campbell questions whether 'ball lightning' is a real phenomenon, or a series of misattributions.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/04/from-the-archives-the-controversial-phenomenon-of-ball-lightning/\">From the archives: The controversial phenomenon of ball lightning </a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-04-21T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Steuart Campbell",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "91b7a1953cf9302d931360cfdc0b4ab784f86801",
     "title": "Adaptavist Group breach spawns imposter emails as ransomware crew claims mega-haul",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/adaptavist_group_breach_spawns_impostor/",
@@ -305,7 +359,7 @@
   },
   {
     "id": "a7dda86d2961dc139e3ddacda064630aec2b5c0d",
-    "title": "Schmoozebots: study finds flattery will get AI everywhere",
+    "title": "Schmoozebots: Study finds flattery will get AI everywhere",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/chatbots_win_trust_by_sounding/",
     "summary": "<h4>Excessive friendliness may cause users to forget they're talking to a very confident autocomplete</h4> <p>A study into how humans interact with chatbots suggests the fastest way to make an LLM feel human isn't making it smarter – it's making it seem nicer.…</p>",
     "isoDate": "2026-04-20T16:07:14Z",
@@ -320,7 +374,7 @@
     "id": "07dc1eae5395de5fdae1da600f90582a5e0ffe51",
     "title": "One of Europe's sovereign cloud picks may not be so-sovereign after all",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/europe_picks_4_sovereign_cloud/",
-    "summary": "<h4>US-based cloud providers could have to disclose certain data under American legal orders</h4> <p>The European Commission has awarded four contracts designed to advance cloud sovereignty in the EU, but one uses services from S3NS, a joint venture between Thales and Google Cloud, raising questions about its real independence.…</p>",
+    "summary": "<h4>US-based cloud providers could have to disclose certain data under American legal orders</h4> <p><strong>Updated</strong>  The European Commission has awarded four contracts designed to advance cloud sovereignty in the EU, but one uses services from S3NS, a joint venture between Thales and Google Cloud, raising questions about its real independence.…</p>",
     "isoDate": "2026-04-20T15:50:46Z",
     "source": "The Register",
     "category": "Tech",
@@ -1259,32 +1313,6 @@
     "pinned": false
   },
   {
-    "id": "2af4ec622ec6cf002f3a42e0cc5e87de6cfdb543",
-    "title": "IPv6 carried half of internet traffic – for one day, according to Google",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/ipv6_50_percent_google/",
-    "summary": "<h4>We're not half way there, we're still livin' on a prayer</h4> <p>IPv6 carried half of global traffic for a single day in March, according to Google.…</p>",
-    "isoDate": "2026-04-17T02:04:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "667d5513a1b080e4db65510ae75bd1cd4792d96d",
-    "title": "Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researchers say",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_mcp_design_flaw/",
-    "summary": "<h4>Bug or feature?</h4> <p>A design flaw – or expected behavior based on a bad design choice, depending on who is telling the story – baked into Anthropic's official Model Context Protocol (MCP) puts as many as 200,000 servers at risk of complete takeover, according to security researchers.…</p>",
-    "isoDate": "2026-04-16T22:45:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "6ac047bf425ec8b697c7a6b4f0d2d4a68a63e678",
     "title": "Elon Musk Shares Specs for Tesla's AI6 Chip, Teases AI6.5",
     "link": "https://www.notateslaapp.com/news/3986/elon-musk-shares-specs-for-teslas-ai6-chip-teases-ai65",
@@ -1518,34 +1546,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2021/battery-cell.jpg/278055f003e6c0b42fd2ed8f44a30408/battery-cell.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bb1ee1b9aca3f234048428516723f0bf0c9246fa",
-    "title": "You’ve lived this life before",
-    "link": "https://aeon.co/essays/the-mysticism-of-nietzsches-doctrine-of-the-eternal-return?utm_source=rss-feed",
-    "summary": "<p><img alt=\"Painting of a mountainous landscape with snow-capped peaks under a clear blue sky and rocky terrain in the foreground.\" src=\"https://images.aeonmedia.co/images/41e2149f-e3f3-452e-b6f6-5731e0383531/essay-v1-akg9719183.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The mystical insight came to Nietzsche like a lightning flash: time eternally recurs – and life must be lived accordingly</p><p><em>- by Mark Higgins</em></p><p><a href=\"https://aeon.co/essays/the-mysticism-of-nietzsches-doctrine-of-the-eternal-return?utm_source=rss-feed\">Read on Aeon</a></p>",
-    "isoDate": "2026-04-14T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Mark Higgins",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f2e029fe2475638475bb9514a209e914b8d0f0ec",
-    "title": "From the archives: Cold Comfort for Cold Fusion",
-    "link": "https://www.skeptic.org.uk/2026/04/from-the-archives-cold-comfort-for-cold-fusion/",
-    "summary": "<p>From the archives in 1992, Malcolm Glasse reports on the bogus cold fusion claims of Stanley Pons and Martin Fleischmann.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/04/from-the-archives-cold-comfort-for-cold-fusion/\">From the archives: Cold Comfort for Cold Fusion </a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-04-14T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Malcolm Glasse",
-    "tags": [
-      "Archive"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
