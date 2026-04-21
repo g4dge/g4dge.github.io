@@ -1,5 +1,52 @@
 [
   {
+    "id": "f6656286bef251f7b4f7cd51df985da11778cdf3",
+    "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+    "link": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+    "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
+    "isoDate": "2026-04-21T17:00:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "Amazon",
+      "Amazon Web Services",
+      "Anthropic",
+      "Anthropic Claude",
+      "Claude",
+      "Trainium 2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "38afd9e05d55fb1e719053261fecb444ad0ecd5f",
+    "title": "Phone-to-satellite use goes into orbit, growing 25% in 8 months",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/phone_to_satellite_services_jump_25_percent/",
+    "summary": "<h4>Still only a tiny slice of mobile activity overall</h4> <p>The US and Starlink lead the way in the still-young direct-to-device (D2D) satellite market, where the number of connections recorded by Ookla rose nearly 25 percent between July 2025 and March 2026.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-21T16:35:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b2e38fe5d4b5978b0c3f84dfc1f45783ec926359",
+    "title": "macOS ClickFix attacks deliver AppleScript stealers to snarf credentials, wallets",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/macos_clickfix_attacks_deliver_applescript/",
+    "summary": "<h4>Data from browsers, cryptocurrency wallets, 200+ extensions hoovered up</h4> <p>A ClickFix campaign targeting macOS users delivers an AppleScript-based infostealer that collects credentials and live session cookies from 14 browsers, 16 cryptocurrency wallets, and more than 200 extensions.…</p>",
+    "isoDate": "2026-04-21T15:50:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "b01c0a1cb77f108e741a64c9269b20fc525aa3ea",
     "title": "Anthropic bakes memory fixes into Bun 1.1.13 as developers complain of leaks",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/anthropics_bun_1113_released_with_memory_fixes/",
@@ -1067,26 +1114,6 @@
     "pinned": false
   },
   {
-    "id": "426d2aae988c1c6b007a7689817b08a822d4d657",
-    "title": "Great white sharks are overheating",
-    "link": "https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/",
-    "summary": "The sharks might also be the most physiologically vulnerable to warming waters.",
-    "isoDate": "2026-04-18T11:07:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Johnny Sturgeon, Inside Climate News",
-    "tags": [
-      "Science",
-      "climate change",
-      "great white shark",
-      "ocean conservation",
-      "ocean temperatures",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-515714114-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "dba9781e21d35e3bd4d764320b3523230d8d2cfe",
     "title": "Tesla Sues North Dakota Over Direct Sales Ban",
     "link": "https://www.notateslaapp.com/news/4001/tesla-sues-north-dakota-over-direct-sales-ban",
@@ -1240,32 +1267,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla_diner_sign.jpg/95393dfc3c44aaf628b2d289220f3532/tesla_diner_sign.jpg",
-    "pinned": false
-  },
-  {
-    "id": "19f96fcc7dc3d0a6f934466d4150a610522f2f55",
-    "title": "Microsoft closes book on rogue Windows Server 2025 upgrades",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/microsoft_windows_server_2025/",
-    "summary": "<h4>Starts new one on boot loops</h4> <p>More than a year after giving administrators an unwelcome surprise with a security update that turned out to be a Windows Server 2025 upgrade, Microsoft has marked the incident as \"resolved.\"…</p>",
-    "isoDate": "2026-04-17T12:29:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3ca809483bb1a55ee1f34445b200ef2585e03cd3",
-    "title": "NASA gets the ball rolling on its part in Europe's jinxed Mars rover mission",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/nasa_rosalind_franklin/",
-    "summary": "<h4>Rosalind Franklin moving again, though another budget cut looms</h4> <p>NASA is moving ahead with its contribution to the European Space Agency's (ESA) long-delayed Rosalind Franklin Mars rover despite another attempt by the Trump administration to cut funding for the effort.…</p>",
-    "isoDate": "2026-04-17T11:39:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1558,32 +1559,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
-    "pinned": false
-  },
-  {
-    "id": "55f1edf9e519a507a65d8d99361bea52bd6712be",
-    "title": "How Elon Musk Plans to Bypass the ASML Bottleneck to Build TERAFAB",
-    "link": "https://www.notateslaapp.com/news/3954/how-elon-musk-plans-to-bypass-the-asml-bottleneck-to-build-terafab",
-    "summary": "How will Elon Musk achieve TERAFAB's massive 1 TWh compute goal with ASML heavily backlogged? The answer involves Intel, GaN chiplets, and advanced packaging.&hellip; <a href=\"https://www.notateslaapp.com/news/3954/how-elon-musk-plans-to-bypass-the-asml-bottleneck-to-build-terafab\">Read More</a>",
-    "isoDate": "2026-04-14T17:11:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/dojo3-d3-chip.webp/eecb2270e3078d266aae4746da95d99c/dojo3-d3-chip.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8f554cf25428405d0b75aa79904a9752c9d95b59",
-    "title": "Tesla's New LFP Battery Supplier Has Faster Charging Capabilities",
-    "link": "https://www.notateslaapp.com/news/3936/teslas-new-lfp-battery-supplier-has-faster-charging-capabilities",
-    "summary": "Tesla has reportedly added China's Sunwoda as its fifth global battery supplier. Giga Shanghai will use the new 3C LFP cells for exported vehicles.&hellip; <a href=\"https://www.notateslaapp.com/news/3936/teslas-new-lfp-battery-supplier-has-faster-charging-capabilities\">Read More</a>",
-    "isoDate": "2026-04-14T16:16:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2021/battery-cell.jpg/278055f003e6c0b42fd2ed8f44a30408/battery-cell.jpg",
     "pinned": false
   }
 ]
