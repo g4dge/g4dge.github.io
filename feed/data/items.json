@@ -1,5 +1,51 @@
 [
   {
+    "id": "ae5be95d8c7f500d8ca093784886ab94c1189946",
+    "title": "Crook claims to leak 'video surveillance footage' of companies",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/be_prime_cctv_leak/",
+    "summary": "<h4>Mexican IT services firm admits it was hacked, but says client operations weren't affected</h4> <p>A Mexican IT infrastructure and digital transformation biz is on clean-up duty after a criminal posted screenshots of what they claimed was company video surveillance footage to a cybercrime forum.…</p>",
+    "isoDate": "2026-04-21T11:30:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7427a2e608c82283dd9e941532cc77ce7d016e10",
+    "title": "Global growth in solar \"the largest ever observed for any source\"",
+    "link": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+    "summary": "The Energy Information Agency says we've entered the Age of Electricity.",
+    "isoDate": "2026-04-21T11:00:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "carbon emissions",
+      "Energy",
+      "green",
+      "renewable energy",
+      "solar"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b81e97cd2d18bdddc87b13b1a2c1ff07130e3042",
+    "title": "Met police trials snoop tech platform in push to cuff more London shoplifters",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/met_police_trials_tech_platform/",
+    "summary": "<h4>No facial recognition privacy intrusions either! Well, maybe a little</h4> <p>London's Metropolitan Police is trialing new retail technology to help curtail the city's pervasive shoplifting problem… and it doesn't rely on live facial recognition (LFR).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-21T10:52:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "d39ffd40cfbc2e389a16c6155cf5b19d092913d7",
     "title": "England's school phone ban gets teeth, just in time to bite no one",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/government_moves_to_kick_phones/",
@@ -1019,23 +1065,6 @@
     "pinned": false
   },
   {
-    "id": "0d81c25f9b7a96be526557ce891b4e3b1478ff2c",
-    "title": "Amazon won’t release Fire Sticks that support sideloading anymore",
-    "link": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
-    "summary": "The two newest Fire Sticks block apps from outside of Amazon's store.",
-    "isoDate": "2026-04-17T17:42:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "Amazon",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/about-amazon-hero-fire-tv-stick-hero-option-2-amazon-news-jp-041026-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fd3cdc4c0e1c209731648e9b7191ad5dafc3784e",
     "title": "CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisa_tells_feds_to_patch/",
@@ -1261,19 +1290,6 @@
     "pinned": false
   },
   {
-    "id": "5a76b2cf8bc648585a1f6b02aed74ff6d25a16e8",
-    "title": "IOWN Global Forum targets datacenter interconnects to scatter AI infrastructure",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/iown_use_cases/",
-    "summary": "<h4>Fast WAN consortium thinks neoclouds are ripe for hookups</h4> <p>The IOWN Global Forum will likely focus on datacenter interconnect use cases in the, to help diverse providers of AI infrastructure ply their trade.…</p>",
-    "isoDate": "2026-04-17T06:15:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "9cde4cebb138cd369f7b5f82e016e1965d998e75",
     "title": "Tesla Launches Free FSD Trials in the Netherlands",
     "link": "https://www.notateslaapp.com/news/3990/tesla-launches-free-fsd-trials-in-the-netherlands",
@@ -1284,19 +1300,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-free-fsd-trials-netherlands.webp/c8234a7f826382195356171ffba6aafb/tesla-free-fsd-trials-netherlands.jpg",
-    "pinned": false
-  },
-  {
-    "id": "02ac08149bda4bf932ac3e4ce7d8556a75fbac0c",
-    "title": "Cisco Wi-Fi boxes are filling their disks with 5MB of undeletable data every day",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisco_wifi_ap_useless_data/",
-    "summary": "<h4>Fix for critical flaw is an OS update you may not be able to make because the junk data uses all memory</h4> <p>More than 230 different models of Cisco Wi-Fi access points may be writing 5MB a day of nonessential data, filling their onboard flash memory to the point at which they lack space for future software updates.…</p>",
-    "isoDate": "2026-04-17T04:35:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
