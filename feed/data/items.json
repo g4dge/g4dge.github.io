@@ -1,9 +1,45 @@
 [
   {
+    "id": "f9a96b702cb9c08788fce8559fd93e87259bbc18",
+    "title": "NASA Inspector fears new spacesuits won’t be ready for Moon landing",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/nasa_oig_spacesuit_report/",
+    "summary": "<h4>Dud contracts, proprietary designs, and zero-experience supplier make for quite the mess</h4> <p>The NASA Office of Inspector General, the aerospace agency’s auditor, fears that work on next-generation spacesuits won’t finish in time to use them for the planned Artemis III Moon landing mission in 2028.…</p>",
+    "isoDate": "2026-04-21T03:04:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d88a5380c3d95ea1a953c25ae5c582633b322983",
+    "title": "Pentagon pulls the plug on one of the military's most troubled space programs",
+    "link": "https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/",
+    "summary": "Problems with the ground system would have \"put current GPS military and civilian capabilities at risk.\"",
+    "isoDate": "2026-04-21T02:27:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "global positioning system",
+      "GPS",
+      "military space",
+      "Raytheon",
+      "rtx",
+      "satellite navigation",
+      "US Space Force"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GPS_schriever-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "a5d6b578a303d613ccf5601ebc69746bb576cd39",
     "title": "Vibe coding upstart Lovable denies data leak, cites 'intentional behavior,' then throws HackerOne under the bus",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/lovable_denies_data_leak/",
-    "summary": "<h4>A lesson in how not to respond to vulnerability reports</h4> <p>Vibe-coding platform Lovable is pooh-poohing a researcher’s finding that anyone could open a free account on the service and read other users' sensitive info, including credentials, chat history, and source code. However, the company’s story keeps changing: First it attributed the publicly exposed info to \"intentional behavior\" and \"unclear documentation,\" then threw bug-bounty service HackerOne under the bus.…</p>",
+    "summary": "<h4>A lesson in how not to respond to vulnerability reports</h4> <p><strong>UPDATED</strong>  Vibe-coding platform Lovable is pooh-poohing a researcher’s finding that anyone could open a free account on the service and read other users' sensitive info, including credentials, chat history, and source code. However, the company’s story keeps changing: First it attributed the publicly exposed info to \"intentional behavior\" and \"unclear documentation,\" then threw bug-bounty service HackerOne under the bus.…</p>",
     "isoDate": "2026-04-20T23:26:12Z",
     "source": "The Register",
     "category": "Tech",
@@ -907,27 +943,6 @@
     "pinned": false
   },
   {
-    "id": "9181dd6638708b07c91b55a070661cf4a4c71c94",
-    "title": "Ridley Scott's post-apocalyptic The Dog Stars drops first trailer",
-    "link": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer/",
-    "summary": "\"The world that was, doesn't exist. It's just us, trying to hold onto what was.\"",
-    "isoDate": "2026-04-17T17:32:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "20th Century Studios",
-      "entertainment",
-      "film trailers",
-      "Ridley Scott",
-      "The Dog Stars",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dogstar3-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fd3cdc4c0e1c209731648e9b7191ad5dafc3784e",
     "title": "CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisa_tells_feds_to_patch/",
@@ -1252,19 +1267,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "616334d1e08b3c2de56f841a76a1672e4d986e28",
-    "title": "Loud, power hungry - opposition grows to datacenters as Maine passes bit barn ban",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/maine_pulls_bit_barn_brake/",
-    "summary": "<h4>If there's one thing folks want less than Copilot in their taskbar, it's a bit barn in their backyard</h4> <p>Loud, thirsty, power hungry, and intensely unpopular with neighboring residents: datacenters are becoming the new nuclear waste dump. And many localities are now saying \"not in my backyard.\"…</p>",
-    "isoDate": "2026-04-16T18:48:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
     "tags": [],
     "image": "",
     "pinned": false
