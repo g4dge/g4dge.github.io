@@ -1,5 +1,119 @@
 [
   {
+    "id": "a34ab7747be900d0b373a731089a0b4836307f78",
+    "title": "Google unveils two new TPUs designed for the \"agentic era\"",
+    "link": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+    "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
+    "isoDate": "2026-04-22T17:10:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "generative ai",
+      "google",
+      "TPUs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/TPU-8t-board-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c39b683c5e0f8c4d05bb2786d165524e48ed3691",
+    "title": "Tabloid reports linking 10 missing and dead scientists spur FBI probe",
+    "link": "https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/",
+    "summary": "FBI suspects foreign spies may be targeting scientists with access to government secrets.",
+    "isoDate": "2026-04-22T16:46:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "Air Force",
+      "aliens",
+      "Donald Trump",
+      "fbi",
+      "NASA",
+      "nuclear science",
+      "rocket technology",
+      "UFO"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2262176677-500x500-1776873801.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fcf14bb93803b5b3b19e2bd124dce052937001ec",
+    "title": "Workday, Rippling, and Slack flunk data access test, claims Fivetran",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/workday_rippling_slack_flunk_fivetran_data_access_test/",
+    "summary": "<h4>Report also slams multiple vendors for poor data integration and egress fees</h4> <p>Workday, Rippling, and Salesforce-owned Slack rank among the worst performers for enterprise data movement, according to a new industry benchmark tracking the speeds needed to power analytics, machine learning, and AI agents.…</p>",
+    "isoDate": "2026-04-22T16:40:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b6992099235aad0de27e636283df0bd9a2a8fe6a",
+    "title": "Tesla Announces Model S/X Signature Edition Delivery Event",
+    "link": "https://www.notateslaapp.com/news/4027/tesla-announces-model-sx-signature-edition-delivery-event",
+    "summary": "The automaker has begun sending out invitations for an exclusive event at its Fremont factory to celebrate the final production run of the Model S and Model X&hellip; <a href=\"https://www.notateslaapp.com/news/4027/tesla-announces-model-sx-signature-edition-delivery-event\">Read More</a>",
+    "isoDate": "2026-04-22T16:33:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-s-x-signature-edition-9.webp/92091f006665a964530d971942feabe4/model-s-x-signature-edition-9.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0ae786718133ff05a882b84b201ff003f8742457",
+    "title": "Thunderbird in hand worth 2 Outlooks as fresh FOSS fave and Firefox arrive",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/ffox_and_tbird_150/",
+    "summary": "<h4>Still here, still changing, still relevant, still your best choice</h4> <p>If you're stuck without access to tech support – say, <a href=\"https://www.theregister.com/2026/04/02/artemis_astronauts_microsoft_outlook_broken/\" target=\"_blank\">half way to the Moon</a> – then you're better off with a single install of Thunderbird than any number of Outlooks.…</p>",
+    "isoDate": "2026-04-22T16:06:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a992b02f1e9c90337a7f0e618abde38346abba4f",
+    "title": "Physicists think they've solved the muon mystery",
+    "link": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
+    "summary": "Results dash hopes for a fifth force but provide very precise proof of Standard Model and QFT.",
+    "isoDate": "2026-04-22T15:40:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "muon",
+      "particle physics",
+      "Physics",
+      "the standard model"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/muon1-500x500-1776857464.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9389f112abb6544d58470e610664ecf06734849a",
+    "title": "You can now run WSL on Windows 95, in case you're crazy, too",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/wsl_windows95/",
+    "summary": "<h4>'I think this might be one of my greatest hacks of all time,' says dev behind unholy abomination</h4> <p>The Windows Subsystem for Linux is an invaluable tool, but anyone wanting to run it on a Windows 9x system would find themselves out of luck until now.…</p>",
+    "isoDate": "2026-04-22T15:29:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "134d09abf840483486bacab3612712e2bf871476",
     "title": "New court ruling blocks many of the government's anti-renewable policies",
     "link": "https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/",
@@ -52,6 +166,7 @@
       "fake nudes",
       "Instagram",
       "MAGA",
+      "syndication",
       "YouTube"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/stripper-500x500.jpg",
@@ -693,24 +808,6 @@
     "pinned": false
   },
   {
-    "id": "f8d8f75a76cf756bf38236ffa4926a6d3db25dca",
-    "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-    "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
-    "summary": "The self-heating Shenxing battery still performs even in Arctic temperatures.",
-    "isoDate": "2026-04-21T15:01:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "CATL",
-      "DC fast charging",
-      "LFP battery cells"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255429919-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "019a1693ad366f6561061589ef42eaabe4ec16a8",
     "title": "The spaghettified DBMS chart that shows Oracle's crown is slowly slipping",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/gartner_bamboozling_dbms_chart_shows/",
@@ -721,25 +818,6 @@
     "author": "Lindsay Clark",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c83c8c9040acbc4fe022268408a5edcbe9202cae",
-    "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
-    "link": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
-    "summary": "There are some practical benefits to this $899 chip, but not many.",
-    "isoDate": "2026-04-21T14:45:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "3d V-cache",
-      "AMD",
-      "Ryzen",
-      "zen 5"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_7697-500x500.jpeg",
     "pinned": false
   },
   {
@@ -1109,19 +1187,6 @@
     "pinned": false
   },
   {
-    "id": "9b822ea19341196fd2a297b4c302791bebe34200",
-    "title": "New Android development tool designed for robots, not humans",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/google_previews_android_cli/",
-    "summary": "<h4>Google previews Android CLI as agentic development continues to snowball</h4> <p>Google has introduced a new Android command-line interface built specifically for AI agents, claiming a 70 percent cut in token usage and three times reduction in task completion time.…</p>",
-    "isoDate": "2026-04-20T15:24:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "6a136b02d1b445ba93f11701434374ba2ee833b8",
     "title": "Tesla Cybercabs Without Steering Wheels Spotted at Giga Texas",
     "link": "https://www.notateslaapp.com/news/4002/tesla-cybercabs-without-steering-wheels-spotted-at-giga-texas",
@@ -1132,32 +1197,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/cybercabs_outbound_lot_2026.jpg/5af11bd3ef8b7936e181baefec4ef414/cybercabs_outbound_lot_2026.jpg",
-    "pinned": false
-  },
-  {
-    "id": "27e1d9c3f2f86b8bf1b191486b7a80552df50dd2",
-    "title": "Microsoft releases Windows Server update fix to fix its April update fixes",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/microsoft_releases_a_windows_server_update_fix/",
-    "summary": "<h4>Out-of-band or out of control?</h4> <p>Microsoft has pushed out an out-of-band update to address the restart loop that hit some Windows Server devices after its April update.…</p>",
-    "isoDate": "2026-04-20T13:15:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "97a3b61570a02bb00cf34b4382be38e463fc81f3",
-    "title": "AI is reshaping Britain's datacenter map away from London",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/ai_is_reshaping_britains_datacenter/",
-    "summary": "<h4>Bit barns need to worry more about space, access to grid – overstuffed center no longer a must, say experts</h4> <p>UK AI datacenter capacity could migrate away from London as power shortages, planning constraints and reduced reliance on low-latency connections to financial firms make other locations more attractive.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-20T12:38:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1528,19 +1567,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-grok-location-reminders.jpg/22495d3e0e2f4e244be5ac1f0f1983c9/tesla-grok-location-reminders.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ac175c2983711d2dc977c702ae337ea5f1ff607b",
-    "title": "Musk Says Tesla's AI5 Chip is Done, Not Coming to Cars First",
-    "link": "https://www.notateslaapp.com/news/3974/musk-says-teslas-ai5-chip-is-done-not-coming-to-vehicles-first",
-    "summary": "Tesla is moving at a breakneck pace in the semiconductor world, but its most powerful chip yet might not land in your driveway as soon as you hoped&hellip; <a href=\"https://www.notateslaapp.com/news/3974/musk-says-teslas-ai5-chip-is-done-not-coming-to-vehicles-first\">Read More</a>",
-    "isoDate": "2026-04-15T17:12:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ai5-chip-design.webp/9cc7cffa08cedadec4f37dc7238d978e/ai5-chip-design.jpg",
     "pinned": false
   }
 ]
