@@ -1,5 +1,106 @@
 [
   {
+    "id": "040e47e3b1344165c2bebf4e3e6ac6d500b0c444",
+    "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "link": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "summary": "When authentication fails, things can go very, very wrong.",
+    "isoDate": "2026-04-22T19:32:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "ASP.NET",
+      "microsoft",
+      "vulnerabilities",
+      "Windows"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "56129656664b1ef92bf7d98b82eb08459edebcce",
+    "title": "Tesla Expands Cybertruck V2G Capabilities to California to Help Stabilize Electrical Grid",
+    "link": "https://www.notateslaapp.com/news/4015/tesla-expands-cybertruck-v2g-capabilities-to-california-to-help-stabilize-electrical-grid",
+    "summary": "Tesla is expanding Cybertruck Powershare Grid Support to California - those with PG&amp;E can now  power their homes and earn money during grid events.&hellip; <a href=\"https://www.notateslaapp.com/news/4015/tesla-expands-cybertruck-v2g-capabilities-to-california-to-help-stabilize-electrical-grid\">Read More</a>",
+    "isoDate": "2026-04-22T18:44:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-home.jpg/b7e9c5f74d352cff7c9e041a520d5cc9/cybertruck-home.jpg",
+    "pinned": false
+  },
+  {
+    "id": "23f26317b0daf5ebf504ae3d56fbde572e71570d",
+    "title": "Anthropic tested removing Claude Code from the Pro plan",
+    "link": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "summary": "Untenable demand has Anthropic exploring new approaches to rationing its service.",
+    "isoDate": "2026-04-22T18:34:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "agentic AI",
+      "Anthropic",
+      "Claude",
+      "Claude Code",
+      "LLM",
+      "tokens"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-500x500-1774983656.jpg",
+    "pinned": false
+  },
+  {
+    "id": "56427894554302c709b3b7992ea66556e934ed6a",
+    "title": "GitHub opts all CLI users into telemetry collection whether they want it or not",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/github_opts_all_cli_users/",
+    "summary": "<h4>Opt-out instructions included if you're not keen on GitHub watching you in the name of product improvement</h4> <p>Users of GitHub's command-line interface (CLI) who value privacy, beware. The Microsoft-owned code-hosting platform has quietly begun collecting pseudonymous client-side telemetry from CLI users and enabled it by default.…</p>",
+    "isoDate": "2026-04-22T18:33:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "67f7b5558a76b2b0a5c385be6846530a4f207c7d",
+    "title": "Linux may get a hall pass from one state age-check bill, but Congress plays hall monitor",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/linux_us_state_age_verificaiton_laws/",
+    "summary": "<h4>Colorado amendments could exempt open source OSes, code repos, and containers</h4> <p>The prospect of OS-level age checks applying to open source systems is a serious concern for FOSS advocates. Campaigners appear to have secured proposed exemptions for open source operating systems, code repositories, and containers in one US state, but stricter federal legislation has already been introduced in Congress.…</p>",
+    "isoDate": "2026-04-22T17:55:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "afe6c56aa116440ff4331419e8157cecb7b48e7c",
+    "title": "Coyote vs. Acme is finally getting released—with a killer trailer",
+    "link": "https://arstechnica.com/culture/2026/04/coyote-vs-acme-is-finally-getting-released-with-a-killer-trailer/",
+    "summary": "What was Warner Bros. even thinking, shelving this film for so many years?",
+    "isoDate": "2026-04-22T17:55:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "Coyote vs Acme",
+      "entertainment",
+      "film trailers",
+      "Ketchup Entertainment",
+      "Trailers",
+      "Warner Bros."
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/coyote1-500x500-1776868310.jpg",
+    "pinned": false
+  },
+  {
     "id": "a34ab7747be900d0b373a731089a0b4836307f78",
     "title": "Google unveils two new TPUs designed for the \"agentic era\"",
     "link": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
@@ -17,6 +118,19 @@
       "TPUs"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/TPU-8t-board-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "565cb2a99bf770ad2bbb42eaf2c9f5ce9bb50ed3",
+    "title": "Datacenter boom keeps dirty coal plants alive in the US",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/us_nonprofits_datacenter_power_plants/",
+    "summary": "<h4>Happy Earth Day!</h4> <p>Datacenter growth in the US is helping keep aging fossil-fuel plants online longer, slowing the shift to a cleaner grid and worsening air pollution, according to new research from a group of environmental nonprofits.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-22T17:10:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
     "pinned": false
   },
   {
@@ -689,26 +803,6 @@
     "pinned": false
   },
   {
-    "id": "e8b123b7c0e11f2789c7b8670380964ceddec04a",
-    "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
-    "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
-    "summary": "A lower-end Ryzen AI 340 CPU option will also bring the price down, for now.",
-    "isoDate": "2026-04-21T18:15:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Gaming",
-      "Tech",
-      "framework",
-      "framework laptop",
-      "framework laptop 16",
-      "oculink"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/eGPU_Install_02-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e620cb124fdfaacfd9a050d7d317275e2087f03e",
     "title": "Intel-Based Teslas Receive These Features With the Spring Update (2026.14)",
     "link": "https://www.notateslaapp.com/news/4021/intel-based-teslas-receive-these-features-with-the-spring-update-202614",
@@ -732,27 +826,6 @@
     "author": "Jessica Lyons",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f6656286bef251f7b4f7cd51df985da11778cdf3",
-    "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-    "link": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-    "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
-    "isoDate": "2026-04-21T17:00:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Amazon Web Services",
-      "Anthropic",
-      "Anthropic Claude",
-      "Claude",
-      "Trainium 2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-500x500.jpg",
     "pinned": false
   },
   {
@@ -1132,45 +1205,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-austin.webp/e3f64d88544521834b1fd58a7eca6033/robotaxi-austin.jpg",
-    "pinned": false
-  },
-  {
-    "id": "33b88ee120a44f17fa05b22b7b35b6c4d8277ca5",
-    "title": "You too can build a nuclear battery from junk you have lying around the house",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/how_to_build_a_nuclear/",
-    "summary": "<h4>It won't provide much juice, but its creator calls it a 'nanowatt nuclear power plant'</h4> <p>It's illegal and impractical to construct a nuclear power plant in your backyard. But a DIY tritium nuclear battery is far less dramatic - just don't expect any appreciable amount of energy from it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-20T16:29:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a7dda86d2961dc139e3ddacda064630aec2b5c0d",
-    "title": "Schmoozebots: Study finds flattery will get AI everywhere",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/chatbots_win_trust_by_sounding/",
-    "summary": "<h4>Excessive friendliness may cause users to forget they're talking to a very confident autocomplete</h4> <p>A study into how humans interact with chatbots suggests the fastest way to make an LLM feel human isn't making it smarter – it's making it seem nicer.…</p>",
-    "isoDate": "2026-04-20T16:07:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "07dc1eae5395de5fdae1da600f90582a5e0ffe51",
-    "title": "One of Europe's sovereign cloud picks may not be so-sovereign after all",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/europe_picks_4_sovereign_cloud/",
-    "summary": "<h4>US-based cloud providers could have to disclose certain data under American legal orders</h4> <p><strong>Updated</strong>  The European Commission has awarded four contracts designed to advance cloud sovereignty in the EU, but one uses services from S3NS, a joint venture between Thales and Google Cloud, raising questions about its real independence.…</p>",
-    "isoDate": "2026-04-20T15:50:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
