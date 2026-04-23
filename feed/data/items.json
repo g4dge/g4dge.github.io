@@ -1,5 +1,57 @@
 [
   {
+    "id": "8ba1e88e1a78708e18ca768fa1894948c0558014",
+    "title": "We still don't have a more precise value for \"Big G\"",
+    "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+    "summary": "Such experiments bring \"order to the universe, whether or not the number agrees with the expected value.”",
+    "isoDate": "2026-04-23T20:57:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "Big G",
+      "fundamental constants",
+      "gravitational constant",
+      "Physics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/bigG1-500x500-1776860219.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e2046a17d3bdce3e06b1c8817bbc15b17cc78c27",
+    "title": "Claude Opus 4.7 has turned into an overzealous query cop, devs complain",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/",
+    "summary": "<h4>Rising refusal rate from Acceptable Use Classifier leaves customers paying for nothing</h4> <p>Anthropic's release last week of Opus 4.7 came with stronger safeguards to prevent misuse. Unfortunately, these safeguards have also managed to thwart legitimate use.…</p>",
+    "isoDate": "2026-04-23T20:47:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9aea20e6b7e4e30c2a260a152e615e77547fc165",
+    "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+    "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+    "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
+    "isoDate": "2026-04-23T20:41:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "cryptography",
+      "kyber",
+      "quantum cryptography",
+      "ransomware"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-500x500-1753386908.jpg",
+    "pinned": false
+  },
+  {
     "id": "6194dbfcc01f2352ebbd11c0977a4131c81b0d5b",
     "title": "Elon Musk Says Tesla Roadster Could Debut Next Month",
     "link": "https://www.notateslaapp.com/news/4037/elon-musk-says-tesla-roadster-could-debut-next-month",
@@ -415,7 +467,7 @@
   },
   {
     "id": "d333c2699d57d9b74e60dd27377338026ca13fed",
-    "title": "Sharing isn’t caring if it’s an admin password",
+    "title": "Using the password 'admin123' wasn't as bad as sharing it on Slack",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/sharing_isnt_caring_pwned/",
     "summary": "<h4>Keeping it simple for the developers can lead to very complex headaches later</h4> <p><strong>PWNED</strong>  Welcome back to PWNED, the column where we celebrate the people who’ve taught us how not to secure a server. If you’ve ever tied your own shoelaces together, then tripped over them, or attempted to dive into a swimming pool but hit your head on the diving board, we’ll be talking about your cyber equivalent.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
     "isoDate": "2026-04-23T09:28:12Z",
@@ -888,25 +940,6 @@
     "pinned": false
   },
   {
-    "id": "a992b02f1e9c90337a7f0e618abde38346abba4f",
-    "title": "Physicists think they've solved the muon mystery",
-    "link": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
-    "summary": "Results dash hopes for a fifth force but provide very precise proof of Standard Model and QFT.",
-    "isoDate": "2026-04-22T15:40:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "muon",
-      "particle physics",
-      "Physics",
-      "the standard model"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/muon1-500x500-1776857464.jpg",
-    "pinned": false
-  },
-  {
     "id": "9389f112abb6544d58470e610664ecf06734849a",
     "title": "You can now run WSL on Windows 95, in case you're crazy, too",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/wsl_windows95/",
@@ -917,30 +950,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "134d09abf840483486bacab3612712e2bf871476",
-    "title": "New court ruling blocks many of the government's anti-renewable policies",
-    "link": "https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/",
-    "summary": "Added layers of review singling out renewable energy have little legal basis.",
-    "isoDate": "2026-04-22T15:09:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Policy",
-      "Science",
-      "arbitrary",
-      "capricious",
-      "department of Interior",
-      "Energy",
-      "green",
-      "lawsuit",
-      "regulation",
-      "renewable energy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1340129766-500x500.jpg",
     "pinned": false
   },
   {
@@ -1201,19 +1210,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "44d9e22321cefd038796e0e721eecef722e75d62",
-    "title": "Murder, she wrote: Ex-FBI chief wants some ransomware crims charged with homicide",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/exfbi_cyber_chief_urges_felony_charges_ransomware/",
-    "summary": "<h4>Lawmakers decry CISA cuts: 'We are shooting ourselves in the foot'</h4> <p>If a cyberattack leads to a death, that's murder. A former FBI cyber division chief urged the US Justice Department to consider felony homicide charges against ransomware actors when attacks on hospitals lead to patient deaths.…</p>",
-    "isoDate": "2026-04-21T20:26:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
     "tags": [],
     "image": "",
     "pinned": false
