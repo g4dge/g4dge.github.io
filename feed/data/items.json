@@ -1,7 +1,109 @@
 [
   {
+    "id": "08cec2384963928a620986652279142ab32710a8",
+    "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+    "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+    "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
+    "isoDate": "2026-04-24T19:00:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "cname records",
+      "domain hijacking",
+      "porn",
+      "universities"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0cfb1e9fe9b0a2f638879c0c94008463cdf2bf5e",
+    "title": "In rare chickenpox case, itchy blisters mushroom into large, rubbery nodules",
+    "link": "https://arstechnica.com/health/2026/04/in-rare-chickenpox-case-itchy-blisters-mushroom-into-large-rubbery-nodules/",
+    "summary": "Treatment options are tricky. The teen opted to live with the masses.",
+    "isoDate": "2026-04-24T18:44:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ars-health-featured",
+      "ars-health-shingles",
+      "chickenpox"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-913456630-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "351d88b7aef9d594e93a16ee2186002bb5adcaa5",
+    "title": "Soldier won $410K in Polymarket bets on timing of Maduro capture, US alleges",
+    "link": "https://arstechnica.com/tech-policy/2026/04/soldier-won-410k-in-polymarket-bets-on-timing-of-maduro-capture-us-alleges/",
+    "summary": "It's like \"Pete Rose betting on his own team,\" Trump says of arrested soldier.",
+    "isoDate": "2026-04-24T17:41:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "maduro",
+      "polymarket",
+      "prediction markets"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/maduro-capture-500x500-1777049893.jpg",
+    "pinned": false
+  },
+  {
+    "id": "09df8789a69ebc9cffff5217efe9da391d369297",
+    "title": "Meet the 19-meter Cretaceous kraken that swam with mosasaurs",
+    "link": "https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs/",
+    "summary": "Layer by layer, researchers revealed the jaws of an ancient predator.",
+    "isoDate": "2026-04-24T17:23:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "Biology",
+      "Cretaceous",
+      "evolution",
+      "octopus",
+      "paleontology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Header-5-scaled-1-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "3ee52889ec1e8b30644b171af21732a7123b08a4",
+    "title": "Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ubuntu_resolute_raccoon/",
+    "summary": "<h4>New LTS is here, with more tooling for GPGPU and AI workloads</h4> <p>Ubuntu 26.04 \"Resolute Raccoon,\" the latest LTS release from Canonical, arrives with GNOME 50, Linux kernel 7.0, and drops the Xorg option from Ubuntu Desktop while still running X11 applications through Xwayland.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-24T17:22:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1b5504b3978f2144ffc8790505e9bd3031d96b5c",
+    "title": "First Look at Tesla FSD 14.3.2: Major Summon Improvements [VIDEO]",
+    "link": "https://www.notateslaapp.com/news/4041/first-look-at-tesla-fsd-1432-major-summon-improvements-video",
+    "summary": "Tesla has officially dropped FSD v14.3.2, and for those who have been waiting for the 'Actually' in Actually Smart Summon to mean something, this is the one&hellip; <a href=\"https://www.notateslaapp.com/news/4041/first-look-at-tesla-fsd-1432-major-summon-improvements-video\">Read More</a>",
+    "isoDate": "2026-04-24T17:11:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-2-first-impressions-1.png/b43604176cf16d77425c7138bd762ff9/fsd-14-3-2-first-impressions-1.jpg",
+    "pinned": false
+  },
+  {
     "id": "209d9b0521d737c7d3cc4e9d79ea0223156bf245",
-    "title": "Samsung may be bracing for first-ever annual loss in smartphone business",
+    "title": "Report: Samsung execs worried company could lose money on smartphones for the first time",
     "link": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
     "summary": "The AI-driven memory shortage is hitting Samsung's bottom line.",
     "isoDate": "2026-04-24T16:58:45Z",
@@ -749,25 +851,6 @@
     "pinned": false
   },
   {
-    "id": "47d5811326f7bde1399930972978b14978f058e0",
-    "title": "Eight months early and under budget, the Roman Telescope is ready to launch",
-    "link": "https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/",
-    "summary": "Spy satellite hardware has been repurposed to scan the Universe in the infrared.",
-    "isoDate": "2026-04-23T16:27:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "Space",
-      "astronomy",
-      "NASA",
-      "roman space telescope"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_1944-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "44b86a2ca3c65b27cb1ed0b79641c7f8b32e87da",
     "title": "Age checks could turn internet into an ID checkpoint, complains Proton CEO",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/proton_ceo_age_checks_id_checkpoint/",
@@ -820,23 +903,6 @@
     "pinned": false
   },
   {
-    "id": "a24d9554d6d8fdf2d20904243ce841892d8d24bd",
-    "title": "BMW bumps the 7 Series for 2027, adds all-new battery",
-    "link": "https://arstechnica.com/cars/2026/04/bmw-bumps-the-7-series-for-2027-adds-all-new-battery/",
-    "summary": "The 2027 7 Series is available as an EV, with an inline-six, or an inline-six PHEV.",
-    "isoDate": "2026-04-23T15:01:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Edelstein",
-    "tags": [
-      "Cars",
-      "BMW 7 Series",
-      "BMW i7"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/DSC_0148-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "4674e1d8f56311c6cc24d972ef16f130ea41daa9",
     "title": "Everpure 'takes the hit' as AI-fueled supply crunch drives prices up 70%",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/everpure_letter_covid/",
@@ -847,21 +913,6 @@
     "author": "Carly Page",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "931741a6b9833af6db0960ad6421ae2d00e82d02",
-    "title": "Greenhouse gases from data center boom could outpace entire nations",
-    "link": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
-    "summary": "Plants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually.",
-    "isoDate": "2026-04-23T14:51:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Molly Taft, wired.com",
-    "tags": [
-      "AI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/microsoft_datacenter_2025-500x500.jpg",
     "pinned": false
   },
   {
@@ -1112,26 +1163,6 @@
     "pinned": false
   },
   {
-    "id": "c76a31b509695f00822fd6f188f8c45d60bdfaf8",
-    "title": "Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage",
-    "link": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/",
-    "summary": "Ship attacked by Iran after possibly falling for safe passage crypto scam.",
-    "isoDate": "2026-04-22T22:07:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Security",
-      "crypto scams",
-      "Iran",
-      "maritime security",
-      "scammers",
-      "Strait of Hormuz"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Tanker-Strait-of-Hormuz-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "ca33a352be0b9df6fb469919f6b8fc14da4b899a",
     "title": "Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/",
@@ -1218,19 +1249,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "565cb2a99bf770ad2bbb42eaf2c9f5ce9bb50ed3",
-    "title": "Datacenter boom keeps dirty coal plants alive in the US",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/us_nonprofits_datacenter_power_plants/",
-    "summary": "<h4>Happy Earth Day!</h4> <p>Datacenter growth in the US is helping keep aging fossil-fuel plants online longer, slowing the shift to a cleaner grid and worsening air pollution, according to new research from a group of environmental nonprofits.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-22T17:10:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
     "tags": [],
     "image": "",
     "pinned": false
