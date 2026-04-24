@@ -1,5 +1,61 @@
 [
   {
+    "id": "2c8227e0a7a250a11933da79ec8feac6c47acad9",
+    "title": "Microsoft beefs up Remote Desktop security with ... hard-to-read messages",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/remote_desktop_security_beefed_up/",
+    "summary": "<h4>Ailing scaling blamed by Windows-maker for unreadable missives</h4> <p>Microsoft's update to harden Remote Desktop against phishing attacks has arrived. When users open a Remote Desktop (.rdp) file, they should now see a warning listing all requested connection settings - or they would if it was displaying correctly.…</p>",
+    "isoDate": "2026-04-24T11:47:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5c6e96d6679ed37a8174e9db31fadcacd70d2a58",
+    "title": "It's a myth that you need Mythos to find bugs: Open source models can do it just as well",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ai_bugfinding_futures/",
+    "summary": "<h4>OpenAI's first security hire, Ari Herbert-Voss, thinks more automated bug finding will improve security without costing jobs</h4> <p><strong>Black Hat Asia</strong>  Open source models can find bugs as effectively as Anthropic's Mythos, according to Ari Herbert-Voss, CEO of AI-powered security startup RunSybil and OpenAI's first security hire.…</p>",
+    "isoDate": "2026-04-24T11:41:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ac231a81fd08911bbbc4a8d13498abf60fb0c062",
+    "title": "Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company",
+    "link": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
+    "summary": "\"If it doesn’t rely on a solid, there’s no reason why we can’t launch.\"",
+    "isoDate": "2026-04-24T11:00:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "rocket report",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/RDRE-Hot-Fire-Image-2048x1366-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "76c25ab028166bb16f903c14db2f0d70bbce25bb",
+    "title": "Trump to UK: Stop taxing our big beautiful tech corps or face tariff tsunami",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/trump_threatens_big_tariff_on/",
+    "summary": "<h4>Oval Office resident rants about Blighty's Digital Services Tax with threats that don’t quite add up</h4> <p>Donald Trump has threatened to whack the UK with a \"big tariff\" if it doesn't scrap its tax on large US tech firms, reviving a long-running spat over who gets to skim the proceeds from Silicon Valley's global empire.…</p>",
+    "isoDate": "2026-04-24T10:45:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "6cd82688769623391c27bb5f3a419aa09e363e27",
     "title": "The Skeptic Podcast – Episode 061",
     "link": "https://www.skeptic.org.uk/2026/04/the-skeptic-podcast-episode-061/",
@@ -1010,27 +1066,6 @@
     "pinned": false
   },
   {
-    "id": "23f26317b0daf5ebf504ae3d56fbde572e71570d",
-    "title": "Anthropic tested removing Claude Code from the Pro plan",
-    "link": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
-    "summary": "Untenable demand has Anthropic exploring new approaches to rationing its service.",
-    "isoDate": "2026-04-22T18:34:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "agentic AI",
-      "Anthropic",
-      "Claude",
-      "Claude Code",
-      "LLM",
-      "tokens"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-500x500-1774983656.jpg",
-    "pinned": false
-  },
-  {
     "id": "56427894554302c709b3b7992ea66556e934ed6a",
     "title": "GitHub opts all CLI users into telemetry collection whether they want it or not",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/github_opts_all_cli_users/",
@@ -1208,45 +1243,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "06a96a75251ccf0544bf7213ca478bac8ea7d577",
-    "title": "France's 'Secure' ID agency probes breach as crooks claim 19M records",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/frances_secure_id_agency_probes/",
-    "summary": "<h4>Gov admits 'incident' as forum sellers boast of fresh haul covering up to a third of the population</h4> <p>France's National Agency for \"Secure\" Documents is explaining a potential data spill just as crooks online claim they've nicked a third of the country's ID information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-22T11:30:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c9ad7f112a834f90416b4c19a83770978c33fa84",
-    "title": "Scotland Yard can keep using live facial recognition on people in London, say judges",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/high_court_gives_thumbs_up/",
-    "summary": "<h4>Judges say cops face-slurping not a problem under current human rights laws</h4> <p>London's Metropolitan Police Service (MPS) has survived a legal challenge that attempted to curb its rollout of live facial recognition (LFR) technology across the capital.…</p>",
-    "isoDate": "2026-04-22T11:14:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b98a5a4bb0139441ad37e3f35d32f15534351c3d",
-    "title": "UK tribunal sends £2B claim accusing Microsoft of overcharging for licensing to trial",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/microsoft_licensing_claim_cat/",
-    "summary": "<h4>Legal action claims tech giant charges more for Windows Server when it's not on Azure</h4> <p>A UK Competition Appeals Tribunal (CAT) has dismissed Microsoft's objections to a collective action lawsuit brought by UK-based cloud licensees, clearing the way for trial.…</p>",
-    "isoDate": "2026-04-22T11:08:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1606,19 +1602,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla_diner_sign.jpg/95393dfc3c44aaf628b2d289220f3532/tesla_diner_sign.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e7b9e7e90022251e2086905e6f0e53fe294fb225",
-    "title": "Tesla Rebrands Dog Mode to Pet Mode, Adds New Features",
-    "link": "https://www.notateslaapp.com/news/3987/tesla-rebrands-dog-mode-to-pet-mode-adds-new-features",
-    "summary": "In a move that acknowledges not every Tesla owner is a 'dog person,' the automaker has officially rebranded its iconic 'Dog Mode' feature to 'Pet Mode'&hellip; <a href=\"https://www.notateslaapp.com/news/3987/tesla-rebrands-dog-mode-to-pet-mode-adds-new-features\">Read More</a>",
-    "isoDate": "2026-04-17T11:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-pet-mode.webp/75f42f9235c2d4b5a189d10bf4f06c3f/tesla-app-pet-mode.jpg",
     "pinned": false
   }
 ]
