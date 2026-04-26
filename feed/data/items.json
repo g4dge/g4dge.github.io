@@ -1,5 +1,36 @@
 [
   {
+    "id": "248ef395dd74d3560c9d035d6b745e99b4ef5a41",
+    "title": "Go straight to sell! Windows second-chance setup hawks Microsoft services at IT's expense",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/windows_second_chance_setup/",
+    "summary": "<h4>The OS trying to upsell you subscriptions is more than just an annoyance</h4> <p><strong>opinion</strong>  You’ve had your laptop for months, and you’ve always made sure it installed Microsoft updates. Then one day you boot up, and Windows 11 greets you with a confusing message: “You’re almost done setting up your PC.”…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-26T11:38:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "619c8a2ef5f4c7f8d647fba399db7233f619313a",
+    "title": "New robotic control software avoids jamming their joints",
+    "link": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
+    "summary": "Software lets robots learn from each other even if they have different hardware.",
+    "isoDate": "2026-04-26T11:09:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "Computer science",
+      "control software",
+      "Robotics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "6db3a17429c0490ff23bccbbc9a5d7f4bc8ba17d",
     "title": "Hot take: AI's not going to kill open source code security",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/opinion_column/",
@@ -840,27 +871,6 @@
     "pinned": false
   },
   {
-    "id": "abc2f569cce7ac19ee1503ccee48c70954827e40",
-    "title": "Carbon nanotube wiring gets closer to competing with copper",
-    "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
-    "summary": "While this material degrades over time, it could point to better ones.",
-    "isoDate": "2026-04-23T21:22:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "carbon nanotubes",
-      "chemistry",
-      "conductivity",
-      "doping",
-      "materials science",
-      "Physics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-157692460-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4925621694bae96c3846fe15bf6c76a5033b2a3c",
     "title": "Solid-state batteries hold more juice, but keep cracking up. Now researchers know why",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/solid_state_batteries_energy_storage/",
@@ -1269,19 +1279,6 @@
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/another_npm_supply_chain_attack/",
     "summary": "<h4>Plus, the payload references 'TeamPCP/LiteLLM method'</h4> <p>Yet another npm supply-chain attack is worming its way through compromised packages, stealing secrets and sensitive data as it moves through developers' environments, and it shares significant overlap with the open source infections attributed to TeamPCP last month.…</p>",
     "isoDate": "2026-04-22T22:34:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ca33a352be0b9df6fb469919f6b8fc14da4b899a",
-    "title": "Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/",
-    "summary": "<h4>Hackpocalypse deferred</h4> <p>Anthropic's Mythos model is purportedly so good at finding vulnerabilities that the Claude-maker is afraid to make it available to the general public for fear that criminals will take advantage. But early analysis shows that Mythos may not be as dangerous as some would have you believe.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-22T21:39:44Z",
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
