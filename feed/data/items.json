@@ -1,7 +1,74 @@
 [
   {
+    "id": "f917d324683dfa3bf235612beebb1ab7ecb5bcb6",
+    "title": "Cursor-Opus agent snuffs out startup’s production database",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/",
+    "summary": "<h4>Relax, the data's been recovered. Continue with your vibe coding</h4> <p>Jer (Jeremy) Crane, the founder of automotive SaaS platform PocketOS, spent the weekend recovering from a data extinction event caused by the company's AI coding agent in less than 10 seconds. …</p>",
+    "isoDate": "2026-04-27T21:29:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d7cad135ef6e45c5b14aab222f7450b6e18307d8",
+    "title": "Open source package with 1 million monthly downloads stole user credentials",
+    "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+    "summary": "If you're one of millions using element-data, it's time to check for compromise.",
+    "isoDate": "2026-04-27T21:04:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "GitHub",
+      "Open source software"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4510e88f620f163313fb59f71bd0ebf0e801f37b",
+    "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+    "link": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+    "summary": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
+    "isoDate": "2026-04-27T20:45:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "Artificial Intelligence",
+      "Elon Musk",
+      "generative ai",
+      "openai",
+      "sam altman",
+      "spacex",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/elon-and-sam-are-bffs-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a5b705fb6e3619ec06fee55a4b2b1f5da33ea454",
+    "title": "The Navy's autonomous carrier-based refueling drone has finally flown",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/navys_autonomous_carrierlaunched_refueling_drones/",
+    "summary": "<h4>After missing its 2025 target, Boeing's MQ-25A Stingray is one step closer to a carrier deck</h4> <p>The US Navy’s current carrier-based refueling aircraft may soon be getting help, as Boeing has completed the first flight of its autonomous tanker drone designed for carrier operations.…</p>",
+    "isoDate": "2026-04-27T20:26:40Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "3acd4578055c8b981ced94e718bc25c76d97aa0c",
-    "title": "No longer exclusive: Microsoft agrees to let OpenAI see other cloud providers",
+    "title": "OpenAI ends its exclusive partnership with Microsoft",
     "link": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
     "summary": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.",
     "isoDate": "2026-04-27T20:10:11Z",
@@ -152,7 +219,7 @@
   },
   {
     "id": "2e4aae034cd1334bc80634afa2dd3d19b493d591",
-    "title": "Medical and utility tech companies hacked by digital intruders",
+    "title": "Medical and utility tech companies admit digital breakins",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/itron_medtronic_hacked/",
     "summary": "<h4>Itron, Medtronic disclose breaches in Friday filings</h4> <p>Digital intruders recently broke into two major tech suppliers - utility-technology firm Itron and medical-device maker Medtronic - according to filings with federal regulators.…</p>",
     "isoDate": "2026-04-27T17:53:16Z",
@@ -829,25 +896,6 @@
     "pinned": false
   },
   {
-    "id": "83576b4faf526aeae73282d761c289cfdb114ef6",
-    "title": "Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine",
-    "link": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
-    "summary": "Amid RFK Jr.'s anti-vaccine agenda, Moderna withdrew its FDA application last year.",
-    "isoDate": "2026-04-24T21:11:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "COVID-19",
-      "flu",
-      "moderna",
-      "vaccine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1229912839-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6cc15d1e617aff9f65dc15779665b20be3ae9b2d",
     "title": "Tesla to Acquire AI Hardware Company for up to $2 Billion",
     "link": "https://www.notateslaapp.com/news/4046/tesla-to-acquire-ai-hardware-company-for-up-to-2-billion",
@@ -858,24 +906,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-gen-3-eth-zurich.webp/104cfdf0eecac83331e34fe1cec7ea74/optimus-gen-3-eth-zurich.jpg",
-    "pinned": false
-  },
-  {
-    "id": "534009e40237aa7362901282744833c49e582c19",
-    "title": "FCC: Router ban includes portable hotspots, but not phones with hotspot features",
-    "link": "https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/",
-    "summary": "FCC defines consumer routers expansively, updates FAQ to include Wi-Fi hotspots.",
-    "isoDate": "2026-04-24T19:30:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "FCC",
-      "hotspots",
-      "router ban"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-500x500-1771622581.jpg",
     "pinned": false
   },
   {
@@ -1296,19 +1326,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-y-l-us-testing-sighting.webp/b4c2ccc6ccef17d7233e5bc4f7906dc9/model-y-l-us-testing-sighting.jpg",
-    "pinned": false
-  },
-  {
-    "id": "33a05cbb7d861d2fa27a16bf66376a347ad91c10",
-    "title": "US Air Force department names firms to power its bases with mini nukes",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/us_air_force_names_firms_mini_nukes/",
-    "summary": "<h4>Three vendors matched to three sites</h4> <p>The US Department of the Air Force (DAF) has selected three companies for possible nuclear microreactor projects at three of its installations under a program aimed at improving energy resilience if the electricity grid goes down.…</p>",
-    "isoDate": "2026-04-23T18:15:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
