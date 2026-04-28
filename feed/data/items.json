@@ -1,5 +1,119 @@
 [
   {
+    "id": "bbdf56e37b2566ee5dbcd7053a70cd741152a8e2",
+    "title": "The great American data center divide",
+    "link": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/",
+    "summary": "Many rural communities are viscerally opposed to AI infrastructure.",
+    "isoDate": "2026-04-28T14:15:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Susannah Savage, Rafe Rosner-Uddin, Eva Xiao, and Zehra Munir, FT",
+    "tags": [
+      "AI",
+      "cheap land",
+      "data centers",
+      "farmland",
+      "meta",
+      "rural America"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dekalb-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "dd361428abbbfd8ce13d65e568fdef55991dadef",
+    "title": "Have I Been Pwned claims Pitney Bowes hit by 8.2M email address leak",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/pitney_bowes_is_the_latest/",
+    "summary": "<h4>Names, phone numbers, physical addresses also included in Shiny Hunters alleged data dump</h4> <p>Logistics technology company Pitney Bowes, which makes franking machines for US postage, is the latest scalp claimed by ShinyHunters and its ongoing spree of pay-or-leak attacks against major organizations.…</p>",
+    "isoDate": "2026-04-28T14:15:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "be0f6432bf553b0496d0721ce7ffef4f48f3cd12",
+    "title": "Tesla to Wait for FSD V15 Before Launching Robotaxi at Scale, Lists Next Cities",
+    "link": "https://www.notateslaapp.com/news/4039/tesla-to-wait-for-fsd-v15-before-launching-robotaxi-at-scale-lists-next-cities",
+    "summary": "Tesla will hold off on a massive Robotaxi fleet expansion until FSD v15 launches, while it prepares smaller validation fleets in Florida, Nevada, and Arizona.&hellip; <a href=\"https://www.notateslaapp.com/news/4039/tesla-to-wait-for-fsd-v15-before-launching-robotaxi-at-scale-lists-next-cities\">Read More</a>",
+    "isoDate": "2026-04-28T14:01:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-las-vegas-3.webp/b863af223d95e1cb9feee20b156476f1/robotaxi-las-vegas-3.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d4c4f348ba9cd16a2d0840b8151290a74ffd351b",
+    "title": "A billion miles in less than a decade: GM's Super Cruise reaches a milestone",
+    "link": "https://arstechnica.com/cars/2026/04/gms-super-cruise-passes-a-billion-driven-miles-since-2017/",
+    "summary": "The hands-free, eyes-on driver assist only works on geofenced highways.",
+    "isoDate": "2026-04-28T14:00:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Super Cruise"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Ars-Technica-Cadillac-Optiq-26-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "56c2bed95a335d23a66ad2d8111a04e3e66feafe",
+    "title": "Despite proposed science cuts, NASA boss says 'We haven't canceled anything yet'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/despite_proposed_science_cuts_nasa/",
+    "summary": "<h4>That 'yet' is sure doing a lot of heavy lifting if the budget for science is slashed</h4> <p>NASA administrator Jared Isaacman has appeared before the US House Appropriations Committee to explain the proposed Trump administration plan to cut $5.6 billion from the space agency's budget.…</p>",
+    "isoDate": "2026-04-28T13:30:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "dbec144859346810384b4848319dd87d2618d1e1",
+    "title": "Tenstorrent’s Galaxy Blackhole AI servers escape the event horizon",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/tenstorrent_galaxy_blackhole_ai_servers_ga/",
+    "summary": "<h4>RISC-V-based systems pack 32 Blackhole accelerators in a 6U, $110K chassis</h4> <p>Tenstorrent on Tuesday announced the general availability of its Galaxy Blackhole AI compute platform.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-28T13:00:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b7846cdc54c9c1f70c2469bb06ce00ced1a171c6",
+    "title": "Brussels orders Google to share Android's AI sandbox with the other kids",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ai_competition_in_android_phones/",
+    "summary": "<h4>DMA enforcers want rival assistants to get same deep device access as Gemini</h4> <p>Those pencil pushers at the European Commission are drawing up measures to ensure Google opens up its Android smartphone platform to something few users asked for – competing AI services.…</p>",
+    "isoDate": "2026-04-28T12:30:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f29bc3e4ccd926f86f73540d7dd6f0c3815ecf0d",
+    "title": "UK.gov's DCMS to new CDIO: migrate from Google to Microsoft, overhaul ERP, build a team",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ukgov_seeks_cdio_to_lead/",
+    "summary": "<h4>£125k and a pension await whoever can herd 6 departments onto single platform without losing will to live</h4> <p>Later today, prospective candidates will log onto a UK government call to convince themselves that £125k a year is worth the trouble of tackling a technological landscape swamped by colliding projects.…</p>",
+    "isoDate": "2026-04-28T12:24:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9c3d3b20b50a72e9dafff46389b6c8852b878b94",
     "title": "Start with the sensors, then design the rest: How Zoox built its robotaxi",
     "link": "https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/",
@@ -911,24 +1025,6 @@
     "pinned": false
   },
   {
-    "id": "619c8a2ef5f4c7f8d647fba399db7233f619313a",
-    "title": "New robotic control software avoids jamming their joints",
-    "link": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
-    "summary": "Software lets robots learn from each other even if they have different hardware.",
-    "isoDate": "2026-04-26T11:09:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "Computer science",
-      "control software",
-      "Robotics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6db3a17429c0490ff23bccbbc9a5d7f4bc8ba17d",
     "title": "AI's not going to kill open source code security",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/26/opinion_column/",
@@ -1215,58 +1311,6 @@
     "pinned": false
   },
   {
-    "id": "812aa67ba1cb9c3217303d650d4570170e7a0560",
-    "title": "Meta Arms itself to the teeth by signing for 'tens of millions' of AWS Graviton cores",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/meta_aws_cpu/",
-    "summary": "<h4>After flubbing the Metaverse, Zuck embraces the Neoverse</h4> <p>Meta plans to deploy tens of millions of Amazon Web Services' Graviton 5 CPU cores as part of a multi-year collaboration that will make the social network among the largest-ever consumers of the cloud giant’s homegrown silicon.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-24T12:00:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2c8227e0a7a250a11933da79ec8feac6c47acad9",
-    "title": "Microsoft beefs up Remote Desktop security with ... hard-to-read messages",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/remote_desktop_security_beefed_up/",
-    "summary": "<h4>Ailing scaling blamed by Windows-maker for unreadable missives</h4> <p>Microsoft's update to harden Remote Desktop against phishing attacks has arrived. When users open a Remote Desktop (.rdp) file, they should now see a warning listing all requested connection settings - or they would if it was displaying correctly.…</p>",
-    "isoDate": "2026-04-24T11:47:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5c6e96d6679ed37a8174e9db31fadcacd70d2a58",
-    "title": "It's a myth that you need Mythos to find bugs: Open source models can do it just as well",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ai_bugfinding_futures/",
-    "summary": "<h4>OpenAI's first security hire, Ari Herbert-Voss, thinks more automated bug finding will improve security without costing jobs</h4> <p><strong>Black Hat Asia</strong>  Open source models can find bugs as effectively as Anthropic's Mythos, according to Ari Herbert-Voss, CEO of AI-powered security startup RunSybil and OpenAI's first security hire.…</p>",
-    "isoDate": "2026-04-24T11:41:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "76c25ab028166bb16f903c14db2f0d70bbce25bb",
-    "title": "Trump to UK: Stop taxing our big beautiful tech corps or face tariff tsunami",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/trump_threatens_big_tariff_on/",
-    "summary": "<h4>Oval Office resident rants about Blighty's Digital Services Tax with threats that don’t quite add up</h4> <p>Donald Trump has threatened to whack the UK with a \"big tariff\" if it doesn't scrap its tax on large US tech firms, reviving a long-running spat over who gets to skim the proceeds from Silicon Valley's global empire.…</p>",
-    "isoDate": "2026-04-24T10:45:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "6cd82688769623391c27bb5f3a419aa09e363e27",
     "title": "The Skeptic Podcast – Episode 061",
     "link": "https://www.skeptic.org.uk/2026/04/the-skeptic-podcast-episode-061/",
@@ -1305,19 +1349,6 @@
     "source": "Aeon",
     "category": "Long Reads",
     "author": "Flora Champy",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "77788fc1890e1e1c44a5d5f675f9ec2b94003cf3",
-    "title": "Greece relaxes Euro biometric border entry rules amid airport chaos",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/greece_ees_rules/",
-    "summary": "<h4>Missed flights and more means something has got to give at the border</h4> <p>Greece is taking a flexible approach to introducing the European Union's biometric Entry/Exit System (EES), after some British passport holders missed flights home following the system's implementation on 10 April.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-24T09:15:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "SA Mathieson",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1569,45 +1600,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/quicksilver_model_3.jpg/266a3fe52799dfbe1f5e5779a350f807/quicksilver_model_3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "899575fa08f1816aa372bd960ad00a297f29570e",
-    "title": "Tesla App Update 4.55.7: Format USB Drive from App, New Creations Section",
-    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.55.7/release-notes",
-    "summary": "Tesla app update 4.55.7 includes Format USB Drive, New Creations Section. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.55.7/release-notes\">View Release Notes</a>",
-    "isoDate": "2026-04-21T14:21:42Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/dashcam_storage.png/dbaaf3833b8876f089745506dbe2a36a/dashcam_storage.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0189672ca3818baa845934881639c568b0772b25",
-    "title": "Tesla Deploys OTA Update and Free Supercharging for Cybertruck PCS Failures",
-    "link": "https://www.notateslaapp.com/news/4014/tesla-deploys-ota-update-and-free-supercharging-for-cybertruck-pcs-failures",
-    "summary": "Tesla responds to Cybertruck PCS failures with an emergency cellular software update and free Supercharging for affected owners while parts are restocked.&hellip; <a href=\"https://www.notateslaapp.com/news/4014/tesla-deploys-ota-update-and-free-supercharging-for-cybertruck-pcs-failures\">Read More</a>",
-    "isoDate": "2026-04-21T13:40:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck_95.webp/d1b131e3f7c61531bad710dba88b2f9b/cybertruck_95.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5554230e9c02095061c93fe981d4840b0a6baf67",
-    "title": "Tesla FSD in Europe: Testing in Spain Shines as Italy Pushes Approval",
-    "link": "https://www.notateslaapp.com/news/4012/tesla-fsd-in-europe-testing-in-spain-shines-as-italy-pushes-approval",
-    "summary": "Following FSD in the Netherlands, Spain's DGT reveals Tesla has driven 80,000 km with zero incidents in testing, while Italy pushes to fast-track approval.&hellip; <a href=\"https://www.notateslaapp.com/news/4012/tesla-fsd-in-europe-testing-in-spain-shines-as-italy-pushes-approval\">Read More</a>",
-    "isoDate": "2026-04-21T13:14:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/modely_32.webp/bb38443a15ac80040d0d2b5c8de0c982/modely_32.jpg",
     "pinned": false
   }
 ]
