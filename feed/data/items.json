@@ -1,5 +1,44 @@
 [
   {
+    "id": "73e4623ad26aa5a04179f9565ce978598613b178",
+    "title": "The future of software development: Now with less software development",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/software_development_ai_dev25xsf/",
+    "summary": "<h4>At AI Dev 26 x SF, code slingers confront their relationship with AI</h4> <p>More than 3,000 software developers from around the world gathered in San Francisco on Tuesday to learn what will become of software development in the AI era.…</p>",
+    "isoDate": "2026-04-28T22:00:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "93cdb994e660f72969e74f99c67fc1f49ee8ca0b",
+    "title": "Oracle plans to power its New Mexico mega datacenter with a 2.45GW fuel cell farm",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/oracle_new_mexico_power_fuel_cell_farm/",
+    "summary": "<h4>No sense in OpenAI stressing over its cloud bills if Oracle can't get the lights on</h4> <p>Close on the heels of a report that OpenAI has missed revenue targets and may not be able to pay its future bills, compute partner Oracle is keeping calm and carrying on with a massive new datacenter complex in the New Mexico desert.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-28T21:58:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "a9f75a468fb5ed2581dceb1870955e2dc345790c",
+    "title": "Cloudera had US candidates send resumes to a fake email address, DoJ charges",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/cloudera_doj_employment_discrimination_lawsuit/",
+    "summary": "<h4>PERM filings require employers to show American workers had a fair shot at the role</h4> <p>The US Department of Justice has accused data and AI platform provider Cloudera of abusing a program designed to give permanent residency to foreign workers who take tough-to-fill positions by creating a parallel hiring process that dumped the applications of Americans to a non-functional email address. …</p>",
+    "isoDate": "2026-04-28T20:46:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "dbb62c9fcb10e1c4e454dd220f662077a4ee36b2",
     "title": "Flesh-eating bacteria devour man's arm and leg in just three days",
     "link": "https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/",
@@ -1280,19 +1319,6 @@
     "pinned": false
   },
   {
-    "id": "3ee52889ec1e8b30644b171af21732a7123b08a4",
-    "title": "Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ubuntu_resolute_raccoon/",
-    "summary": "<h4>New LTS is here, with more tooling for GPGPU and AI workloads</h4> <p>Ubuntu 26.04 \"Resolute Raccoon,\" the latest LTS release from Canonical, arrives with GNOME 50, Linux kernel 7.0, and drops the Xorg option from Ubuntu Desktop while still running X11 applications through Xwayland.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-24T17:22:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "1b5504b3978f2144ffc8790505e9bd3031d96b5c",
     "title": "First Look at Tesla FSD 14.3.2: Major Summon Improvements [VIDEO]",
     "link": "https://www.notateslaapp.com/news/4041/first-look-at-tesla-fsd-1432-major-summon-improvements-video",
@@ -1303,32 +1329,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-2-first-impressions-1.png/b43604176cf16d77425c7138bd762ff9/fsd-14-3-2-first-impressions-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "af56796817933b3a84e1a03a6a0ee7e77029d128",
-    "title": "Pentagon wants to water down drone program with autonomous subs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/pentagons_deep_sea_drones/",
-    "summary": "<h4>What, you didn't expect autonomous military craft to stay in the sky forever?</h4> <p>Drones: they're not just for the sky anymore. DARPA is seeking compact deep-ocean autonomous craft developed faster, smaller, and cheaper than today's full-ocean-depth AUV systems.…</p>",
-    "isoDate": "2026-04-24T16:34:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "92da7f4240154249ee99ec510f0fdc2cf4bb0586",
-    "title": "US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/fcc_does_a_doubletake_adds/",
-    "summary": "<h4>Silicon often from US, but the kit from APAC and elsewhere</h4> <p>America's telco regulator has clarified its ban on foreign-made routers also includes mobile hotspots and domestic routers that use a 5G cellular connection to the internet.…</p>",
-    "isoDate": "2026-04-24T16:03:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
