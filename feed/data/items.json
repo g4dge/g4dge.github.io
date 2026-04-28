@@ -1,5 +1,110 @@
 [
   {
+    "id": "dbb62c9fcb10e1c4e454dd220f662077a4ee36b2",
+    "title": "Flesh-eating bacteria devour man's arm and leg in just three days",
+    "link": "https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/",
+    "summary": "When doctors saw him, his limbs were discolored and crackling.",
+    "isoDate": "2026-04-28T20:15:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "climate change",
+      "flesh-eating bacteria",
+      "infection",
+      "Vibrio vulnificus"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-151039025-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d5e75d3ad6980c87e4b6ce5b806fa41b9630196e",
+    "title": "FCC orders review of ABC licenses after Kimmel joke offends Trump and first lady",
+    "link": "https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/",
+    "summary": "Kimmel joke calling Melania an \"expectant widow\" followed quickly by FCC order.",
+    "isoDate": "2026-04-28T19:57:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "ABC",
+      "Disney",
+      "fcc chairman brendan carr",
+      "jimmy kimmel"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-500x500-1758212997.jpg",
+    "pinned": false
+  },
+  {
+    "id": "48fddd534ef98b14b326b94288fc73144d1b82b2",
+    "title": "Tesla Updates FSD Disengagement Menu and Seat Belt Behavior",
+    "link": "https://www.notateslaapp.com/news/4065/tesla-updates-fsd-disengagement-menu-and-seat-belt-behavior",
+    "summary": "In a surprise software release, firmware version 2026.2.9.9 has started rolling out to vehicles with some community-driven Full Self-Driving (FSD) changes&hellip; <a href=\"https://www.notateslaapp.com/news/4065/tesla-updates-fsd-disengagement-menu-and-seat-belt-behavior\">Read More</a>",
+    "isoDate": "2026-04-28T19:40:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-2-intervention-feedback-menu-1.webp/91798f9eb283895807c09db9dfd4dec5/fsd-14-3-2-intervention-feedback-menu-1.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f352d74e48f7d550a0608339c377b44a6fd9083b",
+    "title": "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
+    "link": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
+    "summary": "Civil liberty concerns spur FAA to revise drone no-fly zones near ICE vehicles.",
+    "isoDate": "2026-04-28T19:37:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Features",
+      "Policy",
+      "Tech",
+      "civil liberties",
+      "customs and border protection",
+      "Department of Homeland Security",
+      "DHS",
+      "drone pilots",
+      "drones",
+      "FAA",
+      "Federal Aviation Administration",
+      "immigration and customs enforcement",
+      "minneapolis",
+      "unmanned aerial vehicles"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/powderhorn_jan_10-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6299856bb4f8273c9fe0f684cc1680e51f0efc7d",
+    "title": "OpenAI jumps out of Microsoft's bed, into Amazon's Bedrock",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/openai_climbs_into_amazons_bedrock/",
+    "summary": "<h4>Altman's gaggle of GPTs now available in limited preview in an AWS region near you</h4> <p>OpenAI's top models are officially available on Amazon Web Services' Bedrock managed inference and agent platform.…</p>",
+    "isoDate": "2026-04-28T19:21:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "82caaf6de7c7c8d48077f913e27cd6003afc2c1d",
+    "title": "Don't pay Vect a ransom - your data's likely already wiped out",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dont_pay_vect_a_ransom/",
+    "summary": "<h4>'Full recovery is impossible for anyone, including the attacker'</h4> <p>Organizations hit by the wave of Trivy and LiteLLM supply-chain compromises that paid Vect in hopes of recovering their data likely did not get much back, according to Check Point Research. That's because the ransomware Vect uses isn't actually ransomware at all, but a wiper that destroys any file larger than 128KB.…</p>",
+    "isoDate": "2026-04-28T18:36:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "f06fe1aec59d17f09e167247e3fb4b054dcfa160",
     "title": "Trump admin pays wind developers to quit, back fossil fuel projects",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/trump_admin_pay_off_wind_farm/",
@@ -31,7 +136,7 @@
       "Robotics",
       "robots"
     ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2272048837-500x500.jpg",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2272048837-500x500-1777400750.jpg",
     "pinned": false
   },
   {
@@ -783,27 +888,6 @@
     "pinned": false
   },
   {
-    "id": "82bf53b82871b566680141c18bb76d41495416ab",
-    "title": "National Science Board eviscerated; Trump admin fires all 22 members",
-    "link": "https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/",
-    "summary": "Members had planned to release report that US is ceding scientific ground to China.",
-    "isoDate": "2026-04-27T15:04:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "Science",
-      "National Science Board",
-      "National Science Foundation",
-      "NSF",
-      "science",
-      "Trump"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-500x500-1753287220.jpg",
-    "pinned": false
-  },
-  {
     "id": "42385073a17f66079613d699640c3f5936dce50e",
     "title": "Tesla Introduces AI-Powered Supercharger Forecasting to Improve Wait Time Accuracy",
     "link": "https://www.notateslaapp.com/news/4044/tesla-introduces-ai-powered-supercharger-forecasting-to-improve-wait-time-accuracy",
@@ -814,43 +898,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/supercharger-forecasting.webp/bd5a793665b66bafeafe9121ae0e5f86/supercharger-forecasting.jpg",
-    "pinned": false
-  },
-  {
-    "id": "57f76ce39df1b75d4789a1ca370bda0f19294cb2",
-    "title": "Next El Niño could be tipping point for a hotter climate",
-    "link": "https://arstechnica.com/science/2026/04/next-el-nino-could-be-tipping-point-for-a-hotter-climate/",
-    "summary": "Pacific heat pulse is temporary, but scientists warn that its climate impacts are not.",
-    "isoDate": "2026-04-27T14:12:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Inside Climate News",
-    "tags": [
-      "Science",
-      "anthropogenic climate change",
-      "climate change",
-      "El Niño",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/amazondust-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "091614b2be1b07dd18846e6e65c1d8a088b7ba45",
-    "title": "Gateway manufacturer finally acknowledges issue, fails to mention \"corrosion\"",
-    "link": "https://arstechnica.com/space/2026/04/gateway-manufacturer-finally-acknowledges-issue-fails-to-mention-corrosion/",
-    "summary": "\"At this time, further comments would be premature.\"",
-    "isoDate": "2026-04-27T14:02:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "lunar gateway",
-      "NASA",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/halo-module-500x500.jpg",
     "pinned": false
   },
   {
@@ -1298,19 +1345,6 @@
     "pinned": false
   },
   {
-    "id": "9baf976f1aa1bf012ab4974626564281f1b0f7a3",
-    "title": "Governments on high alert after CISA snuffs out Firestarter backdoor on fed network",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/government_cni_on_high_alert/",
-    "summary": "<h4>Latest in long-running pwning of Cisco kit found in mystery Fed agency</h4> <p>A US federal agency was successfully targeted by a previously unknown backdoor malware called Firestarter, according to CISA cybersnoops and their UK counterparts – neither of which disclosed the agency's name.…</p>",
-    "isoDate": "2026-04-24T14:46:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "ac49d8f2c3663eb01ec2b830a1d74bd709c16178",
     "title": "Tesla Announces HW3 Upgrade Plan, Trade-In Discount and Confirms No Unsupervised FSD for HW3",
     "link": "https://www.notateslaapp.com/news/4034/tesla-announces-hw3-upgrade-plan-trade-in-discount-and-confirms-no-unsupervised-fsd-for-hw3",
@@ -1587,19 +1621,6 @@
       "Nutrition"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9872485b81f60b088b721e6a3bf0f0a1d4b655b0",
-    "title": "Tesla's Q1 2026 Earnings Call: Listen to Replay",
-    "link": "https://www.notateslaapp.com/news/4022/teslas-q1-2026-earnings-call-how-to-listen-and-what-to-expect",
-    "summary": "Tesla is set to hold its Q1 2026 earnings call tomorrow, April 22, at 2:30 pm PT, followed by a Q&amp;A session with Tesla executives, including CEO Elon Musk&hellip; <a href=\"https://www.notateslaapp.com/news/4022/teslas-q1-2026-earnings-call-how-to-listen-and-what-to-expect\">Read More</a>",
-    "isoDate": "2026-04-21T19:57:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_52.jpg/25dc7dbde319434d0d2d61903c265f5c/group_52.jpg",
     "pinned": false
   }
 ]
