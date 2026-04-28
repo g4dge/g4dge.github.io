@@ -1,5 +1,57 @@
 [
   {
+    "id": "f5cb37a9a1bb0934cb9be5f0d11c9b83ce8ab17a",
+    "title": "China blocks Zuck’s acquisition of AI outfit Manus",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/",
+    "summary": "<h4>Back to the drawing board for Meta's AI ambitions</h4> <p>China has blocked Meta’s acquisition of AI upstart Manus.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-28T02:09:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1a5af68c96d0418e47158e29f75a06d43a509106",
+    "title": "Microsoft's GitHub shifts to metered AI billing amid cost crisis",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/",
+    "summary": "<h4>The all-you-can-eat AI buffet is coming to an end</h4> <p>Microsoft is closing the AI buffet offered to GitHub Copilot customers, acknowledging that it can’t sell AI like Red Lobster's Endless Shrimp.…</p>",
+    "isoDate": "2026-04-28T00:31:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6c039a98ff05f7a50a679bd4aceef0df9a16fe17",
+    "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+    "link": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+    "summary": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
+    "isoDate": "2026-04-28T00:14:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "artemis",
+      "artemis iii",
+      "blue moon",
+      "blue origin",
+      "human spaceflight",
+      "NASA",
+      "orion",
+      "space launch system",
+      "spacex",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2023e076235-1-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "edb65777c5ea63d7d1473527130e15b82fc6ac39",
     "title": "Ongoing supply-chain attack 'explicitly targeting' security, dev tools",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/supply_chain_campaign_targets_security/",
@@ -874,28 +926,6 @@
     "pinned": false
   },
   {
-    "id": "2c7234c1d6660a4b58cb8ff87c78ec0afcff583b",
-    "title": "Google will invest as much as $40 billion in Anthropic",
-    "link": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-    "summary": "This follows a similar, but smaller, investment by Amazon just days ago.",
-    "isoDate": "2026-04-24T22:05:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Google",
-      "Amazon",
-      "Anthropic",
-      "Claude",
-      "Claude Code",
-      "compute",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/TPU-8i-rack-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "47e5c1d3dca53117af861d1ef8437d1e22755cd3",
     "title": "DeepSeek's new models are so efficient they'll run on a toaster ... by which we mean Huawei's NPUs",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/deepseek_v4/",
@@ -1272,32 +1302,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4925621694bae96c3846fe15bf6c76a5033b2a3c",
-    "title": "Solid-state batteries hold more juice, but keep cracking up. Now researchers know why",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/solid_state_batteries_energy_storage/",
-    "summary": "<h4>Two teams, similar diagnosis: Ceramic electrolytes still refusing to cooperate</h4> <p>With more capacity and faster charging, solid-state batteries could be the next big thing in energy. And good news: researchers may have pinned down one major reason these batteries still fail before they can reach widespread commercial use.…</p>",
-    "isoDate": "2026-04-23T21:15:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e2046a17d3bdce3e06b1c8817bbc15b17cc78c27",
-    "title": "Claude Opus 4.7 has turned into an overzealous query cop, devs complain",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/",
-    "summary": "<h4>Rising refusal rate from Acceptable Use Classifier leaves customers paying for nothing</h4> <p>Anthropic's release last week of Opus 4.7 came with stronger safeguards to prevent misuse. Unfortunately, these safeguards have also managed to thwart legitimate use.…</p>",
-    "isoDate": "2026-04-23T20:47:49Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
     "tags": [],
     "image": "",
     "pinned": false
