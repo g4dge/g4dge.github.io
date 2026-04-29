@@ -1,5 +1,85 @@
 [
   {
+    "id": "9ee43029c42b0918b1fc2680bcaa90c25d2e8c74",
+    "title": "NASA boss: Make Pluto A Planet Again",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/nasa_boss_make_pluto_a_planet_again/",
+    "summary": "<h4>Despite looming science cuts, Isaacman finds resources to poke the planetary hornet nest</h4> <p>NASA Administrator Jared Isaacman delivered some potentially good news at a Senate hearing this week, as well as some slightly odd news: in an environment of constrained budgets, the space agency was somehow finding resources to contest the decision to relegate Pluto from planet status.…</p>",
+    "isoDate": "2026-04-29T16:10:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4f46b2cf9f79ef6cc0a0c48f513c2236b6123088",
+    "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
+    "link": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
+    "summary": "Framework charges nearly double for the 12GB version of the mobile RTX 5070.",
+    "isoDate": "2026-04-29T16:06:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "framework",
+      "framework laptop 16",
+      "geforce 5070",
+      "NVIDIA",
+      "nvidia geforce"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/geforce-rtx-50-series-laptop-hero-af360-p@2x-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "87ce24126622a3626c218ac88150981154802022",
+    "title": "Professional school grads from diverse classes get higher salaries",
+    "link": "https://arstechnica.com/science/2026/04/professional-school-grads-from-diverse-classes-get-higher-salaries/",
+    "summary": "Study authors say courts should reconsider rulings in light of this new evidence.",
+    "isoDate": "2026-04-29T15:55:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "affirmative action",
+      "business school",
+      "dei",
+      "diversity",
+      "law school"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1374727807-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f3a8d3940a14c83fb6a50e4bef0b0fdd06f6db1c",
+    "title": "CISA flags data-theft bug in NSA-built OT networking tool",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/cisa_flags_datatheft_bug_in/",
+    "summary": "<h4>GrassMarlin leaks sensitive information, provided your targeting phishing skills are sharp enough</h4> <p>The Cybersecurity and Infrastructure Security Agency (CISA) is warning anyone who uses GrassMarlin, a tool developed by the National Security Agency (NSA), about a new vulnerability that attackers can use to snoop on sensitive information.…</p>",
+    "isoDate": "2026-04-29T15:35:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "15ac870e158c7c9b5aa298d64e0cfea31d524844",
+    "title": "AWS plants more tombstones in the application graveyard",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_whats_next_application_graveyard_corey_quinn/",
+    "summary": "<h4>Eleven up, ten down</h4> <p>On Tuesday in San Francisco at an event called \"What's Next with AWS,\" CEO Matt Garman took the stage to announce that AWS is (for what, depending on how you count, is the seventh, eighth, or ninth time) moving <a href=\"https://www.theregister.com/2026/04/28/amazon_quick_connect_expansion/\" target=\"_blank\">up the stack</a> and entering the applications business.…</p>",
+    "isoDate": "2026-04-29T14:55:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Corey Quinn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e467b9d5a32ba0151a694d0166f5a369951183da",
     "title": "Attempt to repeal Colorado's right-to-repair law fails",
     "link": "https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/",
@@ -885,29 +965,6 @@
     "pinned": false
   },
   {
-    "id": "4510e88f620f163313fb59f71bd0ebf0e801f37b",
-    "title": "Musk and Altman face off in trial that will determine OpenAI's future",
-    "link": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
-    "summary": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
-    "isoDate": "2026-04-27T20:45:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "Artificial Intelligence",
-      "Elon Musk",
-      "generative ai",
-      "openai",
-      "sam altman",
-      "spacex",
-      "xAI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/elon-and-sam-are-bffs-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a5b705fb6e3619ec06fee55a4b2b1f5da33ea454",
     "title": "The Navy's autonomous carrier-based refueling drone has finally flown",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/navys_autonomous_carrierlaunched_refueling_drones/",
@@ -918,29 +975,6 @@
     "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3acd4578055c8b981ced94e718bc25c76d97aa0c",
-    "title": "OpenAI ends its exclusive partnership with Microsoft",
-    "link": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
-    "summary": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.",
-    "isoDate": "2026-04-27T20:10:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "agreement",
-      "Amazon",
-      "azure",
-      "bedrock",
-      "cloud",
-      "microsoft",
-      "openai",
-      "partnership"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2153474326-500x500.jpg",
     "pinned": false
   },
   {
@@ -1056,45 +1090,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b7b019375695d3a7e689d3346314c2662641903c",
-    "title": "Burglar alarm biz burgled: ADT confirms cyber intrusion after ShinyHunters extortion attempt",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/home_security_giant_adt_gets/",
-    "summary": "<h4>Security giant says attackers grabbed 'limited set' of data. Crooks claim 10 million records</h4> <p>A home security biz getting digitally burgled is not a great look - but that's exactly where ADT finds itself. The company has confirmed a cyber intrusion following an extortion attempt by the ShinyHunters crew, which claims to have made off with more than 10 million records.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-27T11:34:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0f78a6d8021c595fa17b0839f730d7be1f6a9240",
-    "title": "Microsoft updates the Windows Update Experience: You can hit pause now",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/microsoft_updates_the_windows_update/",
-    "summary": "<h4>Keep the patches away for as long as you like</h4> <p>Microsoft has devised a solution to the problem of Windows Updates that break customer devices – users are now able to pause them for as long as they like.…</p>",
-    "isoDate": "2026-04-27T11:19:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b274f278d8a16d60765ede2582260d5cb73a17f2",
-    "title": "In the beginning was the Bork: 'Heart of the Earth' exhibit reveals Raspberry Pi in existential crisis",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/the_raspberry_pi_turns_up/",
-    "summary": "<h4>Dynamic Earth's ancient rock holds not primordial crystal, but a tiny Linux box having a bad day</h4> <p><strong>Bork!Bork!Bork!</strong>  From the beginning of time, there has always been Bork. Lurking within the heart of this ancient rock is not a precious crystal or a rare fossil. No, it's a Raspberry Pi desktop and dialog.…</p>",
-    "isoDate": "2026-04-27T10:12:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
     "tags": [],
     "image": "",
     "pinned": false
