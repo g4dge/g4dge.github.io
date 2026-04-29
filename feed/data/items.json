@@ -1,5 +1,98 @@
 [
   {
+    "id": "1348ab612296e68250301ee56366f2ec72bca5d3",
+    "title": "Researchers move in the right direction, develop powerful GPS interference alarm",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/boffins_new_gps_interference_alarm/",
+    "summary": "<h4>ORNL says portable detector kit can separate real GPS signals from fake ones even at equal strength</h4> <p>GPS spoofing, which sends fake satellite-like signals, and GPS jamming, which drowns receivers in noise, are increasingly serious problems. Researchers at Oak Ridge National Laboratory in Tennessee have created what they say is the most effective system yet for detecting GPS interference, which could help blunt such attacks.…</p>",
+    "isoDate": "2026-04-29T20:11:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fa780e77b9fd269bb7e419927589520b884ba55d",
+    "title": "Microsoft's patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/microsoft_zero_click_exploit/",
+    "summary": "<h4>Second try's a charm?</h4> <p>Microsoft and the US Cybersecurity and Infrastructure Security Agency (CISA) warned that attackers are exploiting a zero-click Windows flaw that can expose sensitive information on vulnerable systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-29T19:15:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b1dd6abd221e60c10c030631ffa2cb5e83523b87",
+    "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
+    "link": "https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/",
+    "summary": "Broadcast license renewals are \"all but automatic\" due to 1996 change in US law.",
+    "isoDate": "2026-04-29T19:14:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "ABC",
+      "Disney",
+      "FCC",
+      "jimmy kimmel",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-500x500-1734382753.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3e9f0fbd62b689957ac2d4bd2bd5e95b79b615b5",
+    "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
+    "link": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+    "summary": "Directions also include system instructions to act like \"you have a vivid inner life.\"",
+    "isoDate": "2026-04-29T19:00:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Codex",
+      "goblin",
+      "GPT-5",
+      "GPT-5.5",
+      "openai",
+      "system prompt"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-935113346-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3d73997b001dd1c04534b188d5a60cbc83833836",
+    "title": "Legacy TLS tour continues with Exchange Online blocking old versions from July 2026",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/exchange_online_blocks_old_versions/",
+    "summary": "<h4>Microsoft readies the axe once again for yesterday's security</h4> <p>Microsoft has warned users still clinging to legacy TLS versions that the end is nigh for TLS 1.0 and 1.1 on POP3 and IMAP4 connections to Exchange Online.…</p>",
+    "isoDate": "2026-04-29T18:35:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c79f970bba8e1be4ae3d21e4b121c4638caddcb4",
+    "title": "Tesla Announces FSD V14 Lite for HW3 Will Expand Internationally",
+    "link": "https://www.notateslaapp.com/news/4066/tesla-announces-fsd-v14-lite-for-hw3-will-expand-internationally",
+    "summary": "Tesla confirms plans to expand the FSD v14-Lite update to international Hardware 3 vehicles, though rollout timelines remain subject to local approvals.&hellip; <a href=\"https://www.notateslaapp.com/news/4066/tesla-announces-fsd-v14-lite-for-hw3-will-expand-internationally\">Read More</a>",
+    "isoDate": "2026-04-29T18:33:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2022/vis-parking-lot-2.jpg/e31967654c19138a350723fab51991b3/vis-parking-lot-2.jpg",
+    "pinned": false
+  },
+  {
     "id": "dd7f891f8adcd80df56f6bb2c91ee00c7417fbbe",
     "title": "Databricks can't seem to shake authors' copyright claim that could result in 'extraordinary' damages",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/databricks_author_copyright_lawsuit_continues/",
@@ -786,27 +879,6 @@
     "pinned": false
   },
   {
-    "id": "bbdf56e37b2566ee5dbcd7053a70cd741152a8e2",
-    "title": "The great American data center divide",
-    "link": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/",
-    "summary": "Many rural communities are viscerally opposed to AI infrastructure.",
-    "isoDate": "2026-04-28T14:15:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Susannah Savage, Rafe Rosner-Uddin, Eva Xiao, and Zehra Munir, FT",
-    "tags": [
-      "AI",
-      "cheap land",
-      "data centers",
-      "farmland",
-      "meta",
-      "rural America",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dekalb-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "dd361428abbbfd8ce13d65e568fdef55991dadef",
     "title": "Have I Been Pwned claims Pitney Bowes hit by 8.2M email address leak",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/pitney_bowes_is_the_latest/",
@@ -830,22 +902,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-las-vegas-3.webp/b863af223d95e1cb9feee20b156476f1/robotaxi-las-vegas-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d4c4f348ba9cd16a2d0840b8151290a74ffd351b",
-    "title": "A billion miles in less than a decade: GM's Super Cruise reaches a milestone",
-    "link": "https://arstechnica.com/cars/2026/04/gms-super-cruise-passes-a-billion-driven-miles-since-2017/",
-    "summary": "The hands-free, eyes-on driver assist only works on geofenced highways.",
-    "isoDate": "2026-04-28T14:00:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Super Cruise"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Ars-Technica-Cadillac-Optiq-26-500x500.jpg",
     "pinned": false
   },
   {
@@ -1125,32 +1181,6 @@
     "pinned": false
   },
   {
-    "id": "5ed85995bae5a79f223dffce8399bfcc6eb7633a",
-    "title": "Friendster rises from the grave to make social media great again",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/friendster_rises_from_the_grave/",
-    "summary": "<h4>No ads, no algorithm, and you actually have to physically tap phones to add a friend</h4> <p>It's been more than a decade since social media platform Friendster went dark, but a new owner has brought it back from the dead - sort of - with the hope he can give exhausted users of modern platforms a reprieve. …</p>",
-    "isoDate": "2026-04-27T16:45:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ea40649a7ec8a8ca6c6b44b7cabbbb87b607bc1c",
-    "title": "AI reality check: Here's what three companies learned building wallets, homes, and games",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/ai_use_cases_citi_home_depot_capcom_google_cloud_next/",
-    "summary": "<h4>Executives from Citi, Home Depot, and Capcom describe early work with AI agents</h4> <p>While AI agents have moved from experimental tools to customer-facing workers in a matter of months, the next challenge is governance and reliability once those agents touch real money, real shoppers, and real creative output.…</p>",
-    "isoDate": "2026-04-27T16:20:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "O'Ryan Johnson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "598666eb3db7bdcf5989b5c9cc125f50cb2db076",
     "title": "Tesla App Update Reveals Upcoming Trailer Light Test Feature",
     "link": "https://www.notateslaapp.com/news/4024/tesla-app-update-reveals-upcoming-trailer-light-test-feature",
@@ -1161,19 +1191,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2021/trailer1.jpg/72253f90e2c32361817cf1cd7835591b/trailer1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ce58690ca1f780a554ec710fbfea8d64160d88cb",
-    "title": "Meta to power its bit barns with energy from space",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/meta_wants_to_beam_solar/",
-    "summary": "<h4>Facebook provider also working with energy storage firm to keep 100 hours of juice on hand</h4> <p>With AI demand growing, Facebook parent Meta is looking for new ways to power its datacenters, with one ambitious project pledging to send solar power down from orbit. Another agreement offers Meta the opportunity to store enough power to keep its bit barns going, even when the grid is over capacity or down.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-27T15:47:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1583,32 +1600,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-driving-hero-12.webp/c732d82e5d7045c82233c69a501fa69f/tesla-fsd-driving-hero-12.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5db0b640f260bed0eab68cc82c6ef4ec14acbe92",
-    "title": "First Look at Blind Spot Warning Accent Lights in Update 2026.14 [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/4029/first-look-at-blind-spot-warning-accent-lights-in-202614",
-    "summary": "As the massive Spring 2026 Software Update continues its rollout, the automaker has introduced a clever new way to alert drivers to hazards hidden from view&hellip; <a href=\"https://www.notateslaapp.com/news/4029/first-look-at-blind-spot-warning-accent-lights-in-202614\">Read More</a>",
-    "isoDate": "2026-04-22T19:46:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/blind-spot-warning-accent-lights.png/5b62d5b10ab3df87960e2eb18741501b/blind-spot-warning-accent-lights.jpg",
-    "pinned": false
-  },
-  {
-    "id": "56129656664b1ef92bf7d98b82eb08459edebcce",
-    "title": "Tesla Expands Cybertruck V2G Capabilities to California to Help Stabilize Electrical Grid",
-    "link": "https://www.notateslaapp.com/news/4015/tesla-expands-cybertruck-v2g-capabilities-to-california-to-help-stabilize-electrical-grid",
-    "summary": "Tesla is expanding Cybertruck Powershare Grid Support to California - those with PG&amp;E can now  power their homes and earn money during grid events.&hellip; <a href=\"https://www.notateslaapp.com/news/4015/tesla-expands-cybertruck-v2g-capabilities-to-california-to-help-stabilize-electrical-grid\">Read More</a>",
-    "isoDate": "2026-04-22T18:44:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-home.jpg/b7e9c5f74d352cff7c9e041a520d5cc9/cybertruck-home.jpg",
     "pinned": false
   }
 ]
