@@ -1,5 +1,40 @@
 [
   {
+    "id": "344bf993be7f391cf19a46a67561258477a308aa",
+    "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
+    "link": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
+    "summary": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
+    "isoDate": "2026-04-30T17:47:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "china",
+      "commercial drones",
+      "dji",
+      "drone pilots",
+      "drones",
+      "unmanned aerial vehicles",
+      "unmanned aircraft systems"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2265042408-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "548709d7e2f2350f910b6cc2f8a9ed58b1cf5ce2",
+    "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
+    "summary": "<h4>This CVSS 10.0 RCE vuln has been patched, automatically for some, so better check those workflows</h4> <p>If you use Gemini CLI, watch out: Google has patched a CVSS 10.0 vulnerability in its command-line AI tool and is warning anyone running it in headless mode, or through GitHub Actions, to review their workflows.…</p>",
+    "isoDate": "2026-04-30T17:15:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7cbfb04f59fd134c6095465c2553f04890f6b665",
     "title": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
@@ -1027,26 +1062,6 @@
     "pinned": false
   },
   {
-    "id": "80065579719eef18d94f9156687b3998156c8405",
-    "title": "Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors",
-    "link": "https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/",
-    "summary": "The clown car is all gassed up.",
-    "isoDate": "2026-04-28T23:08:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nate Anderson",
-    "tags": [
-      "Policy",
-      "come",
-      "DoJ",
-      "Instagram",
-      "social media",
-      "Trump"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/department-of-clowns-500x500-1777416838.jpg",
-    "pinned": false
-  },
-  {
     "id": "73e4623ad26aa5a04179f9565ce978598613b178",
     "title": "The future of software development: Now with less software development",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/software_development_ai_dev25xsf/",
@@ -1213,19 +1228,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-las-vegas-3.webp/b863af223d95e1cb9feee20b156476f1/robotaxi-las-vegas-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "56c2bed95a335d23a66ad2d8111a04e3e66feafe",
-    "title": "Despite proposed science cuts, NASA boss says 'We haven't canceled anything yet'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/despite_proposed_science_cuts_nasa/",
-    "summary": "<h4>That 'yet' is sure doing a lot of heavy lifting if the budget for science is slashed</h4> <p>NASA administrator Jared Isaacman has appeared before the US House Appropriations Committee to explain the proposed Trump administration plan to cut $5.6 billion from the space agency's budget.…</p>",
-    "isoDate": "2026-04-28T13:30:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
