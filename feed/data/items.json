@@ -1,5 +1,44 @@
 [
   {
+    "id": "75bb12d8904ec31ac478675f4ad09172462ed69f",
+    "title": "Google to sell its TPUs to some customers, who also fancy big-G GPUs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/alphabet_google_q1_fy26/",
+    "summary": "<h4>AI is driving more searches and ads</h4> <p>Google Cloud will start selling its custom tensor processing units to some customers, because they want them and the search giant wants to diversify its revenues.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-30T03:49:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "64a6906b2395a3f9447deadb0c12e57fab02340a",
+    "title": "Microsoft lifts 2026 AI spend by $25 billion to cover component price rises",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/microsoft_q3_2026/",
+    "summary": "<h4>Will write checks for $190 billion and even those megabucks may not satisfy demand</h4> <p>If you've felt the sting of surging hardware prices, Microsoft can sympathize because the company on Wednesday said it expects its 2026 capital expenditure will hit $190 billion, with $25 billion of that due to rising component costs.…</p>",
+    "isoDate": "2026-04-30T01:15:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "bac0f38e45efc2e4ee9a153abd5e7168c9d07e51",
+    "title": "Linux cryptographic code flaw offers fast route to root",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/linux_cryptographic_code_flaw/",
+    "summary": "<h4>Patches land for authencesn flaw enabling local privilege escalation</h4> <p>Developers of major Linux distributions have begun shipping patches to address a local privilege escalation (LPE) vulnerability arising from a logic flaw.…</p>",
+    "isoDate": "2026-04-30T00:01:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1f963bfd57961234d5ae1b76f396f8796c80f70c",
     "title": "Amazon chips no longer just a side dish, they're a $20B biz",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/amazon_chips_20b_business/",
@@ -1129,19 +1168,6 @@
     "pinned": false
   },
   {
-    "id": "a5b705fb6e3619ec06fee55a4b2b1f5da33ea454",
-    "title": "The Navy's autonomous carrier-based refueling drone has finally flown",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/navys_autonomous_carrierlaunched_refueling_drones/",
-    "summary": "<h4>After missing its 2025 target, Boeing's MQ-25A Stingray is one step closer to a carrier deck</h4> <p>The US Navy’s current carrier-based refueling aircraft may soon be getting help, as Boeing has completed the first flight of its autonomous tanker drone designed for carrier operations.…</p>",
-    "isoDate": "2026-04-27T20:26:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "2ec855025ab77e1a8a75b0c1be7abe5c8f12eb8b",
     "title": "Tesla FSD in Europe: Sweden Approves Public Testing",
     "link": "https://www.notateslaapp.com/news/4063/tesla-fsd-in-europe-sweden-approves-public-testing",
@@ -1152,32 +1178,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bc4dc3f39bcc397523c0137fc514591661269758",
-    "title": "Core Scientific accelerates crypto-to-AI pivot, converts Bitcoin mine to gigawatt-scale token farm",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/core_scientific_ai/",
-    "summary": "<h4>They were doing it in Texas...</h4> <p>Core Scientific is trading coins for tokens, revealing plans on Monday to convert a 300-megawatt bitcoin mining operation in Pecos, Texas, to an 1.5 gigawatt AI datacenter campus.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-27T18:58:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2e4aae034cd1334bc80634afa2dd3d19b493d591",
-    "title": "Medical and utility tech companies admit digital breakins",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/itron_medtronic_hacked/",
-    "summary": "<h4>Itron, Medtronic disclose breaches in Friday filings</h4> <p>Digital intruders recently broke into two major tech suppliers - utility-technology firm Itron and medical-device maker Medtronic - according to filings with federal regulators.…</p>",
-    "isoDate": "2026-04-27T17:53:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
@@ -1548,19 +1548,6 @@
     "author": "Shawn Simpson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "53c6fc94b163d2984561ec8a48f1a115e3c1053e",
-    "title": "Tesla Confirms FSD v15 Will Run on HW4, Shares Release Timeline",
-    "link": "https://www.notateslaapp.com/news/4035/tesla-confirms-fsd-v15-will-run-on-hw4-shares-release-date",
-    "summary": "CEO Elon Musk confirmed that the upcoming FSD v15 will be compatible with current AI4 (Hardware 4) computers, putting an end to months of community speculation&hellip; <a href=\"https://www.notateslaapp.com/news/4035/tesla-confirms-fsd-v15-will-run-on-hw4-shares-release-date\">Read More</a>",
-    "isoDate": "2026-04-23T01:10:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-car-view.webp/1e4f4ecaf3be5144174f4080ec25221e/fsd-car-view.jpg",
     "pinned": false
   }
 ]
