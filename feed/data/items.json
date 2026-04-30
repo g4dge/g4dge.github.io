@@ -1,5 +1,125 @@
 [
   {
+    "id": "bbd032ff8d5adb96ad17d5a42117323f7f89e70e",
+    "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
+    "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
+    "summary": "\"In 25 years, the average score... has never been so low.\"",
+    "isoDate": "2026-04-30T21:53:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nate Anderson",
+    "tags": [
+      "Policy",
+      "autocracy",
+      "press freedom",
+      "repression"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2178705928-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0f0f7ae7bf7422752c7759cc23564e2676c1cbdf",
+    "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+    "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+    "summary": "\"We had serious inbound attempts to the cosmodrome that day.\"",
+    "isoDate": "2026-04-30T21:35:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "baikonur cosmodrome",
+      "drone strike",
+      "launch",
+      "military space",
+      "Plesetsk Cosmodrome",
+      "russia",
+      "Ukraine"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/soyuz_plesetsk_pre1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "365729c92a18ef30871e4a8736730493492f08c7",
+    "title": "Govern your bots carefully or chaos could ensue",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/good_ai_governance_is_good/",
+    "summary": "<h4>Stop the sprawl!</h4> <p>With the average Global Fortune 500 enterprise expected to run more than 150,000 AI agents by 2028, up from fewer than 15 today, there’s plenty of room for chaos. Analyst firm Gartner says that, without proper governance, those agents will multiply and run amok.…</p>",
+    "isoDate": "2026-04-30T21:27:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0c7e18b786f92a448540f2bba833e945bcff05cd",
+    "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+    "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+    "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
+    "isoDate": "2026-04-30T21:11:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "artificial general intelligence",
+      "Elon Musk",
+      "openai",
+      "sam altman",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2273014098-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d795798d0b1916935e7b7cead0e79d4a4c93a9eb",
+    "title": "Firefox maker torches Google for building Prompt API into browser",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/mozilla_pushes_back_against_googles/",
+    "summary": "<h4>Mozilla fears wiring an AI API into Chrome will make the web less open</h4> <p>Mozilla has reiterated its opposition to Google's decision to build AI plumbing into its Chrome browser, though rather belatedly now that the technology, known as the Prompt API, is already being tested in Chrome and Microsoft Edge.…</p>",
+    "isoDate": "2026-04-30T20:49:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6f57dc41b73e9553115b5195632399472f1d7347",
+    "title": "Bot her emails: most modern phishing campaigns are AI-enabled",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/modern_phishing_campaigns_ai/",
+    "summary": "<h4>KnowBe4 says 86% of phishing it tracked used AI, and inboxes are only the start</h4> <p>Give a man a phishing kit and he might get lucky a couple of times; teach an AI to phish and it'll change the landscape, if KnowBe4's latest phishing trends report is accurate.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-30T20:26:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3ceb02e82d8024f0f3343c0379537ea69e841dc7",
+    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+    "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+    "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+    "isoDate": "2026-04-30T20:20:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "exploits",
+      "Linux",
+      "local privilege escalation",
+      "vulnerabilities"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "d0c0d93bf426ee51f7be7db4731ebd97ec7f03c0",
     "title": "SpaceX's Starlink Powers New Direct-to-Satellite Cattle Collars",
     "link": "https://www.notateslaapp.com/news/4069/halter-unveils-worlds-first-direct-to-satellite-cattle-collars-powered-by-starlink",
@@ -813,25 +933,6 @@
     "pinned": false
   },
   {
-    "id": "13142f9303448fb9b310aedff04d484c6e7fdad7",
-    "title": "Motorola reveals 2026 Razr lineup with modest upgrades and higher prices",
-    "link": "https://arstechnica.com/gadgets/2026/04/motorola-reveals-2026-razr-lineup-with-modest-upgrades-and-higher-prices/",
-    "summary": "Motorola's foldable lineup is bigger and more spendy than ever.",
-    "isoDate": "2026-04-29T16:55:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Tech",
-      "android",
-      "Foldables",
-      "motorola",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/motorola-razr-ultra-2026_-Lifestyle-Imagery_0223-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "9ee43029c42b0918b1fc2680bcaa90c25d2e8c74",
     "title": "NASA boss: make Pluto a planet again",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/nasa_boss_make_pluto_a_planet_again/",
@@ -842,47 +943,6 @@
     "author": "Richard Speed",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4f46b2cf9f79ef6cc0a0c48f513c2236b6123088",
-    "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
-    "link": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
-    "summary": "Framework charges nearly double for the 12GB version of the mobile RTX 5070.",
-    "isoDate": "2026-04-29T16:06:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Gaming",
-      "Tech",
-      "framework",
-      "framework laptop 16",
-      "geforce 5070",
-      "NVIDIA",
-      "nvidia geforce"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/geforce-rtx-50-series-laptop-hero-af360-p@2x-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "87ce24126622a3626c218ac88150981154802022",
-    "title": "Professional school grads from diverse classes get higher salaries",
-    "link": "https://arstechnica.com/science/2026/04/professional-school-grads-from-diverse-classes-get-higher-salaries/",
-    "summary": "Study authors say courts should reconsider rulings in light of this new evidence.",
-    "isoDate": "2026-04-29T15:55:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "affirmative action",
-      "business school",
-      "dei",
-      "diversity",
-      "law school"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1374727807-500x500.jpg",
     "pinned": false
   },
   {
@@ -909,24 +969,6 @@
     "author": "Corey Quinn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e467b9d5a32ba0151a694d0166f5a369951183da",
-    "title": "Attempt to repeal Colorado's right-to-repair law fails",
-    "link": "https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/",
-    "summary": "Manufacturers backed effort to repeal the law but ultimately failed.",
-    "isoDate": "2026-04-29T14:00:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Boone Ashworth, wired.com",
-    "tags": [
-      "Policy",
-      "Tech",
-      "right to repair",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/phonerepair-500x500.jpg",
     "pinned": false
   },
   {
@@ -1161,45 +1203,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "82caaf6de7c7c8d48077f913e27cd6003afc2c1d",
-    "title": "Don't pay Vect a ransom - your data's likely already wiped out",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dont_pay_vect_a_ransom/",
-    "summary": "<h4>'Full recovery is impossible for anyone, including the attacker'</h4> <p>Organizations hit by the wave of Trivy and LiteLLM supply-chain compromises that paid Vect in hopes of recovering their data likely did not get much back, according to Check Point Research. That's because the ransomware Vect uses isn't actually ransomware at all, but a wiper that destroys any file larger than 128KB.…</p>",
-    "isoDate": "2026-04-28T18:36:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f06fe1aec59d17f09e167247e3fb4b054dcfa160",
-    "title": "Trump admin pays wind developers to quit, back fossil fuel projects",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/trump_admin_pay_off_wind_farm/",
-    "summary": "<h4>DoI offers up to $885M if they abandon offshore wind projects</h4> <p>As the Iran war pushes up energy prices, the Trump administration is paying offshore wind developers to walk away from projects and invest instead in fossil fuel infrastructure.…</p>",
-    "isoDate": "2026-04-28T18:10:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a6663e5bab4b7c2a0e0e1f3ebba608b76b3f44e4",
-    "title": "Vintage chatbot lives in the past like an elderly relative",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/vintage_chatbot_lives_in_past/",
-    "summary": "<h4>Talkie's training data stops at the end of 1930, and its creators hope it'll help us better understand how AI thinks</h4> <p>If you're tired of interacting with a bot that spews Nazi propaganda or refers to itself as <a href=\"https://www.theregister.com/2025/07/09/grok_nazi/\" target=\"_blank\">MechaHitler</a>, you could sign off of Elon Musk's xAI. Or, just to be sure, use an LLM whose training data ends in 1930, three years before the Nazis took power in Germany and nine years before World War II started.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-28T17:51:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
     "tags": [],
     "image": "",
     "pinned": false
