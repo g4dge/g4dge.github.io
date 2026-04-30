@@ -1,5 +1,137 @@
 [
   {
+    "id": "7cbfb04f59fd134c6095465c2553f04890f6b665",
+    "title": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
+    "summary": "<h4>Two computer crime allegations follow up to 18M lines of data surfacing online</h4> <p>French prosecutors say police detained a 15-year-old on April 25 over the alleged theft of millions of records from France Titres (ANTS), the agency handling secure documents.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-30T16:39:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "16faa7baf433b126e22a8dd20c4e5abd950f4777",
+    "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
+    "link": "https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/",
+    "summary": "There was uncertainty about whether Kennedy would fight or simply try an end run.",
+    "isoDate": "2026-04-30T16:20:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ACIP",
+      "CDC",
+      "rfk jr"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ba16d06d36aa35c7b0ea07e4c0d59308d533ab6a",
+    "title": "Zed team releases version 1.0 of Rust-built editor: Traditional editor and AI tool",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/zed_team_releases_version_10/",
+    "summary": "<h4>Team wins praise for adding 'disable all AI features' setting for devs who want a code editor to be only a code editor</h4> <p>The Rust-built Zed editor has reached version 1.0, released yesterday, with development led by former members of the Atom team at GitHub.…</p>",
+    "isoDate": "2026-04-30T16:17:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tim Anderson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "347f9120a42338ac8e50d8f1e70dbe2e04107b69",
+    "title": "Tesla Kicks Off High-Volume Semi Production in Nevada",
+    "link": "https://www.notateslaapp.com/news/4073/tesla-kicks-off-high-volume-semi-production-in-nevada",
+    "summary": "On Wednesday, the automaker announced that the first unit of its refreshed Semi has officially rolled off the new high-volume production line in Nevada&hellip; <a href=\"https://www.notateslaapp.com/news/4073/tesla-kicks-off-high-volume-semi-production-in-nevada\">Read More</a>",
+    "isoDate": "2026-04-30T15:50:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-mass-production-april-2026.webp/3eae611cfb4a4586855cbdec03aae547/tesla-semi-mass-production-april-2026.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5ce8aa5e36a75ed431333237f2aad1548c074d81",
+    "title": "How Tesla Solves for GPS Deadzones: Fixing Parking Garages and Future-Proofing For Optimus",
+    "link": "https://www.notateslaapp.com/news/4061/how-tesla-solves-for-gps-deadzones-fixing-parking-garages-and-future-proofing-for-optimus",
+    "summary": "Tesla's newly published vision-based navigation patent reveals how FSD can map and navigate complex indoor environments entirely without GPS.&hellip; <a href=\"https://www.notateslaapp.com/news/4061/how-tesla-solves-for-gps-deadzones-fixing-parking-garages-and-future-proofing-for-optimus\">Read More</a>",
+    "isoDate": "2026-04-30T15:45:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/optimus_gps-free_path_planner.png/309bc3e3236ccd6d9b7c15508631fefb/optimus_gps-free_path_planner.jpg",
+    "pinned": false
+  },
+  {
+    "id": "876e298529917561db6fb88da2be69344acbfc6e",
+    "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
+    "link": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
+    "summary": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
+    "isoDate": "2026-04-30T15:37:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "F1",
+      "ibm",
+      "Motorsport"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "1908ae2e10ab13abbb428f2d76e55b55849cb83a",
+    "title": "AWS says acute server memory shortage is driving customers to the cloud",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/server_memory_shortage_pushing_you/",
+    "summary": "<h4>When you can't get 'em with a 'transformation plan,' supply chain pain will do the job</h4> <p>The great memory shortage is having yet another effect, pushing enterprises into the waiting arms of the cloud operators as they can't secure enough on-prem compute themselves.…</p>",
+    "isoDate": "2026-04-30T15:02:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1215de14d92746dbb6da515e10db1ed44330251f",
+    "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+    "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+    "summary": "Old 86-DOS source code dates back to the time before Microsoft bought it.",
+    "isoDate": "2026-04-30T14:20:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Tech",
+      "microsoft",
+      "MS-DOS",
+      "open source"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "58e4db62c299ca040f98d21fc82b8108362f2223",
+    "title": "Survey says no, American workers are not keen on Microsoft's AI",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/survey_us_workers_e7_ms_ai/",
+    "summary": "<h4>Lock-in worries threaten to dampen the E7 launch party</h4> <p>The Coalition for Fair Software Licensing has published research showing that US workers reckon Microsoft is using its productivity tools to lock their employers into the company's AI services.…</p>",
+    "isoDate": "2026-04-30T14:19:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "42ba7284002d0eac7f4487360c465a9cf4fa7135",
     "title": "Tesla Issues Physical Recall for Cybertruck 18-Inch Steel Wheels; Reveals RWD Cybertruck Sales",
     "link": "https://www.notateslaapp.com/news/4068/tesla-issues-physical-recall-for-cybertruck-18-inch-steel-wheels-reveals-rwd-cybertruck-sales",
@@ -954,44 +1086,6 @@
     "pinned": false
   },
   {
-    "id": "dbb62c9fcb10e1c4e454dd220f662077a4ee36b2",
-    "title": "Flesh-eating bacteria devour man's arm and leg in just three days",
-    "link": "https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/",
-    "summary": "When doctors saw him, his limbs were discolored and crackling.",
-    "isoDate": "2026-04-28T20:15:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "climate change",
-      "flesh-eating bacteria",
-      "infection",
-      "Vibrio vulnificus"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-151039025-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d5e75d3ad6980c87e4b6ce5b806fa41b9630196e",
-    "title": "FCC orders review of ABC licenses after Kimmel joke offends Trump and first lady",
-    "link": "https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/",
-    "summary": "Kimmel joke calling Melania an \"expectant widow\" followed quickly by FCC order.",
-    "isoDate": "2026-04-28T19:57:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "ABC",
-      "Disney",
-      "fcc chairman brendan carr",
-      "jimmy kimmel"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-500x500-1758212997.jpg",
-    "pinned": false
-  },
-  {
     "id": "48fddd534ef98b14b326b94288fc73144d1b82b2",
     "title": "Tesla Updates FSD Disengagement Menu and Seat Belt Behavior",
     "link": "https://www.notateslaapp.com/news/4065/tesla-updates-fsd-disengagement-menu-and-seat-belt-behavior",
@@ -1002,34 +1096,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-2-intervention-feedback-menu-1.webp/91798f9eb283895807c09db9dfd4dec5/fsd-14-3-2-intervention-feedback-menu-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f352d74e48f7d550a0608339c377b44a6fd9083b",
-    "title": "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
-    "link": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
-    "summary": "Civil liberty concerns spur FAA to revise drone no-fly zones near ICE vehicles.",
-    "isoDate": "2026-04-28T19:37:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Features",
-      "Policy",
-      "Tech",
-      "civil liberties",
-      "customs and border protection",
-      "Department of Homeland Security",
-      "DHS",
-      "drone pilots",
-      "drones",
-      "FAA",
-      "Federal Aviation Administration",
-      "immigration and customs enforcement",
-      "minneapolis",
-      "unmanned aerial vehicles"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/powderhorn_jan_10-500x500.jpg",
     "pinned": false
   },
   {
@@ -1158,58 +1224,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "dbec144859346810384b4848319dd87d2618d1e1",
-    "title": "Tenstorrent’s Galaxy Blackhole AI servers escape the event horizon",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/tenstorrent_galaxy_blackhole_ai_servers_ga/",
-    "summary": "<h4>RISC-V-based systems pack 32 Blackhole accelerators in a 6U, $110K chassis</h4> <p>Tenstorrent on Tuesday announced the general availability of its Galaxy Blackhole AI compute platform.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-28T13:00:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b7846cdc54c9c1f70c2469bb06ce00ced1a171c6",
-    "title": "Brussels orders Google to share Android's AI sandbox with the other kids",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ai_competition_in_android_phones/",
-    "summary": "<h4>DMA enforcers want rival assistants to get same deep device access as Gemini</h4> <p>Those pencil pushers at the European Commission are drawing up measures to ensure Google opens up its Android smartphone platform to something few users asked for – competing AI services.…</p>",
-    "isoDate": "2026-04-28T12:30:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f29bc3e4ccd926f86f73540d7dd6f0c3815ecf0d",
-    "title": "UK.gov's DCMS to new CDIO: Migrate from Google to Microsoft, overhaul ERP, build a team",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ukgov_seeks_cdio_to_lead/",
-    "summary": "<h4>£125k and a pension await whoever can herd 6 departments onto single platform without losing will to live</h4> <p>Later today, prospective candidates will log onto a UK government call to convince themselves that £125k a year is worth the trouble of tackling a technological landscape swamped by colliding projects.…</p>",
-    "isoDate": "2026-04-28T12:24:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3a9abba6189f7e75fabcd8a7b6ae60edd19e1bce",
-    "title": "Two men charged over series of arson attacks on 5G masts",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/5g_belfast_arrests/",
-    "summary": "<h4>Pair accused of creating literal flame war as bonkers conspiracy theories grow</h4> <p>Two men face charges over a series of arson attacks on 5G masts spanning two years following a Police Service of Northern Ireland (PSNI) investigation.…</p>",
-    "isoDate": "2026-04-28T11:14:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1572,32 +1586,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-y-l-us-testing-sighting.webp/b4c2ccc6ccef17d7233e5bc4f7906dc9/model-y-l-us-testing-sighting.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8f2929cc59af0a910b0f1abd756768ecb8c21b2b",
-    "title": "Tesla Announces New AI4+ FSD Computer With More Memory and Compute",
-    "link": "https://www.notateslaapp.com/news/4032/tesla-announces-new-ai4-fsd-computer-with-more-memory-and-compute",
-    "summary": "Tesla is developing a HW4+/HW4.1 computer featuring 32GB of RAM and improved specs to support future FSD builds.&hellip; <a href=\"https://www.notateslaapp.com/news/4032/tesla-announces-new-ai4-fsd-computer-with-more-memory-and-compute\">Read More</a>",
-    "isoDate": "2026-04-23T16:39:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/ai4-chip-hardware.webp/05de79ca973273cf526f21e496776305/ai4-chip-hardware.jpg",
-    "pinned": false
-  },
-  {
-    "id": "156755e3edd23e0101e979327ad5b08377b20dc0",
-    "title": "Tesla FSD V14.3.2 Unifies FSD Models Across Robotaxi and Customer Vehicles; Improves Summon and Adds New Menu",
-    "link": "https://www.notateslaapp.com/news/4033/tesla-fsd-v1432-unifies-fsd-models-across-robotaxi-and-customer-vehicles-improves-summon-and-adds-new-menu",
-    "summary": "Tesla rolls out FSD v14.3.2, featuring a major architectural update that unifies the AI models powering Full Self-Driving, Actually Smart Summon, and Robotaxi.&hellip; <a href=\"https://www.notateslaapp.com/news/4033/tesla-fsd-v1432-unifies-fsd-models-across-robotaxi-and-customer-vehicles-improves-summon-and-adds-new-menu\">Read More</a>",
-    "isoDate": "2026-04-23T15:25:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-disengagement.webp/957ecb63ad65e930da75dc7ddd24c4f0/fsd-disengagement.jpg",
     "pinned": false
   }
 ]
