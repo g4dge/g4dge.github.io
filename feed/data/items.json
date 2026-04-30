@@ -1,5 +1,123 @@
 [
   {
+    "id": "051b88a7c92a70bc1667770d1e635b9f4c591199",
+    "title": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/almost_half_of_uk_firms/",
+    "summary": "<h4>Turns out the real problem is not AI but staff still clicking on dodgy emails from 'IT support'</h4> <p>Nearly half of UK businesses are still getting breached, and in many cases, the attacker's big breakthrough is an employee clicking \"sure, why not\" on a fake login page.…</p>",
+    "isoDate": "2026-04-30T11:35:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d2789c594068568967954ce54de2f2d5efabad0e",
+    "title": "Florida Republicans reject plan to weaken childhood vaccine requirements",
+    "link": "https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/",
+    "summary": "DeSantis had called for a special session to take up the proposed changes.",
+    "isoDate": "2026-04-30T11:15:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "Florida",
+      "Ladapo",
+      "vaccines"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0bc0a5c39e641f212acc94c5a7555a04a7287aa0",
+    "title": "The hidden cost of Google's AI defaults and the illusion of choice",
+    "link": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
+    "summary": "Google says it respects user privacy in AI, but the reality is not so black and white.",
+    "isoDate": "2026-04-30T11:00:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Features",
+      "Google",
+      "Artificial Intelligence",
+      "gemini",
+      "generative ai",
+      "google",
+      "privacy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "24c5db19900a6287f3856b2cb817eb1df58c2155",
+    "title": "What type of 'C2 on a sleep cycle' do they leave behind? Novel Chinese spy group found in critical networks in Poland, Asia",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/chinese_spies_lurking_networks/",
+    "summary": "<h4>Just in time for the Trump-Xi summit</h4> <p><strong>Exclusive</strong>  A novel China-linked threat group infiltrated more than a dozen critical networks in Poland, Asian countries, and possibly beyond, beginning in December 2024 and with activity uncovered as recently as this month.…</p>",
+    "isoDate": "2026-04-30T11:00:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1599875094b4c8ad2824fdeee1cd8aafae7aee5a",
+    "title": "Bug of the year (so far): Nasty cPanel vulnerability probably exploited as a 0-day",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/cpanel_whn_cves/",
+    "summary": "<h4>Emergency patches out now for those managing the millions of domains assumed to be affected</h4> <p>Emergency patches are available for a critical vulnerability in cPanel and WHM that allows attackers to bypass authentication and gain root access to servers managed using it.…</p>",
+    "isoDate": "2026-04-30T10:14:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6e4dea264641157fd4be7ba5a7393eddcbffc7b4",
+    "title": "Who invented bad guys?",
+    "link": "https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why?utm_source=rss-feed",
+    "summary": "<p><img alt=\"\" src=\"https://images.aeonmedia.co/images/44256fef-013c-4246-98b2-e0ebbf3c852a/good-guy-bad-guy-video-essay-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The good-vs-evil paradigm of most pop-culture storytelling is a relatively recent effort to promote social cohesion</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why?utm_source=rss-feed\">Watch on Aeon</a></p>",
+    "isoDate": "2026-04-30T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ef51ffacc31ee038aa5a091d0703d1b8386aeed4",
+    "title": "The Ethiopian running secret",
+    "link": "https://aeon.co/essays/what-ethiopian-running-says-about-the-limits-of-human-ability?utm_source=rss-feed",
+    "summary": "<p><img alt=\"A group of runners on a road with two people observing from the side in a flat, open landscape.\" src=\"https://images.aeonmedia.co/images/09aa23e9-663b-4e05-8f19-7a97cdbc5468/essay-img_0254.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>One school of training is highly personalised, technical and data-driven. The other is the one that wins marathons</p><p><em>- by Michael Crawley & Geoff Burns</em></p><p><a href=\"https://aeon.co/essays/what-ethiopian-running-says-about-the-limits-of-human-ability?utm_source=rss-feed\">Read on Aeon</a></p>",
+    "isoDate": "2026-04-30T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Michael Crawley & Geoff Burns",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d1bea055face448b06b50d6286be9704d8b43c45",
+    "title": "Met Police's Palantir deployment has its own officers watching their backs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/met_police_palantir_deployment_cop_probe/",
+    "summary": "<h4>Federation warns members to ditch work devices off duty as force uses AI to probe 600+ cops</h4> <p>London cops are being told by their staff association to be \"extremely cautious\" about carrying work devices off duty, after the Metropolitan Police Service (MPS) deployed Palantir's technology to investigate hundreds of its own officers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-04-30T09:29:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "SA Mathieson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "e4b26670038c2c4c3429ef6b2eb8d2e9b12fae31",
     "title": "Britain's £6B armoured sickener Ajax cleared for duty despite injuring troops",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/ajax_armored_vehicle_cleared/",
@@ -944,45 +1062,6 @@
     "pinned": false
   },
   {
-    "id": "1e37489998e4e399159f35d31e062a8011d4f3d5",
-    "title": "GitHub will start charging Copilot users based on their actual AI usage",
-    "link": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
-    "summary": "GitHub says it can no longer absorb \"escalating inference cost\" from it heaviest AI users.",
-    "isoDate": "2026-04-28T15:41:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "copilot",
-      "GitHub",
-      "microsoft",
-      "Model",
-      "pricing",
-      "subscription"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/copilot-500x500-1777389464.png",
-    "pinned": false
-  },
-  {
-    "id": "e2433a5a2617e45eca503ab3e4443a4e9e0bd10f",
-    "title": "Electrical current might be the key to a better cup of coffee",
-    "link": "https://arstechnica.com/science/2026/04/electrical-current-might-be-the-key-to-a-better-cup-of-coffee/",
-    "summary": "University of Oregon scientists repurposed battery-testing tool to better measure coffee's flavor profile",
-    "isoDate": "2026-04-28T15:00:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "chemistry",
-      "coffee",
-      "electrochemistry"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2168883875-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "dd361428abbbfd8ce13d65e568fdef55991dadef",
     "title": "Have I Been Pwned claims Pitney Bowes hit by 8.2M email address leak",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/pitney_bowes_is_the_latest/",
@@ -1138,45 +1217,6 @@
       "Acupuncture",
       "Archive"
     ],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "96c0687803af217ae3b31e88835851198ce02cde",
-    "title": "UK govt dept sent a document 'in error.' Now it's being used in a £370M contract lawsuit",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dwp_sent_document_in_error/",
-    "summary": "<h4>Comparison between 2 vendors was never meant to be seen ... or made</h4> <p>The UK's pensions and welfare ministry has slammed its outsourcing provider, SSCL, for sharing a document the department says it \"inadvertently provided\", a document that later surfaced in a legal dispute over a £370 million contract.…</p>",
-    "isoDate": "2026-04-28T08:30:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "00961fc7babc99d4170cd3256ade8ae391812290",
-    "title": "‘AI deflation’ comes to India’s tech services giants and puts downward pressure on revenue",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/tcs_infosys_wipro_hcl_fy26/",
-    "summary": "<h4>Headcounts, however, are mostly holding up</h4> <p>AI is beginning to make a dent in the business models of India’s big four technology services giants…</p>",
-    "isoDate": "2026-04-28T05:34:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f5cb37a9a1bb0934cb9be5f0d11c9b83ce8ab17a",
-    "title": "China blocks Zuck’s acquisition of AI outfit Manus",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/",
-    "summary": "<h4>Back to the drawing board for Meta's AI ambitions</h4> <p>China has blocked Meta’s acquisition of AI upstart Manus.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-28T02:09:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [],
     "image": "",
     "pinned": false
   },
@@ -1535,32 +1575,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-disengagement.webp/957ecb63ad65e930da75dc7ddd24c4f0/fsd-disengagement.jpg",
-    "pinned": false
-  },
-  {
-    "id": "debaa6bae620fa451e4c752e1de401270efbd810",
-    "title": "Life invisible",
-    "link": "https://aeon.co/videos/searching-for-superbug-cures-in-the-salt-flats-of-the-atacama-desert?utm_source=rss-feed",
-    "summary": "<p><img alt=\"A solitary person photographing a mountain lake under a blue sky with scattered clouds in a rocky desert landscape.\" src=\"https://images.aeonmedia.co/images/92b9576a-445f-424b-989b-5af43259f224/life-invisible-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>In the Atacama Desert, scientists race to find novel cures for antibiotic-resistant infections, as mining interests encroach</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/searching-for-superbug-cures-in-the-salt-flats-of-the-atacama-desert?utm_source=rss-feed\">Watch on Aeon</a></p>",
-    "isoDate": "2026-04-23T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6d5a740595d8bc35d442ccbaf9bfeaf07d5d93bb",
-    "title": "No nature without fear",
-    "link": "https://aeon.co/essays/have-you-forgotten-what-it-means-to-be-afraid-of-nature?utm_source=rss-feed",
-    "summary": "<p><img alt=\"Black and white photo of a man with a bow and arrows sitting on a rocky outcrop overlooking a vast landscape.\" src=\"https://images.aeonmedia.co/images/179b8fa5-9bcb-4058-9a2f-fea815c43780/essay-aldo_leopold_trip_to_the_rio_gavilan_5441676907.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Aldo Leopold saw this in the eyes of a dying wolf: when we no longer fear nature, we are on the road to its destruction</p><p><em>- by Shawn Simpson</em></p><p><a href=\"https://aeon.co/essays/have-you-forgotten-what-it-means-to-be-afraid-of-nature?utm_source=rss-feed\">Read on Aeon</a></p>",
-    "isoDate": "2026-04-23T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Shawn Simpson",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
