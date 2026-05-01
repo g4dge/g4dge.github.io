@@ -1,5 +1,92 @@
 [
   {
+    "id": "f6064aaaf53ca9c895b656bae6603db5cb86a902",
+    "title": "Women sue the men who used their Instagram feeds to create AI porn influencers",
+    "link": "https://arstechnica.com/tech-policy/2026/05/women-sue-men-who-used-their-instagram-feed-to-create-ai-porn-influencers/",
+    "summary": "AI ModelForge is a platform that teaches men how to generate their own AI influencers.",
+    "isoDate": "2026-05-01T13:26:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ej Dickson, wired.com",
+    "tags": [
+      "Policy",
+      "AI influencers",
+      "AI ModelForge",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/woman-silhouette-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f3c9616c73b6783ee777752323e584605d873537",
+    "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
+    "summary": "<h4>Exploitation was underway before patches landed, at least one victim reports ransomware demand</h4> <p>CISA has added a critical cPanel bug to its known-exploited list, confirming that attackers are already poking holes in one of the internet's most widely used hosting stacks.…</p>",
+    "isoDate": "2026-05-01T13:10:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "fcf28b94c2207455e15d4515f6858366d23a4261",
+    "title": "Tesla Update 2026.8 — The Undocumented Changes",
+    "link": "https://www.notateslaapp.com/news/4072/tesla-update-20268-the-undocumented-changes",
+    "summary": "We take a look at the undocumented changes in Tesla update 2026.8.&hellip; <a href=\"https://www.notateslaapp.com/news/4072/tesla-update-20268-the-undocumented-changes\">Read More</a>",
+    "isoDate": "2026-05-01T13:09:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/dashcam-recents.webp/1b37c8a86e5d9e0a4b77c41142eb7bf2/dashcam-recents.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d45513d2513487be45fff286a0946b6157f156af",
+    "title": "Microsoft releases first big update after Nadella's vow to 'win back fans'",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/microsoft_release_first_big_update/",
+    "summary": "<h4>Lots of fixes, some performance tweaks. Fingers crossed there's no out-of-band patch to follow</h4> <p>Microsoft is following through on its promise to prioritize Windows stability with its April 30 non-security update.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-05-01T12:42:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "93f86be3325ae34abdb982ab669c7dde27b20ca8",
+    "title": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts",
+    "link": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
+    "summary": "Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network.",
+    "isoDate": "2026-05-01T12:39:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "rocket report"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/fh_viasat_streak-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "02c752646f3f773310d485e3b3c155ebbf0e1efd",
+    "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
+    "summary": "<h4>Altman's crew now doing the same gatekeeping it recently mocked</h4> <p>OpenAI is lining up a limited release of its new GPT-5.5-Cyber model to a handpicked circle of \"cyber defenders,\" just weeks after taking a swipe at Anthropic for doing almost exactly the same thing.…</p>",
+    "isoDate": "2026-05-01T11:42:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "5b71633903e503a3c89e171b24e18aac6dbb2399",
     "title": "SpaceX rocket set for unintentional Moon landing – well, a piece of it anyway",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/spacex_debris_landing/",
@@ -1014,27 +1101,6 @@
     "pinned": false
   },
   {
-    "id": "3e9f0fbd62b689957ac2d4bd2bd5e95b79b615b5",
-    "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
-    "link": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
-    "summary": "Directions also include system instructions to act like \"you have a vivid inner life.\"",
-    "isoDate": "2026-04-29T19:00:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Codex",
-      "goblin",
-      "GPT-5",
-      "GPT-5.5",
-      "openai",
-      "system prompt"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-935113346-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3d73997b001dd1c04534b188d5a60cbc83833836",
     "title": "Legacy TLS tour continues with Exchange Online blocking old versions from July 2026",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/exchange_online_blocks_old_versions/",
@@ -1071,23 +1137,6 @@
     "author": "O'Ryan Johnson",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0acbc47db32ece767c26062213c631faf0dda25d",
-    "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
-    "link": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/",
-    "summary": "Most are keeping their subscriptions after signing up, too, research firm says.",
-    "isoDate": "2026-04-29T18:02:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "roku",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Raw-Deal-e1777484088809-500x500.jpg",
     "pinned": false
   },
   {
@@ -1177,45 +1226,6 @@
     "source": "The Register",
     "category": "Tech",
     "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9ad1fae801f5097c69b1933aa493cd9dffe03f25",
-    "title": "AWS keynote hypes AI as magic. Its own engineers tell a different story",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_keynote_hypes_ai_magic/",
-    "summary": "<h4>No shortcuts, human-review everything, says internal team - and keep hiring junior developers</h4> <p><strong>Interview</strong>  Steve Tarcza, director of Amazon Stores, says his team — StoreGen — exists to help the retail giant's developers move faster and cut friction. But despite the AI mandate, one principle is non-negotiable: nothing ships without a human checking it first.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-29T12:51:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tim Anderson",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "341dc3962abd34cf68f4ee781b8d7b4594097618",
-    "title": "Microsoft opens door to the past by releasing 86-DOS and PC-DOS 1.00",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/microsoft_pc_dos_1_point_oh/",
-    "summary": "<h4>Back to a time when source repositories were printouts and commits were hand-written notes</h4> <p><strong>Antiques code show</strong>  Microsoft has released the source for another of its relics. This time, it's 86-DOS 1.00 getting the open source treatment, and a whole lot more for retro enthusiasts.…</p>",
-    "isoDate": "2026-04-29T12:13:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5d28982d36658b74e048dec5cc81ab2b159298a5",
-    "title": "EU waves through open source age-check tool to keep kids safe online",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/eu_adopts_open_source_ageverification/",
-    "summary": "<h4>'Online platforms can rely on our app,' says Commish, 'there are no more excuses'</h4> <p>The European Commission has recommended EU member states adopt an age verification app designed to protect children from harmful online content.…</p>",
-    "isoDate": "2026-04-29T12:03:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
     "tags": [],
     "image": "",
     "pinned": false
@@ -1563,32 +1573,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y/modely_58-1777035943.jpg/aa1cbad8b78da23f9f4b84a829689c0b/modely_58-1777035943.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ac49d8f2c3663eb01ec2b830a1d74bd709c16178",
-    "title": "Tesla Announces HW3 Upgrade Plan, Trade-In Discount and Confirms No Unsupervised FSD for HW3",
-    "link": "https://www.notateslaapp.com/news/4034/tesla-announces-hw3-upgrade-plan-trade-in-discount-and-confirms-no-unsupervised-fsd-for-hw3",
-    "summary": "Tesla admits Hardware 3 cannot achieve Unsupervised FSD. The company plans to offer extensive hardware retrofits at bespoke conversion hubs for FSD purchasers.&hellip; <a href=\"https://www.notateslaapp.com/news/4034/tesla-announces-hw3-upgrade-plan-trade-in-discount-and-confirms-no-unsupervised-fsd-for-hw3\">Read More</a>",
-    "isoDate": "2026-04-24T12:58:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/model-3-hardware.webp/89c8cb3a0af9acdc7c372ec81afeeea3/model-3-hardware.jpg",
-    "pinned": false
-  },
-  {
-    "id": "344090ad3255f80753acd6cf31402f3fd10a495b",
-    "title": "Tesla Opens Up Direct Sales to 50,000 Government Agencies With Sourcewell Contract",
-    "link": "https://www.notateslaapp.com/news/4025/tesla-opens-up-direct-sales-to-50000-government-agencies-with-sourcewell-contract",
-    "summary": "Tesla has secured a fleet contract with Sourcewell, allowing over 50,000 U.S. government and education agencies to easily purchase EVs with volume discounts.&hellip; <a href=\"https://www.notateslaapp.com/news/4025/tesla-opens-up-direct-sales-to-50000-government-agencies-with-sourcewell-contract\">Read More</a>",
-    "isoDate": "2026-04-24T12:27:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_46.webp/139be438072f9eea4127a21f0153850b/group_46.jpg",
     "pinned": false
   }
 ]
