@@ -1,5 +1,88 @@
 [
   {
+    "id": "414a7d69ce81c95a51ca557258c715c17aa97166",
+    "title": "Ubuntu infrastructure has been down for more than a day",
+    "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+    "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+    "isoDate": "2026-05-01T19:12:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "DDOS attack",
+      "distributed denial of service attack",
+      "Ubuntu"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-500x500-1777661362.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9a667a9b5283df68acb4bc0aedefcd138e71e2f0",
+    "title": "Senators ban themselves from prediction markets after candidates bet on own races",
+    "link": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
+    "summary": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
+    "isoDate": "2026-05-01T17:51:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "prediction markets",
+      "Senate"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-500x500-1777657446.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e0cc2e299c105d71a596bb0ccde5e02f121ff056",
+    "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+    "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+    "summary": "More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.",
+    "isoDate": "2026-05-01T17:36:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "csam",
+      "Elon Musk",
+      "fake nudes",
+      "grok",
+      "Minnesota",
+      "nudifying apps",
+      "X",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1211553945-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "911416400c5cab88f9b6e035c23076f9bfa1243f",
+    "title": "Amazon stuck with months of repairs after drone strikes on data centers",
+    "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+    "summary": "AWS stops billing Middle East cloud customers as repairs to war damage drag on.",
+    "isoDate": "2026-05-01T17:09:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "ai data centers",
+      "Amazon",
+      "AWS",
+      "aws outage",
+      "cloud",
+      "data centers",
+      "drones",
+      "USA-Iran War"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264958756-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "03b142231853d03031a84426f66eed51041c2bdb",
     "title": "Mythos complicates the breakup, says Pentagon CTO, but Anthropic is still barred",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/mythos_complicates_anthropic_us_gov_breakup/",
@@ -712,26 +795,6 @@
     "pinned": false
   },
   {
-    "id": "1d316636e77a6ff68417ad8e3a20832500b5370d",
-    "title": "Zack Cregger has his own vision for Resident Evil reboot",
-    "link": "https://arstechnica.com/culture/2026/04/stranded-traveler-gets-more-than-he-bargained-for-in-resident-evil-teaser/",
-    "summary": "Fresh off his Oscar-winning <em>Weapons</em>, Cregger likens his take on the film franchise to <em>Evil Dead II</em>",
-    "isoDate": "2026-04-30T19:02:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "Resident Evil 2026",
-      "Resident Evil film franchise",
-      "Sony Pictures Entertainment",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/evil1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fc1209256fd8537b514b0a649a4668c0983070da",
     "title": "Phone users know when to hold ’em, delay upgrades amid inflation",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/phone_buyers_opt_to_wait/",
@@ -758,28 +821,6 @@
     "pinned": false
   },
   {
-    "id": "344bf993be7f391cf19a46a67561258477a308aa",
-    "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
-    "link": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
-    "summary": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
-    "isoDate": "2026-04-30T17:47:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "china",
-      "commercial drones",
-      "dji",
-      "drone pilots",
-      "drones",
-      "unmanned aerial vehicles",
-      "unmanned aircraft systems"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2265042408-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "548709d7e2f2350f910b6cc2f8a9ed58b1cf5ce2",
     "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
@@ -803,24 +844,6 @@
     "author": "Connor Jones",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "16faa7baf433b126e22a8dd20c4e5abd950f4777",
-    "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
-    "link": "https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/",
-    "summary": "There was uncertainty about whether Kennedy would fight or simply try an end run.",
-    "isoDate": "2026-04-30T16:20:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "ACIP",
-      "CDC",
-      "rfk jr"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg",
     "pinned": false
   },
   {
@@ -860,24 +883,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/optimus_gps-free_path_planner.png/309bc3e3236ccd6d9b7c15508631fefb/optimus_gps-free_path_planner.jpg",
-    "pinned": false
-  },
-  {
-    "id": "876e298529917561db6fb88da2be69344acbfc6e",
-    "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
-    "link": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
-    "summary": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
-    "isoDate": "2026-04-30T15:37:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "F1",
-      "ibm",
-      "Motorsport"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-500x500.png",
     "pinned": false
   },
   {
@@ -1561,19 +1566,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-app-android-hero-5.jpg/70938b9be0511ff48734b2512e0eb7c7/robotaxi-app-android-hero-5.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1b5504b3978f2144ffc8790505e9bd3031d96b5c",
-    "title": "First Look at Tesla FSD 14.3.2: Major Summon Improvements [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/4041/first-look-at-tesla-fsd-1432-major-summon-improvements-video",
-    "summary": "Tesla has officially dropped FSD v14.3.2, and for those who have been waiting for the 'Actually' in Actually Smart Summon to mean something, this is the one&hellip; <a href=\"https://www.notateslaapp.com/news/4041/first-look-at-tesla-fsd-1432-major-summon-improvements-video\">Read More</a>",
-    "isoDate": "2026-04-24T17:11:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-2-first-impressions-1.png/b43604176cf16d77425c7138bd762ff9/fsd-14-3-2-first-impressions-1.jpg",
     "pinned": false
   }
 ]
