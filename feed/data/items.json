@@ -1,5 +1,109 @@
 [
   {
+    "id": "988c779e427832ee81843c6033e0a8ddfcd5382a",
+    "title": "Hands off my trademark! Notepad++ dev threatens legal action against macOS port",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/notepad_dev_demands_unofficial_macos/",
+    "summary": "<h4>It's not the fork that's the problem, it's the attempt to make it look official, says original Notepad++ dev Don Ho</h4> <p>Notepad++ remains a Windows-only app, at least under that name. The beloved developer-focused, open-source text editor recently was ported to macOS by a third party. However, developer Don Ho wants to be perfectly clear that, no matter how convincing the new project might look, it's not official. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+    "isoDate": "2026-05-04T16:28:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "45e272e001c21d2b84eeff4816bd75972c089e3e",
+    "title": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
+    "link": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
+    "summary": "Fixed Rate Link being added now; Display Stream Compression coming soon.",
+    "isoDate": "2026-05-04T16:26:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "AMD",
+      "HDMI",
+      "hdmi 2.1",
+      "Linux",
+      "steam machine",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "4f2d2cf257718b27466e3e2c0c568dac719d58db",
+    "title": "Inside Amazon Web Services' plan to make networking disappear",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/amazon_web_services_cupertino_networking_lab/",
+    "summary": "<h4><i>The Register</i> gets a look inside AWS' networking lab in Cupertino</h4> <p><strong>FEATURE</strong>  In an unassuming three-story office building in Cupertino, California, engineers from Amazon Web Services are busy trying to make networking inconspicuous.…</p>",
+    "isoDate": "2026-05-04T15:39:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1d6fda98d50d0ae438f4f50923684171672ec6c8",
+    "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
+    "link": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
+    "summary": "OpenAI accuses Musk of trying to \"coerce\" a settlement days before trial started.",
+    "isoDate": "2026-05-04T15:05:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "agi",
+      "artificial general intelligence",
+      "Elon Musk",
+      "greg brockman",
+      "openai",
+      "sam altman",
+      "X",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2273259145-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "84a0ba9eed8fd010839745fbaf3ee20759ff4379",
+    "title": "Shadow IT has given way to shadow AI. Enter AI-BOMs",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/ai_bom_supply_chain/",
+    "summary": "<h4>'If you don't have visibility, you can't understand what to protect'</h4> <p>When it comes to securing enterprise supply chains, now heavily infused with AI applications and agents, a software bill of materials (SBOM) no longer provides a complete inventory of all the components in the environment. Enter AI-BOMs.…</p>",
+    "isoDate": "2026-05-04T15:04:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "836d9caece4144e1c6990af766cd736ee0d33ded",
+    "title": "Mac mini starting price goes up to $799, may be hard to get for \"months\"",
+    "link": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
+    "summary": "Chip shortages and demand from AI enthusiasts are both playing a part.",
+    "isoDate": "2026-05-04T14:55:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Tech",
+      "apple",
+      "Apple silicon",
+      "Mac mini",
+      "Mac Studio"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "7e9dd4ff6051f205e1b378aa919cf2757b2ecb82",
     "title": "Trump administration cites national security in stalling 165 wind farms",
     "link": "https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/",
@@ -729,26 +833,6 @@
     "pinned": false
   },
   {
-    "id": "836d9caece4144e1c6990af766cd736ee0d33ded",
-    "title": "Apple may take \"several months\" to catch up to Mac mini and Studio demand",
-    "link": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
-    "summary": "Chip shortages and demand from AI enthusiasts are both playing a part.",
-    "isoDate": "2026-05-01T14:10:48Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Tech",
-      "apple",
-      "Apple silicon",
-      "Mac mini",
-      "Mac Studio"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "f6064aaaf53ca9c895b656bae6603db5cb86a902",
     "title": "Women sue the men who used their Instagram feeds to create AI porn influencers",
     "link": "https://arstechnica.com/tech-policy/2026/05/women-sue-men-who-used-their-instagram-feed-to-create-ai-porn-influencers/",
@@ -806,23 +890,6 @@
     "pinned": false
   },
   {
-    "id": "93f86be3325ae34abdb982ab669c7dde27b20ca8",
-    "title": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts",
-    "link": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
-    "summary": "Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network.",
-    "isoDate": "2026-05-01T12:39:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "rocket report"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/fh_viasat_streak-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "02c752646f3f773310d485e3b3c155ebbf0e1efd",
     "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
@@ -859,23 +926,6 @@
     "author": "Connor Jones",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "75a9f52650e3ab40c8bd58b4499e1c853b7b3e47",
-    "title": "There's a lot of hype about Chinese EVs—is any of it true?",
-    "link": "https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
-    "summary": "In addition to being full of screens, China now wants its cars to be packed with AI.",
-    "isoDate": "2026-05-01T11:00:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Features",
-      "Chinese EVs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/image-3-500x500.png",
     "pinned": false
   },
   {
@@ -1300,45 +1350,6 @@
     "pinned": false
   },
   {
-    "id": "051b88a7c92a70bc1667770d1e635b9f4c591199",
-    "title": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/almost_half_of_uk_firms/",
-    "summary": "<h4>Turns out the real problem is not AI but staff still clicking on dodgy emails from 'IT support'</h4> <p>Nearly half of UK businesses are still getting breached, and in many cases, the attacker's big breakthrough is an employee clicking \"sure, why not\" on a fake login page.…</p>",
-    "isoDate": "2026-04-30T11:35:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "24c5db19900a6287f3856b2cb817eb1df58c2155",
-    "title": "What type of 'C2 on a sleep cycle' do they leave behind? Novel Chinese spy group found in critical networks in Poland, Asia",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/chinese_spies_lurking_networks/",
-    "summary": "<h4>Just in time for the Trump-Xi summit</h4> <p><strong>Exclusive</strong>  A novel China-linked threat group infiltrated more than a dozen critical networks in Poland, Asian countries, and possibly beyond, beginning in December 2024 and with activity uncovered as recently as this month.…</p>",
-    "isoDate": "2026-04-30T11:00:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1599875094b4c8ad2824fdeee1cd8aafae7aee5a",
-    "title": "Bug of the year (so far): Nasty cPanel vulnerability probably exploited as a 0-day",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/cpanel_whn_cves/",
-    "summary": "<h4>Emergency patches out now for those managing the millions of domains assumed to be affected</h4> <p>Emergency patches are available for a critical vulnerability in cPanel and WHM that allows attackers to bypass authentication and gain root access to servers managed using it.…</p>",
-    "isoDate": "2026-04-30T10:14:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "6e4dea264641157fd4be7ba5a7393eddcbffc7b4",
     "title": "Who invented bad guys?",
     "link": "https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why?utm_source=rss-feed",
@@ -1510,32 +1521,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "598666eb3db7bdcf5989b5c9cc125f50cb2db076",
-    "title": "Tesla App Update Reveals Upcoming Trailer Light Test Feature",
-    "link": "https://www.notateslaapp.com/news/4024/tesla-app-update-reveals-upcoming-trailer-light-test-feature",
-    "summary": "Code hidden in the latest Tesla mobile app update (version 4.55.5) reveals an upcoming feature that will allow owners to remotely test their trailer lights.&hellip; <a href=\"https://www.notateslaapp.com/news/4024/tesla-app-update-reveals-upcoming-trailer-light-test-feature\">Read More</a>",
-    "isoDate": "2026-04-27T16:20:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2021/trailer1.jpg/72253f90e2c32361817cf1cd7835591b/trailer1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "42385073a17f66079613d699640c3f5936dce50e",
-    "title": "Tesla Introduces AI-Powered Supercharger Forecasting to Improve Wait Time Accuracy",
-    "link": "https://www.notateslaapp.com/news/4044/tesla-introduces-ai-powered-supercharger-forecasting-to-improve-wait-time-accuracy",
-    "summary": "Tesla deploys a new machine learning model trained on 9 million miles of data to drastically improve Supercharger queue predictions and trip planning accuracy.&hellip; <a href=\"https://www.notateslaapp.com/news/4044/tesla-introduces-ai-powered-supercharger-forecasting-to-improve-wait-time-accuracy\">Read More</a>",
-    "isoDate": "2026-04-27T14:55:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/supercharger-forecasting.webp/bd5a793665b66bafeafe9121ae0e5f86/supercharger-forecasting.jpg",
     "pinned": false
   }
 ]
