@@ -1,5 +1,64 @@
 [
   {
+    "id": "4f829281d710fbed29a016bfcf769ff6f4e938b0",
+    "title": "Bad news for OpenClaw stans: Apple’s Mac Mini now starts at $799",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/mac_mini_ai_memory/",
+    "summary": "<h4>The tiny desktop is no longer Apple's most affordable computer</h4> <p>The Mac Mini is the latest victim of the AI-fueled RAM-pocalypse. Last week, Apple discontinued the 256 GB version of the system, which cost $599. To get in now, you'll need to drop at least $799 on a 512 GB version.…</p>",
+    "isoDate": "2026-05-04T21:46:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1b9802a0311eabc54528b3a67a509d6a90574218",
+    "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+    "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+    "summary": "\"To be clear: Notepad++ has never released a macOS version.\"",
+    "isoDate": "2026-05-04T21:38:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "AI",
+      "Tech",
+      "Anthropic Claude",
+      "MacOS",
+      "notepad",
+      "vibe coding"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.50.42-PM-500x500-1777928501.png",
+    "pinned": false
+  },
+  {
+    "id": "05bbdbfabf5d6de227c1461d0f66298a4e35afe7",
+    "title": "Microsoft fixes VS Code after app gives Copilot credit for human's work",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/microsoft_reverses_ai_credit_grab/",
+    "summary": "<h4>Devs not thrilled that Git extension added the bot as co-author by default</h4> <p>Imagine working your butt off on a project, only to have VS Code put an attribution into your commit that says Copilot helped you, even if it did not. Microsoft has reversed a change that added a default AI attribution notice after user complaints that the bot was claiming credit for human-authored code.…</p>",
+    "isoDate": "2026-05-04T21:13:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8b33d5c61c8319d7a643e8889e3b1438ce6584ea",
+    "title": "Kids say they can beat age checks by drawing on a fake mustache",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+    "summary": "<h4>46% say age checks are easy to bypass, and nearly a third admit getting around them</h4> <p>It’s been months since the UK government began requiring stronger age checks under the Online Safety Act, and recent research suggests those measures are falling short of keeping kids away from harmful content. In some cases, even drawing on a mustache has been reported as enough to fool age detection software.…</p>",
+    "isoDate": "2026-05-04T20:50:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "720aa7b12d3bf1dbddf24523f26d9e0f6be87d26",
     "title": "Tesla Starts Selling Single-Person Model Y Air Mattress",
     "link": "https://www.notateslaapp.com/news/4086/tesla-starts-selling-single-person-model-y-air-mattress",
@@ -789,26 +848,6 @@
     "pinned": false
   },
   {
-    "id": "5514e08f7668644131808b5e9e4938a868b709e2",
-    "title": "Scorpions go terminator mode and reinforce their weapons with metal",
-    "link": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
-    "summary": "Different hunting patterns seem to dictate different distributions of metal.",
-    "isoDate": "2026-05-01T16:24:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "Biology",
-      "Biomechanics",
-      "biomineralization",
-      "metals",
-      "scorpions"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-998526802-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "09b9f8a67d021d009a1308979d0d841f99aa4cd5",
     "title": "Artemis III aims for 'late 2027' for Earth orbit demonstration",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/artemis_iii_aims_for_late/",
@@ -1295,19 +1334,6 @@
     "pinned": false
   },
   {
-    "id": "58e4db62c299ca040f98d21fc82b8108362f2223",
-    "title": "Survey says no, American workers are not keen on Microsoft's AI",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/survey_us_workers_e7_ms_ai/",
-    "summary": "<h4>Lock-in worries threaten to dampen the E7 launch party</h4> <p>The Coalition for Fair Software Licensing has published research showing that US workers reckon Microsoft is using its productivity tools to lock their employers into the company's AI services.…</p>",
-    "isoDate": "2026-04-30T14:19:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "42ba7284002d0eac7f4487360c465a9cf4fa7135",
     "title": "Tesla Issues Physical Recall for Cybertruck 18-Inch Steel Wheels; Reveals RWD Cybertruck Sales",
     "link": "https://www.notateslaapp.com/news/4068/tesla-issues-physical-recall-for-cybertruck-18-inch-steel-wheels-reveals-rwd-cybertruck-sales",
@@ -1318,32 +1344,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck_servicemanual.jpg/e960befbd4a88f55e4802b372767352f/cybertruck_servicemanual.jpg",
-    "pinned": false
-  },
-  {
-    "id": "98debf0e5717b3858b6ce21af4389d04fa175787",
-    "title": "SAP user group slams 'uncertainty' in ERP giant's API policy",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/germanspeaking_user_group_slams_uncertainty/",
-    "summary": "<h4>Concerns over new rules might stop customers from adopting innovations – including AI – that connect to SAP systems</h4> <p>An influential SAP user group has criticized the vendor's API policy update, saying it lacks clarity and potentially prevents users from starting new projects and innovating on their SAP platforms.…</p>",
-    "isoDate": "2026-04-30T13:41:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b04e64fca5226f239640560064c6b3933e7368c9",
-    "title": "Microsoft boss tells investors the company is working to 'win back fans'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/microsoft_boss_says_company_is/",
-    "summary": "<h4>But why did those fans go away in the first place, Satya?</h4> <p>Microsoft boss Satya Nadella told investors during an earnings call last night that the company needs to \"win back\" its fans.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-04-30T13:00:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
