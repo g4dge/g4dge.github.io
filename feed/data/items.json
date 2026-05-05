@@ -1,5 +1,95 @@
 [
   {
+    "id": "5501dd263a0f7c6e5865103e52c720ef71e740f1",
+    "title": "Tesla App 4.56.5: New Smart Charging Feature, Enhanced Charge on Solar and Plaid Gold",
+    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.56.5/release-notes",
+    "summary": "Tesla app update 4.56.5 includes Smart Charging for Wall Connector, Plaid Gold Badge, Enhanced Charge on Solar, Battery Repaired Certificate. <a href=\"https://www.notateslaapp.com/tesla-app-updates/version/4.56.5/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-05-05T17:44:52Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/smart-charging-wall-connector.webp/1d9e5df077deb2ae12ae70dbd6c15399/smart-charging-wall-connector.jpg",
+    "pinned": false
+  },
+  {
+    "id": "297522f821d798ae3731c1824e3e544950ba6ba4",
+    "title": "IBM asks DBAs to trust AI to act on their behalf",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/ibm_db2_automation_google_intel/",
+    "summary": "<h4>With help from Google and Intel, Big Blue brings new automation to Db2</h4> <p>IBM has added support for Google Vertex AI and Intel Gaudi to boost the AI-based management of its stalwart Db2 database.…</p>",
+    "isoDate": "2026-05-05T17:29:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3c563e6b19bb1c646e580ab819142bf41e8ad714",
+    "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+    "link": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+    "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.",
+    "isoDate": "2026-05-05T17:17:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "gemini",
+      "google",
+      "Google Home",
+      "smart home"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5cc633c46d2e07ec03d525fd1caf6711cd64047b",
+    "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
+    "link": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
+    "summary": "SEC alleged Musk's late disclosure cheated Twitter investors out of $150 million.",
+    "isoDate": "2026-05-05T17:07:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Elon Musk",
+      "SEC"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/elon-musk-twitter-speech-juggle-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5c804d723764da01044c9617cb8dcae0efdb8404",
+    "title": "ServiceNow clears agents for landing with new AI control tower",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/servicenow_clears_agents_for_landing/",
+    "summary": "<h4>ServiceNow acquisitions Veza and Traceloop join to monitor agents and AI workflows</h4> <p>ServiceNow announced an expansion of its AI Control Tower, transforming what began last year as a governance dashboard into what the company now describes as a command center for managing AI assets across an entire enterprise, including those running outside ServiceNow's own platform.…</p>",
+    "isoDate": "2026-05-05T17:00:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "O'Ryan Johnson",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "5f68a73a62d4f008371a18914049a1d83e95740c",
+    "title": "DIY mystery box will wow your friends by hinting at what the ionosphere is up to",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/diy_rf_radiation_tracker/",
+    "summary": "<h4>A rough guide to when your signal will behave, or not</h4> <p>Shortwave radio enthusiasts are sure to know the problem: You're trying to tune in to your favorite global broadcast only to find that the signal is fuzzy. Is it you? Your equipment? It might just be the conditions in the ionosphere, which you'd know if you built this DIY device. …</p>",
+    "isoDate": "2026-05-05T16:46:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "7543692c216a08a2800b49dd4e0fe49a3cf5466b",
     "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
     "link": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
@@ -1003,49 +1093,6 @@
     "pinned": false
   },
   {
-    "id": "58743c4321c978a23c4f5fc6fbfc7344a8713841",
-    "title": "Study: AI models that consider users' feelings are more likely to make errors",
-    "link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
-    "summary": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”",
-    "isoDate": "2026-05-01T22:23:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Oxford",
-      "science",
-      "study",
-      "training",
-      "tuning",
-      "warmth"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b595e31fbfb34a69ba37a4047802f4d30d756fd4",
-    "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
-    "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
-    "summary": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
-    "isoDate": "2026-05-01T22:00:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Gaming",
-      "Tech",
-      "asus rog ally",
-      "steam deck",
-      "steam machine",
-      "steamos",
-      "windows 11 24h2",
-      "windows 11 25h2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "59c083ef69f7c47ef3644cdc0100394a0d74a24c",
     "title": "ServiceNow under siege as Atlassian adds to ITSM take-outs",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/servicenow_under_siege_atlassian_itsm/",
@@ -1228,19 +1275,6 @@
     "pinned": false
   },
   {
-    "id": "9fc3f44c6fbb6fcc8ff89ff2552806f1eae70e32",
-    "title": "Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/canonical_confirms_ubuntu_infrastructure_under/",
-    "summary": "<h4>313 Team tells Canonical: pay up or the packets keep coming</h4> <p>Canonical says its web infrastructure is under attack after a pro-Iran hacktivist group instructed its members to target the open source giant.…</p>",
-    "isoDate": "2026-05-01T11:05:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "eb3707d871ef1d4b204bd5d59537981a0fab6c03",
     "title": "Tesla to End One-Time FSD Purchases in the Netherlands",
     "link": "https://www.notateslaapp.com/news/4075/tesla-to-end-one-time-fsd-purchases-in-the-netherlands",
@@ -1251,32 +1285,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-europe-changes-8.webp/48562eb7ec50121fbd7dc96bdc247e5d/fsd-europe-changes-8.jpg",
-    "pinned": false
-  },
-  {
-    "id": "32270b866572077c6857c7250e0fa22e2c22611f",
-    "title": "UK pensions dept goes shopping for spy-van tech with £2M surveillance tender",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/dwp_goes_shopping_for_spyvan/",
-    "summary": "<h4>Covert cameras, live-streaming systems, and in-vehicle recording kit sought to catch out fraudsters</h4> <p>The Department for Work and Pensions has gone shopping for covert cameras, live-streaming kit, and vehicle-based recording gear as it lines up a £2 million upgrade to watch fraud suspects in real time.…</p>",
-    "isoDate": "2026-05-01T10:43:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c9a089ac3236908b62306f23f91fd56b7519b5d5",
-    "title": "Who needs ghost train scares when Windows is such a fright?",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/ghost_train_bork/",
-    "summary": "<h4>Things that go bork in the night</h4> <p><strong>Bork!Bork!Bork!</strong>  What frightens you? What, as an IT professional, would make you shriek like a small child? What tech horrors are lurking under your bed?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-05-01T10:00:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
