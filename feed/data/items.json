@@ -1,5 +1,68 @@
 [
   {
+    "id": "c91bf20cbe57c433b828aae071a12551d88495cf",
+    "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
+    "link": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
+    "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026.",
+    "isoDate": "2026-05-05T21:41:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "ai data centers",
+      "data centers",
+      "ocean waves",
+      "renewable energy",
+      "Renewable power"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Panthalassa-ocean-computing-node-with-multiple-people-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e59e216317e0eb36a0e681598860c1bb5dc8b02a",
+    "title": "OpenAI exec says company hopes to burn $50B of somebody else's money on compute this year",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/openai_50b_compute/",
+    "summary": "<h4>If the numbers are large enough, perhaps we won't question the math</h4> <p>An executive for ChatGPT maker OpenAI said in court testimony on Tuesday that the AI model developer expects to burn $50 billion on computing power before the end of the year.…</p>",
+    "isoDate": "2026-05-05T21:02:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "200e07db062f8ef47651e87d3ed090e555a5a265",
+    "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
+    "link": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+    "summary": "State says chatbot claimed to practice medicine, gave invalid license number.",
+    "isoDate": "2026-05-05T20:58:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "AI",
+      "Policy",
+      "Character.AI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/robot-hand-stethoscope-500x500-1778013498.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9b5a61929afa22497f5bf84330293ffe027382ec",
+    "title": "Viva la revolución: LinkedIn profile visitor lists belong to the people, says Noyb",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/linkedin_gdpr_article_15_premium_noyb/",
+    "summary": "<h4>GDPR Article 15 doesn't care if you want to make money by selling users' data back to them</h4> <p>A LinkedIn feature the average non-paying user likely only glances past could end up setting a legal precedent in the EU regarding how companies treat customer data that they've processed. …</p>",
+    "isoDate": "2026-05-05T20:31:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "67759febd4ea02e28aeca673b527dc350a664e58",
     "title": "Astera speaks softly and carries a big switch",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/nvlink_astera_big_swich/",
@@ -16,7 +79,7 @@
     "id": "cfda09ec045ab80c380c27ccdf4ccea61a6306ca",
     "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
     "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-    "summary": "Daemon Tools users: It's time to check your machines for stealthy infections stat.",
+    "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
     "isoDate": "2026-05-05T19:46:15Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -801,22 +864,6 @@
     "pinned": false
   },
   {
-    "id": "d3b2817cdc6a29b65d2878697335cd736743e423",
-    "title": "MIT's virtual violin offers luthiers a new design tool",
-    "link": "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/",
-    "summary": "Computational model lets users tweak parameters to hear effect on the sound in early design process.",
-    "isoDate": "2026-05-04T13:12:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "acoustics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/stradTOP-500x500-1777837020.jpg",
-    "pinned": false
-  },
-  {
     "id": "cad134486e5384d8ea63b988a2c9d6409e20da3e",
     "title": "SpaceX Breaks Ground on Solar Fab to Power Orbital Data Centers",
     "link": "https://www.notateslaapp.com/news/4074/spacex-breaks-ground-on-bastrop-solar-fab-to-power-the-orbital-cloud",
@@ -840,25 +887,6 @@
     "author": "Simon Sharwood",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "51aed0fdcc71020644cd049e673fe1b3c3342b9e",
-    "title": "Toyota built a $10 billion private utopia—what’s going on in there?",
-    "link": "https://arstechnica.com/cars/2026/05/inside-toyotas-10b-private-utopia-big-ideas-few-people-cameras-everywhere/",
-    "summary": "Woven City is a privacy nightmare but could be helpful to an OEM desperate to be more.",
-    "isoDate": "2026-05-04T11:00:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "TIm Stevens",
-    "tags": [
-      "Cars",
-      "Features",
-      "cars",
-      "Future",
-      "Toyota"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Official-Launch-1-500x500-1777295768.jpg",
     "pinned": false
   },
   {
@@ -1254,19 +1282,6 @@
     "pinned": false
   },
   {
-    "id": "f3c9616c73b6783ee777752323e584605d873537",
-    "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
-    "summary": "<h4>Exploitation was underway before patches landed, at least one victim reports ransomware demand</h4> <p>CISA has added a critical cPanel bug to its known-exploited list, confirming that attackers are already poking holes in one of the internet's most widely used hosting stacks.…</p>",
-    "isoDate": "2026-05-01T13:10:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "fcf28b94c2207455e15d4515f6858366d23a4261",
     "title": "Tesla Update 2026.8 — The Undocumented Changes",
     "link": "https://www.notateslaapp.com/news/4072/tesla-update-20268-the-undocumented-changes",
@@ -1277,19 +1292,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/dashcam-recents.webp/1b37c8a86e5d9e0a4b77c41142eb7bf2/dashcam-recents.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d45513d2513487be45fff286a0946b6157f156af",
-    "title": "Microsoft releases first big update after Nadella's vow to 'win back fans'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/microsoft_release_first_big_update/",
-    "summary": "<h4>Lots of fixes, some performance tweaks. Fingers crossed there's no out-of-band patch to follow</h4> <p>Microsoft is following through on its promise to prioritize Windows stability with its April 30 non-security update.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-    "isoDate": "2026-05-01T12:42:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [],
-    "image": "",
     "pinned": false
   },
   {
