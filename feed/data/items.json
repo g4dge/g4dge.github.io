@@ -1,5 +1,46 @@
 [
   {
+    "id": "a675c7bde45f36ef8a05620f0d3d504399d8bede",
+    "title": "From the archives: Tunnel Vision – Is the ‘near-death experience’ just an illusion?",
+    "link": "https://www.skeptic.org.uk/2026/05/from-the-archives-tunnel-vision-is-the-near-death-experience-just-an-illusion/",
+    "summary": "<p>From the archives in 1993, Brian W. Haines on the spate of claims that people on the verge of death have a Near Death Experience, and see a bright tunnel.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/05/from-the-archives-tunnel-vision-is-the-near-death-experience-just-an-illusion/\">From the archives: Tunnel Vision &#8211; Is the ‘near-death experience&#8217; just an illusion? </a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-05-05T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Brian W Haines",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "7769c021c48fb0470832098daad6da499cbf375f",
+    "title": "Microsoft's bad obsession is showing up in shabby services and slipshod software. Here's proof",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/microsoft_opinion_column/",
+    "summary": "<h4>If you can't bother to keep GitHub running, why should we bother with you?</h4> <p><strong>Opinion</strong>  It's been another shabby week for Microsoft, and a shabbier one for its users. We learnt that Windows 11's epic habit of trying to corral customers into paid-for Microsoft services just <a href=\"https://www.theregister.com/2026/04/26/windows_second_chance_setup/\" target=\"_blank\">got worse with a low-rent trick</a>. Remote Desktop got a bit more secure, which is good, but in a way that suggests <a href=\"https://www.theregister.com/2026/04/24/remote_desktop_security_beefed_up/\" target=\"_blank\">not too much user testing took place</a>. As for GitHub… GitHub got two helpings of Chef Redmondo's Special Sauce.…</p>",
+    "isoDate": "2026-05-05T08:30:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Rupert Goodwins",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "49b6baa989b7a96fd1ac3b29ab22cf245fc03c55",
+    "title": "Classic ASCII game NetHack debuts version 5.0 just 11 years after last major release",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/nethack_5/",
+    "summary": "<h4>New monsters! New magic items! An Arm port! And compliance with a dead C standard</h4> <p><strong>Antiques Code Show</strong>  Admirers of Roguelike games have a new distraction: Version 5.0 of NetHack dropped last weekend.…</p>",
+    "isoDate": "2026-05-05T06:32:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "92254c44cf7fe98d9363dccd259d982e75a5631f",
     "title": "Microsoft to stop taking reservations for 17 Azure VM flavours, kill 13 in 2028",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/azure_reservations_end_old_vms/",
@@ -1282,32 +1323,6 @@
     "pinned": false
   },
   {
-    "id": "13390fa6e107c4c829cdd508aee6232292f271f8",
-    "title": "Bandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/bandwith_hogs_rejoice_celesticas_latest/",
-    "summary": "<h4>Networking kit arrives just in time for Nvidia's 1.6 Tbps ConnectX-9 NICs</h4> <p>If you thought 800 Gbps Ethernet was fast, just wait. Celestica's latest switches cram 64 1.6 Tbps ports into a single chassis.…</p>",
-    "isoDate": "2026-04-30T18:18:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "548709d7e2f2350f910b6cc2f8a9ed58b1cf5ce2",
-    "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
-    "summary": "<h4>This CVSS 10.0 RCE vuln has been patched, automatically for some, so better check those workflows</h4> <p>If you use Gemini CLI, watch out: Google has patched a CVSS 10.0 vulnerability in its command-line AI tool and is warning anyone running it in headless mode, or through GitHub Actions, to review their workflows.…</p>",
-    "isoDate": "2026-04-30T17:15:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "347f9120a42338ac8e50d8f1e70dbe2e04107b69",
     "title": "Tesla Kicks Off High-Volume Semi Production in Nevada",
     "link": "https://www.notateslaapp.com/news/4073/tesla-kicks-off-high-volume-semi-production-in-nevada",
@@ -1501,22 +1516,6 @@
     "category": "Long Reads",
     "author": "Vivek V Venkataraman",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a4c599a4eb994d188fba4c58173569d0bdf6f06f",
-    "title": "From the archives: Quackupuncture – A question of medical ethics",
-    "link": "https://www.skeptic.org.uk/2026/04/from-the-archives-quackupuncture-a-question-of-medical-ethics/",
-    "summary": "<p>From the archive in 1992, HB Gibson  looks at the rise and fall - and rise again - of medical acupuncture in Western society.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/04/from-the-archives-quackupuncture-a-question-of-medical-ethics/\">From the archives: Quackupuncture &#8211; A question of medical ethics </a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-04-28T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "H.B. Gibson",
-    "tags": [
-      "Acupuncture",
-      "Archive"
-    ],
     "image": "",
     "pinned": false
   }
