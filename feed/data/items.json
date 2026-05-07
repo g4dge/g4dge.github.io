@@ -1,5 +1,171 @@
 [
   {
+    "id": "21cc060d12fe62b8682a2308f6189afd34d533bc",
+    "title": "C++ survey finds AI use rising, though trust is in short supply",
+    "link": "https://www.theregister.com/devops/2026/05/07/c-survey-finds-ai-use-rising-though-trust-is-in-short-supply/5234708",
+    "summary": "Language's popularity continues to grow despite commonly cited frustrations",
+    "isoDate": "2026-05-07T14:23:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5234783&width=800",
+    "pinned": false
+  },
+  {
+    "id": "587b47d84dfe545c2441a75a9aec6c22ef7a7323",
+    "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
+    "link": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
+    "summary": "The $100 Fitbit Air is available for preorder today.",
+    "isoDate": "2026-05-07T14:00:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "Artificial Intelligence",
+      "fitbit",
+      "google",
+      "wearables"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Lavender-Lifestyle-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c6ddd324949abbcc2668017c74dad8e45ad409fa",
+    "title": "State-backed hackers hammer Palo Alto firewall zero-day before patch lands",
+    "link": "https://www.theregister.com/cyber-crime/2026/05/07/state-backed-hackers-hammer-palo-alto-firewall-zero-day-before-patch-lands/5234737",
+    "summary": "Internet-facing PAN-OS firewalls are once again doing impressions of initial access brokers",
+    "isoDate": "2026-05-07T13:53:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5234756&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1d801a95853da33cdc6e624d4ad5b87e54a32eed",
+    "title": "RIP social media. What comes next is messy.",
+    "link": "https://arstechnica.com/science/2026/05/rip-social-media-what-comes-next-is-messy/",
+    "summary": "As social media splinters, how can we keep the new online spaces from devolving into toxic pits of despair?",
+    "isoDate": "2026-05-07T13:51:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "echo chambers",
+      "online culture",
+      "political polarization",
+      "social media"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1372511250-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "05a821caeeaffdd59a1bb6657edda5d67f2eb6f4",
+    "title": "Official PCIe 8.0 draft aims for 1 TB/s data rate",
+    "link": "https://www.theregister.com/storage/2026/05/07/official-pcie-80-draft-aims-for-1-tb/s-data-rate/5234648",
+    "summary": "Final specs due for release in 2028, so don't hold your breath for the hardware",
+    "isoDate": "2026-05-07T13:14:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5227025&width=800",
+    "pinned": false
+  },
+  {
+    "id": "baadfd77c02b64120fa2c41cd373b1221fbe3900",
+    "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
+    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
+    "summary": "Musk was “prepared to do the for-profit, provided he would get control.”",
+    "isoDate": "2026-05-07T13:14:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "George Hammond, Financial Times",
+    "tags": [
+      "AI",
+      "Policy",
+      "Elon Musk",
+      "openai",
+      "openai sam altman",
+      "sam altman"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/getty-musk-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "14a3c5a60061f2354db0f3388e7a920dc55a761d",
+    "title": "AMD puts out new slottable GPU for AI-curious enterprises",
+    "link": "https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481",
+    "summary": "MI350P packs 144 GB of HBM3e and up to 4.6 teraFLOPS of FP4 grunt into a dual slot card",
+    "isoDate": "2026-05-07T13:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5231593&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6eca37191838a96794a79f2b6e7711def3031d5c",
+    "title": "Tesla's 6-Seat Model Y L Spotted Under Covers at Giga Texas",
+    "link": "https://www.notateslaapp.com/news/4105/tesla-model-y-l-spotted-under-covers-at-gigafactory-texas",
+    "summary": "Tesla fans are buzzing after a new sighting at Gigafactory Texas suggests that a long-awaited family vehicle might be nearing a U.S. release&hellip; <a href=\"https://www.notateslaapp.com/news/4105/tesla-model-y-l-spotted-under-covers-at-gigafactory-texas\">Read More</a>",
+    "isoDate": "2026-05-07T12:12:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-wraps-giga-texas-may-2026-1.webp/7e5a427efce1de7b1010183a59346e0d/model-y-l-wraps-giga-texas-may-2026-1.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1208a0bb82516c5c80feaa691d237ef2205892bd",
+    "title": "Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.",
+    "link": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/",
+    "summary": "Nordschleife-specialist Manthey has developed an upgrade package for the Porsche EV.",
+    "isoDate": "2026-05-07T12:00:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Nordschleife",
+      "Nurburgring",
+      "Porsche Taycan"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/MH10574__2_A3_RGB-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8a60590af21d845e9091c36ac46c3aae92b2c69a",
+    "title": "Hungarian cops cuff suspected swatter after two-year FBI probe",
+    "link": "https://www.theregister.com/cyber-crime/2026/05/07/fbi-locates-alleged-rhode-island-swatter-in-hungary/5234582",
+    "summary": "20-year-old fessed up after investigators found video of crime in progress",
+    "isoDate": "2026-05-07T11:51:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5234620&width=800",
+    "pinned": false
+  },
+  {
     "id": "6c4438c0534cb7102991ce9c6bdb2179ae106b96",
     "title": "EU hits snooze on AI Act rules after industry backlash",
     "link": "https://www.theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/5234530",
@@ -931,46 +1097,6 @@
     "pinned": false
   },
   {
-    "id": "42aa4ad0ca99ac7d384604d3c596d6f46a42fbdc",
-    "title": "OpenAI president forced to read his personal diary entries to jury",
-    "link": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
-    "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
-    "isoDate": "2026-05-05T22:28:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "artificial general intelligence",
-      "Elon Musk",
-      "openai",
-      "xAI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/greg-brockman-is-you-taking-notes-on-criminal-conspiracy-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c91bf20cbe57c433b828aae071a12551d88495cf",
-    "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
-    "link": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
-    "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026.",
-    "isoDate": "2026-05-05T21:41:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "ai data centers",
-      "data centers",
-      "ocean waves",
-      "renewable energy",
-      "Renewable power"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Panthalassa-ocean-computing-node-with-multiple-people-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "cfde6fa4823ade192ac0b27ac704a1d8c891bc27",
     "title": "OpenAI exec says company hopes to burn $50B of somebody else's money on compute this year",
     "link": "https://www.theregister.com/software/2026/05/05/openai-exec-says-it-will-burn-50b-on-compute-this-year/5226088",
@@ -983,23 +1109,6 @@
       "software"
     ],
     "image": "https://image.theregister.com/?imageId=222229&width=800",
-    "pinned": false
-  },
-  {
-    "id": "200e07db062f8ef47651e87d3ed090e555a5a265",
-    "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
-    "link": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
-    "summary": "State says chatbot claimed to practice medicine, gave invalid license number.",
-    "isoDate": "2026-05-05T20:58:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "AI",
-      "Policy",
-      "Character.AI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/robot-hand-stethoscope-500x500-1778013498.jpg",
     "pinned": false
   },
   {
@@ -1030,25 +1139,6 @@
       "software"
     ],
     "image": "https://image.theregister.com/?imageId=1684335&width=800",
-    "pinned": false
-  },
-  {
-    "id": "cfda09ec045ab80c380c27ccdf4ccea61a6306ca",
-    "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-    "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-    "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
-    "isoDate": "2026-05-05T19:46:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "backdoors",
-      "daemon tools",
-      "supply chain attack"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-500x500.jpg",
     "pinned": false
   },
   {
@@ -1236,66 +1326,6 @@
       "software"
     ],
     "image": "https://image.theregister.com/?imageId=235742&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fba08787ea3ed9455ba32dc22e6d5e89ca5afbe8",
-    "title": "VMware claims Cloud Foundation on track for world domination",
-    "link": "https://www.theregister.com/off-prem/2026/05/05/vmware-claims-cloud-foundation-on-track-for-world-domination/5227432",
-    "summary": "Delivers update aimed at reducing hardware bill shock",
-    "isoDate": "2026-05-05T13:01:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off_prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=229199&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f6ff514c7e0ab870c3c6d336f6f0ddbcbb044e5a",
-    "title": "ShinyHunters claims dump puts 119K Vimeo emails in the wild",
-    "link": "https://www.theregister.com/security/2026/05/05/shinyhunters-claims-119k-vimeo-emails-in-the-wild/5227389",
-    "summary": "Vimeo points finger at analytics supplier Anodot, says no logins or card data were touched",
-    "isoDate": "2026-05-05T12:15:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5227770&width=800",
-    "pinned": false
-  },
-  {
-    "id": "21521d4e2aac931a3bb82eaf21fb6446c5f95c60",
-    "title": "Brit mathematician lets AI agent loose with credit card – cue password leaks, CAPTCHA chaos and more",
-    "link": "https://www.theregister.com/software/2026/05/05/british-mathematician-hands-openclaw-agent-a-credit-card/5228654",
-    "summary": "Professor Fry's AI experiment shows light and dark sides of agentic tech",
-    "isoDate": "2026-05-05T12:04:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5229005&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f27e97ca329de807ce74790babfdff73c0e1298d",
-    "title": "Romance scammers turn sweet talk into £102M payday",
-    "link": "https://www.theregister.com/security/2026/05/05/romance-fraudsters-fleeced-uk-victims-of-102m-in-2025/5227963",
-    "summary": "Victims losing £280K a day to fake profiles and sob stories",
-    "isoDate": "2026-05-05T11:43:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=257106&width=800",
     "pinned": false
   },
   {
@@ -1617,32 +1647,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/optimus_gps-free_path_planner.png/309bc3e3236ccd6d9b7c15508631fefb/optimus_gps-free_path_planner.jpg",
-    "pinned": false
-  },
-  {
-    "id": "42ba7284002d0eac7f4487360c465a9cf4fa7135",
-    "title": "Tesla Issues Physical Recall for Cybertruck 18-Inch Steel Wheels; Reveals RWD Cybertruck Sales",
-    "link": "https://www.notateslaapp.com/news/4068/tesla-issues-physical-recall-for-cybertruck-18-inch-steel-wheels-reveals-rwd-cybertruck-sales",
-    "summary": "Tesla issues a physical recall for 173 Cybertrucks equipped with 18-inch steel wheels, revealing the final production count of the cancelled Long Range trim.&hellip; <a href=\"https://www.notateslaapp.com/news/4068/tesla-issues-physical-recall-for-cybertruck-18-inch-steel-wheels-reveals-rwd-cybertruck-sales\">Read More</a>",
-    "isoDate": "2026-04-30T14:01:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck_servicemanual.jpg/e960befbd4a88f55e4802b372767352f/cybertruck_servicemanual.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e4e19802458eec3bd086ed45a44f8a0a15a71891",
-    "title": "SpaceX Locks In $10B AI Partnership With Cursor; Ability to Buy for $60B",
-    "link": "https://www.notateslaapp.com/news/4026/spacex-secures-option-to-acquire-ai-coding-tool-cursor-for-60-billion",
-    "summary": "SpaceX has announced a strategic partnership with AI startup Cursor, securing the option to acquire the coding platform for $60 billion later this year.&hellip; <a href=\"https://www.notateslaapp.com/news/4026/spacex-secures-option-to-acquire-ai-coding-tool-cursor-for-60-billion\">Read More</a>",
-    "isoDate": "2026-04-30T12:52:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-satellites.webp/9c5bd9d5c0fc035706e3508ca1cda93c/spacex-satellites.jpg",
     "pinned": false
   }
 ]
