@@ -1,5 +1,95 @@
 [
   {
+    "id": "6c4438c0534cb7102991ce9c6bdb2179ae106b96",
+    "title": "EU hits snooze on AI Act rules after industry backlash",
+    "link": "https://www.theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/5234530",
+    "summary": "Brussels says it's simplification, critics may call it retreat",
+    "isoDate": "2026-05-07T11:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5234572&width=800",
+    "pinned": false
+  },
+  {
+    "id": "aacb07173d8450319bc21a0e03ccdcf0bae19d68",
+    "title": "Former NASA chief takes helm of national security space firm",
+    "link": "https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/",
+    "summary": "\"The spacecraft can also be refueled, and it can refuel others.\"",
+    "isoDate": "2026-05-07T11:00:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "jim bridenstine",
+      "quantum space",
+      "ranger",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/rendering-1-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "0948402f6b939466cd46205df6c2f17ddf2c2a7a",
+    "title": "NHS code clampdown draws open source backlash",
+    "link": "https://www.theregister.com/software/2026/05/07/nhs-code-clampdown-draws-open-source-backlash/5234541",
+    "summary": "Plus a petition for the UK Civil Service to go FOSS by default",
+    "isoDate": "2026-05-07T10:39:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5234606&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bc3ff1ba9a74c2f816fb9b1f42c0fa1267ecc4f4",
+    "title": "Nature’s hardware store: building the future with biology",
+    "link": "https://aeon.co/videos/fungi-homes-and-more-ways-biology-could-sustain-life-beyond-earth?utm_source=rss-feed",
+    "summary": "<p><img alt=\"Illustration of a futuristic dome structure on a barren landscape with distant hills and scattered boulders.\" src=\"https://images.aeonmedia.co/images/f45f5583-63eb-4122-a106-26247d3df17b/natures-hardware-store-building-the-future-with-biology-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>What if the tools for sustainable space exploration could be found in cellular life on Earth? A NASA astrobiologist explains</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/fungi-homes-and-more-ways-biology-could-sustain-life-beyond-earth?utm_source=rss-feed\">Watch on Aeon</a></p>",
+    "isoDate": "2026-05-07T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6314fee76ca413749c80b168061108213dd8924f",
+    "title": "The origins of Indians",
+    "link": "https://aeon.co/essays/ancient-india-was-shaped-by-waves-of-migration-and-mixing?utm_source=rss-feed",
+    "summary": "<p><img alt=\"A bustling outdoor market with people trading and transporting goods on a foggy street.\" src=\"https://images.aeonmedia.co/images/e6748bb6-7cb8-4e63-b73a-5c05bac8e564/essay-mg158620.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Genetic studies support what historians have argued for decades: ancient India was a place of migration and mixture</p><p><em>- by Kiran Kumbhar</em></p><p><a href=\"https://aeon.co/essays/ancient-india-was-shaped-by-waves-of-migration-and-mixing?utm_source=rss-feed\">Read on Aeon</a></p>",
+    "isoDate": "2026-05-07T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Kiran Kumbhar",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4718e43b956436cba20d83098201fb94d19e201e",
+    "title": "The network password was a key plot point in one of the most famous movies of all time",
+    "link": "https://www.theregister.com/security/2026/05/07/guessable-admin-password-exposes-sloppy-network-security/5231161",
+    "summary": "Fortunately, it was a legit contractor who guessed it",
+    "isoDate": "2026-05-07T09:49:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5231249&width=800",
+    "pinned": false
+  },
+  {
     "id": "32c2d1be14dab01644b75945d40286f114cc1e88",
     "title": "Chrome silently installs a 4 GB local LLM on your computer",
     "link": "https://www.theregister.com/ai-and-ml/2026/05/07/chrome-silently-installs-a-4-gb-local-llm-on-your-computer/5230893",
@@ -977,27 +1067,6 @@
     "pinned": false
   },
   {
-    "id": "8d75194cf40be5ed6107eac62d438934c9be523d",
-    "title": "RFK Jr. plans to curb antidepressants, which he falsely compares to heroin",
-    "link": "https://arstechnica.com/health/2026/05/rfk-jr-plans-to-curb-antidepressants-which-he-falsely-compares-to-heroin/",
-    "summary": "Kennedy has made—and continues to make—many false claims about SSRIs.",
-    "isoDate": "2026-05-05T19:32:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "antidepressants",
-      "depression",
-      "heroin",
-      "MAHA",
-      "robert f kennedy jr",
-      "SSRI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "ab4f5084093ee5d6e714cee69928f65d92171442",
     "title": "Belgium Moves to Fast-Track Tesla FSD Approval",
     "link": "https://www.notateslaapp.com/news/4095/belgium-moves-to-fast-track-tesla-fsd-approval",
@@ -1230,21 +1299,6 @@
     "pinned": false
   },
   {
-    "id": "df5712b77064592ba57fe44b0966d6729461c814",
-    "title": "Unexpected item in Windows' bagging area",
-    "link": "https://www.theregister.com/offbeat/2026/05/05/unexpected-item-in-windows-bagging-area/5229720",
-    "summary": "Activating Windows will cost more than a couple of cheap carrier bags",
-    "isoDate": "2026-05-05T10:00:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5230204&width=800",
-    "pinned": false
-  },
-  {
     "id": "0a930c0b378a6f814d799257ade42c872dbed81f",
     "title": "Embrace the edge!",
     "link": "https://aeon.co/essays/why-creativity-shines-out-on-the-edge-of-things?utm_source=rss-feed",
@@ -1255,21 +1309,6 @@
     "author": "Charles Foster",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f7600f2c224e4a4bcb58b960b944aa0d910086fc",
-    "title": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
-    "link": "https://www.theregister.com/software/2026/05/05/nhs-to-close-source-github-repos-over-ai-security-concerns/5224392",
-    "summary": "Healthcare giant's maintainers handed May deadline to enact the change",
-    "isoDate": "2026-05-05T09:15:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=260005&width=800",
     "pinned": false
   },
   {
@@ -1285,21 +1324,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "919adb5192eada1e6a16eb13e8fbd23de4ff4b48",
-    "title": "Microsoft's bad obsession is showing up in shabby services and slipshod software. Here's proof",
-    "link": "https://www.theregister.com/software/2026/05/05/microsofts-code-shack-shaken-as-redmond-chases-ai-ghosts/5219761",
-    "summary": "If you can't bother to keep GitHub running, why should we bother with you?",
-    "isoDate": "2026-05-05T08:30:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093877&width=800",
     "pinned": false
   },
   {
@@ -1619,32 +1643,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-satellites.webp/9c5bd9d5c0fc035706e3508ca1cda93c/spacex-satellites.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6e4dea264641157fd4be7ba5a7393eddcbffc7b4",
-    "title": "Who invented bad guys?",
-    "link": "https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why?utm_source=rss-feed",
-    "summary": "<p><img alt=\"\" src=\"https://images.aeonmedia.co/images/44256fef-013c-4246-98b2-e0ebbf3c852a/good-guy-bad-guy-video-essay-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The good-vs-evil paradigm of most pop-culture storytelling is a relatively recent effort to promote social cohesion</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why?utm_source=rss-feed\">Watch on Aeon</a></p>",
-    "isoDate": "2026-04-30T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ef51ffacc31ee038aa5a091d0703d1b8386aeed4",
-    "title": "The Ethiopian running secret",
-    "link": "https://aeon.co/essays/what-ethiopian-running-says-about-the-limits-of-human-ability?utm_source=rss-feed",
-    "summary": "<p><img alt=\"A group of runners on a road with two people observing from the side in a flat, open landscape.\" src=\"https://images.aeonmedia.co/images/09aa23e9-663b-4e05-8f19-7a97cdbc5468/essay-img_0254.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>One school of training is highly personalised, technical and data-driven. The other is the one that wins marathons</p><p><em>- by Michael Crawley & Geoff Burns</em></p><p><a href=\"https://aeon.co/essays/what-ethiopian-running-says-about-the-limits-of-human-ability?utm_source=rss-feed\">Read on Aeon</a></p>",
-    "isoDate": "2026-04-30T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Michael Crawley & Geoff Burns",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
