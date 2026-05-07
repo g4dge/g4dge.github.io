@@ -1,5 +1,57 @@
 [
   {
+    "id": "fb6652a9398ab7d6ceeb9d22f2b60ac9e4ff3cf4",
+    "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+    "summary": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
+    "isoDate": "2026-05-07T21:35:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "Department of Homeland Security",
+      "DHS",
+      "DNA",
+      "dna database",
+      "dna samples",
+      "fbi",
+      "immigration and customs enforcement"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2238676352-500x500-1778185068.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fbcacc98b0d2f1ba978828b64bb148a85ee0b77d",
+    "title": "Fake IT workers rented laptops to Nork scammers, got prison time",
+    "link": "https://www.theregister.com/cyber-crime/2026/05/07/fake-it-workers-rented-laptops-to-nork-scammers-got-prison-time/5235342",
+    "summary": "Matthew Isaac Knoot and Erick Ntekereze Prince will each do 18 months for hosting laptops used by North Korean IT workers to remotely infiltrate US companies",
+    "isoDate": "2026-05-07T20:16:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=101422&width=800",
+    "pinned": false
+  },
+  {
+    "id": "be0e83809cc1ab2a6b4c386b19db7140d47a359f",
+    "title": "Anthropic response to 1-click pwn: Shouldn't have clicked 'ok'",
+    "link": "https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319",
+    "summary": "Security biz Adversa AI argues users of AI tools need clearer warnings",
+    "isoDate": "2026-05-07T20:03:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5235377&width=800",
+    "pinned": false
+  },
+  {
     "id": "df1c40a090667705993cc1ae10b5555faf50b7ac",
     "title": "Tesla Model Y Becomes First Vehicle to Pass NHTSA's New Safety Tests",
     "link": "https://www.notateslaapp.com/news/4107/tesla-model-y-becomes-first-vehicle-to-pass-nhtsas-new-safety-tests",
@@ -949,32 +1001,6 @@
     "pinned": false
   },
   {
-    "id": "521f931a2467a8404fe78e7ca8bf5f6071192fb7",
-    "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
-    "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
-    "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
-    "isoDate": "2026-05-06T13:32:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Lee Hutchinson",
-    "tags": [
-      "Biz & IT",
-      "Features",
-      "ANSI",
-      "bash",
-      "cli",
-      "command line",
-      "fish",
-      "fish shell",
-      "Terminal",
-      "text mode",
-      "TUI",
-      "Vim"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/terminal-hotness-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f5b1eaa6f8de4fb7b7b097301088799ef1af84d8",
     "title": "IBM tried to kill Tab navigation. Microsoft told it Bill Gates' mother wasn't interested",
     "link": "https://www.theregister.com/offbeat/2026/05/06/ibm-tried-to-kill-tab-navigation-microsoft-told-it-bill-gates-mother-wasnt-interested/5230592",
@@ -1312,36 +1338,6 @@
       "software"
     ],
     "image": "https://image.theregister.com/?imageId=5228864&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fb9d1a68f30a438fd3d39c7f69297e5d30ebc9bb",
-    "title": "DIY mystery box will wow your friends by hinting at what the ionosphere is up to",
-    "link": "https://www.theregister.com/offbeat/2026/05/05/maker-builds-diy-rf-monitor-to-aid-shortwave-listening/5222600",
-    "summary": "A rough guide to when your signal will behave, or not",
-    "isoDate": "2026-05-05T16:46:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=222566&width=800",
-    "pinned": false
-  },
-  {
-    "id": "45db370cc25c6ccb410ecee0083dc8ee3f314ca6",
-    "title": "Attackers are cashing in on fresh 'CopyFail' Linux flaw",
-    "link": "https://www.theregister.com/security/2026/05/05/copyfail-attackers-start-cashing-in-on-linux-flaw/5226930",
-    "summary": "Researchers dropped a reliable root exploit and it didn’t sit idle for long",
-    "isoDate": "2026-05-05T15:01:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5226908&width=800",
     "pinned": false
   },
   {
