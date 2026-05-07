@@ -1,5 +1,63 @@
 [
   {
+    "id": "6f85e1f06a2c59aff540ea4d0b9a156d573921c4",
+    "title": "IBM Cloud evaporates as datacenter loses power",
+    "link": "https://www.theregister.com/off-prem/2026/05/07/ibm-cloud-evaporates-as-datacenter-loses-power/5234835",
+    "summary": "Customers say services were down for at least 4 hours, while status page showed no issues",
+    "isoDate": "2026-05-07T16:04:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5228642&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5ccc225afc6ef7b227015d4d1830c1b57d54a7f4",
+    "title": "Tesla Vehicles Get a Heads-Up Display Through NeuroHUD",
+    "link": "https://www.notateslaapp.com/news/4087/tesla-vehicles-get-a-heads-up-display-through-neurohud",
+    "summary": "Discover how NeuroHUD, a new plug-and-play Kickstarter, utilizes AI and the API to bring a Heads-Up Display to the Cybertruck, Model 3, and Model Y.&hellip; <a href=\"https://www.notateslaapp.com/news/4087/tesla-vehicles-get-a-heads-up-display-through-neurohud\">Read More</a>",
+    "isoDate": "2026-05-07T15:40:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/neurohud-9.webp/6ccc0baada99c8a06d7ec2163f613ce0/neurohud-9.jpg",
+    "pinned": false
+  },
+  {
+    "id": "45c6c8603203ab65241671d7ca68c3dfedf85f89",
+    "title": "$250M crypto-robbing gang’s dirty work guy sentenced to 6.5 years behind bars",
+    "link": "https://www.theregister.com/cyber-crime/2026/05/07/250m-crypto-robbing-gangs-dirty-work-guy-sentenced-to-65-years-behind-bars/5234787",
+    "summary": "The then-teen was told to break in and steal what the keyboard warriors couldn’t",
+    "isoDate": "2026-05-07T15:12:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=101297&width=800",
+    "pinned": false
+  },
+  {
+    "id": "86d71aa65152eb0648383b9b6ef2ae8c95608f7b",
+    "title": "TomTom’s route planner takes an unplanned detour into oblivion",
+    "link": "https://www.theregister.com/personal-tech/2026/05/07/tomtoms-route-planner-takes-an-unplanned-detour-into-oblivion/5234813",
+    "summary": "Users report disappearing favorites, blank route planners, and cloud sync failures amid outage",
+    "isoDate": "2026-05-07T14:49:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5234848&width=800",
+    "pinned": false
+  },
+  {
     "id": "21cc060d12fe62b8682a2308f6189afd34d533bc",
     "title": "C++ survey finds AI use rising, though trust is in short supply",
     "link": "https://www.theregister.com/devops/2026/05/07/c-survey-finds-ai-use-rising-though-trust-is-in-short-supply/5234708",
@@ -1271,36 +1329,6 @@
     "pinned": false
   },
   {
-    "id": "686c2a2bc8ae2524aec1edfcd001bb4e62a6982d",
-    "title": "Bun posts Rust porting guide, says rewrite is still half-baked",
-    "link": "https://www.theregister.com/software/2026/05/05/anthrophics-bun-team-trials-port-from-zig-to-rust/5222094",
-    "summary": "Zig's no-AI policy is at odds with view that most open source code will be AI-written in future",
-    "isoDate": "2026-05-05T14:08:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5222154&width=800",
-    "pinned": false
-  },
-  {
-    "id": "848f6c65f9bb9515cbf646d02f0dbe8737b881b7",
-    "title": "Real estate giant confirms vishing incident as ShinyHunters and Qilin both come knocking",
-    "link": "https://www.theregister.com/security/2026/05/05/cushman-wakefield-confirms-vishing-cyberattack/5228718",
-    "summary": "Cushman & Wakefield activated incident response protocols after serial extortionists issued separate threats",
-    "isoDate": "2026-05-05T13:34:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=256118&width=800",
-    "pinned": false
-  },
-  {
     "id": "85953608e606da1554e1105c98d8759f716c545a",
     "title": "Tesla Adds European-Style Semi-Truck Visualizations",
     "link": "https://www.notateslaapp.com/news/4088/tesla-adds-european-style-semi-truck-visualizations",
@@ -1311,21 +1339,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla_european_semi_viz.jpg/c6fc8d7f7ff0665489c577ea27fff3b0/tesla_european_semi_viz.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f257b0f7d3603f357a62367481f4e827f8fd6aa0",
-    "title": "SAP dives deeper into Iceberg with Dremio acquisition",
-    "link": "https://www.theregister.com/software/2026/05/05/sap-dives-deeper-into-iceberg-with-dremio-acquisition/5226560",
-    "summary": "ERP giant previously leaned on Databricks for integration",
-    "isoDate": "2026-05-05T13:20:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=235742&width=800",
     "pinned": false
   },
   {
@@ -1621,32 +1634,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck_35.jpg/b83d76dba0978ab458342f6a62be2223/cybertruck_35.jpg",
-    "pinned": false
-  },
-  {
-    "id": "347f9120a42338ac8e50d8f1e70dbe2e04107b69",
-    "title": "Tesla Kicks Off High-Volume Semi Production in Nevada",
-    "link": "https://www.notateslaapp.com/news/4073/tesla-kicks-off-high-volume-semi-production-in-nevada",
-    "summary": "On Wednesday, the automaker announced that the first unit of its refreshed Semi has officially rolled off the new high-volume production line in Nevada&hellip; <a href=\"https://www.notateslaapp.com/news/4073/tesla-kicks-off-high-volume-semi-production-in-nevada\">Read More</a>",
-    "isoDate": "2026-04-30T15:50:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-mass-production-april-2026.webp/3eae611cfb4a4586855cbdec03aae547/tesla-semi-mass-production-april-2026.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5ce8aa5e36a75ed431333237f2aad1548c074d81",
-    "title": "How Tesla Solves for GPS Deadzones: Fixing Parking Garages and Future-Proofing For Optimus",
-    "link": "https://www.notateslaapp.com/news/4061/how-tesla-solves-for-gps-deadzones-fixing-parking-garages-and-future-proofing-for-optimus",
-    "summary": "Tesla's newly published vision-based navigation patent reveals how FSD can map and navigate complex indoor environments entirely without GPS.&hellip; <a href=\"https://www.notateslaapp.com/news/4061/how-tesla-solves-for-gps-deadzones-fixing-parking-garages-and-future-proofing-for-optimus\">Read More</a>",
-    "isoDate": "2026-04-30T15:45:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/optimus_gps-free_path_planner.png/309bc3e3236ccd6d9b7c15508631fefb/optimus_gps-free_path_planner.jpg",
     "pinned": false
   }
 ]
