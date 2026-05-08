@@ -1,5 +1,95 @@
 [
   {
+    "id": "cdb5cb59b7c10fd616db53bf8acf5e316ef65a7c",
+    "title": "GPT-5.5 may burn fewer tokens, but it always burns more cash",
+    "link": "https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498",
+    "summary": "It’s not just gas prices skyrocketing. Frontier-model pricing keeps climbing too",
+    "isoDate": "2026-05-08T21:08:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5223736&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ecd43957c1e3285253e2f895bc0c88ead20c8c2b",
+    "title": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
+    "link": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/",
+    "summary": "FCC chair hasn't been able to bully ABC and owner Disney into submission.",
+    "isoDate": "2026-05-08T21:08:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "ABC",
+      "brendan carr",
+      "FCC",
+      "The View",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-500x500-1770666955.jpg",
+    "pinned": false
+  },
+  {
+    "id": "16a2d9af2d0cbdc1f8bcb9ebdddd93d90ddf58d6",
+    "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
+    "link": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
+    "summary": "But human artists still \"must remain at the center,\" PlayStation maker says.",
+    "isoDate": "2026-05-08T20:51:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Gaming",
+      "coding",
+      "game development",
+      "LLM",
+      "PlayStation",
+      "Sony",
+      "vibe coding"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264634340-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f9422994b6c1bf8f3aee1e284264ab01bd935127",
+    "title": "The unprecedented and deadly cruise ship hantavirus outbreak, explained",
+    "link": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/",
+    "summary": "\"This is not COVID,\" and other reasons why risk to the public is currently low.",
+    "isoDate": "2026-05-08T20:42:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Features",
+      "Health",
+      "hantavirus",
+      "virus"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2274223105-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "46849e99f3cd1d2494b0ac8c48c8c9d9898734a1",
+    "title": "Tech is now rolling out the old grievance grift",
+    "link": "https://www.theregister.com/cxo/2026/05/08/tech-is-now-rolling-out-the-old-grievance-grift/5237475",
+    "summary": "Not just for hated US Presidents, now even tech bros lament their foes",
+    "isoDate": "2026-05-08T20:02:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cxo"
+    ],
+    "image": "https://image.theregister.com/?imageId=5237495&width=800",
+    "pinned": false
+  },
+  {
     "id": "bb2ec84744a130b1db60804e4675a2710609adfe",
     "title": "Course correction: Google to link more sources in AI Overviews",
     "link": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
@@ -223,7 +313,6 @@
     "author": "Andrew Cunningham",
     "tags": [
       "Apple",
-      "Features",
       "Tech",
       "apple",
       "iMac",
@@ -945,26 +1034,6 @@
     "pinned": false
   },
   {
-    "id": "baadfd77c02b64120fa2c41cd373b1221fbe3900",
-    "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
-    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
-    "summary": "Musk was “prepared to do the for-profit, provided he would get control.”",
-    "isoDate": "2026-05-07T13:14:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "George Hammond, Financial Times",
-    "tags": [
-      "AI",
-      "Policy",
-      "Elon Musk",
-      "openai",
-      "openai sam altman",
-      "sam altman"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/getty-musk-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "14a3c5a60061f2354db0f3388e7a920dc55a761d",
     "title": "AMD puts out new slottable GPU for AI-curious enterprises",
     "link": "https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481",
@@ -990,24 +1059,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-wraps-giga-texas-may-2026-1.webp/7e5a427efce1de7b1010183a59346e0d/model-y-l-wraps-giga-texas-may-2026-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1208a0bb82516c5c80feaa691d237ef2205892bd",
-    "title": "Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.",
-    "link": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/",
-    "summary": "Nordschleife-specialist Manthey has developed an upgrade package for the Porsche EV.",
-    "isoDate": "2026-05-07T12:00:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Nordschleife",
-      "Nurburgring",
-      "Porsche Taycan"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/MH10574__2_A3_RGB-1-500x500.jpg",
     "pinned": false
   },
   {
@@ -1038,25 +1089,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5234572&width=800",
-    "pinned": false
-  },
-  {
-    "id": "aacb07173d8450319bc21a0e03ccdcf0bae19d68",
-    "title": "Former NASA chief takes helm of national security space firm",
-    "link": "https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/",
-    "summary": "\"The spacecraft can also be refueled, and it can refuel others.\"",
-    "isoDate": "2026-05-07T11:00:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "jim bridenstine",
-      "quantum space",
-      "ranger",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/rendering-1-500x500.png",
     "pinned": false
   },
   {
@@ -1347,36 +1379,6 @@
       "site news"
     ],
     "image": "https://image.theregister.com/?imageId=5231101&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4ebaf83fc9182473be4cbc1aa4fc9ee56929dcd4",
-    "title": "DRAM drought to dog AMD's chips this year",
-    "link": "https://www.theregister.com/personal-tech/2026/05/06/amd-warns-rising-memory-costs-will-hit-pc-shipments/5231063",
-    "summary": "Commercial PC demand expected to cushion broader slowdown",
-    "isoDate": "2026-05-06T16:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5221143&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e2da6da30d3a08881f92c199b5dbbd4fc4ef590f",
-    "title": "Iran cybersnoops still LARPing as ransomware crooks in espionage ops",
-    "link": "https://www.theregister.com/security/2026/05/06/iran-cyberspies-larping-as-ransomware-crims-in-espionage-ops/5230993",
-    "summary": "MOIS-linked cyber outfit puts on a ransomware show to disguise the wide-open backdoor behind the scenes",
-    "isoDate": "2026-05-06T16:03:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5222295&width=800",
     "pinned": false
   },
   {
