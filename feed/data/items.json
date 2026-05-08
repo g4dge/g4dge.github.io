@@ -1,5 +1,85 @@
 [
   {
+    "id": "5675fab5f7b4323381033e62aab3530190f64eab",
+    "title": "Elon Musk faces criminal probe in France after ignoring summons in X case",
+    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-faces-criminal-probe-in-france-after-ignoring-summons-in-x-case/",
+    "summary": "France threatens criminal charges if Musk doesn't appear for questioning.",
+    "isoDate": "2026-05-08T17:32:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Elon Musk",
+      "X"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8dbbd57f8e9e1837d3984f2240b70780ea696687",
+    "title": "Worm rubs out competitor's malware, then takes control",
+    "link": "https://www.theregister.com/security/2026/05/08/worm-rubs-out-competitors-malware-then-takes-control/5237389",
+    "summary": "All your compromised credentials are belong to us now instead of the other gang",
+    "isoDate": "2026-05-08T17:26:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5237442&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3ec78cd865e9d3677541ea9f4c5fa5e7460be9b8",
+    "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
+    "link": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+    "summary": "You can stop Chrome from taking up 4GB of storage for local AI, but that shouldn't be your problem.",
+    "isoDate": "2026-05-08T17:17:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "chrome",
+      "gemini nano",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/sprinkle-some-ai-on-it-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1ba5161c0dac687a2d85e907d69302451be5e63e",
+    "title": "Disgraced US gov software contractor found guilty of database destruction",
+    "link": "https://www.theregister.com/cyber-crime/2026/05/08/former-us-contractor-convicted-in-federal-database-wipe-case/5237296",
+    "summary": "Twin brother still faces trial over broader cybercrime allegations",
+    "isoDate": "2026-05-08T17:10:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=101297&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9328de97046c929431f2ce1af3d702dab3b19a14",
+    "title": "A High-Res Look at Tesla's New Pet Mode Avatars [VIDEO]",
+    "link": "https://www.notateslaapp.com/news/4112/a-high-res-look-at-teslas-new-pet-mode-avatars-video",
+    "summary": "In a move that acknowledges not every Tesla owner is a 'dog person,' the automaker rebranded its iconic Dog Mode to Pet Mode in the Spring 2026 Software Update&hellip; <a href=\"https://www.notateslaapp.com/news/4112/a-high-res-look-at-teslas-new-pet-mode-avatars-video\">Read More</a>",
+    "isoDate": "2026-05-08T16:50:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/dog-mode-hedgehog-avatar.webp/3e4d6ce1692416919d7a150e93fa2777/dog-mode-hedgehog-avatar.jpg",
+    "pinned": false
+  },
+  {
     "id": "20bfd4371d96daea2ec260f2a9e1b3dc0f7ddd65",
     "title": "SpaceX Rolls Starship V3 to Launch Pad As Booster Completes Static Fire",
     "link": "https://www.notateslaapp.com/news/4110/spacex-static-fires-booster-19-as-ship-39-rolls-to-the-pad",
@@ -1121,46 +1201,6 @@
     "pinned": false
   },
   {
-    "id": "f863c060002f9bf67d9eb8dbe57fc8e0f75c6674",
-    "title": "Court strikes down FCC anti-discrimination rule opposed by Internet providers",
-    "link": "https://arstechnica.com/tech-policy/2026/05/court-strikes-down-fcc-anti-discrimination-rule-opposed-by-internet-providers/",
-    "summary": "Chairman Brendan Carr celebrates FCC court loss in case over Biden-era rule.",
-    "isoDate": "2026-05-06T21:33:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "FCC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-500x500-1753478304.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2213198ae792cd6549a727f15a43293985356bd5",
-    "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
-    "link": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
-    "summary": "Trump forced to admit Biden was right on AI safety testing.",
-    "isoDate": "2026-05-06T21:20:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ai action plan",
-      "AI safety",
-      "Donald Trump",
-      "frontier ai",
-      "google",
-      "google deepmind",
-      "microsoft",
-      "xAI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194583448-500x500-1778099315.jpg",
-    "pinned": false
-  },
-  {
     "id": "2e74e81605222474857dab6008f6ea3d5d8f1d44",
     "title": "Young evil genius forces hamster to run on wheel to power his gadgets",
     "link": "https://www.theregister.com/offbeat/2026/05/06/youtuber-turns-hamster-wheel-into-phone-charger/5231293",
@@ -1322,21 +1362,6 @@
     "pinned": false
   },
   {
-    "id": "62c3a4ffc764a7ac3dc27d0587af65c797d9b5ac",
-    "title": "AI layoffs backfire as cutting staff doesn't cut it, firms warned",
-    "link": "https://www.theregister.com/ai-and-ml/2026/05/06/ai-layoffs-backfire-as-cutting-staff-doesnt-cut-it-firms-warned/5230631",
-    "summary": "Replacing meatbags with failure prone agents isn't the gold mine some CEOs hoped for",
-    "isoDate": "2026-05-06T14:59:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5231052&width=800",
-    "pinned": false
-  },
-  {
     "id": "f71c4ed7ce73854522c2f445410f64d0147bd105",
     "title": "Tesla Sales Up in Europe With Several Countries Doubling Sales",
     "link": "https://www.notateslaapp.com/news/4096/teslas-european-sales-rebound",
@@ -1360,21 +1385,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/improve-vehicle-vis-2.webp/a3686df1e55a4ef45e7f2263f82b509a/improve-vehicle-vis-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c360f7458cd9d84f1338b2fb5d6c6c517cdeeecb",
-    "title": "Ruby inventor Matz working on native compiler with AI help",
-    "link": "https://www.theregister.com/devops/2026/05/06/ruby-inventor-matz-working-on-native-compiler-with-ai-help/5230532",
-    "summary": "Matz gets together with Anthropic's Claude to create an experimental ahead-of-time compiler for Ruby – though with many limitations",
-    "isoDate": "2026-05-06T13:49:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=1618980&width=800",
     "pinned": false
   },
   {
