@@ -1,7 +1,53 @@
 [
   {
+    "id": "4c2c0cee902087a467be9bdca5989f0e6f807824",
+    "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
+    "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+    "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
+    "isoDate": "2026-05-11T22:01:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Audi Q9"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A260907_large-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "27fceef97f2e44bf734237e45b90d9bfcf20bf3c",
+    "title": "Rodent-obsessed developer creates Ratty to bring 3D graphics to the command line",
+    "link": "https://www.theregister.com/software/2026/05/11/ratty-terminal-emulator-brings-3d-graphics-to-the-command-line/5238299",
+    "summary": "Inspired by TempleOS, this terminal emulator is just about as bonkers",
+    "isoDate": "2026-05-11T20:54:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5238345&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f0795b233f74f1d24d3e1b17ab67775a27e5bb81",
+    "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
+    "link": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
+    "summary": "An intern who failed this much would be shown the door",
+    "isoDate": "2026-05-11T20:50:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5238321&width=800",
+    "pinned": false
+  },
+  {
     "id": "720614399dba20bde42d5fd6d5c83779f4a73d44",
-    "title": "FCC slightly relaxes foreign router ban, allows software updates until 2029",
+    "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
     "link": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
     "summary": "FCC extends waiver allowing routers and drones to get patches for two more years.",
     "isoDate": "2026-05-11T20:48:33Z",
@@ -33,6 +79,21 @@
       "data center"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2191236730-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "471757cea54ba2c735b897fac19617a17179e801",
+    "title": "Cookie thieves caught stealing dev secrets via fake Claude Code installers",
+    "link": "https://www.theregister.com/security/2026/05/11/cookie-thieves-caught-stealing-dev-secrets/5238248",
+    "summary": "New IElevator2 COM interface? No problem",
+    "isoDate": "2026-05-11T20:21:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5238330&width=800",
     "pinned": false
   },
   {
@@ -949,28 +1010,6 @@
     "pinned": false
   },
   {
-    "id": "acaf0ae76c9a64f5bc47704bd803fc530a344ed1",
-    "title": "Court rules Trump's 10% tariff is just as illegal as the tariff it replaced",
-    "link": "https://arstechnica.com/tech-policy/2026/05/trumps-10-global-tariff-is-illegal-court-rules/",
-    "summary": "Trump's vow to impose tariffs a \"different way\" already has the tech industry on edge.",
-    "isoDate": "2026-05-08T19:25:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "Amazon",
-      "apple",
-      "Donald Trump",
-      "ieepa tariffs",
-      "section 301",
-      "tariff refunds",
-      "tariffs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2262155843-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8dbbd57f8e9e1837d3984f2240b70780ea696687",
     "title": "Worm rubs out competitor's malware, then takes control",
     "link": "https://www.theregister.com/security/2026/05/08/worm-rubs-out-competitors-malware-then-takes-control/5237389",
@@ -1244,9 +1283,9 @@
     "pinned": false
   },
   {
-    "id": "4392e12dc2255ab69ee4110ca9d966221dbb175a",
-    "title": "BOFH: Nothing says 'business continuity' like a dry wooden broom",
-    "link": "https://www.theregister.com/bofh/2026/05/08/bofh-nothing-says-business-continuity-like-a-dry-wooden-broom/5235610",
+    "id": "680ab8adc7c92b5d306d0f02c0ffc65759eba9d9",
+    "title": "Nothing says 'business continuity' like a dry wooden broom",
+    "link": "https://www.theregister.com/bofh/2026/05/08/nothing-says-business-continuity-like-a-dry-wooden-broom/5235610",
     "summary": "No sparks, no glory",
     "isoDate": "2026-05-08T09:49:49Z",
     "source": "The Register",
@@ -1331,51 +1370,6 @@
       "off-prem"
     ],
     "image": "https://image.theregister.com/?imageId=5235556&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a7e2936f9b3f2662703c8904ba9ca48b13866153",
-    "title": "AWS warns of EC2 'impairment' as power loss hits notorious US-EAST-1 region",
-    "link": "https://www.theregister.com/off-prem/2026/05/08/aws-warns-of-ec2-impairment-as-power-loss-hits-notorious-us-east-1-region/5235509",
-    "summary": "Extra aircon found to cool overheating datacenter as users complain their resources are... nowhere",
-    "isoDate": "2026-05-08T02:33:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5234756&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f3a57b6f32c9d52ae64517d4fda9409a2328782c",
-    "title": "HPE drops first Juniper x Aruba collab – self-driving Wi-Fi",
-    "link": "https://www.theregister.com/networks/2026/05/08/hpe-drops-first-juniper-x-aruba-collab-self-driving-wi-fi/5235463",
-    "summary": "NetAdmins can stay in the loop while they learn to trust AI to tackle some scutwork",
-    "isoDate": "2026-05-08T02:00:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5220683&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7d3c64f5606fa08dd5cb18e1a74d05421e0243c9",
-    "title": "Mozilla boasts Mythos boosted Firefox bug cull",
-    "link": "https://www.theregister.com/security/2026/05/08/mozilla-says-ai-helped-squash-423-firefox-security-bugs/5235438",
-    "summary": "Yet it remains unclear if Anthropic's uber model was effective, or if better model middleware is what makes the difference",
-    "isoDate": "2026-05-07T23:32:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5224549&width=800",
     "pinned": false
   },
   {
