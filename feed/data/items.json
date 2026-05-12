@@ -1,5 +1,40 @@
 [
   {
+    "id": "0f314ac9de083d8df4f6231988f3bbd6deed2b0a",
+    "title": "Foxconn confirms cyberattack after ransomware crew claims it stole confidential Apple, Nvidia files",
+    "link": "https://www.theregister.com/cyber-crime/2026/05/12/foxconn-confirms-cyberattack-after-nitrogen-claims-apple-nvidia-data-theft/5239144",
+    "summary": "Affected factories back up and running, we're told",
+    "isoDate": "2026-05-12T22:02:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5239187&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1f4cdabc7de5482b9b57a887bd0520e2f479096c",
+    "title": "The newest AI boom pitch: Host a mini data center at your home",
+    "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+    "summary": "The plan aims to speed up AI compute deployment while compensating residents.",
+    "isoDate": "2026-05-12T21:59:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "ai data centers",
+      "AI GPU",
+      "data centers",
+      "GPU",
+      "NVIDIA"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/XFRA-SPAN-Lifestyle-Brown-house-500x500.png",
+    "pinned": false
+  },
+  {
     "id": "3510af0637b36faaad611b9dd9f62ead00757ea2",
     "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
     "link": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/",
@@ -16,6 +51,36 @@
       "Trump"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2271357224-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fc4adc6ecdb4eb0f89c674eb044d0aad66ef2a4d",
+    "title": "Google launches line of Android laptops festooned with Gemini AI",
+    "link": "https://www.theregister.com/personal-tech/2026/05/12/google-launches-line-of-android-laptops-festooned-with-gemini-ai/5239091",
+    "summary": "If you're not a fan of having AI baked into your OS, look elsewhere",
+    "isoDate": "2026-05-12T21:15:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5239111&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1488b270a41793f4427ff33e3132785b8ba91278",
+    "title": "Hollywood A-listers back proposed standard that would pay them when AI uses their likeness or work",
+    "link": "https://www.theregister.com/ai-ml/2026/05/12/actors-new-spec-aims-to-defeat-attack-of-the-ai-clones/5239115",
+    "summary": "RSL Media expands machine-readable licensing rules to cover AI use of identities and creative works",
+    "isoDate": "2026-05-12T20:57:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5239184&width=800",
     "pinned": false
   },
   {
@@ -1007,24 +1072,6 @@
     "pinned": false
   },
   {
-    "id": "45217086798ec17b28bea8914d1cf4f60fd91564",
-    "title": "A promising Indian launch startup nears its first orbital test flight",
-    "link": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
-    "summary": "\"We wanted to get to an orbital launch vehicle in a few years.\"",
-    "isoDate": "2026-05-11T13:53:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "india",
-      "launch",
-      "skyroot"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1449559103-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6ed2d2d36599b594cf391a3005b2c62c3b151114",
     "title": "Google says criminals used AI-built zero-day in planned mass hack spree",
     "link": "https://www.theregister.com/ai-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982",
@@ -1317,36 +1364,6 @@
     "pinned": false
   },
   {
-    "id": "cdcb82c4483db131d82643e0a06f4f61028044cd",
-    "title": "Both Fedora and Ubuntu will get AI support – soon",
-    "link": "https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409",
-    "summary": "Furores are fermenting in the forums",
-    "isoDate": "2026-05-10T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "oses"
-    ],
-    "image": "https://image.theregister.com/?imageId=5237447&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fad8a7e0d401486011ba48357bc4fd0595481bf2",
-    "title": "HP stuffed a PC into a keyboard. We took it for a spin",
-    "link": "https://www.theregister.com/personal-tech/2026/05/10/hp-eliteboard-g1a-puts-a-pc-inside-a-keyboard/5235258",
-    "summary": "It's not much cheaper than an equivalent laptop, so who's this for, exactly?",
-    "isoDate": "2026-05-10T09:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5235270&width=800",
-    "pinned": false
-  },
-  {
     "id": "c556ecc6599f5ca26b33bbf4222b7d2dff5185d5",
     "title": "Tesla Vision Can Deploy Airbags Before You Even Hit Anything",
     "link": "https://www.notateslaapp.com/news/4117/tesla-vision-can-deploy-airbags-before-you-even-hit-anything",
@@ -1357,21 +1374,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-vision-crash-detection-airbags-4.webp/eb278b52796b80bd2eabd88cc2d3f744/tesla-vision-crash-detection-airbags-4.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ae49c0741ec928d9509f1c5fbdff919b98ee8cfd",
-    "title": "Google tweaks Chrome AI privacy wording, insists processing stays on-device",
-    "link": "https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580",
-    "summary": "Deletion of a longstanding privacy assurance sparks concerns",
-    "isoDate": "2026-05-09T17:57:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=1622689&width=800",
     "pinned": false
   },
   {
