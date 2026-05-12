@@ -1,5 +1,38 @@
 [
   {
+    "id": "a0ad82fc799f18d178834c3fee0cc40ca2c26377",
+    "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+    "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+    "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
+    "isoDate": "2026-05-12T13:33:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Rafe Rosner-Uddin, Financial Times",
+    "tags": [
+      "AI",
+      "Amazon",
+      "syndication",
+      "tokens"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-amazon-warehouse-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f148fb9907e0bbc45aa32c9ed8509c439b74f5bd",
+    "title": "Frontier AI safety tests may be creating the very risks they're meant to stop",
+    "link": "https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734",
+    "summary": "Think tank warns outsider access to powerful models is governed by patchy controls and a hope nobody dangerous gets in",
+    "isoDate": "2026-05-12T12:56:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=4093112&width=800",
+    "pinned": false
+  },
+  {
     "id": "035cd1b31b6def81c345ffad096195a9faf0388d",
     "title": "Cache-poisoning caper turns TanStack npm packages toxic",
     "link": "https://www.theregister.com/cyber-crime/2026/05/12/cache-poisoning-caper-turns-tanstack-npm-packages-toxic/5238650",
@@ -226,6 +259,19 @@
     "pinned": false
   },
   {
+    "id": "5c3103211dba3260a669db0226f290574ad80e50",
+    "title": "Former Tesla CFO Deepak Ahuja Joins Redwood Materials",
+    "link": "https://www.notateslaapp.com/news/4127/former-tesla-cfo-deepak-ahuja-joins-redwood-materials",
+    "summary": "Former lTesla CFO Deepak Ahuja has joined JB Straubel at Redwood Materials; two of Tesla's original executive leaders scale the battery supply chain.&hellip; <a href=\"https://www.notateslaapp.com/news/4127/former-tesla-cfo-deepak-ahuja-joins-redwood-materials\">Read More</a>",
+    "isoDate": "2026-05-12T04:01:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ahuja.png/e9a96bdfb054074d38f5d8e9f5df3f9e/ahuja.jpg",
+    "pinned": false
+  },
+  {
     "id": "b22a37a216cfb68a558f5e2169db6c1969554241",
     "title": "GitLab promises a different kind of layoff as biz pivots toward AI",
     "link": "https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422",
@@ -369,7 +415,7 @@
   },
   {
     "id": "5035c10e4c2dc8764aac9c8b783da84e325f9d79",
-    "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+    "title": "Data center guzzled 30 million gallons of water, and nobody noticed for months",
     "link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
     "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.",
     "isoDate": "2026-05-11T20:37:00Z",
@@ -952,7 +998,7 @@
     "id": "7120761e1f529809f6ffb78c5f0ff21342f34297",
     "title": "Yes, local LLMs are ready to ease the compute strain",
     "link": "https://www.theregister.com/ai-and-ml/2026/05/11/yes-local-llms-are-ready-to-ease-the-compute-strain/5237451",
-    "summary": "Anthropic might be thinking about space to ease its computing burden, but Claude Code on your laptop is way more practical",
+    "summary": "In The Register's Kettle podcast we discuss how Anthropic might be thinking about space to ease computing pain, but Claude Code on your laptop is way more practical",
     "isoDate": "2026-05-10T23:00:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -1240,28 +1286,6 @@
     "pinned": false
   },
   {
-    "id": "16a2d9af2d0cbdc1f8bcb9ebdddd93d90ddf58d6",
-    "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
-    "link": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
-    "summary": "But human artists still \"must remain at the center,\" PlayStation maker says.",
-    "isoDate": "2026-05-08T20:51:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Gaming",
-      "coding",
-      "game development",
-      "LLM",
-      "PlayStation",
-      "Sony",
-      "vibe coding"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264634340-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "46849e99f3cd1d2494b0ac8c48c8c9d9898734a1",
     "title": "Tech is now rolling out the old grievance grift",
     "link": "https://www.theregister.com/cxo/2026/05/08/tech-is-now-rolling-out-the-old-grievance-grift/5237475",
@@ -1330,21 +1354,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/starship-v3.webp/87734cc6bcd0aea5b95297031a570bf2/starship-v3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fc8eab75f75f044a62e102fe697b0a821d76b255",
-    "title": "Iran war hits datacenter building supply chains, upping costs",
-    "link": "https://www.theregister.com/on-prem/2026/05/08/iran-war-disrupts-datacenter-construction-supply-chains-raises-material-costs/5235852",
-    "summary": "BCS says builders face up to 20% material hikes and patchy deliveries",
-    "isoDate": "2026-05-08T15:56:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5225242&width=800",
     "pinned": false
   },
   {
@@ -1625,32 +1634,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/smart-charging-wall-connector.webp/1d9e5df077deb2ae12ae70dbd6c15399/smart-charging-wall-connector.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5deba0992bcd293bc840077566bd76d637a5c7f9",
-    "title": "Tesla Sees Another Large Order Placed for Tesla Semi",
-    "link": "https://www.notateslaapp.com/news/4085/the-tco-tipping-point-the-tesla-semi-is-undercutting-diesel-in-california",
-    "summary": "Forum Mobility's 40-unit Tesla Semi order proves that the total cost of ownership for electric freight is now permanently undercutting traditional diesel.&hellip; <a href=\"https://www.notateslaapp.com/news/4085/the-tco-tipping-point-the-tesla-semi-is-undercutting-diesel-in-california\">Read More</a>",
-    "isoDate": "2026-05-05T14:29:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/semi_81-1777040116.webp/c3b49650c8361a44f9a99f942366e048/semi_81-1777040116.jpg",
-    "pinned": false
-  },
-  {
-    "id": "85953608e606da1554e1105c98d8759f716c545a",
-    "title": "Tesla Adds European-Style Semi-Truck Visualizations",
-    "link": "https://www.notateslaapp.com/news/4088/tesla-adds-european-style-semi-truck-visualizations",
-    "summary": "Tesla has activated localized European semi-truck visualizations, proving that user interface updates are strictly dictated by FSD neural network confidence.&hellip; <a href=\"https://www.notateslaapp.com/news/4088/tesla-adds-european-style-semi-truck-visualizations\">Read More</a>",
-    "isoDate": "2026-05-05T13:26:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla_european_semi_viz.jpg/c6fc8d7f7ff0665489c577ea27fff3b0/tesla_european_semi_viz.jpg",
     "pinned": false
   }
 ]
