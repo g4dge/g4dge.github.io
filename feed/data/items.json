@@ -1,9 +1,54 @@
 [
   {
+    "id": "b22a37a216cfb68a558f5e2169db6c1969554241",
+    "title": "GitLab promises a different kind of layoff as biz pivots toward AI",
+    "link": "https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422",
+    "summary": "Code hosting biz is trimming its global footprint and flattening its management layer",
+    "isoDate": "2026-05-12T01:58:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5238106&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d98121dff7de36d21cba7307f2be850ee7e55e77",
+    "title": "Red Hat blasts RHEL 10.1 into orbit aboard Voyager's micro datacenter",
+    "link": "https://www.theregister.com/off-prem/2026/05/12/red-hat-gives-rhel-101-the-boot-into-orbit/5238373",
+    "summary": "Orbital compute platform, which launched on a mission to the ISS last year, gets an immutable upgrade alongside refreshed container images",
+    "isoDate": "2026-05-12T00:14:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5238398&width=800",
+    "pinned": false
+  },
+  {
+    "id": "66d577a865bbc47e0978796acaff24f16c019387",
+    "title": "Quit VMware and you’ll emerge with more complex and less capable infrastructure",
+    "link": "https://www.theregister.com/virtualization/2026/05/12/quit-vmware-and-youll-emerge-with-more-complex-and-less-capable-infrastructure/5238442",
+    "summary": "Analyst says modernizing applications is probably a better use of your time than hypervisor migration",
+    "isoDate": "2026-05-11T23:59:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=5229528&width=800",
+    "pinned": false
+  },
+  {
     "id": "76835e1aed39a53d9ff8e081782bfa95e983b2cb",
     "title": "Double Canvas breach acknowledged as ShinyHunters sets new pay-or-leak deadline",
     "link": "https://www.theregister.com/security/2026/05/12/double-canvas-intrusion-confirmed-as-shinyhunters-resets-leak-deadline/5238361",
-    "summary": "May 12 … time is ticking for nearly 9,000 schools",
+    "summary": "UPDATED: Sorry, kids, everything's back up so get to work on your new assignment - An essay on the ethics of paying ransoms, because it looks like that's what happened here",
     "isoDate": "2026-05-11T23:16:25Z",
     "source": "The Register",
     "category": "Tech",
@@ -1312,21 +1357,6 @@
     "pinned": false
   },
   {
-    "id": "e3fd628ad3de3f627944cb7acd1544c9d3dd095f",
-    "title": "Lego throws its own Hail Mary",
-    "link": "https://www.theregister.com/offbeat/2026/05/08/lego-throws-its-own-hail-mary/5230873",
-    "summary": "Movie-inspired set ticks the clever Technic box, but at a price",
-    "isoDate": "2026-05-08T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5234482&width=800",
-    "pinned": false
-  },
-  {
     "id": "e4ad88159604e5959adc27c0681c313e20c27d37",
     "title": "Richard Dawkins and AI: the lights are on, but nobody’s home",
     "link": "https://www.skeptic.org.uk/2026/05/richard-dawkins-and-ai-the-lights-are-on-but-nobodys-home/",
@@ -1339,36 +1369,6 @@
       "Technology"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9427b96f7eab6a95d879cff2c06de351cc49d1a3",
-    "title": "Bus station display takes the Windows 10 road to nowhere",
-    "link": "https://www.theregister.com/offbeat/2026/05/08/bus-station-display-takes-the-windows-10-road-to-nowhere/5231669",
-    "summary": "Spikes deter pigeons, but Microsoft still managed to foul the screen",
-    "isoDate": "2026-05-08T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5234481&width=800",
-    "pinned": false
-  },
-  {
-    "id": "58d3392d54f1dfe6379445eb1cdad2beab52bba3",
-    "title": "Custom PC worked in the lab, failed on site – and so did the angry client",
-    "link": "https://www.theregister.com/on-prem/2026/05/08/custom-pc-worked-in-the-lab-failed-on-site-and-so-did-the-angry-client-1/5232357",
-    "summary": "It's amazing what happens when you plug everything in",
-    "isoDate": "2026-05-08T07:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5234493&width=800",
     "pinned": false
   },
   {
