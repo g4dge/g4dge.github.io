@@ -1,5 +1,80 @@
 [
   {
+    "id": "f0e09331b61957429034ebf87244f02be5a222d7",
+    "title": "AI will soon be capable of telling convincing lies",
+    "link": "https://www.theregister.com/ai-ml/2026/05/13/ai-will-soon-be-capable-of-telling-convincing-lies/5239349",
+    "summary": "That's fine when playing poker, but less useful when we trust LLMs with serious work like finding software flaws",
+    "isoDate": "2026-05-13T07:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5239371&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b4276b590b80c275cde134b38b8006a68057225d",
+    "title": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub",
+    "link": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319",
+    "summary": "Where it’s been well and truly forked, seemingly without Microsoft’s code locker noticing",
+    "isoDate": "2026-05-13T06:23:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=109601&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bf15454599fada6f8c0fafe51e8b4437848bc483",
+    "title": "Man jailed for packing printer with something more expensive than toner: Cocaine",
+    "link": "https://www.theregister.com/offbeat/2026/05/13/man-jailed-for-packing-printer-with-something-more-expensive-than-toner-cocaine/5239293",
+    "summary": "Class A drugs loaded instead of A4",
+    "isoDate": "2026-05-13T05:22:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5239315&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b364cce4e61670663c12dc4c2defa156495feb74",
+    "title": "Vietnam to develop domestic cloud so it can ditch risky overseas operators for government workloads",
+    "link": "https://www.theregister.com/public-sector/2026/05/13/vietnam-to-develop-domestic-cloud-so-it-can-ditch-risky-overseas-operators-for-government-workloads/5239269",
+    "summary": "Communist government plans personalized ‘data-driven decision-making based on real-time information’ by 2035",
+    "isoDate": "2026-05-13T03:44:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5239288&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d572b6b9e3e5d22a5f2ace83d0238b6ad36d0ea0",
+    "title": "Execs admit AI makes them value human workers less",
+    "link": "https://www.theregister.com/ai-ml/2026/05/13/execs-admit-ai-makes-them-value-human-workers-less/5239201",
+    "summary": "As suits say they're burning cash on brainboxes without seeing results",
+    "isoDate": "2026-05-13T02:26:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=275411&width=800",
+    "pinned": false
+  },
+  {
     "id": "f2a5a666ba65b317076e4407282a5123f3b2e4d7",
     "title": "Doozy of a Patch Tuesday includes 30 critical Microsoft CVEs",
     "link": "https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224",
@@ -1261,21 +1336,6 @@
     "pinned": false
   },
   {
-    "id": "a330b3aacc25d34909d88309bd2c5fde7dc4bdc4",
-    "title": "The latest innovation in UK public transport: Schrödinger's trains",
-    "link": "https://www.theregister.com/offbeat/2026/05/11/the-latest-innovation-in-uk-public-transport-schroedingers-trains/5237362",
-    "summary": "Who knows what is going where. Might as well have a lovely beer instead.",
-    "isoDate": "2026-05-11T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5237377&width=800",
-    "pinned": false
-  },
-  {
     "id": "f77d7f320c45c1050e554be8bcc2a227fdf54208",
     "title": "How a very wrong Royal horoscope put astrology on the map in Britain",
     "link": "https://www.skeptic.org.uk/2026/05/how-a-very-wrong-royal-horoscope-put-astrology-on-the-map-in-britain/",
@@ -1288,66 +1348,6 @@
       "Astrology"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "31a3470bdc9ff150c31f2cd6d218002405641d46",
-    "title": "Taiwan's train cyber-trauma reveals a global system that’s coming off the tracks",
-    "link": "https://www.theregister.com/security/2026/05/11/taiwans-train-cyber-trauma-reveals-a-global-system-thats-coming-off-the-tracks/5237248",
-    "summary": "That’s not a radio. THIS is a radio",
-    "isoDate": "2026-05-11T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5237307&width=800",
-    "pinned": false
-  },
-  {
-    "id": "99b8578bb04262fae43cef82bcd0ecf4bd285252",
-    "title": "Lab worker built a fake PC to nuke his lunch",
-    "link": "https://www.theregister.com/personal-tech/2026/05/11/lab-worker-built-a-fake-pc-to-nuke-his-lunch/5235416",
-    "summary": "The office sink is always a horror. Managers worried this one glowed",
-    "isoDate": "2026-05-11T07:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5235591&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1b867457394facd8f279b1f2a241aa9209283143",
-    "title": "Sovereign cloud is only possible if you’re Chinese or American: Gartner",
-    "link": "https://www.theregister.com/off-prem/2026/05/11/sovereign-cloud-is-only-possible-if-youre-chinese-or-american-gartner/5237660",
-    "summary": "Which is awkward for European orgs who fear US clouds might leave the continent",
-    "isoDate": "2026-05-11T05:31:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5219655&width=800",
-    "pinned": false
-  },
-  {
-    "id": "df2e2628d5e1955787acc22b11a21ce7dce858a7",
-    "title": "ASIA IN BRIEF: China’s agentic AI policy wants to keep humans in the loop",
-    "link": "https://www.theregister.com/ai-and-ml/2026/05/11/asia-in-brief-chinas-agentic-ai-policy-wants-to-keep-humans-in-the-loop/5237632",
-    "summary": "PLUS: Robot becomes Buddhist monk in Korea; TikTok spending $25bn in Thailand; Baidu floating chip biz; and more!",
-    "isoDate": "2026-05-11T00:49:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5220523&width=800",
     "pinned": false
   },
   {
