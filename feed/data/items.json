@@ -1,5 +1,27 @@
 [
   {
+    "id": "49a8fae10ee301fe03b3f0e41ac6d97192a98dfa",
+    "title": "Men use \"vocal fry\" more than women, counter to stereotype",
+    "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
+    "summary": "Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"",
+    "isoDate": "2026-05-14T21:32:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "acoustics",
+      "gender bias",
+      "Linguistics",
+      "sociolinguistics",
+      "sociology",
+      "vocal fry",
+      "vocalizations"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vocalfry1-1-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "90c9a9a74063a906da48edcff8f0e903830b2ae7",
     "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
     "link": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
@@ -15,6 +37,36 @@
       "US government"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2236514491-500x500-1778791371.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bcc37c8b04e11a81190efe86d2632ff0c982d16d",
+    "title": "Sick and wrong: Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "summary": "60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say",
+    "isoDate": "2026-05-14T20:50:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240796&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0ea69f8394c6e56119b938e2452878bdb1ee5b1c",
+    "title": "Anthropic tosses agents into the API billing pool",
+    "link": "https://www.theregister.com/ai-ml/2026/05/14/anthropic-tosses-agents-into-the-api-billing-pool/5240748",
+    "summary": "Limits Claude subscriptions to interactive use",
+    "isoDate": "2026-05-14T20:03:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240793&width=800",
     "pinned": false
   },
   {
@@ -867,29 +919,6 @@
     "pinned": false
   },
   {
-    "id": "cc0e6f5cb86fcfcee823d938e35b493664ee726c",
-    "title": "A new US military wargame series began by simulating a nuclear weapon in orbit",
-    "link": "https://arstechnica.com/space/2026/05/a-new-us-military-wargame-series-began-by-simulating-a-nuclear-weapon-in-orbit/",
-    "summary": "US officials have said a nuclear detonation would render portions of low-Earth orbit useless for up to a year.",
-    "isoDate": "2026-05-13T18:04:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "Commercial space",
-      "military space",
-      "Nuclear weapons",
-      "space command",
-      "space force",
-      "Stephen whiting",
-      "us space command",
-      "US Space Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/8794937-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "9897bdf65ddbea51924a8b19dfa2e1a022626857",
     "title": "Dissatisfied: Three-fourths of AI customer service rollouts are a letdown",
     "link": "https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800",
@@ -1284,36 +1313,6 @@
       "public sector"
     ],
     "image": "https://image.theregister.com/?imageId=5239288&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d572b6b9e3e5d22a5f2ace83d0238b6ad36d0ea0",
-    "title": "Execs admit AI makes them value human workers less",
-    "link": "https://www.theregister.com/ai-ml/2026/05/13/execs-admit-ai-makes-them-value-human-workers-less/5239201",
-    "summary": "As suits say they're burning cash on brainboxes without seeing results",
-    "isoDate": "2026-05-13T02:26:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=275411&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f2a5a666ba65b317076e4407282a5123f3b2e4d7",
-    "title": "Doozy of a Patch Tuesday includes 30 critical Microsoft CVEs",
-    "link": "https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224",
-    "summary": "The good news: no 0-days. The bad news: busy week ahead for Microsoft admins",
-    "isoDate": "2026-05-12T23:51:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "patches"
-    ],
-    "image": "https://image.theregister.com/?imageId=5239252&width=800",
     "pinned": false
   },
   {
