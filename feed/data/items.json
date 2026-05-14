@@ -1,5 +1,50 @@
 [
   {
+    "id": "73701cbf6173d4c9bec19c0fce570028ae473ffc",
+    "title": "Welcome to the vulnpocalypse, as vendors use AI to find bugs and patches multiply like rabbits",
+    "link": "https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027",
+    "summary": "Palo Alto Networks found and fixed 75 flaws this month, up from its usual five",
+    "isoDate": "2026-05-13T23:27:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "patches"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240107&width=800",
+    "pinned": false
+  },
+  {
+    "id": "57c86a7d5dd87013e344b24f6c50239b487f2031",
+    "title": "AWS to Quick admins: The access control didn't work, but you weren't using it anyway, so what's the problem?",
+    "link": "https://www.theregister.com/paas-and-iaas/2026/05/13/aws-patched-quick-auth-bypass-says-customers-werent-using-control/5240041",
+    "summary": "If a setting fails in the forest and nobody hears it ...",
+    "isoDate": "2026-05-13T22:56:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "paas and iaas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240076&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8cf2a0ab5095ad5b0b65f6da03ba752e6357dda2",
+    "title": "Google's AI-enabled mouse pointer understands 'this' and 'that'",
+    "link": "https://www.theregister.com/software/2026/05/13/googles-ai-enabled-mouse-pointer-understands-this-and-that/5240005",
+    "summary": "Right-clicking could go the way of the 3.5-inch floppy at the Chocolate Factory",
+    "isoDate": "2026-05-13T22:19:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240038&width=800",
+    "pinned": false
+  },
+  {
     "id": "f57c93e85499c107314a047ac1620ff782f6b0f8",
     "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
     "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
@@ -20,6 +65,36 @@
       "US Navy"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skydweller-predawn-flight-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cf506501da3565e7f674add01a55f36bfdbcc6ae",
+    "title": "Datacenters are having fewer, but bigger failures",
+    "link": "https://www.theregister.com/on-prem/2026/05/13/datacenters-are-having-fewer-but-bigger-failures/5239951",
+    "summary": "And neither AI nor international conflict are helping",
+    "isoDate": "2026-05-13T20:48:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=101488&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4e627436fe2ca8b31dbd2496b38d09b18f282cdb",
+    "title": "Anthropic butts in to small business, promises help with payroll and other core tasks",
+    "link": "https://www.theregister.com/ai-ml/2026/05/13/anthropic-butts-in-to-small-business-promises-help-with-payroll-and-other-core-tasks/5239967",
+    "summary": "But Pro or Max biz users should know that the company may train its AI on your data",
+    "isoDate": "2026-05-13T20:48:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5223101&width=800",
     "pinned": false
   },
   {
@@ -1242,21 +1317,6 @@
     "pinned": false
   },
   {
-    "id": "e5bb47f28cee53293cb9aabd85544db025287fda",
-    "title": "FleetWave outage takes another turn. Chevin confirms crooks accessed customer data",
-    "link": "https://www.theregister.com/cyber-crime/2026/05/12/fleetwave-outage-takes-another-turn-chevin-confirms-crooks-accessed-customer-data/5238046",
-    "summary": "A month after bringing systems back online, SaaS vendor tells customers attackers potentially walked off with operational data, contact details, and payroll numbers",
-    "isoDate": "2026-05-12T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5238067&width=800",
-    "pinned": false
-  },
-  {
     "id": "76bc02dbfd619eea6620f87d20b713a95f7c963c",
     "title": "From the archives: A Test for Reincarnation",
     "link": "https://www.skeptic.org.uk/2026/05/from-the-archives-a-test-for-reincarnation/",
@@ -1269,21 +1329,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fda007ac7cbbf7743a8eb0363d0e8da1b001f522",
-    "title": "Britain pays Starlink millions despite Musk's calls to overthrow UK government",
-    "link": "https://www.theregister.com/networks/2026/05/12/britain-pays-starlink-millions-despite-musks-calls-to-overthrow-uk-government/5238122",
-    "summary": "Satellite service supports troops and Ukraine, but payments may raise eyebrows after boss's political broadsides",
-    "isoDate": "2026-05-12T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5238177&width=800",
     "pinned": false
   },
   {
@@ -1300,36 +1345,6 @@
     "pinned": false
   },
   {
-    "id": "e8dfa9c659910d5b7e2fbe6ba2f8f862b188b894",
-    "title": "Japan’s PM orders cybersecurity review to stop Mythos going full CyberZilla",
-    "link": "https://www.theregister.com/security/2026/05/12/japans-pm-orders-cybersecurity-review-to-defend-against-anthropic-mythos/5238501",
-    "summary": "Fears exponential increase in attack scale and speed",
-    "isoDate": "2026-05-12T05:40:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5238519&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4a76a27c3b6dfac8fcab8c065c8897704876c776",
-    "title": "Veteran network architect proposes IPv8 – to improve IPv4, not leapfrog v6",
-    "link": "https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474",
-    "summary": "Critics are not convinced this plan to add an ‘area code’ based on ASNs has much merit",
-    "isoDate": "2026-05-12T04:44:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5238497&width=800",
-    "pinned": false
-  },
-  {
     "id": "5c3103211dba3260a669db0226f290574ad80e50",
     "title": "Former Tesla CFO Deepak Ahuja Joins Redwood Materials",
     "link": "https://www.notateslaapp.com/news/4127/former-tesla-cfo-deepak-ahuja-joins-redwood-materials",
@@ -1340,21 +1355,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ahuja.png/e9a96bdfb054074d38f5d8e9f5df3f9e/ahuja.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b22a37a216cfb68a558f5e2169db6c1969554241",
-    "title": "GitLab promises a different kind of layoff as biz pivots toward AI",
-    "link": "https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422",
-    "summary": "Code hosting biz is trimming its global footprint and flattening its management layer",
-    "isoDate": "2026-05-12T01:58:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5238106&width=800",
     "pinned": false
   },
   {
@@ -1584,7 +1584,7 @@
   },
   {
     "id": "4d6f43048fae75e94b93f8c9cda0d4faa6105781",
-    "title": "The eye in your pocket",
+    "title": "The prophet in your pocket",
     "link": "https://aeon.co/essays/things-have-jobs-and-digital-devices-are-made-to-track-you",
     "summary": "<p><img alt=\"A street scene with blurry pedestrians in background and eye poster on post in foreground.\" src=\"https://images.aeonmedia.co/images/2cf389e1-6fac-4276-825e-6c2267b9e9e2/essay-gettyimages-875747400.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Things have jobs: pillows are made for comfort, scissors are sharp, and digital devices are made to track your every move</p><p><em>- by Carissa Véliz</em></p><p><a href=\"https://aeon.co/essays/things-have-jobs-and-digital-devices-are-made-to-track-you\">Read on Aeon</a></p>",
     "isoDate": "2026-05-08T10:00:00Z",
