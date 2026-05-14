@@ -1,5 +1,65 @@
 [
   {
+    "id": "4ca4fa046892abf77f2d37342059f04470a097f1",
+    "title": "To gain root access at this company, all an intruder had to do was ask nicely",
+    "link": "https://www.theregister.com/security/2026/05/14/to-gain-root-access-at-this-company-all-an-intruder-had-to-do-was-ask-nicely/5239853",
+    "summary": "Human IT managers thought they were being nice to the boss, but were assisting a threat actor",
+    "isoDate": "2026-05-14T07:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5239865&width=800",
+    "pinned": false
+  },
+  {
+    "id": "206d701265ffa2852d327a0ef13c56a96dbe2abf",
+    "title": "AI models are getting better at replacing cybersecurity pros on certain tasks",
+    "link": "https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/5240065",
+    "summary": "UK researchers find LLMs are learning to finish jobs faster and improving all the time",
+    "isoDate": "2026-05-14T06:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240104&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3c52bc7ac4b54033a63b68104003713ea8ff1bb3",
+    "title": "Tencent admits GPUs only pay for themselves when powering personalized ads",
+    "link": "https://www.theregister.com/off-prem/2026/05/14/tencent-admits-gpus-only-pay-for-themselves-when-powering-personalized-ads/5240150",
+    "summary": "Chinese web giant says accelerator shortage is over as local hardware arrives in volume",
+    "isoDate": "2026-05-14T04:40:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5222020&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c12d2fa09a79c1fc07c670deaefe6170cf0b39d6",
+    "title": "Cisco to fire 4,000 staff and generously give them free training – on Cisco",
+    "link": "https://www.theregister.com/networks/2026/05/14/cisco-to-fire-4000-staff-and-generously-give-them-free-training-on-cisco/5240125",
+    "summary": "Reducing memory requirements to control costs in a new wave of kit",
+    "isoDate": "2026-05-14T03:32:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=4092536&width=800",
+    "pinned": false
+  },
+  {
     "id": "73701cbf6173d4c9bec19c0fce570028ae473ffc",
     "title": "Welcome to the vulnpocalypse, as vendors use AI to find bugs and patches multiply like rabbits",
     "link": "https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027",
@@ -218,7 +278,7 @@
     "tags": [
       "ai + ml"
     ],
-    "image": "https://image.theregister.com/?imageId=5239935&width=800",
+    "image": "https://image.theregister.com/?imageId=5240198&width=800",
     "pinned": false
   },
   {
@@ -1244,36 +1304,6 @@
     "pinned": false
   },
   {
-    "id": "b4bff11f2f06d8b6662cc409336e3b96079ade08",
-    "title": "Microsoft makes Copilot easier to summon, harder to ignore in Office",
-    "link": "https://www.theregister.com/personal-tech/2026/05/12/microsoft-makes-copilot-easier-to-summon-harder-to-ignore-in-office/5238612",
-    "summary": "It looks like you're trying to get more Microsoft 365 users to engage with your assistant. Would you like help?",
-    "isoDate": "2026-05-12T10:59:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5230512&width=800",
-    "pinned": false
-  },
-  {
-    "id": "81fa864f552cb1659119f9cb3d0f6c9a831e321d",
-    "title": "Windows update prompt joins the Post Office queue",
-    "link": "https://www.theregister.com/offbeat/2026/05/12/windows-update-prompt-joins-the-post-office-queue/5238531",
-    "summary": "Customers left staring at restart plea with no keyboard, mouse, or hope",
-    "isoDate": "2026-05-12T10:28:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5238543&width=800",
-    "pinned": false
-  },
-  {
     "id": "5fc6d82f83987ea3336f58ab76fb1bec0351eb1c",
     "title": "Beneath our human shallows",
     "link": "https://aeon.co/essays/how-does-the-deep-earth-see-humanity",
@@ -1284,36 +1314,6 @@
     "author": "James Dinneen",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b4be8df3b66e56585c4dd6fc5ddd4460eae38f97",
-    "title": "Apple, Google drag cross-platform texting into the encrypted age",
-    "link": "https://www.theregister.com/security/2026/05/12/apple-google-drag-cross-platform-texting-into-the-encrypted-age/5238556",
-    "summary": "After years of stopping dead at the green bubble border, iPhone and Android users can finally send E2EE messages without relying on third-party apps",
-    "isoDate": "2026-05-12T09:46:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5238581&width=800",
-    "pinned": false
-  },
-  {
-    "id": "36c30daa72801405db8c5c5e65bebae8b73f8664",
-    "title": "ZTE and Claro launch next-generation 4K Ultra HD IP STB in Brazil",
-    "link": "https://www.theregister.com/networks/2026/05/12/zte-and-claro-launch-next-generation-4k-ultra-hd-ip-stb-in-brazil/5238584",
-    "summary": "Device delivers smoother streaming and simpler interaction, elevating home entertainment",
-    "isoDate": "2026-05-12T09:22:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093083&width=800",
     "pinned": false
   },
   {
@@ -1686,19 +1686,6 @@
     "author": "Kiran Kumbhar",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "59b4a1011c3b4dca9ab79ce7b942277e6c6425e4",
-    "title": "Tesla to End One-Time FSD Purchases Across Europe This Month",
-    "link": "https://www.notateslaapp.com/news/4104/tesla-to-end-one-time-fsd-purchases-across-europe-this-month",
-    "summary": "The company has confirmed that the option to purchase FSD as a one-time permanent upgrade is going away across Europe, replaced by monthly subscriptions&hellip; <a href=\"https://www.notateslaapp.com/news/4104/tesla-to-end-one-time-fsd-purchases-across-europe-this-month\">Read More</a>",
-    "isoDate": "2026-05-07T06:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-driving-hero-12.webp/c732d82e5d7045c82233c69a501fa69f/tesla-fsd-driving-hero-12.jpg",
     "pinned": false
   }
 ]
