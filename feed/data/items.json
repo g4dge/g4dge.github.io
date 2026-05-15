@@ -1,5 +1,99 @@
 [
   {
+    "id": "151472a42cccc05c3fdf037244dce9c1a39a8f81",
+    "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+    "link": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
+    "summary": "Newer AcuRite Now app lacks some features but has a subscription option.",
+    "isoDate": "2026-05-15T20:16:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "smart home",
+      "software",
+      "Weather"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/acurite-optimus-500x500-1778873429.jpg",
+    "pinned": false
+  },
+  {
+    "id": "819154f9d7c9e9c7fc57ccc417f8ddce23bbddc4",
+    "title": "AI agents show they can create exploits, not just find vulns",
+    "link": "https://www.theregister.com/ai-ml/2026/05/15/ai-agents-show-they-can-create-exploits-not-just-find-vulns/5241453",
+    "summary": "Mythos and GPT-5.5 muscle out the competition",
+    "isoDate": "2026-05-15T19:45:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5241477&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8e8626525d4bb05f827569f8558f41d100dd8f40",
+    "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
+    "link": "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/",
+    "summary": "Instead of running silent and deep, most satellites easily stand out against the blackness of space.",
+    "isoDate": "2026-05-15T19:11:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "Andromeda",
+      "china",
+      "geosynchronous orbit",
+      "gssap",
+      "military space",
+      "rg-xx",
+      "russia",
+      "space force"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/usa325_kosmos2589_vis1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5a2b42bf99ddcbcf4dd15bcb000d89e5f568607f",
+    "title": "LocalSend puts your sneakernet out of business",
+    "link": "https://www.theregister.com/personal-tech/2026/05/15/localsend-puts-your-sneakernet-out-of-business/5241407",
+    "summary": "Like AirDrop, minus the Apple lock-in",
+    "isoDate": "2026-05-15T19:10:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5241464&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5615f1ad5b6d2dd04f31d0958f391e7bd833f7ea",
+    "title": "Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths",
+    "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/",
+    "summary": "WHO learned of potential cases May 5; US CDC said it just heard about it yesterday.",
+    "isoDate": "2026-05-15T18:51:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "drc",
+      "ebola",
+      "Infectious disease",
+      "outbreak",
+      "uganda",
+      "virus",
+      "WHO"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1017727088-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "fe66125c1e48338fa83476d74dff7e0ed0809c6e",
     "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
     "link": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
@@ -714,43 +808,6 @@
     "pinned": false
   },
   {
-    "id": "45c9064a1b8715de33e4164c7a084270a4a960d2",
-    "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
-    "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
-    "summary": "Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.",
-    "isoDate": "2026-05-14T18:45:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Elon Musk",
-      "SEC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-twitter-x-500x500-1778780947.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a4ff4bc7bf51f618797d45863a42140c0f2a824d",
-    "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
-    "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-    "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
-    "isoDate": "2026-05-14T18:32:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "BitLocker",
-      "disk encryption",
-      "microsoft",
-      "vulnerabilities"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c069490a1beb2ae6b521fa923bcfa1caaca95379",
     "title": "Grad-to-be turns graduation cap into Rust-powered light show",
     "link": "https://www.theregister.com/offbeat/2026/05/14/grad-to-be-turns-graduation-cap-into-rust-powered-light-show/5240682",
@@ -763,30 +820,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=5240731&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4781ec0a4a6a9d4843d52d51564736e54e6d39e0",
-    "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
-    "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
-    "summary": "Made-up therapy referrals, incorrect prescriptions among the common mistakes.",
-    "isoDate": "2026-05-14T17:28:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Health",
-      "audit",
-      "doctor",
-      "government",
-      "medical",
-      "Ontario",
-      "scribe",
-      "summary",
-      "tools"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2171717851-500x500.jpg",
     "pinned": false
   },
   {
@@ -1273,21 +1306,6 @@
     "pinned": false
   },
   {
-    "id": "de488768a3df8aca1fabdf7dfb62c8aaccce18bf",
-    "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
-    "link": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
-    "summary": "Security pros warn YellowKey claim could make stolen laptops a much bigger problem",
-    "isoDate": "2026-05-13T16:16:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5239796&width=800",
-    "pinned": false
-  },
-  {
     "id": "85398cb116b85147558000873338bdc4e6c5d3a0",
     "title": "Tesla Automatic Software Updates Feature: When It Installs, Battery and Location Requirements",
     "link": "https://www.notateslaapp.com/news/4138/tesla-automatic-software-updates-feature-when-it-installs-battery-and-location-requirements",
@@ -1298,21 +1316,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/automatic-updates.webp/7695cb00a8b6f3a8a5fbaa4e922cd4bd/automatic-updates.jpg",
-    "pinned": false
-  },
-  {
-    "id": "646276966aab98d4cbf592a4c31a6608ce0946c5",
-    "title": "Rust stalks IBM mainframes, but only in nightly form",
-    "link": "https://www.theregister.com/on-prem/2026/05/13/rust-stalks-ibm-mainframes-but-only-in-nightly-form/5239710",
-    "summary": "Patch series would bring memory-safe code to Linux's s390 port, with compiler caveats attached",
-    "isoDate": "2026-05-13T15:21:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5239786&width=800",
     "pinned": false
   },
   {
