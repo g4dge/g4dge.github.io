@@ -1,5 +1,28 @@
 [
   {
+    "id": "b20d4d4fb8b63c8db089948ae5eb834e7a4d1c6f",
+    "title": "Russia pressures university students to become wartime drone pilots",
+    "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+    "summary": "Universities promise no frontline duty and perks if students enlist in military.",
+    "isoDate": "2026-05-15T22:19:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Policy",
+      "Tech",
+      "drone pilots",
+      "drones",
+      "military drones",
+      "Russia invasion of Ukraine",
+      "Russian Army",
+      "Ukraine invasion",
+      "Ukraine war"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Russian-drone-operator-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "ce2619f5486ba34bc4af3ad79c8659ca3b656ed8",
     "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
     "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
@@ -42,6 +65,21 @@
     "pinned": false
   },
   {
+    "id": "93de770993d339a272d2706b31a2e85842949814",
+    "title": "Google reimburses Register sources who were victims of API fraud",
+    "link": "https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429",
+    "summary": "But it's holding fast on auto-expanding customers' budgets",
+    "isoDate": "2026-05-15T21:26:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5241525&width=800",
+    "pinned": false
+  },
+  {
     "id": "f5b93adea24e4747c86d81c050b9408a0cf282ab",
     "title": "Review: Good Omens finale sticks the landing",
     "link": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
@@ -61,6 +99,21 @@
       "streaming television"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/goodomens4-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "59023f751f3a96fdcddaad7334f345bac63da947",
+    "title": "Datacenters slurping up so much juice they boosted prices 75% in largest US energy market",
+    "link": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491",
+    "summary": "BYO power for AI bit barns may be the best way to ease the problem, says energy watchdog",
+    "isoDate": "2026-05-15T21:02:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=254320&width=800",
     "pinned": false
   },
   {
@@ -101,6 +154,21 @@
       "Weather"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/acurite-optimus-500x500-1778873429.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b4b58a1cb3b8cc016166d9c0038cc2db1409ed04",
+    "title": "Git is unprepared for the AI coding tsunami",
+    "link": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+    "summary": "An influx of agents is pushing GitHub to the brink",
+    "isoDate": "2026-05-15T20:15:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5241522&width=800",
     "pinned": false
   },
   {
@@ -750,28 +818,6 @@
     "pinned": false
   },
   {
-    "id": "49a8fae10ee301fe03b3f0e41ac6d97192a98dfa",
-    "title": "Men use \"vocal fry\" more than women, counter to stereotype",
-    "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
-    "summary": "Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"",
-    "isoDate": "2026-05-14T21:32:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "acoustics",
-      "gender bias",
-      "Linguistics",
-      "sociolinguistics",
-      "sociology",
-      "vocal fry",
-      "vocalizations"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vocalfry1-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bcc37c8b04e11a81190efe86d2632ff0c982d16d",
     "title": "Sick and wrong: Ontario auditors find doctors' AI note takers routinely blow basic facts",
     "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
@@ -1255,21 +1301,6 @@
     "pinned": false
   },
   {
-    "id": "ae494a667198df4ccf941031d668ba4cc4d22595",
-    "title": "See through local AI lies with Irish eyes",
-    "link": "https://www.theregister.com/ai-ml/2026/05/13/see-through-local-ai-lies-with-irish-eyes/5239911",
-    "summary": "ICCL Enforce project offers Verity fact-checking server",
-    "isoDate": "2026-05-13T19:35:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240198&width=800",
-    "pinned": false
-  },
-  {
     "id": "646bb55fa918a30734fdedc5cd39222df510f4fb",
     "title": "Tesla Cybercab Rear-Ended in First Known Public Road Incident",
     "link": "https://www.notateslaapp.com/news/4141/tesla-cybercab-rear-ended-in-first-known-public-road-incident",
@@ -1280,36 +1311,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-first-accident.webp/bc99a7ddecf21d7ab6ca35819d1d24b0/cybercab-first-accident.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9897bdf65ddbea51924a8b19dfa2e1a022626857",
-    "title": "Dissatisfied: Three-fourths of AI customer service rollouts are a letdown",
-    "link": "https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800",
-    "summary": "AI rollback rates hit 81% at firms with mature guardrails, suggesting enterprises are struggling to manage the systems in production, says Sinch",
-    "isoDate": "2026-05-13T16:53:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5239850&width=800",
-    "pinned": false
-  },
-  {
-    "id": "da3d79758e2110d34f1856d0df98b061fcc391e8",
-    "title": "Utah mega datacenter could dump 23 atomic bombs worth of energy per day",
-    "link": "https://www.theregister.com/on-prem/2026/05/13/utah-mega-datacenter-could-dump-23-atomic-bombs-worth-of-energy-per-day/5239670",
-    "summary": "Physicist warns proposed Stratos campus could seriously affect local environment",
-    "isoDate": "2026-05-13T16:36:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5225242&width=800",
     "pinned": false
   },
   {
