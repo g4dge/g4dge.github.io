@@ -1,7 +1,141 @@
 [
   {
+    "id": "dbf460fe31893104e916c42964059e3da838c467",
+    "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
+    "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "summary": "Both tools generate hypotheses; one goes on to analyze some of the data.",
+    "isoDate": "2026-05-19T18:55:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "AI",
+      "Science",
+      "Computer science",
+      "FutureHouse",
+      "google",
+      "hypothesis",
+      "hypothesis testing",
+      "large language models",
+      "science"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2164333125-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ad53268187e1a2de0559503409ae11bcd2b5aa73",
+    "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+    "link": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+    "summary": "AI content is getting good, but SynthID might be able to help tell truth from fiction.",
+    "isoDate": "2026-05-19T18:37:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "gemini",
+      "google",
+      "openai",
+      "SynthID"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/SynthID-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0d642a600d93137d186c2166f4883c56c1a60b9c",
+    "title": "Former Tesla AI Director Andrej Karpathy Joins Anthropic",
+    "link": "https://www.notateslaapp.com/news/4171/former-tesla-ai-director-andrej-karpathy-joins-anthropic",
+    "summary": "The highly respected AI researcher, who co-founded OpenAI and spent years leading the development of Tesla FSD and Autopilot, is switching teams once again&hellip; <a href=\"https://www.notateslaapp.com/news/4171/former-tesla-ai-director-andrej-karpathy-joins-anthropic\">Read More</a>",
+    "isoDate": "2026-05-19T18:29:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2022/andrej-ai-day.jpg/5cb49e9e4087ab070986de4d4beaadf7/andrej-ai-day.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2a2d068031f7d643d4a514eeea96b7f8bfe74b07",
+    "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+    "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+    "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
+    "isoDate": "2026-05-19T18:27:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Lee Hutchinson",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "brian krebs",
+      "CISA",
+      "credentials",
+      "GitHub",
+      "krebs",
+      "krebsonsecurity",
+      "leak",
+      "security leak"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1303783356-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e4e73baeff2477c9a122480261ed22192f4f9360",
+    "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
+    "link": "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/",
+    "summary": "Charter would have expanded member eligibility and focused on alleged injuries.",
+    "isoDate": "2026-05-19T18:17:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ACIP",
+      "anti-vaccine",
+      "CDC",
+      "robert f kennedy jr",
+      "vaccine"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221902591-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f6d76fdb41a85398651c82c3a8544ab69ada1e16",
+    "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
+    "link": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
+    "summary": "Google says its more efficient Gemini 3.5 Flash is the key to your agentic AI future.",
+    "isoDate": "2026-05-19T18:11:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "gemini",
+      "gemini 3.5",
+      "google",
+      "google i/o 2026"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "89196b11d7ca338eb52006bf154167c380e8d1c8",
+    "title": "Tesla Update 2026.14 — The Undocumented Changes",
+    "link": "https://www.notateslaapp.com/news/4071/tesla-update-202614-the-undocumented-changes",
+    "summary": "We take a look at the undocumented changes in Tesla update 2026.14.&hellip; <a href=\"https://www.notateslaapp.com/news/4071/tesla-update-202614-the-undocumented-changes\">Read More</a>",
+    "isoDate": "2026-05-19T17:21:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-driver-profiles.webp/3b027e1d75e0025a6bdfb533f5659f6d/tesla-driver-profiles.jpg",
+    "pinned": false
+  },
+  {
     "id": "49a4e25c8016acdc50cd353611a10e84b4a5d936",
-    "title": "You probably don't need a 1,000 Hz gaming monitor",
+    "title": "The era of 1,000 Hz gaming monitors has arrived, but why?",
     "link": "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/",
     "summary": "LG's latest hits one frame per millisecond at a full 1080p resolution.",
     "isoDate": "2026-05-19T16:26:56Z",
@@ -21,6 +155,21 @@
       "tech"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/1000hz-500x500-1779206000.webp",
+    "pinned": false
+  },
+  {
+    "id": "71b447fdd2e5c568d0fc6d21996e93092d954f75",
+    "title": "Airbus gets HPC-as-a-service supercomputer from Bull",
+    "link": "https://www.theregister.com/hpc/2026/05/19/airbus-gets-hpc-as-a-service-supercomputer-from-bull/5242756",
+    "summary": "Aerospace giant rents new system over 5 years to help develop new aircraft",
+    "isoDate": "2026-05-19T16:12:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "hpc"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242796&width=800",
     "pinned": false
   },
   {
@@ -60,6 +209,36 @@
       "strategy"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Civ-7-Test-of-Time-map-500x500-1779159376.jpg",
+    "pinned": false
+  },
+  {
+    "id": "48fd307cb258147a9fb63a1d637c8d1168a479d5",
+    "title": "SAP customers warned AI agents could put costs on autopilot",
+    "link": "https://www.theregister.com/saas/2026/05/19/sap-customers-warned-ai-agents-could-put-costs-on-autopilot/5242646",
+    "summary": "Billing will be based on 'actions,' whatever those are, leaving enterprises to wonder how fast the meter might run",
+    "isoDate": "2026-05-19T15:49:40Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242833&width=800",
+    "pinned": false
+  },
+  {
+    "id": "13f75b4a96cd594f51eec2403326b28d28b9c0d7",
+    "title": "Microsoft refreshes Surface for Business lineup, starts AI PC upsell at $1,499",
+    "link": "https://www.theregister.com/ai-ml/2026/05/19/microsoft-refreshes-surface-for-business-lineup-starts-ai-pc-upsell-at-1499/5242697",
+    "summary": "Latest hardware adds Intel’s newest AI-focused processors as Redmond continues pushing enterprises toward Copilot+ PCs",
+    "isoDate": "2026-05-19T14:58:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242717&width=800",
     "pinned": false
   },
   {
@@ -724,22 +903,6 @@
     "pinned": false
   },
   {
-    "id": "2d86ecd9d759e23251ba3b8e33d49ebf8c6a0cdb",
-    "title": "BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive",
-    "link": "https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/",
-    "summary": "The 2027 M3 CS Handschalter is lighter and comes with three pedals instead of two.",
-    "isoDate": "2026-05-18T14:33:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "BMW M3 CS Handschalter"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/P90641074_highRes_the-bmw-m3-cs-handsc-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2110325a025012dbf5dd6538eeab80288ef3d99f",
     "title": "TanStack weighs invitation-only pull requests after supply chain attack",
     "link": "https://www.theregister.com/security/2026/05/18/tanstack-weighs-invitation-only-pull-requests-after-supply-chain-attack/5241899",
@@ -768,24 +931,6 @@
     "pinned": false
   },
   {
-    "id": "a9a2d0ed04867db399547f99327210a6de580c10",
-    "title": "Did Artemis II break through? Registrations at Space Camp double afterward.",
-    "link": "https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/",
-    "summary": "Isaacman's $25 million donation leads to impressive new facilities.",
-    "isoDate": "2026-05-18T13:49:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "inspiraiton4",
-      "space",
-      "space camp"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276494136-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6df88b42f89be78fb2606049936d7415b04104d2",
     "title": "Microsoft remembers that taskbars used to move",
     "link": "https://www.theregister.com/personal-tech/2026/05/18/microsoft-remembers-that-taskbars-used-to-move/5241875",
@@ -798,25 +943,6 @@
       "personal tech"
     ],
     "image": "https://image.theregister.com/?imageId=4094209&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9f661dd394a8a3df98ad394115c37c581757f483",
-    "title": "Bug bounty businesses bombarded with AI slop",
-    "link": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
-    "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes.",
-    "isoDate": "2026-05-18T13:23:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jamie John, Financial Times",
-    "tags": [
-      "AI",
-      "Security",
-      "bug bounties",
-      "syndication",
-      "White Hat Hacking"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/bugs-500x500.jpg",
     "pinned": false
   },
   {
@@ -862,25 +988,6 @@
       "oses"
     ],
     "image": "https://image.theregister.com/?imageId=4093838&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f4dbd589f293a37c9e8b5a80f009a3fdf199fc76",
-    "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
-    "link": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
-    "summary": "\"This is such a wild ride. The highs are high. The lows are low.\"",
-    "isoDate": "2026-05-18T11:00:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Features",
-      "Space",
-      "falcon 9",
-      "spacex",
-      "starship"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/starship-v3-500x500.jpg",
     "pinned": false
   },
   {
@@ -1145,26 +1252,6 @@
     "pinned": false
   },
   {
-    "id": "ecfa3a0d5fcd90da28dc95679dfc898913a8a073",
-    "title": "A revolutionary cancer treatment could transform autoimmune disease",
-    "link": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-    "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
-    "isoDate": "2026-05-17T11:00:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Amber Dance, Knowable Magazine",
-    "tags": [
-      "Health",
-      "Science",
-      "autoimmune disease",
-      "cancer treatment",
-      "syndication",
-      "targeted cancer treatments"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-538030120-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "89ad3f5ce3c5c58ce02779c782a52d48c812d9b5",
     "title": "Classic 7 is Windows 10 LTSC cosplaying as Windows 7",
     "link": "https://www.theregister.com/oses/2026/05/17/classic-7-is-windows-10-ltsc-cosplaying-as-windows-7/5241291",
@@ -1291,51 +1378,6 @@
       "ai + ml"
     ],
     "image": "https://image.theregister.com/?imageId=5240526&width=800",
-    "pinned": false
-  },
-  {
-    "id": "93de770993d339a272d2706b31a2e85842949814",
-    "title": "Google reimburses Register sources who were victims of API fraud",
-    "link": "https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429",
-    "summary": "But it's holding fast on auto-expanding customers' budgets",
-    "isoDate": "2026-05-15T21:26:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5241525&width=800",
-    "pinned": false
-  },
-  {
-    "id": "59023f751f3a96fdcddaad7334f345bac63da947",
-    "title": "Datacenters slurping up so much juice they boosted prices 75% in largest US energy market",
-    "link": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491",
-    "summary": "BYO power for AI bit barns may be the best way to ease the problem, says energy watchdog",
-    "isoDate": "2026-05-15T21:02:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=254320&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b4b58a1cb3b8cc016166d9c0038cc2db1409ed04",
-    "title": "Git is unprepared for the AI coding tsunami",
-    "link": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
-    "summary": "An influx of agents is pushing GitHub to the brink",
-    "isoDate": "2026-05-15T20:15:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5241522&width=800",
     "pinned": false
   },
   {
@@ -1589,19 +1631,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/gigafactory-berlin-production-hero-1.webp/10fb4f5ffdd14b36d2eea0b21d9a78a4/gigafactory-berlin-production-hero-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a4562f714b632c4cc998d48c736f5b2e195e0fda",
-    "title": "Tesla Launches Supercharger Virtual Queues at Five Locations",
-    "link": "https://www.notateslaapp.com/news/4125/tesla-launches-supercharger-virtual-queues-at-five-locations",
-    "summary": "Tesla is testing a new dynamic Supercharger waitlist feature at five locations in California and New York to eliminate physical lines during peak surge events.&hellip; <a href=\"https://www.notateslaapp.com/news/4125/tesla-launches-supercharger-virtual-queues-at-five-locations\">Read More</a>",
-    "isoDate": "2026-05-12T16:50:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/virtual-queue.webp/4a4de201c203049ae7730bcdb79a9951/virtual-queue.jpg",
     "pinned": false
   }
 ]
