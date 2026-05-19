@@ -1,5 +1,50 @@
 [
   {
+    "id": "24ab494ea3dbba92e10ee68149d5563ebbf9477b",
+    "title": "The class of 2026 has heard enough about AI, thanks",
+    "link": "https://www.theregister.com/ai-ml/2026/05/19/the-class-of-2026-has-heard-enough-about-ai-thanks/5242080",
+    "summary": "From campus ceremonies to Linux communities and academic journals, resistance to LLM evangelism is getting louder",
+    "isoDate": "2026-05-19T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242126&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3575fcd1cb45a80d45cf59256539dcb2ae3e9632",
+    "title": "Baidu says the quiet part out loud – you can’t build AI infrastructure, so clouds can cash in",
+    "link": "https://www.theregister.com/off-prem/2026/05/19/baidu-says-the-quiet-part-out-loud-you-cant-build-ai-infrastructure-so-clouds-can-cash-in/5242344",
+    "summary": "CFO says GPU rentals are ‘structurally higher margin than CPU cloud’",
+    "isoDate": "2026-05-19T06:52:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=230838&width=800",
+    "pinned": false
+  },
+  {
+    "id": "34a79107549cdd5d5cd30d9bac9452adfb520365",
+    "title": "Iran hints it could interfere with submarine cables in the Strait of Hormuz",
+    "link": "https://www.theregister.com/networks/2026/05/19/iran-hints-it-could-interfere-with-submarine-cables-in-the-strait-of-hormuz/5242319",
+    "summary": "Threatens unspecified ‘fees’ and warns of economic consequences – yet only major kinetic action could stop data flows entirely",
+    "isoDate": "2026-05-19T04:27:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094156&width=800",
+    "pinned": false
+  },
+  {
     "id": "cf6b09f5b74a7b1aa512dc289a4f845e11edd868",
     "title": "VMware quietly debuts Arm hypervisor tech preview",
     "link": "https://www.theregister.com/virtualization/2026/05/19/vmware-quietly-debuts-arm-hypervisor-tech-preview/5242293",
@@ -11,7 +56,7 @@
     "tags": [
       "virtualization"
     ],
-    "image": "https://image.theregister.com/?imageId=238469&width=800",
+    "image": "https://image.theregister.com/?imageId=5242317&width=800",
     "pinned": false
   },
   {
@@ -1332,21 +1377,6 @@
     "pinned": false
   },
   {
-    "id": "3c39463a5d27e7a109092949fb3923e9d962bc9a",
-    "title": "OpenAI caught in TanStack npm supply chain chaos after employee devices compromised",
-    "link": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019",
-    "summary": "Attackers stole a limited amount of internal credential material after malware hidden in poisoned packages reached two staff machines",
-    "isoDate": "2026-05-15T10:08:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5241038&width=800",
-    "pinned": false
-  },
-  {
     "id": "556a8a873acb33c80b71d1032d4bf982e26299a1",
     "title": "The Skeptic Podcast – Episode 064",
     "link": "https://www.skeptic.org.uk/2026/05/the-skeptic-podcast-episode-064/",
@@ -1372,36 +1402,6 @@
     "author": "Emily Herring",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "55809b5f6610370655d1db5ac96bc5a5450953f5",
-    "title": "Fusion for the future: XLSMART and ZTE partnering for a boundless digital Indonesia",
-    "link": "https://www.theregister.com/networks/2026/05/15/fusion-for-the-future-xlsmart-and-zte-partnering-for-a-boundless-digital-indonesia/5240898",
-    "summary": "7,000 5G sites added in eight months, and now serve 73 million subscribers on Indonesia’s first blanket 5G network.",
-    "isoDate": "2026-05-15T09:59:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5241099&width=800",
-    "pinned": false
-  },
-  {
-    "id": "50a5fbda872dd9af330678b66b43ae509082184c",
-    "title": "UK reloads artillery plans with £1B remote-control howitzer order",
-    "link": "https://www.theregister.com/offbeat/2026/05/15/uk-reloads-artillery-plans-with-1b-remote-control-howitzer-order/5240629",
-    "summary": "72 Boxer-mounted RCH 155s due from 2028 as Britain fills the gap left by AS-90s sent to Ukraine",
-    "isoDate": "2026-05-15T09:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240657&width=800",
     "pinned": false
   },
   {
@@ -1655,19 +1655,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "576b73cb905d84779b9f29fedba9ab9b16ba023b",
-    "title": "Tesla in Talks for FSD Approval in Ireland",
-    "link": "https://www.notateslaapp.com/news/4128/tesla-in-talks-for-fsd-approval-in-ireland",
-    "summary": "Tesla is working hard to bring its advanced driver-assistance technology to more European roads, and Ireland is the latest country to join the conversation&hellip; <a href=\"https://www.notateslaapp.com/news/4128/tesla-in-talks-for-fsd-approval-in-ireland\">Read More</a>",
-    "isoDate": "2026-05-12T06:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
     "pinned": false
   }
 ]
