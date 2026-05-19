@@ -1,5 +1,50 @@
 [
   {
+    "id": "cf6b09f5b74a7b1aa512dc289a4f845e11edd868",
+    "title": "VMware quietly debuts Arm hypervisor tech preview",
+    "link": "https://www.theregister.com/virtualization/2026/05/19/vmware-quietly-debuts-arm-hypervisor-tech-preview/5242293",
+    "summary": "Supports Nvidia Grace and Ampere processors",
+    "isoDate": "2026-05-19T02:02:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=238469&width=800",
+    "pinned": false
+  },
+  {
+    "id": "96d406c942e56873f6b31daf8c5e039e13090a66",
+    "title": "Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them",
+    "link": "https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258",
+    "summary": "While also spoofing all the trusted domains - Apple, Microsoft, and Google - in the same attack",
+    "isoDate": "2026-05-18T23:32:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242280&width=800",
+    "pinned": false
+  },
+  {
+    "id": "702c0a8d55a950d4d76fd2dd37442564bfd85a29",
+    "title": "The big AI companies are going to see their margins disappear",
+    "link": "https://www.theregister.com/ai-ml/2026/05/18/the-big-ai-companies-are-going-to-see-their-margins-disappear/5242227",
+    "summary": "AI will indeed eat the world – if your world involves software-size margins",
+    "isoDate": "2026-05-18T22:33:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242253&width=800",
+    "pinned": false
+  },
+  {
     "id": "71a5902838d9a0b12ae863229aeea4d2b0434dda",
     "title": "Shai-Hulud copycat worm infects yet another npm package",
     "link": "https://www.theregister.com/cyber-crime/2026/05/18/shai-hulud-copycat-hits-another-npm-package/5242180",
@@ -1360,21 +1405,6 @@
     "pinned": false
   },
   {
-    "id": "ba79039eb0f0b623dae245f5789bb366790fd6c4",
-    "title": "Britain's latest civil servant is a chatbot trained on GOV.UK misery",
-    "link": "https://www.theregister.com/public-sector/2026/05/15/britains-latest-civil-servant-is-a-chatbot-trained-on-govuk-misery/5240955",
-    "summary": "Whitehall says the AI assistant will help citizens navigate public services faster; others may see it as a cheaper alternative to answering the phone",
-    "isoDate": "2026-05-15T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240975&width=800",
-    "pinned": false
-  },
-  {
     "id": "956939ec2edf1ee7cd07c4e5af6cc73790df8eb0",
     "title": "Gen Z don’t really think they’re psychic – at least no more so than their elders",
     "link": "https://www.skeptic.org.uk/2026/05/gen-z-dont-really-think-theyre-psychic-at-least-no-more-so-than-their-elders/",
@@ -1387,36 +1417,6 @@
       "Bad PR"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b80c7dfac2fa6f0344db5319c6e6d191e43cd294",
-    "title": "MPs want social media treated more like unsafe toys than harmless apps",
-    "link": "https://www.theregister.com/security/2026/05/15/mps-want-social-media-treated-more-like-unsafe-toys-than-harmless-apps/5240578",
-    "summary": "Parliamentary committee tells ministers online safety regime is failing children and warns 'no action is not an option'",
-    "isoDate": "2026-05-15T08:33:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240624&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3c08deed5e12bedcb3a63c8940b580e21864706c",
-    "title": "On-call techie decided job was done and hit the bottle – just before his pager went off",
-    "link": "https://www.theregister.com/systems/2026/05/15/on-call-techie-decided-job-was-done-and-hit-the-bottle-just-before-his-pager-went-off/5239406",
-    "summary": "Lazy weekend of Grand Prix fun turned into a terrifying all-nighter",
-    "isoDate": "2026-05-15T06:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5239424&width=800",
     "pinned": false
   },
   {
@@ -1668,19 +1668,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5c3103211dba3260a669db0226f290574ad80e50",
-    "title": "Former Tesla CFO Deepak Ahuja Joins Redwood Materials",
-    "link": "https://www.notateslaapp.com/news/4127/former-tesla-cfo-deepak-ahuja-joins-redwood-materials",
-    "summary": "Former lTesla CFO Deepak Ahuja has joined JB Straubel at Redwood Materials; two of Tesla's original executive leaders scale the battery supply chain.&hellip; <a href=\"https://www.notateslaapp.com/news/4127/former-tesla-cfo-deepak-ahuja-joins-redwood-materials\">Read More</a>",
-    "isoDate": "2026-05-12T04:01:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ahuja.png/e9a96bdfb054074d38f5d8e9f5df3f9e/ahuja.jpg",
     "pinned": false
   }
 ]
