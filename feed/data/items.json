@@ -1,5 +1,65 @@
 [
   {
+    "id": "464c4e63355cb47c482dd64ca269547955d155b9",
+    "title": "AI sackings reach New Zealand, which will use it to eject 14 percent of government staff",
+    "link": "https://www.theregister.com/public-sector/2026/05/20/ai-sackings-reach-new-zealand-which-will-use-it-to-eject-14-percent-of-government-staff/5243076",
+    "summary": "Minister demands AI becomes ‘basic expectation for all public entities’",
+    "isoDate": "2026-05-20T01:17:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=242302&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f88f4f81debcf4174f4318cd8582a3848e6be65c",
+    "title": "Anthropic’s Stainless steal tightens grip on AI dev tooling",
+    "link": "https://www.theregister.com/ai-ml/2026/05/20/anthropics-stainless-steal-tightens-grip-on-ai-dev-tooling/5243053",
+    "summary": "Claude maker nabs SDK and MCP tooling biz, plans to sunset platform",
+    "isoDate": "2026-05-19T23:05:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=230427&width=800",
+    "pinned": false
+  },
+  {
+    "id": "dd1c44a45200e9aade617e7008d249afe7266073",
+    "title": "Google accused of pushing 'free for life' G Suite users onto paid plans",
+    "link": "https://www.theregister.com/applications/2026/05/19/google-accused-of-pushing-free-for-life-g-suite-users-onto-paid-plans/5242567",
+    "summary": "Users claim personal family domains are being falsely flagged for commercial use, leaving long-time G Suite Legacy customers facing a pay-up-or-lose-access ultimatum",
+    "isoDate": "2026-05-19T22:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242587&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0b1b22b560356ef257ed9e618e951f2d2f823e72",
+    "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
+    "link": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013",
+    "summary": "'Thousands' of US victims, including 12+ machines owned and operated by Redmond",
+    "isoDate": "2026-05-19T21:56:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5243050&width=800",
+    "pinned": false
+  },
+  {
     "id": "89b8795fa9dd206c8006920808e0c4be0960f37b",
     "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
     "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
@@ -1268,36 +1328,6 @@
     "pinned": false
   },
   {
-    "id": "d057c89f7ec279fa0f62b71ed5e8d5ecc2b93c83",
-    "title": "Linus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’",
-    "link": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-    "summary": "Multiple researchers using the same tools to find the same bugs are creating ‘unnecessary pain and pointless work’",
-    "isoDate": "2026-05-17T23:39:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=234872&width=800",
-    "pinned": false
-  },
-  {
-    "id": "52ed8cf3899ee021e29546e8b962f1f3a4bea194",
-    "title": "Surprise AI bills leave AWS and Google Cloud users aghast",
-    "link": "https://www.theregister.com/ai-ml/2026/05/18/surprise-ai-bills-leave-aws-and-google-cloud-users-aghast/5241348",
-    "summary": "Stuck with an AI bill for tens of thousands of dollars? You're not alone by a long shot",
-    "isoDate": "2026-05-17T23:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240671&width=800",
-    "pinned": false
-  },
-  {
     "id": "b711bb7a1d318006cde16aaec5443bd3d189bddc",
     "title": "Tesla Invites Owners to 'Electric Summer' Store Parties in U.S., Canada",
     "link": "https://www.notateslaapp.com/news/4158/tesla-invites-owners-to-electric-summer-store-parties-in-us-canada",
@@ -1308,36 +1338,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-electric-summer-parties-2026-hero.webp/82328866d405a7b582a10077451d48de/tesla-electric-summer-parties-2026-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5496c4955d263f7336a33790a2d32200fcc42b81",
-    "title": "Agent harnesses, like OpenClaw, are changing how we build and run AI models",
-    "link": "https://www.theregister.com/ai-ml/2026/05/17/how-ai-agent-harnesses-like-openclaw-are-changing-llms-inference-and-cpus/5241530",
-    "summary": "Ride your bots further by putting them in a harness",
-    "isoDate": "2026-05-17T15:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094099&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f4eb8b2c2698b7da3bf08cc3c39c72e9abf5ea2c",
-    "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-    "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-    "summary": "You're not the only one annoyed by the hype",
-    "isoDate": "2026-05-17T14:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=2940761&width=800",
     "pinned": false
   },
   {
