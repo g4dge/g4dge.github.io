@@ -1,5 +1,84 @@
 [
   {
+    "id": "f64b7ec6052226e9b57a914fe26c9291ef35623d",
+    "title": "Minnesota prohibits prediction markets, promptly gets sued by Trump admin",
+    "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-prohibits-prediction-markets-promptly-gets-sued-by-trump-admin/",
+    "summary": "State law makes it a felony to create, operate, or advertise prediction markets.",
+    "isoDate": "2026-05-20T18:20:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "cftc",
+      "prediction markets"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-500x500-1775509438.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d0c97bf4057f24f1ad3345431881a861f6c3a612",
+    "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+    "link": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+    "summary": "Google's AI search evolution is accelerating at I/O 2026.",
+    "isoDate": "2026-05-20T17:31:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "google",
+      "search"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-search-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2ac55ef81a1d5db87950e8b405a5d1159369aee3",
+    "title": "Bye-bye, Gemini CLI; Google's gone and swapped you for a closed-source AI",
+    "link": "https://www.theregister.com/ai-ml/2026/05/20/bye-bye-gemini-cli-google-nudges-devs-toward-antigravity/5243605",
+    "summary": "Most users lose access June 18 - unless you’ve got enterprise creds or paid API keys",
+    "isoDate": "2026-05-20T16:44:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=259329&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0988d1e7d0c15cd1d472857aa7aa1b1118e848e5",
+    "title": "Plex appeal fades as Lifetime Pass jumps to $750",
+    "link": "https://www.theregister.com/saas/2026/05/20/plex-appeal-fades-as-lifetime-pass-jumps-to-750/5243480",
+    "summary": "How many times would you have to watch Lord of the Rings to cover that?",
+    "isoDate": "2026-05-20T15:51:38Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240227&width=800",
+    "pinned": false
+  },
+  {
+    "id": "95ffd70e485c916bb9dbd146378136fbf2cfabc3",
+    "title": "Elon Musk Discusses Tesla and SpaceX Roadmap in Forbes Interview",
+    "link": "https://www.notateslaapp.com/news/4175/elon-musk-discusses-tesla-and-spacex-roadmap-in-forbes-interview",
+    "summary": "Elon Musk hints at a SpaceX IPO quiet period, details orbital AI data centers, outlines new AGI timelines, and confirms an appeal in the OpenAI lawsuit.&hellip; <a href=\"https://www.notateslaapp.com/news/4175/elon-musk-discusses-tesla-and-spacex-roadmap-in-forbes-interview\">Read More</a>",
+    "isoDate": "2026-05-20T15:50:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/elon-musk/elon_musk_giga_berlin.jpg/c043bd92df7327fe847f18148cde6a68/elon_musk_giga_berlin.jpg",
+    "pinned": false
+  },
+  {
     "id": "0872602f2d1010cf7f38e7c3ff340f02f5e29f10",
     "title": "Man jailed for posting Trump meme wins $835,000 settlement",
     "link": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
@@ -855,24 +934,6 @@
     "pinned": false
   },
   {
-    "id": "fb76bfd7d13ef22e5684e8b31b0b258013ea4d5d",
-    "title": "In addition to space stations, Vast says it will now build high-power satellites",
-    "link": "https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/",
-    "summary": "\"Every single successful space company is diversified in its products.\"",
-    "isoDate": "2026-05-19T13:00:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "space",
-      "vast satellites",
-      "vast space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/VAST-Satellite_watermark-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4635af3a014897e0e217963da8e4564b616c84b9",
     "title": "Shai-Hulud keeps burrowing: 314 npm packages infected after another account compromise",
     "link": "https://www.theregister.com/cyber-crime/2026/05/19/shai-hulud-keeps-burrowing-314-npm-packages-infected-after-another-account-compromise/5242601",
@@ -1278,36 +1339,6 @@
       "cyber-crime"
     ],
     "image": "https://image.theregister.com/?imageId=5220456&width=800",
-    "pinned": false
-  },
-  {
-    "id": "80de5ba84f308b17ec359e51b77d429980d03bb8",
-    "title": "'Big AI' is subverting regulations just like tobacco and oil firms",
-    "link": "https://www.theregister.com/ai-ml/2026/05/18/big-ai-is-subverting-regulations-just-like-tobacco-and-oil-firms/5241910",
-    "summary": "Researchers warn that regulatory capture means industry concerns trump those of citizens",
-    "isoDate": "2026-05-18T14:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5241947&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2110325a025012dbf5dd6538eeab80288ef3d99f",
-    "title": "TanStack weighs invitation-only pull requests after supply chain attack",
-    "link": "https://www.theregister.com/security/2026/05/18/tanstack-weighs-invitation-only-pull-requests-after-supply-chain-attack/5241899",
-    "summary": "Shai-Hulud worm exploited GitHub Actions misconfiguration to poison shared cache, now project weighing nuclear option on unsolicited contributions",
-    "isoDate": "2026-05-18T14:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=261796&width=800",
     "pinned": false
   },
   {
