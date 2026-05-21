@@ -1,5 +1,102 @@
 [
   {
+    "id": "f49685f4eb2d2eb2160dfdbcb8c7444db2868a78",
+    "title": "AT&T sues California in attempt to shut off old phone network",
+    "link": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
+    "summary": "AT&#038;T asks a court and the FCC to block California phone requirements.",
+    "isoDate": "2026-05-21T21:10:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "AT&T",
+      "California",
+      "fiber",
+      "wireless"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/att-phone-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "63411cd12fe7cddc81876bae63acaa4390d45227",
+    "title": "Threat hunters find Google API keys still usable 23 minutes after deletion",
+    "link": "https://www.theregister.com/devops/2026/05/21/threat-hunters-find-google-api-keys-still-usable-23-minutes-after-deletion/5244504",
+    "summary": "Plenty of time for bad actors to grab data or hit you with a giant bill",
+    "isoDate": "2026-05-21T20:23:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5244583&width=800",
+    "pinned": false
+  },
+  {
+    "id": "107f04897b008b1760fb53ceaed3e6862fec1c32",
+    "title": "Tesla Announces Q1 2026 Supercharger Voting Winners",
+    "link": "https://www.notateslaapp.com/news/4184/tesla-announces-q1-2026-supercharger-voting-winners",
+    "summary": "Tesla has officially closed another chapter in its ongoing charging network expansion, announcing the latest results from its community-led expansion project&hellip; <a href=\"https://www.notateslaapp.com/news/4184/tesla-announces-q1-2026-supercharger-voting-winners\">Read More</a>",
+    "isoDate": "2026-05-21T20:03:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/v4supercharger_80.jpg/071db6497119a44695afe575e0a2a670/v4supercharger_80.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f67d93fb19a0ba504b3b36c68f641ceba70be5a7",
+    "title": "Npm registry sets stage for more secure package publishing",
+    "link": "https://www.theregister.com/ai-ml/2026/05/21/npm-registry-sets-stage-for-more-secure-package-publishing/5244527",
+    "summary": "All the world's a stage, and all the packages are merely players",
+    "isoDate": "2026-05-21T19:54:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=258767&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9d63b58bffb2e0ede2419e31962eb92ef18aa77f",
+    "title": "HackerOne takes an axe to its bug bounty rewards",
+    "link": "https://www.theregister.com/security/2026/05/21/hackerone-takes-an-axe-to-its-bug-bounty-rewards/5244458",
+    "summary": "Critical flaw payouts slashed by more than 75%",
+    "isoDate": "2026-05-21T19:27:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5244497&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c00287a2f74eabcc01c97a55c8195492885dff4f",
+    "title": "JWST maps the weather on a hot gas giant 700 light-years away",
+    "link": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
+    "summary": "The differences seen here could be throwing off how we study planetary atmospheres.",
+    "isoDate": "2026-05-21T19:26:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "astronomy",
+      "atmospheric science",
+      "gas giant",
+      "planetary science",
+      "Weather"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-1-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "303deaefe980082870ded70b13c6f5730b067228",
     "title": "SpaceX Files for Historic IPO: Here's What We Learned",
     "link": "https://www.notateslaapp.com/news/4183/spacex-files-for-historic-ipo-heres-what-we-learned",
@@ -452,7 +549,7 @@
   },
   {
     "id": "07e227d592735b5d5cd47453838dbb45a6119b0e",
-    "title": "Nvidia on track to be worlds leading CPU supplier claims CFO",
+    "title": "GPU behemoth Nvidia on track to be world's leading CPU supplier too, says CFO",
     "link": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868",
     "summary": "GPUzilla forecasts $20 billion in CPU revenues this year",
     "isoDate": "2026-05-21T00:23:00Z",
@@ -872,44 +969,6 @@
     "pinned": false
   },
   {
-    "id": "0872602f2d1010cf7f38e7c3ff340f02f5e29f10",
-    "title": "Man jailed for posting Trump meme wins $835,000 settlement",
-    "link": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
-    "summary": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
-    "isoDate": "2026-05-20T14:50:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "Donald Trump",
-      "First Amendment",
-      "meme",
-      "online censorship"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Larry-Bushart-via-FIRE.jpg-500x500-1779285866.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "abc470314eb27e7493670207af09fe8e140a563e",
-    "title": "Russia's plan to advertise on rockets and spacecraft takes off",
-    "link": "https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/",
-    "summary": "We now pause for a word from our sponsors.",
-    "isoDate": "2026-05-20T14:28:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "advertising",
-      "roscosmos",
-      "russia",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/coffee-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "099cfd10aa7b5928839a9d0bc5d66c7de97ed878",
     "title": "Tesla Relaxes Driver Monitoring With FSD v14.3.3",
     "link": "https://www.notateslaapp.com/news/4166/tesla-relaxes-driver-monitoring-with-fsd-v1433",
@@ -1274,51 +1333,6 @@
     "pinned": false
   },
   {
-    "id": "fa68a4ede469cdea227eab491546863829daa8f2",
-    "title": "Firefox 151 helps you edit PDFs – and switch OSes",
-    "link": "https://www.theregister.com/software/2026/05/19/firefox-151-helps-you-edit-pdfs-and-switch-oses/5242888",
-    "summary": "Export a profile on Windows, restore it on Linux. Extensions and themes too",
-    "isoDate": "2026-05-19T18:20:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242942&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3b402c86360f74956a2a07b4c3ba60f19b6e6f91",
-    "title": "America's top cyber-defense agency left a GitHub repo open with passwords, keys, tokens – and incredibly obvious filenames",
-    "link": "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915",
-    "summary": "I wonder what's in 'external-secret-repo-creds.yaml' and 'AWS-Workspace-Firefox-Passwords.csv'?",
-    "isoDate": "2026-05-19T17:49:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242949&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2f0fece2a0d61ce680c88dbbe221cbd766f970b1",
-    "title": "Shadow AI invades the workplace, up 4x in the last year",
-    "link": "https://www.theregister.com/ai-ml/2026/05/19/shadow-ai-surges-in-the-workplace/5242868",
-    "summary": "Employers increasingly blind to unauthorized AI use and where their staff are sending proprietary files",
-    "isoDate": "2026-05-19T17:24:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=254972&width=800",
-    "pinned": false
-  },
-  {
     "id": "89196b11d7ca338eb52006bf154167c380e8d1c8",
     "title": "Tesla Update 2026.14 — The Undocumented Changes",
     "link": "https://www.notateslaapp.com/news/4071/tesla-update-202614-the-undocumented-changes",
@@ -1637,19 +1651,6 @@
       "Bad PR"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "070a8491d3e1448713426dd36c11c6a62c8d5231",
-    "title": "Tesla Built a 36,000-Sq-Ft Car Wash for the Cybercab",
-    "link": "https://www.notateslaapp.com/news/4143/tesla-building-cybercab-car-wash-in-las-vegas",
-    "summary": "Recently discovered permit filings reveal that Tesla is working on a dedicated Cybercab facility in Las Vegas with on-site Superchargers and a car wash&hellip; <a href=\"https://www.notateslaapp.com/news/4143/tesla-building-cybercab-car-wash-in-las-vegas\">Read More</a>",
-    "isoDate": "2026-05-14T19:53:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/car-wash-las-vegas-3.webp/8991bdb8f4b1f7bb308a85138b4c4040/car-wash-las-vegas-3.jpg",
     "pinned": false
   }
 ]
