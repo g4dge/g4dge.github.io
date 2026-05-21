@@ -1,5 +1,180 @@
 [
   {
+    "id": "6258101cf2cb70379cb6467e59becccf90ff07b9",
+    "title": "Uh-oh, the International Space Station is leaking again",
+    "link": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
+    "summary": "\"This further confirms the wisdom of the current policy of retiring the ISS in 2030.\"",
+    "isoDate": "2026-05-21T16:07:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "international space station",
+      "iss",
+      "leaks",
+      "NASA",
+      "roscosmos",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/International_Space_Station_after_undocking_of_STS-132-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "dd1dffec784c3052462a32824689fd5e70b188bf",
+    "title": "Tesla Is Now Monitoring Cybertrucks for Charging Failures and Offering Free Supercharging",
+    "link": "https://www.notateslaapp.com/news/4180/tesla-is-now-monitoring-cybertrucks-for-charging-failures-and-offering-free-supercharging",
+    "summary": "Tesla is using remote diagnostics to identify failing Cybertruck Power Conversion Systems and offering owners free Supercharging while they wait for parts.&hellip; <a href=\"https://www.notateslaapp.com/news/4180/tesla-is-now-monitoring-cybertrucks-for-charging-failures-and-offering-free-supercharging\">Read More</a>",
+    "isoDate": "2026-05-21T15:45:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/pcs2_failure_cybertruck.jpg/937f0bfc383831e2b1d14d0cf533491b/pcs2_failure_cybertruck.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9f8b79f23e215ac03a01bc8bbae41120411ea637",
+    "title": "Flipper One wants to be the Linux multi-tool in your pocket",
+    "link": "https://www.theregister.com/personal-tech/2026/05/21/flipper-one-wants-to-be-the-linux-multi-tool-in-your-pocket/5244165",
+    "summary": "Not a Zero successor, ARM box aims for openness, but shipping remains the hard part",
+    "isoDate": "2026-05-21T15:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5244193&width=800",
+    "pinned": false
+  },
+  {
+    "id": "331d871f6474692757383100e317c00a36354659",
+    "title": "Web devs sleeping with the enemy: AI is doing their job and they worry it's after their desk too",
+    "link": "https://www.theregister.com/devops/2026/05/21/web-devs-sleeping-with-the-enemy-ai-is-doing-their-job-and-they-worry-its-after-their-desk-too/5244132",
+    "summary": "Most software engineers now use AI for most of their code and fear the existential threat",
+    "isoDate": "2026-05-21T14:26:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5244266&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d616d6439be01ca53764be64141b6cb16b74a4ed",
+    "title": "Everything Tesla Said at the Model S and Model X Signature Delivery Event",
+    "link": "https://www.notateslaapp.com/news/4181/everything-tesla-said-at-the-model-s-and-model-x-signature-delivery-event",
+    "summary": "Tesla bid farewell to the Model S and Model X at a bittersweet Signature Delivery event, reflecting on the legacy of the cars that revolutionized EVs.&hellip; <a href=\"https://www.notateslaapp.com/news/4181/everything-tesla-said-at-the-model-s-and-model-x-signature-delivery-event\">Read More</a>",
+    "isoDate": "2026-05-21T14:21:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-s-x-signature-edition-5.webp/dba68f54e76f149f85f725846d795646/model-s-x-signature-edition-5.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f80dd7ea9826a8e6a3325957fbf50c67bb647bb7",
+    "title": "AWS parades orgs that took up its offer for Euro Sovereign Cloud",
+    "link": "https://www.theregister.com/paas-and-iaas/2026/05/21/aws-parades-orgs-that-took-up-its-offer-for-euro-sovereign-cloud/5244197",
+    "summary": "Customers want their data kept and processed strictly within the EU",
+    "isoDate": "2026-05-21T13:53:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "paas and iaas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240668&width=800",
+    "pinned": false
+  },
+  {
+    "id": "845b87f97ff081ce0cc8731aa4d32fb41a93e9bd",
+    "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+    "link": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+    "summary": "Beneficiaries include startup backed by firm with links to the Trump family.",
+    "isoDate": "2026-05-21T13:48:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Joe Miller and Michael Peel, Financial Times",
+    "tags": [
+      "Biz & IT",
+      "Tech",
+      "D-Wave",
+      "GlobalFoundries",
+      "ibm",
+      "quantum computing",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "a096196fcaf5d85bd63cd61f2d8f77e23c25dbcd",
+    "title": "SpaceX’s First Starship V3 Launch Is Today: Watch Live",
+    "link": "https://www.notateslaapp.com/news/4178/spacexs-first-starship-v3-launch-is-today-watch-live",
+    "summary": "SpaceX is set to launch its first Starship V3 rocket for Flight 12 on May 21, 2026. Here is exactly when and where you can watch the test flight live.&hellip; <a href=\"https://www.notateslaapp.com/news/4178/spacexs-first-starship-v3-launch-is-today-watch-live\">Read More</a>",
+    "isoDate": "2026-05-21T13:46:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/52822624215_751e9d452a_k.jpg/3c4ba3bc98d8e4d8b12e57da8d72aa6f/52822624215_751e9d452a_k.jpg",
+    "pinned": false
+  },
+  {
+    "id": "afd2ec22a7369e27233a8a6eb5c031ab22cdbc93",
+    "title": "Plug-in hybrids get plugged in more than you might think",
+    "link": "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
+    "summary": "Toyota is the latest automaker to report PHEV charging stats, and they're encouraging.",
+    "isoDate": "2026-05-21T13:34:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "PHEV",
+      "plug-in hybrid"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1884481559-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ed5757bb648db072af760d2c116ff6e67aeccc0e",
+    "title": "Gemini accused of 30,000-line code purge and fake recovery report",
+    "link": "https://www.theregister.com/ai-ml/2026/05/21/gemini-accused-of-30000-line-code-purge-and-fake-recovery-report/5244219",
+    "summary": "Developer: AI coding agent broke production and generated fictitious post-mortem paperwork after the rollback",
+    "isoDate": "2026-05-21T13:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=223620&width=800",
+    "pinned": false
+  },
+  {
+    "id": "08e2f8500277f3a7f356b6c782f36919c3687450",
+    "title": "These clever active beam headlights are finally coming to America",
+    "link": "https://arstechnica.com/cars/2026/05/these-clever-active-beam-headlights-are-finally-coming-to-america/",
+    "summary": "The 2027 Audi Q9's digital matrix lights satisfy new NHTSA rules on minimizing glare.",
+    "isoDate": "2026-05-21T13:00:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Audi Q9",
+      "headlights"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A251728_large-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "87299e96156bccb3cf3c03c2666cc89eac851946",
     "title": "Minecraft-streaming gran swatted while raising cash for grandson's cancer care",
     "link": "https://www.theregister.com/cyber-crime/2026/05/21/swatting-hoax-sees-cops-raid-elderly-minecraft-players-home/5244120",
@@ -193,19 +368,6 @@
     "pinned": false
   },
   {
-    "id": "8c01053e0eb68769e63ee71beadafa234da29fc3",
-    "title": "How to Watch Tesla's Model S/X Signature Edition Delivery Event",
-    "link": "https://www.notateslaapp.com/news/4173/how-to-watch-teslas-model-sx-signature-edition-delivery-event",
-    "summary": "After a brief delay pushed the original schedule back by a week, Tesla is set to deliver the first of its last Model S & X units ever on Thursday, May 20&hellip; <a href=\"https://www.notateslaapp.com/news/4173/how-to-watch-teslas-model-sx-signature-edition-delivery-event\">Read More</a>",
-    "isoDate": "2026-05-21T00:40:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-s-x-signature-edition-13.webp/a16e86cb65892a7af5d6d92b721b381e/model-s-x-signature-edition-13.jpg",
-    "pinned": false
-  },
-  {
     "id": "07e227d592735b5d5cd47453838dbb45a6119b0e",
     "title": "Nvidia on track to be worlds leading CPU supplier claims CFO",
     "link": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868",
@@ -224,7 +386,7 @@
     "id": "0963e95ed241079d715988cb15874084c9f7b67e",
     "title": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself",
     "link": "https://www.theregister.com/systems/2026/05/21/amd-says-its-4k-ryzen-ai-halo-workstation-practically-pays-for-itself/5243755",
-    "summary": "AMD says its $4K Ryzen AI Halo workstation practically pays for itself",
+    "summary": "If you spend at least eight hours a day vibe coding that is",
     "isoDate": "2026-05-21T00:00:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -441,7 +603,7 @@
     "id": "3f4ab3b303e5cede2727d8c2ffbdf00263de53a0",
     "title": "Google publishes exploit code threatening millions of Chromium users",
     "link": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-    "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
+    "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
     "isoDate": "2026-05-20T19:10:36Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -805,25 +967,6 @@
     "pinned": false
   },
   {
-    "id": "14d8b8139ce46050b6f96756e02a45a7339d189f",
-    "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-    "link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-    "summary": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
-    "isoDate": "2026-05-20T11:00:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Figure AI",
-      "humanoid robots",
-      "Robotics",
-      "robots"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-1.15.37-PM-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "da442f075fd5cad229ba127cd3b65a34f03e8358",
     "title": "GitHub says internal repos exfiltrated after poisoned VS Code extension attack",
     "link": "https://www.theregister.com/devops/2026/05/20/github-says-internal-repos-exfiltrated-after-poisoned-vs-code-extension-attack/5243206",
@@ -928,24 +1071,6 @@
     "pinned": false
   },
   {
-    "id": "341c7119993b415210bc488798be1bbf6c7356b9",
-    "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
-    "link": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
-    "summary": "Volvo is coming for its competitors with more efficient production and newer tech.",
-    "isoDate": "2026-05-20T07:00:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kristin Shaw",
-    "tags": [
-      "Cars",
-      "car review",
-      "First drive",
-      "Volvo EX60"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/33-500x500-1779202639.jpg",
-    "pinned": false
-  },
-  {
     "id": "de599aeac55200957df5f9906e7369c92e110a10",
     "title": "Space factories edge closer after experimental capsule survives hypersonic landing",
     "link": "https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140",
@@ -1036,23 +1161,6 @@
     "pinned": false
   },
   {
-    "id": "89b8795fa9dd206c8006920808e0c4be0960f37b",
-    "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
-    "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
-    "summary": "FBI will pay vendors to help it track and search for vehicles nationwide.",
-    "isoDate": "2026-05-19T21:29:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "automated license plate readers",
-      "Flock!"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-500x500-1779223476.jpg",
-    "pinned": false
-  },
-  {
     "id": "9e677dc2b9b7e8d46343ae0376fb341a2e3572a3",
     "title": "Frustrated franchisee sues Pizza Hut over crappy kitchen AI",
     "link": "https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899",
@@ -1068,24 +1176,6 @@
     "pinned": false
   },
   {
-    "id": "484dc0c7150dc6dcd2613fdd6c9bb4f54dd1f572",
-    "title": "Spider-Noir final trailer gives us a classic villain",
-    "link": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/",
-    "summary": "It's never too late to become a hero.",
-    "isoDate": "2026-05-19T20:58:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "prime video",
-      "Spider-Noir",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/spidernoir1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4afad6860f07d011365c0042930387ad4d6fc961",
     "title": "Google touts its tokenmaxxing and capex spending amid AI orgy",
     "link": "https://www.theregister.com/ai-ml/2026/05/19/google-touts-tokenmaxxing-huge-capex-and-ai-agents-at-i/o/5242983",
@@ -1098,6 +1188,19 @@
       "ai + ml"
     ],
     "image": "https://image.theregister.com/?imageId=5243010&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8c01053e0eb68769e63ee71beadafa234da29fc3",
+    "title": "How to Watch Tesla's Model S/X Signature Edition Delivery Event",
+    "link": "https://www.notateslaapp.com/news/4173/how-to-watch-teslas-model-sx-signature-edition-delivery-event",
+    "summary": "After a brief delay pushed the original schedule back by a week, Tesla is set to deliver the first of its last Model S & X units ever on Thursday, May 20&hellip; <a href=\"https://www.notateslaapp.com/news/4173/how-to-watch-teslas-model-sx-signature-edition-delivery-event\">Read More</a>",
+    "isoDate": "2026-05-19T20:06:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-s-x-signature-edition-13.webp/a16e86cb65892a7af5d6d92b721b381e/model-s-x-signature-edition-13.jpg",
     "pinned": false
   },
   {
@@ -1215,66 +1318,6 @@
     "pinned": false
   },
   {
-    "id": "48fd307cb258147a9fb63a1d637c8d1168a479d5",
-    "title": "SAP customers warned AI agents could put costs on autopilot",
-    "link": "https://www.theregister.com/saas/2026/05/19/sap-customers-warned-ai-agents-could-put-costs-on-autopilot/5242646",
-    "summary": "Billing will be based on 'actions,' whatever those are, leaving enterprises to wonder how fast the meter might run",
-    "isoDate": "2026-05-19T15:49:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242833&width=800",
-    "pinned": false
-  },
-  {
-    "id": "13f75b4a96cd594f51eec2403326b28d28b9c0d7",
-    "title": "Microsoft refreshes Surface for Business lineup, starts AI PC upsell at $1,499",
-    "link": "https://www.theregister.com/ai-ml/2026/05/19/microsoft-refreshes-surface-for-business-lineup-starts-ai-pc-upsell-at-1499/5242697",
-    "summary": "Latest hardware adds Intel’s newest AI-focused processors as Redmond continues pushing enterprises toward Copilot+ PCs",
-    "isoDate": "2026-05-19T14:58:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242717&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5f1d017a8c2ba0e709e078eae8caf5d04f8efb42",
-    "title": "X limits hot takes from freeloaders to 50 a day",
-    "link": "https://www.theregister.com/personal-tech/2026/05/19/x-limits-hot-takes-from-freeloaders-to-50-a-day/5242657",
-    "summary": "How will they manage? It's not like anyone can see their posts anyway",
-    "isoDate": "2026-05-19T14:01:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=257063&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4635af3a014897e0e217963da8e4564b616c84b9",
-    "title": "Shai-Hulud keeps burrowing: 314 npm packages infected after another account compromise",
-    "link": "https://www.theregister.com/cyber-crime/2026/05/19/shai-hulud-keeps-burrowing-314-npm-packages-infected-after-another-account-compromise/5242601",
-    "summary": "Popular JavaScript modules including size-sensor and echarts-for-react hit as hijacked account closed GitHub warnings",
-    "isoDate": "2026-05-19T12:58:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242669&width=800",
-    "pinned": false
-  },
-  {
     "id": "c855928939b5a36e37f83ac4da318749f322bc9d",
     "title": "Elon Musk in New Interview: Robotaxis Widespread by Year-End, AI Will Drive 90% of Miles in 10 Years",
     "link": "https://www.notateslaapp.com/news/4167/elon-musk-in-new-interview-robotaxis-widespread-by-year-end-ai-will-drive-90-of-miles-in-10-years",
@@ -1285,21 +1328,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/future-rendering-2.webp/0934c848fb41969221e4beefafb2ae06/future-rendering-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4f2765b59dbe23cb724677061c72ef41cd79b70d",
-    "title": "Broadcom finds a VMware customer willing to stick around: London Stock Exchange",
-    "link": "https://www.theregister.com/off-prem/2026/05/19/broadcom-finds-a-vmware-customer-willing-to-stick-around-london-stock-exchange/5242543",
-    "summary": "LSEG signs up for five more years of Cloud Foundation, but keeps quiet on how much it'll cost",
-    "isoDate": "2026-05-19T12:10:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=263300&width=800",
     "pinned": false
   },
   {
@@ -1608,32 +1636,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/car-wash-las-vegas-3.webp/8991bdb8f4b1f7bb308a85138b4c4040/car-wash-las-vegas-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fabc1e06d9622fce72ae34630fcbbb9a94d5ef90",
-    "title": "Tesla Patent Reveals Electromagnetic Suspension Seats",
-    "link": "https://www.notateslaapp.com/news/4139/tesla-patent-reveals-electromagnetic-suspension-seats",
-    "summary": "Tesla has patented a new electromagnetic sliding suspension seat with integrated restraints, perfectly suited for the heavy-duty Semi and the Roadster.&hellip; <a href=\"https://www.notateslaapp.com/news/4139/tesla-patent-reveals-electromagnetic-suspension-seats\">Read More</a>",
-    "isoDate": "2026-05-14T16:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/semi-seat-patent-rendering.webp/66042496bac3690b33d084ad5b7dcf76/semi-seat-patent-rendering.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0b8116c3d75fbccc80cf5af2e2932e30089ee13c",
-    "title": "Tesla Wins Appeal in Legal Fight Over Supercharger Charging",
-    "link": "https://www.notateslaapp.com/news/4118/tesla-wins-appeal-in-legal-fight-over-supercharger-charging",
-    "summary": "Tesla has secured a partial victory at the federal appeals court in its ongoing patent dispute with Charge Fusion Technologies over EV charging software.&hellip; <a href=\"https://www.notateslaapp.com/news/4118/tesla-wins-appeal-in-legal-fight-over-supercharger-charging\">Read More</a>",
-    "isoDate": "2026-05-14T15:17:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/supercharger-teslas.jpeg/1ec6512ff7fe76e1b3007adfafca5584/supercharger-teslas.jpg",
     "pinned": false
   }
 ]
