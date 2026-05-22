@@ -1,5 +1,63 @@
 [
   {
+    "id": "9ce1138a9659286fbd160af5b9792a1f6f2d35f9",
+    "title": "Marketing demanded IT add website feature that was already working",
+    "link": "https://www.theregister.com/software/2026/05/22/marketing-demanded-it-add-website-feature-that-was-already-working/5242367",
+    "summary": "Techie regrets not taking credit for getting it done with amazing speed",
+    "isoDate": "2026-05-22T06:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094195&width=800",
+    "pinned": false
+  },
+  {
+    "id": "70dcd453ef2a5376ec8cabad02fefcb5e6efdf2c",
+    "title": "Tesla Model Y Becomes First EV to Hit 100,000 Registrations in Norway",
+    "link": "https://www.notateslaapp.com/news/4185/tesla-model-y-becomes-first-ev-to-hit-100000-registrations-in-norway",
+    "summary": "Tesla has cemented its absolute dominance in the world’s leading EV market, achieving a historic sales volume that no other single EV model has ever reached&hellip; <a href=\"https://www.notateslaapp.com/news/4185/tesla-model-y-becomes-first-ev-to-hit-100000-registrations-in-norway\">Read More</a>",
+    "isoDate": "2026-05-22T06:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_49.webp/566f1c6ab3feee67bf3d23a57c75e21a/group_49.jpg",
+    "pinned": false
+  },
+  {
+    "id": "59f02e2f095f0be4710fde57d337dd046526576a",
+    "title": "Cisco used AI to write security incident reports, with mixed results",
+    "link": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
+    "summary": "You’ll need a lot of detailed prompts to get solid output - and even then it may have errors and typos",
+    "isoDate": "2026-05-22T05:38:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=230011&width=800",
+    "pinned": false
+  },
+  {
+    "id": "50377cf09103d0346b749a073ae48f0480f56c1e",
+    "title": "Alibaba just admitted it’s struggling to keep up with rival chipmakers and AI shops",
+    "link": "https://www.theregister.com/systems/2026/05/22/alibaba-just-admitted-its-struggling-to-keep-up-with-rival-chipmakers-and-ai-shops/5244665",
+    "summary": "Reveals decent new homegrown accelerator and tiny production volumes",
+    "isoDate": "2026-05-22T02:39:40Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5244677&width=800",
+    "pinned": false
+  },
+  {
     "id": "9a1d7476af6cda02c7b4fed63fc404281ecd314e",
     "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
     "link": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
@@ -120,7 +178,7 @@
     "id": "63411cd12fe7cddc81876bae63acaa4390d45227",
     "title": "Threat hunters find Google API keys still usable 23 minutes after deletion",
     "link": "https://www.theregister.com/devops/2026/05/21/threat-hunters-find-google-api-keys-still-usable-23-minutes-after-deletion/5244504",
-    "summary": "Plenty of time for bad actors to grab data or hit you with a giant bill",
+    "summary": "Plenty of time for cyber crims to grab data or hit you with a giant bill",
     "isoDate": "2026-05-21T20:23:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -1258,51 +1316,6 @@
       "public sector"
     ],
     "image": "https://image.theregister.com/?imageId=242302&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f88f4f81debcf4174f4318cd8582a3848e6be65c",
-    "title": "Anthropic’s Stainless steal tightens grip on AI dev tooling",
-    "link": "https://www.theregister.com/ai-ml/2026/05/20/anthropics-stainless-steal-tightens-grip-on-ai-dev-tooling/5243053",
-    "summary": "Claude maker nabs SDK and MCP tooling biz, plans to sunset platform",
-    "isoDate": "2026-05-19T23:05:18Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=230427&width=800",
-    "pinned": false
-  },
-  {
-    "id": "dd1c44a45200e9aade617e7008d249afe7266073",
-    "title": "Google accused of pushing 'free for life' G Suite users onto paid plans",
-    "link": "https://www.theregister.com/applications/2026/05/19/google-accused-of-pushing-free-for-life-g-suite-users-onto-paid-plans/5242567",
-    "summary": "Users claim personal family domains are being falsely flagged for commercial use, leaving long-time G Suite Legacy customers facing a pay-up-or-lose-access ultimatum",
-    "isoDate": "2026-05-19T22:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "applications"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242587&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0b1b22b560356ef257ed9e618e951f2d2f823e72",
-    "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
-    "link": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013",
-    "summary": "'Thousands' of US victims, including 12+ machines owned and operated by Redmond",
-    "isoDate": "2026-05-19T21:56:18Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5243050&width=800",
     "pinned": false
   },
   {
