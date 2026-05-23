@@ -1,5 +1,20 @@
 [
   {
+    "id": "1f55634b556717d795a1f9f1a2b8ab884a9c1846",
+    "title": "Feds unwittingly leak pilots' pre-crash conversation",
+    "link": "https://www.theregister.com/science/2026/05/23/feds-unwittingly-leak-pilots-pre-crash-conversation/5245462",
+    "summary": "Release of spectrogram of cockpit recorder audio allows conversation recovery with 'emerging' decades-old tech",
+    "isoDate": "2026-05-22T23:20:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=241517&width=800",
+    "pinned": false
+  },
+  {
     "id": "6d40d44d20a8022e6fad89819f69663ef6c9165e",
     "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
     "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
@@ -56,6 +71,36 @@
     "pinned": false
   },
   {
+    "id": "aa81c26ef3f978eb8eb0ec00aaab5fc8abf10f04",
+    "title": "Minor edits to AI skills can make agents go rogue",
+    "link": "https://www.theregister.com/ai-ml/2026/05/22/minor-edits-to-ai-skills-can-make-agents-go-rogue/5245413",
+    "summary": "Text is the new attack",
+    "isoDate": "2026-05-22T21:37:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=252635&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7917d76c06ceebfd2ea6c3f7cf102da9860ff307",
+    "title": "A Russian speaker and jailbroken Gemini went on a hacking spree and emptied at least one MAGA victim's crypto wallets",
+    "link": "https://www.theregister.com/cyber-crime/2026/05/22/jailbroken-gemini-helped-russian-speaking-fraudster-target-maga-crypto-users/5245390",
+    "summary": "Hey, Gemini, how much can we earn from one pump-and-dump cycle?",
+    "isoDate": "2026-05-22T21:18:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=229879&width=800",
+    "pinned": false
+  },
+  {
     "id": "3c0f5b58152b238cfcab5d7a1eab03535e04d3d1",
     "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
     "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
@@ -72,6 +117,21 @@
       "The View"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-500x500-1758655749.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b90968f960d674f62cbbf6c25e41bd63b23505e3",
+    "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
+    "link": "https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379",
+    "summary": "Limping Llama model needs a crutch made of surveillance tools",
+    "isoDate": "2026-05-22T20:55:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=250238&width=800",
     "pinned": false
   },
   {
@@ -1237,66 +1297,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=5243591&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5a2d8273aba657226db80371357a12c792cc0090",
-    "title": "Intuit axes 3,000 – without blaming AI",
-    "link": "https://www.theregister.com/saas/2026/05/21/intuit-axes-3000-without-blaming-ai/5243807",
-    "summary": "'Margin expansion' and a 'faster, leaner' company are CEO Sasan Goodarzi's goals",
-    "isoDate": "2026-05-20T23:35:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=252298&width=800",
-    "pinned": false
-  },
-  {
-    "id": "623bbebfb22bc8c13f14a1f15d27e84acc4e0081",
-    "title": "AI code accelerates production failures and spending, study finds",
-    "link": "https://www.theregister.com/ai-ml/2026/05/20/ai-code-boom-drives-production-failures-higher-spending/5243787",
-    "summary": "CloudBees survey exposes verification gap",
-    "isoDate": "2026-05-20T22:43:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5243818&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6a57f659c0fdb5cf29af278747df4b41118b5bd9",
-    "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
-    "link": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662",
-    "summary": "Another day, another AI bug silently fixed with no CVE and no public disclosure",
-    "isoDate": "2026-05-20T20:34:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=224154&width=800",
-    "pinned": false
-  },
-  {
-    "id": "71ae12f333e574983a6e52e27acb4e1997ac1446",
-    "title": "Intel's CEO reveals early hiring challenges as bankruptcy concerns deterred top talent",
-    "link": "https://www.theregister.com/systems/2026/05/20/intels-ceo-reveals-early-hiring-challenges-as-bankruptcy-concerns-deterred-top-talent/5243546",
-    "summary": "Recovering chipmaker looks beyond 14A to 10A and 7A process nodes in foundry comeback bid",
-    "isoDate": "2026-05-20T20:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=257335&width=800",
     "pinned": false
   },
   {
