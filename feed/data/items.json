@@ -1,5 +1,108 @@
 [
   {
+    "id": "aaa98b8e313e0e9ecb6988db544a48584b2824db",
+    "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
+    "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+    "summary": "California civil rights agency hails win over Tesla, anticipates trial in July.",
+    "isoDate": "2026-05-27T21:08:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Tesla"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/tesla-fremont-500x500-1779913514.jpg",
+    "pinned": false
+  },
+  {
+    "id": "329c0acaeb85c396a4d14a9d331de9924d49800e",
+    "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+    "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+    "summary": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
+    "isoDate": "2026-05-27T20:56:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "side channel attacks",
+      "solid state drives",
+      "SSDs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/solid-state-drive-ssd-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7d46be6d9f159285614f2fac0c70d89e003f1db6",
+    "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
+    "link": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
+    "summary": "NASA science satellites show dual use in locating sources of GPS interference.",
+    "isoDate": "2026-05-27T20:43:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Space",
+      "Tech",
+      "cygnss",
+      "GNSS",
+      "GPS",
+      "GPS jamming",
+      "NASA",
+      "nisar",
+      "satellites",
+      "signal jammer"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/NISAR-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a92d10ca2796d61638aa99986ee0864df912a51c",
+    "title": "Mina the Hollower is the best old-school action adventure I've played in a while",
+    "link": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
+    "summary": "Smooth movement, compelling combat, and tons of secrets make for an innovative throwback.",
+    "isoDate": "2026-05-27T20:22:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "action adventure",
+      "mina the hollower",
+      "yacht club games",
+      "Zelda"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/mina1-500x500.webp",
+    "pinned": false
+  },
+  {
+    "id": "922b7edb844c6d1e74cb988facbe9ae7bf73ddc9",
+    "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
+    "link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+    "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”",
+    "isoDate": "2026-05-27T19:59:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI chips",
+      "china",
+      "chip tariffs",
+      "Donald Trump",
+      "Jensen Huang",
+      "NVIDIA",
+      "Nvidia H200",
+      "semiconductor tariffs",
+      "Taiwan"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2212801534-2-500x500-1779906949.jpg",
+    "pinned": false
+  },
+  {
     "id": "a3150c016a41ba311bb906de445044df81acab40",
     "title": "Roku OS’s home screen now features a large, permanent ad",
     "link": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
@@ -730,46 +833,6 @@
     "pinned": false
   },
   {
-    "id": "07aed82fd907425d93f3e9d9d52719cdec1c6bbc",
-    "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
-    "link": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-    "summary": "Sub-$600 laptops have existed for years, but consistently good ones remain rare.",
-    "isoDate": "2026-05-26T20:47:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "Intel",
-      "intel core",
-      "intel core series 3",
-      "macbook neo",
-      "wildcat lake"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3d614cc22e936ab40b7eccd9b320c9f1e0d6772a",
-    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-    "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-    "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
-    "isoDate": "2026-05-26T19:50:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "AI agents",
-      "Starlette",
-      "vulnerability"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3d2fd0ad589a082dc850415a78f1cf9d9bb75ca8",
     "title": "California may let Linux bypass age check",
     "link": "https://www.theregister.com/software/2026/05/26/california-may-let-linux-bypass-age-check/5246575",
@@ -782,24 +845,6 @@
       "software"
     ],
     "image": "https://image.theregister.com/?imageId=254050&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a40997fedde1c5e46051a9d010803c5b7db57121",
-    "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
-    "link": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
-    "summary": "Getting carbon and sulfur into Earth’s interior may be part of oxygen’s story.",
-    "isoDate": "2026-05-26T18:30:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scott K. Johnson",
-    "tags": [
-      "Science",
-      "atmospheric oxygen",
-      "geology",
-      "oxygenation"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-157380693-500x500.jpg",
     "pinned": false
   },
   {
@@ -828,29 +873,6 @@
       "cyber-crime"
     ],
     "image": "https://image.theregister.com/?imageId=5246533&width=800",
-    "pinned": false
-  },
-  {
-    "id": "53d8073ee2628f3f6922484c265ac82c852afa0f",
-    "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-    "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-    "summary": "A creepy saved post on Instagram linked man to AI porn account, FBI says.",
-    "isoDate": "2026-05-26T17:46:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ai porn",
-      "Artificial Intelligence",
-      "etc",
-      "fbi",
-      "nudify",
-      "revenge porn",
-      "take it down act"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2228756838medium-500x500.jpg",
     "pinned": false
   },
   {
@@ -894,27 +916,6 @@
       "science"
     ],
     "image": "https://image.theregister.com/?imageId=5246501&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1d06f4d554f50233ba09057ecd55e4b2b8b8e90c",
-    "title": "3D-printable humanoid legs let robotics experiments run wild",
-    "link": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
-    "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers.",
-    "isoDate": "2026-05-26T17:16:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Bipedalism",
-      "Hugging Face",
-      "humanoid robots",
-      "robot training",
-      "Robotics",
-      "robots"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Hugging-Face-LeHumanoid-Robot-legs-500x500.png",
     "pinned": false
   },
   {
@@ -1560,19 +1561,6 @@
     "author": "Alan Manning",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3228997a394ba96a869563672803af6ff8aed893",
-    "title": "Tesla Starts Hiring FSD Testers in China Ahead of V14 Launch",
-    "link": "https://www.notateslaapp.com/news/4177/tesla-starts-hiring-fsd-testers-in-china-ahead-of-v14-launch",
-    "summary": "Tesla is moving rapidly to globalize its advanced driver-assistance software, and its largest vehicle market is next on the radar&hellip; <a href=\"https://www.notateslaapp.com/news/4177/tesla-starts-hiring-fsd-testers-in-china-ahead-of-v14-launch\">Read More</a>",
-    "isoDate": "2026-05-20T19:44:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-australia-screen.webp/bf31758a6456f6110272bc6794c48397/fsd-australia-screen.jpg",
     "pinned": false
   }
 ]
