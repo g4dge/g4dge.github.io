@@ -1,5 +1,50 @@
 [
   {
+    "id": "c3e16c943b52754016845bbd3485553811df64b0",
+    "title": "InPost locker caught shipping unactivated Windows",
+    "link": "https://www.theregister.com/offbeat/2026/05/27/inpost-locker-caught-shipping-unactivated-windows/5245256",
+    "summary": "Contactless collection meets Microsoft's licensing reminder",
+    "isoDate": "2026-05-27T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5245291&width=800",
+    "pinned": false
+  },
+  {
+    "id": "febdd77ebec2442efe2fe75a7ea1028f6d969e12",
+    "title": "Explainer: Edge AI",
+    "link": "https://www.theregister.com/ai-ml/2026/05/27/explainer-edge-ai/5246783",
+    "summary": "You can run AI at the edge, if your infrastructure supports it",
+    "isoDate": "2026-05-27T08:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5246787&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d12daa3a206db5adb1dbffcdb63cdc06fefd5708",
+    "title": "Iran slowly reconnects to the global internet",
+    "link": "https://www.theregister.com/storage/2026/05/27/iran-slowly-reconnects-to-the-global-internet/5246803",
+    "summary": "Traffic floods back, without much of an explanation",
+    "isoDate": "2026-05-27T05:57:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5224613&width=800",
+    "pinned": false
+  },
+  {
     "id": "1a579bbf9df8d8066cdfdceee6c2b4836191f2ca",
     "title": "Cisco making SONiC available to all customers – not just hyperscalers",
     "link": "https://www.theregister.com/networks/2026/05/27/cisco-making-sonic-available-to-all-customers-not-just-hyperscalers/5246733",
@@ -11,7 +56,7 @@
     "tags": [
       "networks"
     ],
-    "image": "https://image.theregister.com/?imageId=5246756&width=800",
+    "image": "https://image.theregister.com/?imageId=5246778&width=800",
     "pinned": false
   },
   {
@@ -33,7 +78,7 @@
     "id": "42b5980add02baea50b3c12fdc576794591f193d",
     "title": "Anthropic cofounder hallucinates ghost in the machine after hearing the Pope speak about AI",
     "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-cofounder-hallucinates-ghost-in-the-machine-after-hearing-the-pope-speak-about-ai/5246671",
-    "summary": "The nature of AI is unnatural. It's not intelligent. It's not human.",
+    "summary": "The nature of AI is unnatural. It's not intelligent. It's not human",
     "isoDate": "2026-05-27T00:38:57Z",
     "source": "The Register",
     "category": "Tech",
@@ -1319,51 +1364,6 @@
       "saas"
     ],
     "image": "https://image.theregister.com/?imageId=5245073&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d9ae19caac7943270f96fffe602f7d40fc8513cc",
-    "title": "FBI warns Kali365 phishing kit is stealing Microsoft OAuth tokens at scale",
-    "link": "https://www.theregister.com/cyber-crime/2026/05/22/fbi-warns-of-kali365-as-device-code-phishing-soars/5245024",
-    "summary": "MFA? No problem, says crimeware that tricks users into handing attackers the keys to M365",
-    "isoDate": "2026-05-22T12:27:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=262937&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9cb113b19bb91e360d74ae18802d048cd4e74cc1",
-    "title": "ZTE Day Indonesia 2026 strengthens AI innovation and digital infrastructure collaboration to accelerate Indonesia's digital transformation",
-    "link": "https://www.theregister.com/networks/2026/05/22/zte-day-indonesia-2026-strengthens-ai-innovation-and-digital-infrastructure-collaboration-to-accelerate-indonesias-digital-transformation/5245048",
-    "summary": "The annual tech showcase highlights next-gen AI, cloud, and future-ready ICT solutions while uniting ecosystem partners to build the foundation for the nation's AI era",
-    "isoDate": "2026-05-22T12:04:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5245060&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b094b7d322328510f6547bf3d6fafdf57aa7c9c8",
-    "title": "SpaceX scrubs Starship launch with seconds to go",
-    "link": "https://www.theregister.com/science/2026/05/22/spacex-scrubs-starship-launch-with-seconds-to-go/5244968",
-    "summary": "Not all bad news: Crypto billionaire signs up for a mission to Mars",
-    "isoDate": "2026-05-22T12:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=226873&width=800",
     "pinned": false
   },
   {
