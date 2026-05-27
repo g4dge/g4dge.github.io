@@ -1,5 +1,20 @@
 [
   {
+    "id": "8640b3e9499fa10406d1ac91aecb2b37e556c8ec",
+    "title": "Snowflake to burn $6B on AWS Graviton CPUs and AI accelerators",
+    "link": "https://www.theregister.com/off-prem/2026/05/27/snowflake-to-burn-6b-on-aws-graviton-cpus-ai-infra/5247475",
+    "summary": "Dataware house gambles cloud conveniences, AI accelerated insights will justify the cost.",
+    "isoDate": "2026-05-27T21:20:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=227469&width=800",
+    "pinned": false
+  },
+  {
     "id": "aaa98b8e313e0e9ecb6988db544a48584b2824db",
     "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
     "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
@@ -13,6 +28,21 @@
       "Tesla"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/tesla-fremont-500x500-1779913514.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6d274c662d22f41788770d34305b33b874f5e949",
+    "title": "FAA grounds SpaceX’s Starship after another launch mishap",
+    "link": "https://www.theregister.com/offbeat/2026/05/27/faa-grounds-spacexs-starship-after-another-launch-mishap/5247446",
+    "summary": "IPO? More like IP-uh-oh",
+    "isoDate": "2026-05-27T20:57:38Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5238835&width=800",
     "pinned": false
   },
   {
@@ -59,6 +89,21 @@
     "pinned": false
   },
   {
+    "id": "36e2059eae5c95e0c4a9cda0c44c2b803f3d93ad",
+    "title": "Malware dev tries to steal Claude users' secrets, writes npm slop, leaks own GitHub private token",
+    "link": "https://www.theregister.com/cyber-crime/2026/05/27/supply-chain-brain-drain-npm-attacker-foolishly-leaks-own-github-private-token/5247424",
+    "summary": "Script kiddies these days",
+    "isoDate": "2026-05-27T20:33:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5247468&width=800",
+    "pinned": false
+  },
+  {
     "id": "a92d10ca2796d61638aa99986ee0864df912a51c",
     "title": "Mina the Hollower is the best old-school action adventure I've played in a while",
     "link": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
@@ -75,6 +120,36 @@
       "Zelda"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/mina1-500x500.webp",
+    "pinned": false
+  },
+  {
+    "id": "23d6fbbb3742a74bb517a0b6f6543b2df50c6e82",
+    "title": "Argonne flexes spare supercompute to build private AI inference service",
+    "link": "https://www.theregister.com/ai-ml/2026/05/27/argonne-flexes-spare-supercompute-to-build-private-ai-inference-servic/5247362",
+    "summary": "Think ChatDoE",
+    "isoDate": "2026-05-27T20:15:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=232762&width=800",
+    "pinned": false
+  },
+  {
+    "id": "70b6107c84d4e3fa3f95c4fa1326d2de20532f04",
+    "title": "ICANN again intervenes to defend AFRINIC",
+    "link": "https://www.theregister.com/networks/2026/05/27/icann-again-intervenes-to-defend-afrinic/5246790",
+    "summary": "Africa’s regional internet registry and its longtime antagonist are fighting on old and new fronts",
+    "isoDate": "2026-05-27T20:00:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=263294&width=800",
     "pinned": false
   },
   {
@@ -100,6 +175,21 @@
       "Taiwan"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2212801534-2-500x500-1779906949.jpg",
+    "pinned": false
+  },
+  {
+    "id": "27d345e7232f91b9638eefa6dc57982a91cc248d",
+    "title": "AI hiring algorithms reject Black, Asian job seekers at higher rates",
+    "link": "https://www.theregister.com/ai-ml/2026/05/27/ai-hiring-algorithms-reject-black-asian-job-seekers-at-higher-rates/5247387",
+    "summary": "Stanford researchers argue need for transparency and independent testing",
+    "isoDate": "2026-05-27T19:39:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5247407&width=800",
     "pinned": false
   },
   {
@@ -1235,21 +1325,6 @@
     "pinned": false
   },
   {
-    "id": "2f5a743d2635a37dc78c37d2b3d7a8d1f4cb3f5a",
-    "title": "Google is cannibalizing the web to feed AI",
-    "link": "https://www.theregister.com/ai-ml/2026/05/25/google-is-cannibalizing-the-web-to-feed-ai/5244641",
-    "summary": "Google Search used to direct users to websites; AI Mode will keep them in Google's garden",
-    "isoDate": "2026-05-25T12:25:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5245335&width=800",
-    "pinned": false
-  },
-  {
     "id": "e5422041d45b1568b129511f9ba2757e27f2e6dd",
     "title": "This is my island",
     "link": "https://aeon.co/videos/tour-an-island-community-built-from-scratch-in-this-film-from-1972",
@@ -1273,81 +1348,6 @@
     "author": "John Drake",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8520608537bf928cb25409bbdff243d5cad025b1",
-    "title": "Digital sovereignty, the musical: One engineer’s bizarre crusade against hyperscalers",
-    "link": "https://www.theregister.com/offbeat/2026/05/25/digital-sovereignty-the-musical-one-engineers-bizarre-crusade-against-hyperscalers/5245148",
-    "summary": "A French engineer has declared war on AWS, Google and Microsoft using AI-generated sea shanties, satirical poetry, and a multilingual protest campaign",
-    "isoDate": "2026-05-25T09:38:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5245171&width=800",
-    "pinned": false
-  },
-  {
-    "id": "64304f17f5eab9c514d8f4b5f0e24c939863279d",
-    "title": "Under-trained techie didn't claim overtime for mistakenly failing to phone it in",
-    "link": "https://www.theregister.com/networks/2026/05/25/under-trained-techie-didnt-claim-overtime-for-mistakenly-failing-to-phone-it-in/5242388",
-    "summary": "After making a medical clinic's network rather ill, she 'kept working until I somewhat knew what I was doing'",
-    "isoDate": "2026-05-25T08:09:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242408&width=800",
-    "pinned": false
-  },
-  {
-    "id": "65b64183b3d3a52b3799ac9429cd4f8fc15c17b8",
-    "title": "OpenBSD 7.9 arrives, a diamond in the rough proud of every sharp edge",
-    "link": "https://www.theregister.com/software/2026/05/25/openbsd-79-arrives-a-diamond-in-the-rough-proud-of-every-sharp-edge/5244877",
-    "summary": "Sixtieth release adds more cores, delayed hibernation, and basic Wi-Fi 6 without losing its ascetic streak",
-    "isoDate": "2026-05-25T07:33:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5244954&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3345356f4f9516277c3c3358929a448f6bf3f3be",
-    "title": "Anthropic to release Mythos-class models to the public",
-    "link": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
-    "summary": "AI flaw-finder still under lock and key for now while company figures out guardrails, but extends access to more users including governments",
-    "isoDate": "2026-05-25T07:09:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=230774&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1b9641a32c1275b9f09a2901d9650fef25e5b215",
-    "title": "Samsung memory workers call off strike and may score six-figure bonuses",
-    "link": "https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573",
-    "summary": "PLUS: Huawei says it’s replaced Moore’s Law; Chinese mobile plans add token allowances; Singtel slinging Optus; And more!",
-    "isoDate": "2026-05-25T04:14:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=195862&width=800",
     "pinned": false
   },
   {
