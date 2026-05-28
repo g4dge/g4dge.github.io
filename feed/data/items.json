@@ -1,5 +1,200 @@
 [
   {
+    "id": "4a13549129e93248d5df8366c75e6d90da6a4873",
+    "title": "Researchers develop a new process to get lithium out of rocks",
+    "link": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
+    "summary": "If it scales up, it can help us diversify our sources of a key element.",
+    "isoDate": "2026-05-28T19:30:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "batteries",
+      "chemistry",
+      "lithium",
+      "materials science",
+      "ore",
+      "processing"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1272885374-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c5b27cda660277ae3b3750a48a86d3a8a67db303",
+    "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
+    "link": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
+    "summary": "FBI: Googler who knew outcome of bets in advance made $1.2M profit on Polymarket.",
+    "isoDate": "2026-05-28T19:01:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "google",
+      "polymarket",
+      "prediction markets"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/google-logo-500x500-1736450957.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7270867c052371b855f5c5287fb599e22d9401b3",
+    "title": "Google, Canonical team up to certify Ubuntu images for TPU VMs",
+    "link": "https://www.theregister.com/off-prem/2026/05/28/google-canonical-team-up-to-certify-ubuntu-images-for-tpu-vms/5248028",
+    "summary": "Chocolate Factory shifts Tensor Processing Unit Ubuntu support back upstream",
+    "isoDate": "2026-05-28T19:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=261674&width=800",
+    "pinned": false
+  },
+  {
+    "id": "01787253645021a8c2fdaac19cbdf8eb163ef404",
+    "title": "A respectable port of Age of Empires II: Definitive Edition invades macOS",
+    "link": "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
+    "summary": "The port seems solid, and all DLC is supported—but there's no crossplay, sadly.",
+    "isoDate": "2026-05-28T18:42:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "Apple",
+      "Gaming",
+      "age of empires",
+      "age of empires 2",
+      "Age of Empires II: Definitive Edition",
+      "aoe",
+      "AoE 2",
+      "Feral Interactive",
+      "Mac gaming",
+      "MacOS",
+      "real time strategy",
+      "rts",
+      "strategy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/20260528114910_1-500x500-1779991646.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9ea24bcb2823dbae468711d11a49f1bafb5a4cef",
+    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+    "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+    "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
+    "isoDate": "2026-05-28T18:30:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Apple",
+      "Google",
+      "apple",
+      "Artificial Intelligence",
+      "gemini",
+      "google",
+      "iphone"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-google-logo-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "50f67812d0eeef1f2155c160248173e7c1eb0cc2",
+    "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
+    "link": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
+    "summary": "Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
+    "isoDate": "2026-05-28T18:17:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "Amazon",
+      "amazon leo",
+      "ariane 6",
+      "Arianespace",
+      "atlas v",
+      "blue origin",
+      "broadband",
+      "launch",
+      "new glenn",
+      "ng-4",
+      "united launch alliance",
+      "vulcan"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HJVyIu2WoAEFclh-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b013fb5ce2ff137408043db95237584d4f30e524",
+    "title": "How pigeons exploit magnetic fields for navigation",
+    "link": "https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/",
+    "summary": "Iron-rich immune cells in the liver may act as sensors for magnetic fields, serving as an internal compass.",
+    "isoDate": "2026-05-28T18:00:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "animal behavior",
+      "animals",
+      "avian science",
+      "Biology",
+      "magneto reception",
+      "Pigeons"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/pigeon-TOP-500x500-1779715601.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8341a0481a86dd6b5ead144d618767469813bbce",
+    "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+    "link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+    "summary": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops.",
+    "isoDate": "2026-05-28T17:10:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Gaming",
+      "Tech",
+      "Intel",
+      "Intel Arc",
+      "steam deck",
+      "steamos",
+      "windows 11",
+      "XBox",
+      "xbox mode"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-arc-g-series-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c34ff296f0fbefc86cb7816f2492dc3c31d48466",
+    "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
+    "link": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+    "summary": "Here’s why Anthropic and OpenAI are on board with Illinois safety testing.",
+    "isoDate": "2026-05-28T17:01:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai safety testing",
+      "Artificial Intelligence",
+      "frontier ai",
+      "Illinois"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1476750862-500x500-1779984827.jpg",
+    "pinned": false
+  },
+  {
     "id": "92495bfb19d0de0ab25c42992b72961fa284d671",
     "title": "Microsoft tests the 15-character limit of Windows Server admins' patience",
     "link": "https://www.theregister.com/oses/2026/05/28/microsoft-tests-the-15-character-limit-of-windows-server-admins-patience/5247943",
@@ -641,28 +836,6 @@
     "pinned": false
   },
   {
-    "id": "dc001892e6e346b98ec940d313ace9c593939df1",
-    "title": "US Space Force confirms SpaceX will build sensor-to-shooter targeting network",
-    "link": "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
-    "summary": "\"We aren’t trading speed for scale; we are demanding both,\" says the military's program manager.",
-    "isoDate": "2026-05-27T18:19:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "military space",
-      "space data network",
-      "spacex",
-      "starlink",
-      "starshield",
-      "US Space Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/9467712-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b8bf1ea143a24494b0013eed735826381b3766b4",
     "title": "CrowdStrike, Google shatter Glassworm botnet",
     "link": "https://www.theregister.com/cyber-crime/2026/05/27/crowdstrike-google-shatter-glassworm-botnet/5247337",
@@ -678,49 +851,6 @@
     "pinned": false
   },
   {
-    "id": "9ed530cf2b8d05ff34e8fd1a7f3d019d865739f1",
-    "title": "Disclosure Day final trailer features Spielberg himself",
-    "link": "https://arstechnica.com/culture/2026/05/disclosure-day-final-trailer-features-spielberg-himself/",
-    "summary": "Director describes how his views on existence of aliens have changed, interspersed with footage from film.",
-    "isoDate": "2026-05-27T17:51:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Disclosure Day",
-      "entertainment",
-      "film trailers",
-      "Steven Spielberg",
-      "Trailers",
-      "Universal Pictures"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/disclosure2-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "601c71efa6b4fd4fccaa69eae7f54ee6e16ab80e",
-    "title": "YouTube to begin automatically labeling AI videos",
-    "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-    "summary": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though.",
-    "isoDate": "2026-05-27T17:36:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "Ai video",
-      "Artificial Intelligence",
-      "generative ai",
-      "google",
-      "YouTube"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/youtube-logo-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a8416c2f11ec8e87d05d7476021c38e502e185cf",
     "title": "Bosses blinded by confidence about shadow AI use by workers",
     "link": "https://www.theregister.com/ai-ml/2026/05/27/bosses-blinded-by-confidence-about-shadow-ai-use-by-workers/5247275",
@@ -733,23 +863,6 @@
       "ai + ml"
     ],
     "image": "https://image.theregister.com/?imageId=5247310&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a1eb72fca61ca1592f23ff00bc9062648173dca8",
-    "title": "Smart light company Govee apologizes for “white supremacy” marketing imagery",
-    "link": "https://arstechnica.com/gadgets/2026/05/govee-says-it-mistakenly-licensed-white-supremacy-book-pic-to-sell-smart-lights/",
-    "summary": "PR exec says Govee \"did not meet the standard required.\"",
-    "isoDate": "2026-05-27T17:00:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "goi",
-      "smart home"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/PC-1_ffbd8ec7-f183-40e0-acdb-89add26bcfa3-500x500.jpg",
     "pinned": false
   },
   {
@@ -836,43 +949,6 @@
       "science"
     ],
     "image": "https://image.theregister.com/?imageId=5237915&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2f62bf534f4ab93651f634624011d892b00b8df6",
-    "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
-    "link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
-    "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
-    "isoDate": "2026-05-27T15:06:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Gaming",
-      "Tech",
-      "GeForce",
-      "GPU",
-      "NVIDIA"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-500x500-1779892997.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6aee95d53c7f181699f674b4a366542847aaa20d",
-    "title": "Volvo gets US government approval to bypass Chinese connected-car ban",
-    "link": "https://arstechnica.com/cars/2026/05/volvo-gets-us-government-approval-to-bypass-chinese-connected-car-ban/",
-    "summary": "The ban for model year 2027 onward began under Biden and has been enacted by Trump.",
-    "isoDate": "2026-05-27T14:44:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "connected car privacy",
-      "Polestar",
-      "volvo"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/EX60-Global-media-drive-in-Barcelona-500x500.jpg",
     "pinned": false
   },
   {
@@ -1008,46 +1084,6 @@
       "devops"
     ],
     "image": "https://image.theregister.com/?imageId=258962&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c83087c37a6abaee4d221c0ded697c11c0bd7012",
-    "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
-    "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
-    "summary": "Pretty little phones with pretty big price tags.",
-    "isoDate": "2026-05-27T11:00:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Reviews",
-      "Tech",
-      "Foldables",
-      "motorola",
-      "motorola razr",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f925d75ed22c170cefc7d4af5a63f21678ca8032",
-    "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
-    "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-    "summary": "The feds are raising the alarm about a new category of threat.",
-    "isoDate": "2026-05-27T10:30:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Daniel Boguslaw, WIRED.com",
-    "tags": [
-      "AI",
-      "AI harms",
-      "anti-tech",
-      "extremism",
-      "online extremism",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2263649204-500x500.jpg",
     "pinned": false
   },
   {
@@ -1254,21 +1290,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/camera-lens-wiper.webp/df719f8ddf8d4a46a15d074385f85644/camera-lens-wiper.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3bce7bbc1d57f5f36280c1960fff399d99f83149",
-    "title": "MyPillow must decide whether to be firm or soft as ransomware crims demand pay",
-    "link": "https://www.theregister.com/cyber-crime/2026/05/26/mypillow-appears-on-play-ransomware-leak-site/5246513",
-    "summary": "Guess they could deny the alleged intrusion … like the 2020 election results",
-    "isoDate": "2026-05-26T18:02:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5246533&width=800",
     "pinned": false
   },
   {
@@ -1562,19 +1583,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/v4supercharger_80.jpg/071db6497119a44695afe575e0a2a670/v4supercharger_80.jpg",
-    "pinned": false
-  },
-  {
-    "id": "303deaefe980082870ded70b13c6f5730b067228",
-    "title": "SpaceX Files for Historic IPO: Here's What We Learned",
-    "link": "https://www.notateslaapp.com/news/4183/spacex-files-for-historic-ipo-heres-what-we-learned",
-    "summary": "The public filing sets the stage for a formal roadshow period expected to kick off this June, meaning we could see a public listing before the summer concludes&hellip; <a href=\"https://www.notateslaapp.com/news/4183/spacex-files-for-historic-ipo-heres-what-we-learned\">Read More</a>",
-    "isoDate": "2026-05-21T19:02:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/starlink_deployment.jpg/03ca1f294e9098b243a48307f2b587a2/starlink_deployment.jpg",
     "pinned": false
   }
 ]
