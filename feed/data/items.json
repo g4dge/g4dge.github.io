@@ -1,5 +1,94 @@
 [
   {
+    "id": "26cd7ff9dc99d4ba9bf998ec3d5b58f47886b21b",
+    "title": "LLMs believe false statements even after explicit warnings that they're false",
+    "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+    "isoDate": "2026-05-28T21:29:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "falsehoods",
+      "LLMs",
+      "research",
+      "training"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bc3ca44337a2442474e842e9fbb61b66bb62e902",
+    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+    "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+    "isoDate": "2026-05-28T20:29:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "AI agents",
+      "prompt injections",
+      "vibe coding"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c34309c86f4863ba41600e4390d1af3d71730556",
+    "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops",
+    "link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+    "summary": "Six 0-days, three under active exploitation, more to come on July 14?",
+    "isoDate": "2026-05-28T20:19:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=254471&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1052d72397c0a0f1fb738a54d48166ff60df8568",
+    "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
+    "link": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
+    "summary": "There are strategies to improve healthcare, but US isn't trying them.",
+    "isoDate": "2026-05-28T20:18:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "America",
+      "healthcare",
+      "life expectancy",
+      "maternal mortality",
+      "premature death"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1143294153-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "15b3d2f4d2c6ee4e3647dad414feefc73074e510",
+    "title": "Snowflake buys Natoma to help freeze out rogue agents",
+    "link": "https://www.theregister.com/ai-ml/2026/05/28/snowflake-buys-natoma-to-help-freeze-out-rogue-agents/5248062",
+    "summary": "It is the database titan’s sixth acquisition announcement since June 2025",
+    "isoDate": "2026-05-28T19:52:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5248082&width=800",
+    "pinned": false
+  },
+  {
     "id": "4a13549129e93248d5df8366c75e6d90da6a4873",
     "title": "Researchers develop a new process to get lithium out of rocks",
     "link": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
@@ -30,6 +119,7 @@
     "category": "Tech",
     "author": "Jon Brodkin",
     "tags": [
+      "Google",
       "Policy",
       "google",
       "polymarket",
@@ -774,68 +864,6 @@
     "pinned": false
   },
   {
-    "id": "d61b30283beaafe73523b050259e422004c7083b",
-    "title": "Valve's Steam Deck is back in stock after months, but you won't like it",
-    "link": "https://arstechnica.com/gadgets/2026/05/valves-steam-deck-is-back-in-stock-after-months-but-you-wont-like-it/",
-    "summary": "Four-year-old handheld is saddled with an unfortunately modern price tag.",
-    "isoDate": "2026-05-27T19:02:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Gaming",
-      "Tech",
-      "Steam",
-      "steam deck",
-      "Valve"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-2.34.28-PM-500x500-1779906923.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "d809e210b73c0f562cd44538ee592628eb4aad47",
-    "title": "Trump admin to block Ebola-exposed Americans from US, move them to Kenya",
-    "link": "https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/",
-    "summary": "Trump official asked CDC staff to volunteer to screen travelers at airports.",
-    "isoDate": "2026-05-27T18:52:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "CDC",
-      "drc",
-      "ebola",
-      "kenya",
-      "outbreak",
-      "travel restrictions",
-      "Trump",
-      "WHO"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277709807-1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cc59269975270a063ff8197246c5ff2195e1acdf",
-    "title": "\"Little red dot\" in early Universe is a naked supermassive black hole",
-    "link": "https://arstechnica.com/science/2026/05/little-red-dot-in-early-universe-is-a-naked-supermassive-black-hole/",
-    "summary": "The black hole accounts for over two-thirds the mass of the object it inhabits.",
-    "isoDate": "2026-05-27T18:37:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "astronomy",
-      "astrophysics",
-      "black hole",
-      "JWST",
-      "supermassive black hole"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-2-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "b8bf1ea143a24494b0013eed735826381b3766b4",
     "title": "CrowdStrike, Google shatter Glassworm botnet",
     "link": "https://www.theregister.com/cyber-crime/2026/05/27/crowdstrike-google-shatter-glassworm-botnet/5247337",
@@ -1250,36 +1278,6 @@
     "pinned": false
   },
   {
-    "id": "dafe7bdfa0963c428c885cff116a0a6b3432912c",
-    "title": "NASA to pull an IKEA by dropping tons of plastic, metal, and glass on the Moon",
-    "link": "https://www.theregister.com/science/2026/05/27/nasa-plans-moon-base-buildout-with-rovers-drones-cargo-landers/5246638",
-    "summary": "Astronauts will get to self-assemble lunar base",
-    "isoDate": "2026-05-27T00:04:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5246668&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3d2fd0ad589a082dc850415a78f1cf9d9bb75ca8",
-    "title": "California may let Linux bypass age check",
-    "link": "https://www.theregister.com/software/2026/05/26/california-may-let-linux-bypass-age-check/5246575",
-    "summary": "Exemption in amendment offers relief to open source software makers",
-    "isoDate": "2026-05-26T19:49:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=254050&width=800",
-    "pinned": false
-  },
-  {
     "id": "f48a5ac4ef9da13edb9185d447d301ec76d12c6f",
     "title": "Tesla Patents Self-Cleaning Camera Lens With Built-In Wiper",
     "link": "https://www.notateslaapp.com/news/4207/tesla-patents-self-cleaning-camera-lens-with-built-in-wiper",
@@ -1570,19 +1568,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_49.webp/566f1c6ab3feee67bf3d23a57c75e21a/group_49.jpg",
-    "pinned": false
-  },
-  {
-    "id": "107f04897b008b1760fb53ceaed3e6862fec1c32",
-    "title": "Tesla Announces Q1 2026 Supercharger Voting Winners",
-    "link": "https://www.notateslaapp.com/news/4184/tesla-announces-q1-2026-supercharger-voting-winners",
-    "summary": "Tesla has officially closed another chapter in its ongoing charging network expansion, announcing the latest results from its community-led expansion project&hellip; <a href=\"https://www.notateslaapp.com/news/4184/tesla-announces-q1-2026-supercharger-voting-winners\">Read More</a>",
-    "isoDate": "2026-05-21T20:03:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/v4supercharger_80.jpg/071db6497119a44695afe575e0a2a670/v4supercharger_80.jpg",
     "pinned": false
   }
 ]
