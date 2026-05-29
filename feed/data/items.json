@@ -1,5 +1,72 @@
 [
   {
+    "id": "92c69e0ee91d5daa6c0599c5d2bc93a6d71104e4",
+    "title": "Proposed new US funding rules: We can cancel any grant at any time",
+    "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+    "summary": "Peer review now optional, political staff would screen grants for forbidden topics.",
+    "isoDate": "2026-05-29T22:58:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Policy",
+      "Science",
+      "Federal government",
+      "federal register",
+      "OMB",
+      "politics",
+      "Russell Vought",
+      "science funding"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8a0456fe9a34ea2a8c460445849c4646c0a3cb28",
+    "title": "AWS reportedly to tuck Elon Musk's Grok into Bedrock, despite zero enterprise demand",
+    "link": "https://www.theregister.com/ai-ml/2026/05/29/aws-reportedly-to-tuck-elon-musks-grok-into-bedrock-despite-zero-enterprise-demand/5248832",
+    "summary": "The energy drink of frontier models",
+    "isoDate": "2026-05-29T22:23:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=4093846&width=800",
+    "pinned": false
+  },
+  {
+    "id": "61ef3d845a892c45b0aef1037a47e4a2055dee92",
+    "title": "Lone attacker published 14 malicious npm packages mimicking popular OpenSearch, Elasticsearch libraries",
+    "link": "https://www.theregister.com/security/2026/05/29/14-malicious-npm-packages-impersonated-opensearch-elasticsearch-libraries/5248792",
+    "summary": "And then Microsoft busted them all",
+    "isoDate": "2026-05-29T21:46:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5248815&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7fa11da2cf04eb84d73847697c0112795359fa81",
+    "title": "Okta writes its own license to kill rogue AI agents",
+    "link": "https://www.theregister.com/ai-ml/2026/05/29/okta-writes-its-own-license-to-kill-rogue-ai-agents/5248766",
+    "summary": "CEO Todd McKinnon says customers including ServiceNow want an off switch",
+    "isoDate": "2026-05-29T21:20:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai + ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5248788&width=800",
+    "pinned": false
+  },
+  {
     "id": "d974fe692f944da8db2959f316be852200959b00",
     "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
     "link": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
@@ -757,33 +824,6 @@
     "pinned": false
   },
   {
-    "id": "01787253645021a8c2fdaac19cbdf8eb163ef404",
-    "title": "A respectable port of Age of Empires II: Definitive Edition invades macOS",
-    "link": "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
-    "summary": "The port seems solid, and all DLC is supported—but there's no crossplay, sadly.",
-    "isoDate": "2026-05-28T18:42:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Apple",
-      "Gaming",
-      "age of empires",
-      "age of empires 2",
-      "Age of Empires II: Definitive Edition",
-      "aoe",
-      "AoE 2",
-      "Feral Interactive",
-      "Mac gaming",
-      "MacOS",
-      "real time strategy",
-      "rts",
-      "strategy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/20260528114910_1-500x500-1779991646.jpg",
-    "pinned": false
-  },
-  {
     "id": "92495bfb19d0de0ab25c42992b72961fa284d671",
     "title": "Microsoft tests the 15-character limit of Windows Server admins' patience",
     "link": "https://www.theregister.com/oses/2026/05/28/microsoft-tests-the-15-character-limit-of-windows-server-admins-patience/5247943",
@@ -1224,21 +1264,6 @@
     "pinned": false
   },
   {
-    "id": "50059ba7deacde7049650eab507c0c779e5ac76f",
-    "title": "Extortion crews are visiting law firms pretending to be tech support, FBI warns",
-    "link": "https://www.theregister.com/security/2026/05/27/fbi-crooks-enter-legal-offices-and-steal-data-via-usb-drive/5247212",
-    "summary": "Cybercriminals still allowed to walk into office blocks and convince staff to let them plug in their own thumb drives",
-    "isoDate": "2026-05-27T16:15:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094162&width=800",
-    "pinned": false
-  },
-  {
     "id": "e496543d756be9a837ac67739db3bba0e60ea89f",
     "title": "Tesla PowerShare Explained: Vehicle-to-Load (V2L), Vehicle-to-Home (V2H) and Supported Vehicles",
     "link": "https://www.notateslaapp.com/news/3205/tesla-powershare-explained-vehicle-to-load-v2l-vehicle-to-home-v2h-and-supported-vehicles",
@@ -1252,21 +1277,6 @@
     "pinned": false
   },
   {
-    "id": "c7f20b4c9da1faa2bdd30c4ea5ba62a69901a89c",
-    "title": "Researchers find all big-name bots bomb EU compliance tests",
-    "link": "https://www.theregister.com/ai-ml/2026/05/27/researchers-find-all-big-name-bots-bomb-eu-compliance-tests/5247176",
-    "summary": "Given a chance, AI will be breaking the law, breaking the law",
-    "isoDate": "2026-05-27T15:37:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5247261&width=800",
-    "pinned": false
-  },
-  {
     "id": "7661f0ad4f267cd957b9ac860eae0df1ffa2e66e",
     "title": "How Tesla’s FSD Hardware Has Changed Over the Years",
     "link": "https://www.notateslaapp.com/news/3521/how-teslas-fsd-hardware-has-changed-over-the-years",
@@ -1277,21 +1287,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/hw4-front-cameras.jpg/3edd9684e19178d1e2c9b88a9986f935/hw4-front-cameras.jpg",
-    "pinned": false
-  },
-  {
-    "id": "68f89c73b2d6ae3394aee5f0a19f0e79da4b97a1",
-    "title": "Swift thinking buys NASA observatory a little more time before re-entry",
-    "link": "https://www.theregister.com/science/2026/05/27/swift-thinking-buys-nasa-observatory-a-little-more-time-before-re-entry/5247165",
-    "summary": "Rescue mission might have until the end of summer after science operations halted",
-    "isoDate": "2026-05-27T15:07:18Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5237915&width=800",
     "pinned": false
   },
   {
