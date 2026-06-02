@@ -1,5 +1,146 @@
 [
   {
+    "id": "68a80c56dbb50507693d0bc15c36939d488f424e",
+    "title": "Contentful tops off Salesforce's 'headless' bet, analyst says",
+    "link": "https://www.theregister.com/saas/2026/06/02/contentful-tops-off-salesforces-headless-bet-analyst-says/5250357",
+    "summary": "Lacking an enterprise content layer for Headless 360, CRM titan went shopping",
+    "isoDate": "2026-06-02T21:20:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5250377&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d14e8f009bf8fb497de75d2041a1e4a12ad35e5f",
+    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+    "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+    "summary": "Microsoft missed the boat on apps, so get ready for agents.",
+    "isoDate": "2026-06-02T20:47:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Tech",
+      "AI agents",
+      "android",
+      "Artificial Intelligence",
+      "microsoft"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/00_Title-Page-scaled-1-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "4e279b790d36cdf60a3373d8ae030163049aa7a0",
+    "title": "Tesla Dashcam / Sentry Mode: How to Get 24 Hours of Rolling Footage",
+    "link": "https://www.notateslaapp.com/news/4238/tesla-dashcam-sentry-mode-how-to-get-24-hours-of-rolling-footage",
+    "summary": "While Tesla vehicles previously only recorded up to an hour of Dashcam or Sentry Mode footage, a recent software update increased the maximum buffer to 24 hours&hellip; <a href=\"https://www.notateslaapp.com/news/4238/tesla-dashcam-sentry-mode-how-to-get-24-hours-of-rolling-footage\">Read More</a>",
+    "isoDate": "2026-06-02T20:18:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/dashcam-viewer-intel-save.webp/90aedfba13e9bf94b8a96e064bdd9956/dashcam-viewer-intel-save.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9154f34a26d4ee0a88fa551c80477e5e3a3dc6f2",
+    "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
+    "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
+    "isoDate": "2026-06-02T20:17:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Amazon",
+      "facial recognition",
+      "familiar faces",
+      "ring"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-ring-cameras-500x500-1780428585.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5714a72370a82b5aed5fdce21fe92229e1904349",
+    "title": "Trump's AI E-(I)-O could let feds pick winners and losers",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/02/trump-ai-executive-order-sets-30-day-frontier-model-review/5250322",
+    "summary": "Government gets a say in 'trusted partner' access, and that worries policy experts",
+    "isoDate": "2026-06-02T19:59:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=261924&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7d9c2e0b1b13e19f597d6f7d77fe96519fecab34",
+    "title": "If I had a hammer... it might actually be a rhino tooth",
+    "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
+    "summary": "Neanderthals had some wild stuff in their toolkits.",
+    "isoDate": "2026-06-02T19:54:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kiona N. Smith",
+    "tags": [
+      "Science",
+      "Archaeology",
+      "biological archaeology",
+      "bone tools",
+      "experimental archaeology",
+      "Neanderthals",
+      "paleoanthropology",
+      "paleolithic",
+      "science",
+      "zooarchaeology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/rhinoteethimg4-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "116f0f9c907cd802cac758ee916adb0d32c341e2",
+    "title": "Feds failing in bid to take a supercomputer from a climate research center",
+    "link": "https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/",
+    "summary": "The National Center for Atmospheric Research won't be losing its supercomputer.",
+    "isoDate": "2026-06-02T19:02:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Policy",
+      "Science",
+      "climate",
+      "NCAR",
+      "supercomputing",
+      "UCAR"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ad2bfc95ad2b410b39beb7dbf9f1bd47aaadeefa",
+    "title": "Cisco sings Mythos' praises - but doesn't say how many bugs the model uncovered",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/02/cisco-praises-ai-bug-hunt-wont-reveal-flaw-tally/5250291",
+    "summary": "Meanwhile, Anthropic adds 150 partners to Project Glasswing",
+    "isoDate": "2026-06-02T18:35:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=241299&width=800",
+    "pinned": false
+  },
+  {
     "id": "a8e804a146bda4fcb88adc697054b3eb5ee98ad4",
     "title": "Mathematicians warn of AI threats to profession as industry encroaches",
     "link": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
@@ -581,52 +722,6 @@
     "pinned": false
   },
   {
-    "id": "383db867fddab9e17e5ae0c9437c01d2dd8da06a",
-    "title": "New Trump vaccine order based on \"no credible scientific evidence,\" doctors say",
-    "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
-    "summary": "Even Danish researchers think it's bizarre.",
-    "isoDate": "2026-06-01T19:07:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anti-vaccine",
-      "CDC",
-      "Denmark",
-      "executive order",
-      "robert f kennedy jr",
-      "Trump",
-      "vaccines"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8d796b44eab9a2e0a0cc1563f25501f6f3774664",
-    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-    "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-    "summary": "Altman has an \"utter disregard\" for human lives, Florida AG says.",
-    "isoDate": "2026-06-01T18:52:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "chatbot",
-      "ChatGPT",
-      "child safety",
-      "Florida",
-      "murder",
-      "Online safety",
-      "openai",
-      "suicide"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2265991640-500x500-1780337784.jpg",
-    "pinned": false
-  },
-  {
     "id": "85d825677bf0158ec61cfe877674a9f4b193a613",
     "title": "Anthropic, now atop the AI bubble, files for its IPO",
     "link": "https://www.theregister.com/ai-and-ml/2026/06/01/anthropic-now-atop-the-ai-bubble-files-for-its-ipo/5249753",
@@ -652,45 +747,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/may-2026-tesla-sales-france-hero.webp/49c652c37bcf53ccf3732546c8133f98/may-2026-tesla-sales-france-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "40aade3fcd6bef6554ae9eefc763afe210907064",
-    "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
-    "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
-    "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
-    "isoDate": "2026-06-01T17:41:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "AI",
-      "Cars",
-      "General Motors",
-      "GM",
-      "machine learning"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/CoSim-SG1-500x500.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "60328698192823b85c5c48cffc925df542ba1e12",
-    "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
-    "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
-    "summary": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
-    "isoDate": "2026-06-01T17:17:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "airbnb",
-      "bot company",
-      "robot training",
-      "Robotics",
-      "robots"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2248542588-500x500.jpg",
     "pinned": false
   },
   {
@@ -1326,51 +1382,6 @@
       "Podcast"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ea140f2a859f2778e99e18ed8a39091a6da07698",
-    "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
-    "link": "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312",
-    "summary": "Hosting provider pulled the plug after police traced 200 servers to the Netherlands",
-    "isoDate": "2026-05-29T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=253920&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b13054f66f5dd67ed8972f8569b3f30e807a1da2",
-    "title": "FCC warns US broadcasters their licenses are a privilege, not a right",
-    "link": "https://www.theregister.com/offbeat/2026/05/29/fcc-warns-us-broadcasters-their-licenses-are-a-privilege-not-a-right/5248393",
-    "summary": "TV and radio stations told to review current practices to align with public interest obligations",
-    "isoDate": "2026-05-29T12:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5219655&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2eb52fd303639ba626846f1cd884f889f402c2ac",
-    "title": "ChatGPT blindly trusts browser content, turning the page into a payload",
-    "link": "https://www.theregister.com/research/2026/05/29/chatgpt-prompt-injection-turns-web-pages-into-phishing-lures/5248137",
-    "summary": "You and me go ChatGPhish-ing in the dark",
-    "isoDate": "2026-05-29T12:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "research"
-    ],
-    "image": "https://image.theregister.com/?imageId=5248172&width=800",
     "pinned": false
   },
   {
