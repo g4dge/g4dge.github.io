@@ -1,7 +1,22 @@
 [
   {
+    "id": "b02433e524d78fc123c5068bebde6d910157e502",
+    "title": "'Dumbass' criminal breaks the 'first rule of ransomware club'",
+    "link": "https://www.theregister.com/cyber-crime/2026/06/02/dumbass-criminal-breaks-the-first-rule-of-ransomware-club/5250380",
+    "summary": "You don't infect anyone in Russia or other CIS countries",
+    "isoDate": "2026-06-02T21:58:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5250399&width=800",
+    "pinned": false
+  },
+  {
     "id": "68a80c56dbb50507693d0bc15c36939d488f424e",
-    "title": "Contentful tops off Salesforce's 'headless' bet, analyst says",
+    "title": "Contentful is a shot in the arm for Salesforce's 'headless' bet",
     "link": "https://www.theregister.com/saas/2026/06/02/contentful-tops-off-salesforces-headless-bet-analyst-says/5250357",
     "summary": "Lacking an enterprise content layer for Headless 360, CRM titan went shopping",
     "isoDate": "2026-06-02T21:20:21Z",
@@ -15,26 +30,6 @@
     "pinned": false
   },
   {
-    "id": "d14e8f009bf8fb497de75d2041a1e4a12ad35e5f",
-    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-    "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-    "summary": "Microsoft missed the boat on apps, so get ready for agents.",
-    "isoDate": "2026-06-02T20:47:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Tech",
-      "AI agents",
-      "android",
-      "Artificial Intelligence",
-      "microsoft"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/00_Title-Page-scaled-1-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "4e279b790d36cdf60a3373d8ae030163049aa7a0",
     "title": "Tesla Dashcam / Sentry Mode: How to Get 24 Hours of Rolling Footage",
     "link": "https://www.notateslaapp.com/news/4238/tesla-dashcam-sentry-mode-how-to-get-24-hours-of-rolling-footage",
@@ -45,25 +40,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/dashcam-viewer-intel-save.webp/90aedfba13e9bf94b8a96e064bdd9956/dashcam-viewer-intel-save.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9154f34a26d4ee0a88fa551c80477e5e3a3dc6f2",
-    "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-    "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
-    "isoDate": "2026-06-02T20:17:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Amazon",
-      "facial recognition",
-      "familiar faces",
-      "ring"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-ring-cameras-500x500-1780428585.jpg",
     "pinned": false
   },
   {
@@ -82,50 +58,6 @@
     "pinned": false
   },
   {
-    "id": "7d9c2e0b1b13e19f597d6f7d77fe96519fecab34",
-    "title": "If I had a hammer... it might actually be a rhino tooth",
-    "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-    "summary": "Neanderthals had some wild stuff in their toolkits.",
-    "isoDate": "2026-06-02T19:54:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "Archaeology",
-      "biological archaeology",
-      "bone tools",
-      "experimental archaeology",
-      "Neanderthals",
-      "paleoanthropology",
-      "paleolithic",
-      "science",
-      "zooarchaeology"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/rhinoteethimg4-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "116f0f9c907cd802cac758ee916adb0d32c341e2",
-    "title": "Feds failing in bid to take a supercomputer from a climate research center",
-    "link": "https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/",
-    "summary": "The National Center for Atmospheric Research won't be losing its supercomputer.",
-    "isoDate": "2026-06-02T19:02:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Policy",
-      "Science",
-      "climate",
-      "NCAR",
-      "supercomputing",
-      "UCAR"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "ad2bfc95ad2b410b39beb7dbf9f1bd47aaadeefa",
     "title": "Cisco sings Mythos' praises - but doesn't say how many bugs the model uncovered",
     "link": "https://www.theregister.com/ai-and-ml/2026/06/02/cisco-praises-ai-bug-hunt-wont-reveal-flaw-tally/5250291",
@@ -138,91 +70,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=241299&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a8e804a146bda4fcb88adc697054b3eb5ee98ad4",
-    "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-    "link": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-    "summary": "International Mathematical Union endorses warning about tech industry influence.",
-    "isoDate": "2026-06-02T18:19:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI companies",
-      "ai industry",
-      "Artificial Intelligence",
-      "International mathematical union",
-      "math",
-      "mathematics",
-      "openai",
-      "Tech industry"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a5e33299e9ad970dd21cecefd6bdd453cae2d999",
-    "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-    "link": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-    "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
-    "isoDate": "2026-06-02T18:00:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "ai deepfakes",
-      "android",
-      "Artificial Intelligence",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-500x500-1749567268.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6493b21051af001f0f783af0a6fdcf275fd81adb",
-    "title": "The truth lies in the past in Silo S3 trailer",
-    "link": "https://arstechnica.com/culture/2026/06/the-truth-lies-in-the-past-in-silo-s3-trailer/",
-    "summary": "\"We do not know when it will be safe to go outside. We only know that day is not this day.\"",
-    "isoDate": "2026-06-02T17:58:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "Silo",
-      "streaming television",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/silo1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e8b0466336873bfebe0635d3266ad1b33f147a1c",
-    "title": "Number of suspected Ebola cases falls by hundreds as testing ramps up",
-    "link": "https://arstechnica.com/health/2026/06/number-of-suspected-ebola-cases-falls-by-hundreds-as-testing-ramps-up/",
-    "summary": "The number of cases falls from 1,100 to 437 with increased testing.",
-    "isoDate": "2026-06-02T17:10:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "cases",
-      "confirmed",
-      "ebola",
-      "outbreak",
-      "testing",
-      "WHO"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278723900-500x500.jpg",
     "pinned": false
   },
   {
@@ -241,29 +88,6 @@
     "pinned": false
   },
   {
-    "id": "20c3797f59732080512c5e602652ec333f88a95e",
-    "title": "Why a Neo Geo port of Doom is functionally impossible",
-    "link": "https://arstechnica.com/gaming/2026/06/why-a-neo-geo-port-of-doom-is-functionally-impossible/",
-    "summary": "Sprite-based graphics architecture makes first-person 3D a challenge.",
-    "isoDate": "2026-06-02T16:19:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "console",
-      "Doom",
-      "modern vintage gamer",
-      "mvg",
-      "NEO GEO",
-      "port",
-      "retro",
-      "SNK"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/neogeo-500x500-1780415941.png",
-    "pinned": false
-  },
-  {
     "id": "cd4e5d55c0bc9938f4a649ebf6d702d6b5cb3173",
     "title": "Tesla China Hits 2026 High With Major Sales Surge in May",
     "link": "https://www.notateslaapp.com/news/4237/tesla-china-hits-2026-high-with-major-sales-surge-in-may",
@@ -274,27 +98,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-sales-china-may-2026-1.jpg/f42abc5651faeefa9bb47aa93fe30d0e/tesla-sales-china-may-2026-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8edbcb3bcfbf0f26de06f2fad66a52f8645f7071",
-    "title": "In a surprise launch, China debuts another big rocket designed for reusability",
-    "link": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
-    "summary": "There are sound engineering reasons to use the same approach SpaceX uses with the Falcon 9.",
-    "isoDate": "2026-06-02T16:05:48Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "china",
-      "jiuquan",
-      "launch",
-      "long march",
-      "long march 12b"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279200144-500x500.jpg",
     "pinned": false
   },
   {
@@ -310,43 +113,6 @@
       "networks"
     ],
     "image": "https://image.theregister.com/?imageId=4093879&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ff4f663f1dcf16c7876f52c0ef0b0afd69d5d228",
-    "title": "Blue Origin has set a very aggressive return-to-flight timeline",
-    "link": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/",
-    "summary": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"",
-    "isoDate": "2026-06-02T15:16:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "blue origin",
-      "lc-36a",
-      "new glenn",
-      "return to flight",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/newglenn1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "48b4874b527ba2023d67e479ba815dc3d17dc2c4",
-    "title": "Slate Auto gets serious about privacy for its bare-bones EV pickup",
-    "link": "https://arstechnica.com/cars/2026/06/slate-says-its-electric-pickup-will-never-track-you/",
-    "summary": "With no embedded modem, the Slate Truck is the antithesis of today's connected cars.",
-    "isoDate": "2026-06-02T14:49:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "EV truck",
-      "Slate Auto"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Blank-Slate-Headlight-Detail_web-500x500.jpg",
     "pinned": false
   },
   {
@@ -393,25 +159,6 @@
     "pinned": false
   },
   {
-    "id": "15c64428f8bceea403da08986f6e6f2e87e1536f",
-    "title": "Trump's DOE restarts energy rebate program with dumb conditions",
-    "link": "https://arstechnica.com/tech-policy/2026/06/trumps-doe-restarts-energy-rebate-program-with-dumb-conditions/",
-    "summary": "Switching from fossil fuels to electricity for heating is no longer covered.",
-    "isoDate": "2026-06-02T13:29:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Gearino, Inside Climate News",
-    "tags": [
-      "Policy",
-      "department of energy",
-      "fossil fuels",
-      "High-efficiency electric home rebate",
-      "Trump climate policy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/hvac-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "917c33ba1fa15bf0382f2bbf3642c517d5139135",
     "title": "'Resistance is futile,' says Qualcomm CEO. AI agents will be become invisible, inescapable, follow you across devices",
     "link": "https://www.theregister.com/personal-tech/2026/06/02/qualcomm-ai-agents-will-be-as-transparent-as-they-will-be-inescapable/5249894",
@@ -439,25 +186,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=1626449&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9c3489f99d6cb3248217148cdc89e9fcae71fc6b",
-    "title": "Impulse Space raises $500 million as orbital maneuvering race heats up",
-    "link": "https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/",
-    "summary": "\"The market's going to continue to find exciting new things.\"",
-    "isoDate": "2026-06-02T12:00:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "Helios",
-      "impulse space",
-      "mobility",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Helios-kick-stage-500x500.jpg",
     "pinned": false
   },
   {
@@ -566,24 +294,6 @@
     "pinned": false
   },
   {
-    "id": "88d629fd71eeee87cae361ca8fca2710046eadd9",
-    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-    "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-    "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
-    "isoDate": "2026-06-01T22:18:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "copilot",
-      "GitHub",
-      "microsoft"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3b6922ef9e2545780ffb703c8dfe1526c336eb43",
     "title": "Shai-Hulud malware worms Red Hat npm package versions downloaded 80K times a week",
     "link": "https://www.theregister.com/security/2026/06/01/shai-hulud-malware-infects-red-hat-npm-packages-downloaded-80k-times-weekly/5249803",
@@ -596,101 +306,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5249823&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ab5d9f20ecb909df76b16124f3ef7e8a8de5b769",
-    "title": "Why cats prefer silver vine to catnip and other May highlights",
-    "link": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
-    "summary": "Prehistoric mining in the Pyrenees, a new species of tiny blue octopus, slapstick acoustics, and more.",
-    "isoDate": "2026-06-01T21:38:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "Archaeology",
-      "Physics",
-      "research roundup"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/pyrenees1-500x500-1777821853.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e6e972503c5b356cd9ff00bf594a222edc475766",
-    "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
-    "link": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
-    "summary": "Amid a raging Ebola outbreak, officials \"urgently accelerate development\" of vaccines.",
-    "isoDate": "2026-06-01T20:58:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "CEPI",
-      "ebola",
-      "moderna",
-      "vaccine",
-      "WHO"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278375280-1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d23714aa946c1f835e110771a0a6f7612326dd28",
-    "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
-    "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-    "summary": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
-    "isoDate": "2026-06-01T20:44:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Security",
-      "ai chatbot",
-      "Instagram",
-      "meta"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Meta-AI-logo-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f1c405c519cc40348507d0df087a723e94ddd102",
-    "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
-    "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
-    "summary": "It's Microsoft's least-weird attempt at a high-end mobile workstation.",
-    "isoDate": "2026-06-01T20:13:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "microsoft",
-      "microsoft surface laptop ultra",
-      "Surface",
-      "surface laptop"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/surface-laptop-ultra-500x500-1780343536.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "ef00d1c30fecc1c35418336d0ad9fbe84126d883",
-    "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
-    "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
-    "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
-    "isoDate": "2026-06-01T19:49:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "npm",
-      "red hat",
-      "supply chain attacks"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/redhat-500x500.jpg",
     "pinned": false
   },
   {
@@ -1339,21 +954,6 @@
       "ai + ml"
     ],
     "image": "https://image.theregister.com/?imageId=1684194&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6ae1ef6bc49371aec366762a151e292e47bbba91",
-    "title": "Microsoft slaps new coat of paint on Copilot, buries annoying button",
-    "link": "https://www.theregister.com/ai-ml/2026/05/29/microsoft-slaps-new-coat-of-paint-on-copilot-buries-annoying-button/5248442",
-    "summary": "Look, says Redmond, usage up 27-43% based on one week of data - admits it 'may not be indicative of long-term usage trends'",
-    "isoDate": "2026-05-29T14:51:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai + ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5248581&width=800",
     "pinned": false
   },
   {
