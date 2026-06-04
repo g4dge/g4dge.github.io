@@ -1,20 +1,32 @@
 [
   {
-    "id": "58847c53687939df72fb2cb034f9935a74887964",
-    "title": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
-    "link": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
-    "summary": "With the case confirmed, it is the fly's first breach of the US-Mexico border.",
-    "isoDate": "2026-06-04T02:46:35Z",
-    "source": "Ars Technica",
+    "id": "0a656e2d05aebec87842182703d21d40b671456d",
+    "title": "Nobody needs Mythos or 0-days to build a chaos-causing computer worm – free open source models work just fine",
+    "link": "https://www.theregister.com/research/2026/06/04/free-ai-model-powers-self-spreading-worm-in-enterprise-test-network/5250918",
+    "summary": "'Attackers can now cheaply operationalize known vulnerabilities at scale,' boffins tell The Reg",
+    "isoDate": "2026-06-04T07:09:00Z",
+    "source": "The Register",
     "category": "Tech",
-    "author": "Beth Mole",
+    "author": "",
     "tags": [
-      "Health",
-      "flies",
-      "parasite",
-      "screwworm"
+      "research"
     ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg",
+    "image": "https://image.theregister.com/?imageId=258863&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0ad12743bffdcb8fdd0420e42ba3fe9f0a25980e",
+    "title": "All the passwords were stored in Active Directory description fields",
+    "link": "https://www.theregister.com/security/2026/06/04/all-the-passwords-were-stored-in-active-directory-description-fields/5250820",
+    "summary": "It was far too easy for a hacker to get the information",
+    "isoDate": "2026-06-04T05:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=261457&width=800",
     "pinned": false
   },
   {
@@ -30,28 +42,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5250915&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a6c1a907ec1e29b473160b11ffa1b18141d567ec",
-    "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
-    "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
-    "summary": "Some quantum computing companies we've covered have done recent progress updates.",
-    "isoDate": "2026-06-03T22:09:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "atom computing",
-      "Computer science",
-      "Error correction",
-      "microsoft",
-      "Physics",
-      "quantum computing",
-      "quantum mechanics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-500x500.jpeg",
     "pinned": false
   },
   {
@@ -83,67 +73,6 @@
     "pinned": false
   },
   {
-    "id": "ba58fe01caf14a0f8706e51f8ded9fe70b813f5d",
-    "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-    "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-    "summary": "Google must change AI Overviews after claiming users don't want \"lots of sources.\"",
-    "isoDate": "2026-06-03T20:26:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "AI",
-      "Google",
-      "Policy",
-      "ai overviews",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-500x500-1780514708.jpg",
-    "pinned": false
-  },
-  {
-    "id": "57aad6f200fb36e9896a4fdf0bd085e53bf22374",
-    "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
-    "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
-    "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
-    "isoDate": "2026-06-03T19:53:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "2fa",
-      "dashlane",
-      "mfa",
-      "multi factor authentication",
-      "password managers",
-      "two-factor authentication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/dashlane-app-500x500.webp",
-    "pinned": false
-  },
-  {
-    "id": "40d33fba486d06bceae5497fb7a1d8132c0457c2",
-    "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-    "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-    "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
-    "isoDate": "2026-06-03T19:10:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "generative ai",
-      "google",
-      "local AI"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "11c9e1e3a9bf9ff0ad6330aeac01b6fc50d971ff",
     "title": "Grep this: Microsoft grafts (most) Linux commands onto Windows",
     "link": "https://www.theregister.com/os-platforms/2026/06/03/grep-this-microsoft-grafts-most-linux-commands-onto-windows/5250796",
@@ -172,27 +101,6 @@
     "pinned": false
   },
   {
-    "id": "e4be6027b92b0908bb7417a5f9669b7b21949dc0",
-    "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
-    "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-    "summary": "Critics say Trump plan to test AI models is short-sighted, performative.",
-    "isoDate": "2026-06-03T18:11:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI safety",
-      "ai safety testing",
-      "Artificial Intelligence",
-      "Donald Trump",
-      "frontier ai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/trump-terminator-monkey-cymbals-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f93da4ee0d9e7c900ee2956996d939ef57966e63",
     "title": "Ring gets buzzed by class action for collecting visitors' faces without consent",
     "link": "https://www.theregister.com/personal-tech/2026/06/03/ring-faces-class-action-over-facial-recognition-feature/5250661",
@@ -205,23 +113,6 @@
       "personal tech"
     ],
     "image": "https://image.theregister.com/?imageId=251982&width=800",
-    "pinned": false
-  },
-  {
-    "id": "97c0352fa9def7c8431f79be81211d7ed0c8fc4a",
-    "title": "New social features further Plex’s evolution from media server business",
-    "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
-    "summary": "Plex is increaingly focusing on content discovery and streaming rentals.",
-    "isoDate": "2026-06-03T17:35:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "Plex",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/plex-500x500.jpg",
     "pinned": false
   },
   {
@@ -311,23 +202,6 @@
     "pinned": false
   },
   {
-    "id": "6151ed881713d419f0c4f4dbab42bcb84c542a63",
-    "title": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
-    "link": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
-    "summary": "Data shows Waymo's robotaxis are empty for almost half of the miles they drive.",
-    "isoDate": "2026-06-03T15:13:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "traffic congestion",
-      "waymo"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2267133850-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6a5b8df50efd5eb2d8625950f5b0035ca9fc624d",
     "title": "Tesla Improves Driver Monitoring System With Better Eye Tracking",
     "link": "https://www.notateslaapp.com/news/4243/tesla-impoves-driver-monitoring-system-with-better-eye-tracking",
@@ -366,28 +240,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5244797&width=800",
-    "pinned": false
-  },
-  {
-    "id": "bfe3cc52cab82810061b2b8e0ac073293b6faa7b",
-    "title": "Inside Meta's attempts to play catch-up with AI",
-    "link": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
-    "summary": "Doubts linger over whether Meta can close the gap with rivals.",
-    "isoDate": "2026-06-03T13:35:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Hannah Murphy, Financial Times",
-    "tags": [
-      "AI",
-      "Alexandr",
-      "Alexandr Wang",
-      "Facebook",
-      "Mark Zuckerberg",
-      "meta",
-      "muse spark",
-      "TBD Lab"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bluealexandr-500x500.jpg",
     "pinned": false
   },
   {
@@ -449,27 +301,6 @@
     "pinned": false
   },
   {
-    "id": "d4dfa18fb6165011167feae395e704cfde1ec8ac",
-    "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
-    "link": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
-    "summary": "When they're being eaten, bean plants release chemicals that draw in parasitic wasps.",
-    "isoDate": "2026-06-03T11:15:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "beans",
-      "biochemistry",
-      "Biology",
-      "caterpillars",
-      "plants",
-      "wasps"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-539781130-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "eac0af8b78e75dbf49aabbaeda38a65fe9aaea93",
     "title": "UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion",
     "link": "https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450",
@@ -512,27 +343,6 @@
       "saas"
     ],
     "image": "https://image.theregister.com/?imageId=258964&width=800",
-    "pinned": false
-  },
-  {
-    "id": "acced22064d965610596c54cbe0d9ff5709be6e6",
-    "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-    "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
-    "summary": "\"Everyone is in a place where it’s no fun to be there.\"",
-    "isoDate": "2026-06-03T10:00:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Features",
-      "Space",
-      "amos-6",
-      "failure",
-      "falcon 9",
-      "new glenn",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/amos-6-500x500.jpg",
     "pinned": false
   },
   {
@@ -595,45 +405,6 @@
     "pinned": false
   },
   {
-    "id": "10add7669395d54dcf87cc04ca0e919ca0242a00",
-    "title": "Male bowerbirds prefer to dazzle females with bright human-made items",
-    "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
-    "summary": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
-    "isoDate": "2026-06-02T23:05:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "animal behavior",
-      "Biology",
-      "bowerbirds"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bower1-500x500-1780399121.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d9fe5222dedfb413dc393520180f1aa99456a5a0",
-    "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
-    "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
-    "summary": "One hardware announcement and several software highlights from Microsoft Build.",
-    "isoDate": "2026-06-02T22:51:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Tech",
-      "copilot",
-      "microsoft",
-      "NVIDIA",
-      "RTX Spark",
-      "windows 11",
-      "windows 11 25h2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SRSDB-Desktop-500x500-1780439595.jpg",
-    "pinned": false
-  },
-  {
     "id": "b02433e524d78fc123c5068bebde6d910157e502",
     "title": "'Dumbass' criminal breaks the 'first rule of ransomware club'",
     "link": "https://www.theregister.com/cyber-crime/2026/06/02/dumbass-criminal-breaks-the-first-rule-of-ransomware-club/5250380",
@@ -664,26 +435,6 @@
     "pinned": false
   },
   {
-    "id": "d14e8f009bf8fb497de75d2041a1e4a12ad35e5f",
-    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-    "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-    "summary": "Microsoft missed the boat on apps, so get ready for agents.",
-    "isoDate": "2026-06-02T20:47:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Tech",
-      "AI agents",
-      "android",
-      "Artificial Intelligence",
-      "microsoft"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/00_Title-Page-scaled-1-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "4e279b790d36cdf60a3373d8ae030163049aa7a0",
     "title": "Tesla Dashcam / Sentry Mode: How to Get 24 Hours of Rolling Footage",
     "link": "https://www.notateslaapp.com/news/4238/tesla-dashcam-sentry-mode-how-to-get-24-hours-of-rolling-footage",
@@ -694,25 +445,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/dashcam-viewer-intel-save.webp/90aedfba13e9bf94b8a96e064bdd9956/dashcam-viewer-intel-save.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9154f34a26d4ee0a88fa551c80477e5e3a3dc6f2",
-    "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-    "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
-    "isoDate": "2026-06-02T20:17:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Amazon",
-      "facial recognition",
-      "familiar faces",
-      "ring"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-ring-cameras-500x500-1780428585.jpg",
     "pinned": false
   },
   {
@@ -731,50 +463,6 @@
     "pinned": false
   },
   {
-    "id": "7d9c2e0b1b13e19f597d6f7d77fe96519fecab34",
-    "title": "If I had a hammer... it might actually be a rhino tooth",
-    "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-    "summary": "Neanderthals had some wild stuff in their toolkits.",
-    "isoDate": "2026-06-02T19:54:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "Archaeology",
-      "biological archaeology",
-      "bone tools",
-      "experimental archaeology",
-      "Neanderthals",
-      "paleoanthropology",
-      "paleolithic",
-      "science",
-      "zooarchaeology"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/rhinoteethimg4-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "116f0f9c907cd802cac758ee916adb0d32c341e2",
-    "title": "Feds failing in bid to take a supercomputer from a climate research center",
-    "link": "https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/",
-    "summary": "The National Center for Atmospheric Research won't be losing its supercomputer.",
-    "isoDate": "2026-06-02T19:02:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Policy",
-      "Science",
-      "climate",
-      "NCAR",
-      "supercomputing",
-      "UCAR"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "ad2bfc95ad2b410b39beb7dbf9f1bd47aaadeefa",
     "title": "Cisco sings Mythos' praises - but doesn't say how many bugs the model uncovered",
     "link": "https://www.theregister.com/ai-and-ml/2026/06/02/cisco-praises-ai-bug-hunt-wont-reveal-flaw-tally/5250291",
@@ -787,70 +475,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=241299&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a8e804a146bda4fcb88adc697054b3eb5ee98ad4",
-    "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-    "link": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-    "summary": "International Mathematical Union endorses warning about tech industry influence.",
-    "isoDate": "2026-06-02T18:19:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI companies",
-      "ai industry",
-      "Artificial Intelligence",
-      "International mathematical union",
-      "math",
-      "mathematics",
-      "openai",
-      "Tech industry"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a5e33299e9ad970dd21cecefd6bdd453cae2d999",
-    "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-    "link": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-    "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
-    "isoDate": "2026-06-02T18:00:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "ai deepfakes",
-      "android",
-      "Artificial Intelligence",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-500x500-1749567268.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6493b21051af001f0f783af0a6fdcf275fd81adb",
-    "title": "The truth lies in the past in Silo S3 trailer",
-    "link": "https://arstechnica.com/culture/2026/06/the-truth-lies-in-the-past-in-silo-s3-trailer/",
-    "summary": "\"We do not know when it will be safe to go outside. We only know that day is not this day.\"",
-    "isoDate": "2026-06-02T17:58:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "Silo",
-      "streaming television",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/silo1-500x500.jpg",
     "pinned": false
   },
   {
@@ -1302,51 +926,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=169849&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f8a81f7b5cdeb94bf9abbe41ea24d267767342b6",
-    "title": "Password manager Dashlane suspends customer accounts amid brute-force attacks",
-    "link": "https://www.theregister.com/security/2026/06/01/password-manager-dashlane-suspends-customer-accounts-amid-brute-force-attacks/5248991",
-    "summary": "Engineers' weekends ruined as Dashlane's automatic protections kicked in",
-    "isoDate": "2026-06-01T11:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5231199&width=800",
-    "pinned": false
-  },
-  {
-    "id": "04f0419a1e53b3a4be9326a3f4e865254f84fbd3",
-    "title": "Putin sends submarines to survey Britain's subsea cables. UK deploys Royal Navy, mobilizes parliamentary draftsmen",
-    "link": "https://www.theregister.com/networks/2026/06/01/putin-sends-submarines-to-survey-britains-subsea-cables-uk-deploys-royal-navy-mobilizes-parliamentary-draftsmen/5248978",
-    "summary": "Proposed legislation threatens fines and prison for reckless damage. Russian Prez must be shaking in his boots",
-    "isoDate": "2026-06-01T10:48:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=243072&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f6990e17ef56d9a3d367977220b24a14756e67fe",
-    "title": "I designed Microsoft's $5B EA channel architecture in 2001. The 2026 transition is missing what made it work",
-    "link": "https://www.theregister.com/oses/2026/06/01/i-designed-microsofts-5b-ea-channel-architecture-in-2001-the-2026-transition-is-missing-what-made-it-work/5248235",
-    "summary": "The man behind Redmond's direct billing model and its geo rollout explains why the new version forgets the channel to its cost",
-    "isoDate": "2026-06-01T10:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "oses"
-    ],
-    "image": "https://image.theregister.com/?imageId=5248684&width=800",
     "pinned": false
   },
   {
