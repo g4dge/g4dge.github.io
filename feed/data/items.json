@@ -1,5 +1,57 @@
 [
   {
+    "id": "21040c1567b6e09f59a583599f71ea7869eb5114",
+    "title": "Uncle Sam considers buying a seat on the Titanic",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/09/uncle-sam-considers-buying-a-seat-on-the-titanic/5252598",
+    "summary": "L'etat, c'est AI",
+    "isoDate": "2026-06-09T01:17:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5252625&width=800",
+    "pinned": false
+  },
+  {
+    "id": "38b6c7302bb3640e2ba13a40d8b3af33ba24fdb9",
+    "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
+    "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
+    "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
+    "isoDate": "2026-06-09T00:59:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "Amazon",
+      "amazon leo",
+      "broadband",
+      "Commercial space",
+      "launch",
+      "project kuiper"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-leo-space-amazon-news-nb-032326-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a63d7234a616b415c529b937e51b55649aa76fee",
+    "title": "Apple courts developers with privacy and context in AI comeback bid",
+    "link": "https://www.theregister.com/devops/2026/06/09/apple-courts-developers-with-privacy-and-context-in-ai-comeback-bid/5252564",
+    "summary": "Apple Intelligence stumbled through 2024 and 2025. It's starting to look respectable",
+    "isoDate": "2026-06-08T23:25:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=153859&width=800",
+    "pinned": false
+  },
+  {
     "id": "ce07a78675ccd543931fdab80955e2c371a3e886",
     "title": "Norks blast 250+ fake job offers to developers over 6 weeks to try and snarf creds and crypto",
     "link": "https://www.theregister.com/security/2026/06/08/suspected-norks-send-250-fake-dev-job-pitches-to-steal-crypto/5252526",
@@ -905,29 +957,6 @@
     "pinned": false
   },
   {
-    "id": "626f495f56ca4eb457e875e35cc563e16985951f",
-    "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
-    "link": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
-    "summary": "What’s the difference between a person, an artifact, and an ecosystem?",
-    "isoDate": "2026-06-06T11:15:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "Archaeology",
-      "biological archaeology",
-      "gut microbiome",
-      "human microbiome",
-      "mummies",
-      "otzi",
-      "Ötzi the Iceman",
-      "science"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Otzi-stomach-yeast-w-Sarhan-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6cdf0684cedd4251c71a56fabc757d74130b49b0",
     "title": "Oxford Uni student data pwned yet again - this time via career platform breach",
     "link": "https://www.theregister.com/security/2026/06/06/oxford-university-data-pwned-again-by-career-platform-breach/5251754",
@@ -1461,36 +1490,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-europe-changes-8.webp/48562eb7ec50121fbd7dc96bdc247e5d/fsd-europe-changes-8.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3f4378e3e3e5453b41ad4fc5ad0041d7870df629",
-    "title": "'Please do not vibe f--- up this software': Broken backups spark AI coding row in rsync project",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/04/please-do-not-vibe-f-up-this-software-broken-backups-spark-ai-coding-row-in-rsync-project/5251189",
-    "summary": "Users probe backup failures find Claude-assisted commits. Veteran engineer retorts: \"I did not just vibe-code 'convert test suite to python'.\"",
-    "isoDate": "2026-06-04T13:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5251211&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2fc66abed2334b855937f63a034a7b5f8b14db43",
-    "title": "Intel's mysterious new datacenter GPU is what Nvidia's Rubin CPX nearly was",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/04/intels-new-gpu-is-what-nvidias-rubin-cpx-nearly-was/5250989",
-    "summary": "Nvidia's prefill accelerator was shelved, but Chipzilla's Crescent Island could fill the void",
-    "isoDate": "2026-06-04T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5251065&width=800",
     "pinned": false
   },
   {
