@@ -1,5 +1,207 @@
 [
   {
+    "id": "dd12f6c0e0dd934c3c54c8df7243aee2c232e92d",
+    "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
+    "link": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
+    "summary": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
+    "isoDate": "2026-06-09T15:44:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "drone boats",
+      "drones",
+      "Iran",
+      "sea drones",
+      "Strait of Hormuz",
+      "uncrewed surface vehicles",
+      "US Military",
+      "US Navy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apache-Helicopter-over-Strait-of-Hormuz-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "14e1c34532990995898d119693f0f4c8030ea775",
+    "title": "Neo4j plots Palantir alternative with GraphAware acquisition",
+    "link": "https://www.theregister.com/databases/2026/06/09/neo4j-plots-palantir-alternative-with-graphaware-acquisition/5252913",
+    "summary": "Graph database biz says on-prem, air-gapped intel stack gives governments a no-kill-switch option",
+    "isoDate": "2026-06-09T15:30:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "databases"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240668&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e81d9321a318441cc363cd82b74465ea7344d944",
+    "title": "High-severity vulnerability in Linux caused by a single errant character",
+    "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+    "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
+    "isoDate": "2026-06-09T15:12:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "kernel",
+      "Linux",
+      "vulnerabilities"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "12f8e03141d7c0442b35a4334bc88debcd946251",
+    "title": "A Guide to the SAE's Autonomy Levels (Level 0 to Level 5)",
+    "link": "https://www.notateslaapp.com/news/4228/a-guide-to-the-saes-autonomy-levels-level-0-to-level-5",
+    "summary": "A plain-English guide to the SAE J3016 levels of driving automation, breaking down the technical differences between Tesla FSD, Level 4 Robotaxis, and Waymo.&hellip; <a href=\"https://www.notateslaapp.com/news/4228/a-guide-to-the-saes-autonomy-levels-level-0-to-level-5\">Read More</a>",
+    "isoDate": "2026-06-09T14:29:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/autonomy-visualized-fsd.webp/d700e39a183300edca6079e60bd09da9/autonomy-visualized-fsd.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f6a077cde72e096da2cc088addc5277b3fe522e5",
+    "title": "LibreOffice brands Euro-Office a 'de facto ally' of Microsoft's lock-in strategy",
+    "link": "https://www.theregister.com/applications/2026/06/09/libreoffice-brands-euro-office-a-de-facto-ally-of-microsofts-lock-in-strategy/5252854",
+    "summary": "The Document Foundation accuses newly launched Euro-Office of undermining digital sovereignty by defaulting to Microsoft's OOXML document format",
+    "isoDate": "2026-06-09T14:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=252926&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8d2b00f7c91ada1b387976204f41cf18dcbbb461",
+    "title": "Gold isn’t inert, it just has bodyguards protecting it",
+    "link": "https://arstechnica.com/science/2026/06/gold-isnt-inert-it-just-has-bodyguards-protecting-it/",
+    "summary": "Individual gold atoms move around to form oxidation-proof structures.",
+    "isoDate": "2026-06-09T14:23:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Chris Lee",
+    "tags": [
+      "Science",
+      "catalysts",
+      "chemistry",
+      "gold",
+      "nanoparticles"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1337410884-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "27dc4de310a3ba4b7c3e271a5d0b741c8abf84c0",
+    "title": "Here's Audi's next Q7 SUV and US-only SQ7, now with an RS V8",
+    "link": "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/",
+    "summary": "At night, the car projects its turn signals onto the road to alert other road users.",
+    "isoDate": "2026-06-09T14:00:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Audi Q7",
+      "Audi SQ7"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Original-17081-all-new-2027-audi-sq7-8700-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d57e878c537e674bf2c5205f8114f3ecde749ea9",
+    "title": "Devs know AI code is riddled with holes, but ship it anyway",
+    "link": "https://www.theregister.com/devops/2026/06/09/devs-know-ai-code-is-riddled-with-holes-but-ship-it-anyway/5252824",
+    "summary": "Pressure to deploy wins out over security as four in five orgs confess to breaches from vulnerable apps",
+    "isoDate": "2026-06-09T13:36:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242008&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9ef460796b9fbfb647e74f4fa0f41dd37c715302",
+    "title": "Apple says its AI is still private, even when it's running on Google's servers",
+    "link": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+    "summary": "Some models run in Google's cloud, but without giving Google any kind of access.",
+    "isoDate": "2026-06-09T13:05:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "AI",
+      "Apple",
+      "apple intelligence"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8097-500x500-1780966683.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "a57a7975ac4f2c3e408d8a90e23002c1c02881d6",
+    "title": "First Drive: The 2027 Rivian R2 entirely changes the EV game",
+    "link": "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
+    "summary": "Rivian's second EV is the sub-$60,000 R2, and it was worth the wait.",
+    "isoDate": "2026-06-09T13:00:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Michael Teo Van Runkle",
+    "tags": [
+      "Cars",
+      "Features",
+      "car review",
+      "First drive",
+      "Rivian R2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ars-Technica-Rivian-R2-Pics-27-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "732fdebbd07ee80090aa7ac6e7212dcc18eb4d81",
+    "title": "Signal says UK plan to scan devices for nude images 'endangers us all'",
+    "link": "https://www.theregister.com/security/2026/06/09/signal-uks-child-nude-block-threat-wont-protect-children/5252761",
+    "summary": "Encrypted messaging app warns device-level checks could be repurposed for censorship",
+    "isoDate": "2026-06-09T12:41:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=227546&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8b848e86613a16ad255c51bea229ffbe2947e9ad",
+    "title": "Chrome's zero-day Whac-A-Mole continues with fifth exploited bug of the year",
+    "link": "https://www.theregister.com/security/2026/06/09/chromes-zero-day-whac-a-mole-continues-with-fifth-exploited-bug-of-the-year/5252689",
+    "summary": "Google paid researcher a tidy $55K bounty for its discovery",
+    "isoDate": "2026-06-09T12:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=256718&width=800",
+    "pinned": false
+  },
+  {
     "id": "dff34620532b560e518c66632d995cfaa82cdfc0",
     "title": "France probes compromise of gov messaging platform after account hijack",
     "link": "https://www.theregister.com/security/2026/06/09/france-probes-compromise-of-gov-messaging-platform-after-account-hijack/5252717",
@@ -33,7 +235,7 @@
     "id": "b819b87394adaf901041b26925ab23557fd75b10",
     "title": "Next stop, C:\\ ... Paris Metro screen goes off the tracks",
     "link": "https://www.theregister.com/offbeat/2026/06/09/next-stop-c-paris-metro-screen-goes-off-the-tracks/5252136",
-    "summary": "Prochain arrê: Gare du Bork! French capital city train does the tech can-can",
+    "summary": "Prochain arrêt: Gare du Bork! French capital city train does the tech can-can",
     "isoDate": "2026-06-09T10:00:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -192,9 +394,9 @@
   },
   {
     "id": "a36ffef703be18bebb3c1c4423ca164b189e6b7a",
-    "title": "Apple’s Orwellian device controls for tots also mean more work for parents",
+    "title": "Apple's Orwellian device controls for tots also mean more work for parents",
     "link": "https://www.theregister.com/personal-tech/2026/06/08/apples-orwellian-device-controls-for-tots-also-mean-more-work-for-parents/5252515",
-    "summary": "The new features ignore the argument that if parents wanted to spend more time on their kids, they wouldn't have supplied them with an iPad or iPhone in the first place.",
+    "summary": "The new features ignore the argument that if parents wanted to spend more time on their kids, they wouldn't have supplied them with an iPad or iPhone in the first place",
     "isoDate": "2026-06-08T21:28:59Z",
     "source": "The Register",
     "category": "Tech",
@@ -643,22 +845,6 @@
     "pinned": false
   },
   {
-    "id": "aa4dc84eee79686c10afa93bf1f7e6de6f771d0b",
-    "title": "Michigan politicians want to ban Chinese-badged cars from even visiting the US",
-    "link": "https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/",
-    "summary": "The latest bill would ban day trips from Canada or Mexico in Chinese cars.",
-    "isoDate": "2026-06-08T14:02:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Chinese cars"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277784296-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "226b21f63a7093ceb436bde6074697d29f10c1cb",
     "title": "GitHub nukes 70+ Microsoft repos, breaks CI/CD pipelines, following suspected worm infections",
     "link": "https://www.theregister.com/security/2026/06/08/github-nukes-70-microsoft-repos-amid-suspected-worm-attack/5252169",
@@ -671,25 +857,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5249823&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f86dded647079fa86527990d1e48f975c02cb6de",
-    "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
-    "link": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
-    "summary": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.",
-    "isoDate": "2026-06-08T13:51:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cristina Criddle, Financial Times",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "IPO",
-      "openai",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-500x500-1741196880.jpg",
     "pinned": false
   },
   {
@@ -748,28 +915,6 @@
       "science"
     ],
     "image": "https://image.theregister.com/?imageId=226544&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2404b7c4b99af8f53127f03a37bdd0c44411aef8",
-    "title": "The weather and climate science AI revolution isn’t revolutionary",
-    "link": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
-    "summary": "Machine learning has its limits—how is it being used?",
-    "isoDate": "2026-06-08T11:00:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scott K. Johnson",
-    "tags": [
-      "AI",
-      "Features",
-      "Science",
-      "climate models",
-      "Climate science",
-      "machine learning",
-      "meteorology",
-      "weather forecasts"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-climate-mapping-500x500.jpg",
     "pinned": false
   },
   {
@@ -904,27 +1049,6 @@
     "pinned": false
   },
   {
-    "id": "6924e2191035c1d2db79fb8c11b2ccf09fa307cf",
-    "title": "RIP Anthony Head: Our 10 favorite moments of Buffy’s Giles",
-    "link": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
-    "summary": "Head's true genius—and that of his character, Giles—lay in quietly filling in the gaps in every scene",
-    "isoDate": "2026-06-07T19:34:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Anthony Stewart Head",
-      "Buffy the Vampire Slayer",
-      "entertainment",
-      "Obituaries",
-      "Rupert Giles",
-      "television"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/giles-TOP-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "9a6feb343d5c5a388a8799f950998a5c20cdb2b8",
     "title": "Tesla Model S Plaid vs Ferrari Luce : Comparing Price, Design and Specs",
     "link": "https://www.notateslaapp.com/news/4247/tesla-model-s-plaid-vs-ferrari-luce-comparing-price-design-and-specs",
@@ -935,24 +1059,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/luce_outdoors_hero.jpg/fb89bcee5d9d43a6697b3c22e4fa14df/luce_outdoors_hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "92b5ffdc27e96af02a3c03f91cee72ba31df0285",
-    "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-    "link": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-    "summary": "How accurate does an AI system need to be?",
-    "isoDate": "2026-06-07T11:08:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cyrus Farivar",
-    "tags": [
-      "AI",
-      "Policy",
-      "gun",
-      "schools"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1434414748-500x500-1780698118.jpg",
     "pinned": false
   },
   {
@@ -998,26 +1104,6 @@
       "personal tech"
     ],
     "image": "https://image.theregister.com/?imageId=5251523&width=800",
-    "pinned": false
-  },
-  {
-    "id": "577b42bb774a3c4f3b12bd3e84002280b041cd6a",
-    "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-    "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-    "summary": "Those ousted included ADA journal Editor-in-Chief Steven Kahn and former ADA President Desmond Schatz.",
-    "isoDate": "2026-06-06T20:53:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Policy",
-      "Science",
-      "American Diabetes Association",
-      "NIH",
-      "scientific conferences",
-      "Streisand Effect"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-500x500-1780778318.jpg",
     "pinned": false
   },
   {
@@ -1365,21 +1451,6 @@
     "pinned": false
   },
   {
-    "id": "2b808bb0335cfb9e62a735c19b32225dee020135",
-    "title": "UK's top crime agency hamstrung by legacy IT, watchdog warns",
-    "link": "https://www.theregister.com/public-sector/2026/06/05/uks-top-crime-agency-hamstrung-by-legacy-it-watchdog-warns/5251155",
-    "summary": "Regulator says NCA's aging tech drags down productivity, forces officers to juggle hardware and do manual workarounds",
-    "isoDate": "2026-06-05T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5251167&width=800",
-    "pinned": false
-  },
-  {
     "id": "e0331620852c99abe5bd7d905a950334badcf3bf",
     "title": "The Evidence-Based Complementary and Alternative Medicine retraction scandal",
     "link": "https://www.skeptic.org.uk/2026/06/the-evidence-based-complementary-and-alternative-medicine-retraction-scandal/",
@@ -1393,66 +1464,6 @@
       "Science"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0b74d349eaf3d5ebdc8524721964888c7420083c",
-    "title": "Brit regulator finds mobile network service on trains is far from first class",
-    "link": "https://www.theregister.com/networks/2026/06/05/brit-regulator-finds-mobile-network-service-on-trains-is-far-from-first-class/5251100",
-    "summary": "Comms watchdog says up to 83% of tests fail the 'good performance' threshold",
-    "isoDate": "2026-06-05T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=260818&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f1cee1777f606674bcc4202a0029a59e1686ed66",
-    "title": "Tech support chap hauled out to help SWAT team saw his life flash before his eyes",
-    "link": "https://www.theregister.com/offbeat/2026/06/05/tech-support-chap-hauled-out-to-help-swat-team-saw-his-life-flash-before-his-eyes/5245506",
-    "summary": "Bulletproof vests and armored vehicles were not in the job description",
-    "isoDate": "2026-06-05T06:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=254121&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f65ec72d9ee8c872a29cb65b20ad5e59e46aabf3",
-    "title": "'It would be good for the world' to slow down AI sprints, Anthropic says",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/05/it-would-be-good-for-the-world-to-slow-down-ai-sprints-anthropic-says/5251460",
-    "summary": "The plea for caution comes the same week it beat AI archrival OpenAI to filing for an IPO",
-    "isoDate": "2026-06-04T23:46:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=257058&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8de89bc4042482d89c2e54700891ff6efd24aed0",
-    "title": "Pink is the latest goon squad to use fake helpdesk calls to steal creds",
-    "link": "https://www.theregister.com/cyber-crime/2026/06/04/pink-is-the-latest-goon-squad-to-use-fake-helpdesk-calls-to-steal-creds/5251434",
-    "summary": "A familiar tactic popularized by chaotic crime crew Lapsus$",
-    "isoDate": "2026-06-04T22:16:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5251457&width=800",
     "pinned": false
   },
   {
@@ -1664,19 +1675,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-sales-china-may-2026-1.jpg/f42abc5651faeefa9bb47aa93fe30d0e/tesla-sales-china-may-2026-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "37a9c5dc52394c293c68c49026b151d37584f1c5",
-    "title": "Tesla Launches New Web-Based Dashcam Viewer",
-    "link": "https://www.notateslaapp.com/news/4236/tesla-launches-new-web-based-dashcam-viewer",
-    "summary": "Tesla has officially launched a new web-based utility that solves one of the biggest bottlenecks for managing video history outside of the vehicle&hellip; <a href=\"https://www.notateslaapp.com/news/4236/tesla-launches-new-web-based-dashcam-viewer\">Read More</a>",
-    "isoDate": "2026-06-02T14:26:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/dashcam-web-viewer-overview.webp/dd365c03a3f9d3ead14acfb0b4e8c56f/dashcam-web-viewer-overview.jpg",
     "pinned": false
   }
 ]
