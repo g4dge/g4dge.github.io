@@ -1,7 +1,70 @@
 [
   {
+    "id": "5b64d0786db95ed254089071d65a83719dd7adc8",
+    "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+    "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+    "summary": "Lawsuit: \"Police let an error-prone AI system stand in for an investigation.\"",
+    "isoDate": "2026-06-10T21:30:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "facial recognition"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e7a554f82f0ea15a3ef43b00a3cbc74a35dfd117",
+    "title": "Blockbuster new Raspberry Pi project turns any screen into old-school VCR",
+    "link": "https://www.theregister.com/offbeat/2026/06/10/raspberry-pi-project-gives-media-libraries-a-vcr-style-makeover/5253818",
+    "summary": "Who needs fancy menus and high definition? 240-MP will play your media files like it's 1999",
+    "isoDate": "2026-06-10T20:56:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5253841&width=800",
+    "pinned": false
+  },
+  {
+    "id": "26317629aae578272ad41aa8b2fd722800a23970",
+    "title": "It blocked us at 'hello!' Anthropic Fable 5 refusing innocuous prompts",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/10/anthropic-claude-fable-5-refuses-innocuous-prompts/5253754",
+    "summary": "Hyper-vigilant safety classifiers turn Fable into cautionary tale",
+    "isoDate": "2026-06-10T20:20:38Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5230481&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3e681d607cc0ef50f23f0aa95d2fb5d7f3e90ab8",
+    "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
+    "link": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
+    "summary": "The Mobi Fold is an $80 Bluetooth mouse with a silicone-wrapped hinge.",
+    "isoDate": "2026-06-10T19:57:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "Logitech",
+      "Mouse"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Logitech-Mobi-Fold-cover-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "9a40d3a833dbf324ab2dcdc91fd4f41f6cc1d9af",
-    "title": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost",
+    "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
     "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
     "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
     "isoDate": "2026-06-10T19:29:21Z",
@@ -785,28 +848,6 @@
     "pinned": false
   },
   {
-    "id": "b2dcafc40dcfec5d3bbc929189748ddeff749055",
-    "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
-    "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
-    "summary": "Meta won't say why or whether it's coming back.",
-    "isoDate": "2026-06-09T16:31:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dhruv Mehrotra and Dell Cameron, wired.com",
-    "tags": [
-      "Policy",
-      "Tech",
-      "facial recognition",
-      "meta",
-      "Meta AI",
-      "smart glasses",
-      "Smartglasses",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/zuck-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fffa890f17a88d8216000b9dbf653cd4ca3cebec",
     "title": "Apple’s iOS 27 goes all agentic on compromised passwords, promises to change them with one tap",
     "link": "https://www.theregister.com/personal-tech/2026/06/09/apples-ios-27-goes-all-agentic-on-compromised-passwords/5252957",
@@ -819,29 +860,6 @@
       "personal tech"
     ],
     "image": "https://image.theregister.com/?imageId=252544&width=800",
-    "pinned": false
-  },
-  {
-    "id": "dd12f6c0e0dd934c3c54c8df7243aee2c232e92d",
-    "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
-    "link": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
-    "summary": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
-    "isoDate": "2026-06-09T15:44:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "drone boats",
-      "drones",
-      "Iran",
-      "sea drones",
-      "Strait of Hormuz",
-      "uncrewed surface vehicles",
-      "US Military",
-      "US Navy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Corsair-Saronic-500x500.jpg",
     "pinned": false
   },
   {
@@ -1354,36 +1372,6 @@
     "pinned": false
   },
   {
-    "id": "332639ca6cddc7305f6aad8a93899cbd53da14f0",
-    "title": "Brit fraudsters using AI to doctor 'evidence' in motor insurance claims",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/08/motor-insurance-frausters-abusing-ai-to-exaggerate-claims/5252024",
-    "summary": "Policy-holders increasingly turn fender benders into much more by sprinkling in their favorite AI chatbots, Aviva says",
-    "isoDate": "2026-06-08T10:48:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=260473&width=800",
-    "pinned": false
-  },
-  {
-    "id": "22931a4d9bfe4c18e28f69c9a6d877148d2ed744",
-    "title": "Department of Work and Pensions' answer to AI job fears is a bot to polish your CV",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/08/department-of-work-and-pensions-answer-to-ai-job-fears-is-a-bot-to-polish-your-cv/5251983",
-    "summary": "Whitehall says Work Assistant will help jobseekers apply around the clock – provided employers don't mind machine-written applications",
-    "isoDate": "2026-06-08T10:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5252012&width=800",
-    "pinned": false
-  },
-  {
     "id": "e8f1be1c8e58a3dc4e929cc067b09ca937254530",
     "title": "The steam engine",
     "link": "https://aeon.co/videos/how-an-ancient-curiosity-evolved-to-power-the-modern-world",
@@ -1635,19 +1623,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-europe-changes-8.webp/48562eb7ec50121fbd7dc96bdc247e5d/fsd-europe-changes-8.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a3a52818641e50ba5bf9f0417a8b2bcc2a49721b",
-    "title": "Tesla Confirms FSD V14 is Coming Soon to Australia & New Zealand",
-    "link": "https://www.notateslaapp.com/news/4246/tesla-confirms-fsd-v14-is-coming-soon-to-australia-new-zealand",
-    "summary": "Tesla has sent an update on FSD (Supervised) v14 to vehicle owners in Australia and New Zealand, confirming that it is in final testing and should launch soon&hellip; <a href=\"https://www.notateslaapp.com/news/4246/tesla-confirms-fsd-v14-is-coming-soon-to-australia-new-zealand\">Read More</a>",
-    "isoDate": "2026-06-03T21:51:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-australia-screen.webp/bf31758a6456f6110272bc6794c48397/fsd-australia-screen.jpg",
     "pinned": false
   }
 ]
