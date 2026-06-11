@@ -1,7 +1,128 @@
 [
   {
+    "id": "e3f26caa1328d69bc6372e0e66b0b9dce4ec52b0",
+    "title": "Everyone hates frontier AI labs, says Palantir boss",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/11/everyone-hates-frontier-ai-labs-says-palantir-boss/5254516",
+    "summary": "'Enterprises are fed up,' says Alex Karp, because LLM makers 'want to tokenmax' instead of understanding enterprise needs",
+    "isoDate": "2026-06-11T20:54:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094191&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ab108499152a234e6417b4fd8cfec375a4ad64b6",
+    "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
+    "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
+    "summary": "Cruz/Wyden bill would help Americans sue federal officials over censorship.",
+    "isoDate": "2026-06-11T19:31:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "brendan carr",
+      "FCC",
+      "Ron Wyden",
+      "ted cruz"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ted-cruz-ron-wyden-500x500-1781205347.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bd503ec89e534d049c3c283e376f310e8a423fe6",
+    "title": "Anthropic recruits army to sell Claude to nonprofits",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/11/anthropic-hires-1000-fellows-to-push-claude-into-nonprofits/5254489",
+    "summary": "Join Claude Corps, see the world, spread the gospel of AI",
+    "isoDate": "2026-06-11T19:29:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=178980&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c6c40ce029cf2bc32bc21d59242382c591b68df3",
+    "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
+    "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
+    "summary": "The old app \"still needs to be retired,\" AcuRite tells us.",
+    "isoDate": "2026-06-11T19:08:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "AcuRite",
+      "Bethesda Software",
+      "smart home",
+      "Weather"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/AcuRite-Optimus-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9f6bbb55b25e755665f6f95d353ef3935c09a34c",
+    "title": "ShinyHunters hacked 100+ orgs by exploiting an Oracle PeopleSoft 0-day",
+    "link": "https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-claims-oracle-peoplesoft-0-day-hit-100-orgs/5254443",
+    "summary": "University of Nottingham is first of many, Shiny tells The Reg",
+    "isoDate": "2026-06-11T19:01:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5254486&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d955fd65238e7b75d552253028121efdf70fe951",
+    "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
+    "link": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
+    "summary": "\"Some missions are using more than what their paperwork would say.\"",
+    "isoDate": "2026-06-11T18:34:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "artemis",
+      "artemis II",
+      "Deep Space Network",
+      "moon",
+      "NASA",
+      "planetary science",
+      "solar system"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/PIA17790large-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "01206f7212ca525e699ebcd0760b97ad6f82865c",
+    "title": "Google's new open-weights model brings image-generation tricks to AI text generation",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406",
+    "summary": "Language model builds on diffusion tech to boost output performance by up to 4x, claims Chocolate Factory",
+    "isoDate": "2026-06-11T18:31:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5254430&width=800",
+    "pinned": false
+  },
+  {
     "id": "c7a4f90058c22fd59e78548016bf4e34520bc3ed",
-    "title": "What's so special about a Formula 1 driver-in-the-loop simulator?",
+    "title": "F1 teams spend millions on their simulators—what makes them different?",
     "link": "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
     "summary": "Latency, bandwidth, and fidelity all matter when you're chasing milliseconds.",
     "isoDate": "2026-06-11T18:18:12Z",
@@ -128,9 +249,9 @@
   },
   {
     "id": "cb51f187c015fabd4bd0621b543c47f7037c0fdc",
-    "title": "2.4M+ VRChat users’ data accessed following cloud breach",
+    "title": "VRChat says somebody faked a breach notice with the Maine AG's office",
     "link": "https://www.theregister.com/security/2026/06/11/24m-vrchat-users-data-accessed-following-cloud-breach/5254246",
-    "summary": "No disclosure via official channels, no offer of identity theft monitoring, no problem",
+    "summary": "'We have no reason to believe that our data or systems have been compromised. We are in the process of contacting the Maine Attorney General's office to have this removed.'",
     "isoDate": "2026-06-11T16:01:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -878,26 +999,6 @@
     "pinned": false
   },
   {
-    "id": "ed4c89537b6935033c6a03cf78f2d545d3cc65bf",
-    "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
-    "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
-    "summary": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
-    "isoDate": "2026-06-10T13:13:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Roberto Baldwin",
-    "tags": [
-      "Cars",
-      "GM Energy",
-      "Peak Energy",
-      "sodium batteries",
-      "sodium-ion batteries",
-      "V2G"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-Energy-home-energy-system-2-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "4d12910fb57d438463f653dddb4ce13715b5a407",
     "title": "GitHub pulls pin on npm's auto-run scripts",
     "link": "https://www.theregister.com/devops/2026/06/10/github-pulls-pin-on-npms-auto-run-scripts/5253453",
@@ -1089,42 +1190,6 @@
     "pinned": false
   },
   {
-    "id": "01759fca53af27ad433a3625c858d6f250662beb",
-    "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-    "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
-    "summary": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
-    "isoDate": "2026-06-09T21:05:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "spacex",
-      "starlink"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d67a87154920fe0fc6280365af840d5bed726740",
-    "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-    "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-    "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
-    "isoDate": "2026-06-09T20:56:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "microsoft",
-      "nightmare eclipse",
-      "vulnerabilities"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "dd70a04a27e5d75f9faeff34bc7de567de54b45c",
     "title": "If your sex life is dead, you can blame Steve Jobs",
     "link": "https://www.theregister.com/personal-tech/2026/06/09/study-links-iphone-rollout-to-decline-in-us-birth-rates/5253138",
@@ -1238,66 +1303,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/autonomy-visualized-fsd.webp/d700e39a183300edca6079e60bd09da9/autonomy-visualized-fsd.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f6a077cde72e096da2cc088addc5277b3fe522e5",
-    "title": "LibreOffice brands Euro-Office a 'de facto ally' of Microsoft's lock-in strategy",
-    "link": "https://www.theregister.com/applications/2026/06/09/libreoffice-brands-euro-office-a-de-facto-ally-of-microsofts-lock-in-strategy/5252854",
-    "summary": "The Document Foundation accuses newly launched Euro-Office of undermining digital sovereignty by defaulting to Microsoft's OOXML document format",
-    "isoDate": "2026-06-09T14:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "applications"
-    ],
-    "image": "https://image.theregister.com/?imageId=252926&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d57e878c537e674bf2c5205f8114f3ecde749ea9",
-    "title": "Devs know AI code is riddled with holes, but ship it anyway",
-    "link": "https://www.theregister.com/devops/2026/06/09/devs-know-ai-code-is-riddled-with-holes-but-ship-it-anyway/5252824",
-    "summary": "Pressure to deploy wins out over security as four in five orgs confess to breaches from vulnerable apps",
-    "isoDate": "2026-06-09T13:36:02Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242008&width=800",
-    "pinned": false
-  },
-  {
-    "id": "732fdebbd07ee80090aa7ac6e7212dcc18eb4d81",
-    "title": "Signal says UK plan to scan devices for nude images 'endangers us all'",
-    "link": "https://www.theregister.com/security/2026/06/09/signal-uks-child-nude-block-threat-wont-protect-children/5252761",
-    "summary": "Encrypted messaging app warns device-level checks could be repurposed for censorship",
-    "isoDate": "2026-06-09T12:41:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=227546&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8b848e86613a16ad255c51bea229ffbe2947e9ad",
-    "title": "Chrome's zero-day Whac-A-Mole continues with fifth exploited bug of the year",
-    "link": "https://www.theregister.com/security/2026/06/09/chromes-zero-day-whac-a-mole-continues-with-fifth-exploited-bug-of-the-year/5252689",
-    "summary": "Google paid researcher a tidy $55K bounty for its discovery",
-    "isoDate": "2026-06-09T12:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=256718&width=800",
     "pinned": false
   },
   {
@@ -1593,32 +1598,6 @@
       "Science"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6b1562fbf41b7e627288e60f59c4090be9a40916",
-    "title": "Tesla Brings Grok to More Countries With Update 2026.20",
-    "link": "https://www.notateslaapp.com/news/4251/tesla-brings-grok-to-more-countries-with-update-202620",
-    "summary": "Tesla is expanding the global footprint of its in-car artificial intelligence companion, bringing the Grok chatbot to several new international markets&hellip; <a href=\"https://www.notateslaapp.com/news/4251/tesla-brings-grok-to-more-countries-with-update-202620\">Read More</a>",
-    "isoDate": "2026-06-04T19:59:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui.webp/59ed8c86c72a403ab5d88c8c04491c27/grok-ui.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4e113744e7ac1e9689d4dfc4f2f5a70a61844d12",
-    "title": "Tesla Reveals Full List of Countries Pending FSD Approval",
-    "link": "https://www.notateslaapp.com/news/4249/tesla-reveals-full-list-of-countries-pending-fsd-approval",
-    "summary": "Tesla's global expansion of FSD (Supervised) is actively moving forward, with AI chief Ashok Elluswamy recently every country currently awaiting approval&hellip; <a href=\"https://www.notateslaapp.com/news/4249/tesla-reveals-full-list-of-countries-pending-fsd-approval\">Read More</a>",
-    "isoDate": "2026-06-04T19:08:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-countries-pending-approval.webp/5b12b90237eba4536cb4ad74a44f46c8/tesla-fsd-countries-pending-approval.jpg",
     "pinned": false
   }
 ]
