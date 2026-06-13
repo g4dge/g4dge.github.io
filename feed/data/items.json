@@ -1,5 +1,35 @@
 [
   {
+    "id": "1961f5e29a94e80ffbc6558ae11baa25d05634ba",
+    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+    "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+    "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
+    "isoDate": "2026-06-13T03:00:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/fable5-500x500-1781319492.webp",
+    "pinned": false
+  },
+  {
+    "id": "0b7c2835a800b9647dbfb971ebe9f908ee99de27",
+    "title": "NanoClaw now armed with JFrog for safer packages",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/13/nanoclaw-integrates-jfrog-registries-to-secure-ai-agent-downloads/5255189",
+    "summary": "AI agents can't be trusted, so don't give them dangerous powers",
+    "isoDate": "2026-06-12T23:07:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5255209&width=800",
+    "pinned": false
+  },
+  {
     "id": "fccb96b1bffffcfce2b5744e904680b546fef6ad",
     "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
     "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
@@ -30,6 +60,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-4-streak-celebrations.webp/3fc24c21b4b60ca541155b0cee40fcaa/fsd-14-3-4-streak-celebrations.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9ac4e24951716174edea2a5e013d76d91d8a54b9",
+    "title": "SK Hynix to boost memory production 3x ... you can wait another 8 years, right?",
+    "link": "https://www.theregister.com/systems/2026/06/12/sk-hynix-to-triple-wafer-capacity-by-2034/5255151",
+    "summary": "We're moving as fast as we can, says SK Group chair",
+    "isoDate": "2026-06-12T21:05:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=257233&width=800",
     "pinned": false
   },
   {
@@ -797,29 +842,6 @@
     "pinned": false
   },
   {
-    "id": "d955fd65238e7b75d552253028121efdf70fe951",
-    "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
-    "link": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
-    "summary": "\"Some missions are using more than what their paperwork would say.\"",
-    "isoDate": "2026-06-11T18:34:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "artemis",
-      "artemis II",
-      "Deep Space Network",
-      "moon",
-      "NASA",
-      "planetary science",
-      "solar system"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/PIA17790large-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "01206f7212ca525e699ebcd0760b97ad6f82865c",
     "title": "Google's new open-weights model brings image-generation tricks to AI text generation",
     "link": "https://www.theregister.com/ai-and-ml/2026/06/11/googles-diffusiongemma-uses-diffusion-tech-to-speed-text-generation/5254406",
@@ -1339,36 +1361,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/headlights-matrix-film.webp/3149f035350fa9cbb5766914e42fbcf9/headlights-matrix-film.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7bbcf84544cf5442fcf7973ba85fcaad33c3a2b7",
-    "title": "Vercel escapes contempt rap after admitting it botched FBI warrant response",
-    "link": "https://www.theregister.com/legal/2026/06/10/vercel-escapes-contempt-rap-after-admitting-it-botched-fbi-warrant-response/5253563",
-    "summary": "Files sought by feds were sitting in a deletion queue, not gone for good",
-    "isoDate": "2026-06-10T14:39:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=258894&width=800",
-    "pinned": false
-  },
-  {
-    "id": "82c678d00b215e3af452744207ef81234cba959e",
-    "title": "Linux Lite 8.0 sheds Chrome, slims down, and finds its name fits better than ever",
-    "link": "https://www.theregister.com/os-platforms/2026/06/10/linux-lite-80-sheds-chrome-slims-down-and-finds-its-name-fits-better-than-ever/5253519",
-    "summary": "Firefox is in, Snap and Flatpak are still out, but a default AI helper may raise eyebrows",
-    "isoDate": "2026-06-10T14:05:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5253534&width=800",
     "pinned": false
   },
   {
