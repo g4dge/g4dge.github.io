@@ -1,23 +1,43 @@
 [
   {
-    "id": "369ceceae7345fdcb2f0d70d618ac57b19fbda70",
-    "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-    "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-    "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
-    "isoDate": "2026-06-15T17:55:46Z",
-    "source": "Ars Technica",
+    "id": "6ab52bb0be1fedd13ffb7ab49c17660ac15dfc6a",
+    "title": "Tesla Reveals Cybercab Specs in New EPA Filings",
+    "link": "https://www.notateslaapp.com/news/4300/tesla-reveals-cybercab-specs-in-new-epa-filings",
+    "summary": "The technical specifications for Tesla's dedicated robotaxi are finally coming to light in public EPA filings as official deployment inches closer&hellip; <a href=\"https://www.notateslaapp.com/news/4300/tesla-reveals-cybercab-specs-in-new-epa-filings\">Read More</a>",
+    "isoDate": "2026-06-15T19:55:00Z",
+    "source": "Not a Tesla App",
     "category": "Tech",
-    "author": "Dan Goodin",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-mass-production-giga-texas-2.webp/2576e4c2b4f38e23dc459a07a0d17203/cybercab-mass-production-giga-texas-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2b2596baf3e409ae39f9685e2858957e77fc5d14",
+    "title": "Over 100 Tesla Cybercabs Spotted Staging at Giga Texas",
+    "link": "https://www.notateslaapp.com/news/4299/over-100-tesla-cybercabs-spotted-staging-at-giga-texas",
+    "summary": "New drone footage from Gigafactory Texas shows the dedicated robotaxi vehicle fleet building up staggering numbers, just waiting to be deployed&hellip; <a href=\"https://www.notateslaapp.com/news/4299/over-100-tesla-cybercabs-spotted-staging-at-giga-texas\">Read More</a>",
+    "isoDate": "2026-06-15T19:07:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/100-cybercabs-giga-texas-june-2026-1-1781548787.webp/dd8ecb6cb4e6630c26c759c696cadabd/100-cybercabs-giga-texas-june-2026-1-1781548787.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e96feb9ac4f7041d106d1042928392c3d02110b7",
+    "title": "HPE offers VMware refugees a year off the meter",
+    "link": "https://www.theregister.com/virtualization/2026/06/15/hpe-offers-vmware-refugees-a-year-off-the-meter/5255460",
+    "summary": "Free VM Essentials license and cut-price Zerto dangled at customers eyeing a platform escape",
+    "isoDate": "2026-06-15T18:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
     "tags": [
-      "Biz & IT",
-      "Security",
-      "AMD",
-      "CPUs",
-      "processors",
-      "Transparent Secure Memory Encryption",
-      "tsme"
+      "virtualization"
     ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-500x500-1769617347.jpeg",
+    "image": "https://image.theregister.com/?imageId=5255474&width=800",
     "pinned": false
   },
   {
@@ -66,31 +86,9 @@
     "pinned": false
   },
   {
-    "id": "d19aa134e827ddcb7a62d1ebc42b19e3d02635fe",
-    "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
-    "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
-    "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
-    "isoDate": "2026-06-15T16:32:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Features",
-      "Tech",
-      "apple",
-      "Apple silicon",
-      "Intel",
-      "Intel Macs",
-      "MacBook Air"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Steve-Jobs-announces-Intel-processor-GettyImages-53028118-500x500-1781292888.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8ce47d0d5b0d6199dcdd58ce84235d79bf91abda",
-    "title": "The Y2K bug is back! Danish dev digs up untimely flaw in old BSD build",
-    "link": "https://www.theregister.com/offbeat/2026/06/15/the-y2k-bug-is-back-danish-dev-digs-up-untimely-flaw-in-old-bsd-build/5255645",
+    "id": "28544f1ce05d1a35ffe442bdf37c8b4a6fdba7e9",
+    "title": "The Y2K bug is back! Dutch dev digs up untimely flaw in old BSD build",
+    "link": "https://www.theregister.com/offbeat/2026/06/15/the-y2k-bug-is-back-dutch-dev-digs-up-untimely-flaw-in-old-bsd-build/5255645",
     "summary": "26 years late and no threat unless you still run a PDP-11/70 and rely on short-wave timekeeping broadcasts",
     "isoDate": "2026-06-15T16:30:00Z",
     "source": "The Register",
@@ -100,23 +98,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=5255668&width=800",
-    "pinned": false
-  },
-  {
-    "id": "685e2b54c28ea859118e4ccf6b9969fd0a66427b",
-    "title": "Good news—we have extra time before the Sun ends life on Earth",
-    "link": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
-    "summary": "Will the Sun roast Earth’s plants or starve them?",
-    "isoDate": "2026-06-15T16:28:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scott K. Johnson",
-    "tags": [
-      "Science",
-      "astrobiology",
-      "red giant"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/sun_nasas_flareF-1920-500x500.jpg",
     "pinned": false
   },
   {
@@ -162,24 +143,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5241525&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a43b5d230d89c45145e55b7e525368fb3b6fedb1",
-    "title": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
-    "link": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
-    "summary": "Armed with a ton of new upgrades, Ferrari came to Spain full of confidence.",
-    "isoDate": "2026-06-15T15:25:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Formula 1",
-      "Lewis Hamilton",
-      "spain"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281551814-500x500.jpg",
     "pinned": false
   },
   {
@@ -238,28 +201,6 @@
       "research"
     ],
     "image": "https://image.theregister.com/?imageId=1681600&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b3ab1f59a85427c78848a6538966af1d938bae83",
-    "title": "Russia appears set to finally address long-term, serious space station cracks",
-    "link": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
-    "summary": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos.",
-    "isoDate": "2026-06-15T13:54:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "crack",
-      "iss",
-      "leak",
-      "NASA",
-      "roscosmos",
-      "russia",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-71395189-500x500.jpg",
     "pinned": false
   },
   {
@@ -454,27 +395,6 @@
     "pinned": false
   },
   {
-    "id": "94a27bb8dcd25a61e2e7304f6a8f080fd12ff569",
-    "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
-    "link": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
-    "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066.",
-    "isoDate": "2026-06-14T16:02:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Science",
-      "astronomy",
-      "Eilmer of Malmesbury",
-      "Halley's comet",
-      "medieval history",
-      "science history"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/eilmer-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "63129df7ee8c735e774484630d3e287987b9faa2",
     "title": "Watch Tesla FSD Avoid Obstacles in Just 0.13 Seconds [VIDEO]",
     "link": "https://www.notateslaapp.com/news/4296/watch-tesla-fsd-avoid-obstacles-in-just-013-seconds-video",
@@ -561,21 +481,6 @@
     "pinned": false
   },
   {
-    "id": "9ec2c01791741991cdb62de00a9951ee5d85730b",
-    "title": "Review: Disclosure Day is big on action, light on ideas",
-    "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
-    "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
-    "isoDate": "2026-06-13T17:17:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/day7-500x500-1781361104.jpg",
-    "pinned": false
-  },
-  {
     "id": "a3cd84daa85db7f7718199ddc72085e4306c2823",
     "title": "Tesla’s Robotaxi Expansion Plan into Arizona Detailed",
     "link": "https://www.notateslaapp.com/news/4275/teslas-robotaxi-expansion-plan-into-arizona-detailed",
@@ -601,26 +506,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=5220092&width=800",
-    "pinned": false
-  },
-  {
-    "id": "12e24bcf7fe6ca0fd0a6bd903dd0796a6f11fb28",
-    "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
-    "link": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
-    "summary": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
-    "isoDate": "2026-06-13T11:18:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Wyatt Myskow, Inside Climate News",
-    "tags": [
-      "Science",
-      "fungal",
-      "fungal networks",
-      "fungi",
-      "mushrooms",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1164060198-500x500.jpg",
     "pinned": false
   },
   {
@@ -669,25 +554,6 @@
     "pinned": false
   },
   {
-    "id": "1961f5e29a94e80ffbc6558ae11baa25d05634ba",
-    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-    "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
-    "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
-    "isoDate": "2026-06-13T03:00:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Anthropic Claude",
-      "fable 5",
-      "Mythos 5"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/fable5-500x500-1781319492.webp",
-    "pinned": false
-  },
-  {
     "id": "0b7c2835a800b9647dbfb971ebe9f908ee99de27",
     "title": "NanoClaw now armed with JFrog for safer packages",
     "link": "https://www.theregister.com/ai-and-ml/2026/06/13/nanoclaw-integrates-jfrog-registries-to-secure-ai-agent-downloads/5255189",
@@ -700,27 +566,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5255209&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fccb96b1bffffcfce2b5744e904680b546fef6ad",
-    "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-    "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-    "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
-    "isoDate": "2026-06-12T22:20:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "AI",
-      "Space",
-      "NASA",
-      "Nasdaq",
-      "space",
-      "spacex",
-      "starship"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250-500x500.jpg",
     "pinned": false
   },
   {
@@ -780,26 +625,6 @@
     "pinned": false
   },
   {
-    "id": "137d5456640ef2dfa79d82a07129c4b104d2ec4a",
-    "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-    "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-    "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
-    "isoDate": "2026-06-12T19:26:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "oracle",
-      "PeopleSoft",
-      "ShinyHunters",
-      "zerodays"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "7665484f7e500be07cd0eb4d0ec44c6e8fc4ce1c",
     "title": "MX Linux 25.2 provides possible refuge from AI as well as systemd",
     "link": "https://www.theregister.com/software/2026/06/12/mx-linux-252-arrives-with-switchable-init-and-pi-refresh/5255017",
@@ -815,47 +640,6 @@
     "pinned": false
   },
   {
-    "id": "e766893b34304ddb66f022c8f332f52954426b0d",
-    "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-    "link": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-    "summary": "Section 702 of FISA to expire tonight, but certification lasts until March 2027.",
-    "isoDate": "2026-06-12T18:57:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "FISA",
-      "section 702",
-      "spying",
-      "warrantless surveillance"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/spy-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8f89e0651bd69d3ad417ac9b20986c67ebd24843",
-    "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-    "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-    "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
-    "isoDate": "2026-06-12T18:45:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "funding",
-      "Jeff Bezos",
-      "physical AI",
-      "project prometheus",
-      "Prometheus",
-      "startups",
-      "Vik Bajaj"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Bezos-Bajaj-Prometheus-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f5c973484c80420b191e054e272676a213825ab7",
     "title": "Tesla Model 3 Named Most Efficient EV by Edmunds",
     "link": "https://www.notateslaapp.com/news/4290/tesla-model-3-named-most-efficient-ev-by-edmunds",
@@ -866,26 +650,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/standard/model3_77.webp/ec792e7d14d954219f88a6086c0d3c8d/model3_77.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8cdb933ba2870c12b8960dcb54c1e700a7c9a25c",
-    "title": "Have politics finally come for the National Academies of Science?",
-    "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
-    "summary": "A pending report on climate attribution may be setting the stage for conflict.",
-    "isoDate": "2026-06-12T18:31:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "climate change",
-      "National Academies",
-      "politics",
-      "Science policy",
-      "weather attribution"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1845540332-500x500.jpg",
     "pinned": false
   },
   {
@@ -904,70 +668,6 @@
     "pinned": false
   },
   {
-    "id": "6645a0651dc30d6df4491de557892956de2a9672",
-    "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-    "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-    "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
-    "isoDate": "2026-06-12T18:03:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "AI drones",
-      "drones",
-      "military AI",
-      "military drones",
-      "robots",
-      "Russia invasion of Ukraine",
-      "Russian war on Ukraine",
-      "Ukraine",
-      "Ukraine war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ukraine-drone-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "359be31269bda6f87e63239da2dc6e1938a93896",
-    "title": "$130 billion in data center projects blocked by protests so far this year",
-    "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-    "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-    "isoDate": "2026-06-12T17:18:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ai data center",
-      "Artificial Intelligence",
-      "data center moratoriums",
-      "meta",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2275860721-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9aaf1453a8d2dd0697d5aa3948e4a89429377961",
-    "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-    "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-    "summary": "Even moderately sized data centers can have an outsized local impact.",
-    "isoDate": "2026-06-12T16:51:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Amazon",
-      "data centers",
-      "google",
-      "water"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1240294200-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "83c29fccb7c98730221555745b087af9bd8ecfba",
     "title": "Tesla Releases 'Actually Smart Summon' for Cybertruck With FSD V14.3.4",
     "link": "https://www.notateslaapp.com/news/4289/tesla-releases-actually-smart-summon-on-cybertruck",
@@ -978,46 +678,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-summon.webp/6a5bda91592276d902beaee76e73d9d8/cybertruck-summon.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c69db3681c4fe31f016181ecde16303bdbb5815f",
-    "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-    "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-    "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
-    "isoDate": "2026-06-12T16:34:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "gemini",
-      "generative ai",
-      "google",
-      "scams"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-green-terminal-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0a6d3f46c50e4aaeee7ab5df4f987520c1c88a62",
-    "title": "RFK Jr. melts down over NYT report, admits he blacklists reporters",
-    "link": "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
-    "summary": "NYT reported Kennedy is disengaged. Kennedy's response seems to show NYT is right.",
-    "isoDate": "2026-06-12T16:19:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "calendar",
-      "FOIA",
-      "HHS",
-      "robert f kennedy jr"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277525981-500x500.jpg",
     "pinned": false
   },
   {
@@ -1046,23 +706,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5255040&width=800",
-    "pinned": false
-  },
-  {
-    "id": "30c0beadc3effd7a4507600dde8375a786190d41",
-    "title": "The biggest race in the world? The 24 Hours of Le Mans is this weekend.",
-    "link": "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/",
-    "summary": "More than 350,000 spectators will watch 62 cars compete, day and night.",
-    "isoDate": "2026-06-12T15:34:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "24 hours of le mans",
-      "Racing"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280229158-500x500-1781276940.jpg",
     "pinned": false
   },
   {
@@ -1330,21 +973,6 @@
     "pinned": false
   },
   {
-    "id": "bd503ec89e534d049c3c283e376f310e8a423fe6",
-    "title": "Anthropic recruits army to sell Claude to nonprofits",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/11/anthropic-hires-1000-fellows-to-push-claude-into-nonprofits/5254489",
-    "summary": "Join Claude Corps, see the world, spread the gospel of AI",
-    "isoDate": "2026-06-11T19:29:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=178980&width=800",
-    "pinned": false
-  },
-  {
     "id": "f38a34c401c8da33f386383db3f8ea2887ad98ab",
     "title": "Tesla Files Plans for Massive 96-Stall Supercharger in California",
     "link": "https://www.notateslaapp.com/news/4284/tesla-files-plans-for-massive-96-stall-supercharger-in-california",
@@ -1554,32 +1182,6 @@
       "Skepticism"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "20b4453f60925e65e4e17657a71a908102aba54d",
-    "title": "Tesla Chief Designer Says Next-Gen Roadster is Coming 'Very Soon'",
-    "link": "https://www.notateslaapp.com/news/4272/tesla-chief-designer-says-next-gen-roadster-is-coming-very-soon",
-    "summary": "Just as new rumors suggested Tesla's Roadster 2.0 might not see the stage until late into the fall, Tesla's design lead has hinted that might not be the case&hellip; <a href=\"https://www.notateslaapp.com/news/4272/tesla-chief-designer-says-next-gen-roadster-is-coming-very-soon\">Read More</a>",
-    "isoDate": "2026-06-08T19:58:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/0x0-roadster_06-1779725615.jpg/53ffcd492fb78610a79603e00c47b0df/0x0-roadster_06-1779725615.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7a23de71a12cdf5f982e253618e7e52e9e404570",
-    "title": "Teslas More Likely to Reach 250k Miles Than Most Major Brands [LIST]",
-    "link": "https://www.notateslaapp.com/news/4271/teslas-more-likely-to-reach-250k-miles-than-most-major-brands-list",
-    "summary": "While Japanese manufacturing giants usually sweep long-term reliability rankings, Tesla has secured a top spot, defying years of persistent skepticism about EVs&hellip; <a href=\"https://www.notateslaapp.com/news/4271/teslas-more-likely-to-reach-250k-miles-than-most-major-brands-list\">Read More</a>",
-    "isoDate": "2026-06-08T18:55:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_66.jpg/7620b55782eff45301d6a20b7e036258/group_66.jpg",
     "pinned": false
   }
 ]
