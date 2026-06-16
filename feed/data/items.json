@@ -1,7 +1,80 @@
 [
   {
+    "id": "67e44170e75c1aef3e589bc7e31ef25ad2b39de9",
+    "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+    "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+    "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+    "isoDate": "2026-06-16T22:22:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "AI",
+      "Policy",
+      "grok",
+      "naacp",
+      "trump administration",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "665e013b3059db18e7468fa2b900ac73b67f0913",
+    "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+    "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+    "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+    "isoDate": "2026-06-16T22:11:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Biz & IT",
+      "Broadcom",
+      "hewlett packard enterprise",
+      "vmware"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1166474639-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4d7abdbe0365c86c7aa1a818912e2ec7c31e37cf",
+    "title": "AMD's Mext buy shows how AI could solve the RAM shortage it created",
+    "link": "https://www.theregister.com/systems/2026/06/16/amds-mext-buy-shows-how-ai-could-solve-the-ram-shortage-it-created/5257352",
+    "summary": "Running low on memory, can't afford more? The House of Zen's latest acquisition puts an AI spin on flash-based memory expansion",
+    "isoDate": "2026-06-16T22:09:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5257373&width=800",
+    "pinned": false
+  },
+  {
+    "id": "290b748a46d0d2b7d2d89e02e8ad4e158db9fe31",
+    "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+    "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+    "summary": "Transferring genes across species doesn't just happen in microbes.",
+    "isoDate": "2026-06-16T21:54:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "Biology",
+      "cockroaches",
+      "evolution",
+      "Genomics",
+      "Horizontal gene transfer"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1906194565-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "41f254f06d82aabe718c8094fe7e65d94a4fc581",
-    "title": "Amid launch bottleneck, Amazon has \"hundreds\" of satellites waiting to fly",
+    "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
     "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
     "summary": "\"As for Arianespace, they have definitely stepped up.\"",
     "isoDate": "2026-06-16T21:14:08Z",
@@ -21,7 +94,7 @@
   },
   {
     "id": "b9bf7a29abe3b126934d20b4a730e2b34e5352d4",
-    "title": "U.S. Lawmakers Target Tesla FSD, Urge NHTSA to Investigate",
+    "title": "Lawmakers Urge NHTSA to Investigate Tesla's FSD Claims",
     "link": "https://www.notateslaapp.com/news/4307/us-lawmakers-target-tesla-fsd-urge-nhtsa-to-investigate",
     "summary": "U.S. lawmakers have once again set their sights on Tesla's Full Self-Driving (Supervised) system, this time targeting safety claims regarding the software&hellip; <a href=\"https://www.notateslaapp.com/news/4307/us-lawmakers-target-tesla-fsd-urge-nhtsa-to-investigate\">Read More</a>",
     "isoDate": "2026-06-16T21:12:00Z",
@@ -52,6 +125,21 @@
       "token-based"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/claude37_header-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a49c4e25a487321a896b7b3d65b2ede60731cd79",
+    "title": "The new Siri makes one of Apple's most convenient OS features a cumbersome mess",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/16/the-new-siri-makes-one-of-apples-most-convenient-os-features-a-cumbersome-mess/5256591",
+    "summary": "Goodbye, useful Spotlight; hello force-fed Apple intelligence bloatware that feels distressingly like Google AI Overviews",
+    "isoDate": "2026-06-16T20:47:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=4093949&width=800",
     "pinned": false
   },
   {
@@ -829,48 +917,6 @@
     "pinned": false
   },
   {
-    "id": "25d454c15c5835ff824c2c5e5e12da36b6c55393",
-    "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
-    "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
-    "summary": "Fox plans to take over Roku's streaming hardware, OS, and FAST services.",
-    "isoDate": "2026-06-15T18:29:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "acquisition",
-      "Fox",
-      "mergers",
-      "roku",
-      "streaming",
-      "TVs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1322884883-500x500-1781545392.jpg",
-    "pinned": false
-  },
-  {
-    "id": "369ceceae7345fdcb2f0d70d618ac57b19fbda70",
-    "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-    "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-    "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
-    "isoDate": "2026-06-15T17:55:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "AMD",
-      "CPUs",
-      "processors",
-      "Transparent Secure Memory Encryption",
-      "tsme"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-500x500-1769617347.jpeg",
-    "pinned": false
-  },
-  {
     "id": "19e115ed89e394bd56416f661cd57b8a025c1ed5",
     "title": "Council of Europe hacked in ShinyHunters' PeopleSoft heist",
     "link": "https://www.theregister.com/cyber-crime/2026/06/15/council-of-europe-hacked-in-shinyhunters-peoplesoft-heist/5255757",
@@ -913,28 +959,6 @@
       "public sector"
     ],
     "image": "https://image.theregister.com/?imageId=5255734&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d19aa134e827ddcb7a62d1ebc42b19e3d02635fe",
-    "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
-    "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
-    "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
-    "isoDate": "2026-06-15T16:32:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Features",
-      "Tech",
-      "apple",
-      "Apple silicon",
-      "Intel",
-      "Intel Macs",
-      "MacBook Air"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Steve-Jobs-announces-Intel-processor-GettyImages-53028118-500x500-1781292888.jpg",
     "pinned": false
   },
   {
@@ -1232,21 +1256,6 @@
     "pinned": false
   },
   {
-    "id": "8d30b72ffaabb27d2d45d3bc9feeeb61f80c4f6c",
-    "title": "Fire burns Google Cloud India’s network, which remains slow a week later",
-    "link": "https://www.theregister.com/off-prem/2026/06/14/fire-burns-google-cloud-indias-network-which-remains-slow-a-week-later/5255246",
-    "summary": "PLUS: Japan’s space truck is back in business; Zoho's DIY servers; Record tech exports for Korea, and more!",
-    "isoDate": "2026-06-14T21:36:30Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=254908&width=800",
-    "pinned": false
-  },
-  {
     "id": "63129df7ee8c735e774484630d3e287987b9faa2",
     "title": "Watch Tesla FSD Avoid Obstacles in Just 0.13 Seconds [VIDEO]",
     "link": "https://www.notateslaapp.com/news/4296/watch-tesla-fsd-avoid-obstacles-in-just-013-seconds-video",
@@ -1257,21 +1266,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-obstacle-avoidance-test.webp/34e00d7fbd476d91dce4d9560a2d016b/fsd-14-3-obstacle-avoidance-test.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2b17882f00378f42834f751a1331e1900ee14e4c",
-    "title": "US Army picks out Vampire to fill a gap in its layered drone defenses",
-    "link": "https://www.theregister.com/offbeat/2026/06/14/us-army-picks-out-vampire-to-fill-a-gap-in-its-layered-drone-defenses/5254963",
-    "summary": "L3Harris supplies system that can down incoming drones with laser-guided rockets",
-    "isoDate": "2026-06-14T14:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093975&width=800",
     "pinned": false
   },
   {
@@ -1577,19 +1571,6 @@
       "Health"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "942b3f223fc40a4ad1ffef603c056d8358dd2a85",
-    "title": "Tesla Shares FSD Safety Data From the Netherlands",
-    "link": "https://www.notateslaapp.com/news/4274/tesla-shares-fsd-safety-data-from-the-netherlands",
-    "summary": "Tesla has dropped its first localized snapshot of public FSD (Supervised) safety data in Europe, revealing how the software is handling local roads and laws&hellip; <a href=\"https://www.notateslaapp.com/news/4274/tesla-shares-fsd-safety-data-from-the-netherlands\">Read More</a>",
-    "isoDate": "2026-06-09T21:21:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-netherlands-vehicle-safety-report-june-2026.webp/874826722a17181a90716cc0d13be422/tesla-fsd-netherlands-vehicle-safety-report-june-2026.jpg",
     "pinned": false
   }
 ]
