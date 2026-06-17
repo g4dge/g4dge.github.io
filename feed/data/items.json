@@ -1,5 +1,76 @@
 [
   {
+    "id": "bb863991f50ae6a0b683d7a8d51a0c080e9a7441",
+    "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
+    "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
+    "summary": "Maggot therapy lacks robust data, but it has fans and a fail-safe \"bacon therapy.\"",
+    "isoDate": "2026-06-17T22:11:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "Cuprina",
+      "fda",
+      "maggot debridement therapy",
+      "maggots",
+      "wound"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-829469540-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3effcf4a7417bf33265eb42d0dc63a2469f8088b",
+    "title": "Git good with Epic Games' new open source VCS, Lore",
+    "link": "https://www.theregister.com/devops/2026/06/17/git-good-with-epic-games-new-open-source-vcs-lore/5257978",
+    "summary": "Got big binaries? Tired of other version control systems that treat them like inferior files? Lore might be worth a look",
+    "isoDate": "2026-06-17T20:49:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5258032&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ff561368f355345e8e1c95c509a8801f90d4bc05",
+    "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
+    "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
+    "summary": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.",
+    "isoDate": "2026-06-17T20:44:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "Amazon",
+      "Computer science",
+      "Physics",
+      "quantinuum",
+      "quantum advantage",
+      "quantum computing",
+      "quantum mechanics",
+      "QuEra"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Libra-internals44-copy-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "2a7909c2c21224faa9f928ec5a6776538f542151",
+    "title": "Tesla Starts Adding Free Car Vacuums to Superchargers",
+    "link": "https://www.notateslaapp.com/news/4314/tesla-starts-adding-free-car-vacuums-to-superchargers",
+    "summary": "While Tesla owners are used to scrolling on their phones while Supercharging, a new pilot amenity aims to help you check off some quick chores while plugged in&hellip; <a href=\"https://www.notateslaapp.com/news/4314/tesla-starts-adding-free-car-vacuums-to-superchargers\">Read More</a>",
+    "isoDate": "2026-06-17T20:42:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/tesla-supercharger-free-vaccuum.webp/8ea9a1e98aa7b11f0bf4ee4031d2e8d6/tesla-supercharger-free-vaccuum.jpg",
+    "pinned": false
+  },
+  {
     "id": "b8660f182cb9ad15b7824800a93bc080e188316d",
     "title": "California says AT&T lied to FCC in attempt to shut off old phone network",
     "link": "https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/",
@@ -74,9 +145,9 @@
   },
   {
     "id": "461fcb952ef6bf7e1b2c1b220c85b0457dd8cbd1",
-    "title": "AI coding agents taught robots how to install GPUs and cut zip-ties",
+    "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
     "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-    "summary": "NVIDIA’s self-improvement program for robots enlists teams of AI coding agents.",
+    "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
     "isoDate": "2026-06-17T19:25:19Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -866,47 +937,6 @@
     "pinned": false
   },
   {
-    "id": "3736520dc1b2cf700339f98ad7961ec4ff8d39d5",
-    "title": "Android 17 starts hitting Pixel phones and watches today",
-    "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-    "summary": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes.",
-    "isoDate": "2026-06-16T18:00:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "android",
-      "android 17",
-      "google",
-      "smartphones",
-      "wear OS"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c42751f8c375996711a83b1f895412f499f0672a",
-    "title": "Trump admin abandons fight against wind energy as clean energy output surges",
-    "link": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
-    "summary": "Legal victories have dampened the Trump admin’s efforts to halt wind and solar power.",
-    "isoDate": "2026-06-16T16:49:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Aman Azhar, Inside Climate News",
-    "tags": [
-      "Policy",
-      "Science",
-      "clean energy",
-      "syndication",
-      "trump administration",
-      "wind turbines"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1350384252-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a73bf9ece9d135125efef3f3f88a07b2bce3a340",
     "title": "Tesla Finally Starts Selling Cybertruck Off-Road Light Bar Separately",
     "link": "https://www.notateslaapp.com/news/4303/tesla-finally-starts-selling-cybertruck-off-road-light-bar-separately",
@@ -1258,21 +1288,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5255863&width=800",
-    "pinned": false
-  },
-  {
-    "id": "57526f9b02bc36d3aa7a625c6a1a131852929324",
-    "title": "DARPA seeks swappable satellites to help with future star wars",
-    "link": "https://www.theregister.com/offbeat/2026/06/15/darpa-seeks-swappable-satellites-to-help-with-future-star-wars/5255839",
-    "summary": "Worried that an unexpected strike could take out critical orbital systems, Pentagon researchers want to know how fast the industry thinks it could launch replacements",
-    "isoDate": "2026-06-15T20:17:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=262824&width=800",
     "pinned": false
   },
   {
