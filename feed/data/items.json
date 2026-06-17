@@ -1,5 +1,80 @@
 [
   {
+    "id": "b32d5898fe2377747159b843468501a9365d7966",
+    "title": "Windows update leaves third-party Office document launches in limbo",
+    "link": "https://www.theregister.com/personal-tech/2026/06/17/windows-update-leaves-third-party-office-document-launches-in-limbo/5257425",
+    "summary": "Microsoft won the OLE vs OpenDoc wars. Now it's saying OLE dependencies don't matter",
+    "isoDate": "2026-06-17T09:56:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=260003&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ff35c4272cad722bdab54e0335a8062d12d38742",
+    "title": "System76 boss reckons he can liberate the entire PC stack... just give him another 15 years",
+    "link": "https://www.theregister.com/personal-tech/2026/06/17/system76-boss-reckons-he-can-liberate-the-entire-pc-stack-just-give-him-another-15-years/5255258",
+    "summary": "Bootstrapped Linux box-botherer flogs new Thelio kit, talks up COSMIC, and politely declines to bolt AI onto everything",
+    "isoDate": "2026-06-17T09:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5255300&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d65e07b6ec78374f09b2d42e77d9af55a38f8a08",
+    "title": "AI needs to be regulated to ensure its benefits don’t stay with the mega-rich",
+    "link": "https://www.skeptic.org.uk/2026/06/ai-needs-to-be-regulated-to-ensure-its-benefits-dont-stay-with-the-mega-rich/",
+    "summary": "<p>Regulating the Industrial Revolution didn't stifle innovation, it ensured technology served the people – regulating Big Tech and AI can do the same today.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/06/ai-needs-to-be-regulated-to-ensure-its-benefits-dont-stay-with-the-mega-rich/\">AI needs to be regulated to ensure its benefits don&#8217;t stay with the mega-rich</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-06-17T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Michael Marshall",
+    "tags": [
+      "Technology"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "74664734db645c012e0d597961aca962de939db4",
+    "title": "Tesco is sprinting to quit VMware and Broadcom despite rapid migration risks",
+    "link": "https://www.theregister.com/virtualization/2026/06/17/tesco-is-sprinting-to-quit-vmware-and-broadcom-despite-rapid-migration-risks/5256133",
+    "summary": "Supermarket giant has turned to third-party support as court sets date to hear licensing dispute",
+    "isoDate": "2026-06-17T07:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=260306&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4ca062486048b8f0f15ed877cdc456b80992c621",
+    "title": "Developers build the best tools for developers – and are now defanging the AI menace",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/17/developers-build-the-best-tools-for-developers-and-are-now-defanging-the-ai-menace/5255316",
+    "summary": "Fear and even grief are natural reactions to machines that do your job. The next reactions – acceptance and innovation – are more useful",
+    "isoDate": "2026-06-17T06:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=261387&width=800",
+    "pinned": false
+  },
+  {
     "id": "d0e9a4de395409faf3788b06a6032375032829f5",
     "title": "Cyberattack sees crops kept in the ground",
     "link": "https://www.theregister.com/cyber-crime/2026/06/17/cyberattack-sees-crops-kept-in-the-ground/5256321",
@@ -158,10 +233,10 @@
     "pinned": false
   },
   {
-    "id": "cb9e542bb9d3e44686f585ae95c000c60304a7e8",
-    "title": "Python dev saved from disaster by intuition...and AI",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuitionand-ai/5256632",
-    "summary": "I'm sorry, Dave. I can't install that repo that will totally hose your system.",
+    "id": "cc1c23bc92c093163747c4c930917054882d7dc8",
+    "title": "Python dev saved from disaster by intuition... and AI",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuition-and-ai/5256632",
+    "summary": "I'm sorry, Dave. I can't install that repo that will totally hose your system",
     "isoDate": "2026-06-16T20:15:06Z",
     "source": "The Register",
     "category": "Tech",
@@ -1196,21 +1271,6 @@
     "pinned": false
   },
   {
-    "id": "32bedd1bd5d8948bd95a5d575d72ed04f5cdb797",
-    "title": "Britain plots digital bedtime after kicking under-16s off social media",
-    "link": "https://www.theregister.com/personal-tech/2026/06/15/britain-plots-digital-bedtime-after-kicking-under-16s-off-social-media/5255341",
-    "summary": "UK plans to go further than Australia, while also targeting stranger contact, livestreaming, and addictive platform features",
-    "isoDate": "2026-06-15T09:14:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5254826&width=800",
-    "pinned": false
-  },
-  {
     "id": "ea951ebfbbd5277907282bc4aad8bbc5dd769540",
     "title": "Autohemotherapy: blood pseudoscience with a Brazilian twist",
     "link": "https://www.skeptic.org.uk/2026/06/autohemotherapy-blood-pseudoscience-with-a-brazilian-twist/",
@@ -1223,36 +1283,6 @@
       "Alternative Medicine"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6427eef25300a8f0534bfc153e96cfd523684f33",
-    "title": "Google found liable for bad AI Overview results. Let’s play Truth Or Consequences",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/15/google-found-liable-for-bad-ai-overview-results-lets-play-truth-or-consequences/5254897",
-    "summary": "Hush. children, what’s that sound? Has the flood gates’ key been found?",
-    "isoDate": "2026-06-15T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5239371&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0a12d8126da2974035c455e2880df3c6e4915533",
-    "title": "Munch Museum Windows display gives visitors something to scream about",
-    "link": "https://www.theregister.com/offbeat/2026/06/15/munch-museum-windows-display-gives-visitors-something-to-scream-about/5254084",
-    "summary": "When art reflects modern realities",
-    "isoDate": "2026-06-15T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5254104&width=800",
     "pinned": false
   },
   {
@@ -1555,21 +1585,6 @@
     "category": "Long Reads",
     "author": "Aeon Video",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "32bb065451ab67e5500dc49fe87f9fabf3bc63ad",
-    "title": "Rio Vista: the first city to start, and then stop, water fluoridation",
-    "link": "https://www.skeptic.org.uk/2026/06/rio-vista-the-first-city-to-start-and-then-stop-water-fluoridation/",
-    "summary": "<p>Rio Vista's community water fluoridation was a great public health win - until it fell victim to a coordinated anti-fluoride campaign.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/06/rio-vista-the-first-city-to-start-and-then-stop-water-fluoridation/\">Rio Vista: the first city to start, and then stop, water fluoridation</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-06-10T09:11:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Michael Marshall",
-    "tags": [
-      "Health"
-    ],
     "image": "",
     "pinned": false
   }
