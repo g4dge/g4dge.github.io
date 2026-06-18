@@ -1,5 +1,63 @@
 [
   {
+    "id": "224487881da8443e916dcfc0f917c0720869e311",
+    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+    "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+    "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+    "isoDate": "2026-06-18T23:28:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "crypto stealer",
+      "cryptocurrency",
+      "malware",
+      "worm"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "47bfab9a8d01bdc2ea122ba2aedb5ae44b22fc78",
+    "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+    "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+    "summary": "In February, a Trump official refused to review the vaccine.",
+    "isoDate": "2026-06-18T22:08:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ACIP",
+      "anti-vaccine",
+      "CDC",
+      "fda",
+      "moderna",
+      "Prasad",
+      "robert f kennedy jr",
+      "VRBPAC"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "002340642bdff97e5978b43d45c431172e3eb0ff",
+    "title": "2,000 retired Google Pixel phones get a second life as a private cloud",
+    "link": "https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035",
+    "summary": "You might say the system packs two kilapixels of compute",
+    "isoDate": "2026-06-18T21:39:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=228123&width=800",
+    "pinned": false
+  },
+  {
     "id": "291dc24105ac326ba4b463772605a7426a9d5775",
     "title": "Tesla Updates App to 4.58, Adding Charge Stats V2 and Android Live Notifications",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.0/release-notes",
@@ -9,7 +67,7 @@
     "category": "Tech",
     "author": "",
     "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/3d_supercharger_maps-1778593739.jpg/4d881b1e10515528416e3fa6afb95c90/3d_supercharger_maps-1778593739.jpg",
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/3d_supercharger_maps-1781817929.jpg/4ffe940e25ad412f8843da56dc2e6bc2/3d_supercharger_maps-1781817929.jpg",
     "pinned": false
   },
   {
@@ -879,27 +937,6 @@
     "pinned": false
   },
   {
-    "id": "d5d96b8b5cf3db40f44e303bf2b58b93db531eaa",
-    "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-    "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-    "summary": "Google's new smart speaker is more about Gemini than audio quality.",
-    "isoDate": "2026-06-17T15:57:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "gemini",
-      "google",
-      "Google Home",
-      "smart home"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google-Home-Speaker-Jade-copy-500x500-1781708619.jpg",
-    "pinned": false
-  },
-  {
     "id": "6241d46ce7866c8d88d21d68bcefe779c11070ef",
     "title": "Only half of US datacenter capacity planned for 2026 is actually  under construction",
     "link": "https://www.theregister.com/on-prem/2026/06/17/only-half-of-us-datacenter-capacity-planned-for-2026-is-actually-under-construction/5257781",
@@ -912,40 +949,6 @@
       "on-prem"
     ],
     "image": "https://image.theregister.com/?imageId=1684059&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fd3c6c8ddafa7401c26296dd68d8dea3011dd421",
-    "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
-    "link": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
-    "summary": "\"Space Launch Complex-6 represents six decades of American innovation.\"",
-    "isoDate": "2026-06-17T15:47:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Robert Pearlman",
-    "tags": [
-      "Space",
-      "access tower",
-      "assembly building",
-      "delta iv",
-      "demolition",
-      "detonation",
-      "falcon 9",
-      "falcon heavy",
-      "Manned Orbiting Laboratory",
-      "mobile service tower",
-      "modernization",
-      "MOL",
-      "slc-6",
-      "Space exploration",
-      "space history",
-      "Space Launch Complex-6",
-      "Space shuttle",
-      "spacex",
-      "U.S. Space Force",
-      "Vandenberg space force base"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/news-061726a-lg-500x500.jpg",
     "pinned": false
   },
   {
@@ -1346,21 +1349,6 @@
     "pinned": false
   },
   {
-    "id": "e8cda68dd8021eadfb473fe4268493c7138b6e54",
-    "title": "Three critical Fortinet sandbox bugs splattered by unknown attackers",
-    "link": "https://www.theregister.com/security/2026/06/16/three-critical-fortinet-sandbox-bugs-splattered-by-unknown-attackers/5256461",
-    "summary": "All have patches, so make sure you upgrade to a fixed version",
-    "isoDate": "2026-06-16T18:27:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5256503&width=800",
-    "pinned": false
-  },
-  {
     "id": "a73bf9ece9d135125efef3f3f88a07b2bce3a340",
     "title": "Tesla Finally Starts Selling Cybertruck Off-Road Light Bar Separately",
     "link": "https://www.notateslaapp.com/news/4303/tesla-finally-starts-selling-cybertruck-off-road-light-bar-separately",
@@ -1652,19 +1640,6 @@
       "History"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "56067da3fa2c4b482a61d105d8e0cc4df6dae467",
-    "title": "Tesla Update FSD V14.3.4 (2026.14.6.10) Release Notes",
-    "link": "https://www.notateslaapp.com/software-updates/version/2026.14.6.10/release-notes",
-    "summary": "Tesla software update 2026.14.6.10 (FSD 14.3.4) includes Actually Smart Summon, FSD (Supervised) v14.3.4, Full Self-Driving (Supervised). <a href=\"https://www.notateslaapp.com/software-updates/version/2026.14.6.10/release-notes\">View Release Notes</a>",
-    "isoDate": "2026-06-11T21:58:45Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.14/actually-smart-summon-cybertruck.png",
     "pinned": false
   }
 ]
