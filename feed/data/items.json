@@ -1,5 +1,63 @@
 [
   {
+    "id": "7f6e57bda841eb3d8e8ba1a3a35273215e7644fd",
+    "title": "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
+    "link": "https://www.theregister.com/security/2026/06/19/researchers-drop-checkm8-style-bootrom-exploit-for-a12-and-a13-iphones/5259028",
+    "summary": "Owners of affected iPhones can stop checking for patches now: the fix for this SecureROM bug comes in a new handset",
+    "isoDate": "2026-06-19T16:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5241038&width=800",
+    "pinned": false
+  },
+  {
+    "id": "30b9f628375fe9f15520854ae8256b8aaba1383e",
+    "title": "Tesla Starts Rolling Out FSD V14 in Australia and New Zealand",
+    "link": "https://www.notateslaapp.com/news/4324/tesla-starts-rolling-out-fsd-v14-in-australia-new-zealand",
+    "summary": "Tesla has officially started rolling out Full Self-Driving (Supervised) v14 in Australia and New Zealand with software update 2026.16.6&hellip; <a href=\"https://www.notateslaapp.com/news/4324/tesla-starts-rolling-out-fsd-v14-in-australia-new-zealand\">Read More</a>",
+    "isoDate": "2026-06-19T15:35:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-australia-screen.webp/bf31758a6456f6110272bc6794c48397/fsd-australia-screen.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cf0cfab775fa84b1c2e7e0dbf6047aeefe57ce74",
+    "title": "Tensordyne makes a big bet on log math to beat Nvidia",
+    "link": "https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
+    "summary": "Who needs compute-hungry multiplications when you can just add logarithms",
+    "isoDate": "2026-06-19T15:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5258676&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f7dc987322f7b2f0e7080cbb3995a9cd9f9e7fd6",
+    "title": "Bcachefs exits experimental status in new 'performance release'",
+    "link": "https://www.theregister.com/software/2026/06/19/bcachefs-exits-experimental-status-in-new-performance-release/5258801",
+    "summary": "More Rust, but more trouble with AI slop, too",
+    "isoDate": "2026-06-19T14:47:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=230365&width=800",
+    "pinned": false
+  },
+  {
     "id": "ee03aa3f95335e0ebbf3c25c182e304302410ba6",
     "title": "Tesla FSD v14.3.3 Down Under (Update 2026.16.6)",
     "link": "https://www.notateslaapp.com/software-updates/version/2026.16.6/release-notes",
@@ -1321,51 +1379,6 @@
     "pinned": false
   },
   {
-    "id": "aafb84363b77fa09f5262c7720d7384d95275ef3",
-    "title": "Apple's WebKit performance tax leaves iOS browsers stuck in the slow lane, says Microsoft",
-    "link": "https://www.theregister.com/software/2026/06/17/apples-webkit-performance-tax-leaves-ios-browsers-stuck-in-the-slow-lane-says-microsoft/5257384",
-    "summary": "Rival rendering engines could make pages load almost 30% faster on iPhones, Redmond claims",
-    "isoDate": "2026-06-17T13:02:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=248852&width=800",
-    "pinned": false
-  },
-  {
-    "id": "88002f671797cdad256c849dfbc26149ab5aa6b6",
-    "title": "Intel starts cooking up enhanced 18A-P silicon for would-be foundry customers",
-    "link": "https://www.theregister.com/systems/2026/06/17/intel-starts-cooking-up-enhanced-18a-p-silicon-for-would-be-foundry-customers/5257487",
-    "summary": "Chipzilla claims 9% speed bump without extra power draw but is compatible with designs for 18A",
-    "isoDate": "2026-06-17T12:14:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5248955&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e67b759025e403bf798dac82fdb542b270b93b95",
-    "title": "Windows devs rerolled old code to save precious bytes",
-    "link": "https://www.theregister.com/os-platforms/2026/06/17/windows-devs-rerolled-old-code-to-save-precious-bytes/5256343",
-    "summary": "There really was a time when Microsoft cared about every KB",
-    "isoDate": "2026-06-17T12:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5256377&width=800",
-    "pinned": false
-  },
-  {
     "id": "2bdb287d3b13dc4406c8610bb066c56dd1808ec3",
     "title": "Female philosophers: Héloïse",
     "link": "https://aeon.co/videos/there-can-be-no-sin-committed-from-love-the-radical-ethics-of-heloise",
@@ -1629,32 +1642,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/standard/model3_77.webp/ec792e7d14d954219f88a6086c0d3c8d/model3_77.jpg",
-    "pinned": false
-  },
-  {
-    "id": "83c29fccb7c98730221555745b087af9bd8ecfba",
-    "title": "Tesla Releases 'Actually Smart Summon' for Cybertruck With FSD V14.3.4",
-    "link": "https://www.notateslaapp.com/news/4289/tesla-releases-actually-smart-summon-on-cybertruck",
-    "summary": "ASS has been rumored to be coming to the Cybertruck for over a year now, after it originally launched for all of Tesla's other vehicles back in September 2024&hellip; <a href=\"https://www.notateslaapp.com/news/4289/tesla-releases-actually-smart-summon-on-cybertruck\">Read More</a>",
-    "isoDate": "2026-06-12T16:43:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-summon.webp/6a5bda91592276d902beaee76e73d9d8/cybertruck-summon.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cbe569c272bf4a99d4abd0694e0df120233a0fb4",
-    "title": "Tesla Introduces New Features in FSD V14.3.4",
-    "link": "https://www.notateslaapp.com/news/4288/tesla-introduces-new-ui-features-in-fsd-v1434",
-    "summary": "Tesla’s FSD v14.3.4 update introduces several new UI features for AI4 vehicles, including new pull-over options, destination pop-ups, and a new trip editor.&hellip; <a href=\"https://www.notateslaapp.com/news/4288/tesla-introduces-new-ui-features-in-fsd-v1434\">Read More</a>",
-    "isoDate": "2026-06-12T16:18:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-14-3-4-features.webp/9c4f7535218b4871817a365b4cdf4726/fsd-14-3-4-features.jpg",
     "pinned": false
   }
 ]
