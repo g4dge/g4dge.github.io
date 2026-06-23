@@ -1,9 +1,104 @@
 [
   {
+    "id": "78d7935047240f003107f9ade45c8aeb2e6041ac",
+    "title": "How to burst the AI bubble: Strike at its roots",
+    "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+    "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, <em>The Reverse Centaur's Guide to Life After AI</em>.",
+    "isoDate": "2026-06-23T12:00:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "AI",
+      "Culture",
+      "Tech",
+      "books",
+      "Cory Doctorow",
+      "LLMs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory3-500x500-1782115411.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0b9305275872848d1cb5deda607962086e2e2647",
+    "title": "AWS debuts Lambda MicroVMs with up to 8 hours runtime",
+    "link": "https://www.theregister.com/devops/2026/06/23/aws-debuts-lambda-microvms-with-up-to-8-hours-runtime/5260035",
+    "summary": "Suitable for running untrusted code, AI agents, or any long-running task",
+    "isoDate": "2026-06-23T11:37:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682146&width=800",
+    "pinned": false
+  },
+  {
+    "id": "56c801ba0deba0f71b71cbc88a90cf6a5c12daa9",
+    "title": "Blast from the past as GIMP 0.54 is revived in Flatpak form",
+    "link": "https://www.theregister.com/software/2026/06/23/blast-from-the-past-as-gimp-054-is-revived-in-flatpak-form/5259651",
+    "summary": "Retro-computing fun for the nostalgic with first (and last) release to use Motif instead of GTK",
+    "isoDate": "2026-06-23T10:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5259663&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e638e264d0e95d34c77c300ec1c154da749fe18d",
+    "title": "Brits still reckon Big Tech isn't paying enough tax",
+    "link": "https://www.theregister.com/personal-tech/2026/06/23/brits-still-reckon-big-tech-isnt-paying-enough-tax/5259410",
+    "summary": "Poll finds two-thirds support squeeze on Silicon Valley despite US pressure",
+    "isoDate": "2026-06-23T10:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=1681945&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5706ce0290613bd9db5503cd6ae5cc58c2219b46",
+    "title": "Datacenters dip a toe back into waterborne computing despite obvious challenges",
+    "link": "https://www.theregister.com/systems/2026/06/23/datacenters-dip-a-toe-back-into-waterborne-computing-despite-obvious-challenges/5259331",
+    "summary": "Floating or sub-surface bit barns are all the rage, but unlikely to compete with multi-gigawatt sites",
+    "isoDate": "2026-06-23T09:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5230107&width=800",
+    "pinned": false
+  },
+  {
+    "id": "08c7a68eeab67f92b1b85b708331dbeb5b7ee5dd",
+    "title": "From the archives: Carlos Castaneda and the Don Juan caper",
+    "link": "https://www.skeptic.org.uk/2026/06/from-the-archives-carlos-castaneda-and-the-don-juan-caper/",
+    "summary": "<p>From the archives of March 1993, Robert McGrath reports on the the debunking of Carlos Castaneda's shaman, \"Don Juan\", as fiction</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/06/from-the-archives-carlos-castaneda-and-the-don-juan-caper/\">From the archives: Carlos Castaneda and the Don Juan caper</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-06-23T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Michael Marshall",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "dc7e790a358abff8f271be905d84c5a4be146403",
     "title": "Digital indigestion: Fizzy Coca-Cola display chokes on full storage",
     "link": "https://www.theregister.com/offbeat/2026/06/23/digital-indigestion-fizzy-coca-cola-display-chokes-on-full-storage/5259124",
-    "summary": "Coca-Cola signage is running out of storage",
+    "summary": "Ubuntu warning bubbles up on an Azores advertising screen",
     "isoDate": "2026-06-23T08:27:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -1289,26 +1384,6 @@
     "pinned": false
   },
   {
-    "id": "224487881da8443e916dcfc0f917c0720869e311",
-    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-    "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-    "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
-    "isoDate": "2026-06-18T23:28:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "crypto stealer",
-      "cryptocurrency",
-      "malware",
-      "worm"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "002340642bdff97e5978b43d45c431172e3eb0ff",
     "title": "2,000 retired Google Pixel phones get a second life as a private cloud",
     "link": "https://www.theregister.com/on-prem/2026/06/18/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud/5258035",
@@ -1363,36 +1438,6 @@
     "pinned": false
   },
   {
-    "id": "65c536f2a624cc8d49deb64beaa2055f4d190e2d",
-    "title": "Midjourney pivots from AI image generation to body scanning medical spa where patients bathe in 'golden light'",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/18/midjourney-pivots-from-ai-image-generation-to-body-scanning-medical-spa-where-patients-bathe-in-golden-light/5258429",
-    "summary": "The underlying technology is real...and borrowed from a partner the company failed to mention",
-    "isoDate": "2026-06-18T18:18:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5258466&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0a498b3cd7a13663c8056192d714f7059dcec6a7",
-    "title": "Committed skeptic finds himself warming to new Amazon AI products that actually don't suck",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/18/committed-skeptic-finds-himself-warming-to-new-amazon-ai-products-that-actually-dont-suck/5258414",
-    "summary": "Ed's note to Corey: Blink once if you're safe, twice if you're in danger",
-    "isoDate": "2026-06-18T17:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5258559&width=800",
-    "pinned": false
-  },
-  {
     "id": "4dd1b3ec6d114901d403caac6fa0c9ad94f0bff7",
     "title": "Tesla FSD Will Soon Be Able to Copy Your Parking Habits",
     "link": "https://www.notateslaapp.com/news/4317/tesla-fsd-will-soon-be-able-to-copy-your-parking-habits",
@@ -1403,36 +1448,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/autopark-vis.webp/955bce16c6a720d9325949084063f25c/autopark-vis.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8ef0b438d010c2761ab5c9b3683e96fbf2222ef1",
-    "title": "Citrix now lets you run virtual desktops like a cost-conscious private equityeer",
-    "link": "https://www.theregister.com/virtualization/2026/06/18/citrixs-daas-flex-aims-to-delay-pricey-pc-upgrades/5258476",
-    "summary": "Soaring PC prices make alternatives to hardware refreshes interesting",
-    "isoDate": "2026-06-18T16:59:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "virtualization"
-    ],
-    "image": "https://image.theregister.com/?imageId=252868&width=800",
-    "pinned": false
-  },
-  {
-    "id": "194769778996fe26a71c78d8de4d95d9f9baed9d",
-    "title": "Canonical reveals Myna, its local speech-to-text app",
-    "link": "https://www.theregister.com/os-platforms/2026/06/18/canonical-unveils-myna-speech-to-text-app-for-ubuntu-2610/5258376",
-    "summary": "Bird-branded AI will ride on Stonking Stingray",
-    "isoDate": "2026-06-18T16:04:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5211372&width=800",
     "pinned": false
   },
   {
@@ -1604,34 +1619,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/semi-costco.webp/985d803b59d108e81a81ea3698c87087/semi-costco.jpg",
-    "pinned": false
-  },
-  {
-    "id": "29d48b9b5c7e4e878dc908dfcd6bd19f0d29286c",
-    "title": "What is this rock?",
-    "link": "https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us",
-    "summary": "<p><img alt=\"Photo of an old tyre partially submerged among rocks and pebbles on a beach with foamy waves in the background.\" src=\"https://images.aeonmedia.co/images/00733707-9f99-48ed-a706-747c3432b00f/essay-20240218_131217.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Not natural, not quite unnatural, the strange new rocks of the Anthropocene stretch the boundaries of geology</p><p><em>- by John MacDonald</em></p><p><a href=\"https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us\">Read on Aeon</a></p>",
-    "isoDate": "2026-06-16T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "John MacDonald",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b69de875654083db43a1f25c2016a7ac3498a2ff",
-    "title": "From the archives: The Cyril Burt affair, and historic accusations of fraud",
-    "link": "https://www.skeptic.org.uk/2026/06/from-the-archives-the-cyril-burt-affair-and-historic-accusations-of-fraud/",
-    "summary": "<p>From the archives of March 1993, Ray Ward re-evaluates the claims of fraud levelled against distinguished psychologist Sir Cyril Burt.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/06/from-the-archives-the-cyril-burt-affair-and-historic-accusations-of-fraud/\">From the archives: The Cyril Burt affair, and historic accusations of fraud</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-06-16T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Michael Marshall",
-    "tags": [
-      "Archive"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
