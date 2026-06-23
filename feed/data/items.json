@@ -1,5 +1,53 @@
 [
   {
+    "id": "804962fdc12731b8f961d15f3bc91cbcc143c3e9",
+    "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+    "link": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+    "summary": "Climate.us has now restored everything taken down by the government.",
+    "isoDate": "2026-06-23T22:07:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "climate change",
+      "climate.gov",
+      "climate.us",
+      "NOAA",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-4-500x360.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "29976cd96c1ef38e715bd0fb5ed4e08fc7e40dcd",
+    "title": "Tesla FSD V14 Skips Model Y L in Australia — For Now",
+    "link": "https://www.notateslaapp.com/news/4343/tesla-fsd-v14-skips-model-y-l-in-australia-for-now",
+    "summary": "Tesla’s big rollout of the latest Full Self-Driving stack is finally landing in Australia and New Zealand, but one specific variant is getting left behind&hellip; <a href=\"https://www.notateslaapp.com/news/4343/tesla-fsd-v14-skips-model-y-l-in-australia-for-now\">Read More</a>",
+    "isoDate": "2026-06-23T21:52:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/modelyl_82.webp/0df80d0ced0018475abf9d4b8ac81c58/modelyl_82.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2152516461946e56e8a934bccb8c833e5ba638c4",
+    "title": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
+    "summary": "Clumsy logging implementation squirrels away data without regard for cost",
+    "isoDate": "2026-06-23T20:50:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5260444&width=800",
+    "pinned": false
+  },
+  {
     "id": "e018839b814b8fa9586061edcd6cfef3f394b798",
     "title": "Odd police video shows drone removing knife from motionless suspect",
     "link": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
@@ -36,6 +84,21 @@
       "oracle"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-500x500-1782243478.jpg",
+    "pinned": false
+  },
+  {
+    "id": "71f06086f535a718c12d8029e0bdfc274eebaea0",
+    "title": "Anthropic reimagines Claude in Slack as nosy, always-on agentic AI coworker",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/23/anthropic-reimagines-claude-in-slack-as-nosy-always-on-agentic-ai-coworker/5260422",
+    "summary": "The Claude in Slack app is dead, long live Claude in Slack",
+    "isoDate": "2026-06-23T20:16:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=231367&width=800",
     "pinned": false
   },
   {
@@ -856,24 +919,6 @@
     "pinned": false
   },
   {
-    "id": "0a4977a39780226889ca1e85a8d847e1920e4aa5",
-    "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
-    "link": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
-    "summary": "The high-altitude race is a unique test of car and driver.",
-    "isoDate": "2026-06-22T15:07:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Tim Stevens",
-    "tags": [
-      "Cars",
-      "Corvette ZR1X",
-      "pikes peak",
-      "Pikes Peak International Hill Climb"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NA5_5812-500x500-1782137547.jpg",
-    "pinned": false
-  },
-  {
     "id": "b1340945ad8af4a305f7963ce398dd372a6e1f2e",
     "title": "Canadian utility fesses up to data breach, but key details remain off-grid",
     "link": "https://www.theregister.com/security/2026/06/22/canadian-utility-fesses-up-to-data-breach-but-key-details-remain-off-grid/5259309",
@@ -1365,36 +1410,6 @@
     "pinned": false
   },
   {
-    "id": "53e7508559ffe93823d33d0e68a5e8fe5ec8f405",
-    "title": "Britain's privacy watchdog quits after 'poor judgment' admission",
-    "link": "https://www.theregister.com/security/2026/06/19/britains-privacy-watchdog-quits-after-poor-judgment-admission/5258926",
-    "summary": "John Edwards says his position had become 'untenable' following investigation into conduct including inappropriate attempts at humor",
-    "isoDate": "2026-06-19T11:14:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=261825&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9b1dd5e6da4da5e00f38701a756d3ea94be14208",
-    "title": "Rights groups brand Home Office's AI age guesser for asylum-seekers as biased and inaccurate",
-    "link": "https://www.theregister.com/security/2026/06/19/rights-groups-brand-home-offices-ai-age-guesser-for-asylum-seekers-as-biased-and-inaccurate/5258892",
-    "summary": "Campaigners say tech is unable to reliably distinguish between kids and adults at the boundary where use is planned",
-    "isoDate": "2026-06-19T11:02:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=227266&width=800",
-    "pinned": false
-  },
-  {
     "id": "f574fc7aaed96057a5cc11a4019170cf1c083740",
     "title": "The Skeptic Podcast – Episode 069",
     "link": "https://www.skeptic.org.uk/2026/06/the-skeptic-podcast-episode-069/",
@@ -1608,19 +1623,6 @@
       "Technology"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b9bf7a29abe3b126934d20b4a730e2b34e5352d4",
-    "title": "Lawmakers Urge NHTSA to Investigate Tesla's FSD Safety Claims",
-    "link": "https://www.notateslaapp.com/news/4307/us-lawmakers-target-tesla-fsd-urge-nhtsa-to-investigate",
-    "summary": "U.S. lawmakers have once again set their sights on Tesla's Full Self-Driving (Supervised) system, this time targeting safety claims regarding the software&hellip; <a href=\"https://www.notateslaapp.com/news/4307/us-lawmakers-target-tesla-fsd-urge-nhtsa-to-investigate\">Read More</a>",
-    "isoDate": "2026-06-16T21:12:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-car-view.webp/1e4f4ecaf3be5144174f4080ec25221e/fsd-car-view.jpg",
     "pinned": false
   }
 ]
