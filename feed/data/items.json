@@ -1,5 +1,111 @@
 [
   {
+    "id": "50f2772367eb4e4fd9c8984b900b4f3b9b6377a8",
+    "title": "ABC asks viewers to protest FCC attempt to \"control who is allowed\" on The View",
+    "link": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
+    "summary": "\"The FCC wants to control who is allowed on the show,\" ABC ad tells viewers.",
+    "isoDate": "2026-06-23T17:59:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "ABC",
+      "brendan carr",
+      "FCC",
+      "The View"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-500x500-1770666955.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8dc60c83cfe001ffb54296a54492d8e473bc875a",
+    "title": "Early land animals skipped the tadpole phase",
+    "link": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
+    "summary": "Current amphibian development may not have been typical of early land vertebrates.",
+    "isoDate": "2026-06-23T17:49:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "amphibians",
+      "Biology",
+      "embryogenesis",
+      "evolution",
+      "tadpoles",
+      "tetrapods"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-3-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "533f7d62ee92065a14a8616aef8d2fddb18b7521",
+    "title": "First look at Tesla's New Charge Stats in the Tesla App",
+    "link": "https://www.notateslaapp.com/news/4340/first-look-at-teslas-new-charge-stats-in-the-tesla-app",
+    "summary": "Tesla has been quietly preparing a major layout overhaul for how owners analyze their charging data on mobile, and it’s finally going live in the Tesla app&hellip; <a href=\"https://www.notateslaapp.com/news/4340/first-look-at-teslas-new-charge-stats-in-the-tesla-app\">Read More</a>",
+    "isoDate": "2026-06-23T17:15:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-charge-stats-v2-1.webp/9df7f61152d4c53f6048e9735497252e/tesla-app-charge-stats-v2-1.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e05f49b927aa89957b289d421b4d54c0b5e49d82",
+    "title": "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch",
+    "link": "https://www.theregister.com/offbeat/2026/06/23/space-force-goes-to-pretend-orbital-war-following-record-fast-rocket-lab-launch/5260277",
+    "summary": "Less than 17 hours after receiving orders, Rocket Lab put Pioneer in orbit for close-range maneuvers with True Anomaly's Jackal satellite",
+    "isoDate": "2026-06-23T16:23:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5260291&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f28acb53fced557b500cf3f5440befe3138ea5e6",
+    "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
+    "link": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
+    "summary": "Public notice of a single \"compassionate use\" case is odd in every way.",
+    "isoDate": "2026-06-23T16:16:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "Compassionate use",
+      "eli lilly",
+      "expanded access",
+      "fda",
+      "GLP-1",
+      "obesity",
+      "retatrutide",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2244838922-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "07687297e0ae6d18f644191db025ec9afe092a22",
+    "title": "O2 joins UK 2G switch-off with summer 2029 start date",
+    "link": "https://www.theregister.com/networks/2026/06/23/o2-joins-uk-2g-switch-off-with-summer-2029-start-date/5260297",
+    "summary": "It's not just old phones – many smart meters and telecare alarms still use the ancient technology",
+    "isoDate": "2026-06-23T15:56:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=1683951&width=800",
+    "pinned": false
+  },
+  {
     "id": "c24520b1edbc83834e80c7fd532b84214660ee10",
     "title": "Valve opens Steam Machine pre-orders with queue lottery and hefty prices amid AI squeeze",
     "link": "https://www.theregister.com/personal-tech/2026/06/23/valve-opens-steam-machine-pre-orders-with-queue-lottery-and-hefty-prices-amid-ai-squeeze/5260242",
@@ -112,6 +218,7 @@
     "tags": [
       "AI",
       "Culture",
+      "Features",
       "Tech",
       "books",
       "Cory Doctorow",
@@ -952,26 +1059,6 @@
     "pinned": false
   },
   {
-    "id": "e5d4f1f6943fb8bc4c06bfcba64ae30bdfd6ccf6",
-    "title": "Review: Widow's Bay is a boldly original take on comedic horror",
-    "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
-    "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways.",
-    "isoDate": "2026-06-21T10:00:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Apple TV",
-      "entertainment",
-      "reviews",
-      "streaming television",
-      "Widow's Bay"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bay12-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0cc9b0c6b07194b3d30b87e2fd3a821a76532d1d",
     "title": "Tesla's Camera Previews Are Now Viewable While Driving",
     "link": "https://www.notateslaapp.com/news/4330/teslas-camera-previews-are-now-viewable-while-driving",
@@ -1023,26 +1110,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5258685&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9c3a001fcec1c099f436ebcdb9242c803caab8a1",
-    "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
-    "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
-    "summary": "Tests of age-verification technology show the risks of life-altering errors.",
-    "isoDate": "2026-06-20T11:15:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Matt Burgess, Maddy Varner, May Bulman, Gabriel Geiger, WIRED.com",
-    "tags": [
-      "Policy",
-      "age checks",
-      "face recognition",
-      "image recognition",
-      "syndication",
-      "UK privacy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-500x500.jpg",
     "pinned": false
   },
   {
@@ -1188,35 +1255,6 @@
     "pinned": false
   },
   {
-    "id": "f284f5974cd1cf404505c8332a83c986113f227b",
-    "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-    "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-    "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
-    "isoDate": "2026-06-19T13:36:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "ariane 6",
-      "blue origin",
-      "falcon 9",
-      "h3 rocket",
-      "isar aerospace",
-      "Japan",
-      "launch",
-      "Northrop Grumman",
-      "pegasus rocket",
-      "relativity space",
-      "rocket report",
-      "spacex",
-      "Terran R"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/relativity-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "945fad94d7384edc2526e8452441aaa5cc077b90",
     "title": "Telegram founder accuses Meta of sabotaging access in India with BGP hijacks",
     "link": "https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866",
@@ -1335,21 +1373,6 @@
     "pinned": false
   },
   {
-    "id": "08899b687eb002b476c0d831a860351673f8bbfa",
-    "title": "Devs in the trenches are stressed from the mandate to automate everything, but Render thinks it can help",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/19/devs-in-the-trenches-are-stressed-from-the-mandate-to-automate-everything-but-render-thinks-it-can-help/5258595",
-    "summary": "San Francisco plays host to hosting company's Localhost conference",
-    "isoDate": "2026-06-19T10:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5258615&width=800",
-    "pinned": false
-  },
-  {
     "id": "f574fc7aaed96057a5cc11a4019170cf1c083740",
     "title": "The Skeptic Podcast – Episode 069",
     "link": "https://www.skeptic.org.uk/2026/06/the-skeptic-podcast-episode-069/",
@@ -1375,21 +1398,6 @@
     "author": "Lily Dunn",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3333a12468c67890d11416a60767227b95ac1a3c",
-    "title": "Rockstar Games faces full hearing over alleged union busting",
-    "link": "https://www.theregister.com/offbeat/2026/06/19/rockstar-games-faces-full-hearing-over-alleged-union-busting/5258514",
-    "summary": "Tribunal rejects bid to strike blacklisting claims, with proceedings due to conclude shortly before GTA VI launches",
-    "isoDate": "2026-06-19T09:04:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=251111&width=800",
     "pinned": false
   },
   {
@@ -1604,19 +1612,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-falcon-9-launch-moon-hero-2.jpg/5add1d1e00edd99cfae52467b642502a/spacex-falcon-9-launch-moon-hero-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a73bf9ece9d135125efef3f3f88a07b2bce3a340",
-    "title": "Tesla Finally Starts Selling Cybertruck Off-Road Light Bar Separately",
-    "link": "https://www.notateslaapp.com/news/4303/tesla-finally-starts-selling-cybertruck-off-road-light-bar-separately",
-    "summary": "Tesla has added the Cybertruck Off-Road Light Bar to its online shop in North America, finally letting owners of any trim to purchase the rooftop lighting kit&hellip; <a href=\"https://www.notateslaapp.com/news/4303/tesla-finally-starts-selling-cybertruck-off-road-light-bar-separately\">Read More</a>",
-    "isoDate": "2026-06-16T16:31:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-off-road-light-bar-shop-launch-1.webp/274c6f1f5265fddaf50ee3d7411815df/cybertruck-off-road-light-bar-shop-launch-1.jpg",
     "pinned": false
   }
 ]
