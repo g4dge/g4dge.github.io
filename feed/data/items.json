@@ -1,5 +1,35 @@
 [
   {
+    "id": "5f964053ff9288886ab51c880c600d157b41d9d5",
+    "title": "Sniff out stale AI override advice with this open source CLI",
+    "link": "https://www.theregister.com/security/2026/06/23/sniff-out-stale-ai-override-advice-with-this-open-source-cli/5259853",
+    "summary": "Package dependencies can create vulnerabilities that are fiendishly hard to find and stamp out",
+    "isoDate": "2026-06-23T00:17:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=261937&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3695d50bec8312d240e95c9657d925c6e5eb0a53",
+    "title": "OpenAI: Yoo-hoo, look over here, we do that security stuff too!",
+    "link": "https://www.theregister.com/security/2026/06/23/openai-yoo-hoo-look-over-here-we-do-that-security-stuff-too/5259842",
+    "summary": "A plethora of pwn-prevention, including a 'Patch The Planet' pledge",
+    "isoDate": "2026-06-22T23:34:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5259886&width=800",
+    "pinned": false
+  },
+  {
     "id": "a94006b4613092a95453a5662c0b69826cecf0f1",
     "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
     "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
@@ -224,7 +254,7 @@
   },
   {
     "id": "a7da49e71356e1912902b3f41649085e319d8687",
-    "title": "Tesla Crashes Into Texas Home, Driver Blames Autopilot [VIDEO]",
+    "title": "Tesla Crashes Into Texas Home, Driver Blames Autopilot [VIDEO] [TESLA RESPONDS]",
     "link": "https://www.notateslaapp.com/news/4335/tesla-crashes-into-texas-home-driver-blames-autopilot-video",
     "summary": "A tragic accident in Katy, Texas, has left a family grieving after a Tesla Model 3 crashed into a suburban home on the evening of Friday, June 19&hellip; <a href=\"https://www.notateslaapp.com/news/4335/tesla-crashes-into-texas-home-driver-blames-autopilot-video\">Read More</a>",
     "isoDate": "2026-06-22T17:28:00Z",
@@ -1416,36 +1446,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=1684467&width=800",
-    "pinned": false
-  },
-  {
-    "id": "34ba1276bd5417437dd610f92ef8ae3aedd53ec0",
-    "title": "Google told researcher 'Nice catch!' Then denied bug bounty for flaw it still hasn't fixed",
-    "link": "https://www.theregister.com/security/2026/06/18/google-told-researcher-nice-catch-then-denied-bug-bounty-for-flaw-it-still-hasnt-fixed/5258076",
-    "summary": "EXCLUSIVE 'Working as intended' for the win … again",
-    "isoDate": "2026-06-18T15:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5258119&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2a244db4f8aa873a1c22e2df895e8359c0c50220",
-    "title": "Neuromorphic computing may one day offer AI a power-saving brainwave",
-    "link": "https://www.theregister.com/science/2026/06/18/neuromorphic-computing-may-one-day-offer-ai-a-power-saving-brainwave/5258316",
-    "summary": "Hybrid systems could bring efficiency gains at the edge, but conventional infrastructure isn't going anywhere fast",
-    "isoDate": "2026-06-18T14:01:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=256794&width=800",
     "pinned": false
   },
   {
