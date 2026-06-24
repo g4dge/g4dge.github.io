@@ -1,5 +1,64 @@
 [
   {
+    "id": "190fc012d7f8d5740ba64b8b96b0142eed388c86",
+    "title": "Database vendors pitch themselves as the cure for runaway AI costs",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/24/database-vendors-pitch-themselves-as-the-cure-for-runaway-ai-costs/5260126",
+    "summary": "Pinecone and Tiger Data say smarter data plumbing can cut token use and tame agentic workloads",
+    "isoDate": "2026-06-24T10:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=222409&width=800",
+    "pinned": false
+  },
+  {
+    "id": "37b12d96c10194caf2625385385095e80220949f",
+    "title": "The memories of others",
+    "link": "https://aeon.co/videos/a-japanese-photographers-striking-perceptive-images-of-the-troubles",
+    "summary": "<p><img alt=\"Photo of a building on fire with smoke, people watching from the street. Terraced houses and a car are visible in the background.\" src=\"https://images.aeonmedia.co/images/7c2ff5ff-bb90-440c-a0ef-5dc80e031e2d/the-memories-of-others-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>How a Japanese war photographer became one of the most insightful chroniclers of the Troubles in Northern Ireland</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/a-japanese-photographers-striking-perceptive-images-of-the-troubles\">Watch on Aeon</a></p>",
+    "isoDate": "2026-06-24T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "e9b402711dffb0f0fd4fe2ec9c2b62253dd0cd4f",
+    "title": "Alpine Linux 3.24 scales new desktop heights with COSMIC",
+    "link": "https://www.theregister.com/os-platforms/2026/06/24/alpine-linux-324-scales-new-desktop-heights-with-cosmic/5259985",
+    "summary": "Plus interesting news from the Xfce-on-Wayland project",
+    "isoDate": "2026-06-24T09:35:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5260000&width=800",
+    "pinned": false
+  },
+  {
+    "id": "28672e106e5f9f6f15b38f3c6d5922581991f334",
+    "title": "Aromatherapy, the NHS maternity crisis, and the obsession with “natural” birth",
+    "link": "https://www.skeptic.org.uk/2026/06/aromatherapy-the-nhs-maternity-crisis-and-the-obsession-with-natural-birth/",
+    "summary": "<p>As part of an NHS push for \"normal\" births - without medical intervention - midwives around the country have been treating labour complications with aromatherapy.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/06/aromatherapy-the-nhs-maternity-crisis-and-the-obsession-with-natural-birth/\">Aromatherapy, the NHS maternity crisis, and the obsession with &#8220;natural&#8221; birth</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-06-24T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Michael Marshall",
+    "tags": [
+      "Alternative Medicine",
+      "Health"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "d2c02d4a83f94738c16f38f7aae2b1ba186bf962",
     "title": "Ordering a trip back to 2009, with a side of nostalgia",
     "link": "https://www.theregister.com/offbeat/2026/06/24/ordering-a-trip-back-to-2009-with-a-side-of-nostalgia/5259669",
@@ -1351,36 +1410,6 @@
     "pinned": false
   },
   {
-    "id": "cf0cfab775fa84b1c2e7e0dbf6047aeefe57ce74",
-    "title": "Tensordyne makes a big bet on log math to beat Nvidia",
-    "link": "https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
-    "summary": "Who needs compute-hungry multiplications when you can just add logarithms",
-    "isoDate": "2026-06-19T15:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5258676&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f7dc987322f7b2f0e7080cbb3995a9cd9f9e7fd6",
-    "title": "Bcachefs exits experimental status in new 'performance release'",
-    "link": "https://www.theregister.com/software/2026/06/19/bcachefs-exits-experimental-status-in-new-performance-release/5258801",
-    "summary": "More Rust, but more trouble with AI slop, too",
-    "isoDate": "2026-06-19T14:47:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=230365&width=800",
-    "pinned": false
-  },
-  {
     "id": "ee03aa3f95335e0ebbf3c25c182e304302410ba6",
     "title": "Tesla FSD v14.3.3 Down Under (Update 2026.16.6)",
     "link": "https://www.notateslaapp.com/software-updates/version/2026.16.6/release-notes",
@@ -1592,34 +1621,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-android-charging-live-updates-render-%281%29.webp/5a9b4f942cf2aa8dc18bdac43ecde6a0/tesla-android-charging-live-updates-render-%281%29.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2bdb287d3b13dc4406c8610bb066c56dd1808ec3",
-    "title": "Female philosophers: Héloïse",
-    "link": "https://aeon.co/videos/there-can-be-no-sin-committed-from-love-the-radical-ethics-of-heloise",
-    "summary": "<p><img alt=\"Illustration of two people holding hands across a table with papers around them and a window in the background.\" src=\"https://images.aeonmedia.co/images/1c998fb5-ae61-4708-9332-d699a3118ae7/heloise-landscape-v3.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Morality is rooted in love, not institutions: the enduring impact of Héloïse’s 12th-century romance with Abelard</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/there-can-be-no-sin-committed-from-love-the-radical-ethics-of-heloise\">Watch on Aeon</a></p>",
-    "isoDate": "2026-06-17T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d65e07b6ec78374f09b2d42e77d9af55a38f8a08",
-    "title": "AI needs to be regulated to ensure its benefits don’t stay with the mega-rich",
-    "link": "https://www.skeptic.org.uk/2026/06/ai-needs-to-be-regulated-to-ensure-its-benefits-dont-stay-with-the-mega-rich/",
-    "summary": "<p>Regulating the Industrial Revolution didn't stifle innovation, it ensured technology served the people – regulating Big Tech and AI can do the same today.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/06/ai-needs-to-be-regulated-to-ensure-its-benefits-dont-stay-with-the-mega-rich/\">AI needs to be regulated to ensure its benefits don&#8217;t stay with the mega-rich</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-06-17T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Michael Marshall",
-    "tags": [
-      "Technology"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
