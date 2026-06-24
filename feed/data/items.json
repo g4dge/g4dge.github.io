@@ -1,5 +1,80 @@
 [
   {
+    "id": "d2c02d4a83f94738c16f38f7aae2b1ba186bf962",
+    "title": "Ordering a trip back to 2009, with a side of nostalgia",
+    "link": "https://www.theregister.com/offbeat/2026/06/24/ordering-a-trip-back-to-2009-with-a-side-of-nostalgia/5259669",
+    "summary": "A time when Windows 7 was Microsoft's latest and greatest",
+    "isoDate": "2026-06-24T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5259700&width=800",
+    "pinned": false
+  },
+  {
+    "id": "40a0c1356d5e6c720ed4cc4359ecaa31656361e1",
+    "title": "Explainer: Why your legacy storage is choking your expensive GPU",
+    "link": "https://www.theregister.com/storage/2026/06/24/explainer-why-your-legacy-storage-is-choking-your-expensive-gpu/5260472",
+    "summary": "THE REGISTER EXPLAINER: GPUs idle? Blame your outdated storage, not the silicon sprinters.",
+    "isoDate": "2026-06-24T08:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=1666144&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ec6a29066aef276aff61fa29b50c7446639485b2",
+    "title": "Germany went off the rails as wireless outage saw all trains cancelled",
+    "link": "https://www.theregister.com/networks/2026/06/24/germany-went-off-the-rails-as-wireless-outage-saw-all-trains-cancelled/5260580",
+    "summary": "Unexplained GSM-R failure at Deutsche Bahn caused confusion and delay",
+    "isoDate": "2026-06-24T06:05:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=242567&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e5f2439f41f0d27f2e6815ea2bc6d37cd57509a0",
+    "title": "You have got to be KDDI-ng – Japanese telco exposes 14.2 million managed email credentials",
+    "link": "https://www.theregister.com/cyber-crime/2026/06/24/you-have-got-to-be-kddi-ng-japanese-telco-exposes-142-million-managed-email-credentials/5260555",
+    "summary": "Five ISPs and plenty of users await their fate",
+    "isoDate": "2026-06-24T04:56:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5238519&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3861c8bc7708588f802abe1f2ef7e2a285ec0f8c",
+    "title": "Chinese supercomputer using local processors heads TOP500 list",
+    "link": "https://www.theregister.com/hpc/2026/06/24/chinese-supercomputer-using-local-processors-heads-top500-list/5260532",
+    "summary": "Use of Arm cores and Linux mean Beijing hasn’t broken away from the world",
+    "isoDate": "2026-06-24T03:34:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "hpc"
+    ],
+    "image": "https://image.theregister.com/?imageId=229889&width=800",
+    "pinned": false
+  },
+  {
     "id": "fe1c94ab14e327aa9e4f679d89dcffd15b4c8fbe",
     "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
     "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
@@ -1319,36 +1394,6 @@
     "pinned": false
   },
   {
-    "id": "c8c137480331921056ded94a4988387a123d77c9",
-    "title": "Waymo hits the brakes after robotaxis keep missing the signs for freeway construction zones",
-    "link": "https://www.theregister.com/offbeat/2026/06/19/waymo-hits-the-brakes-after-robotaxis-keep-missing-the-signs-for-freeway-construction-zones/5258951",
-    "summary": "Nearly 4,000 vehicles recalled for driving past closure warnings and between cones marking shut lanes",
-    "isoDate": "2026-06-19T14:03:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=223701&width=800",
-    "pinned": false
-  },
-  {
-    "id": "945fad94d7384edc2526e8452441aaa5cc077b90",
-    "title": "Telegram founder accuses Meta of sabotaging access in India with BGP hijacks",
-    "link": "https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866",
-    "summary": "Allegations of fake routes are fake news, says Indian telco Jio",
-    "isoDate": "2026-06-19T13:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094169&width=800",
-    "pinned": false
-  },
-  {
     "id": "285bc5f8b447b6fdf0fd207b2b88c8565e1f8e21",
     "title": "Inside the ETSC’s Campaign to Block FSD in Europe",
     "link": "https://www.notateslaapp.com/news/4301/inside-the-etscs-campaign-to-block-fsd-in-europe",
@@ -1359,51 +1404,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/performance/model-3-performance_40.jpg/9a120c424897c23dcf8f6fa111dd3de5/model-3-performance_40.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0a7d1080e36db90731cfcd9604995847e52a3d5a",
-    "title": "Everything's bigger and better in Texas – even data breaches",
-    "link": "https://www.theregister.com/security/2026/06/19/texas-gov-vendor-breach-exposes-data-of-3m-hunters-anglers/5258815",
-    "summary": "Hunting and fishing license incident catches 3M residents",
-    "isoDate": "2026-06-19T13:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093857&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e3572338e79c94b320d6cdb43ea29465be4f61c8",
-    "title": "Vercel debuts eve open source agent framework, tries to fix shadow AI with Passport",
-    "link": "https://www.theregister.com/devops/2026/06/19/vercel-debuts-eve-open-source-agent-framework-tries-to-fix-shadow-ai-with-passport/5258726",
-    "summary": "Cost premium of using AWS indirectly via Vercel is mitigated by more efficient use of compute resources, CTO claims",
-    "isoDate": "2026-06-19T12:35:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5258776&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f28cbf0d86a12567423831b79b6a2df134859ae4",
-    "title": "Microsoft's latest Windows bug belongs in the Recycle Bin",
-    "link": "https://www.theregister.com/personal-tech/2026/06/19/microsofts-latest-windows-bug-belongs-in-the-recycle-bin/5258779",
-    "summary": "File deletion dialog swaps recognizable names for internal gibberish",
-    "isoDate": "2026-06-19T12:06:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5258862&width=800",
     "pinned": false
   },
   {
