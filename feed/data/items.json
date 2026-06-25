@@ -1,5 +1,20 @@
 [
   {
+    "id": "132272561d232810a4b9551d6e4d5124304b8fd6",
+    "title": "Companies are not looking before they're leaping into the AI playpen",
+    "link": "https://www.theregister.com/devops/2026/06/24/companies-are-not-looking-before-theyre-leaping-into-the-ai-playpen/5261819",
+    "summary": "93% of organizations report infrastructure incidents attributable to AI",
+    "isoDate": "2026-06-24T22:55:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5261841&width=800",
+    "pinned": false
+  },
+  {
     "id": "23b98d1ba57907164ee3cb12a26de4976dc6cedc",
     "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
     "link": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
@@ -48,6 +63,21 @@
     "pinned": false
   },
   {
+    "id": "eadb961ffa7ee998aad9abe3cfeebb0a60bc6e6b",
+    "title": "The hits keep on coming for Cisco vulnerabilities",
+    "link": "https://www.theregister.com/security/2026/06/24/the-hits-keep-on-coming-for-cisco-vulnerabilities/5261797",
+    "summary": "CVE-2026-20230 under exploitation, while an earlier SD-WAN 0-day looks even worse than we thought",
+    "isoDate": "2026-06-24T22:27:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=229735&width=800",
+    "pinned": false
+  },
+  {
     "id": "77c0966cc00d7fb59035d6b16b3a6c6363d5b43a",
     "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
     "link": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
@@ -64,6 +94,21 @@
       "space"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NASA_MSFC_031224_USA-DTA-install-onto-test-stand-4large-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "811085ae5837de48103a7a4ff9ab958b66d8422f",
+    "title": "Qualcomm claims it's not too late for Dragonfly to land in datacenters",
+    "link": "https://www.theregister.com/systems/2026/06/24/qualcomm-claims-its-not-too-late-for-dragonfly-to-land-in-datacenters/5261758",
+    "summary": "Oh, Snap(dragon): DC chief says the mobile-chip giant sees bit barns as its next growth market",
+    "isoDate": "2026-06-24T21:32:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5261794&width=800",
     "pinned": false
   },
   {
@@ -1286,66 +1331,6 @@
       "databases"
     ],
     "image": "https://image.theregister.com/?imageId=5238106&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b1340945ad8af4a305f7963ce398dd372a6e1f2e",
-    "title": "Canadian utility fesses up to data breach, but key details remain off-grid",
-    "link": "https://www.theregister.com/security/2026/06/22/canadian-utility-fesses-up-to-data-breach-but-key-details-remain-off-grid/5259309",
-    "summary": "London Hydro says names, addresses, account details may have been exposed, but much about the intrusion is unknown",
-    "isoDate": "2026-06-22T14:24:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5259385&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5872fda73bb78417b62c2b5eab8b314773e59794",
-    "title": "Microsoft tells Windows users to get ready for 26H2 – unless they're on 26H1",
-    "link": "https://www.theregister.com/os-platforms/2026/06/22/microsoft-tells-windows-users-to-get-ready-for-26h2-unless-theyre-on-26h1/5259511",
-    "summary": "Same core as 24H2 and 25H2 means an enablement package, while Search gets a little more forgiving",
-    "isoDate": "2026-06-22T13:57:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5259571&width=800",
-    "pinned": false
-  },
-  {
-    "id": "27287bbcd0226b8889eb7adf5a6bdd35661d11b0",
-    "title": "As another UK prime minister bites the dust, a contradictory tech legacy remains",
-    "link": "https://www.theregister.com/public-sector/2026/06/22/as-another-uk-prime-minister-bites-the-dust-a-contradictory-tech-legacy-remains/5259470",
-    "summary": "Attempting to boost growth, efficiency, and sovereign tech proved too difficult. The next leader will face the same challenges... and temptations",
-    "isoDate": "2026-06-22T13:05:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=251783&width=800",
-    "pinned": false
-  },
-  {
-    "id": "371fcb3c138a7caab3815ab498ee6ca4c33f4546",
-    "title": "Brazil probes emergency warning system after nationwide rogue alert",
-    "link": "https://www.theregister.com/security/2026/06/22/brazil-begins-investigating-emergency-alert-system-breach/5259421",
-    "summary": "Severe weather event alert platform buzzed devices across the country with the word 'misanthropy'",
-    "isoDate": "2026-06-22T12:49:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5259466&width=800",
     "pinned": false
   },
   {
