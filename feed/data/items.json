@@ -1,5 +1,80 @@
 [
   {
+    "id": "2ee4572d1c1d946428b89af033647e502b9fc814",
+    "title": "Salyut 5 at 50: The Soviet space station that sickened one crew and nearly drowned another",
+    "link": "https://www.theregister.com/science/2026/06/25/salyut-5-at-50-the-soviet-space-station-that-sickened-one-crew-and-nearly-drowned-another/5261425",
+    "summary": "The last inhabited Almaz outpost was short-lived, secretive, and remarkably accident-prone",
+    "isoDate": "2026-06-25T08:21:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=193575&width=800",
+    "pinned": false
+  },
+  {
+    "id": "64bb4279a13241bcbeea5e7bd6e72d586c06479f",
+    "title": "The CPU's growing role in agentic AI infrastructure",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/25/the-cpus-growing-role-in-agentic-ai-infrastructure/5261720",
+    "summary": "PARTNER CONTENT: As agentic AI systems scale across cloud and datacenter environments, CPUs remain the control plane coordinating performance and efficiency.",
+    "isoDate": "2026-06-25T08:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=1666222&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7e220fd304d6fb469c780ed2c8737c62a3903a73",
+    "title": "UK school’s network left wide open for invasion, student found",
+    "link": "https://www.theregister.com/security/2026/06/25/uk-schools-network-left-wide-open-for-invasion-student-found/5261567",
+    "summary": "And the admin password was right in the Active Directory description field",
+    "isoDate": "2026-06-25T07:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5261596&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b1a326c48c3d3370e23e935702b5cb1b86833025",
+    "title": "Infosys boss says vibe coding is no threat because there’s more to writing software than writing software",
+    "link": "https://www.theregister.com/channel/2026/06/25/infosys-boss-says-vibe-coding-is-no-threat-because-theres-more-to-writing-software-than-writing-software/5261900",
+    "summary": "Despite warnings of revenue deflation, chairman predicts AI will make more work, not less, for services orgs",
+    "isoDate": "2026-06-25T06:13:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "channel"
+    ],
+    "image": "https://image.theregister.com/?imageId=257699&width=800",
+    "pinned": false
+  },
+  {
+    "id": "aa0b19d0331a98eaf844544aeedfdc314aa5487d",
+    "title": "Nation-state actors cracked critical Australian infrastructure to ‘cripple it at a time of their choosing’",
+    "link": "https://www.theregister.com/security/2026/06/25/nation-state-actors-cracked-critical-australian-infrastructure-to-cripple-it-at-a-time-of-their-choosing/5261877",
+    "summary": "To defuse another attack, Oz spies called foreign counterparts to tell them an op was a bust",
+    "isoDate": "2026-06-25T04:31:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=259316&width=800",
+    "pinned": false
+  },
+  {
     "id": "132272561d232810a4b9551d6e4d5124304b8fd6",
     "title": "Companies are not looking before they're leaping into the AI playpen",
     "link": "https://www.theregister.com/devops/2026/06/24/companies-are-not-looking-before-theyre-leaping-into-the-ai-playpen/5261819",
@@ -155,7 +230,7 @@
   },
   {
     "id": "f5a836d15daa4237f8261941614c7658ee69a708",
-    "title": "Tesla Launches Expandable Trunk Organizer for Model Y",
+    "title": "Tesla Launches New Trunk Organizers for Model Y",
     "link": "https://www.notateslaapp.com/news/4349/tesla-launches-expandable-trunk-organizer-for-model-y",
     "summary": "The official Tesla Shop has just launched the new Model Y Expandable Trunk Organizer, a $245 product that provides a place for everything&hellip; <a href=\"https://www.notateslaapp.com/news/4349/tesla-launches-expandable-trunk-organizer-for-model-y\">Read More</a>",
     "isoDate": "2026-06-24T20:58:00Z",
@@ -1246,21 +1321,6 @@
     "pinned": false
   },
   {
-    "id": "7f471841c0f76470970669b535222c2bfb866337",
-    "title": "The database that refused to die: How Postgres survived its own creators",
-    "link": "https://www.theregister.com/databases/2026/06/22/the-database-that-refused-to-die-how-postgres-survived-its-own-creators/5259716",
-    "summary": "From academic toss-aside to cloud substrate",
-    "isoDate": "2026-06-22T17:43:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "databases"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682919&width=800",
-    "pinned": false
-  },
-  {
     "id": "a7da49e71356e1912902b3f41649085e319d8687",
     "title": "Tesla Crashes Into Texas Home, Driver Blames Autopilot [VIDEO] [TESLA RESPONDS]",
     "link": "https://www.notateslaapp.com/news/4335/tesla-crashes-into-texas-home-driver-blames-autopilot-video",
@@ -1271,66 +1331,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-texas-crash-fsd-june-2026.png/e70d4db80abdb29a76cbe006848c72eb/tesla-texas-crash-fsd-june-2026.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6bc722f861c85a261b858fdf3053a78be8100e53",
-    "title": "Ukraine puts its Russian war trophies online for allies to pick apart",
-    "link": "https://www.theregister.com/offbeat/2026/06/22/ukraine-puts-its-russian-war-trophies-online-for-allies-to-pick-apart/5259688",
-    "summary": "TrophyLab bad for Vlad as battlefield losses spill the secrets they had",
-    "isoDate": "2026-06-22T17:19:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=246096&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7ba9c78c7d143f9e50a2adfc5aab175c96065972",
-    "title": "Inspired by musical greeting cards, DARPA demands tiny, cheap, self-modifying systems",
-    "link": "https://www.theregister.com/offbeat/2026/06/22/inspired-by-musical-greeting-cards-darpa-demands-tiny-cheap-self-modifying-systems/5259594",
-    "summary": "One can't help but see a very clear instance of the triple constraint problem in action here",
-    "isoDate": "2026-06-22T16:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5259624&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a3b31b62c2664838da562b34cb6815a8e9189250",
-    "title": "The memory crisis is getting so bad that even retro RAM prices are going to the Moon",
-    "link": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
-    "summary": "Some hardware firms redesigning products to use older DDR2 and DDR3 components",
-    "isoDate": "2026-06-22T16:07:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5259665&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4d210debb164ded0ef991da8806bf5ff06dcf23d",
-    "title": "The new database world according to Google: Inexact queries and AI in everything",
-    "link": "https://www.theregister.com/databases/2026/06/22/the-new-database-world-according-to-google-inexact-queries-and-ai-in-everything/5259454",
-    "summary": "'Humans are not going to be using data platforms in the next three to five years,' product exec tells us",
-    "isoDate": "2026-06-22T15:40:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "databases"
-    ],
-    "image": "https://image.theregister.com/?imageId=5238106&width=800",
     "pinned": false
   },
   {
