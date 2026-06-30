@@ -1,5 +1,89 @@
 [
   {
+    "id": "f5072de3053d5ed7d17079a96ff81877c5fc1b49",
+    "title": "New attack provides one more reason that AI browsers are a bad idea",
+    "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+    "isoDate": "2026-06-30T20:03:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "browsers",
+      "jailbreaks",
+      "LLMs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a488ff5a86621c087dba4ce15a4ecba11b91cd82",
+    "title": "Tesla Android App Adds Real-Time 'Live Update' Notifications",
+    "link": "https://www.notateslaapp.com/news/4376/tesla-android-app-adds-real-time-live-update-notifications",
+    "summary": "Tesla owners with Android phones are finally getting feature parity with iPhone users when it comes to keeping tabs on their Supercharging sessions&hellip; <a href=\"https://www.notateslaapp.com/news/4376/tesla-android-app-adds-real-time-live-update-notifications\">Read More</a>",
+    "isoDate": "2026-06-30T19:59:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/android-live-activities-.jpg/92b52e86abd3e9986fef6b700deaf6a2/android-live-activities-.jpg",
+    "pinned": false
+  },
+  {
+    "id": "390357fc27fa008179204be92a3e726467e7c5c2",
+    "title": "Tesla Confirms FSD v14 Lite International Release",
+    "link": "https://www.notateslaapp.com/news/4375/tesla-confirms-fsd-v14-lite-international-release",
+    "summary": "Owners of older Hardware 3 (HW3/AI3) Tesla vehicles outside the United States can finally breathe a sigh of relief&hellip; <a href=\"https://www.notateslaapp.com/news/4375/tesla-confirms-fsd-v14-lite-international-release\">Read More</a>",
+    "isoDate": "2026-06-30T19:24:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-australia-screen.webp/bf31758a6456f6110272bc6794c48397/fsd-australia-screen.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e38b2c7126082810df88826284a4ce30dfb4c240",
+    "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+    "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
+    "isoDate": "2026-06-30T18:36:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "AI images",
+      "Artificial Intelligence",
+      "generative ai",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Nano-Banana-2-Lite-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8dfdca1c04e5e67af86ac64600781cd28be33696",
+    "title": "RFK Jr. stacks FDA panel with peptide peddlers as FDA scientists oppose access",
+    "link": "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
+    "summary": "Peptide drugs are popular, but FDA scientists warn they're untested, may be harmful.",
+    "isoDate": "2026-06-30T18:25:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "fda",
+      "Peptides",
+      "robert f kennedy jr"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "540d6b8ad50dd55b28fe7d0e32a2482dc973a32d",
     "title": "Tesla Starts Testing Steering Wheel-less Cybercabs in Austin",
     "link": "https://www.notateslaapp.com/news/4374/tesla-starts-testing-steering-wheel-less-cybercabs-in-austin",
@@ -34,6 +118,36 @@
       "web design"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/national-design-web-vomit-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "de65c5979529354095e607aeb0d0bb14dd1d4aa4",
+    "title": "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe",
+    "link": "https://www.theregister.com/security/2026/06/30/huntress-ceo-says-threat-hunter-used-poor-judgment-in-alerting-ransomware-crim-about-law-enforcement-probe/5264532",
+    "summary": "Ex-employee claims this 'meets the definition of an insider threat'",
+    "isoDate": "2026-06-30T16:54:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5264558&width=800",
+    "pinned": false
+  },
+  {
+    "id": "15e5f3cb0c70eb56521da0536967f5b055d3083b",
+    "title": "Meta's non-surgical mind reading machine improves on prior projects, but still isn't great",
+    "link": "https://www.theregister.com/offbeat/2026/06/30/metas-non-surgical-mind-reading-machine-improves-on-prior-projects-but-still-isnt-great/5264500",
+    "summary": "61% word accuracy is progress, but the system still relies on users typing and can't yet support real-time communication. Implanted BCIs remain well ahead",
+    "isoDate": "2026-06-30T16:25:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=256794&width=800",
     "pinned": false
   },
   {
@@ -767,22 +881,6 @@
     "pinned": false
   },
   {
-    "id": "0db4581eefad85bf26e4166901cb85fabbcee1ce",
-    "title": "Think tank games out how to respond to disaster scenarios in space warfare",
-    "link": "https://arstechnica.com/space/2026/06/think-tank-games-out-how-to-respond-to-disaster-scenarios-in-space-warfare/",
-    "summary": "\"Where does the threshold live that an action necessitates some proportional reaction?\"",
-    "isoDate": "2026-06-29T15:21:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/9760460-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0a2951988cc82fe4a73fc9e5cc98a17958c6fa96",
     "title": "Tesla Launches FSD V14-Lite: First Impressions",
     "link": "https://www.notateslaapp.com/news/4369/tesla-launches-fsd-v14-lite-first-impressions",
@@ -823,28 +921,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=229744&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b6f175540b7d3f7d4079cfc3c5ffb0f8dfd573b2",
-    "title": "Comcast is splitting its media and broadband properties",
-    "link": "https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/",
-    "summary": "NBCUniversal and Sky will be spun off into separate companies.",
-    "isoDate": "2026-06-29T13:25:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Oliver Barnes and Daniel Thomas, Financial Times",
-    "tags": [
-      "Policy",
-      "broadband",
-      "cable internet",
-      "cable tv",
-      "Comcast",
-      "NBC Universal",
-      "Sky",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/comcast-sign-500x500.jpg",
     "pinned": false
   },
   {
@@ -933,30 +1009,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2026.20.5/2026.20.5-fsd-supervised-v14-lite.png",
-    "pinned": false
-  },
-  {
-    "id": "fa76b8e43a9e4cd7c0c38e5c0707a175197e04fd",
-    "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
-    "link": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/",
-    "summary": "NASA’s quiet supersonic flight tests could eventually go on a national tour.",
-    "isoDate": "2026-06-29T10:30:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Features",
-      "Tech",
-      "Lockheed Martin",
-      "NASA",
-      "sonic boom",
-      "sonic booms",
-      "supersonic flight",
-      "supersonic travel",
-      "X-59",
-      "x-plane"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/x59-first-supersonic-flight-500x500.webp",
     "pinned": false
   },
   {
@@ -1373,36 +1425,6 @@
     "pinned": false
   },
   {
-    "id": "eb24f22f0128242269af97313f8bade64b81e019",
-    "title": "Oracle promises to open up MySQL governance, but the community wants guarantees",
-    "link": "https://www.theregister.com/databases/2026/06/26/oracle-promises-to-open-up-mysql-governance-but-the-community-wants-guarantees/5263106",
-    "summary": "Open source advocates remain concerned over lack of binding commitments",
-    "isoDate": "2026-06-26T14:42:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "databases"
-    ],
-    "image": "https://image.theregister.com/?imageId=5246467&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e3949251dbfb92865276c442cd5f0c65d09a2e5c",
-    "title": "One man, two kernels, and a lot of RISC-V",
-    "link": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
-    "summary": "A homebrew PC and mini-mainframe were only the warm-up for Yuri Zaporozhets' latest operating system",
-    "isoDate": "2026-06-26T13:46:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5262971&width=800",
-    "pinned": false
-  },
-  {
     "id": "3a478c1e6b30c588e52a0005a2df9235c9f2df84",
     "title": "Tesla Trademarks Megapod; Will Turn Idle Superchargers Into Distributed Compute",
     "link": "https://www.notateslaapp.com/news/4337/tesla-trademarks-megapod-will-turn-idle-superchargers-into-distributed-compute",
@@ -1617,32 +1639,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/modelyl_82.webp/0df80d0ced0018475abf9d4b8ac81c58/modelyl_82.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3ac55366b4e5acd4fc8244898769b42198877d1a",
-    "title": "Tesla Claims Top Two Spots in 2026 American-Made Index",
-    "link": "https://www.notateslaapp.com/news/4342/tesla-claims-1-and-2-spots-for-most-american-made-cars",
-    "summary": "Buying American remains a huge priority for car buyers, and Tesla's local production and supply lines are keeping it well ahead of the competition&hellip; <a href=\"https://www.notateslaapp.com/news/4342/tesla-claims-1-and-2-spots-for-most-american-made-cars\">Read More</a>",
-    "isoDate": "2026-06-23T19:58:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/cars-com-american-made-index-2026-2.webp/48d9420cde0f6fe16d103e2f0575bf43/cars-com-american-made-index-2026-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "be8af6e48a307b8416f7427fc1971ee9fed3e0e0",
-    "title": "Tesla Expands 'Blind Spot Warning While Parked' to More Cars",
-    "link": "https://www.notateslaapp.com/news/4341/tesla-expands-blind-spot-warning-while-parked-to-more-cars",
-    "summary": "Tesla is officially bringing a pretty neat safety feature designed to protect people inside and outside the vehicle to more of its models&hellip; <a href=\"https://www.notateslaapp.com/news/4341/tesla-expands-blind-spot-warning-while-parked-to-more-cars\">Read More</a>",
-    "isoDate": "2026-06-23T18:43:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/cybertruck-blind-spot-warning.webp/ff68aafec10b3efa85c9a542800e8790/cybertruck-blind-spot-warning.jpg",
     "pinned": false
   }
 ]
