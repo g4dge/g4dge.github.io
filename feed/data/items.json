@@ -1,5 +1,139 @@
 [
   {
+    "id": "42bb5049a9c027754d1349c32dbc16dae275fc9e",
+    "title": "SpaceX may donate stock to Trump’s savings accounts for kids, report says",
+    "link": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
+    "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
+    "isoDate": "2026-06-30T15:38:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "Artificial Intelligence",
+      "Donald Trump",
+      "Elon Musk",
+      "spacex",
+      "Trump Accounts"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280560807-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "215d4a0b9609633225ba0029da4ecaa47fa952b2",
+    "title": "Microsoft previews Linux containers that run in Windows",
+    "link": "https://www.theregister.com/virtualization/2026/06/30/microsoft-previews-linux-containers-that-run-in-windows/5264468",
+    "summary": "Linux container CLI and API for Windows applications",
+    "isoDate": "2026-06-30T15:18:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=261035&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b1cadc922b15147f3523b8384a20ab5eb748bc57",
+    "title": "What the OCI MSA didn't solve for AI scaling",
+    "link": "https://www.theregister.com/hpc/2026/06/30/what-the-oci-msa-didnt-solve-for-ai-scaling/5262624",
+    "summary": "PARTNER CONTENT: The OCI MSA settled the architecture for optical scale-up. How fast bandwidth scales is a manufacturing question, not an architectural one",
+    "isoDate": "2026-06-30T15:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "hpc"
+    ],
+    "image": "https://image.theregister.com/?imageId=1680685&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c9c9128711fc33c8be4a1d868bbb1e0327c1ed49",
+    "title": "Arm64 on the desktop? It’s spendy and it’s sluggish",
+    "link": "https://www.theregister.com/personal-tech/2026/06/30/arm64-on-the-desktop-its-spendy-and-its-sluggish/5264407",
+    "summary": "Even with lots of RAM, GPU, and fast disks, you probably don’t want it",
+    "isoDate": "2026-06-30T14:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=4093909&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2bd8154c28313d1985b80a77da788544254b4c1b",
+    "title": "Tesla Exec Says Big Giga Texas Announcement Coming July 7",
+    "link": "https://www.notateslaapp.com/news/4373/tesla-exec-says-big-giga-texas-announcement-coming-next-week",
+    "summary": "Tesla is apparently cooking up something big for its Austin headquarters, and we just got an official heads-up from leadership&hellip; <a href=\"https://www.notateslaapp.com/news/4373/tesla-exec-says-big-giga-texas-announcement-coming-next-week\">Read More</a>",
+    "isoDate": "2026-06-30T14:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/5_gigafactorytexas_07.webp/8a0cea247cbf611a451012b42b7ccab0/5_gigafactorytexas_07.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b936dd02ee9b25c8b9399b885bc284b1e1488c98",
+    "title": "UK regulator wants Apple and Google to let devs steer clear of app store fees",
+    "link": "https://www.theregister.com/applications/2026/06/30/uk-regulator-wants-apple-and-google-to-let-devs-steer-clear-of-app-store-fees/5264370",
+    "summary": "Proposals could open cheaper routes for purchases made through third parties",
+    "isoDate": "2026-06-30T13:52:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=258917&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c7dcd297396c6d9a081998b0eee0c6ceecb5e202",
+    "title": "Florida bans local governments from pursuing net-zero emissions goals",
+    "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
+    "summary": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
+    "isoDate": "2026-06-30T13:40:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Amy Green, Inside Climate News",
+    "tags": [
+      "Science",
+      "climate change",
+      "Florida",
+      "greenhouse gases",
+      "net-zero emissions",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-ron-desantis-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5f7e2a3e5c970ddcc8e98b8717ebc24bd654aefa",
+    "title": "Ars Live, today: The latest on the aftermath of the New Glenn catastrophe",
+    "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+    "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
+    "isoDate": "2026-06-30T13:15:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "ars live",
+      "artemis",
+      "blue origin",
+      "new glenn",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-500x500.png",
+    "pinned": false
+  },
+  {
     "id": "29536d5ce28f76331726c6d03fe569242cf52d7f",
     "title": "Former Microsoft engineer shrinks Notepad down to size",
     "link": "https://www.theregister.com/os-platforms/2026/06/30/former-microsoft-engineer-shrinks-notepad-down-to-size/5264319",
@@ -115,6 +249,21 @@
       "public sector"
     ],
     "image": "https://image.theregister.com/?imageId=5251800&width=800",
+    "pinned": false
+  },
+  {
+    "id": "51ebb0c7abfe0416d88ae8bb74eef2ff1e9eef10",
+    "title": "How is AI changing datacenter network fabrics?",
+    "link": "https://www.theregister.com/networks/2026/06/30/how-is-ai-changing-datacenter-network-fabrics/5262667",
+    "summary": "EXPLAINER AI workloads are overwhelming the traditional datacenter fabrics they run on. Here's what's replacing them.",
+    "isoDate": "2026-06-30T08:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5208852&width=800",
     "pinned": false
   },
   {
@@ -745,7 +894,7 @@
     "id": "352a1186cb298bb171a97d1f327f2d49aa33e591",
     "title": "ZTE released all-in-one FTTR-B solution for SME AI and connectivity at MWC Shanghai 2026",
     "link": "https://www.theregister.com/ai-and-ml/2026/06/29/zte-released-all-in-one-fttr-b-solution-for-sme-ai-and-connectivity-at-mwc-shanghai-2026/5263601",
-    "summary": "PARTNER CONTENT: •\tSupporting on-premise local AI large model operation, the solution cuts cloud costs and secures sensitive corporate data for SMEs",
+    "summary": "PARTNER CONTENT: Supporting on-premise local AI large model operation, the solution cuts cloud costs and secures sensitive corporate data for SMEs",
     "isoDate": "2026-06-29T10:10:41Z",
     "source": "The Register",
     "category": "Tech",
@@ -1082,29 +1231,6 @@
     "pinned": false
   },
   {
-    "id": "bf5cbc34874d135223a1dce23fa769a071cb0335",
-    "title": "South Korea plans to train entire military as \"drone warriors\"",
-    "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-    "summary": "Half-million-strong military will train on drones as “universal combat tool.”",
-    "isoDate": "2026-06-26T22:19:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "AI drones",
-      "drones",
-      "military drones",
-      "North Korea",
-      "Russia invasion of Ukraine",
-      "South Korea",
-      "Ukraine",
-      "Ukraine war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3c93e42f25e8a9fc3cde9490dbdb7043b79975fc",
     "title": "Even the Secret Service won't use company-issued phones",
     "link": "https://www.theregister.com/security/2026/06/26/even-the-secret-service-wont-use-company-issued-phones/5263356",
@@ -1117,46 +1243,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=251521&width=800",
-    "pinned": false
-  },
-  {
-    "id": "cbacf09d10ba6ede3e483f5d690253e5cbc9d973",
-    "title": "Doctors suspected man had brain cancer. He actually had worms.",
-    "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-    "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
-    "isoDate": "2026-06-26T21:43:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "brain worms",
-      "parasitic worms",
-      "pork tapeworm",
-      "Taenia solium",
-      "worms"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1-500x308.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6cd37c38edfc9efb030792107d9c0439cfc18ace",
-    "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-    "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-    "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
-    "isoDate": "2026-06-26T21:12:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Policy",
-      "Tech",
-      "ads",
-      "California",
-      "Illinois",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1987915833-500x500.jpg",
     "pinned": false
   },
   {
@@ -1314,81 +1400,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/energy/megapack_cleanergrid_d.jpg/efa9143e019ab9b4098be00059d5db24.jpg",
-    "pinned": false
-  },
-  {
-    "id": "66138ab0978df158f0cba3cb040aef269f3df00e",
-    "title": "First AI-powered 10 Gbps all-optical campus network in Jiangsu province goes live at Southeast University in China",
-    "link": "https://www.theregister.com/networks/2026/06/26/first-ai-powered-10-gbps-all-optical-campus-network-in-jiangsu-province-goes-live-at-southeast-university-in-china/5263098",
-    "summary": "PARTNER CONTENT: The network delivers near-instant data transfer and zero-latency immersive interactivity, bridging the gap between researchers and computing power",
-    "isoDate": "2026-06-26T12:24:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5263102&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fb2367d96fa945d1dc8b3972d57ef3215238e481",
-    "title": "Miasma campaign poisons 20-plus npm packages, hunts for developer secrets",
-    "link": "https://www.theregister.com/security/2026/06/26/miasma-campaign-poisons-20-plus-npm-packages-hunts-for-developer-secrets/5262886",
-    "summary": "Microsoft says latest attack targets Leo Platform and RStreams packages, harvesting creds and going after more maintainers",
-    "isoDate": "2026-06-26T12:18:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682668&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c65a07fd1920600b00be5aae4ab05b14f923bb41",
-    "title": "ZTE and Tianyi Digital Life jointly unveil flagship home AI router",
-    "link": "https://www.theregister.com/networks/2026/06/26/zte-and-tianyi-digital-life-jointly-unveil-flagship-home-ai-router/5263090",
-    "summary": "PARTNER CONTENT: Collaborating to advance China Telecom's “Better Home” ecosystem, the joint launch introduces a 2000 Mbps Wi-Fi 7 hub driven by core AI connection, sensing, and control capabilities",
-    "isoDate": "2026-06-26T12:17:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5263094&width=800",
-    "pinned": false
-  },
-  {
-    "id": "004e300457cc175ddeb106c16d30d624592d55ee",
-    "title": "ZTE showcases practical path to Level-4 autonomous networks through agentic AI and cross-domain innovation at DTW Ignite 2026",
-    "link": "https://www.theregister.com/networks/2026/06/26/zte-showcases-practical-path-to-level-4-autonomous-networks-through-agentic-ai-and-cross-domain-innovation-at-dtw-ignite-2026/5263080",
-    "summary": "PARTNER CONTENT: Highlighting Level-4 autonomous network solutions, TM Forum Excellence Award finalists, and joint operator trials powering cross-domain fault management and Dynamic 5G Slicing",
-    "isoDate": "2026-06-26T12:09:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5263084&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9197362da01964a746e1474912bec63e2b98df2f",
-    "title": "ZTE presents full-stack intelligent energy storage solutions at the Smarter E Europe 2026, powering Europe's energy transition",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/26/zte-presents-full-stack-intelligent-energy-storage-solutions-at-the-smarter-e-europe-2026-powering-europes-energy-transition/5263063",
-    "summary": "PARTNER CONTENT: ZTE introduces full-stack, AI-driven energy storage solutions in Munich to address the rising power demands of the digital infrastructure era",
-    "isoDate": "2026-06-26T11:56:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5263067&width=800",
     "pinned": false
   },
   {
