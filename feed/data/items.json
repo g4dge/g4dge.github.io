@@ -1,5 +1,95 @@
 [
   {
+    "id": "b0d80fad9c05e72489689b7a02ec823b80b1b938",
+    "title": "HS2's latest reset ditches autonomous train tech to get project back on track",
+    "link": "https://www.theregister.com/offbeat/2026/06/30/hs2s-latest-reset-ditches-autonomous-train-tech-to-get-project-back-on-track/5264000",
+    "summary": "Britain's most expensive train set loses some of its best toys in bid to actually leave the station",
+    "isoDate": "2026-06-30T09:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5244900&width=800",
+    "pinned": false
+  },
+  {
+    "id": "58efc3d90f1eca1695d4b5c416cf48e4df7792b8",
+    "title": "From the archives: A metallurgical miracle? All that glisters is not gold",
+    "link": "https://www.skeptic.org.uk/2026/06/from-the-archives-a-metallurgical-miracle-all-that-glisters-is-not-gold/",
+    "summary": "<p>From the archives of March 1993, Paul Munro and Dave Mitchell scientifically investigate an alleged miracle in which silver turned to gold.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/06/from-the-archives-a-metallurgical-miracle-all-that-glisters-is-not-gold/\">From the archives: A metallurgical miracle? All that glisters is not gold</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-06-30T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Michael Marshall",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9355cbde8f7447cdc851bdccedd8010e5415db22",
+    "title": "Atlas shrugs: New UK asylum seeker IT system failed to help case workers learn from appeals",
+    "link": "https://www.theregister.com/public-sector/2026/06/30/atlas-shrugs-new-uk-asylum-seeker-it-system-failed-to-help-case-workers-learn-from-appeals/5263557",
+    "summary": "After several delays in development, Atlas went live without functionality Home Office case manager needed, inspectors say",
+    "isoDate": "2026-06-30T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5251800&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d6370a007f8c30e8cd14feaff2a9deecb5b31f7a",
+    "title": "Microsoft builds a bouncer to keep bots out of Teams meetings",
+    "link": "https://www.theregister.com/software/2026/06/30/microsoft-builds-a-bouncer-to-keep-bots-out-of-teams-meetings/5264199",
+    "summary": "Allows ISVs to put their names on the door so desirable bots always get in",
+    "isoDate": "2026-06-30T06:11:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5225031&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1757b9feda5720c5f436d210f62fd95d0e2b701c",
+    "title": "South Korea’s hot new sensation is 3S+1F – a quadrillion-Won AI plan, not a band",
+    "link": "https://www.theregister.com/ai-and-ml/2026/06/30/south-koreas-hot-new-sensation-is-3s1f-a-quadrillion-won-ai-plan-not-a-band/5264175",
+    "summary": "Seoul plans to spend about $900 billion to become K-semiconductor powerhouse",
+    "isoDate": "2026-06-30T05:06:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5264195&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ab70c91ba0fe230df2719142410afa692fc32bf4",
+    "title": "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
+    "link": "https://www.theregister.com/security/2026/06/30/indias-central-bank-mandated-use-of-bank-domains-to-enhance-trust-but-its-registry-leaked-sensitive-info/5264152",
+    "summary": "Open API could reveal everything an attacker needs to impersonate bank officials",
+    "isoDate": "2026-06-30T02:24:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=257475&width=800",
+    "pinned": false
+  },
+  {
     "id": "2fa12899606ad864a89af6098e8bfbb57fca87d8",
     "title": "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection",
     "link": "https://www.theregister.com/ai-and-ml/2026/06/30/security-researchers-tricked-llms-into-giving-them-cocaine-recipes-by-abusing-role-models-for-prompt-injection/5264115",
@@ -1302,36 +1392,6 @@
     "pinned": false
   },
   {
-    "id": "d8170a16a755c2d5b01b1c38c6e75d6c3a5d1fb3",
-    "title": "ZTE AIR Core unleashes a new era of agent services beyond connectivity",
-    "link": "https://www.theregister.com/networks/2026/06/26/zte-air-core-unleashes-a-new-era-of-agent-services-beyond-connectivity/5262945",
-    "summary": "PARTNER CONTENT: Shifting from legacy \"connectivity pipes\" to intent-driven intelligent services, the 6G-ready architecture introduces an Agent Service Network designed for the era of AI and human collaboration",
-    "isoDate": "2026-06-26T10:51:44Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5262957&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ed0db577de846bd21a1eb18ab4f5090a9a7302d7",
-    "title": "Space Shuttle Endeavour stacks up nicely for new California exhibit",
-    "link": "https://www.theregister.com/offbeat/2026/06/26/space-shuttle-endeavour-stacks-up-nicely-for-new-california-exhibit/5262402",
-    "summary": "Full launch configuration recreated ahead of Samuel Oschin Air and Space Center's November opening",
-    "isoDate": "2026-06-26T10:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5262818&width=800",
-    "pinned": false
-  },
-  {
     "id": "b1497869c338ada4bcd9323017321b0382b0863b",
     "title": "The Skeptic Podcast – Episode 070",
     "link": "https://www.skeptic.org.uk/2026/06/the-skeptic-podcast-episode-070/",
@@ -1360,21 +1420,6 @@
     "pinned": false
   },
   {
-    "id": "59ac068199eb528d3a305d8ca55ee1898262a5e6",
-    "title": "Three FOSS projects for developers, procrastinators, and media wranglers",
-    "link": "https://www.theregister.com/software/2026/06/26/three-foss-projects-for-developers-procrastinators-and-media-wranglers/5261631",
-    "summary": "Prism tracks AI emissions, Super Productivity keeps tasks local, and TAMOSS brings the BBC's media API to Kubernetes",
-    "isoDate": "2026-06-26T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5261648&width=800",
-    "pinned": false
-  },
-  {
     "id": "8533987705e34ed7b186770212530b5bb5040a84",
     "title": "The conspiracy theorists who now hold local council seats across the UK",
     "link": "https://www.skeptic.org.uk/2026/06/the-conspiracy-theorists-who-now-hold-local-council-seats-across-the-uk/",
@@ -1389,21 +1434,6 @@
       "Vaccinations"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "61d187273f2ad196a221b833578631cd110d75c3",
-    "title": "BOFH: Amnesty means never having to say you're sorry",
-    "link": "https://www.theregister.com/bofh/2026/06/26/bofh-amnesty-means-never-having-to-say-youre-sorry/5260833",
-    "summary": "There's no I in team, but there is one in insurance fraud",
-    "isoDate": "2026-06-26T08:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "bofh"
-    ],
-    "image": "https://image.theregister.com/?imageId=5261295&width=800",
     "pinned": false
   },
   {
@@ -1589,21 +1619,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-charge-stats-v2-1.webp/9df7f61152d4c53f6048e9735497252e/tesla-app-charge-stats-v2-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "08c7a68eeab67f92b1b85b708331dbeb5b7ee5dd",
-    "title": "From the archives: Carlos Castaneda and the Don Juan caper",
-    "link": "https://www.skeptic.org.uk/2026/06/from-the-archives-carlos-castaneda-and-the-don-juan-caper/",
-    "summary": "<p>From the archives of March 1993, Robert McGrath reports on the the debunking of Carlos Castaneda's shaman, \"Don Juan\", as fiction</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/06/from-the-archives-carlos-castaneda-and-the-don-juan-caper/\">From the archives: Carlos Castaneda and the Don Juan caper</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-06-23T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Michael Marshall",
-    "tags": [
-      "Archive"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
