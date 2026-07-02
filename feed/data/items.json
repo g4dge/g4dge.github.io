@@ -1,5 +1,70 @@
 [
   {
+    "id": "d6ee4010ca8c533eb5e35f7ffce0f344480ae640",
+    "title": "Tesla sales increase by 25% in Q2 2026",
+    "link": "https://arstechnica.com/cars/2026/07/tesla-sales-increase-by-25-in-q2-2026/",
+    "summary": "Deliveries outstripped production, suggesting Tesla has cleared some inventory.",
+    "isoDate": "2026-07-02T14:11:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-187005526-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "093dfb9836bb1f72a34a2ccb45be97fbe39b7ebb",
+    "title": "Woman's hip replacement disintegrates, causing severe metal poisoning",
+    "link": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
+    "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip.",
+    "isoDate": "2026-07-02T14:04:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "case report",
+      "cobalt",
+      "hip replacement",
+      "metal poisoning",
+      "NEJM"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hip-replacement-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b661e4cf01d4639a0c99d67108347ff1ec870afe",
+    "title": "Pacemaker manufacturer Medtronic warns patients cybercrooks may have swiped health data",
+    "link": "https://www.theregister.com/security/2026/07/02/pacemaker-manufacturer-medtronic-warns-patients-cybercrooks-may-have-swiped-health-data/5265768",
+    "summary": "Company that also makes insulin pumps and other devices tells users what was exposed months after ShinyHunters attack",
+    "isoDate": "2026-07-02T12:54:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=250887&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e9924fa2ad91ecce9aacbedc433f340608047895",
+    "title": "India gives WhatsApp three days to defend username rollout amid security fears",
+    "link": "https://www.theregister.com/security/2026/07/02/india-writes-to-whatsapp-over-usernames-security-concerns/5265744",
+    "summary": "Government of the messenger's largest market demands a pause while Meta explains how it plans to stop impersonators",
+    "isoDate": "2026-07-02T11:50:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=257163&width=800",
+    "pinned": false
+  },
+  {
     "id": "a55d2eb5ee8618ad8460d1e81eb10c6ab1b128c0",
     "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
     "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
@@ -920,24 +985,6 @@
     "pinned": false
   },
   {
-    "id": "a5f5cf67b085a9c6a205ea038723431464f0cc1d",
-    "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
-    "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
-    "summary": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs.",
-    "isoDate": "2026-06-30T20:38:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "gifs",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-stamp-grain-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "539966df9c24133d2816cf0a700e203e790930f7",
     "title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
     "link": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
@@ -950,28 +997,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=5249938&width=800",
-    "pinned": false
-  },
-  {
-    "id": "254965115950163aa58d21daa9977ff4bacf0cd9",
-    "title": "Apple takes Epic fight over app store fees to the Supreme Court",
-    "link": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
-    "summary": "Supreme Court will weigh if Apple contempt finding in Epic case is “erroneous.”",
-    "isoDate": "2026-06-30T20:20:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Apple",
-      "Policy",
-      "antitrust",
-      "app developers",
-      "App Store",
-      "apple",
-      "Epic Games",
-      "Supreme Court"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1208692911-500x500.jpg",
     "pinned": false
   },
   {
@@ -1307,36 +1332,6 @@
       "software"
     ],
     "image": "https://image.theregister.com/?imageId=5225031&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1757b9feda5720c5f436d210f62fd95d0e2b701c",
-    "title": "South Korea’s hot new sensation is 3S+1F – a quadrillion-Won AI plan, not a band",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/30/south-koreas-hot-new-sensation-is-3s1f-a-quadrillion-won-ai-plan-not-a-band/5264175",
-    "summary": "Seoul plans to spend about $900 billion to become K-semiconductor powerhouse",
-    "isoDate": "2026-06-30T05:06:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5264195&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ab70c91ba0fe230df2719142410afa692fc32bf4",
-    "title": "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
-    "link": "https://www.theregister.com/security/2026/06/30/indias-central-bank-mandated-use-of-bank-domains-to-enhance-trust-but-its-registry-leaked-sensitive-info/5264152",
-    "summary": "Open API could reveal everything an attacker needs to impersonate bank officials",
-    "isoDate": "2026-06-30T02:24:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=257475&width=800",
     "pinned": false
   },
   {
