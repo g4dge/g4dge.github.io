@@ -1,5 +1,80 @@
 [
   {
+    "id": "2d859986e3743445bbc6d9d72fd434a540d36485",
+    "title": "Insert token to continue, says AI. Yeah, about that...",
+    "link": "https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319",
+    "summary": "Barney Rubble points to bubble trouble",
+    "isoDate": "2026-07-06T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "columnists"
+    ],
+    "image": "https://image.theregister.com/?imageId=5258205&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ca91ca23d494b72cece532374edaa97aa4afbc56",
+    "title": "Apprentice developer defied orders – then got a job supporting her weird code",
+    "link": "https://www.theregister.com/software/2026/07/06/apprentice-developer-defied-orders-then-got-a-job-supporting-her-weird-code/5266330",
+    "summary": "Who wrote this rubbish? Oh ...",
+    "isoDate": "2026-07-06T07:36:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5266369&width=800",
+    "pinned": false
+  },
+  {
+    "id": "66a7f1289e4eddda71bf4f8ace442190bd593494",
+    "title": "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
+    "link": "https://www.theregister.com/science/2026/07/06/japans-asteroid-sample-retriever-rapidly-buzzes-remote-space-rock/5266795",
+    "summary": "Zipped just 800m past Asteroid Torifune as part of very extended mission",
+    "isoDate": "2026-07-06T06:31:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=151798&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1ba05cc319f609a98080f19fd07c54b54bb3b302",
+    "title": "Zombie ‘who owns Unix?’ lawsuit comes alive again",
+    "link": "https://www.theregister.com/os-platforms/2026/07/06/zombie-who-owns-unix-lawsuit-comes-alive-again/5266761",
+    "summary": "SCO's legal successor Xinuos asks legal brains to let it bite IBM over ancient license and copyright claims",
+    "isoDate": "2026-07-06T05:29:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=231852&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5cc0739882fbf9630f6196202fb709511c627bac",
+    "title": "EY sacks staff for allegedly accessing Australian Prime Minister’s bank account",
+    "link": "https://www.theregister.com/legal/2026/07/06/ey-sacks-staff-for-allegedly-accessing-australian-prime-ministers-bank-account/5266687",
+    "summary": "PLUS: India attacks Uber; South Korea warned AI boom is dangerous; Scuba-diving cyborg cockroach; and more!",
+    "isoDate": "2026-07-06T01:29:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=5266699&width=800",
+    "pinned": false
+  },
+  {
     "id": "49c8c525d1867c1793ea39064fdc4c8d52de29e3",
     "title": "MFA-optional banks leave safe doors (and accounts) wide open for thieves to pillage",
     "link": "https://www.theregister.com/security/2026/07/05/mfa-optional-banks-leave-safe-doors-and-accounts-wide-open-for-thieves-to-pillage/5266161",
@@ -787,7 +862,7 @@
     "id": "3bac2e6e7bf21336f2bfe864451603a198e38cd3",
     "title": "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/02/sap-snaps-wallet-shut-for-travel-and-hiring-so-it-can-keep-shoveling-cash-into-ai/5265875",
-    "summary": "Enterprise software giant confirms it's 'applying discipline' when it comes to hiring and business trips as tries to keep pace",
+    "summary": "Enterprise software giant confirms it's 'applying discipline' when it comes to jobs and business trips as it tries to keep pace",
     "isoDate": "2026-07-02T16:01:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -1295,81 +1370,6 @@
     "pinned": false
   },
   {
-    "id": "e1ea04c5567c77f221024ffbdd6aaa1eaa81b648",
-    "title": "Microsoft lets Azure Linux 4 out of the cloud in downloadable ISO form",
-    "link": "https://www.theregister.com/os-platforms/2026/07/01/microsoft-lets-azure-linux-4-out-of-the-cloud-in-downloadable-iso-form/5265126",
-    "summary": "Fedora-derived server distro is ready for local testing, but production deployments should wait",
-    "isoDate": "2026-07-01T14:21:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5265166&width=800",
-    "pinned": false
-  },
-  {
-    "id": "99774e1063bb59204e4e7a1451971573af1fcd02",
-    "title": "Cloudflare to block cynical search-and-scrape bots from ad-supported web pages",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/01/cloudflare-to-block-cynical-search-and-scrape-bots-from-ad-supported-web-pages/5264727",
-    "summary": "Some crawlers gather data for both search and AI training, so when publishers block them to protect content they risk disappearning from search results ...",
-    "isoDate": "2026-07-01T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=251881&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0def24ad1f7cc3e4c9fc581fc8cc4361b2ed2a9f",
-    "title": "DRAM it! Cheap PCs being priced out of existence as memory cost bites",
-    "link": "https://www.theregister.com/personal-tech/2026/07/01/dram-it-cheap-pcs-being-priced-out-of-existence-as-memory-cost-bites/5265010",
-    "summary": "AI server gold rush leaves budget laptops starving for chips as sub-$500 machines down nearly a fifth stateside",
-    "isoDate": "2026-07-01T12:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093179&width=800",
-    "pinned": false
-  },
-  {
-    "id": "00d2bcf35f1aab3a9e16135a5f6ad6d1b8148389",
-    "title": "Citrix says it's back as a mainstream server virtualization player that won't send scary bills",
-    "link": "https://www.theregister.com/virtualization/2026/07/01/citrix-says-its-back-as-a-mainstream-server-virtualization-player-that-wont-send-scary-bills/5264838",
-    "summary": "But also claims XenServer 9 is great in the DaaS niche it retreated to a decade back",
-    "isoDate": "2026-07-01T12:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "virtualization"
-    ],
-    "image": "https://image.theregister.com/?imageId=183829&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3bcd89724bd6a931150ed96020b67f5f81e4f014",
-    "title": "Brit competition cops fast-track £2B borging of Netomnia into Openreach challenger",
-    "link": "https://www.theregister.com/networks/2026/07/01/brit-competition-cops-fast-track-2b-borging-of-netomnia-into-openreach-challenger/5264986",
-    "summary": "Liberty Global, Telefónica, and InfraVia have grand designs on the UK fiber market",
-    "isoDate": "2026-07-01T11:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5263102&width=800",
-    "pinned": false
-  },
-  {
     "id": "d5fa16eace59a9962521f99854c2e42d626974fe",
     "title": "Noguchi’s New York animations",
     "link": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
@@ -1565,21 +1565,6 @@
     "category": "Long Reads",
     "author": "Yadvinder Malhi",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7dc9c94a5c846f5dc16b4545de6df07debde22a9",
-    "title": "The importance of teaching creativity and innovation in African Schools",
-    "link": "https://www.skeptic.org.uk/2026/06/the-importance-of-teaching-creativity-and-innovation-in-african-schools/",
-    "summary": "<p>How can students be expected to innovate and create in their future jobs if they are not taught at school how to think creatively?</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/06/the-importance-of-teaching-creativity-and-innovation-in-african-schools/\">The importance of teaching creativity and innovation in African Schools</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-06-29T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Michael Marshall",
-    "tags": [
-      "Society"
-    ],
     "image": "",
     "pinned": false
   }
