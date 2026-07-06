@@ -1,5 +1,123 @@
 [
   {
+    "id": "db5c2245d7c4fd175990f812ea94bcbed8810e69",
+    "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+    "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
+    "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
+    "isoDate": "2026-07-06T20:52:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "aerial surveillance",
+      "drones",
+      "military drones",
+      "russia",
+      "Russian shadow fleet"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238288864-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7065550d35d74027b42a10874387e5e51be09df2",
+    "title": "Tesla Robotaxi App Now Tells You If Your Ride Has a Safety Driver",
+    "link": "https://www.notateslaapp.com/news/4403/tesla-robotaxi-app-now-tells-you-if-your-ride-is-supervised",
+    "summary": "The Robotaxi app just added a smart quality-of-life feature that gives users clear expectations as soon as a trip is locked in&hellip; <a href=\"https://www.notateslaapp.com/news/4403/tesla-robotaxi-app-now-tells-you-if-your-ride-is-supervised\">Read More</a>",
+    "isoDate": "2026-07-06T20:25:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-app-2.webp/4c1f7b483b2c22442e11944aeac0abf0/robotaxi-app-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0692775bf628ea05dbfa62ad10f420de6fbed203",
+    "title": "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
+    "link": "https://www.theregister.com/science/2026/07/06/boffins-bet-on-quantum-computers-ai-supers-to-solve-fusion-fuel-dilemma/5267199",
+    "summary": "Department of Energy, Cleveland Clinic, and IBM simulate a soup of molten salts and techno babble in pursuit of tritium",
+    "isoDate": "2026-07-06T20:20:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=226586&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1cb1cec5b2f1ce66178c8bd953d19e7c09aa3db8",
+    "title": "What is the oldest American object ever launched into space?",
+    "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+    "summary": "From a Revolutionary War flag to the Statue of Liberty...",
+    "isoDate": "2026-07-06T19:57:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Robert Pearlman",
+    "tags": [
+      "Space",
+      "250 years",
+      "America",
+      "America 250",
+      "Americana",
+      "Declaration of Independence",
+      "golden spike",
+      "Manual of Parliamentary Practice",
+      "oldest",
+      "Revolutionary war",
+      "semiquincentennial",
+      "space artifact",
+      "Space exploration",
+      "space history",
+      "space memorabilia",
+      "Star-Spangled Banner",
+      "Statue of Liberty",
+      "STS-31",
+      "STS-38",
+      "STS-71",
+      "STS-95",
+      "Terry Virts",
+      "Thomas Jefferson",
+      "U.S.",
+      "united states",
+      "USS Constitution"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4aa2d6b0f20114f64211c7356e3ad001a1d28478",
+    "title": "Software engineers can still rake in big bucks by working for fast-growing companies",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/06/software-engineers-can-still-rake-in-big-bucks-by-working-for-fast-growing-companies/5267213",
+    "summary": "AI's impact on tech business is complicated",
+    "isoDate": "2026-07-06T19:57:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=4093988&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0f96d1ccf324a851f9edbf79d91e03bdb83a74d7",
+    "title": "Madlad builds homebrew GPU using 8,192 RISC-V chips",
+    "link": "https://www.theregister.com/systems/2026/07/06/madlad-builds-homebrew-gpu-using-8192-risc-v-chips/5267175",
+    "summary": "The next version will have 32,000 MCUs",
+    "isoDate": "2026-07-06T19:39:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5267263&width=800",
+    "pinned": false
+  },
+  {
     "id": "24d8f7ec71886b1d8de05ec612f43b82261e9a9e",
     "title": "GitHub cuts short offer to burn repos on CD after mockery ensues",
     "link": "https://www.theregister.com/devops/2026/07/06/github-cuts-short-offer-to-burn-repos-on-cd-after-mockery-ensues/5267113",
@@ -16,7 +134,7 @@
   },
   {
     "id": "37bc6c027d859579c0a6d7406aabf57830944e96",
-    "title": "Tesla App Now Shows Whether FSD is Being Actively Used",
+    "title": "Tesla App Now Shows When FSD is Active In New Update",
     "link": "https://www.notateslaapp.com/news/4402/tesla-app-now-shows-live-animation-when-using-fsd",
     "summary": "The official Tesla mobile app is getting a fun visual upgrade that finally lets you tell if your car is driving itself from afar&hellip; <a href=\"https://www.notateslaapp.com/news/4402/tesla-app-now-shows-live-animation-when-using-fsd\">Read More</a>",
     "isoDate": "2026-07-06T18:11:00Z",
@@ -24,7 +142,7 @@
     "category": "Tech",
     "author": "",
     "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-self-driving-animation.webp/bcf2ef85580a80c552397e0507d39c17/tesla-app-self-driving-animation.jpg",
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-fsd.webp/34cfb53ed6a38db8f19d02bf6dafa8c2/tesla-app-fsd.jpg",
     "pinned": false
   },
   {
@@ -53,9 +171,9 @@
     "pinned": false
   },
   {
-    "id": "52234663d5b6776e998abf778e6ef94959808b15",
+    "id": "a6b1245578b47ee39be4a7fab64234a3b991b994",
     "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-    "link": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+    "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
     "summary": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
     "isoDate": "2026-07-06T17:14:09Z",
     "source": "Ars Technica",
@@ -895,28 +1013,6 @@
     "pinned": false
   },
   {
-    "id": "87733914748ae6341f11f41317fe062f74cb4b8d",
-    "title": "Wing Commander IV and the FMV future that never quite was",
-    "link": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
-    "summary": "C:\\ArsGames takes a look at the time Chris Roberts more or less made a whole movie.",
-    "isoDate": "2026-07-03T11:03:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Lee Hutchinson",
-    "tags": [
-      "Gaming",
-      "C:\\ArsGames",
-      "Chris Roberts",
-      "PC gaming",
-      "space sim",
-      "Wing Commander",
-      "Wing Commander 4",
-      "Wing Commander IV"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/wing4_title-500x361.jpg",
-    "pinned": false
-  },
-  {
     "id": "5a4006648c2095343f3da636d4266cf165b2ce74",
     "title": "AI bills are baffling the C-suite after shift to usage-based pricing",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
@@ -1079,25 +1175,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5231074&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d717fcf2d2e529ca2a92492bdfb656caae827a32",
-    "title": "Newly discovered PamStealer isn't your typical macOS malware",
-    "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-    "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
-    "isoDate": "2026-07-02T19:38:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Apple",
-      "Biz & IT",
-      "Security",
-      "infostealers",
-      "MacOS Malware"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-500x500.jpg",
     "pinned": false
   },
   {
@@ -1356,51 +1433,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5265252&width=800",
-    "pinned": false
-  },
-  {
-    "id": "42479900d3ae02765e76c6d968d96235b797c4dc",
-    "title": "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
-    "link": "https://www.theregister.com/legal/2026/07/02/trouble-keeps-finding-supermicro-as-strange-server-shipments-attract-police-attention-in-taiwan-and-singapore/5265520",
-    "summary": "Alleged illicit GPU movements lead to seizure of $42 million house",
-    "isoDate": "2026-07-02T06:02:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=255322&width=800",
-    "pinned": false
-  },
-  {
-    "id": "302cb2bdacd042af34ac1efb948b07bc56d528eb",
-    "title": "New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490",
-    "summary": "They're 90 percent human in some ways, can provide daily companionship psychological support",
-    "isoDate": "2026-07-02T02:35:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5265514&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3bd0b16cc97e76bdeda8c07c7a7987c7a1084be9",
-    "title": "Oracle outlines all the ways it could lose the farm it bet on AI",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438",
-    "summary": "Risk factors galore",
-    "isoDate": "2026-07-01T22:23:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5247310&width=800",
     "pinned": false
   },
   {
