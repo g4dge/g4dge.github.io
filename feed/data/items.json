@@ -1,5 +1,181 @@
 [
   {
+    "id": "90bfbb11bbde2e7a0f094b6faad4c00dd8653af5",
+    "title": "Ocean rift zone saw spreading happen in a sudden burst",
+    "link": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
+    "summary": "The crust expands at mid-ocean rifts. But how?",
+    "isoDate": "2026-07-08T15:09:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "Earth science",
+      "geology",
+      "mid ocean ridges",
+      "plate tectonics",
+      "rifting"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1316974926-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "158521b76835fba1904fb5a0d44fc47fec9b0516",
+    "title": "Bug in top AI coding agents shows that Unix-era security headaches never really die",
+    "link": "https://www.theregister.com/security/2026/07/08/bug-in-top-ai-coding-agents-shows-that-unix-era-security-headaches-never-really-die/5268025",
+    "summary": "'GhostApproval' problem highlights human-in-the-loop fails",
+    "isoDate": "2026-07-08T14:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5263225&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2942ff81fcf409f843ead18690a73a2507e60f64",
+    "title": "China tells devs to ditch Claude Code over 'backdoor code' fears",
+    "link": "https://www.theregister.com/security/2026/07/08/china-ditch-older-claude-versions-with-backdoor-code/5268371",
+    "summary": "National vulnerability database claims monitoring mechanism can forward Chinese users' data to remote servers",
+    "isoDate": "2026-07-08T13:58:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5254628&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6013918c646f6f2111416730f209a23e8ab7b8ba",
+    "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+    "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+    "summary": "Miners backed by Trump admin. sell to Japan, South Korea despite push to develop domestic supply chain.",
+    "isoDate": "2026-07-08T13:26:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Camilla Hodgson in London",
+    "tags": [
+      "Biz & IT",
+      "Science",
+      "Energy Fuels",
+      "MP Materials",
+      "Phoenix Tailings",
+      "rare earths"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270755803-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ccefb1f281630854afa5eb3a007d7c32227d9209",
+    "title": "Slate, the Modular, Customizable EV Starts at $25K",
+    "link": "https://www.notateslaapp.com/news/4351/slate-the-modular-customizable-ev-starts-at-25k",
+    "summary": "Slate debuts a modular $24,950 EV that challenges Tesla by swapping built-in tech for an extreme 'Bring Your Own Device' accessory ecosystem.&hellip; <a href=\"https://www.notateslaapp.com/news/4351/slate-the-modular-customizable-ev-starts-at-25k\">Read More</a>",
+    "isoDate": "2026-07-08T13:10:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/slate-designs.webp/eeffa3c62d587d0f827c4f6a8a77893e/slate-designs.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6c00f6965924fa0747c15fb69dec4f04a00429ab",
+    "title": "Ex-NASA boss points out small flaw in Moon landing plan: No lander",
+    "link": "https://www.theregister.com/science/2026/07/08/ex-nasa-boss-points-out-small-flaw-in-moon-landing-plan-no-lander/5268341",
+    "summary": "Jim Bridenstine says Artemis 'extraordinarily complicated' compared to the days of Apollo and the Saturn V",
+    "isoDate": "2026-07-08T12:50:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=5228580&width=800",
+    "pinned": false
+  },
+  {
+    "id": "af3dc1c4c3031aab62085a7ad73cad807ef79417",
+    "title": "Blue Origin, for the first time, is expected to raise private capital",
+    "link": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
+    "summary": "The company is raising $10 billion, leading to a valuation of $130 billion.",
+    "isoDate": "2026-07-08T12:47:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "blue origin",
+      "Jeff Bezos",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-520716332-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1f3e6f2733d03bb8d1f30010cd3805f33d0529cf",
+    "title": "Unexpected Windows bloat is due to bug, not by design",
+    "link": "https://www.theregister.com/storage/2026/07/08/unexpected-windows-bloat-is-due-to-bug-not-by-design/5268215",
+    "summary": "Mystery of the disappearing storage solved (for some)",
+    "isoDate": "2026-07-08T12:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=235426&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ebadeae23b28f22e172be188ffaf5092fb593f8e",
+    "title": "Telstra outage: Failed emergency services calls, train chaos, payment systems down",
+    "link": "https://www.theregister.com/networks/2026/07/08/telstra-outage-downs-000-calls-trains-payment-systems/5268265",
+    "summary": "Telco says issues all sorted, but transport networks expected to be disrupted well into Thursday",
+    "isoDate": "2026-07-08T11:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5268295&width=800",
+    "pinned": false
+  },
+  {
+    "id": "079536a7cd3943f65ea57ae397f7216ef7e6f18c",
+    "title": "Tech divorce from Walmart cost Brit retail giant Asda £1.22B",
+    "link": "https://www.theregister.com/paas-and-iaas/2026/07/08/tech-divorce-from-walmart-cost-brit-retail-giant-asda-122b/5268298",
+    "summary": "Project which included new SAP system saw delays and costs rise from an £800m estimate while causing financial disruptions",
+    "isoDate": "2026-07-08T11:31:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "paas and iaas"
+    ],
+    "image": "https://image.theregister.com/?imageId=223376&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d6939ca4f0f307c1a0babc8310ef3352808c1174",
+    "title": "Clingy Virgin Media fined £28M for refusing to take the hint",
+    "link": "https://www.theregister.com/networks/2026/07/08/clingy-virgin-media-fined-28m-for-refusing-to-take-the-hint/5268203",
+    "summary": "Ofcom: Telco encouraged staff to drop calls and put customers on hold for no reason when they wanted to cancel",
+    "isoDate": "2026-07-08T10:51:36Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=242867&width=800",
+    "pinned": false
+  },
+  {
     "id": "0f1f94b2695964e7afb3c91a32554b1f4e89c3b0",
     "title": "Another German state heads down the open source sovereignty road",
     "link": "https://www.theregister.com/software/2026/07/08/another-german-state-heads-down-the-open-source-sovereignty-road/5268192",
@@ -86,6 +262,7 @@
     "tags": [
       "AI",
       "Biz & IT",
+      "Features",
       "Security",
       "hallucinations",
       "LLMs",
@@ -664,9 +841,9 @@
     "pinned": false
   },
   {
-    "id": "6a1d665accaa2b44ee33b901dbe3ac4e36e16c43",
+    "id": "6f75ad04ecca7c9a036c7d8d574ec0e3d57f7c15",
     "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-    "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+    "link": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
     "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
     "isoDate": "2026-07-07T11:00:18Z",
     "source": "Ars Technica",
@@ -915,46 +1092,6 @@
     "pinned": false
   },
   {
-    "id": "1cb1cec5b2f1ce66178c8bd953d19e7c09aa3db8",
-    "title": "What is the oldest American object ever launched into space?",
-    "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
-    "summary": "From a Revolutionary War flag to the Statue of Liberty...",
-    "isoDate": "2026-07-06T19:57:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Robert Pearlman",
-    "tags": [
-      "Space",
-      "250 years",
-      "America",
-      "America 250",
-      "Americana",
-      "Declaration of Independence",
-      "golden spike",
-      "Manual of Parliamentary Practice",
-      "oldest",
-      "Revolutionary war",
-      "semiquincentennial",
-      "space artifact",
-      "Space exploration",
-      "space history",
-      "space memorabilia",
-      "Star-Spangled Banner",
-      "Statue of Liberty",
-      "STS-31",
-      "STS-38",
-      "STS-71",
-      "STS-95",
-      "Terry Virts",
-      "Thomas Jefferson",
-      "U.S.",
-      "united states",
-      "USS Constitution"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4aa2d6b0f20114f64211c7356e3ad001a1d28478",
     "title": "Software engineers can still rake in big bucks by working for fast-growing companies",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/06/software-engineers-can-still-rake-in-big-bucks-by-working-for-fast-growing-companies/5267213",
@@ -1010,56 +1147,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-fsd.webp/34cfb53ed6a38db8f19d02bf6dafa8c2/tesla-app-fsd.jpg",
-    "pinned": false
-  },
-  {
-    "id": "64c4fcba181ec65bf0fada765beaba1d1def7803",
-    "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
-    "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
-    "summary": "Its issues with current nuclear safety standards are termed semantic, not physical.",
-    "isoDate": "2026-07-06T17:48:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Policy",
-      "Science",
-      "ALARA",
-      "DNA damage",
-      "DNA repair",
-      "Exposure",
-      "Health",
-      "LNT",
-      "nrc",
-      "nuclear power",
-      "radiation"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283985401-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a6b1245578b47ee39be4a7fab64234a3b991b994",
-    "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-    "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
-    "summary": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
-    "isoDate": "2026-07-06T17:14:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "air launch",
-      "Commercial space",
-      "katalyst space",
-      "kwajalein atoll",
-      "launch",
-      "NASA",
-      "Northrop Grumman",
-      "pegasus rocket",
-      "Swift"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pegasus-Image-2-resized-500x500.jpg",
     "pinned": false
   },
   {
@@ -1222,21 +1309,6 @@
     "pinned": false
   },
   {
-    "id": "5bdfb5039c57efec75ff0d4e5abf9b6e08fd26c7",
-    "title": "Secure Unix ancestor KSOS did type safety before Rust made it cool",
-    "link": "https://www.theregister.com/os-platforms/2026/07/06/secure-unix-ancestor-ksos-did-type-safety-before-rust-made-it-cool/5266458",
-    "summary": "Modula-based source code resurfaces after nearly four decades",
-    "isoDate": "2026-07-06T09:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5266540&width=800",
-    "pinned": false
-  },
-  {
     "id": "20ee9a6424405a9ade091b3d1d564cb67ec7677d",
     "title": "Adult movies were not the reason Betamax really lost the video wars",
     "link": "https://www.skeptic.org.uk/2026/07/adult-movies-were-not-the-reason-betamax-really-lost-the-video-wars/",
@@ -1252,81 +1324,6 @@
     "pinned": false
   },
   {
-    "id": "2d859986e3743445bbc6d9d72fd434a540d36485",
-    "title": "Insert token to continue, says AI. Yeah, about that...",
-    "link": "https://www.theregister.com/columnists/2026/07/06/insert-token-to-continue-says-ai-yeah-about-that/5266319",
-    "summary": "Barney Rubble points to bubble trouble",
-    "isoDate": "2026-07-06T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=5258205&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ca91ca23d494b72cece532374edaa97aa4afbc56",
-    "title": "Apprentice developer defied orders – then got a job supporting her weird code",
-    "link": "https://www.theregister.com/software/2026/07/06/apprentice-developer-defied-orders-then-got-a-job-supporting-her-weird-code/5266330",
-    "summary": "Who wrote this rubbish? Oh ...",
-    "isoDate": "2026-07-06T07:36:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5266369&width=800",
-    "pinned": false
-  },
-  {
-    "id": "66a7f1289e4eddda71bf4f8ace442190bd593494",
-    "title": "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
-    "link": "https://www.theregister.com/science/2026/07/06/japans-asteroid-sample-retriever-rapidly-buzzes-remote-space-rock/5266795",
-    "summary": "Zipped just 800m past Asteroid Torifune as part of very extended mission - and sent back a pic, too",
-    "isoDate": "2026-07-06T06:31:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5267411&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1ba05cc319f609a98080f19fd07c54b54bb3b302",
-    "title": "Zombie ‘who owns Unix?’ lawsuit comes alive again",
-    "link": "https://www.theregister.com/os-platforms/2026/07/06/zombie-who-owns-unix-lawsuit-comes-alive-again/5266761",
-    "summary": "SCO's legal successor Xinuos asks legal brains to let it bite IBM over ancient license and copyright claims",
-    "isoDate": "2026-07-06T05:29:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=231852&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5cc0739882fbf9630f6196202fb709511c627bac",
-    "title": "EY sacks staff for allegedly accessing Australian Prime Minister’s bank account",
-    "link": "https://www.theregister.com/legal/2026/07/06/ey-sacks-staff-for-allegedly-accessing-australian-prime-ministers-bank-account/5266687",
-    "summary": "PLUS: India attacks Uber; South Korea warned AI boom is dangerous; Scuba-diving cyborg cockroach; and more!",
-    "isoDate": "2026-07-06T01:29:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=5266699&width=800",
-    "pinned": false
-  },
-  {
     "id": "3be2ead6dcd227ccac20a467f6a2b62397ccc474",
     "title": "RJ Scaringe Doesn't Want Tesla to Acquire Rivian",
     "link": "https://www.notateslaapp.com/news/4398/rj-scaringe-doesnt-want-tesla-to-acquire-rivian",
@@ -1337,21 +1334,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/rivian/r1t-charging-at-tesla-supercharger.webp/e0e7fda546578aefb23e0a6b37fe1dbd/r1t-charging-at-tesla-supercharger.jpg",
-    "pinned": false
-  },
-  {
-    "id": "49c8c525d1867c1793ea39064fdc4c8d52de29e3",
-    "title": "MFA-optional banks leave safe doors (and accounts) wide open for thieves to pillage",
-    "link": "https://www.theregister.com/security/2026/07/05/mfa-optional-banks-leave-safe-doors-and-accounts-wide-open-for-thieves-to-pillage/5266161",
-    "summary": "Financial institutions are putting their clients at risk in the name of convenience.",
-    "isoDate": "2026-07-05T15:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=224126&width=800",
     "pinned": false
   },
   {
@@ -1591,19 +1573,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/energy/powerwall-with-tesla-wall-connector-and-model-y.webp/5380e9f68f386adc57776c879b212d08/powerwall-with-tesla-wall-connector-and-model-y.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a26fd7a5101f6c2f1a589243b211e7d2e50cfd78",
-    "title": "New Tesla Cybercab Details: Batteries, External Mics, Tow Straps, and More",
-    "link": "https://www.notateslaapp.com/news/4377/tesla-cybercab-new-details-from-teslas-safety-guide",
-    "summary": "Tesla's new Cybercab guide for first responders details exactly how the robotaxi behaves, how to disable it, and reveals several unannounced hardware features&hellip; <a href=\"https://www.notateslaapp.com/news/4377/tesla-cybercab-new-details-from-teslas-safety-guide\">Read More</a>",
-    "isoDate": "2026-07-01T14:30:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-robotaxi-first-responder-plan-6.png/4fc747cb3ca8e78eba8fb972c4392431/cybercab-robotaxi-first-responder-plan-6.jpg",
     "pinned": false
   }
 ]
