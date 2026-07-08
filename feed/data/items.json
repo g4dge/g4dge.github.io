@@ -1,5 +1,124 @@
 [
   {
+    "id": "1f1e30c80ae6782856e9687b2af3dc84313f78c1",
+    "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+    "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+    "summary": "US military drone losses in Iran war spur Pentagon call for cheap replacements.",
+    "isoDate": "2026-07-08T17:44:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "donald trump iran war",
+      "drones",
+      "Iran",
+      "lethal drones",
+      "military drones",
+      "MQ-9A Reaper",
+      "Strait of Hormuz",
+      "Ukraine war",
+      "US Military",
+      "USA-Iran War"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Reaper-drone-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "14c393b71b777e6d61d3e6e0dd2b544391829d7b",
+    "title": "Miami-based City Labs achieves a first for commercial nuclear power in space",
+    "link": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
+    "summary": "\"The BOHR mission serves as a pathfinder for future nuclear-powered spacecraft.\"",
+    "isoDate": "2026-07-08T17:26:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "city labs",
+      "Commercial space",
+      "cubesat",
+      "falcon 9",
+      "launch",
+      "nuclear power",
+      "rideshare",
+      "spacex",
+      "Transporter",
+      "Vandenberg space force base"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/BOHR_Assembly_Finished-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "eea9ce3a159d10cf0cd0cdb8eb88b4489e6c3fc6",
+    "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+    "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+    "summary": "Android Bench is evolving, and developers can help guide that process.",
+    "isoDate": "2026-07-08T16:39:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "AI benchmarks",
+      "android",
+      "Artificial Intelligence",
+      "developers",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "769909920c56db599a7a36658c77e71da07fe92f",
+    "title": "Tool promises to make lazy academics' AI-written papers sound more human",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/08/tool-promises-to-make-lazy-academics-ai-written-papers-sound-more-human/5268460",
+    "summary": "Startup insists it's not trying to help anyone cheat the system - honest!",
+    "isoDate": "2026-07-08T15:55:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=237883&width=800",
+    "pinned": false
+  },
+  {
+    "id": "09d76227db133671ff85ab44591159dea948cc11",
+    "title": "Two teens learn the hard way not to do toy gun drive-bys from a Waymo",
+    "link": "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
+    "summary": "The robotaxi stopped, called 911, and waited for the San Mateo Police to show up.",
+    "isoDate": "2026-07-08T15:40:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "robotaxi",
+      "waymo"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/waymo-orbeez-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "df612882231e418ba389e85f1a5bc4cc4d96373b",
+    "title": "Police intercept tipsy teens after Waymo snitches for shooting Orbeez out of the car",
+    "link": "https://www.theregister.com/offbeat/2026/07/08/police-intercept-teens-after-waymo-snitches-for-bad-behavior/5268426",
+    "summary": "Armed response and canine support called in for troublemaking duo ratted out by driverless car’s array of cameras",
+    "isoDate": "2026-07-08T15:24:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5268590&width=800",
+    "pinned": false
+  },
+  {
     "id": "90bfbb11bbde2e7a0f094b6faad4c00dd8653af5",
     "title": "Ocean rift zone saw spreading happen in a sudden burst",
     "link": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
@@ -820,52 +939,6 @@
     "pinned": false
   },
   {
-    "id": "a0e3722507eb8931baacb6d71a869d182639b2cc",
-    "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
-    "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
-    "summary": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
-    "isoDate": "2026-07-07T11:15:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "Amazon",
-      "amazon leo",
-      "atlas v",
-      "launch",
-      "megaconstellation",
-      "united launch alliance"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/55370181785_141924edbe_4k-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6f75ad04ecca7c9a036c7d8d574ec0e3d57f7c15",
-    "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-    "link": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-    "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
-    "isoDate": "2026-07-07T11:00:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Features",
-      "Agility Robotics",
-      "boston dynamics",
-      "domestic robots",
-      "Industrial robots",
-      "physical AI",
-      "Physical Intelligence",
-      "Robotics",
-      "robots",
-      "surgical robots"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "14a7f6c6d579c9573cba468e939c155300015a91",
     "title": "Spain collars alleged pro-Russia hacktivist after FBI tip-off",
     "link": "https://www.theregister.com/security/2026/07/07/alleged-pro-russia-hacktivist-arrested-in-palencia/5267569",
@@ -1024,43 +1097,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2022/4680-cells.jpg/8687275a48f8fc6d12d18e59882d0310/4680-cells.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b735185f486ce12e5887d012a9a854a5739c7e5a",
-    "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-    "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
-    "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
-    "isoDate": "2026-07-06T21:13:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "FCC",
-      "ISPs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/online-bill-500x500-1783369484.jpg",
-    "pinned": false
-  },
-  {
-    "id": "db5c2245d7c4fd175990f812ea94bcbed8810e69",
-    "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
-    "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
-    "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
-    "isoDate": "2026-07-06T20:52:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "aerial surveillance",
-      "drones",
-      "military drones",
-      "russia",
-      "Russian shadow fleet"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238288864-500x500.jpg",
     "pinned": false
   },
   {
@@ -1250,36 +1286,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5220460&width=800",
-    "pinned": false
-  },
-  {
-    "id": "caa4a9c065bd03939241b7f3ecaf4e72625d1e6e",
-    "title": "Brit supermarket giant triples down on facial recog to nab shoplifters",
-    "link": "https://www.theregister.com/security/2026/07/06/brit-supermarket-giant-triples-down-on-facial-recog-to-nab-shoplifters/5266935",
-    "summary": "Up to 150 more stores to get the 'Orwellian' tech by year's end",
-    "isoDate": "2026-07-06T12:35:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=233973&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1a89da6aee82f91b5e5e9797819034f9157ea468",
-    "title": "Moody Bible Institute breach leaves 2.3M accounts needing salvation, says cyber expert",
-    "link": "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827",
-    "summary": "ShinyHunters leaks names, addresses, DOBs, and more after Christian college discloses cyberattack",
-    "isoDate": "2026-07-06T10:47:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5266854&width=800",
     "pinned": false
   },
   {
@@ -1560,19 +1566,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/terafab.webp/9d297f8ceded8203fff8a760ee20244b/terafab.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a3c7a45ddd525a8a24deadd2d92199386324c4e7",
-    "title": "Tesla Hit By Wave of Battery Thefts at Gigafactory Nevada",
-    "link": "https://www.notateslaapp.com/news/4378/tesla-hit-by-wave-of-battery-thefts-at-giga-nevada",
-    "summary": "Tesla has been hit by a string of thefts at Gigafactory Nevada, where scammers have been driving off with trailers filled with millions of dollars in product&hellip; <a href=\"https://www.notateslaapp.com/news/4378/tesla-hit-by-wave-of-battery-thefts-at-giga-nevada\">Read More</a>",
-    "isoDate": "2026-07-01T15:30:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/energy/powerwall-with-tesla-wall-connector-and-model-y.webp/5380e9f68f386adc57776c879b212d08/powerwall-with-tesla-wall-connector-and-model-y.jpg",
     "pinned": false
   }
 ]
