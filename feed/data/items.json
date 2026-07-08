@@ -1,5 +1,95 @@
 [
   {
+    "id": "d2880d8e014978856985f4be929c1881bb8f20f6",
+    "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
+    "link": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
+    "summary": "Kalshi tried to ignore gambling laws on its prediction market, NY governor says.",
+    "isoDate": "2026-07-08T19:14:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Kalshi",
+      "new york",
+      "prediction markets"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg",
+    "pinned": false
+  },
+  {
+    "id": "38c224337d568a9bde0fcede66fc3c50ded22ad5",
+    "title": "Google pays $250k for Linux vulnerability allowing guest VM escapes",
+    "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+    "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+    "isoDate": "2026-07-08T19:01:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "exploits",
+      "Linux",
+      "local privilege escalation",
+      "vulnerabilities"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f620d9cafa957b15355d00e0b4546e96b6b6fafa",
+    "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+    "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+    "summary": "But the devices could \"easily be reflashed.\"",
+    "isoDate": "2026-07-08T18:10:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Biz & IT",
+      "Policy",
+      "Tech",
+      "australia",
+      "Cisco",
+      "e-waste",
+      "samknows"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238063763-500x500-1783530187.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7a94bc6559410fba62b9a9887ca2622b3142575b",
+    "title": "TikTok users don't have as much agency over their FYPs as they think",
+    "link": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
+    "summary": "The \"not interested\" feature is your friend, but users must intentionally and constantly curate their FYPs",
+    "isoDate": "2026-07-08T18:00:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "Tech",
+      "social media",
+      "social psychology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-tiktok-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0fafd1ba87b6157357aecf9118fb482d16ebf8fe",
+    "title": "SpaceX Unveils New xAI Logo",
+    "link": "https://www.notateslaapp.com/news/4410/spacex-unveils-new-xai-logo",
+    "summary": "xAI has finished its rebranding into SpaceXAI, unveiling a brand new logo that blends the visual identities of both xAI and SpaceX into a single design&hellip; <a href=\"https://www.notateslaapp.com/news/4410/spacex-unveils-new-xai-logo\">Read More</a>",
+    "isoDate": "2026-07-08T17:57:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-xai-logo.webp/f11d044bd94ac7cae5d1da238d5a9f26/spacex-xai-logo.jpg",
+    "pinned": false
+  },
+  {
     "id": "1f1e30c80ae6782856e9687b2af3dc84313f78c1",
     "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
     "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
@@ -22,6 +112,21 @@
       "USA-Iran War"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Reaper-drone-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5cf02c10a7ee957c6fdb25402d1851771e3a2cab",
+    "title": "Allstate Insurance quits Broadcom, alleges vengeful license audit on the way out",
+    "link": "https://www.theregister.com/virtualization/2026/07/08/allstate-insurance-quits-broadcom-alleges-vengeful-license-audit-on-the-way-out/5268155",
+    "summary": "CA and VMware both suing insurance giant",
+    "isoDate": "2026-07-08T17:28:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=222511&width=800",
     "pinned": false
   },
   {
@@ -69,6 +174,21 @@
       "google"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c2aa86ef4aa340edb7b559eb84699b51e07d8199",
+    "title": "AI memory crunch takes a bite out of PC shipments",
+    "link": "https://www.theregister.com/personal-tech/2026/07/08/ai-memory-crunch-takes-a-bite-out-of-pc-shipments/5268593",
+    "summary": "IDC warns smaller players may struggle as DRAM drought drags on",
+    "isoDate": "2026-07-08T15:57:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5259665&width=800",
     "pinned": false
   },
   {
@@ -172,7 +292,7 @@
     "id": "6013918c646f6f2111416730f209a23e8ab7b8ba",
     "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
     "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-    "summary": "Miners backed by Trump admin. sell to Japan, South Korea despite push to develop domestic supply chain.",
+    "summary": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
     "isoDate": "2026-07-08T13:26:10Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -193,7 +313,7 @@
     "title": "Slate, the Modular, Customizable EV Starts at $25K",
     "link": "https://www.notateslaapp.com/news/4351/slate-the-modular-customizable-ev-starts-at-25k",
     "summary": "Slate debuts a modular $24,950 EV that challenges Tesla by swapping built-in tech for an extreme 'Bring Your Own Device' accessory ecosystem.&hellip; <a href=\"https://www.notateslaapp.com/news/4351/slate-the-modular-customizable-ev-starts-at-25k\">Read More</a>",
-    "isoDate": "2026-07-08T13:10:00Z",
+    "isoDate": "2026-07-08T13:17:00Z",
     "source": "Not a Tesla App",
     "category": "Tech",
     "author": "",
@@ -729,23 +849,6 @@
     "pinned": false
   },
   {
-    "id": "d4b7d7309ed8e96f703788ec1a2b75944719d80d",
-    "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
-    "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
-    "summary": "The T70S can be eligible for racing events or built to be road-legal.",
-    "isoDate": "2026-07-07T16:45:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Lola Cars",
-      "sustainable manufacturing"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/3O0A6846-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d6e4515ec7a17854d156253cbbd3fcf7d71fd1b4",
     "title": "New tool gives CLIs a warm and GUI feeling instead",
     "link": "https://www.theregister.com/software/2026/07/07/new-tool-gives-clis-a-warm-and-gui-feeling-instead/5267798",
@@ -761,29 +864,6 @@
     "pinned": false
   },
   {
-    "id": "664cd99a975ee14d877c09f3efc48ef76589dfe2",
-    "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
-    "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-    "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
-    "isoDate": "2026-07-07T16:14:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "china",
-      "data centers",
-      "deepseek",
-      "Huawei",
-      "inference",
-      "NVIDIA",
-      "openai",
-      "silicon"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "44199613f81234e2510192119da0063366109445",
     "title": "Predatorgate snoopfest victims launch €8M sueball at spyware maker",
     "link": "https://www.theregister.com/security/2026/07/07/predatorgate-victims-launch-8m-sueball-at-spyware-maker/5267766",
@@ -796,25 +876,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=230972&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b795b7a73afd9f119b92b123756ca57dffd063e3",
-    "title": "Dragonflies maneuver like fighter pilots",
-    "link": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
-    "summary": "Male dragonflies' dramatic aerial combat maneuvers emerge from relatively simple vision-based rules.",
-    "isoDate": "2026-07-07T15:54:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "aerodynamics",
-      "animal behavior",
-      "Biology",
-      "dragonflies"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/dragonfly1-500x500.jpg",
     "pinned": false
   },
   {
@@ -873,24 +934,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=5251567&width=800",
-    "pinned": false
-  },
-  {
-    "id": "13ab3d35aa230e442436cba373ff1d6efcad3182",
-    "title": "New virus catalog reveals which pathogens pose the greatest threat",
-    "link": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
-    "summary": "The data can help predict what a future pandemic virus might look like.",
-    "isoDate": "2026-07-07T13:15:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Mark Woolhouse",
-    "tags": [
-      "Health",
-      "ebola",
-      "SARS-CoV-2",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1230363263-500x500.jpg",
     "pinned": false
   },
   {
@@ -1256,36 +1299,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5266724&width=800",
-    "pinned": false
-  },
-  {
-    "id": "58e99ae306cd61d81253e0ce1a3479e69270e817",
-    "title": "Europe's new import rules are coming for your bargains",
-    "link": "https://www.theregister.com/personal-tech/2026/07/06/europes-new-import-rules-are-coming-for-your-bargains/5266899",
-    "summary": "Good news if you're an OEM printer maker, EU retail biz, or a customs official... but hobbyists and others less pleased",
-    "isoDate": "2026-07-06T13:49:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5266957&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a3de1257948076293325e9f8c57297b958bf8a96",
-    "title": "Even banks and hyperscalers are now sounding the alarm about the AI bubble",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123",
-    "summary": "Oracle's down more than 40% this month, the BIS thinks AI could destroy the economy, and we've got the Kettle on for a chat about the whole mess",
-    "isoDate": "2026-07-06T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5220460&width=800",
     "pinned": false
   },
   {
