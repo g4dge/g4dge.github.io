@@ -1,5 +1,99 @@
 [
   {
+    "id": "2404f01efe3a2d8286c9b1c28bb901b56c50980d",
+    "title": "Payloads used to dictate the terms of launch. That's finally changing.",
+    "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
+    "summary": "\"The Starship Pez dispenser demonstrates very smart industrial design and scale.\"",
+    "isoDate": "2026-07-09T11:00:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Features",
+      "Science",
+      "Space",
+      "aerospace corporation",
+      "launch",
+      "muon space",
+      "satellites",
+      "starlink",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlinkv3deploy-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e344eb4feac56317bdbb120126468a5362afcabe",
+    "title": "Africa’s cultural landmarks: rock-hewn churches of Lalibela, Ethiopia",
+    "link": "https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth",
+    "summary": "<p><img alt=\"Photo of a rock-hewn church partially below ground with people on the steps, surrounded by rocky terrain and sparse vegetation.\" src=\"https://images.aeonmedia.co/images/8a62338f-a28c-40ec-a639-9d393e143c46/africa_s-cultural-landmarks-rock-hewn-churches-of-lalibela_-ethiopia-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Most buildings rise from the bottom up, stone by stone. Not so these churches: carved from a single rock, top-to-bottom</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth\">Watch on Aeon</a></p>",
+    "isoDate": "2026-07-09T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "54fc3ac6ca24ceeebecfa78bd3f3c2811eed36a2",
+    "title": "How to offset your brain",
+    "link": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
+    "summary": "<p><img alt=\"A modern office reception with hanging lights, a person at a desk and reflections in the glass.\" src=\"https://images.aeonmedia.co/images/f0936c52-9ccb-4465-b858-d4c2013ba869/essay-gettyimages-1227857130.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>From confirmation bias to loss aversion, everyone suffers from cognitive biases. Skilfully targeted mindfulness can help</p><p><em>- by Stephanie Dorais</em></p><p><a href=\"https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases\">Read on Aeon</a></p>",
+    "isoDate": "2026-07-09T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Stephanie Dorais",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f6454d22b802fe50c079b5812018fa03ec3007fb",
+    "title": "Ubuntu emphasizes Arm64 support – and gets Rustier",
+    "link": "https://www.theregister.com/os-platforms/2026/07/09/ubuntu-emphasizes-arm64-support-and-gets-rustier/5268563",
+    "summary": "Even so, it has some issues with the Rust coreutils",
+    "isoDate": "2026-07-09T09:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5268623&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c8d917d419bfb5f455d25b9f5459f8e75ea1d681",
+    "title": "Windows 95 detected installers by looking for magic words and hoping for the best",
+    "link": "https://www.theregister.com/personal-tech/2026/07/09/windows-95-detected-installers-by-looking-for-magic-words-and-hoping-for-the-best/5268510",
+    "summary": "If your name's not on the list, you're... probably not a setup program",
+    "isoDate": "2026-07-09T09:12:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5243566&width=800",
+    "pinned": false
+  },
+  {
+    "id": "705910a964bc167446a28fe8e4c3aea882d7ed85",
+    "title": "Scientist models way to make sure no one's violating the ban on nuclear weapons in space",
+    "link": "https://www.theregister.com/science/2026/07/09/scientist-models-way-to-make-sure-no-ones-violating-the-ban-on-nuclear-weapons-in-space/5268412",
+    "summary": "There is a long-standing international treaty in place but we can't be the only ones side-eyeing world's current crop of politicos",
+    "isoDate": "2026-07-09T08:25:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=5263007&width=800",
+    "pinned": false
+  },
+  {
     "id": "df8a7ba830b8eeea79acbdaeadf240e33639e02f",
     "title": "Thief posed as Wi-Fi fixing hero, then stole priceless trophy",
     "link": "https://www.theregister.com/security/2026/07/09/thief-posed-as-wi-fi-fixing-hero-then-stole-priceless-trophy/5268750",
@@ -969,27 +1063,6 @@
     "pinned": false
   },
   {
-    "id": "be7d7dfc5cbba7fe9cd22f253656f2ce55701780",
-    "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
-    "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
-    "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
-    "isoDate": "2026-07-07T19:08:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "android",
-      "google",
-      "pixel 11",
-      "pixel watch 5",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pixel-11-event-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "26dbc46fcad825e656d584ecf6b5c58ecbd16684",
     "title": "Tesla Robotaxi Service Starts Testing in New Orleans",
     "link": "https://www.notateslaapp.com/news/4408/tesla-robotaxi-service-starts-testing-in-new-orleans",
@@ -1252,21 +1325,6 @@
     "pinned": false
   },
   {
-    "id": "d85a553aa041e89e9e499c61f07ccc941d39f94e",
-    "title": "Northern Ireland tries (again) to expel Capita from schools IT contract",
-    "link": "https://www.theregister.com/public-sector/2026/07/07/northern-ireland-tries-again-to-expel-capita-from-schools-it-contract/5266887",
-    "summary": "New procurement could be worth £851M after previous Fujitsu award was scrapped",
-    "isoDate": "2026-07-07T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=230531&width=800",
-    "pinned": false
-  },
-  {
     "id": "353578d50c85c09b8aca6344bd85c155a3cbe23c",
     "title": "From the archives: Spirit guides and after-images – seeing is not necessarily believing",
     "link": "https://www.skeptic.org.uk/2026/07/from-the-archives-spirit-guides-and-after-images-seeing-is-not-necessarily-believing/",
@@ -1279,21 +1337,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c53325d9b8e355a79dcdd08711e274bef3ae8999",
-    "title": "UK guts planning red tape so datacenters can bypass the neighbors faster",
-    "link": "https://www.theregister.com/on-prem/2026/07/07/uk-guts-planning-red-tape-so-datacenters-can-bypass-the-neighbors-faster/5266865",
-    "summary": "Overhaul of process could give NIMBYs one year less to complain",
-    "isoDate": "2026-07-07T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=1684059&width=800",
     "pinned": false
   },
   {
@@ -1574,32 +1617,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/cabin-preview.webp/5b38b428e0db56cd1f265d6c37f9f239/cabin-preview.jpg",
-    "pinned": false
-  },
-  {
-    "id": "13ce0e58b647c2768e8fb7bef30bc6b30fb57f3f",
-    "title": "Karl Hess: toward liberty",
-    "link": "https://aeon.co/videos/a-republican-speechwriter-turned-welders-radical-gospel-of-localism",
-    "summary": "<p><img alt=\"Photo of a man with a beard speaking at a podium with a microphone, wearing a blue shirt, gesturing with his hand.\" src=\"https://images.aeonmedia.co/images/427beab1-4d1f-4909-968a-74fe07aca3fe/karl-hess-toward-liberty-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>‘Society, in fact, is neighbourhoods’ – how Karl Hess transformed from a Republican speechwriter into a radical welder</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/a-republican-speechwriter-turned-welders-radical-gospel-of-localism\">Watch on Aeon</a></p>",
-    "isoDate": "2026-07-02T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9412790e8a4c76204d6baa2275e8afc7f058cadf",
-    "title": "The anguish of choice",
-    "link": "https://aeon.co/essays/re-reading-sartres-lecture-existentialism-is-a-humanism",
-    "summary": "<p><img alt=\"Black and white photo of a man wearing glasses, deep in thought, holding a cigarette with smoke curling up.\" src=\"https://images.aeonmedia.co/images/5886d292-08bf-4220-a48e-d45aac96f6f8/v2-essay-sartre-nyc64809.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>In the shattered aftermath of war, Sartre delivered a formidable lecture on freedom and meaning. Its urgency remains</p><p><em>- by Skye C Cleary</em></p><p><a href=\"https://aeon.co/essays/re-reading-sartres-lecture-existentialism-is-a-humanism\">Read on Aeon</a></p>",
-    "isoDate": "2026-07-02T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Skye C Cleary",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
