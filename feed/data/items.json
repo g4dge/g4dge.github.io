@@ -1,5 +1,112 @@
 [
   {
+    "id": "0d610ffec2e30ee9a11a4b49573b31702e100286",
+    "title": "AI tool scours the web for job openings, preps your resume and cover letter",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-tool-scours-the-web-for-job-openings-preps-your-resume-and-cover-letter/5269410",
+    "summary": "Searching for work sucks; AI combs the internet and sucks it all up. Combine the two and let 'er rip with this Python project",
+    "isoDate": "2026-07-09T17:40:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5239850&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e0be9a71a020b04c6bf880ac0966d0d09df1620e",
+    "title": "Exclusive: Tesla Cybercab Includes Dual GPS",
+    "link": "https://www.notateslaapp.com/news/4414/exclusive-tesla-cybercab-includes-dual-gps",
+    "summary": "New details indicate that Tesla has tucked a major hardware upgrade into the upcoming Cybercab to provide pinpoint location mapping for driverless operation&hellip; <a href=\"https://www.notateslaapp.com/news/4414/exclusive-tesla-cybercab-includes-dual-gps\">Read More</a>",
+    "isoDate": "2026-07-09T17:36:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-2.webp/cfc30d1a1b7ea83d9ff89bb896c64bf7/cybercab-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d2e4c93af7161aefc022be68d58df04d4cdb5e20",
+    "title": "OpenMandriva claims disgruntled admin trashed repos after community bust-up",
+    "link": "https://www.theregister.com/software/2026/07/09/openmandriva-claims-disgruntled-admin-trashed-repos-after-community-bust-up/5269421",
+    "summary": "Linux distro accuses former contributor of deleting years of work and pushing a package that could have broken installs",
+    "isoDate": "2026-07-09T17:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5269514&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ffee2bc2a9d93af485d45e1df205a6e1a5c7bc71",
+    "title": "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe",
+    "link": "https://www.theregister.com/software/2026/07/09/sap-makes-it-easier-for-customers-to-shop-for-legacy-product-support-ending-eu-antitrust-probe/5269437",
+    "summary": "Vendor drops reinstatement fees and caps back-maintenance charges ahead of the ECC support cliff",
+    "isoDate": "2026-07-09T16:46:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=256250&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4ce17fe8734686930a4fac11b2d960abb56c5b28",
+    "title": "Outlook for Mac bug makes font choice a purely decorative feature",
+    "link": "https://www.theregister.com/applications/2026/07/09/outlook-for-mac-bug-makes-font-choice-a-purely-decorative-feature/5269242",
+    "summary": "Monospaced code snippets among the reported casualties",
+    "isoDate": "2026-07-09T16:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242949&width=800",
+    "pinned": false
+  },
+  {
+    "id": "944ebef4e7d563e588319898f3e7794c5fb81fbd",
+    "title": "EU 'Chat Control' snoopfest returns after vote to kill it falls short",
+    "link": "https://www.theregister.com/security/2026/07/09/meps-fail-to-prevent-chat-control-snoopfest-revival/5269379",
+    "summary": "Opponents won the count but missed the 360-seat threshold needed to stop the interim CSAM-scanning rule",
+    "isoDate": "2026-07-09T15:51:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=236829&width=800",
+    "pinned": false
+  },
+  {
+    "id": "28e881ae1f794ff5cf0ae3b232fc577466445ace",
+    "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
+    "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
+    "summary": "Oddly, it wasn't the first time this had happened to the man.",
+    "isoDate": "2026-07-09T15:33:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "New England Journal of Medicine",
+      "parasite",
+      "sparganosis",
+      "worm"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Sparganum_UHUHS_A.jpg",
+    "pinned": false
+  },
+  {
     "id": "da73eba102382d9cc459945bf196bdc32937364a",
     "title": "KDE Plasma users face a dire omen of change: 6.6.6 arrives",
     "link": "https://www.theregister.com/os-platforms/2026/07/09/kde-plasma-users-face-a-dire-omen-of-change-666-arrives/5269267",
@@ -26,7 +133,7 @@
     "tags": [
       "paas and iaas"
     ],
-    "image": "https://image.theregister.com/?imageId=223747&width=800",
+    "image": "https://image.theregister.com/?imageId=5269507&width=800",
     "pinned": false
   },
   {
@@ -1138,25 +1245,6 @@
     "pinned": false
   },
   {
-    "id": "84d3e254fd8d955ea81c4dce1f57c22043c81fa8",
-    "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-    "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
-    "summary": "Cases have risen quickly as officials are working to identify a common source.",
-    "isoDate": "2026-07-07T22:29:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "cyclospora",
-      "cyclosporiasis",
-      "Michigan",
-      "outbreak"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "318b3dc00b28f3dd806038ced4431f71d17c64f0",
     "title": "Windows is watching: Anti-piracy tool fingers Scattered Spider suspect",
     "link": "https://www.theregister.com/cyber-crime/2026/07/07/windows-is-watching-anti-piracy-tool-fingers-scattered-spider-suspect/5267953",
@@ -1187,21 +1275,6 @@
     "pinned": false
   },
   {
-    "id": "e8544934bd37b4bc1a58fad768f22e3afa720e0e",
-    "title": "GitHub AI agent leaks private repos when asked nicely",
-    "link": "https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924",
-    "summary": "Per usual, there's no fix – or even any documentation – for GitLost",
-    "isoDate": "2026-07-07T19:49:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5251723&width=800",
-    "pinned": false
-  },
-  {
     "id": "ebe743096f191df82a0cf562b0b6521fd0bd1321",
     "title": "Exclusive: Tesla Cybercab Includes More Powerful FSD Hardware",
     "link": "https://www.notateslaapp.com/news/4409/exclusive-tesla-cybercab-includes-more-powerful-fsd-hardware",
@@ -1228,21 +1301,6 @@
     "pinned": false
   },
   {
-    "id": "3fa59d6c1243f939843b92dad55b876647541a04",
-    "title": "South Korean chip startup FuriosaAI invades European datacenters",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/07/south-korean-chip-startup-furiosaai-invades-european-datacenters/5267884",
-    "summary": "RNGD accelerators land in Equinix's Lisbon DCs",
-    "isoDate": "2026-07-07T17:59:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=252467&width=800",
-    "pinned": false
-  },
-  {
     "id": "340eeb0293040ce6660f76e0ad6a42af3f51d0fb",
     "title": "Tesla Updates App With New AI 'Opticaster,' Smart Breaker Support & Smart Charging",
     "link": "https://www.notateslaapp.com/news/4407/tesla-updates-app-with-new-ai-opticaster-smart-breaker-support-smart-charging",
@@ -1253,51 +1311,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/energy/tesla-home-hero-june-2026-2.webp/3f3d63bebf490422d4147866fbb311a4/tesla-home-hero-june-2026-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0194106f8f46270aba01161623371b371a379357",
-    "title": "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin",
-    "link": "https://www.theregister.com/cyber-crime/2026/07/07/cai-cloud-worm-gives-competitors-malware-the-boot-then-steals-secrets-and-mines-for-coin/5267856",
-    "summary": "Dog-eat-dog world for credential-stealing attackers",
-    "isoDate": "2026-07-07T17:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5267881&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f45a65ab6a56d2a946c273ac8e4c5f37d94b256a",
-    "title": "NASA calls time on CAPSTONE after four years of lunar orbit lessons",
-    "link": "https://www.theregister.com/science/2026/07/07/nasa-calls-time-on-capstone-after-four-years-of-lunar-orbit-lessons/5267820",
-    "summary": "Advanced Space's privately owned probe will keep flying, but the agency's role is over",
-    "isoDate": "2026-07-07T16:50:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=259204&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d6e4515ec7a17854d156253cbbd3fcf7d71fd1b4",
-    "title": "New tool gives CLIs a warm and GUI feeling instead",
-    "link": "https://www.theregister.com/software/2026/07/07/new-tool-gives-clis-a-warm-and-gui-feeling-instead/5267798",
-    "summary": "Fed up with forgetting flags? Let Instagui read --help output and build a browser GUI instead",
-    "isoDate": "2026-07-07T16:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5237244&width=800",
     "pinned": false
   },
   {
