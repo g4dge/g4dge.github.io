@@ -1,5 +1,98 @@
 [
   {
+    "id": "fd6c695aa203d323a9163471d6933b970ddc7a43",
+    "title": "OpenAI wants its new tool to do your work for you and with you",
+    "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+    "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+    "isoDate": "2026-07-09T21:25:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "agent mode",
+      "ChatGPT",
+      "ChatGPT agent",
+      "chatgpt codex"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gptwork-500x500-1783630553.webp",
+    "pinned": false
+  },
+  {
+    "id": "611cbf7a2020d2e8e104611a0b3bd03106b8786c",
+    "title": "AI slop writing has taken over the internet, particularly LinkedIn and X",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525",
+    "summary": "One in four long-form social media posts appear entirely AI-generated, with nearly half of those on Microsoft's and Elon's platforms involving AI in some form",
+    "isoDate": "2026-07-09T21:01:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5269572&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d68a13566d6ce2486adc66d102a9f73495ec8f3d",
+    "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+    "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+    "summary": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+    "isoDate": "2026-07-09T20:52:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "microsoft",
+      "Windows Defender",
+      "zero days"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-500x500-1783631088.jpg",
+    "pinned": false
+  },
+  {
+    "id": "06dc017e0833ab280d8b47c5615df25c9762b49a",
+    "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+    "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+    "summary": "Broadcom accuses Allstate of dodging VMware audits.",
+    "isoDate": "2026-07-09T20:28:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Biz & IT",
+      "Allstate",
+      "Broadcom",
+      "lawsuit",
+      "vmware"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279315069-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "aff8bc84adc9fa62779db3a6ff82fc760d090c45",
+    "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+    "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+    "summary": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
+    "isoDate": "2026-07-09T20:12:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "humanoid robots",
+      "medical robots",
+      "robotic surgery",
+      "robots",
+      "surgery",
+      "teleoperation"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/humanoid-robot-surgeons-500x500.png",
+    "pinned": false
+  },
+  {
     "id": "50a68dedc194c12abd8deb31edb96b9589196b46",
     "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
     "link": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
@@ -899,27 +992,6 @@
     "pinned": false
   },
   {
-    "id": "eea9ce3a159d10cf0cd0cdb8eb88b4489e6c3fc6",
-    "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-    "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "summary": "Android Bench is evolving, and developers can help guide that process.",
-    "isoDate": "2026-07-08T16:39:48Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "AI benchmarks",
-      "android",
-      "Artificial Intelligence",
-      "developers",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c2aa86ef4aa340edb7b559eb84699b51e07d8199",
     "title": "AI memory crunch takes a bite out of PC shipments",
     "link": "https://www.theregister.com/personal-tech/2026/07/08/ai-memory-crunch-takes-a-bite-out-of-pc-shipments/5268593",
@@ -950,23 +1022,6 @@
     "pinned": false
   },
   {
-    "id": "09d76227db133671ff85ab44591159dea948cc11",
-    "title": "Two teens learn the hard way not to do toy gun drive-bys from a Waymo",
-    "link": "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
-    "summary": "The robotaxi stopped, called 911, and waited for the San Mateo Police to show up.",
-    "isoDate": "2026-07-08T15:40:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "robotaxi",
-      "waymo"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/waymo-orbeez-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "df612882231e418ba389e85f1a5bc4cc4d96373b",
     "title": "Police intercept tipsy teens after Waymo snitches for shooting Orbeez out of the car",
     "link": "https://www.theregister.com/offbeat/2026/07/08/police-intercept-teens-after-waymo-snitches-for-bad-behavior/5268426",
@@ -979,26 +1034,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=5268590&width=800",
-    "pinned": false
-  },
-  {
-    "id": "90bfbb11bbde2e7a0f094b6faad4c00dd8653af5",
-    "title": "Ocean rift zone saw spreading happen in a sudden burst",
-    "link": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
-    "summary": "The crust expands at mid-ocean rifts. But how?",
-    "isoDate": "2026-07-08T15:09:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "Earth science",
-      "geology",
-      "mid ocean ridges",
-      "plate tectonics",
-      "rifting"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1316974926-500x500.jpg",
     "pinned": false
   },
   {
@@ -1029,26 +1064,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5254628&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6013918c646f6f2111416730f209a23e8ab7b8ba",
-    "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-    "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-    "summary": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
-    "isoDate": "2026-07-08T13:26:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Camilla Hodgson in London",
-    "tags": [
-      "Biz & IT",
-      "Science",
-      "Energy Fuels",
-      "MP Materials",
-      "Phoenix Tailings",
-      "rare earths"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270755803-500x500.jpg",
     "pinned": false
   },
   {
@@ -1272,21 +1287,6 @@
       "cyber-crime"
     ],
     "image": "https://image.theregister.com/?imageId=5268018&width=800",
-    "pinned": false
-  },
-  {
-    "id": "540192af0c69e0e72691825431da0660066d8fbc",
-    "title": "Avoid AI atrophy – new tool promises to reverse vibe coding skills decay",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/07/avoid-ai-atrophy-new-tool-promises-to-reverse-vibe-coding-skills-decay/5267913",
-    "summary": "Want big muscles? Keep working out. Want big coding skillsets? Flex your dev skills with the Atrophy CLI app before they wither away",
-    "isoDate": "2026-07-07T20:21:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5224005&width=800",
     "pinned": false
   },
   {
