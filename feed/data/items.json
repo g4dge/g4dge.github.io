@@ -1,5 +1,95 @@
 [
   {
+    "id": "a23727f72ecd28085212b5f2af1eb06707d4e4b9",
+    "title": "The US government warns that Russia state hackers are coming after your router",
+    "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+    "summary": "With residential proxies all the rage, CISA urges router uses to be vigilant.",
+    "isoDate": "2026-07-13T21:03:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "CISA",
+      "hackers",
+      "proxy networks",
+      "routers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "529d395395fb4db5c3fd3052b92736eaad5d4a62",
+    "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+    "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+    "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
+    "isoDate": "2026-07-13T20:41:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "drones",
+      "military drones",
+      "Russia invasion of Ukraine",
+      "Russian war on Ukraine",
+      "sea drones",
+      "shipping",
+      "ships",
+      "Ukraine",
+      "Ukraine war"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Russian-vessels-under-attack-Kerch-Strait-July-9-2026-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bce61be7f45201ad5690c5a02fc9b955310fd9c2",
+    "title": "Excel competition goes extreme, makes spreadsheet geeks compete from the street",
+    "link": "https://www.theregister.com/offbeat/2026/07/13/excel-competition-goes-extreme-makes-spreadsheet-geeks-compete-from-the-street/5270709",
+    "summary": "Defending world champ Diarmuid Early wins again despite being forced to solve puzzles outdoors",
+    "isoDate": "2026-07-13T20:18:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5270729&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6745e29f8539b33324252ceed29b64610f2c8bba",
+    "title": "California creates $3,500 rebate for new electric vehicle buyers",
+    "link": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
+    "summary": "There's a separate $1,750 rebate for used EVs, but both rebates have a price cap.",
+    "isoDate": "2026-07-13T19:52:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "EV adoption"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-157308908-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0dc6accc4994fc32f35a8d158e3cd45d97ad864d",
+    "title": "The price is wrong: AI cost calculation has to consider task completion rates, not just token costs",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/13/the-price-is-wrong-ai-cost-calculation-has-to-consider-task-completion-rates-not-just-token-costs/5270683",
+    "summary": "Cheap can be expensive",
+    "isoDate": "2026-07-13T19:26:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5270706&width=800",
+    "pinned": false
+  },
+  {
     "id": "fac19f5781fd5b7aa4a534bd3574c1323a4175d0",
     "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
     "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
@@ -10,6 +100,7 @@
     "author": "Ashley Belanger",
     "tags": [
       "AI",
+      "Apple",
       "Policy",
       "apple",
       "Artificial Intelligence",
@@ -848,24 +939,6 @@
     "pinned": false
   },
   {
-    "id": "8693175905bcb38164edde72dd6305521611f647",
-    "title": "Ransomware negotiator hired to represent victims was working for the attackers",
-    "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
-    "summary": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"",
-    "isoDate": "2026-07-10T19:40:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "alphv",
-      "blackcat",
-      "ransomware"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-500x500-1783710086.jpg",
-    "pinned": false
-  },
-  {
     "id": "4b4713112c186a19787109ad822ea2739a4fc991",
     "title": "Tesla's 6-Seat Model Y L Spotted in Germany Ahead of European Launch",
     "link": "https://www.notateslaapp.com/news/4419/tesla-model-y-l-spotted-under-wraps-in-germany",
@@ -876,27 +949,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-germany-sighting-4.webp/9369466422894ee56d9691df48df060d/model-y-l-germany-sighting-4.jpg",
-    "pinned": false
-  },
-  {
-    "id": "398ee701fe996162c4aeded17d4e3e67db466f46",
-    "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
-    "link": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
-    "summary": "The children who get a combination shot are some of the most vulnerable.",
-    "isoDate": "2026-07-10T19:25:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "ACIP",
-      "CDC",
-      "measles",
-      "mmrv",
-      "robert f kennedy jr",
-      "vaccine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg",
     "pinned": false
   },
   {
@@ -940,24 +992,6 @@
       "personal tech"
     ],
     "image": "https://image.theregister.com/?imageId=1684104&width=800",
-    "pinned": false
-  },
-  {
-    "id": "faa7d93cd117d97d27a497ea3c00ecb0366c4edb",
-    "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
-    "link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
-    "summary": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
-    "isoDate": "2026-07-10T16:53:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "Steam",
-      "steam deck",
-      "Valve"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/steammachine-500x500.jpg",
     "pinned": false
   },
   {
@@ -1371,36 +1405,6 @@
     "pinned": false
   },
   {
-    "id": "2e38245352ba0de934d437cfadbfa3fe5fe52ace",
-    "title": "Brown says AI make student brain no work good, teacher should help use it better",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/09/brown-says-ai-make-class-dumb-teacher-must-help-use-better/5269291",
-    "summary": "Take-home midterm row sharpens fears that the tools are dulling minds and easing cheating",
-    "isoDate": "2026-07-09T14:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=225752&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e2376402f38ee5edfd7f9b8e7873c0a7f7e47f6b",
-    "title": "UK.gov withholds £10M payment from Capita over pensions project fiasco, as dispute continues",
-    "link": "https://www.theregister.com/public-sector/2026/07/09/ukgov-withholds-10m-payment-from-capita-over-pensions-project-fiasco-as-dispute-continues/5269227",
-    "summary": "After CEO promised 'flagship use-case' for AI, retired scheme members still struggling to make ends meet, MPs hear",
-    "isoDate": "2026-07-09T14:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5269342&width=800",
-    "pinned": false
-  },
-  {
     "id": "e344eb4feac56317bdbb120126468a5362afcabe",
     "title": "Africa’s cultural landmarks: rock-hewn churches of Lalibela, Ethiopia",
     "link": "https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth",
@@ -1599,19 +1603,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2022/4680-cells.jpg/8687275a48f8fc6d12d18e59882d0310/4680-cells.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7065550d35d74027b42a10874387e5e51be09df2",
-    "title": "Tesla Robotaxi App Now Tells You If Your Ride Has a Safety Driver",
-    "link": "https://www.notateslaapp.com/news/4403/tesla-robotaxi-app-now-tells-you-if-your-ride-is-supervised",
-    "summary": "The Robotaxi app just added a smart quality-of-life feature that gives users clear expectations as soon as a trip is locked in&hellip; <a href=\"https://www.notateslaapp.com/news/4403/tesla-robotaxi-app-now-tells-you-if-your-ride-is-supervised\">Read More</a>",
-    "isoDate": "2026-07-06T20:25:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-app-2.webp/4c1f7b483b2c22442e11944aeac0abf0/robotaxi-app-2.jpg",
     "pinned": false
   }
 ]
