@@ -1,5 +1,78 @@
 [
   {
+    "id": "9113ffa712fc32ec3ea2c54b8b9ef2461ba5a506",
+    "title": "Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websites",
+    "link": "https://www.theregister.com/security/2026/07/14/baddies-caught-exploiting-extensions-bugs-with-perfect-10-scores-on-vulnerable-joomla-websites/5271001",
+    "summary": "Flaws in iCagenda, Balbooa Forms extensions can impact open source CMS that powers a million sites worldwide",
+    "isoDate": "2026-07-14T11:06:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5271025&width=800",
+    "pinned": false
+  },
+  {
+    "id": "28adb81a662330fb2b30ae1e67662715297f46a2",
+    "title": "Frame: A new X11 server – implemented directly in assembly",
+    "link": "https://www.theregister.com/software/2026/07/14/frame-a-new-x11-server-implemented-directly-in-assembly/5270498",
+    "summary": "Joins yserver, Phoenix, and of course XLibre – and outlier Arcan",
+    "isoDate": "2026-07-14T10:37:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5270573&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b8605572f740badefb5e7d14ce04ccc9b53589a7",
+    "title": "The looting of science fiction",
+    "link": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
+    "summary": "<p><img alt=\"Painting of a cylindrical space habitat with green landscapes, rivers and planets visible against a starry sky.\" src=\"https://images.aeonmedia.co/images/e407d3ab-bc75-4346-b2fc-dbbd9b7a4a68/sz-cylinder_interior_ac75-1086_5732.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Tech titans claim the genre inspired them. But all they’ve done is graft their politics onto stories of a better future</p><p><em>- by Ali Rıza Taşkale</em></p><p><a href=\"https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem\">Read on Aeon</a></p>",
+    "isoDate": "2026-07-14T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Ali Rıza Taşkale",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "55dc3cbab301cbcccc0c6fdd2851ba783a93606a",
+    "title": "India's crewed space mission is ready for splashdown, but not launch",
+    "link": "https://www.theregister.com/science/2026/07/14/indias-crewed-space-mission-is-ready-for-splashdown-but-not-launch/5270879",
+    "summary": "Gaganyaan was supposed to fly in 2022 and make the country only the fourth to put people into orbit",
+    "isoDate": "2026-07-14T09:57:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=256299&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8b29f940d3f9e14df4339c982c519bb02d0af704",
+    "title": "How do you solve a problem like Capita?",
+    "link": "https://www.theregister.com/columnists/2026/07/14/how-do-you-solve-a-problem-like-capita/5270368",
+    "summary": "Bringing troubled contracts in-house requires skills Whitehall is already struggling to recruit",
+    "isoDate": "2026-07-14T09:14:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "columnists"
+    ],
+    "image": "https://image.theregister.com/?imageId=230531&width=800",
+    "pinned": false
+  },
+  {
     "id": "2f33f8692324d88f328adefe3f3fc904e2b9bce7",
     "title": "From the archives: Rajneesh – The rise and fall of a modern ‘god’",
     "link": "https://www.skeptic.org.uk/2026/07/from-the-archives-rajneesh-the-rise-and-fall-of-a-modern-god/",
@@ -7,7 +80,7 @@
     "isoDate": "2026-07-14T09:00:00Z",
     "source": "The Skeptic",
     "category": "Tech",
-    "author": "Michael Marshall",
+    "author": "Brian Morris",
     "tags": [
       "Archive"
     ],
@@ -1338,66 +1411,6 @@
     "pinned": false
   },
   {
-    "id": "612924476ef88c7b89c3644d2802675dadaa90b5",
-    "title": "Red Hat offers RHEL support ‘forever’ for those who need to lock in to legacy tech",
-    "link": "https://www.theregister.com/os-platforms/2026/07/10/red-hat-offers-rhel-support-forever-for-those-who-need-to-lock-in-to-legacy-tech/5269640",
-    "summary": "Beware the golden screwdriver",
-    "isoDate": "2026-07-10T04:46:49Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=246163&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b4fbe04ac799a7e5c3efa9ad9b9f7ce72eff5967",
-    "title": "Microsoft warns customers AI will mean busier Patch Tuesdays",
-    "link": "https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618",
-    "summary": "More patches mean more reasons to buy Redmond’s auto-patching tools",
-    "isoDate": "2026-07-10T01:56:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=248668&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4114fe12752f5b250021a6f14b98f8c2bf3bdcb6",
-    "title": "An unnamed US county – perhaps in Ohio – paid $1M extortion demand to cybercriminals",
-    "link": "https://www.theregister.com/cyber-crime/2026/07/09/an-unnamed-us-county-perhaps-in-ohio-paid-1m-extortion-demand-to-cybercriminals/5269575",
-    "summary": "Leaked negotiations spill the tea",
-    "isoDate": "2026-07-09T22:30:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5269617&width=800",
-    "pinned": false
-  },
-  {
-    "id": "611cbf7a2020d2e8e104611a0b3bd03106b8786c",
-    "title": "AI slop writing has taken over the internet, particularly LinkedIn and X",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525",
-    "summary": "One in four long-form social media posts appear entirely AI-generated, with nearly half of those on Microsoft's and Elon's platforms involving AI in some form",
-    "isoDate": "2026-07-09T21:01:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5269572&width=800",
-    "pinned": false
-  },
-  {
     "id": "479b0ba71cb230963518843d6fb4326c076dc79a",
     "title": "Tesla Cybercab Has New Ultra-Efficient Powertrain, 4680 Batteries, 48V & More",
     "link": "https://www.notateslaapp.com/news/4415/tesla-cybercab-has-new-ultra-efficient-powertrain-4680-batteries-48v-more",
@@ -1594,19 +1607,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-model-3-air-mattress-hero.webp/fdb357a0d71a7119c65df55a4911fb3c/tesla-model-3-air-mattress-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d3564e6acc0e26d89978be19037c5d55bd15cbdd",
-    "title": "‘The emperor is far away’",
-    "link": "https://aeon.co/essays/how-little-we-really-know-of-the-mighty-ming-dynasty",
-    "summary": "<p><img alt=\"Traditional Chinese painting of three warriors in ornate armour standing among swirling clouds.\" src=\"https://images.aeonmedia.co/images/1de6771d-cbb9-47a5-9521-0d172b58eea8/essay-v2-jade-maidens.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Ming Dynasty China left us copious texts, but these veil the lives of the vast majority of its people from our view</p><p><em>- by Craig Clunas</em></p><p><a href=\"https://aeon.co/essays/how-little-we-really-know-of-the-mighty-ming-dynasty\">Read on Aeon</a></p>",
-    "isoDate": "2026-07-07T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Craig Clunas",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
