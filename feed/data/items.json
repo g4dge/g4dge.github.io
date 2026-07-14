@@ -1,5 +1,73 @@
 [
   {
+    "id": "d65c82f296f3fbe8b7e95ae2eb2ba139c3be73ce",
+    "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+    "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+    "summary": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
+    "isoDate": "2026-07-14T01:17:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "launch",
+      "spacex",
+      "Starbase",
+      "starlink",
+      "starship",
+      "starship flight 13",
+      "super heavy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starship_raptor3s-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "914a12e978c71a1c50892c4bf110c2f057c3e6f4",
+    "title": "Gobi X: Creating more energy for AI, not taking it from society",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/14/gobi-x-creating-more-energy-for-ai-not-taking-it-from-society/5270590",
+    "summary": "PARTNER CONTENT: How Envision is reversing the datacenter playbook by making computing chase abundant desert power, not the other way around",
+    "isoDate": "2026-07-14T01:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=228710&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7792bc09ba0ef0cc053c230534b0c0e361bad50f",
+    "title": "Zuck's AI ambitions put Meta on course to become America's next big cloud provider",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/14/zucks-ai-ambitions-put-meta-on-course-to-become-americas-next-big-cloud-provider/5270758",
+    "summary": "Renting out spare compute is simply the natural progression for any sufficiently large infra company",
+    "isoDate": "2026-07-13T23:37:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=256736&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2d48f6ed10e6bdf8ba791d6135debcccfbf10e6e",
+    "title": "Zig creator calls Bun’s Claude Rust rewrite ‘unreviewed slop’",
+    "link": "https://www.theregister.com/devops/2026/07/14/zig-creator-calls-buns-claude-rust-rewrite-unreviewed-slop/5270743",
+    "summary": "The port took just 11 days and about $165,000 at API pricing",
+    "isoDate": "2026-07-13T23:21:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5270789&width=800",
+    "pinned": false
+  },
+  {
     "id": "1e3f11a209570d74b69d19d6451db494cc34db7e",
     "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
     "link": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
@@ -905,27 +973,6 @@
     "pinned": false
   },
   {
-    "id": "473ff2bd2bf94109876100022ec7adaf6f8de92f",
-    "title": "China recovered its first reusable rocket and showed a new way to do it",
-    "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
-    "summary": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
-    "isoDate": "2026-07-10T21:41:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "china",
-      "launch",
-      "long march 10",
-      "long march 10b",
-      "reusable rocket",
-      "Wenchang"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/lm10bcatch2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "865bae58289d0ad3a7402db0f7071850e35cdcdd",
     "title": "Slothful summer app lets you scroll simply by tilting your head",
     "link": "https://www.theregister.com/personal-tech/2026/07/10/slothful-summer-app-lets-you-scroll-simply-by-tilting-your-head/5270096",
@@ -1359,51 +1406,6 @@
       "applications"
     ],
     "image": "https://image.theregister.com/?imageId=5242949&width=800",
-    "pinned": false
-  },
-  {
-    "id": "944ebef4e7d563e588319898f3e7794c5fb81fbd",
-    "title": "EU 'Chat Control' snoopfest returns after vote to kill it falls short",
-    "link": "https://www.theregister.com/security/2026/07/09/meps-fail-to-prevent-chat-control-snoopfest-revival/5269379",
-    "summary": "Opponents won the count but missed the 360-seat threshold needed to stop the interim CSAM-scanning rule",
-    "isoDate": "2026-07-09T15:51:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=236829&width=800",
-    "pinned": false
-  },
-  {
-    "id": "da73eba102382d9cc459945bf196bdc32937364a",
-    "title": "KDE Plasma users face a dire omen of change: 6.6.6 arrives",
-    "link": "https://www.theregister.com/os-platforms/2026/07/09/kde-plasma-users-face-a-dire-omen-of-change-666-arrives/5269267",
-    "summary": "6.7 is now current, and in 6.8 you're getting Wayland whether you like it or not",
-    "isoDate": "2026-07-09T15:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5269339&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e932fea972b890086ebcf99d77c742c3b0739ddb",
-    "title": "Canonical Managed Kubeflow lands on Azure",
-    "link": "https://www.theregister.com/paas-and-iaas/2026/07/09/canonical-managed-kubeflow-lands-on-azure/5268626",
-    "summary": "PARTNER CONTENT: Why platform teams are swapping DIY Kubeflow for Canonical's managed service",
-    "isoDate": "2026-07-09T15:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "paas and iaas"
-    ],
-    "image": "https://image.theregister.com/?imageId=5269507&width=800",
     "pinned": false
   },
   {
