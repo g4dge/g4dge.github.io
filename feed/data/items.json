@@ -1,17 +1,41 @@
 [
   {
-    "id": "d1c8125a5b0a1ac6703674378d1169d576299874",
-    "title": "ZTE's AI new calling builds an open and intelligent telecom ecosystem, transforming from basic voice call to an AI-powered service hub",
-    "link": "https://www.theregister.com/networks/2026/07/15/ztes-ai-new-calling-builds-an-open-and-intelligent-telecom-ecosystem-transforming-from-basic-voice-call-to-an-ai-powered-service-hub/5272114",
-    "summary": "PARTNER CONTENT: How \"Calling as a Service\" eliminates app downloads and unlocks new revenue for operators",
-    "isoDate": "2026-07-15T19:00:07Z",
-    "source": "The Register",
+    "id": "681e76bf0161b0065055e2396d2f061096a4c58a",
+    "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+    "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+    "summary": "Yes, it was, in fact, a Unix system.",
+    "isoDate": "2026-07-15T21:04:22Z",
+    "source": "Ars Technica",
     "category": "Tech",
-    "author": "",
+    "author": "Samuel Axon",
     "tags": [
-      "networks"
+      "Culture",
+      "Tech",
+      "Jurassic Park",
+      "the 90s",
+      "UNIX",
+      "Unix operating system"
     ],
-    "image": "https://image.theregister.com/?imageId=5272119&width=800",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/unix-system-jp-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f6b48a2319b55d4ac26ad898bcf6c7ff91f7660c",
+    "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+    "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+    "summary": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+    "isoDate": "2026-07-15T19:59:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "microsoft",
+      "Windows",
+      "zerodays"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-500x500.jpg",
     "pinned": false
   },
   {
@@ -1180,50 +1204,6 @@
     "pinned": false
   },
   {
-    "id": "a23727f72ecd28085212b5f2af1eb06707d4e4b9",
-    "title": "The US government warns that Russia state hackers are coming after your router",
-    "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-    "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
-    "isoDate": "2026-07-13T21:03:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "CISA",
-      "hackers",
-      "proxy networks",
-      "routers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "529d395395fb4db5c3fd3052b92736eaad5d4a62",
-    "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
-    "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
-    "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
-    "isoDate": "2026-07-13T20:41:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "drones",
-      "military drones",
-      "Russia invasion of Ukraine",
-      "Russian war on Ukraine",
-      "sea drones",
-      "shipping",
-      "ships",
-      "Ukraine",
-      "Ukraine war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Russian-vessels-under-attack-Kerch-Strait-July-9-2026-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bce61be7f45201ad5690c5a02fc9b955310fd9c2",
     "title": "Excel competition goes extreme, makes spreadsheet geeks compete from the street",
     "link": "https://www.theregister.com/offbeat/2026/07/13/excel-competition-goes-extreme-makes-spreadsheet-geeks-compete-from-the-street/5270709",
@@ -1350,6 +1330,21 @@
       "edge and iot"
     ],
     "image": "https://image.theregister.com/?imageId=163851&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9f600f9a827b2bfb709012370ee777d1053669ae",
+    "title": "EU and UK officially blame Russian spies for cyberattack on Poland's power grid",
+    "link": "https://www.theregister.com/security/2026/07/13/uk-eu-officially-pin-poland-energy-cyberattack-on-russia/5270458",
+    "summary": "Sweeping sanctions and condemnation follow op that could have left half a million without power in the depths of winter",
+    "isoDate": "2026-07-13T15:39:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=225878&width=800",
     "pinned": false
   },
   {
@@ -1629,19 +1624,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-ocean.webp/7582eb2cd0bf68072ef737ca89472885/fsd-ocean.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4390336a276da6e20134e519a58be25cf8b6c170",
-    "title": "Tesla Model 2/Q: The $25,000 Car That Never Was",
-    "link": "https://www.notateslaapp.com/news/4411/tesla-model-2q-the-25000-car-that-never-was",
-    "summary": "Despite the massive community excitement and consumer appetite for a $25,000 Tesla, the long-rumored Model 2/Q is unlikely to ever see the light of day&hellip; <a href=\"https://www.notateslaapp.com/news/4411/tesla-model-2q-the-25000-car-that-never-was\">Read More</a>",
-    "isoDate": "2026-07-08T20:17:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-model-2-q-concept-render-watermarked.webp/97072cbca03e2cf871eb3c7404466d25/tesla-model-2-q-concept-render-watermarked.jpg",
     "pinned": false
   }
 ]
