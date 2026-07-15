@@ -1,5 +1,35 @@
 [
   {
+    "id": "471104dcf8c867d65986206aa86d250c2cd6a24a",
+    "title": "Google Cloud's VMware service loses resilience due to a dud update",
+    "link": "https://www.theregister.com/virtualization/2026/07/15/google-clouds-vmware-service-loses-resilience-due-to-a-dud-update/5271511",
+    "summary": "As VMware itself warns of critical flaw in its load balancer",
+    "isoDate": "2026-07-15T00:16:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=257570&width=800",
+    "pinned": false
+  },
+  {
+    "id": "32f47d1988cacafb86bd4c28421117e433b1c1a4",
+    "title": "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/15/openai-hides-codex-agent-instructions-behind-encryption-leaving-developers-in-the-dark/5271484",
+    "summary": "Developers worry encrypted MultiAgentV2 messages will make debugging and auditing harder",
+    "isoDate": "2026-07-14T23:00:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=260694&width=800",
+    "pinned": false
+  },
+  {
     "id": "f36526c035295154c43817269f81dea4b20e5791",
     "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
     "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
@@ -1312,21 +1342,6 @@
     "pinned": false
   },
   {
-    "id": "a665cfa871932f7b0b3728a07eb0407d0cd03eb8",
-    "title": "AI customers are coming around to the idea that small is beautiful",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/11/ai-customers-are-coming-around-to-the-idea-that-small-is-beautiful/5268070",
-    "summary": "OpenAI and Anthropic have built AI Swiss Army Knives, but the future may be smaller built-for-purpose tools",
-    "isoDate": "2026-07-11T14:11:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5268098&width=800",
-    "pinned": false
-  },
-  {
     "id": "c758ea42503ae016d650f3431af04a18bdc39228",
     "title": "Tesla to Launch Vehicle Rentals in 4 More U.S. States",
     "link": "https://www.notateslaapp.com/news/4420/tesla-to-launch-vehicle-rentals-in-4-more-us-states",
@@ -1337,21 +1352,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/174.jpeg/54b8e21b01412d7df59a2b28946f24bf/174.jpg",
-    "pinned": false
-  },
-  {
-    "id": "719bb3f251db48dfa6dbf8382b2f5eb47d1004b3",
-    "title": "Irish datacenters now guzzle 23% of the country's electricity",
-    "link": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-    "summary": "Consumption rose another 10% while restrictions on most new grid connections remained around Dublin",
-    "isoDate": "2026-07-11T10:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093897&width=800",
     "pinned": false
   },
   {
