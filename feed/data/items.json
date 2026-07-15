@@ -1,5 +1,50 @@
 [
   {
+    "id": "8eae1a44ffdfc6f5b394e872e5288a9a20082ad1",
+    "title": "MPs fear Treasury cold feet could sink Whitehall's £1.15B shared services push",
+    "link": "https://www.theregister.com/public-sector/2026/07/15/mps-fear-treasury-cold-feet-could-sink-whitehalls-115b-shared-services-push/5271668",
+    "summary": "'Do as we fund, not as we do' sends 'very poor reputational signal' says damning report",
+    "isoDate": "2026-07-15T13:14:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=250212&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9103180de974b6a83020ccd254e7d431a7281ed8",
+    "title": "LegacyHive: 'Bone-shattering' zero-day from Microsoft's serial tormentor not the haymaker that was promised",
+    "link": "https://www.theregister.com/security/2026/07/15/microsofts-serial-tormentor-drops-legacyhive-0-day/5271723",
+    "summary": "Experts say it’s a useful post-compromise tool, for those with the brain cells required to put it together",
+    "isoDate": "2026-07-15T12:59:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5271746&width=800",
+    "pinned": false
+  },
+  {
+    "id": "135c468cbd1e855c734354eaebe8365bc741d9fd",
+    "title": "AWS sustainability claims don't hold water, lawsuit alleges",
+    "link": "https://www.theregister.com/on-prem/2026/07/15/aws-sustainability-claims-dont-hold-water-lawsuit-alleges/5269723",
+    "summary": "Ex-staffer accuses Amazon's Virginia datacenters of quietly guzzling H20 all year round, despite 'water positive' PR push",
+    "isoDate": "2026-07-15T12:21:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=230800&width=800",
+    "pinned": false
+  },
+  {
     "id": "f06d897d491b57f3b991704c87d9df9915342dc8",
     "title": "A most improbable astronaut just went to space",
     "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
@@ -1237,36 +1282,6 @@
     "pinned": false
   },
   {
-    "id": "00b01e73d3559eafd24274f6608b45b04d840022",
-    "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
-    "link": "https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
-    "summary": "New verb carries request content while remaining safe, idempotent, and cacheable",
-    "isoDate": "2026-07-13T11:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5270296&width=800",
-    "pinned": false
-  },
-  {
-    "id": "baf8f23c99d9ade8a9b1fc040da9e0a1e7a7ec4b",
-    "title": "Progress orders emergency ShareFile server shutdown over mystery security threat",
-    "link": "https://www.theregister.com/security/2026/07/13/progress-orders-emergency-sharefile-server-shutdown-over-mystery-security-threat/5270281",
-    "summary": "Vendor insists there's no evidence of unauthorized access, but it's asking customers to take one of the most drastic precautions available",
-    "isoDate": "2026-07-13T10:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5270351&width=800",
-    "pinned": false
-  },
-  {
     "id": "28181a0a79d221f7c30ceb3ea412e24c8deba02b",
     "title": "Patricia Evangelista on journalism",
     "link": "https://aeon.co/videos/a-filipino-journalist-on-the-terrible-privilege-of-bearing-witness",
@@ -1277,21 +1292,6 @@
     "author": "Aeon Video",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2ba9f9f588e008157702807e3a7d4b15e0c2069c",
-    "title": "Backup and running? Not this digital sign",
-    "link": "https://www.theregister.com/offbeat/2026/07/13/backup-and-running-not-this-digital-sign-1/5269021",
-    "summary": "Nagware goes large on the mean streets of Derby",
-    "isoDate": "2026-07-13T09:59:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5269032&width=800",
     "pinned": false
   },
   {
@@ -1584,19 +1584,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-xai-logo.webp/f11d044bd94ac7cae5d1da238d5a9f26/spacex-xai-logo.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ccefb1f281630854afa5eb3a007d7c32227d9209",
-    "title": "Slate, the Modular, Customizable EV Starts at $25K",
-    "link": "https://www.notateslaapp.com/news/4351/slate-the-modular-customizable-ev-starts-at-25k",
-    "summary": "Slate debuts a modular $24,950 EV that challenges Tesla by swapping built-in tech for an extreme 'Bring Your Own Device' accessory ecosystem.&hellip; <a href=\"https://www.notateslaapp.com/news/4351/slate-the-modular-customizable-ev-starts-at-25k\">Read More</a>",
-    "isoDate": "2026-07-08T13:17:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/slate-designs.webp/eeffa3c62d587d0f827c4f6a8a77893e/slate-designs.jpg",
     "pinned": false
   }
 ]
