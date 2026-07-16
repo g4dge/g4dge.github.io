@@ -1,9 +1,42 @@
 [
   {
+    "id": "18efb468c4e3e837c8dcaf990c434a30097f1576",
+    "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
+    "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
+    "summary": "If the large, rocky planet is losing helium, then we can infer what is left behind.",
+    "isoDate": "2026-07-16T18:00:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "astronomy",
+      "exoplanets",
+      "Helium"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-5-500x471.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "ef74b99ea0f98cf7ab19c24702ebf1d9283857f1",
+    "title": "EU forces Google to share its toys with the other AI and search kids",
+    "link": "https://www.theregister.com/software/2026/07/16/eu-forces-google-to-share-its-toys-with-the-other-ai-and-search-kids/5273819",
+    "summary": "The Chocolate Factory is not amused",
+    "isoDate": "2026-07-16T16:48:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=239084&width=800",
+    "pinned": false
+  },
+  {
     "id": "3b93c6279f717ba6caea7d5011f98ede22a87fb1",
-    "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
+    "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
     "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
-    "summary": "OnePlus promises to continue supporting the phones it's already released.",
+    "summary": "OnePlus promises to continue supporting the phones it has already released.",
     "isoDate": "2026-07-16T16:29:46Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -1124,26 +1157,6 @@
     "pinned": false
   },
   {
-    "id": "c2acf5e3543d89ffe790453bd980027079293c1c",
-    "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
-    "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
-    "summary": "Citizens must now spend 21 days in a third country before they are allowed to come home.",
-    "isoDate": "2026-07-14T22:09:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "CDC",
-      "ebola",
-      "travel",
-      "Trump",
-      "WHO"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278375280-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "22726c8816f44a52331740637220f79a6c9db499",
     "title": "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
     "link": "https://www.theregister.com/security/2026/07/14/patchpocalypse-now-microsoft-tops-last-months-record-with-622-patch-tuesday-cves/5271434",
@@ -1343,21 +1356,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=5271106&width=800",
-    "pinned": false
-  },
-  {
-    "id": "83a58ac98028fd747d52e0c302276837a58eba0e",
-    "title": "Musk promises purge after Grok Build caught sending entire repos to the cloud",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/14/musk-promises-purge-after-grok-build-caught-sending-entire-repos-to-the-cloud/5271123",
-    "summary": "Researcher confirms the uploads have stopped, but says xAI's privacy command was not what fixed them",
-    "isoDate": "2026-07-14T12:39:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=242310&width=800",
     "pinned": false
   },
   {
@@ -1652,19 +1650,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab.webp/79b32e1d492e88695a38297a7909485d/cybercab.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e0be9a71a020b04c6bf880ac0966d0d09df1620e",
-    "title": "Exclusive: Tesla Cybercab Includes Dual GPS",
-    "link": "https://www.notateslaapp.com/news/4414/exclusive-tesla-cybercab-includes-dual-gps",
-    "summary": "New details indicate that Tesla has tucked a major hardware upgrade into the upcoming Cybercab to provide pinpoint location mapping for driverless operation&hellip; <a href=\"https://www.notateslaapp.com/news/4414/exclusive-tesla-cybercab-includes-dual-gps\">Read More</a>",
-    "isoDate": "2026-07-09T17:36:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-2.webp/cfc30d1a1b7ea83d9ff89bb896c64bf7/cybercab-2.jpg",
     "pinned": false
   }
 ]
