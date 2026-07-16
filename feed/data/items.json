@@ -1,5 +1,86 @@
 [
   {
+    "id": "112c072ebfa8ae0e4189e6de05fdeccbd9fda6cf",
+    "title": "Move over, GPS: Navigation satellites in low Earth orbit are making a comeback",
+    "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+    "summary": "Xona aims to deploy 258 satellites into low Earth orbit as a GPS alternative.",
+    "isoDate": "2026-07-16T11:00:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Space",
+      "Tech",
+      "global navigation satellite systems",
+      "global positioning systems",
+      "GNSS",
+      "GPS",
+      "leo",
+      "low earth orbit",
+      "low-earth orbit satellites",
+      "satellites",
+      "Xona Space Systems"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Xona_InSitu_Orbit_03-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ac6939f74b013a1b647a0020d747a076c695c425",
+    "title": "AWS CloudFront outage serves errors instead of websites",
+    "link": "https://www.theregister.com/off-prem/2026/07/16/aws-cloudfront-outage-serves-errors-instead-of-websites/5272421",
+    "summary": "Storm sends winds whipping beyond cloud giant, knocking out services including Hugging Face and the UK's National Lottery",
+    "isoDate": "2026-07-16T10:54:42Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=4093112&width=800",
+    "pinned": false
+  },
+  {
+    "id": "117848d231ac6e18b9633a34835a2726334771d1",
+    "title": "Telegram shortlinks knocked offline over sanctioned VPN connection",
+    "link": "https://www.theregister.com/security/2026/07/16/telegram-shortlinks-knocked-offline-over-sanctioned-vpn-connection/5271964",
+    "summary": "t.me borked for a day until platform proved it had no ties to service favored by cybercriminals",
+    "isoDate": "2026-07-16T10:07:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=222435&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fa9772597a24bd69ffe42f17fe4ebf8febe25e2d",
+    "title": "What remains",
+    "link": "https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline",
+    "summary": "<p><img alt=\"Photo of fresh oysters on ice with a lemon wedge in the background.\" src=\"https://images.aeonmedia.co/images/23f6ad86-3338-46eb-af14-60bdec027e6e/what-remains-landscape-1-v2.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>In an ingenious restoration project, the humble oyster shell is transformed into a powerful tool to halt coastal erosion</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline\">Watch on Aeon</a></p>",
+    "isoDate": "2026-07-16T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8c3497f763fbbbdf7ffb3d46797311a921d77d22",
+    "title": "Loitering towards war",
+    "link": "https://aeon.co/essays/viennas-cafes-inspired-poets-belgrades-bred-dissent",
+    "summary": "<p><img alt=\"Vintage photo of a man and a woman in a large hat talking at an outdoor café, seated at a round table with drinks.\" src=\"https://images.aeonmedia.co/images/0bfb0fcc-6a05-4e34-8848-3066fad18b6b/essay-sp-gettyimages-56456158.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>While Vienna’s coffeehouses bred modernism, in Belgrade’s kafanas grew conspiracy and rage. Their clash consumed Europe</p><p><em>- by Anton Cebalo</em></p><p><a href=\"https://aeon.co/essays/viennas-cafes-inspired-poets-belgrades-bred-dissent\">Read on Aeon</a></p>",
+    "isoDate": "2026-07-16T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Anton Cebalo",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "9cc3d103243f3c9dfc7a74f9875c0c43e6fde722",
     "title": "How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher",
     "link": "https://www.theregister.com/software/2026/07/16/how-to-teach-an-old-intel-mac-new-tricks-with-opencore-legacy-patcher/5271880",
@@ -76,7 +157,7 @@
   },
   {
     "id": "f847996b2a4f91292a3567110a1bdb81d33f69d7",
-    "title": "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
+    "title": "Former OpenAI CTO does what Altman won't, releases a frontier AI model that's actually open",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/5272177",
     "summary": "Thinking Machines' first open weights model is a 975 billion parameter alternative to Chinese LLMs",
     "isoDate": "2026-07-16T00:14:41Z",
@@ -997,27 +1078,6 @@
     "pinned": false
   },
   {
-    "id": "4f171ccda8841e22f9d89d01fc3793b341fd38fd",
-    "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-    "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-    "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
-    "isoDate": "2026-07-14T16:28:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "AI image generation",
-      "Artificial Intelligence",
-      "google",
-      "image search",
-      "search"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg",
-    "pinned": false
-  },
-  {
     "id": "7b26926be337a1d1cf8125b8f10b0184987300dd",
     "title": "Welsh Doxbin admin jailed for egging on swatters from behind a screen",
     "link": "https://www.theregister.com/security/2026/07/14/welsh-doxbin-admin-jailed-for-egging-on-swatters-from-behind-a-screen/5271281",
@@ -1296,36 +1356,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=1682856&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e2be01a42be6c516872e409fe7298f8456c79292",
-    "title": "India’s tech services giant HCL is getting into the AI datacenter business",
-    "link": "https://www.theregister.com/off-prem/2026/07/14/indias-tech-services-giant-hcl-is-getting-into-the-ai-datacenter-business/5270827",
-    "summary": "Starting small with $37m and maybe 50MW but reckons full-stack service plan can succeed",
-    "isoDate": "2026-07-14T02:18:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=228571&width=800",
-    "pinned": false
-  },
-  {
-    "id": "914a12e978c71a1c50892c4bf110c2f057c3e6f4",
-    "title": "Gobi X: Creating more energy for AI, not taking it from society",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/14/gobi-x-creating-more-energy-for-ai-not-taking-it-from-society/5270590",
-    "summary": "PARTNER CONTENT: How Envision is reversing the datacenter playbook by making computing chase abundant desert power, not the other way around",
-    "isoDate": "2026-07-14T01:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=228710&width=800",
     "pinned": false
   },
   {
@@ -1618,32 +1648,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui.webp/59ed8c86c72a403ab5d88c8c04491c27/grok-ui.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e344eb4feac56317bdbb120126468a5362afcabe",
-    "title": "Africa’s cultural landmarks: rock-hewn churches of Lalibela, Ethiopia",
-    "link": "https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth",
-    "summary": "<p><img alt=\"Photo of a rock-hewn church partially below ground with people on the steps, surrounded by rocky terrain and sparse vegetation.\" src=\"https://images.aeonmedia.co/images/8a62338f-a28c-40ec-a639-9d393e143c46/africa_s-cultural-landmarks-rock-hewn-churches-of-lalibela_-ethiopia-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Most buildings rise from the bottom up, stone by stone. Not so these churches: carved from a single rock, top-to-bottom</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth\">Watch on Aeon</a></p>",
-    "isoDate": "2026-07-09T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "54fc3ac6ca24ceeebecfa78bd3f3c2811eed36a2",
-    "title": "How to offset your brain",
-    "link": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
-    "summary": "<p><img alt=\"A modern office reception with hanging lights, a person at a desk and reflections in the glass.\" src=\"https://images.aeonmedia.co/images/f0936c52-9ccb-4465-b858-d4c2013ba869/essay-gettyimages-1227857130.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>From confirmation bias to loss aversion, everyone suffers from cognitive biases. Skilfully targeted mindfulness can help</p><p><em>- by Stephanie Dorais</em></p><p><a href=\"https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases\">Read on Aeon</a></p>",
-    "isoDate": "2026-07-09T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Stephanie Dorais",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
