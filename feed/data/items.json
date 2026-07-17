@@ -1,7 +1,65 @@
 [
   {
+    "id": "4820447d690ee446a2857d1f1e0b383865eca467",
+    "title": "Tesla FSD Investigation: NTSB Confirms Driver Pressed Accelerator in House Crash",
+    "link": "https://www.notateslaapp.com/news/4452/ntsb-confirms-driver-overrode-fsd-in-house-crash-investigation",
+    "summary": "The NTSB's preliminary report on the fatal Texas crash definitively vindicates Tesla's FSD, confirming a manual 100% accelerator override.&hellip; <a href=\"https://www.notateslaapp.com/news/4452/ntsb-confirms-driver-overrode-fsd-in-house-crash-investigation\">Read More</a>",
+    "isoDate": "2026-07-17T13:20:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/model3-65.jpg/e332a00e230a1c4f6698175b79fa7d8e/model3-65.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9565ee65f8734127271ea595494eef022ef4fdd7",
+    "title": "Microsoft gives admins Exchange Online breathing room",
+    "link": "https://www.theregister.com/saas/2026/07/17/microsoft-gives-admins-exchange-online-breathing-room/5274346",
+    "summary": "Retirement of PowerShell -Credential parameter pushed back to the end of 2026",
+    "isoDate": "2026-07-17T13:20:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=253149&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bb5b870808abebb450142d15c49db1e917af7dd5",
+    "title": "Top EU court clips YouTube's intermediary defense over reviewed content",
+    "link": "https://www.theregister.com/off-prem/2026/07/17/top-eu-court-clips-youtubes-intermediary-defense-over-reviewed-content/5274299",
+    "summary": "You can't claim to be a passive host after vetting a creator's channel, Google warned",
+    "isoDate": "2026-07-17T12:35:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=263145&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6b1da03bfef5ee0f4a2d27eadde636391c972dcc",
+    "title": "Attackers target critical FortiSandbox flaws as CISA issues patch order",
+    "link": "https://www.theregister.com/security/2026/07/17/attackers-target-critical-fortisandbox-flaws-as-cisa-issues-patch-order/5274287",
+    "summary": "Command injection vulns land on exploited list after researchers spot abuse attempts",
+    "isoDate": "2026-07-17T11:58:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5274310&width=800",
+    "pinned": false
+  },
+  {
     "id": "b39edad73c29a0cbe10d6b6a12b524c33666d8af",
-    "title": "National Academies: Climate attribution is maturing, but still has limits",
+    "title": "The report oil companies are worried about: Climate attribution science",
     "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
     "summary": "New report says our ability to tie weather damages to climate change is improving.",
     "isoDate": "2026-07-17T11:30:10Z",
@@ -157,6 +215,21 @@
       "UFOs"
     ],
     "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6ce79d9b3a9936f2eb944fea8cab303d6c1beea2",
+    "title": "Microsoft open-sources Comic Chat, its cartoon IRC curiosity",
+    "link": "https://www.theregister.com/offbeat/2026/07/17/microsoft-open-sources-comic-chat-its-cartoon-irc-curiosity/5274382",
+    "summary": "Step back three decades to 'a period when software teams were willing to color outside the lines'",
+    "isoDate": "2026-07-17T07:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=1681406&width=800",
     "pinned": false
   },
   {
@@ -1223,21 +1296,6 @@
     "pinned": false
   },
   {
-    "id": "f689d2a01ac1c3358f6f3d4ba1a37950b4b81021",
-    "title": "Software bloat? This elevator needs an 8GB Core i5",
-    "link": "https://www.theregister.com/offbeat/2026/07/15/software-bloat-this-elevator-needs-an-8gb-core-i5/5270901",
-    "summary": "This elevator is headed for floor Bork",
-    "isoDate": "2026-07-15T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5270920&width=800",
-    "pinned": false
-  },
-  {
     "id": "79b7f7f5150b66dcf333c168af02d1db93e00b07",
     "title": "Is the origin of government itself actually just a conspiracy to oppress us?",
     "link": "https://www.skeptic.org.uk/2026/07/is-the-origin-of-government-itself-actually-just-a-conspiracy-to-oppress-us/",
@@ -1250,51 +1308,6 @@
       "Politics"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "51af0494a5b909e6fbfcbe22c92c03031f95efd0",
-    "title": "OpenMandriva's accused repo wrecker says it wasn't sabotage – it was a message",
-    "link": "https://www.theregister.com/os-platforms/2026/07/15/openmandrivas-accused-repo-wrecker-says-it-wasnt-sabotage-it-was-a-message/5270511",
-    "summary": "Ex-contributor claims he wasn't a rogue admin, hadn't left the project, and never intended to harm the distro",
-    "isoDate": "2026-07-15T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=255807&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8494466b1b7136d423c3a7cb7745ef707845a97a",
-    "title": "The Star Wars cantina scene shows we need a new hope for the agentic web",
-    "link": "https://www.theregister.com/columnists/2026/07/15/the-star-wars-cantina-scene-shows-we-need-a-new-hope-for-the-agentic-web/5270946",
-    "summary": "'We don't serve their kind here' protects today's publishers, but won't help rebels destroy the monetization Death Stars built by Google and Meta",
-    "isoDate": "2026-07-15T07:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=224835&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9e2003119484ce1fc858e039b34f8ddd105f1ad9",
-    "title": "At last, a good reason to buy an AI PC: Reining in runaway token bills",
-    "link": "https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589",
-    "summary": "Gartner thinks we’re headed to a hybrid AI model where you offload stuff to the desktop whenever possible",
-    "isoDate": "2026-07-15T06:26:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=252868&width=800",
     "pinned": false
   },
   {
