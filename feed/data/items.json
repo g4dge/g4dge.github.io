@@ -1,5 +1,92 @@
 [
   {
+    "id": "b39edad73c29a0cbe10d6b6a12b524c33666d8af",
+    "title": "National Academies: Climate attribution is maturing, but still has limits",
+    "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
+    "summary": "New report says our ability to tie weather damages to climate change is improving.",
+    "isoDate": "2026-07-17T11:30:10Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "attribution",
+      "climate change",
+      "Climate science",
+      "damages",
+      "Earth science",
+      "Weather",
+      "weather extremes"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1167319798-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ba7d2fb03895a2d50e8fc65595fca1e53fc47b98",
+    "title": "SpaceX Starship Flight Test 13 takes issue with the 'flight' bit",
+    "link": "https://www.theregister.com/science/2026/07/17/spacex-starship-flight-test-13-takes-issue-with-the-flight-bit/5274228",
+    "summary": "Engine replacement needed after launchpad abort",
+    "isoDate": "2026-07-17T11:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=5238835&width=800",
+    "pinned": false
+  },
+  {
+    "id": "60723f3834b8c78dd92f40da16562e79098e87e1",
+    "title": "2026 Lucid Gravity Touring review: A strong act 2",
+    "link": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
+    "summary": "Quick, comfortable, roomy, and agile for a large electric SUV.",
+    "isoDate": "2026-07-17T11:00:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jim Resnick",
+    "tags": [
+      "Cars",
+      "Features",
+      "car review",
+      "Lucid Gravity"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/5F3A7900-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ed7460705fdfe6f7a61dc774df9eb66a08860cf6",
+    "title": "Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?",
+    "link": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
+    "summary": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
+    "isoDate": "2026-07-17T11:00:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "rocket report",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/HNXUiZqWEAEnWu_-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "651e2c1165e67cb9f3816ff957dd391e523a6ae2",
+    "title": "Europe's chip ambitions won't break dependence on US cloud and software, says Forrester",
+    "link": "https://www.theregister.com/paas-and-iaas/2026/07/17/europes-chip-ambitions-wont-break-dependence-on-us-cloud-and-software-says-forrester/5274086",
+    "summary": "Brussels may spend billions on semiconductor fabs, but tech sovereignty remains firmly in American and Chinese hands",
+    "isoDate": "2026-07-17T10:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "paas and iaas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5274106&width=800",
+    "pinned": false
+  },
+  {
     "id": "c7b8a3c2949a2fbcbdab0a3e0a003b320737cbd7",
     "title": "Ransomware curdles production at Coca-Cola's Fairlife dairy biz",
     "link": "https://www.theregister.com/cyber-crime/2026/07/17/ransomware-curdles-production-at-coca-colas-fairlife-dairy-biz/5274157",
@@ -700,31 +787,6 @@
     "pinned": false
   },
   {
-    "id": "112c072ebfa8ae0e4189e6de05fdeccbd9fda6cf",
-    "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
-    "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
-    "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
-    "isoDate": "2026-07-16T11:00:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Space",
-      "Tech",
-      "global navigation satellite systems",
-      "global positioning systems",
-      "GNSS",
-      "GPS",
-      "leo",
-      "low earth orbit",
-      "low-earth orbit satellites",
-      "satellites",
-      "Xona Space Systems"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Xona_InSitu_Orbit_03-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "a36ce0861ed8c11e98b4ebd1349ee26fd599ee51",
     "title": "SpaceX open sources Grok Build in same week company was found beaming users' repos to the cloud",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/16/spacex-open-sources-grok-build-after-data-retention-furore/5272333",
@@ -886,32 +948,6 @@
     "pinned": false
   },
   {
-    "id": "040a1160ff5611d627bc67910e24796e3cd3fbf2",
-    "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-    "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-    "summary": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
-    "isoDate": "2026-07-15T22:36:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "bethesda",
-      "Bethesda Game Studios",
-      "id Software",
-      "idtech",
-      "layoffs",
-      "microsoft",
-      "rally",
-      "union",
-      "XBox",
-      "zenimax",
-      "Zenimax Online"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rally13-500x500-1784152696.jpeg",
-    "pinned": false
-  },
-  {
     "id": "6f46f0b1d63eaad83ca12df6b0e8ce22ed07c6bf",
     "title": "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/15/cadences-aurastack-agent-melds-ai-with-hpc-to-speed-pcb-advanced-packaging-design/5271465",
@@ -927,39 +963,6 @@
     "pinned": false
   },
   {
-    "id": "3c9066e4be54f2ac7a98bf976fb16b7721e10a69",
-    "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
-    "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
-    "summary": "While an impressive sale, the pen and switch did not break records.",
-    "isoDate": "2026-07-15T22:10:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Robert Pearlman",
-    "tags": [
-      "Space",
-      "Apollo 11",
-      "ascent engine",
-      "buzz aldrin",
-      "circuit breaker",
-      "Duro",
-      "engine arm",
-      "Family Trust",
-      "felt-tip",
-      "Geek Week",
-      "neil armstrong",
-      "new york",
-      "pen",
-      "Sotheby's",
-      "space artifact",
-      "Space exploration",
-      "space history",
-      "space memorabilia",
-      "Switch"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-071526a-lg-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2b9322762e4c3a26d6a20bdaccc1d0266ba7df45",
     "title": "Tesla Model Y L Launch Series Now on Display in Stores",
     "link": "https://www.notateslaapp.com/news/4442/tesla-model-y-l-launch-series-now-on-display-in-stores",
@@ -970,23 +973,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/tesla-model-y-l-launch-series-display-tesla-stores-1.webp/37a11da83194f411e13b81880f58c394/tesla-model-y-l-launch-series-display-tesla-stores-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d646b92a688c6396f009ab32e4be81d2fd3973ec",
-    "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-    "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-    "summary": "The convenience store chain will use StorMagic instead.",
-    "isoDate": "2026-07-15T21:41:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Biz & IT",
-      "Broadcom",
-      "vmware"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-500x395.jpg",
     "pinned": false
   },
   {
@@ -1309,36 +1295,6 @@
       "personal tech"
     ],
     "image": "https://image.theregister.com/?imageId=252868&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ba26c651d86a765bb078a5e73e8ead399dadef98",
-    "title": "South Korea to launch universal basic AI chatbot",
-    "link": "https://www.theregister.com/public-sector/2026/07/15/south-korea-to-launch-universal-basic-ai-chatbot/5271566",
-    "summary": "Tender calls for providers to power free service with local LLMs, government to supply some GPUs",
-    "isoDate": "2026-07-15T04:54:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=260291&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4b49c60b0ee7ffba36f1c5b468d074fa77e40391",
-    "title": "Australia demands AI companies must produce more energy than they consume, stop ‘theft’ of content",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535",
-    "summary": "PM frames sweeping new regulations as the equivalent of labour movement touchstones like winning a minimum wage",
-    "isoDate": "2026-07-15T03:40:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=262207&width=800",
     "pinned": false
   },
   {
