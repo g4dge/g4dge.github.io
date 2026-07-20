@@ -1,5 +1,95 @@
 [
   {
+    "id": "32589b101f40193e4838230d337ad0761bab0965",
+    "title": "The Document Foundation says Microsoft's file formats keep users on a short leash",
+    "link": "https://www.theregister.com/applications/2026/07/20/the-document-foundation-says-microsofts-file-formats-keep-users-on-a-short-leash/5274960",
+    "summary": "OOXML may carry an ISO certificate, but only Office can be trusted to render it properly",
+    "isoDate": "2026-07-20T16:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=257141&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c3d19f5d3ea9a3b6b77af4f09b35477ff565e352",
+    "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
+    "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
+    "summary": "Many will say Spa is the best racetrack on earth, but not for these F1 cars.",
+    "isoDate": "2026-07-20T15:59:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "F1",
+      "Formula 1"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286209291-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2b011673b56c1241fcbc01bdccd6d5ec12753147",
+    "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
+    "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
+    "summary": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
+    "isoDate": "2026-07-20T15:32:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "AliExpress",
+      "Counterfeit goods",
+      "Digital Services Act",
+      "DSA",
+      "European Commission",
+      "european union",
+      "online retailer"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e1552c4b20daecbd0518fbc746804a378f87aa10",
+    "title": "Microsoft 365 calendars become spy drop boxes in HOLLOWGRAPH campaign",
+    "link": "https://www.theregister.com/security/2026/07/20/microsoft-365-calendars-become-spy-drop-boxes-in-hollowgraph-campaign/5274982",
+    "summary": "Malware hides commands in appointments set for 2050 and uses Redmond's own cloud to phone home",
+    "isoDate": "2026-07-20T14:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242858&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1637896330b59f55979ac4074f29f5a7f7a971cf",
+    "title": "The first trailer for Avengers: Doomsday is finally here",
+    "link": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
+    "summary": "\"Something's coming. Something we may not be able to deter.\"",
+    "isoDate": "2026-07-20T14:33:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "Avengers: Doomsday",
+      "entertainment",
+      "film trailers",
+      "marvel studios",
+      "MCU Phase Six",
+      "Trailers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomsdayTOP-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "d584e26800d656033570491fe7d6e5b6ef04e0fb",
     "title": "Windows Server Update Services buckle under Microsoft's metadata mountain",
     "link": "https://www.theregister.com/systems/2026/07/20/windows-server-update-services-buckle-under-microsofts-metadata-mountain/5274843",
@@ -887,23 +977,6 @@
     "pinned": false
   },
   {
-    "id": "ed7460705fdfe6f7a61dc774df9eb66a08860cf6",
-    "title": "Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?",
-    "link": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
-    "summary": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
-    "isoDate": "2026-07-17T11:00:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "rocket report",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/HNXUiZqWEAEnWu_-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "651e2c1165e67cb9f3816ff957dd391e523a6ae2",
     "title": "Europe's chip ambitions won't break dependence on US cloud and software, says Forrester",
     "link": "https://www.theregister.com/paas-and-iaas/2026/07/17/europes-chip-ambitions-wont-break-dependence-on-us-cloud-and-software-says-forrester/5274086",
@@ -1037,26 +1110,6 @@
     "pinned": false
   },
   {
-    "id": "acbbfd25a3daf5864603240d9bb0ac53ba1c0817",
-    "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-    "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-    "summary": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
-    "isoDate": "2026-07-17T00:02:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "launch",
-      "spacex",
-      "Starbase",
-      "starship",
-      "starship flight 13"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipf13abort-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "081170a4c62b2f5223ca402c39bc858be488b1df",
     "title": "Chinese memory ban would cut off RAMpocalypse relief",
     "link": "https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993",
@@ -1084,28 +1137,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5274031&width=800",
-    "pinned": false
-  },
-  {
-    "id": "224f272240528dd5da5354dbf196518f654e5688",
-    "title": "Two Trump health nominees crash and burn in tense Senate hearing",
-    "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
-    "summary": "Both nominees flailed in their own unique ways as senators sought answers.",
-    "isoDate": "2026-07-16T22:33:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anti-vaccine",
-      "Cassidy",
-      "Erica Schwartz",
-      "robert f kennedy jr",
-      "sanders",
-      "Sean Kaufman",
-      "Senate"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286229894-500x500.jpg",
     "pinned": false
   },
   {
@@ -1338,36 +1369,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=4091468&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5ee2d80e23b91e2716d39855b62340eef3702e37",
-    "title": "Windows 10 refuses to die, and the security bill is coming due",
-    "link": "https://www.theregister.com/os-platforms/2026/07/16/windows-10-refuses-to-die-and-the-security-bill-is-coming-due/5271987",
-    "summary": "One in six machines still run the old OS as migration stalls and patch deadlines creep closer",
-    "isoDate": "2026-07-16T11:25:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5247910&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a36ce0861ed8c11e98b4ebd1349ee26fd599ee51",
-    "title": "SpaceX open sources Grok Build in same week company was found beaming users' repos to the cloud",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/16/spacex-open-sources-grok-build-after-data-retention-furore/5272333",
-    "summary": "AI-and-X subsidiary now claims to offer ‘complete user privacy’ days after Elon Musk confirmed the data would be deleted",
-    "isoDate": "2026-07-16T11:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093846&width=800",
     "pinned": false
   },
   {
