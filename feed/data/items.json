@@ -1,5 +1,35 @@
 [
   {
+    "id": "435c60fea4ace5092e6ca247d8cabbdb9ec50082",
+    "title": "Google Cloud outage shows it’s still hard to understand hyperscalers’ real resilience regimes",
+    "link": "https://www.theregister.com/off-prem/2026/07/21/google-cloud-outage-shows-its-still-hard-to-understand-hyperscalers-real-resilience-regimes/5275405",
+    "summary": "Single datacenter and just three services taken down by ‘upstream’ power problem, while the rest of a zone and region kept humming",
+    "isoDate": "2026-07-21T05:39:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=255322&width=800",
+    "pinned": false
+  },
+  {
+    "id": "edd9d1868ed9f8214ad6968671e320015b4f889d",
+    "title": "OVH reveals semi-secret plan to fix critical Januscape hypervisor bug with mass reboots – and an Australian crash-test dummy",
+    "link": "https://www.theregister.com/virtualization/2026/07/21/ovh-reveals-semi-secret-plan-to-fix-critical-januscape-hypervisor-bug-with-mass-reboots-and-an-australian-crash-test-dummy/5275359",
+    "summary": "French cloud backported a patch into Debian and didn’t seek customer consent, despite chance of downtime",
+    "isoDate": "2026-07-21T03:52:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=225297&width=800",
+    "pinned": false
+  },
+  {
     "id": "11a5d5cb495f114867606ac70323902beab71edb",
     "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
     "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
@@ -1377,36 +1407,6 @@
       "software"
     ],
     "image": "https://image.theregister.com/?imageId=1683560&width=800",
-    "pinned": false
-  },
-  {
-    "id": "815576f69f3d9219a573d1eb1fa5efc5f0b95531",
-    "title": "Kick your mouse out of the house with this AI-assisted keyboard utility",
-    "link": "https://www.theregister.com/software/2026/07/16/kick-your-mouse-out-of-the-house-with-this-ai-assisted-keyboard-utility/5271938",
-    "summary": "Neverclick avoids being limited to certain apps by ditching accessibility APIs for a quick, lightweight computer vision model.",
-    "isoDate": "2026-07-16T15:46:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=230448&width=800",
-    "pinned": false
-  },
-  {
-    "id": "afbbe49ed9501740851d6661bffa94155ab138a9",
-    "title": "C'mon, just copy this text string and paste it into your macOS Terminal – it'll fix your computer, honest",
-    "link": "https://www.theregister.com/cyber-crime/2026/07/16/cmon-just-copy-this-text-string-and-paste-it-into-your-macos-terminal-itll-fix-your-computer-honest/5273701",
-    "summary": "Newly documented stealer ClickLock comes for the more trusting Mac user with spot of social engineering",
-    "isoDate": "2026-07-16T15:33:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5273738&width=800",
     "pinned": false
   },
   {
