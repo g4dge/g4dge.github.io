@@ -1,5 +1,63 @@
 [
   {
+    "id": "6fe920afa0bd569c9a04214755bb52f6a487de4d",
+    "title": "Valve's Steam Frame pushes Arch Linux toward official Arm64 support",
+    "link": "https://www.theregister.com/os-platforms/2026/07/21/valves-steam-frame-pushes-arch-linux-toward-official-arm64-support/5275459",
+    "summary": "Collabora's Holo Core port lays the groundwork for running SteamOS 3 natively on the headset",
+    "isoDate": "2026-07-21T11:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=255001&width=800",
+    "pinned": false
+  },
+  {
+    "id": "60f83a3adf9965764a1559ec6dc84f0907217a4b",
+    "title": "Viking 1 landed on Mars 50 years ago",
+    "link": "https://www.theregister.com/science/2026/07/21/viking-1-landed-on-mars-50-years-ago/5275041",
+    "summary": "And would have lasted longer if some code hadn't trampled on places it shouldn't",
+    "isoDate": "2026-07-21T10:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=228618&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ebc7ece89d33a187c2d08f9fa662d31466ca6dbc",
+    "title": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out",
+    "link": "https://www.theregister.com/systems/2026/07/21/scalding-hot-ai-accelerators-have-put-datacenters-in-hot-water-two-phase-cooling-could-chill-them-out/5275293",
+    "summary": "Startup Accelsius claims it can achieve up to 14° C cooler GPU temps by by converting a liquid-cooled Dell PowerEdge to run on refrigerants",
+    "isoDate": "2026-07-21T10:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=250195&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b8e2f2dfc594355dda940fa28e6836b1d1dbd5eb",
+    "title": "The people’s atheist",
+    "link": "https://aeon.co/essays/the-rural-french-priest-who-preached-atheism-to-the-people",
+    "summary": "<p><img alt=\"Painting of two figures praying in a field at dusk with a pitchfork and wheelbarrow nearby, evoking a serene, rural setting.\" src=\"https://images.aeonmedia.co/images/5797cb35-a6a7-463c-b7ac-2e701cc26dc2/essay-jean-francois_millet_-_el_angelus_museo_de_orsay_1857-1859_oleo_sobre_lienzo_55_5_x_66_cm.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Jean Meslier, a rural French priest, argued that religion is designed to produce subjects who will automatically obey</p><p><em>- by Nidal Taibi</em></p><p><a href=\"https://aeon.co/essays/the-rural-french-priest-who-preached-atheism-to-the-people\">Read on Aeon</a></p>",
+    "isoDate": "2026-07-21T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Nidal Taibi",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "dcb4037534169f0a1f19f4ebb7778e025d59a7cb",
     "title": "Some Mullvad VPN customers tunnel for exit after co-founder donates millions to populist party",
     "link": "https://www.theregister.com/software/2026/07/21/some-mullvad-vpn-customers-tunnel-for-exit-after-co-founder-donates-millions-to-populist-party/5275012",
@@ -1354,36 +1412,6 @@
     "pinned": false
   },
   {
-    "id": "f2ef4c905631a50d57da16e395216f61cb2a4227",
-    "title": "OpenAI admits GPT-5.6 occasionally deletes files – but it's an 'honest mistake'",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/16/openai-admits-gpt-56-occasionally-deletes-files-but-its-an-honest-mistake/5274008",
-    "summary": "Data purges deemed an example of 'misaligned behavior' that upstart is working to avoid",
-    "isoDate": "2026-07-16T22:50:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5274031&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8477d9ed5d722524f0e88ace13f07b62cdeb6f1f",
-    "title": "Amsterdam activists throw acid at Microsoft datacenter project",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/16/amsterdam-activists-throw-acid-at-microsoft-datacenter-project/5273943",
-    "summary": "Extinction Rebellion claims responsibility for chemical-filled balloon attack targeting concrete and steel",
-    "isoDate": "2026-07-16T21:04:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5273965&width=800",
-    "pinned": false
-  },
-  {
     "id": "97b9999bf8c559ed098810058b422d8321ce3e2b",
     "title": "Tesla's 2026 Q2 Earnings Call: How to Listen",
     "link": "https://www.notateslaapp.com/news/4453/teslas-2026-q2-earnings-call-how-to-listen",
@@ -1394,21 +1422,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_52.jpg/25dc7dbde319434d0d2d61903c265f5c/group_52.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c091175a159de071d2efb221b6fdafb7b7ce97f5",
-    "title": "Researcher poisons open-weight AI model for under $100",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-open-weight-ai-model-for-under-100/5273880",
-    "summary": "Models demand trust without offering verification",
-    "isoDate": "2026-07-16T20:25:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=227279&width=800",
     "pinned": false
   },
   {
@@ -1606,19 +1619,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-mobile-app-rainbow-road-visualization-2.webp/ede48a87b8b0642b96cb20331962c7ca/tesla-mobile-app-rainbow-road-visualization-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b8605572f740badefb5e7d14ce04ccc9b53589a7",
-    "title": "The looting of science fiction",
-    "link": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
-    "summary": "<p><img alt=\"Painting of a cylindrical space habitat with green landscapes, rivers and planets visible against a starry sky.\" src=\"https://images.aeonmedia.co/images/e407d3ab-bc75-4346-b2fc-dbbd9b7a4a68/sz-cylinder_interior_ac75-1086_5732.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Tech titans claim the genre inspired them. But all they’ve done is graft their politics onto stories of a better future</p><p><em>- by Ali Rıza Taşkale</em></p><p><a href=\"https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem\">Read on Aeon</a></p>",
-    "isoDate": "2026-07-14T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Ali Rıza Taşkale",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
