@@ -1,5 +1,70 @@
 [
   {
+    "id": "1ece4b26cff4b4b3ba406bbc3d7a892e8b5f4afc",
+    "title": "Sales were up at Tesla but so were costs and spending",
+    "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+    "summary": "Q2 2026 was profitable, but barely.",
+    "isoDate": "2026-07-22T21:15:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Tesla earnings"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6deb0d73825f0819c868d73606c015037787b4f0",
+    "title": "Google Cloud is killing it",
+    "link": "https://www.theregister.com/paas-and-iaas/2026/07/22/google-cloud-is-killing-it/5276632",
+    "summary": "It's Alphabet's fastest-growing business and now makes up more than a fifth of the juggernaut's revenue and operating profit",
+    "isoDate": "2026-07-22T21:01:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "paas and iaas"
+    ],
+    "image": "https://image.theregister.com/?imageId=1663046&width=800",
+    "pinned": false
+  },
+  {
+    "id": "24980d9a2196b9863979ddd96b9b4876d58de1cb",
+    "title": "France Says Tesla FSD Isn't Safe Enough, Requires Changes",
+    "link": "https://www.notateslaapp.com/news/4480/france-says-tesla-fsd-isnt-safe-enough-requires-changes",
+    "summary": "France has officially decided not to approve FSD in its current form, claiming the system raises too many safety concerns to allow it on public roads today&hellip; <a href=\"https://www.notateslaapp.com/news/4480/france-says-tesla-fsd-isnt-safe-enough-requires-changes\">Read More</a>",
+    "isoDate": "2026-07-22T20:41:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-vehicle-safety-report-hero.webp/a176579394101d559b8194280ce52c51/tesla-fsd-vehicle-safety-report-hero.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bc7f9600788c7ea4e7531f322bde8935d6c1d2bd",
+    "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+    "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+    "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
+    "isoDate": "2026-07-22T20:36:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "back compat",
+      "backward compatibility",
+      "microsoft",
+      "pc",
+      "Windows",
+      "XBox"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-500x500.webp",
+    "pinned": false
+  },
+  {
     "id": "0ee7d54eb1e6504728c14cbfac3d8c4544df1ce0",
     "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
     "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
@@ -15,6 +80,36 @@
       "ISPs"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/bill-shock-500x500-1784750357.jpg",
+    "pinned": false
+  },
+  {
+    "id": "897d116a30bde98b537b939463468f7597c4b0f3",
+    "title": "Web app turns your old phone into a new smart display",
+    "link": "https://www.theregister.com/offbeat/2026/07/22/web-app-turns-your-old-phone-into-a-new-smart-display/5276554",
+    "summary": "ScreenWall's creator tells El Reg he doesn't want those obsolete devices going to waste",
+    "isoDate": "2026-07-22T20:15:40Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5276601&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c0dcff7b6929c14b9a3664b0081a6583e4dd1bfe",
+    "title": "Sovereign AI is 'nonsense,' says Doctorow",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/22/sovereign-ai-is-nonsense-says-doctorow/5276578",
+    "summary": "As Trump dismantles the US-led world order, what the rest of the world really needs is sovereign apps and datacenters, argues 'enshittification' coiner",
+    "isoDate": "2026-07-22T19:48:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5276598&width=800",
     "pinned": false
   },
   {
@@ -806,25 +901,6 @@
     "pinned": false
   },
   {
-    "id": "d2db57030379bea00ecc9d54b0dffd9ae4c1c332",
-    "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-    "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-    "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
-    "isoDate": "2026-07-21T16:58:25Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "gemini",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e1a2e20915ebee32bcbf6c2fd4978d154d26f477",
     "title": "Oracle faces $100M annual bill to back Wisconsin datacenter power promises",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/21/oracle-faces-100m-annual-bill-to-back-wisconsin-datacenter-power-promises/5275728",
@@ -878,24 +954,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-expansion-tampa-orlando.webp/d6364112d499be016ec67420b2e7add8/tesla-robotaxi-expansion-tampa-orlando.jpg",
-    "pinned": false
-  },
-  {
-    "id": "28ab33062c0aeaab61a67acf5e85289a55483052",
-    "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-    "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-    "summary": "\"Current economic conditions\" have shifted TreeSize's business model.",
-    "isoDate": "2026-07-21T15:18:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Biz & IT",
-      "Tech",
-      "apps",
-      "software"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-500x500.png",
     "pinned": false
   },
   {
@@ -1339,51 +1397,6 @@
     "pinned": false
   },
   {
-    "id": "6c9b6cd4bba1b4c22a6203fa7e95a7bc442b1566",
-    "title": "Infosec expert: Paidwork users' data pwned after 23M-record database dumped online",
-    "link": "https://www.theregister.com/cyber-crime/2026/07/20/infosec-expert-paidwork-users-data-pwned-after-23m-record-database-dumped-online/5274869",
-    "summary": "HIBP claims leaked info includes bank account numbers, payout histories, and personal details",
-    "isoDate": "2026-07-20T12:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5263225&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c2d78308f2fb87bd4e75e70c078b2a13f29edc86",
-    "title": "Microsoft rushes out Windows fix for Dell's hot and bothered PCs",
-    "link": "https://www.theregister.com/os-platforms/2026/07/20/microsoft-rushes-out-windows-fix-for-dells-hot-and-bothered-pcs/5274810",
-    "summary": "With a wave of the wand, affected models will go to the Patch Tuesday ball after all",
-    "isoDate": "2026-07-20T11:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093890&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c71de6ccdf75d5f7ccab67d8ab369ecbea80c05d",
-    "title": "UK's seventh prime minister in a decade says he'll ditch digital ID scheme",
-    "link": "https://www.theregister.com/public-sector/2026/07/20/uks-seventh-prime-minister-in-a-decade-says-hell-ditch-digital-id-scheme/5274794",
-    "summary": "One of Labour's biggest technology projects is headed for the bin as Burnham reshuffles Whitehall's priorities",
-    "isoDate": "2026-07-20T10:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5269830&width=800",
-    "pinned": false
-  },
-  {
     "id": "447dd8ec71abcd206f3ec0065df5e0deeea2c04d",
     "title": "The Skinner revolution",
     "link": "https://aeon.co/videos/how-bf-skinner-upended-our-understanding-of-behaviour-and-control",
@@ -1647,19 +1660,6 @@
     "author": "Anton Cebalo",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2b9322762e4c3a26d6a20bdaccc1d0266ba7df45",
-    "title": "Tesla Model Y L Launch Series Now on Display in Stores",
-    "link": "https://www.notateslaapp.com/news/4442/tesla-model-y-l-launch-series-now-on-display-in-stores",
-    "summary": "The wait to check out Tesla’s newest stretched crossover in person is officially over for order holders and curious buyers across the U.S.&hellip; <a href=\"https://www.notateslaapp.com/news/4442/tesla-model-y-l-launch-series-now-on-display-in-stores\">Read More</a>",
-    "isoDate": "2026-07-15T22:10:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/tesla-model-y-l-launch-series-display-tesla-stores-1.webp/37a11da83194f411e13b81880f58c394/tesla-model-y-l-launch-series-display-tesla-stores-1.jpg",
     "pinned": false
   }
 ]
