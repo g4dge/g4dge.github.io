@@ -1,5 +1,35 @@
 [
   {
+    "id": "66f23a04a54473cf76edf409f1f9ab7bbbf9eb59",
+    "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
+    "summary": "Sandboxed experiment found itself a zero day, escaped onto the open internet and validated scary predictions about rogue agents",
+    "isoDate": "2026-07-22T01:30:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=258206&width=800",
+    "pinned": false
+  },
+  {
+    "id": "afe8ea50c42734601b911975832a4b3e739f9f9a",
+    "title": "The truth nobody wants to admit: Chinese or not, open models are competitive now",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/22/the-truth-nobody-wants-to-admit-chinese-or-not-open-models-are-competitive-now/5275879",
+    "summary": "Hey Uncle Sam, if you thought GPT-5.6 and Claude Fable 5 were scary, get a load of Kimi K3",
+    "isoDate": "2026-07-21T23:09:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=258833&width=800",
+    "pinned": false
+  },
+  {
     "id": "dd5b31d5f9c9b4f95f30e3045eef4e52ad39e4f2",
     "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
     "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
@@ -1401,21 +1431,6 @@
     "pinned": false
   },
   {
-    "id": "7121ceba379576e8b3dfde936bcfae8925c04b0d",
-    "title": "Torvalds challenged the haters to fork Linux. Someone said 'hold my beer'",
-    "link": "https://www.theregister.com/os-platforms/2026/07/17/torvalds-challenged-the-haters-to-fork-linux-someone-said-hold-my-beer/5274275",
-    "summary": "More a rewrite really, and of a very early version: Linux 0.11 – in Rust",
-    "isoDate": "2026-07-17T14:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=261785&width=800",
-    "pinned": false
-  },
-  {
     "id": "4820447d690ee446a2857d1f1e0b383865eca467",
     "title": "Tesla FSD Investigation: NTSB Confirms Driver Pressed Accelerator in House Crash",
     "link": "https://www.notateslaapp.com/news/4452/ntsb-confirms-driver-overrode-fsd-in-house-crash-investigation",
@@ -1426,21 +1441,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/model3-65.jpg/e332a00e230a1c4f6698175b79fa7d8e/model3-65.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9565ee65f8734127271ea595494eef022ef4fdd7",
-    "title": "Microsoft gives admins Exchange Online breathing room",
-    "link": "https://www.theregister.com/saas/2026/07/17/microsoft-gives-admins-exchange-online-breathing-room/5274346",
-    "summary": "Retirement of PowerShell -Credential parameter pushed back to the end of 2026",
-    "isoDate": "2026-07-17T13:20:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=253149&width=800",
     "pinned": false
   },
   {
