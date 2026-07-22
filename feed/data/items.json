@@ -1,5 +1,94 @@
 [
   {
+    "id": "0ee7d54eb1e6504728c14cbfac3d8c4544df1ce0",
+    "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+    "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+    "summary": "FCC lets ISPs stop listing all fees after companies complained it was too hard.",
+    "isoDate": "2026-07-22T20:17:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "broadband labels",
+      "FCC",
+      "ISPs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/bill-shock-500x500-1784750357.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e60257a966e729beb8854903ac0dce96dea9534c",
+    "title": "Tesla Launches Dedicated Self-Driving Section in Tesla App",
+    "link": "https://www.notateslaapp.com/news/4479/tesla-launches-self-driving-section-in-tesla-app",
+    "summary": "Rather than having to step inside the vehicle to review your FSD usage, key statistics are now making their way straight to the Tesla app on mobile&hellip; <a href=\"https://www.notateslaapp.com/news/4479/tesla-launches-self-driving-section-in-tesla-app\">Read More</a>",
+    "isoDate": "2026-07-22T19:39:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/self-driving-tesla-app-1784747633.webp/bd9ade19fb53ecd751dc38f812e8936e/self-driving-tesla-app-1784747633.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3edc70c90531be63d9de30b689b343b04a6d0d99",
+    "title": "Clayface trailer leans into the body horror",
+    "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
+    "summary": "\"The people I trusted betrayed me. The justice system failed me.\"",
+    "isoDate": "2026-07-22T19:18:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "Clayface",
+      "DCU",
+      "entertainment",
+      "Trailers",
+      "Warner Bros."
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/clayfaceTOP-500x500-1784745428.jpg",
+    "pinned": false
+  },
+  {
+    "id": "aed7d0e65a3ebd0f490daba098af4dc1a485dc61",
+    "title": "Fresh off AI layoffs, Block now wants to whack Slack with agent-human collab tool",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/22/fresh-off-ai-layoffs-block-now-wants-to-whack-slack-with-agent-human-collab-tool/5276529",
+    "summary": "Because what could be more appealing to humans than sharing virtual space with AI?",
+    "isoDate": "2026-07-22T18:57:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=255983&width=800",
+    "pinned": false
+  },
+  {
+    "id": "46cb8ce6f449e78a113748672eed9b368b90784a",
+    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+    "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+    "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
+    "isoDate": "2026-07-22T18:18:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "boston dynamics",
+      "humanoid robots",
+      "Hyundai Motor Group",
+      "Industrial robots",
+      "labor union",
+      "organized labor",
+      "robots",
+      "united auto workers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Boston-Dynamics-robot-standing-stance-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "1be69bd092a3fcdbe9d973c4c738b9a8de789d72",
     "title": "First Look at Tesla's Custom Wraps Feature in the Mobile App [VIDEO]",
     "link": "https://www.notateslaapp.com/news/4478/first-look-at-teslas-custom-wraps-feature-in-the-mobile-app",
@@ -855,23 +944,6 @@
     "pinned": false
   },
   {
-    "id": "674dd71a4230d927fc2797054a45e68c48e1487d",
-    "title": "When your vehicle outlives its cloud: What happens next?",
-    "link": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
-    "summary": "Automakers love connected vehicles, but support isn't open-ended.",
-    "isoDate": "2026-07-21T13:36:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Michael Harley",
-    "tags": [
-      "Cars",
-      "Features",
-      "connected cars"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "19debbae9e7dbf6b9065518b6e32a73e86acc5d9",
     "title": "Tesla FSD V14 Lite for HW3 Vehicles Begins Public Rollout",
     "link": "https://www.notateslaapp.com/news/4468/tesla-fsd-v14-lite-starts-rolling-out-publicly",
@@ -882,44 +954,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-app-fsd-status-vis-hw3-1784636064.webp/d213288a0964483cf7a03c1cf1bf9e92/tesla-app-fsd-status-vis-hw3-1784636064.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8f280ca2ddb152897e9218e90fa74f5d7ed2d236",
-    "title": "Apps targeted at US troops contain Chinese and Russian code",
-    "link": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
-    "summary": "More than one-eighth of apps analyzed contained foreign code.",
-    "isoDate": "2026-07-21T13:19:38Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dell Cameron, wired.com",
-    "tags": [
-      "Security",
-      "china",
-      "Code audit",
-      "Military",
-      "russia",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/china-russia-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "619f95b06a3cb997b0ca639c115bdc35625f6243",
-    "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-    "link": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
-    "summary": "It starts at just under $25,000, but the hybrid won't arrive until next year.",
-    "isoDate": "2026-07-21T13:00:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "car review",
-      "First drive",
-      "Kia Seltos"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-500x500.jpg",
     "pinned": false
   },
   {
@@ -1363,21 +1397,6 @@
     "pinned": false
   },
   {
-    "id": "e96909f3ce2437dc652dd21fff51702350b54d5b",
-    "title": "Major glitch in Matrix as UK government projects watchdog rates shared services cluster red",
-    "link": "https://www.theregister.com/public-sector/2026/07/20/major-glitch-in-matrix-as-uk-government-projects-watchdog-rates-shared-services-cluster-red/5274368",
-    "summary": "Nine-department ERP overhaul judged unachievable without urgent action",
-    "isoDate": "2026-07-20T10:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=228790&width=800",
-    "pinned": false
-  },
-  {
     "id": "85766f64fc72081f73ce9f65d5ef43190290fe17",
     "title": "Beyond Greece and Rome",
     "link": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
@@ -1409,7 +1428,7 @@
     "id": "4aa686a586928340d24cbb1c344cb93e906125ec",
     "title": "Tesla Updates FSD V14 Lite (Update 2026.20.6.10) Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2026.20.6.10/release-notes",
-    "summary": "Tesla software update 2026.20.6.10 (FSD 14) includes FSD (Supervised) v14 Lite, Self-Driving App, Start Self-Driving from Park, Arrival Options, Speed Profiles, UI Improvements, Full Self-Driving (Supervised). <a href=\"https://www.notateslaapp.com/software-updates/version/2026.20.6.10/release-notes\">View Release Notes</a>",
+    "summary": "Tesla software update 2026.20.6.10 (FSD 14 Lite) includes FSD (Supervised) v14 Lite, Self-Driving App, Start Self-Driving from Park, Arrival Options, Speed Profiles, UI Improvements, Full Self-Driving (Supervised). <a href=\"https://www.notateslaapp.com/software-updates/version/2026.20.6.10/release-notes\">View Release Notes</a>",
     "isoDate": "2026-07-20T06:00:07Z",
     "source": "Not a Tesla App",
     "category": "Tech",
@@ -1641,32 +1660,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/tesla-model-y-l-launch-series-display-tesla-stores-1.webp/37a11da83194f411e13b81880f58c394/tesla-model-y-l-launch-series-display-tesla-stores-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "12305dfba0390de68a9cafce0dd4b02755e46b74",
-    "title": "SpaceX Unveils New Starlink V5 Dish: Specs and V4 Comparison",
-    "link": "https://www.notateslaapp.com/news/4441/spacex-unveils-new-starlink-v5-dish-specs-and-v4-comparison",
-    "summary": "SpaceX is aggressively upgrading its satellite internet hardware to deliver a more compact and efficient setup for stationary users&hellip; <a href=\"https://www.notateslaapp.com/news/4441/spacex-unveils-new-starlink-v5-dish-specs-and-v4-comparison\">Read More</a>",
-    "isoDate": "2026-07-15T18:42:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/starlink-v5-dish-router-mini-hero.webp/fb9a82dbf9fcda0a21c3177d966c71b8/starlink-v5-dish-router-mini-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e224f6b9bfbfa77812f30e0f32f5a617979a0e84",
-    "title": "Our New Tesla Events Page",
-    "link": "https://www.notateslaapp.com/news/4440/tesla-events",
-    "summary": "Stay up to date with every Tesla event, earnings call, AI Day, product launch, and shareholder meeting. View upcoming dates, replays, highlights, and summaries.&hellip; <a href=\"https://www.notateslaapp.com/news/4440/tesla-events\">Read More</a>",
-    "isoDate": "2026-07-15T18:18:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-events/tesla-future-models-2024-annual.jpg/8b52bd5d684fe0486176e4a5be55e663/tesla-future-models-2024-annual.jpg",
     "pinned": false
   }
 ]
