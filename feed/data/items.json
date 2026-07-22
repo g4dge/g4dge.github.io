@@ -1,5 +1,34 @@
 [
   {
+    "id": "dd5b31d5f9c9b4f95f30e3045eef4e52ad39e4f2",
+    "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+    "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
+    "summary": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
+    "isoDate": "2026-07-21T23:01:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Range Rover GT"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6ddf373edb2134e81dc7cf2973b9ca7f934f8289",
+    "title": "Tesla Update FSD V14.3.6 & FSD 14 Lite (2026.20.6.11) Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2026.20.6.11/release-notes",
+    "summary": "Tesla software update 2026.20.6.11 (FSD 14 Lite & 14.3.6) includes FSD (Supervised) v14.3.6, Actually Smart Summon, FSD (Supervised) v14 Lite, Self-Driving App, Full Self-Driving (Supervised), Start Self-Driving from Park, Arrival Options, Speed Profiles, UI Improvements, Camera Preview, Blind Spot Warning While Parked, Dashcam Clip Encryption, Parental Controls, \"Hey Grok\", Security Improvements. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.20.6.11/release-notes\">View Release Notes</a>",
+    "isoDate": "2026-07-21T22:07:57Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
+    "pinned": false
+  },
+  {
     "id": "f7b732521aeefd78141b453965f900047446e0fc",
     "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
     "link": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
@@ -14,6 +43,21 @@
       "fugitive"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e8b6d051a74bbc70542d3373ee308f082196a35b",
+    "title": "Cisco's open-weight bug busters take on Google and OpenAI",
+    "link": "https://www.theregister.com/security/2026/07/21/ciscos-open-weight-bug-busters-take-on-google-and-openai/5275817",
+    "summary": "Don't call them chatbots",
+    "isoDate": "2026-07-21T21:17:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5275853&width=800",
     "pinned": false
   },
   {
@@ -47,6 +91,21 @@
       "Trailers"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b3ffc32a9c286bb898757d43e335647f021a81bc",
+    "title": "AI's cheatin' heart will make you weep",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/21/ais-cheatin-heart-will-make-you-weep/5275784",
+    "summary": "Trust but verify doesn't work when verification is difficult",
+    "isoDate": "2026-07-21T19:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=256294&width=800",
     "pinned": false
   },
   {
@@ -867,24 +926,6 @@
     "pinned": false
   },
   {
-    "id": "c3d19f5d3ea9a3b6b77af4f09b35477ff565e352",
-    "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-    "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
-    "summary": "Many will say Spa is the best racetrack on earth, but not for these F1 cars.",
-    "isoDate": "2026-07-20T15:59:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Features",
-      "F1",
-      "Formula 1"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286209291-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e1552c4b20daecbd0518fbc746804a378f87aa10",
     "title": "Microsoft 365 calendars become spy drop boxes in HOLLOWGRAPH campaign",
     "link": "https://www.theregister.com/security/2026/07/20/microsoft-365-calendars-become-spy-drop-boxes-in-hollowgraph-campaign/5274982",
@@ -1400,36 +1441,6 @@
       "saas"
     ],
     "image": "https://image.theregister.com/?imageId=253149&width=800",
-    "pinned": false
-  },
-  {
-    "id": "bb5b870808abebb450142d15c49db1e917af7dd5",
-    "title": "Top EU court clips YouTube's intermediary defense over reviewed content",
-    "link": "https://www.theregister.com/off-prem/2026/07/17/top-eu-court-clips-youtubes-intermediary-defense-over-reviewed-content/5274299",
-    "summary": "You can't claim to be a passive host after vetting a creator's channel, Google warned",
-    "isoDate": "2026-07-17T12:35:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=263145&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6b1da03bfef5ee0f4a2d27eadde636391c972dcc",
-    "title": "Attackers target critical FortiSandbox flaws as CISA issues patch order",
-    "link": "https://www.theregister.com/security/2026/07/17/attackers-target-critical-fortisandbox-flaws-as-cisa-issues-patch-order/5274287",
-    "summary": "Command injection vulns land on exploited list after researchers spot abuse attempts",
-    "isoDate": "2026-07-17T11:58:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5274310&width=800",
     "pinned": false
   },
   {
