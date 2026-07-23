@@ -1,5 +1,20 @@
 [
   {
+    "id": "50869e864b608b5cb39279f589a1a546f4688316",
+    "title": "Google is hoarding TPUs to chase artificial general intelligence",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/23/google-is-hoarding-tpus-to-chase-artificial-general-intelligence/5276755",
+    "summary": "Yet the Chocolate Factory is also buying more third-party compute capacity to handle demand for the G-Cloud",
+    "isoDate": "2026-07-23T01:45:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5243010&width=800",
+    "pinned": false
+  },
+  {
     "id": "d922ea42da9ed9e8f0ed15aa9185e9dbee6e5ec3",
     "title": "Summary of Tesla’s 2026 Q2 Earnings Call: Cybercab, FSD, AI4+ and More",
     "link": "https://www.notateslaapp.com/news/4481/summary-of-teslas-2026-q2-earnings-call-cybercab-fsd-ai4-and-more",
@@ -13,19 +28,18 @@
     "pinned": false
   },
   {
-    "id": "1ece4b26cff4b4b3ba406bbc3d7a892e8b5f4afc",
-    "title": "Sales were up at Tesla but so were costs and spending",
-    "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
-    "summary": "Q2 2026 was profitable, but barely.",
-    "isoDate": "2026-07-22T21:15:19Z",
-    "source": "Ars Technica",
+    "id": "edf3f71c6645e694dee9d82aa2eb14f99081ab9e",
+    "title": "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-huggingface-attack-showing-how-open-chinese-models-are-winning/5276699",
+    "summary": "Closed models with guardrails can still cause harm, but may also not be able to fix problems they caused",
+    "isoDate": "2026-07-22T23:37:24Z",
+    "source": "The Register",
     "category": "Tech",
-    "author": "Jonathan M. Gitlin",
+    "author": "",
     "tags": [
-      "Cars",
-      "Tesla earnings"
+      "ai and ml"
     ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering-500x500.jpg",
+    "image": "https://image.theregister.com/?imageId=5276752&width=800",
     "pinned": false
   },
   {
@@ -54,45 +68,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-vehicle-safety-report-hero.webp/a176579394101d559b8194280ce52c51/tesla-fsd-vehicle-safety-report-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bc7f9600788c7ea4e7531f322bde8935d6c1d2bd",
-    "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-    "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-    "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
-    "isoDate": "2026-07-22T20:36:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "back compat",
-      "backward compatibility",
-      "microsoft",
-      "pc",
-      "Windows",
-      "XBox"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-500x500.webp",
-    "pinned": false
-  },
-  {
-    "id": "0ee7d54eb1e6504728c14cbfac3d8c4544df1ce0",
-    "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
-    "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
-    "summary": "FCC lets ISPs stop listing all fees after companies complained it was too hard.",
-    "isoDate": "2026-07-22T20:17:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "broadband labels",
-      "FCC",
-      "ISPs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/bill-shock-500x500-1784750357.jpg",
     "pinned": false
   },
   {
@@ -139,26 +114,6 @@
     "pinned": false
   },
   {
-    "id": "3edc70c90531be63d9de30b689b343b04a6d0d99",
-    "title": "Clayface trailer leans into the body horror",
-    "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
-    "summary": "\"The people I trusted betrayed me. The justice system failed me.\"",
-    "isoDate": "2026-07-22T19:18:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Clayface",
-      "DCU",
-      "entertainment",
-      "Trailers",
-      "Warner Bros."
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/clayfaceTOP-500x500-1784745428.jpg",
-    "pinned": false
-  },
-  {
     "id": "aed7d0e65a3ebd0f490daba098af4dc1a485dc61",
     "title": "Fresh off AI layoffs, Block now wants to whack Slack with agent-human collab tool",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/22/fresh-off-ai-layoffs-block-now-wants-to-whack-slack-with-agent-human-collab-tool/5276529",
@@ -171,29 +126,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=255983&width=800",
-    "pinned": false
-  },
-  {
-    "id": "46cb8ce6f449e78a113748672eed9b368b90784a",
-    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-    "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-    "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
-    "isoDate": "2026-07-22T18:18:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "boston dynamics",
-      "humanoid robots",
-      "Hyundai Motor Group",
-      "Industrial robots",
-      "labor union",
-      "organized labor",
-      "robots",
-      "united auto workers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Boston-Dynamics-robot-standing-stance-500x500.jpg",
     "pinned": false
   },
   {
@@ -223,23 +155,6 @@
     "pinned": false
   },
   {
-    "id": "6f472f51e23cb55196d6a4fcdeacd11a1321fe2d",
-    "title": "Next Space Force chief throws cold water on the idea of space privateers",
-    "link": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
-    "summary": "It turns out some of Benjamin Franklin's opinions from 240 years ago are still relevant today.",
-    "isoDate": "2026-07-22T17:02:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "Privateer",
-      "US Space Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-3071177-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "495c6a8057a918ff67dd8e7471ab08679f550807",
     "title": "Linux kernel team publishes 432 CVEs in two days",
     "link": "https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497",
@@ -252,27 +167,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=225803&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5d0c6b9d07fb1e2182b670874031614a63010c55",
-    "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-    "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-    "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-    "isoDate": "2026-07-22T16:47:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Security",
-      "AI alignment",
-      "cybersecurity",
-      "hack",
-      "Hugging Face",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2274109678-500x500.jpg",
     "pinned": false
   },
   {
@@ -319,26 +213,6 @@
     "pinned": false
   },
   {
-    "id": "bf66d7a685ba8500e69bfcedd67478c51f3f78dd",
-    "title": "What happens when you try to chop a photon in half?",
-    "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
-    "summary": "A mirror that moves mid-photon could release a shower of new photons.",
-    "isoDate": "2026-07-22T14:17:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Chris Lee",
-    "tags": [
-      "Science",
-      "optics",
-      "particle physics",
-      "photons",
-      "Physics",
-      "quantum mechanics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2263112099-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f23c3431fd7d453fa59ceb749022d652c1169578",
     "title": "Grok muscles into Excel with an AI add-in of its own",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138",
@@ -351,46 +225,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=4093846&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ec06410487b557321199060e5d7b7d0604c3d235",
-    "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
-    "link": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
-    "summary": "Samsung's new foldables are slimmer, faster, and more expensive.",
-    "isoDate": "2026-07-22T13:58:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Tech",
-      "android",
-      "Foldables",
-      "galaxy z fold",
-      "Samsung",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/1.Samsung-Galaxy-Z-Fold8-Ultra-Fold8-and-Flip8-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d1a137b6b1c854a8b50dd1f86ae007fbdac06c4c",
-    "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-    "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-    "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens.",
-    "isoDate": "2026-07-22T13:35:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "WIRED",
-    "tags": [
-      "AI",
-      "AI tokens",
-      "army",
-      "As Sage",
-      "LLM",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/armymen-500x500.jpg",
     "pinned": false
   },
   {
@@ -464,31 +298,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5239008&width=800",
-    "pinned": false
-  },
-  {
-    "id": "76a782957107813466fd924f33c6e0ed4b14b45c",
-    "title": "Ukrainian drones deliver robots directly into battle by sea and air",
-    "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
-    "summary": "Ukraine's battlefield surge of robots now features airdrops and beach assaults.",
-    "isoDate": "2026-07-22T11:15:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "drones",
-      "Military",
-      "military drones",
-      "military robots",
-      "robots",
-      "Russian invasion of Ukraine",
-      "Russian war on Ukraine",
-      "sea drones",
-      "Ukraine",
-      "Ukraine war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Ukrainian-military-robot-test-500x500.jpg",
     "pinned": false
   },
   {
@@ -641,22 +450,6 @@
     "pinned": false
   },
   {
-    "id": "dd5b31d5f9c9b4f95f30e3045eef4e52ad39e4f2",
-    "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
-    "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
-    "summary": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
-    "isoDate": "2026-07-21T23:01:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Range Rover GT"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6ddf373edb2134e81dc7cf2973b9ca7f934f8289",
     "title": "Tesla Update FSD V14.3.6 & FSD 14 Lite (2026.20.6.11) Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2026.20.6.11/release-notes",
@@ -667,23 +460,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/images/tesla-car-updates/2025.32.8.5/2025.32.8.5-fsd-supervised-v14.1.png",
-    "pinned": false
-  },
-  {
-    "id": "f7b732521aeefd78141b453965f900047446e0fc",
-    "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
-    "link": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
-    "summary": "Ronald Fischer, aka Richard Graydon, was arrested in New York last week.",
-    "isoDate": "2026-07-21T22:04:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "biotech",
-      "fugitive"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-500x500.jpg",
     "pinned": false
   },
   {
@@ -715,26 +491,6 @@
     "pinned": false
   },
   {
-    "id": "78052867c16ec8de1385c0d7ba5e7f529072dc50",
-    "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
-    "link": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
-    "summary": "\"Maybe that's my responsibility, to live alone with the truth.\"",
-    "isoDate": "2026-07-21T19:50:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "Sony Pictures",
-      "Spider-Man: Brand New Day",
-      "Tom Holland",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b3ffc32a9c286bb898757d43e335647f021a81bc",
     "title": "AI's cheatin' heart will make you weep",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/21/ais-cheatin-heart-will-make-you-weep/5275784",
@@ -750,28 +506,6 @@
     "pinned": false
   },
   {
-    "id": "8631720c03407a81fc3acceaeb071e332efc9e5b",
-    "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
-    "link": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
-    "summary": "Taylor Farms stirred confusion on FDA test and provided a vague recall list.",
-    "isoDate": "2026-07-21T19:39:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "CDC",
-      "cyclospora",
-      "diarrhea",
-      "fda",
-      "outbreak",
-      "Taco Bell",
-      "taylor farms"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "32e1c64d682b1438e05624c73918b2979d175c22",
     "title": "US Marines' latest anti-drone toy is an AI turret that uses regular machine guns",
     "link": "https://www.theregister.com/offbeat/2026/07/21/us-marines-latest-anti-drone-toy-is-an-ai-turret-that-uses-regular-machine-guns/5275691",
@@ -784,25 +518,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=5275711&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a08cd67448e32c58022abd3845673d04e272fa8f",
-    "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
-    "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
-    "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
-    "isoDate": "2026-07-21T19:09:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "consoles",
-      "Nintendo",
-      "switch 2",
-      "trump tariffs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-500x500-1776887612.jpg",
     "pinned": false
   },
   {
@@ -831,86 +546,6 @@
       "off-prem"
     ],
     "image": "https://image.theregister.com/?imageId=250561&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f175965d872f0d081408c1eee1cd09c9b33d1c16",
-    "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
-    "link": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
-    "summary": "NatGeo's <em>Pompeii: Out of Time</em> fuses historical fact and imagination to bring city's last 24 hours to life.",
-    "isoDate": "2026-07-21T18:17:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Science",
-      "archaeobotany",
-      "Archaeology",
-      "books",
-      "Pompeii"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/pompeii1-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d82254b52b6cbc3471869fba90608f21d1af677e",
-    "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
-    "link": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/",
-    "summary": "A single chemical made by mole-rat queens enforces the social order.",
-    "isoDate": "2026-07-21T17:51:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "Biology",
-      "mole rats",
-      "olfaction",
-      "signaling"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276125539-500x500-1784654318.jpg",
-    "pinned": false
-  },
-  {
-    "id": "64a68149b53a15996f8a90343497c44177cb422c",
-    "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-    "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-    "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
-    "isoDate": "2026-07-21T17:33:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI training",
-      "Anthropic",
-      "Artificial Intelligence",
-      "copyright infringement"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "17af2b70bfea0a60e4764bdc050df484524e6e90",
-    "title": "Sales of Valve's Steam Deck crater after recent price hike",
-    "link": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
-    "summary": "Analysis of bestseller charts shows an 80 percent dip from 2025's sales rate.",
-    "isoDate": "2026-07-21T17:12:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "business",
-      "charts",
-      "sales",
-      "Steam",
-      "steam deck",
-      "Valve"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-500x500.jpg",
     "pinned": false
   },
   {
@@ -1377,36 +1012,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=257793&width=800",
-    "pinned": false
-  },
-  {
-    "id": "94312ed837a9f12880f05547c4685997bcdb5f80",
-    "title": "EU's AI labeling rules take effect next month",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/20/eus-ai-labeling-rules-take-effect-next-month/5274917",
-    "summary": "Chatbots and agents will have to come clean about who – or what – users are talking to",
-    "isoDate": "2026-07-20T13:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=256439&width=800",
-    "pinned": false
-  },
-  {
-    "id": "aaf551b044fe13fa707e25123c4567828e78bdc0",
-    "title": "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/20/watching-the-world-burn-as-all-the-money-flows-into-a-multitrillion-dollar-magic-8-ball/5274553",
-    "summary": "On this week's episode of The Kettle, we welcome a special guest to discuss how the AI datacenter buildout is setting the world on fire – literally",
-    "isoDate": "2026-07-20T12:44:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=235826&width=800",
     "pinned": false
   },
   {
