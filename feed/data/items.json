@@ -1,5 +1,76 @@
 [
   {
+    "id": "87c11c0c190a4d8321758a70f34ef377f10b61b3",
+    "title": "All the Queens houses",
+    "link": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough",
+    "summary": "<p><img alt=\"Colourful terraced houses with distinct architectural styles, featuring a car parked in front.\" src=\"https://images.aeonmedia.co/images/38e1bfca-8633-41a7-bb05-1819f6875bea/all-the-queens-houses-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>To the trained eye, the personalised homes of Queens, NYC, evoke everything from a Venetian streetscape to a Chinese temple</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough\">Watch on Aeon</a></p>",
+    "isoDate": "2026-07-23T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "b3d40681bdbcb0c8b1c784c30fabc08cd190af82",
+    "title": "The savage bites back",
+    "link": "https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism",
+    "summary": "<p><img alt=\"Painting of a abstracted figure resting their head on their hand, a sun, and cactus on a blue background.\" src=\"https://images.aeonmedia.co/images/24630034-cb6e-4e6a-8716-f076764b0972/essay-abaporu.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Rooted in Brazilian modernism, anthropophagy devours and transforms culture, subverting colonial fears of cannibalism</p><p><em>- by Sofia Cándano</em></p><p><a href=\"https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism\">Read on Aeon</a></p>",
+    "isoDate": "2026-07-23T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Sofia Cándano",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "0174adca4ac109db6a800f25fc11fd09166a85c3",
+    "title": "Amazon's AGI department finds humans are optional",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/23/amazons-agi-department-finds-humans-are-optional/5276874",
+    "summary": "AI remains its biggest bet, Bezos brigade tells El Reg, even as another round of layoffs reaches the teams building it",
+    "isoDate": "2026-07-23T09:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=258414&width=800",
+    "pinned": false
+  },
+  {
+    "id": "eef3299eba03cb06294ae4c79c3cd731974bb401",
+    "title": "UK pumps £708 million into its future fighter jet",
+    "link": "https://www.theregister.com/offbeat/2026/07/23/uk-pumps-708-million-into-its-future-fighter-jet/5276449",
+    "summary": "Tempest cash lands alongside hypersonic target contract and BAE's 'loyal wingman' drone reveal",
+    "isoDate": "2026-07-23T09:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=222230&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5170d3dcda57987a6cfd19626fa8cd5ca54e3d69",
+    "title": "Britain isn't considering datacenters' thirst for water in its 'AI superpower' ambitions",
+    "link": "https://www.theregister.com/on-prem/2026/07/23/britain-isnt-considering-datacenters-thirst-for-water-in-its-ai-superpower-ambitions/5276363",
+    "summary": "Grand compute push could end up as dry as England's reservoirs unless ministers act fast",
+    "isoDate": "2026-07-23T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=230800&width=800",
+    "pinned": false
+  },
+  {
     "id": "ecfe93ad6db45b37b874d565540bec7fe9bc1625",
     "title": "Talking smack about a doctor got him access to private medical files",
     "link": "https://www.theregister.com/security/2026/07/23/talking-smack-about-a-doctor-got-him-access-to-private-medical-files/5276604",
@@ -1350,36 +1421,6 @@
     "pinned": false
   },
   {
-    "id": "c364a3ff47ec19123902ef1f039e0bc5b497b413",
-    "title": "Malicious cloud customers can bring down the power grid",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/20/malicious-cloud-customers-can-bring-down-the-power-grid/5275193",
-    "summary": "Datacenters tax utilities normally, so just imagine what they could do if workloads were designed to destroy",
-    "isoDate": "2026-07-20T19:15:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5275246&width=800",
-    "pinned": false
-  },
-  {
-    "id": "dfdbc6c1552f22b373fa90953efded46d3a65981",
-    "title": "Frontier LLMs couldn't help Hugging Face fight off evil agents",
-    "link": "https://www.theregister.com/cyber-crime/2026/07/20/frontier-llms-couldnt-help-hugging-face-fight-off-evil-agents/5275168",
-    "summary": "Chinese open-weight model GLM 5.2 happily obliged",
-    "isoDate": "2026-07-20T18:46:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=251593&width=800",
-    "pinned": false
-  },
-  {
     "id": "7bfc75b1d29790aec57bd2c6e4aa2d6848e2db46",
     "title": "Tesla Starts Rolling Out New Version of FSD v14 Lite With New Features",
     "link": "https://www.notateslaapp.com/news/4465/tesla-starts-rolling-out-new-version-of-fsd-v14-lite-with-new-features",
@@ -1390,21 +1431,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-driving.webp/dc85cc3ebc5d62bbba29168ca62e862e/fsd-driving.jpg",
-    "pinned": false
-  },
-  {
-    "id": "32589b101f40193e4838230d337ad0761bab0965",
-    "title": "The Document Foundation says Microsoft's file formats keep users on a short leash",
-    "link": "https://www.theregister.com/applications/2026/07/20/the-document-foundation-says-microsofts-file-formats-keep-users-on-a-short-leash/5274960",
-    "summary": "OOXML may carry an ISO certificate, but only Office can be trusted to render it properly",
-    "isoDate": "2026-07-20T16:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "applications"
-    ],
-    "image": "https://image.theregister.com/?imageId=257141&width=800",
     "pinned": false
   },
   {
@@ -1645,32 +1671,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-snow.jpeg/f9de7965e622ae382c3b4382ccce3965/cybertruck-snow.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fa9772597a24bd69ffe42f17fe4ebf8febe25e2d",
-    "title": "What remains",
-    "link": "https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline",
-    "summary": "<p><img alt=\"Photo of fresh oysters on ice with a lemon wedge in the background.\" src=\"https://images.aeonmedia.co/images/23f6ad86-3338-46eb-af14-60bdec027e6e/what-remains-landscape-1-v2.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>In an ingenious restoration project, the humble oyster shell is transformed into a powerful tool to halt coastal erosion</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline\">Watch on Aeon</a></p>",
-    "isoDate": "2026-07-16T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8c3497f763fbbbdf7ffb3d46797311a921d77d22",
-    "title": "Loitering towards war",
-    "link": "https://aeon.co/essays/viennas-cafes-inspired-poets-belgrades-bred-dissent",
-    "summary": "<p><img alt=\"Vintage photo of a man and a woman in a large hat talking at an outdoor café, seated at a round table with drinks.\" src=\"https://images.aeonmedia.co/images/0bfb0fcc-6a05-4e34-8848-3066fad18b6b/essay-sp-gettyimages-56456158.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>While Vienna’s coffeehouses bred modernism, in Belgrade’s kafanas grew conspiracy and rage. Their clash consumed Europe</p><p><em>- by Anton Cebalo</em></p><p><a href=\"https://aeon.co/essays/viennas-cafes-inspired-poets-belgrades-bred-dissent\">Read on Aeon</a></p>",
-    "isoDate": "2026-07-16T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Anton Cebalo",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
