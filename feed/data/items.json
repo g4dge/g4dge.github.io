@@ -1,5 +1,86 @@
 [
   {
+    "id": "115a638f4ee93e4ff0c5892c2f42a81985c6af38",
+    "title": "Uncle Sam tells overseas cybercrooks their visas are canceled",
+    "link": "https://www.theregister.com/security/2026/07/24/uncle-sam-tells-overseas-cybercrooks-their-visas-are-canceled/5278212",
+    "summary": "Policy targets online scammers, sextortionists, and potentially their immediate families",
+    "isoDate": "2026-07-24T12:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=237508&width=800",
+    "pinned": false
+  },
+  {
+    "id": "306c1c47f26a0f6dba29083c9d8fb03636f2afc1",
+    "title": "LG kills McAfee pop-up after Windows boss steps in",
+    "link": "https://www.theregister.com/personal-tech/2026/07/24/lg-kills-mcafee-pop-up-after-windows-boss-steps-in/5278168",
+    "summary": "Advert gets the chop, but the silent app installation mechanism remains untouched",
+    "isoDate": "2026-07-24T11:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5277792&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e8160a3fca2a9c853925fa475fc8b2d357e863b5",
+    "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+    "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+    "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
+    "isoDate": "2026-07-24T11:20:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "Carnegie Mellon University",
+      "earthquakes",
+      "Natural disasters",
+      "Robotics",
+      "robots",
+      "Venezuela"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Snakebot-ready-to-deploy-in-rubble-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f3960f87e7cd0f87b15b679d9055228aff417337",
+    "title": "EU telcos ask: Huawei going to afford to replace Chinese equipment?",
+    "link": "https://www.theregister.com/networks/2026/07/24/eu-telcos-ask-huawei-going-to-afford-to-replace-chinese-equipment/5278122",
+    "summary": "Proposed cybersecurity legislation may force a cull of high-risk network technology, costing tens of billions",
+    "isoDate": "2026-07-24T10:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=242224&width=800",
+    "pinned": false
+  },
+  {
+    "id": "615880abf54cfa2abd26de6900d935a7ddf0ed07",
+    "title": "Fujitsu joins £14.9B UK framework despite public sector bid freeze",
+    "link": "https://www.theregister.com/public-sector/2026/07/24/fujitsu-joins-149b-uk-framework-despite-public-sector-bid-freeze/5278144",
+    "summary": "Supplier says the Horizon-era pause only stops it chasing work from new government customers",
+    "isoDate": "2026-07-24T10:21:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5278204&width=800",
+    "pinned": false
+  },
+  {
     "id": "5b5957d2cb690a52b6b0efa65b27c4bdc86003ad",
     "title": "The Skeptic Podcast – Episode 074",
     "link": "https://www.skeptic.org.uk/2026/07/the-skeptic-podcast-episode-074/",
@@ -1077,27 +1158,6 @@
     "pinned": false
   },
   {
-    "id": "5d0c6b9d07fb1e2182b670874031614a63010c55",
-    "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-    "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-    "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-    "isoDate": "2026-07-22T16:47:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Security",
-      "AI alignment",
-      "cybersecurity",
-      "hack",
-      "Hugging Face",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2274109678-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bd679dbbcef19f42f1032ccd4777ced383cba176",
     "title": "Astronomers spot exomoon candidate that's almost as massive as Jupiter",
     "link": "https://www.theregister.com/science/2026/07/22/astronomers-spot-exomoon-candidate-thats-almost-as-massive-as-jupiter/5276419",
@@ -1300,66 +1360,6 @@
       "Religion"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "79f84ad018822a42deb0c8687fbb2402de798377",
-    "title": "Council worker spared prison after four-day data-snooping spree",
-    "link": "https://www.theregister.com/security/2026/07/22/council-worker-spared-prison-after-four-day-data-snooping-spree/5276054",
-    "summary": "Herefordshire employee handed suspended sentence for breach of Computer Misuse Act",
-    "isoDate": "2026-07-22T08:29:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=253162&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e75346a9b1428b4b385f11ad78956447babc0bda",
-    "title": "Anyone with a shed, an extension cord, a couple of GPUs and an overdraft is building datacenters. Fujitsu just offloaded five",
-    "link": "https://www.theregister.com/off-prem/2026/07/22/anyone-with-a-shed-an-extension-cord-a-couple-of-gpus-and-an-overdraft-is-building-datacenters-fujitsu-just-offloaded-five/5276007",
-    "summary": "‘Digital transformation’ is a better bet, apparently, so private equity gets a turn",
-    "isoDate": "2026-07-22T06:29:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=256141&width=800",
-    "pinned": false
-  },
-  {
-    "id": "533df2271c4a7a770be17f416042e8bdfb03122a",
-    "title": "China advances plans for national single-stack IPv6 network, and its own surveillance-friendly version of the protocol",
-    "link": "https://www.theregister.com/networks/2026/07/22/china-advances-plans-for-national-single-stack-ipv6-network-and-its-own-surveillance-friendly-version-of-the-protocol/5275984",
-    "summary": "IPv6+ could make it easier to censor netizens or block traffic, and Beijing is already exporting it",
-    "isoDate": "2026-07-22T02:55:30Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=232573&width=800",
-    "pinned": false
-  },
-  {
-    "id": "66f23a04a54473cf76edf409f1f9ab7bbbf9eb59",
-    "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
-    "summary": "Sandboxed experiment found itself a zero day, escaped onto the open internet and validated scary predictions about rogue agents",
-    "isoDate": "2026-07-22T01:30:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5276127&width=800",
     "pinned": false
   },
   {
