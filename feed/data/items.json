@@ -1,5 +1,20 @@
 [
   {
+    "id": "f42cdd7780602339be8ab330216652afcf6c2040",
+    "title": "Researchers replace downloaded macOS apps with evil twins, Apple shrugs",
+    "link": "https://www.theregister.com/security/2026/07/24/researchers-replace-downloaded-macos-apps-with-evil-twins-apple-shrugs/5277858",
+    "summary": "Gatekeeper has one job and it's not doing it for some software",
+    "isoDate": "2026-07-23T23:24:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=254208&width=800",
+    "pinned": false
+  },
+  {
     "id": "880590a89e851d10aafcbd703ab321457a974b5f",
     "title": "AMD and Cerebras join forces against Nvidia’s Groq LPUs",
     "link": "https://www.theregister.com/systems/2026/07/23/amd-and-cerebras-join-forces-against-nvidias-groq-lpus/5277817",
@@ -631,7 +646,7 @@
     "id": "50869e864b608b5cb39279f589a1a546f4688316",
     "title": "Google is hoarding TPUs to chase artificial general intelligence",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/23/google-is-hoarding-tpus-to-chase-artificial-general-intelligence/5276755",
-    "summary": "Yet the Chocolate Factory is also buying more third-party compute capacity to handle demand for the G-Cloud",
+    "summary": "Yet the Chocolate Factory is also buying more third-party compute capacity to handle high demand for the G-Cloud",
     "isoDate": "2026-07-23T01:45:34Z",
     "source": "The Register",
     "category": "Tech",
@@ -656,9 +671,9 @@
     "pinned": false
   },
   {
-    "id": "edf3f71c6645e694dee9d82aa2eb14f99081ab9e",
-    "title": "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-huggingface-attack-showing-how-open-chinese-models-are-winning/5276699",
+    "id": "c920873564a47de73e5a9eaf8e792e58879c6ff6",
+    "title": "OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699",
     "summary": "Closed models with guardrails can still cause harm, but may also not be able to fix problems they caused",
     "isoDate": "2026-07-22T23:37:24Z",
     "source": "The Register",
@@ -1366,21 +1381,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-expansion-tampa-orlando.webp/d6364112d499be016ec67420b2e7add8/tesla-robotaxi-expansion-tampa-orlando.jpg",
-    "pinned": false
-  },
-  {
-    "id": "98fb0df8fb33289d6a2154bbb1093be95995d8b2",
-    "title": "Nvidia shows off Vera Rubin platform for tokenmaxxing",
-    "link": "https://www.theregister.com/systems/2026/07/21/nvidia-shows-off-vera-rubin-platform-for-tokenmaxxing/5275316",
-    "summary": "If your AI Factory sells tokens, why not optimize token emission?",
-    "isoDate": "2026-07-21T15:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5275344&width=800",
     "pinned": false
   },
   {
