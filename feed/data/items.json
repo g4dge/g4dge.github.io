@@ -1,5 +1,55 @@
 [
   {
+    "id": "7a4b03b1af4e2b48f281a7be3a45d0fee963cd73",
+    "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+    "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+    "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
+    "isoDate": "2026-07-27T19:18:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "5th circuit",
+      "texas"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-500x500-1785178675.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fddd3835c8a45cce6878b624b8e03582c15f3e08",
+    "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
+    "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+    "summary": "NASA has not made substantial investments in thermal protection research for decades.",
+    "isoDate": "2026-07-27T18:34:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "rapid reuse",
+      "space",
+      "spacex",
+      "starship",
+      "tps"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "58abfc1000bb6430bbf813bf432d8de571150de9",
+    "title": "Tesla's New Caraoke App with Live Scoring [VIDEO]",
+    "link": "https://www.notateslaapp.com/news/4497/teslas-new-caraoke-app-with-live-scoring-video",
+    "summary": "Tesla has redesigned the Caraoke app as part of the Summer 2026 feature drop, which started rolling out to consumer vehicles over the weekend <a href=\"https://www.notateslaapp.com/news/4497/teslas-new-caraoke-app-with-live-scoring-video\">Read More</a>",
+    "isoDate": "2026-07-27T17:51:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/caraoke-scoring-1785164581.webp/d812542f10c4c1a7d86e62293e4a81ed/caraoke-scoring-1785164581.jpg",
+    "pinned": false
+  },
+  {
     "id": "5f3ad195f3ca5aa259e2a1e28b7d6d48a0d71f7d",
     "title": "ChatGPT starts blocking direct requests to copy an author's style",
     "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
@@ -858,30 +908,6 @@
     "pinned": false
   },
   {
-    "id": "57fb05ef8b5d61e5960b3bc43ac4b2807c3489a5",
-    "title": "European Union grants US request to restrict satellite images of Iran War region",
-    "link": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
-    "summary": "New delay on Copernicus satellite pics comes as US ramps up war with Iran again.",
-    "isoDate": "2026-07-24T17:45:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Space",
-      "Copernicus",
-      "donald trump iran war",
-      "Iran",
-      "satellite imagery",
-      "Satellite imaging",
-      "Sentinel satellites",
-      "Strait of Hormuz",
-      "US Military",
-      "USA-Iran War"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/2026-07-21-00_00_2026-07-21-23_59_Sentinel-2_L2A_Highlight_Optimized_Natural_Color_-e1784913999483-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e1f612263a1efda1e22b2880a063c51cab3a6de5",
     "title": "Elon Musk Admits He Got 'Too Involved' in Politics",
     "link": "https://www.notateslaapp.com/news/4487/elon-musk-admits-he-got-too-involved-in-politics",
@@ -892,28 +918,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/musk-trump2.webp/272b0b9e92e8708b05a1d70327b04c2c/musk-trump2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e401388c2611f6bb0758c893565fa6a83a5ce713",
-    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-    "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-    "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-    "isoDate": "2026-07-24T17:31:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "AI",
-      "Science",
-      "AlphaFold",
-      "biochemistry",
-      "Biology",
-      "CRISPR",
-      "gene editing",
-      "gene therapies"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239702658-500x500.jpg",
     "pinned": false
   },
   {
@@ -944,32 +948,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5240526&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4e721fc7c051a645ce84097cc400f11c1f3ae153",
-    "title": "This is the world's most advanced robotic servicing satellite—that we know about",
-    "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-    "summary": "\"These are things that tend to be really hard.\"",
-    "isoDate": "2026-07-24T15:23:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "darpa",
-      "falcon 9",
-      "launch",
-      "military space",
-      "mission extension vehicle",
-      "mission robotic vehicle",
-      "Northrop Grumman",
-      "satellite servicing",
-      "spacex",
-      "US Space Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/8752973-500x500.jpg",
     "pinned": false
   },
   {
@@ -1384,21 +1362,6 @@
     "pinned": false
   },
   {
-    "id": "4cc8660d373752ee3268068333e30c7d2934ddb8",
-    "title": "GitHub slashes public bug bounty payouts as AI report flood buries its security team",
-    "link": "https://www.theregister.com/devops/2026/07/23/github-slashes-public-bug-bounty-payouts-as-ai-report-flood-buries-its-security-team/5277046",
-    "summary": "Code shack also putting new limits on first-time researchers, and reserving the biggest rewards for a hand-picked group of proven hunters",
-    "isoDate": "2026-07-23T15:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5277108&width=800",
-    "pinned": false
-  },
-  {
     "id": "87c11c0c190a4d8321758a70f34ef377f10b61b3",
     "title": "All the Queens houses",
     "link": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough",
@@ -1674,19 +1637,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-approved-estonia.webp/3e49f824e1bf5e612a0301bd9160899e/tesla-fsd-approved-estonia.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7bfc75b1d29790aec57bd2c6e4aa2d6848e2db46",
-    "title": "Tesla Starts Rolling Out New Version of FSD v14 Lite With New Features",
-    "link": "https://www.notateslaapp.com/news/4465/tesla-starts-rolling-out-new-version-of-fsd-v14-lite-with-new-features",
-    "summary": "Tesla is restarting its FSD software rollout for older vehicles with an updated Lite build that brings a wave of features from the main software branch <a href=\"https://www.notateslaapp.com/news/4465/tesla-starts-rolling-out-new-version-of-fsd-v14-lite-with-new-features\">Read More</a>",
-    "isoDate": "2026-07-20T18:04:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-driving.webp/dc85cc3ebc5d62bbba29168ca62e862e/fsd-driving.jpg",
     "pinned": false
   }
 ]
