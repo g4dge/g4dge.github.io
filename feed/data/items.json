@@ -1,5 +1,93 @@
 [
   {
+    "id": "4c79cbf09469f66a0995b7a1f322fbba7cb37af8",
+    "title": "After rewriting SQLite in Rust, Turso turns its sights on Postgres",
+    "link": "https://www.theregister.com/databases/2026/07/29/after-rewriting-sqlite-in-rust-turso-turns-its-sights-on-postgres/5279835",
+    "summary": "Cloud database upstart wants one virtual machine core to power multiple SQL frontends",
+    "isoDate": "2026-07-29T11:28:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "databases"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682034&width=800",
+    "pinned": false
+  },
+  {
+    "id": "72dff1ab43557758960a81fec5badd9bf4300d72",
+    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+    "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+    "summary": "Deciding what's real on the Internet won't be easy in the future.",
+    "isoDate": "2026-07-29T11:00:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Features",
+      "Google",
+      "AI images",
+      "ai watermarks",
+      "google",
+      "SynthID"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b1463a5700df34c31bb670e90afb6d78f2ffee9c",
+    "title": "Back of the NetApp: Latest exec signing scores $34M compensation package",
+    "link": "https://www.theregister.com/storage/2026/07/29/back-of-the-netapp-latest-exec-signing-scores-34m-compensation-package/5280307",
+    "summary": "Product chief shoots straight to the top of the pay league, out-earning CEO in fiscal '26",
+    "isoDate": "2026-07-29T10:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=228334&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9a6e3819c04be0fa57f95ae7ac9252357bea1b2e",
+    "title": "NHS England rapped over inaccurate Palantir patient data disclosure",
+    "link": "https://www.theregister.com/public-sector/2026/07/29/nhs-england-rapped-over-inaccurate-palantir-patient-data-disclosure/5280233",
+    "summary": "Privacy guardian warns public trust quickly erodes when supplier access comes as a surprise",
+    "isoDate": "2026-07-29T10:08:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094191&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e2bd9d4aec684ce6020f84fc4ab5f6f1d32e855f",
+    "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
+    "link": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+    "summary": "Expect bumps with X Money rollout as major US financial markets are excluded.",
+    "isoDate": "2026-07-29T10:00:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "banking app",
+      "Elon Musk",
+      "payments app",
+      "Twitter",
+      "X",
+      "x money",
+      "x payments"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568-500x500-1785272581.jpg",
+    "pinned": false
+  },
+  {
     "id": "1f63a03caecac48b894af7346154ec1ebcceb70b",
     "title": "AI digs through 3,700 accounts of dreams and waking life, finds method in the madness",
     "link": "https://www.theregister.com/offbeat/2026/07/29/ai-digs-through-3700-accounts-of-dreams-and-waking-life-finds-method-in-the-madness/5279775",
@@ -93,9 +181,9 @@
   },
   {
     "id": "f9ce36541db1307e5dcda8b02a1472fa2948b6b6",
-    "title": "A requiem for Optane, Intel's KV Cache killer that could have eased the RAM price crunch",
+    "title": "A requiem for Optane, Intel's KV cache killer that could have eased the RAM price crunch",
     "link": "https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063",
-    "summary": "With microscopic latencies and otherworldly write endurance, it was perfect for today's AI workloads - but gone before they arrived",
+    "summary": "With microscopic latencies and otherworldly write endurance, it was perfect for today's AI workloads – but gone before they arrived",
     "isoDate": "2026-07-28T23:27:59Z",
     "source": "The Register",
     "category": "Tech",
@@ -402,7 +490,7 @@
   },
   {
     "id": "d66512b796df67cac8d42fed25fba26b467e1609",
-    "title": "AI is storage’s biggest opportunity - and biggest threat",
+    "title": "AI is storage's biggest opportunity – and biggest threat",
     "link": "https://www.theregister.com/storage/2026/07/28/ai-is-storages-biggest-opportunity-and-biggest-threat/5279607",
     "summary": "Faster access and more secure recoveries are driving business, but mishaps and attacks can endanger data",
     "isoDate": "2026-07-28T16:51:59Z",
@@ -463,21 +551,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=261585&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7fa25b44ff64cc68ecb238fc2124f8e707ef8702",
-    "title": "Britain hopes £7.3M will help electric and hydrogen aircraft take off",
-    "link": "https://www.theregister.com/offbeat/2026/07/28/britain-hopes-73m-will-help-electric-and-hydrogen-aircraft-take-off/5279809",
-    "summary": "Government finds some loose change down to chuck at emission-free flight research",
-    "isoDate": "2026-07-28T15:55:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5279882&width=800",
     "pinned": false
   },
   {
@@ -943,23 +1016,6 @@
     "pinned": false
   },
   {
-    "id": "7a4b03b1af4e2b48f281a7be3a45d0fee963cd73",
-    "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-    "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-    "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
-    "isoDate": "2026-07-27T19:18:02Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "5th circuit",
-      "texas"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-500x500-1785178675.jpg",
-    "pinned": false
-  },
-  {
     "id": "58abfc1000bb6430bbf813bf432d8de571150de9",
     "title": "Tesla's New Caraoke App Now Grades Your Singing Like Rock Band [VIDEO]",
     "link": "https://www.notateslaapp.com/news/4497/teslas-new-caraoke-app-with-live-scoring-video",
@@ -1252,21 +1308,6 @@
     "pinned": false
   },
   {
-    "id": "f234dc3aee899e9aaf08501406b4e96555acb264",
-    "title": "The last Space Shuttle returned to Earth 15 years ago",
-    "link": "https://www.theregister.com/science/2026/07/26/the-last-space-shuttle-returned-to-earth-15-years-ago/5277279",
-    "summary": "So, how are those commercial replacements working out for you, NASA?",
-    "isoDate": "2026-07-26T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=231341&width=800",
-    "pinned": false
-  },
-  {
     "id": "e9a7287534520b5df63207e3646461267267f7a5",
     "title": "Uber Tries to Block Independent Tesla and Waymo Robotaxis",
     "link": "https://www.notateslaapp.com/news/4496/uber-tries-to-block-independent-tesla-and-waymo-robotaxis",
@@ -1316,21 +1357,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-v14-lite-reverse-issues.webp/ae72228d29fc60e01eca2b38649bd261/tesla-fsd-v14-lite-reverse-issues.jpg",
-    "pinned": false
-  },
-  {
-    "id": "accbcda419c519d9dd2984e1b4db758adec42ba1",
-    "title": "How AI drove Shopify back to clean code",
-    "link": "https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901",
-    "summary": "Turns out, agents just want the same things as humans: easily-readable code, explicit contracts, and helpful feedback",
-    "isoDate": "2026-07-25T13:06:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5278316&width=800",
     "pinned": false
   },
   {
@@ -1583,19 +1609,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_52.jpg/25dc7dbde319434d0d2d61903c265f5c/group_52.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0e88e99bd87ca9c7c68e158c4e3300d58d7d3d21",
-    "title": "Can cells think?",
-    "link": "https://aeon.co/videos/why-we-should-think-of-intelligence-in-terms-of-goals-not-brains",
-    "summary": "<p><img alt=\"Close-up photo of a cross-sectioned orange slice with intricate fibrous details against a dark background.\" src=\"https://images.aeonmedia.co/images/e6d9d496-bd6a-492a-80dd-f40f6a792076/can-cells-think-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Inside the lab of a biologist who is seeking to understand intelligence by focusing on problem-solving, not neurons</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/why-we-should-think-of-intelligence-in-terms-of-goals-not-brains\">Watch on Aeon</a></p>",
-    "isoDate": "2026-07-22T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
