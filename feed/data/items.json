@@ -1,5 +1,130 @@
 [
   {
+    "id": "12c1b37eee88efa8e5eeb94d2c889d4e27c755d6",
+    "title": "MinIO pitches persistent memory for agents with work to finish",
+    "link": "https://www.theregister.com/storage/2026/07/29/minio-pitches-persistent-memory-for-agents-with-work-to-finish/5280407",
+    "summary": "AIStor keeps context, files, and secrets under customer control so interrupted jobs can pick up where they left off",
+    "isoDate": "2026-07-29T15:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5280422&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3664e616731dff5551a98635404a588cab9891c9",
+    "title": "The VMware deadline that could reshape your IT strategy",
+    "link": "https://www.theregister.com/virtualization/2026/07/29/partner-content/5279072",
+    "summary": "PARTNER CONTENT: With vSphere 8 support ending in 2027, IT leaders must navigate tight timelines and costs to modernize on their terms.",
+    "isoDate": "2026-07-29T15:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=5279909&width=800",
+    "pinned": false
+  },
+  {
+    "id": "36e3549670731d3b7f3cd45c7a9bd0bd2c92772c",
+    "title": "NASA Swift rescue mission spins into trouble during commissioning",
+    "link": "https://www.theregister.com/science/2026/07/29/nasa-swift-rescue-mission-spins-into-trouble-during-commissioning/5280425",
+    "summary": "Two reaction wheels are out and comms sporadic as controllers work to stabilize LINK",
+    "isoDate": "2026-07-29T14:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=5237915&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f2390ebb929441b27c5dae828d17cf124f998edc",
+    "title": "Iran-linked CyberAv3ngers suspected in attacks on Minnesota water systems",
+    "link": "https://www.theregister.com/security/2026/07/29/iran-linked-cyberav3ngers-suspected-in-attacks-on-minnesota-water-systems/5280357",
+    "summary": "More than 30 facilities disrupted in 'coordinated cyberattack,' though officials have yet to name a culprit",
+    "isoDate": "2026-07-29T13:49:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=150171&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0290e9b6f2fd3f643d14e0430ef19d85145ebf82",
+    "title": "What happens when you put AI to work deciphering lost languages?",
+    "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+    "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
+    "isoDate": "2026-07-29T13:23:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jane Adkins, The Conversation",
+    "tags": [
+      "AI",
+      "Science",
+      "bronze age",
+      "etruscan civilization",
+      "Linear A",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/etruscan-500x500-1785331397.jpg",
+    "pinned": false
+  },
+  {
+    "id": "91c67a33cb871d27d3416635f807788ef2cd1063",
+    "title": "AI storage boom is keeping Seagate's hard drives spinning",
+    "link": "https://www.theregister.com/storage/2026/07/29/ai-storage-boom-is-keeping-seagates-hard-drives-spinning/5280437",
+    "summary": "Cloud operators have already claimed most of its nearline capacity through 2028",
+    "isoDate": "2026-07-29T13:17:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5280469&width=800",
+    "pinned": false
+  },
+  {
+    "id": "efa5fded44b20354e6e3d7ad5007ca9aea622074",
+    "title": "Microsoft faces competition probe over Copilot subscription price hike",
+    "link": "https://www.theregister.com/software/2026/07/29/microsoft-faces-competition-probe-over-copilot-subscription-price-hike/5280474",
+    "summary": "Watchdog asks whether customers were clearly told how to avoid the costlier AI-equipped plans",
+    "isoDate": "2026-07-29T12:45:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5280496&width=800",
+    "pinned": false
+  },
+  {
+    "id": "33078a83d96a648455b23b265bdf79f803a30114",
+    "title": "AI insiders ask Uncle Sam to help slow the race they started",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/29/ai-insiders-ask-uncle-sam-to-help-slow-the-race-they-started/5280323",
+    "summary": "More than 1,200 industry staff sign petition seeking international guardrails for automated research",
+    "isoDate": "2026-07-29T12:11:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=257384&width=800",
+    "pinned": false
+  },
+  {
     "id": "4c79cbf09469f66a0995b7a1f322fbba7cb37af8",
     "title": "After rewriting SQLite in Rust, Turso turns its sights on Postgres",
     "link": "https://www.theregister.com/databases/2026/07/29/after-rewriting-sqlite-in-rust-turso-turns-its-sights-on-postgres/5279835",
@@ -16,7 +141,7 @@
   },
   {
     "id": "72dff1ab43557758960a81fec5badd9bf4300d72",
-    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
     "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
     "summary": "Deciding what's real on the Internet won't be easy in the future.",
     "isoDate": "2026-07-29T11:00:39Z",
@@ -230,10 +355,10 @@
     "pinned": false
   },
   {
-    "id": "fe5d7be97a0508d47bd95207b7c05c1850898db9",
-    "title": "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face",
-    "link": "https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
-    "summary": "The vendor won't confirm or deny",
+    "id": "08ce632f5d697c6356ff35c87d9b018f3f579b7d",
+    "title": "JFrog's 0-days let OpenAI's models hack Hugging Face",
+    "link": "https://www.theregister.com/security/2026/07/28/jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
+    "summary": "OpenAI confirms the link",
     "isoDate": "2026-07-28T22:01:53Z",
     "source": "The Register",
     "category": "Tech",
@@ -436,7 +561,7 @@
     "id": "82fcaac5a7a7461bbca91a28e120800b3f4b76fe",
     "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
     "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
-    "summary": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+    "summary": "Test flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
     "isoDate": "2026-07-28T18:43:36Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -765,6 +890,19 @@
     "pinned": false
   },
   {
+    "id": "e7a03d3ce894bd0be710a225bc9449e1ed960d0b",
+    "title": "Tesla FSD v14.3.5 Down Under (Update 2026.20.10)",
+    "link": "https://www.notateslaapp.com/software-updates/version/2026.20.10/release-notes",
+    "summary": "We take a look at the release notes and what's new in Tesla update 2026.20.10. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.20.10/release-notes\">Read More</a>",
+    "isoDate": "2026-07-28T07:00:26Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.16/fsd-supervised-v1433-down-under.png/3acac15b46a0fd355bd05d294197f488/fsd-supervised-v1433-down-under.jpg",
+    "pinned": false
+  },
+  {
     "id": "fb8b8c70132271641656b9804afcea238b3271aa",
     "title": "Cisco close to releasing more AI models, this time for deep networking ops",
     "link": "https://www.theregister.com/networks/2026/07/28/cisco-close-to-releasing-more-ai-models-this-time-for-deep-networking-ops/5279350",
@@ -962,32 +1100,6 @@
     "pinned": false
   },
   {
-    "id": "545e6c11df31f696466a4aacc7c7579749729f37",
-    "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-    "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-    "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
-    "isoDate": "2026-07-27T20:12:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ai scraping",
-      "ai search engines",
-      "copyright act",
-      "DMCA",
-      "google",
-      "Perplexity",
-      "reddit",
-      "search engine",
-      "serpapi",
-      "web scraping"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "ae92b0407d276599bdf79dd37d9c0736f1791d5c",
     "title": "Microsoft's solution to AI security: more AI and more acronyms",
     "link": "https://www.theregister.com/security/2026/07/27/microsofts-solution-to-ai-security-more-ai-and-more-acronyms/5279140",
@@ -1175,21 +1287,6 @@
     "pinned": false
   },
   {
-    "id": "5eb07c77a2e786b47ab6d45cf005f0b5765b9ded",
-    "title": "The roller coaster works, but the Six Flags kiosk has gone off the rails",
-    "link": "https://www.theregister.com/offbeat/2026/07/27/the-roller-coaster-works-but-the-six-flags-kiosk-has-gone-off-the-rails/5276467",
-    "summary": "Would you like an error with your terror?",
-    "isoDate": "2026-07-27T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5276485&width=800",
-    "pinned": false
-  },
-  {
     "id": "65198b76c3ac0edad483ef94b9b2af4f5c384c49",
     "title": "Extraordinary claims, modest evidence: reincarnation, and the limits of parapsychology",
     "link": "https://www.skeptic.org.uk/2026/07/extraordinary-claims-modest-evidence-reincarnation-and-the-limits-of-parapsychology/",
@@ -1205,81 +1302,6 @@
     "pinned": false
   },
   {
-    "id": "753a9814538c2f45e872cf1858304452a9d21870",
-    "title": "FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash another",
-    "link": "https://www.theregister.com/columnists/2026/07/27/foss-smashed-one-microsoft-monopoly-after-20-years-of-failure-its-time-to-smash-another/5278040",
-    "summary": "Word up",
-    "isoDate": "2026-07-27T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=5278082&width=800",
-    "pinned": false
-  },
-  {
-    "id": "cf0d660aa2223e940639c182240457f1d16860bf",
-    "title": "Google goes it alone with a new cybercrime crew taxonomy",
-    "link": "https://www.theregister.com/security/2026/07/27/google-goes-it-alone-with-a-new-cybercrime-crew-taxonomy/5278749",
-    "summary": "So much for Microsoft and CrowdStrike’s plans for consistent names across the industry",
-    "isoDate": "2026-07-27T07:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=255057&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7ba466af40c7c4927ddec3b123693b83c11d9d46",
-    "title": "Manager showed off his DOS prowess – with a command that wiped data",
-    "link": "https://www.theregister.com/software/2026/07/27/manager-showed-off-his-dos-prowess-with-a-command-that-wiped-data/5278057",
-    "summary": "Never believe a suit who says they're handy with tech",
-    "isoDate": "2026-07-27T06:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=229266&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c8e7ac48c5ef84238caf53f225fe3e411bb53a3a",
-    "title": "SpaceX just about nails Starship test flight 13",
-    "link": "https://www.theregister.com/science/2026/07/27/spacex-just-about-nails-starship-test-flight-13/5278725",
-    "summary": "Super Heavy booster had a super heavy landing, but other reusability tech did the trick",
-    "isoDate": "2026-07-27T03:53:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5278746&width=800",
-    "pinned": false
-  },
-  {
-    "id": "878c816d7d1454c631f70a96f2525cb8bbbb4c6e",
-    "title": "Foxconn drops VMware, adopts hyperconverged upstart Arcfra for workloads including AI",
-    "link": "https://www.theregister.com/virtualization/2026/07/27/foxconn-drops-vmware-adopts-hyperconverged-upstart-arcfra-for-workloads-including-ai/5278684",
-    "summary": "PLUS: New CEO for Infosys; China fines Trip.com; India demands GitHub remove Jack Dorsey's distributed social network; And more!",
-    "isoDate": "2026-07-27T00:07:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "virtualization"
-    ],
-    "image": "https://image.theregister.com/?imageId=253902&width=800",
-    "pinned": false
-  },
-  {
     "id": "1191648210da53c71f827e6f5dd3c769ae6225bd",
     "title": "Tesla's Summer Update (2026.26) Release Notes",
     "link": "https://www.notateslaapp.com/software-updates/version/2026.26/release-notes",
@@ -1290,21 +1312,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.26/summer-update.png/7e9f9d2a9cafde152337df5680f54046/summer-update.jpg",
-    "pinned": false
-  },
-  {
-    "id": "47fc708453d12928d345a6ddc8c94a54e1fd4e15",
-    "title": "Trump expands voluntary pledge to keep datacenter costs off household power bills",
-    "link": "https://www.theregister.com/on-prem/2026/07/26/trump-expands-voluntary-pledge-to-keep-datacenter-costs-off-household-power-bills/5278346",
-    "summary": "Pinkie promise gains 200-plus new participants and precisely zero enforcement",
-    "isoDate": "2026-07-26T10:10:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093897&width=800",
     "pinned": false
   },
   {
@@ -1596,19 +1603,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-1.webp/af9875fa07b1d49ab631958f5aea7ed4/grok-ui-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "97b9999bf8c559ed098810058b422d8321ce3e2b",
-    "title": "Tesla's 2026 Q2 Earnings Call on July 22: Listen to Replay",
-    "link": "https://www.notateslaapp.com/news/4453/teslas-2026-q2-earnings-call-how-to-listen",
-    "summary": "Tesla is set to hold its Q2 2026 earnings call next week on Wednesday, July 22, at 5:30 p.m. ET, complete with a live Q&amp;A session with the executive team <a href=\"https://www.notateslaapp.com/news/4453/teslas-2026-q2-earnings-call-how-to-listen\">Read More</a>",
-    "isoDate": "2026-07-22T13:25:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_52.jpg/25dc7dbde319434d0d2d61903c265f5c/group_52.jpg",
     "pinned": false
   }
 ]
