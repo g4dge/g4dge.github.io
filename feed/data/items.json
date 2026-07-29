@@ -1,5 +1,37 @@
 [
   {
+    "id": "1401ad6c55e0264d2ac0c66660c93eb1245009e4",
+    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+    "isoDate": "2026-07-29T22:07:06Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6501449c8d6f6daf639ecc4f2f9ba11889dafc01",
+    "title": "NOAA ditches weather-predicting supercomputers for Google Cloud",
+    "link": "https://www.theregister.com/hpc/2026/07/29/noaa-ditches-weather-predicting-supercomputers-for-google-cloud/5280697",
+    "summary": "Government agency will use Google Cloud H4D VMs to replace HPE Cray machines",
+    "isoDate": "2026-07-29T21:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "hpc"
+    ],
+    "image": "https://image.theregister.com/?imageId=5280759&width=800",
+    "pinned": false
+  },
+  {
     "id": "0c3121bca95b0570538a688416fcecae4ccb738c",
     "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
     "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
@@ -18,6 +50,21 @@
       "X"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1229892464-500x500-1785356017.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9d1d8796f1514645bd1487ea6ad51b822761ecf7",
+    "title": "Big vacuum is watching as robo-cleaners put humans behind the wheel",
+    "link": "https://www.theregister.com/offbeat/2026/07/29/big-vacuum-is-watching-as-robo-cleaners-put-humans-behind-the-wheel/5280674",
+    "summary": "Like a Waymo mated with a Roomba",
+    "isoDate": "2026-07-29T20:44:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5280762&width=800",
     "pinned": false
   },
   {
@@ -804,28 +851,6 @@
     "pinned": false
   },
   {
-    "id": "3ea21b504ca1fe47b6ea6103611edb1253b1c04d",
-    "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
-    "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
-    "summary": "“We're in the realm where we might be essentially killing off everything within that first hour or two.\"",
-    "isoDate": "2026-07-28T20:51:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "asteroids",
-      "biogeoscience",
-      "Chicxulub impact",
-      "dinosaurs",
-      "geology",
-      "geoscience",
-      "mass extinctions"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/asteroid1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fb0d11cb2b326a22e11ce54004ae14980d16886c",
     "title": "War machines can run amok with AI in control",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/28/war-machines-can-run-amok-with-ai-in-control/5279937",
@@ -1302,21 +1327,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=5279030&width=800",
-    "pinned": false
-  },
-  {
-    "id": "03ba74bed264ca94e1faeb331a63749efbeab3a6",
-    "title": "Microsoft Defender for Endpoint leaves some Linux boxes defenseless after update",
-    "link": "https://www.theregister.com/patches/2026/07/27/microsoft-defender-for-endpoint-leaves-some-linux-boxes-defenseless-after-update/5278914",
-    "summary": "One bug disabled the security service on restart, another blocked installation on hardened RHEL systems",
-    "isoDate": "2026-07-27T13:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "patches"
-    ],
-    "image": "https://image.theregister.com/?imageId=5237244&width=800",
     "pinned": false
   },
   {
