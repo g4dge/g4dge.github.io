@@ -1,5 +1,108 @@
 [
   {
+    "id": "2d7ea9c4f83f74e80e231eec28ed0f27603a5d8d",
+    "title": "Tesla Doubles Texas AI Compute Capacity in Q2 2026",
+    "link": "https://www.notateslaapp.com/news/4509/tesla-doubles-texas-ai-compute-capacity-in-q2-2026",
+    "summary": "Last week’s Q2 2026 earnings report revealed that Tesla’s installed compute capacity at Gigafactory Texas expanded dramatically over the first half of the year <a href=\"https://www.notateslaapp.com/news/4509/tesla-doubles-texas-ai-compute-capacity-in-q2-2026\">Read More</a>",
+    "isoDate": "2026-07-29T16:57:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/cortex-2-training-center.webp/b135e45ff8c26e96d133767fb1e9120d/cortex-2-training-center.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d6af4dd29ace3357b85575c0aa954a06f1588b5e",
+    "title": "Word worm crawls into Copilot, spreads chaos",
+    "link": "https://www.theregister.com/security/2026/07/29/word-worm-crawls-into-copilot-spreads-chaos/5280588",
+    "summary": "Researcher says months of coordination with Microsoft have yet to produce a robust mitigation",
+    "isoDate": "2026-07-29T16:43:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5249823&width=800",
+    "pinned": false
+  },
+  {
+    "id": "65c9c1ee8641152f86bc6bd5e4b3cd40e3f90bf9",
+    "title": "Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute",
+    "link": "https://www.theregister.com/applications/2026/07/29/moscow-slaps-telegram-founder-on-wanted-list-durov-responds-with-one-finger-salute/5280522",
+    "summary": "FSB claims Ukrainian spies use chat platform to recruit Russians for sabotage and arson",
+    "isoDate": "2026-07-29T15:56:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5280606&width=800",
+    "pinned": false
+  },
+  {
+    "id": "80951506951c3d4d74da69b9fea3e6b1709f6e34",
+    "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+    "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+    "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
+    "isoDate": "2026-07-29T15:52:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Renee Dudley, ProPublica",
+    "tags": [
+      "AI",
+      "Security",
+      "Anthropic",
+      "Claude",
+      "microsoft",
+      "Mythos",
+      "syndication",
+      "Windows"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a3e103d2fb085be46a0f7769c6895b2056c1213e",
+    "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
+    "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
+    "summary": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates.",
+    "isoDate": "2026-07-29T15:33:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "AMD",
+      "kernel",
+      "Linux",
+      "steam deck",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/Civ7-Steam-Deck-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "eeaf36d3865f84cadf4f873fc7e04b3096b27c29",
+    "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
+    "link": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
+    "summary": "\"I'm beginning to suspect we are not in Jumanji.\"",
+    "isoDate": "2026-07-29T15:16:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "Jumanji: Open World",
+      "Sony Pictures",
+      "Trailers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/jumanji-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "12c1b37eee88efa8e5eeb94d2c889d4e27c755d6",
     "title": "MinIO pitches persistent memory for agents with work to finish",
     "link": "https://www.theregister.com/storage/2026/07/29/minio-pitches-persistent-memory-for-agents-with-work-to-finish/5280407",
@@ -255,6 +358,21 @@
       "public sector"
     ],
     "image": "https://image.theregister.com/?imageId=259666&width=800",
+    "pinned": false
+  },
+  {
+    "id": "37d9feb64392d6410969d5a98d303bdb31792468",
+    "title": "Why the \"patchpocalypse\" demands immediate isolation",
+    "link": "https://www.theregister.com/patches/2026/07/29/partner-content/5280568",
+    "summary": "PARTNER CONTENT: Attackers automated, but your 30-day patch window didn't",
+    "isoDate": "2026-07-29T08:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "patches"
+    ],
+    "image": "https://image.theregister.com/?imageId=235220&width=800",
     "pinned": false
   },
   {
@@ -1043,63 +1161,6 @@
     "pinned": false
   },
   {
-    "id": "ca9e55c9bd917418c94df88a251aeb0b45e65f84",
-    "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
-    "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
-    "summary": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
-    "isoDate": "2026-07-27T20:42:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "CDC",
-      "cyclospora",
-      "cyclosporiasis",
-      "fda",
-      "MAHA",
-      "produce",
-      "robert f kennedy jr"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad-500x429.jpg",
-    "pinned": false
-  },
-  {
-    "id": "68990a81f348815ea407eb7e582cf68e63d7ced3",
-    "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
-    "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-    "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
-    "isoDate": "2026-07-27T20:32:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Apple",
-      "Tech"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-500x500-1785182239.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d31901bd4383ff346ce65855d6936fcc95cdda7f",
-    "title": "A missing underscore sent innocent man to prison for 18 months",
-    "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-    "summary": "When the first step goes wrong, bad results follow.",
-    "isoDate": "2026-07-27T20:22:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nate Anderson",
-    "tags": [
-      "Policy",
-      "csam",
-      "law",
-      "legal",
-      "Skyrim"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "ae92b0407d276599bdf79dd37d9c0736f1791d5c",
     "title": "Microsoft's solution to AI security: more AI and more acronyms",
     "link": "https://www.theregister.com/security/2026/07/27/microsofts-solution-to-ai-security-more-ai-and-more-acronyms/5279140",
@@ -1216,36 +1277,6 @@
     "pinned": false
   },
   {
-    "id": "dad9c410788aca57da148b9b78d8300aa78185d9",
-    "title": "OpenAI's Hugging Face debacle makes a great case for open models",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/27/openais-hugging-face-debacle-makes-a-great-case-for-open-models/5278498",
-    "summary": "If you think OpenAI and Anthropic are the only ones with these capabilities, think again",
-    "isoDate": "2026-07-27T12:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=257091&width=800",
-    "pinned": false
-  },
-  {
-    "id": "136cbed5b43f125a116fbbbf5360aa8e4b2b1475",
-    "title": "Microsoft seeks Supreme Court lifeline in pre-owned license battle",
-    "link": "https://www.theregister.com/software/2026/07/27/microsoft-seeks-supreme-court-lifeline-in-pre-owned-license-battle/5278823",
-    "summary": "£270M ValueLicensing case remains mostly paused while Redmond pursues permission to appeal",
-    "isoDate": "2026-07-27T11:30:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=257239&width=800",
-    "pinned": false
-  },
-  {
     "id": "1f1fe26a09780d1054dad7ac69218d327ba69d3e",
     "title": "In search of the northern cassowary",
     "link": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird",
@@ -1256,21 +1287,6 @@
     "author": "Aeon Video",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "68704d82ae9c4d8e301ad9a3548318182181b1df",
-    "title": "Digital sovereignty is real in Europe. The UK? Not so much",
-    "link": "https://www.theregister.com/columnists/2026/07/27/digital-sovereignty-is-real-in-europe-the-uk-not-so-much/5276852",
-    "summary": "Trump's unpredictability is pushing governments and businesses toward open source while Britain remains glued to US tech",
-    "isoDate": "2026-07-27T10:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=5276896&width=800",
     "pinned": false
   },
   {
@@ -1590,19 +1606,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-2.webp/33dcaf6b89878453a59f0426bc1c60b0/optimus-human-hands-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bd7f92babf5d35c1aa9282446555f72c1e0cd69b",
-    "title": "Tesla Is Expanding Grok to All of Europe and More of Asia",
-    "link": "https://www.notateslaapp.com/news/4473/tesla-is-expanding-grok-to-all-of-europe-and-more-of-asia",
-    "summary": "Tesla has announced that its integration of SpaceXAI’s Grok AI is coming to all of Europe with the Summer 2026 update, along with several new Asian markets <a href=\"https://www.notateslaapp.com/news/4473/tesla-is-expanding-grok-to-all-of-europe-and-more-of-asia\">Read More</a>",
-    "isoDate": "2026-07-22T15:43:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-1.webp/af9875fa07b1d49ab631958f5aea7ed4/grok-ui-1.jpg",
     "pinned": false
   }
 ]
