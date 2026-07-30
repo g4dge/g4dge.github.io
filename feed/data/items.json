@@ -1,5 +1,91 @@
 [
   {
+    "id": "64d2631ee7105918e82761c675bc95b90979b3a3",
+    "title": "Hims & Hers accused of sharing health secrets and hiding the cancel button",
+    "link": "https://www.theregister.com/legal/2026/07/30/ftc-sues-hims-hers-for-sharing-health-data-with-big-tech/5281092",
+    "summary": "FTC says Meta and Snap received sensitive patient information while customers faced unexpected prescription charges",
+    "isoDate": "2026-07-30T11:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=236820&width=800",
+    "pinned": false
+  },
+  {
+    "id": "85ba34ac0c3252f68d4832108df784f99465b7bd",
+    "title": "MariaDB again faces questions over Galera's open source future",
+    "link": "https://www.theregister.com/databases/2026/07/30/mariadb-again-faces-questions-over-galeras-open-source-future/5280975",
+    "summary": "Support for the MySQL build ends in September as the company develops separate premium replication technology",
+    "isoDate": "2026-07-30T11:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "databases"
+    ],
+    "image": "https://image.theregister.com/?imageId=5281055&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e56c15e09b29d2f14146e72ec1af21c69e660aa2",
+    "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
+    "link": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
+    "summary": "Opening a booby-trapped message unleashes a browser implant that can survive password changes and device rebuilds",
+    "isoDate": "2026-07-30T10:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5237994&width=800",
+    "pinned": false
+  },
+  {
+    "id": "567fcc1c3cae59016c60529f6300dbabb76a1a3a",
+    "title": "Mud below, sun above",
+    "link": "https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away",
+    "summary": "<p><img alt=\"Photo of a woman wearing a traditional conical hat and purple clothing, with a floral scarf visible beneath the hat.\" src=\"https://images.aeonmedia.co/images/f68308c2-d1f7-4b7c-a094-9a1d4e1abd21/mud-below-sun-above-landscape-1-v2.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Meet Bể, part of Vietnam’s vital but overlooked network of recyclers – a workforce predominantly made up of elderly women</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away\">Watch on Aeon</a></p>",
+    "isoDate": "2026-07-30T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4242911b80debb9af22a64bb661146c5d25765fb",
+    "title": "The majority of corporate IT is now off premises for the first time",
+    "link": "https://www.theregister.com/off-prem/2026/07/30/the-majority-of-corporate-it-is-now-off-premises-for-the-first-time/5280554",
+    "summary": "Survey finds more workloads run off-site than at in-house corporate facilities for the first time",
+    "isoDate": "2026-07-30T10:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=259417&width=800",
+    "pinned": false
+  },
+  {
+    "id": "98bd4ace322f6fc909e8b18873d57eae59f0713b",
+    "title": "How art invented humanity",
+    "link": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+    "summary": "<p><img alt=\"Embroidered image of a solar system with orbits and planets on a dark background, featuring vibrant star patterns.\" src=\"https://images.aeonmedia.co/images/9dd5b35c-261c-4106-8a9b-53f732aab9b8/essay-hi-res-quilt-nmah-89-10656-000001.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>When early humans first painted cave walls, they began to find out who they really were: our minds emerged from our images</p><p><em>- by J F Martel</em></p><p><a href=\"https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around\">Read on Aeon</a></p>",
+    "isoDate": "2026-07-30T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "J F Martel",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "1c5de210d2065218e66d4ec4029fb222689c5b5c",
     "title": "30 years ago, AT&T gave Internet Explorer the default advantage",
     "link": "https://www.theregister.com/offbeat/2026/07/30/30-years-ago-att-gave-internet-explorer-the-default-advantage/5279373",
@@ -1190,36 +1276,6 @@
     "pinned": false
   },
   {
-    "id": "b6a8a198de4006c67389beadcb07c0d171574688",
-    "title": "Hyperscale, hypersensitive: US teacher cuffed for applauding datacenter critics",
-    "link": "https://www.theregister.com/on-prem/2026/07/28/hyperscale-hypersensitive-us-teacher-cuffed-for-applauding-datacenter-critics/5279487",
-    "summary": "Public meeting over proposed AI bit barn ended with zoning approval, a physics teacher arrested, and fresh questions over whether clapping now counts as disorderly conduct",
-    "isoDate": "2026-07-28T11:32:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5279558&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0c464d65dc83af1998822b172ef27c16a519fd32",
-    "title": "Signals are grim for Jodrell Bank Observatory after UK science funding decision",
-    "link": "https://www.theregister.com/science/2026/07/28/signals-are-grim-for-jodrell-bank-observatory-after-uk-science-funding-decision/5279451",
-    "summary": "Support for e-MERLIN ends 2028 unless the historic radio astronomy center can find another source of cash",
-    "isoDate": "2026-07-28T10:28:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=204334&width=800",
-    "pinned": false
-  },
-  {
     "id": "e6db5cf0bed6d07774ebde9b4ea3d7d3990adbda",
     "title": "The light narrows",
     "link": "https://aeon.co/essays/what-kind-of-strength-did-i-chase-with-a-cojones-cheat-code",
@@ -1230,21 +1286,6 @@
     "author": "Wes Brown",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fb9ca324ad6997b39844a1a57de6da0ac835f956",
-    "title": "Arista patches actively exploited VeloCloud bug as CISA puts admins on the clock",
-    "link": "https://www.theregister.com/security/2026/07/28/arista-patches-actively-exploited-velocloud-bug-as-cisa-puts-admins-on-the-clock/5279414",
-    "summary": "Unauthenticated command injection scores perfect 10 and may expose managed Edge devices",
-    "isoDate": "2026-07-28T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5279434&width=800",
     "pinned": false
   },
   {
@@ -1260,21 +1301,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "dceb2c0125e3e80129feb1d7864407b7b3282355",
-    "title": "Openreach nudges another 112 exchange areas toward full fiber",
-    "link": "https://www.theregister.com/networks/2026/07/28/openreach-nudges-another-112-exchange-areas-toward-full-fiber/5279046",
-    "summary": "Latest batch takes the copper sales restrictions to 1,572 locations and 15.4 million premises",
-    "isoDate": "2026-07-28T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=259748&width=800",
     "pinned": false
   },
   {
@@ -1568,32 +1594,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "87c11c0c190a4d8321758a70f34ef377f10b61b3",
-    "title": "All the Queens houses",
-    "link": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough",
-    "summary": "<p><img alt=\"Colourful terraced houses with distinct architectural styles, featuring a car parked in front.\" src=\"https://images.aeonmedia.co/images/38e1bfca-8633-41a7-bb05-1819f6875bea/all-the-queens-houses-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>To the trained eye, the personalised homes of Queens, NYC, evoke everything from a Venetian streetscape to a Chinese temple</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough\">Watch on Aeon</a></p>",
-    "isoDate": "2026-07-23T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b3d40681bdbcb0c8b1c784c30fabc08cd190af82",
-    "title": "The savage bites back",
-    "link": "https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism",
-    "summary": "<p><img alt=\"Painting of a abstracted figure resting their head on their hand, a sun, and cactus on a blue background.\" src=\"https://images.aeonmedia.co/images/24630034-cb6e-4e6a-8716-f076764b0972/essay-abaporu.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Rooted in Brazilian modernism, anthropophagy devours and transforms culture, subverting colonial fears of cannibalism</p><p><em>- by Sofía Cándano</em></p><p><a href=\"https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism\">Read on Aeon</a></p>",
-    "isoDate": "2026-07-23T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Sofía Cándano",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
