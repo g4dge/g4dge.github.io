@@ -1,5 +1,108 @@
 [
   {
+    "id": "ae755848e3c774921521997a106131b4185c2f2b",
+    "title": "Quantum computers outperform classical ones, with results you can trust",
+    "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+    "summary": "Three approaches to the issue of quantum results that can't be verified classically.",
+    "isoDate": "2026-07-30T15:59:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "algorithms",
+      "Computer science",
+      "error mitigation",
+      "ibm",
+      "ising model",
+      "Physics",
+      "quantum computing",
+      "quantum mechanics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-500x500-1785423728.png",
+    "pinned": false
+  },
+  {
+    "id": "7d8cfef12add8e42ee669540ff9333c8fff6277f",
+    "title": "New MCP specification addresses the main barrier to enterprise adoption",
+    "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+    "isoDate": "2026-07-30T14:53:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Samuel Axon",
+    "tags": [
+      "AI",
+      "AAIF",
+      "Agentic AI Foundation",
+      "agents",
+      "Anthropic",
+      "Linux Foundation",
+      "MCP",
+      "Model Context Protocol"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1aab7c98ebef3f71ce16bc72a08d416882a937ed",
+    "title": "Exclusive: Tesla Model 3 and Model Y Are Getting Upgraded Wireless Phone Chargers",
+    "link": "https://www.notateslaapp.com/news/4505/exclusive-tesla-model-3-and-model-y-are-getting-upgraded-wireless-phone-chargers",
+    "summary": "Tesla to bring the Model Y L’s actively cooled wireless charging to its complete vehicle lineup. <a href=\"https://www.notateslaapp.com/news/4505/exclusive-tesla-model-3-and-model-y-are-getting-upgraded-wireless-phone-chargers\">Read More</a>",
+    "isoDate": "2026-07-30T14:44:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-us-cabin-1785421356.webp/083c46c8aadb07875e11b77a32df9e9c/model-y-l-us-cabin-1785421356.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d0d9469c23c1d13c041660ea9606ccabbb7bbb08",
+    "title": "Americans give all-day school phone bans a ringing endorsement",
+    "link": "https://www.theregister.com/personal-tech/2026/07/30/americans-give-all-day-school-phone-bans-a-ringing-endorsement/5281186",
+    "summary": "Polling suggests patience with handsets in the classroom is running shorter than a teenager's battery life",
+    "isoDate": "2026-07-30T14:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=262319&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1028495f121df5bd291967c7510f2d2286653345",
+    "title": "From individual achievement to partner impact",
+    "link": "https://www.theregister.com/storage/2026/07/30/partner-content/5277414",
+    "summary": "PARTNER CONTENT: Databricks survey data suggests certified professionals lift partner delivery capacity, customer credibility, and AI readiness well beyond the individuals who earn the credential",
+    "isoDate": "2026-07-30T14:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5279934&width=800",
+    "pinned": false
+  },
+  {
+    "id": "dc17b73011e894e596f562523347798d08849fc9",
+    "title": "Samsung warns memory crunch will last through 2028 as profit rises 19-fold",
+    "link": "https://www.theregister.com/systems/2026/07/30/samsung-warns-memory-crunch-will-last-through-2028-as-profit-rises-19-fold/5281142",
+    "summary": "Tech giant counts record piles of cash while buyers face years of elevated prices",
+    "isoDate": "2026-07-30T13:50:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5259665&width=800",
+    "pinned": false
+  },
+  {
     "id": "f117fa22d806f527ac4428de1cf5da54194f872e",
     "title": "Amazon links four poisoned npm packages to one North Korean crew",
     "link": "https://www.theregister.com/cyber-crime/2026/07/30/amazon-links-four-poisoned-npm-packages-to-one-north-korean-crew/5281120",
@@ -1036,28 +1139,6 @@
     "pinned": false
   },
   {
-    "id": "ed5ec75bea30ca654128fb41b0d67140b3abbf04",
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-    "isoDate": "2026-07-28T21:36:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "Hugging Face",
-      "jfrog",
-      "large langage models",
-      "LLMs",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6c07bc37905c392ca58f4859833afba51330b8c1",
     "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
@@ -1083,22 +1164,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi_rear_screen.jpg/3257c5dc37ca7ed182205ae77ec677a9/robotaxi_rear_screen.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3b790868b5a34c9ea395ea3b803095e69b6afd0d",
-    "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
-    "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
-    "summary": "eBay sent bloody pig mask and other macabre deliveries to journalists' home.",
-    "isoDate": "2026-07-28T21:02:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "eBay"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/ebay-pig-mask-500x500-1785271301.jpeg",
     "pinned": false
   },
   {
@@ -1203,21 +1268,6 @@
     "pinned": false
   },
   {
-    "id": "090f4ddddd34dc4ce81eca3b4a388651642c747d",
-    "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
-    "link": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
-    "summary": "VulnCheck says fewer than 2% of AI-assisted vulnerability discoveries have been weaponized, casting doubt on claims frontier models are handing attackers a major advantage",
-    "isoDate": "2026-07-28T15:26:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5259466&width=800",
-    "pinned": false
-  },
-  {
     "id": "1ace961eccc12c91b28806bc30525e4bb2bde070",
     "title": "Tesla's 2026.26 Summer Update Lets You Video Conference on Google Meet, Teams & Discord",
     "link": "https://www.notateslaapp.com/news/4498/teslas-202626-summer-update-lets-you-video-conference-on-google-meet-teams-discord",
@@ -1228,51 +1278,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/browser-cam.webp/c7d9b8a77d691970da42dde91251bed4/browser-cam.jpg",
-    "pinned": false
-  },
-  {
-    "id": "37ca8d33060275afb50672668d42320eff273708",
-    "title": "Bank for charities pulls online services over security fears",
-    "link": "https://www.theregister.com/security/2026/07/28/bank-for-charities-pulls-online-services-over-security-fears/5279615",
-    "summary": "Customer funds safe, but 14,000 organizations may have to phone in time-sensitive payments",
-    "isoDate": "2026-07-28T13:53:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5266181&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ba46e3c413493c9c3322ed362212d3ac25bb2b34",
-    "title": "Deep space dishes dodge devastation from Spanish wildfires",
-    "link": "https://www.theregister.com/science/2026/07/28/deep-space-dishes-dodge-devastation-from-spanish-wildfires/5279547",
-    "summary": "NASA reports some cable damage near Madrid as its antennas and ESA's Cebreros station emerge largely intact",
-    "isoDate": "2026-07-28T13:43:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5279570&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f86d0166b7506f1116de4df5cbd50b2761d000dc",
-    "title": "Hugging Face rebuilt a third of its infrastructure after OpenAI agents ran amok",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/28/openais-agent-siege-forced-significant-rebuild-at-hugging-face/5279577",
-    "summary": "Postmortem offers finer details on the 'unprecedented' attack that's reshaping approaches to security",
-    "isoDate": "2026-07-28T13:11:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240303&width=800",
     "pinned": false
   },
   {
@@ -1581,19 +1586,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-screen-display.webp/7f2a2a37700951cd5d4b64adc5098e1d/robotaxi-screen-display.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f9e183f9522b60178d1c44f3b0ec212369929219",
-    "title": "Tesla FSD Reaches 1.48 Million Active Subscriptions, Shares Growth Numbers",
-    "link": "https://www.notateslaapp.com/news/4483/tesla-fsd-reaches-148-million-active-subscriptions",
-    "summary": "Tesla's Q2 2026 earnings report gave us a detailed look at adoption numbers for FSD (Supervised), revealing that it is picking up serious momentum <a href=\"https://www.notateslaapp.com/news/4483/tesla-fsd-reaches-148-million-active-subscriptions\">Read More</a>",
-    "isoDate": "2026-07-23T15:38:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
     "pinned": false
   }
 ]
