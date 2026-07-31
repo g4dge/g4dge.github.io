@@ -1,5 +1,35 @@
 [
   {
+    "id": "5f06c006e35c58a8ffea025eb4164f64a14a54d3",
+    "title": "Techie lured out of retirement to support software only he remembered",
+    "link": "https://www.theregister.com/software/2026/07/31/techie-lured-out-of-retirement-to-support-software-only-he-remembered/5280245",
+    "summary": "The first job was lucrative and went well, but a pension was preferable to rolling projects",
+    "isoDate": "2026-07-31T06:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5280269&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b87b481a4acb8b3a65c955d9bcec7aa276165022",
+    "title": "Anthropic’s Claude escaped test sandbox to attack three organizations",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
+    "summary": "Wrote and published malware during tests, which is apparently OK because leaky test environments were the real problem",
+    "isoDate": "2026-07-31T02:19:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5281583&width=800",
+    "pinned": false
+  },
+  {
     "id": "b645d74fb05e313c81aad735ffc0c9c3131c237c",
     "title": "Amazon's Q2 was great, but the earnings release is packed with baloney",
     "link": "https://www.theregister.com/paas-and-iaas/2026/07/31/amazon-q2-earnings-strong-results-much-baloney-in-press-release-corey-quinn/5281486",
@@ -1243,36 +1273,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5239946&width=800",
-    "pinned": false
-  },
-  {
-    "id": "08ce632f5d697c6356ff35c87d9b018f3f579b7d",
-    "title": "JFrog's 0-days let OpenAI's models hack Hugging Face",
-    "link": "https://www.theregister.com/security/2026/07/28/jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
-    "summary": "OpenAI confirms the link",
-    "isoDate": "2026-07-28T22:01:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=232611&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6c07bc37905c392ca58f4859833afba51330b8c1",
-    "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
-    "summary": "Up to 8 AI models running in the cloud weighing in on ambiguous business issues? Sounds affordable",
-    "isoDate": "2026-07-28T21:26:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5279997&width=800",
     "pinned": false
   },
   {
