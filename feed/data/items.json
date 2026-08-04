@@ -1,5 +1,73 @@
 [
   {
+    "id": "a21d1710a1f670b77b9795604c68eb3ad305e254",
+    "title": "Dev proves LLMs will run on anything – even a $10 microcontroller",
+    "link": "https://www.theregister.com/edge-and-iot/2026/08/04/dev-proves-llms-will-run-on-anything-even-a-10-microcontroller/5283088",
+    "summary": "Nearly 10 tok/s and it's mostly coherent — What's not to like?",
+    "isoDate": "2026-08-04T21:20:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "edge and iot"
+    ],
+    "image": "https://image.theregister.com/?imageId=5283115&width=800",
+    "pinned": false
+  },
+  {
+    "id": "af9577576c3c9ef4a335a9228f6593dc55159088",
+    "title": "OpenAI wants teachers and profs to foist their work off on ChatGPT",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/04/openai-wants-teachers-and-profs-to-foist-their-work-off-on-chatgpt/5283064",
+    "summary": "New plugins for K-12 teachers, university instructors, and college kids? Read the room, guys",
+    "isoDate": "2026-08-04T21:03:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=258459&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7a15fb054669d3f2c883e887e595dff3ff75b5b8",
+    "title": "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
+    "link": "https://www.theregister.com/devops/2026/08/04/nextjs-163-aims-to-reduce-dreaded-fatal-error-messages/5283036",
+    "summary": "New React framework lowers memory usage by 90%, team claims",
+    "isoDate": "2026-08-04T20:34:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5259466&width=800",
+    "pinned": false
+  },
+  {
+    "id": "82d406643c696eaa41bf27dd1a9753e9c5a8950d",
+    "title": "Texas halts data center connections to power grid amid overwhelming demand",
+    "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+    "isoDate": "2026-08-04T20:34:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "ai data centers",
+      "AI infrastructure",
+      "data centers",
+      "ERCOT",
+      "Greg Abbott",
+      "natural gas",
+      "power grids",
+      "texas"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "923e4285446f86f5793afae86f5689ce14301f8a",
     "title": "Tesla Semi Expansion Confirmed for Europe",
     "link": "https://www.notateslaapp.com/news/4535/tesla-semi-expansion-confirmed-for-europe",
@@ -1024,26 +1092,6 @@
     "pinned": false
   },
   {
-    "id": "ed0043329eaafa43a1da6281948608dd608b4085",
-    "title": "How fruit flies chase invisible ribbons of smell to get to their source",
-    "link": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-    "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
-    "isoDate": "2026-08-01T10:00:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "Biology",
-      "memory",
-      "navigation",
-      "neurobiology",
-      "olfaction"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bb2cd2e4bf7ad1805200498ec7eef7bd39385cec",
     "title": "Unexpected item in the bagging area as Windows Activation error pops up at check-in",
     "link": "https://www.theregister.com/offbeat/2026/08/01/unexpected-item-in-the-bagging-area-as-windows-activation-error-pops-up-at-check-in/5281946",
@@ -1377,36 +1425,6 @@
     "pinned": false
   },
   {
-    "id": "b87b481a4acb8b3a65c955d9bcec7aa276165022",
-    "title": "Anthropic’s Claude escaped test sandbox to attack three organizations",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
-    "summary": "Wrote and published malware during tests, which is apparently OK because leaky test environments were the real problem",
-    "isoDate": "2026-07-31T02:19:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5281583&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b645d74fb05e313c81aad735ffc0c9c3131c237c",
-    "title": "Amazon's Q2 was great, but the earnings release is packed with baloney",
-    "link": "https://www.theregister.com/paas-and-iaas/2026/07/31/amazon-q2-earnings-strong-results-much-baloney-in-press-release-corey-quinn/5281486",
-    "summary": "\"Tell me lies, tell me sweet little lies\"",
-    "isoDate": "2026-07-31T00:08:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "paas and iaas"
-    ],
-    "image": "https://image.theregister.com/?imageId=5281527&width=800",
-    "pinned": false
-  },
-  {
     "id": "5e7e6c7a39b2256faebf14f5bbe086b018d81eb5",
     "title": "Unreleased Tesla FSD V14.3.7 Found in Tesla Vehicle",
     "link": "https://www.notateslaapp.com/news/4518/unreleased-tesla-fsd-v1437-found-in-tesla-vehicle",
@@ -1430,21 +1448,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-2026-26-update-intel-amd.png/dd4a11d3e089997f12762edcef9f0bb3/tesla-2026-26-update-intel-amd.jpg",
-    "pinned": false
-  },
-  {
-    "id": "075473de36c54804ce13598fc5277fb4693b1247",
-    "title": "LinkedIn realizes its users have been bathing in AI slop, offers a shower",
-    "link": "https://www.theregister.com/ai-and-ml/2026/07/30/linkedin-realizes-its-users-have-been-bathing-in-ai-slop-offers-a-shower/5281436",
-    "summary": "AI-riddled social network adds button to report sloppy posts, ditches AI rewrite tools, and promises more to come",
-    "isoDate": "2026-07-30T20:26:49Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5281464&width=800",
     "pinned": false
   },
   {
@@ -1564,19 +1567,6 @@
       "Technology"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3f9ed30168029092aee908a38efe068bf4d31cd7",
-    "title": "Tesla Removes Blinker and Hazard Sounds From Robotaxi Cabins",
-    "link": "https://www.notateslaapp.com/news/4503/tesla-removes-blinker-and-hazard-sounds-from-robotaxi-cabins",
-    "summary": "Tesla is continuing to refine the passenger experience on its driverless Robotaxi network as it expands into new cities <a href=\"https://www.notateslaapp.com/news/4503/tesla-removes-blinker-and-hazard-sounds-from-robotaxi-cabins\">Read More</a>",
-    "isoDate": "2026-07-28T21:06:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi_rear_screen.jpg/3257c5dc37ca7ed182205ae77ec677a9/robotaxi_rear_screen.jpg",
     "pinned": false
   }
 ]
