@@ -1,7 +1,111 @@
 [
   {
+    "id": "95e1d31ce5c4027e83f736fedf3d77bcaad1144f",
+    "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
+    "link": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
+    "summary": "It's as much about grounded characters and well-timed emotional beats as CGI-filled action extravaganzas.",
+    "isoDate": "2026-08-05T18:27:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "film reviews",
+      "MCU Phase Six",
+      "reviews",
+      "Sony Pictures",
+      "Tom Holland"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spidey2-500x500-1785868617.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1b58b03e13b339db39adad46361c594409d1e849",
+    "title": "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
+    "link": "https://arstechnica.com/health/2026/08/report-cdc-finally-plans-formal-response-team-for-explosive-diarrhea-outbreak/",
+    "summary": "Reports of cases began in June, and the national tally is now nearing 23,000.",
+    "isoDate": "2026-08-05T18:11:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "CDC",
+      "cyclospora",
+      "cyclosporiasis",
+      "fda",
+      "lettuce",
+      "taylor farms"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a10ccbf4d69687650f4e5dd88912db68bf2ec066",
+    "title": "SpaceX Q2 Earnings Call Highlights: Starship, Starlink, AI & More",
+    "link": "https://www.notateslaapp.com/news/4543/highlights-from-spacexs-first-ever-earnings-call-starship-starlink-grok-and-more",
+    "summary": "Following its historic market debut in June, SpaceX this week delivered its first quarterly financial results as a public entity <a href=\"https://www.notateslaapp.com/news/4543/highlights-from-spacexs-first-ever-earnings-call-starship-starlink-grok-and-more\">Read More</a>",
+    "isoDate": "2026-08-05T17:35:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-falcon-9-launch-moon-hero-2.jpg/5add1d1e00edd99cfae52467b642502a/spacex-falcon-9-launch-moon-hero-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1ecb8a1d6fcfad4753fe9b4ecb59db0c27242115",
+    "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+    "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+    "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
+    "isoDate": "2026-08-05T17:12:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "disney plus",
+      "Netflix",
+      "streaming"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1232471426-500x500-1758659083.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0aa516abfc779b9f3c492955011abfa7e093d0b3",
+    "title": "EVgo starts building Tesla Superchargers under license",
+    "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+    "summary": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
+    "isoDate": "2026-08-05T17:00:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "EVgo",
+      "Tesla Supercharger"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/evgo-tesla-partnership-1920x1080.jpg-500x500-1785947344.webp",
+    "pinned": false
+  },
+  {
+    "id": "9d6f898762d6a33cfc512c6a89b72d0759f0d3be",
+    "title": "IBM's agentic AI platform is under active attack - patch now",
+    "link": "https://www.theregister.com/security/2026/08/05/ibms-agentic-ai-platform-is-under-active-attack-patch-now/5283535",
+    "summary": "A critical Langflow flaw allowing RCE on default deployments is being exploited, says the CISA",
+    "isoDate": "2026-08-05T16:44:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5283555&width=800",
+    "pinned": false
+  },
+  {
     "id": "801d913504be0c378745a22b409e8f434549fbe9",
-    "title": "D-Wave on rails: Company tests entanglement on its dual-rail qubits",
+    "title": "D-Wave shows off its new entry in quantum computing race",
     "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
     "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
     "isoDate": "2026-08-05T16:37:07Z",
@@ -73,7 +177,7 @@
   },
   {
     "id": "2bb1e0f71bb62876a55f871b9c91479c5064cf63",
-    "title": "SpaceX Partners With Nvidia For Starmind AI Satellites",
+    "title": "SpaceX Partners With Nvidia for New Datacenter in Space Starmind Satellite",
     "link": "https://www.notateslaapp.com/news/4537/spacex-partners-with-nvidia-for-starmind-ai-satellites",
     "summary": "In a major milestone for orbital computing, SpaceX has announced a new hardware partnership with Nvidia to power its upcoming network of data center satellites <a href=\"https://www.notateslaapp.com/news/4537/spacex-partners-with-nvidia-for-starmind-ai-satellites\">Read More</a>",
     "isoDate": "2026-08-05T14:40:00Z",
@@ -293,16 +397,16 @@
     "pinned": false
   },
   {
-    "id": "b2d819b9b701106b960fb26a23c870bee25fcaae",
-    "title": "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/05/amds-results-spotlight-risks-of-putting-all-your-ai-eggs-in-too-few-baskets/5283142",
+    "id": "1fe3a990282a1b15e0c271a9818189c55e46b931",
+    "title": "AMD's AI eggs are in too few baskets, Wall Street worries",
+    "link": "https://www.theregister.com/systems/2026/08/05/amds-ai-eggs-are-in-too-few-baskets-wall-street-worries/5283142",
     "summary": "The House of Zen's new Helios racks, Venice Epycs, may dent Nvidia's dominance — if the bubble doesn't pop first",
     "isoDate": "2026-08-05T00:40:10Z",
     "source": "The Register",
     "category": "Tech",
     "author": "",
     "tags": [
-      "ai and ml"
+      "systems"
     ],
     "image": "https://image.theregister.com/?imageId=246863&width=800",
     "pinned": false
@@ -876,26 +980,6 @@
     "pinned": false
   },
   {
-    "id": "7930501cc9800dffead68dc67af9bcb33b805a22",
-    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-    "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-    "summary": "Top scores increased by 5x.",
-    "isoDate": "2026-08-03T19:00:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nate Anderson",
-    "tags": [
-      "AI",
-      "Culture",
-      "cheating",
-      "higher ed",
-      "test",
-      "universities"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c3c453ceeed06b3d93dfedfe9f9b5d1d52e49eb8",
     "title": "Tesla Upgrades Cybertruck Underbody With Carbon Fiber",
     "link": "https://www.notateslaapp.com/news/4531/tesla-upgrades-cybertruck-underbody-with-carbon-fiber",
@@ -937,23 +1021,6 @@
     "pinned": false
   },
   {
-    "id": "03ab1788bb3a504532235f618abf9e7b494393b0",
-    "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
-    "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
-    "summary": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
-    "isoDate": "2026-08-03T16:10:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "2026 Volkswagen Jetta Sport",
-      "car review"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-VW-Jetta-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "ea6fabb8b21af872fafffa43dc0c32956f27d1ac",
     "title": "Russian spies turn public Wi-Fi into malware delivery systems",
     "link": "https://www.theregister.com/security/2026/08/03/russias-svr-borks-public-wi-fis-for-digital-surveillance/5282399",
@@ -966,25 +1033,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=262816&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9cb4da3a4c430e5f91c77ab5bc3a6e650eca259e",
-    "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
-    "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
-    "summary": "A Louisiana launch site would offer several significant advantages.",
-    "isoDate": "2026-08-03T14:41:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "Louisiana",
-      "space",
-      "spacex",
-      "starship"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HI-A7kbXEAEZyU_-500x500.jpg",
     "pinned": false
   },
   {
@@ -1030,26 +1078,6 @@
       "science"
     ],
     "image": "https://image.theregister.com/?imageId=234630&width=800",
-    "pinned": false
-  },
-  {
-    "id": "785b9e3e2148c9ae27da6c5fda2bf21a6b60035a",
-    "title": "Trump wants the power to stop the public from suing polluters",
-    "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
-    "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
-    "isoDate": "2026-08-03T13:33:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Sarah J. Morath, The Conversation",
-    "tags": [
-      "Policy",
-      "clean air act",
-      "EPA",
-      "pollution",
-      "syndication",
-      "trump administration"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/refinery-500x500.jpg",
     "pinned": false
   },
   {
@@ -1369,21 +1397,6 @@
     "pinned": false
   },
   {
-    "id": "cd81b3e90d48b9888377ec76494bfa04954bc884",
-    "title": "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
-    "link": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056",
-    "summary": "88 custom cores, 176 funky threads, 1.5 TB of laptop RAM, and 1.8 TB/s of NVLink connectivity — this isn't your typical datacenter chip",
-    "isoDate": "2026-08-01T09:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5228929&width=800",
-    "pinned": false
-  },
-  {
     "id": "e0e57858afd1c973fa5282789150c965601b6034",
     "title": "Tesla Reveals Major Model Y L Efficiency Upgrades Over Model Y",
     "link": "https://www.notateslaapp.com/news/4523/tesla-reveals-major-model-y-l-efficiency-upgrades-over-model-y",
@@ -1593,32 +1606,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/r2/modely-vs-r2.webp/0796efc7e0bf0222644b82d571df9405/modely-vs-r2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6fbccf71dbf0ce6a852921f72166846f53b70582",
-    "title": "Tesla FSD Safety Stats From Europe: 5.2x Safer Than Humans",
-    "link": "https://www.notateslaapp.com/news/4510/tesla-fsd-safety-stats-from-europe-52x-safer-than-humans",
-    "summary": "Tesla is backing up its European Full Self-Driving (Supervised) expansion with some impressive real-world driving data <a href=\"https://www.notateslaapp.com/news/4510/tesla-fsd-safety-stats-from-europe-52x-safer-than-humans\">Read More</a>",
-    "isoDate": "2026-07-29T18:14:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-europe-safety-data-july-2026-hero.jpg/ccd46a581a65701af56e46ed5709fbbd/tesla-fsd-europe-safety-data-july-2026-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2d7ea9c4f83f74e80e231eec28ed0f27603a5d8d",
-    "title": "Tesla Doubles Texas AI Compute Capacity in Q2 2026",
-    "link": "https://www.notateslaapp.com/news/4509/tesla-doubles-texas-ai-compute-capacity-in-q2-2026",
-    "summary": "Last week’s Q2 2026 earnings report revealed that Tesla’s installed compute capacity at Gigafactory Texas expanded dramatically over the first half of the year <a href=\"https://www.notateslaapp.com/news/4509/tesla-doubles-texas-ai-compute-capacity-in-q2-2026\">Read More</a>",
-    "isoDate": "2026-07-29T16:57:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/cortex-2-training-center.webp/b135e45ff8c26e96d133767fb1e9120d/cortex-2-training-center.jpg",
     "pinned": false
   }
 ]
