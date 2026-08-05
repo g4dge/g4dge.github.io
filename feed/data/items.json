@@ -1,5 +1,90 @@
 [
   {
+    "id": "801d913504be0c378745a22b409e8f434549fbe9",
+    "title": "D-Wave on rails: Company tests entanglement on its dual-rail qubits",
+    "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+    "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
+    "isoDate": "2026-08-05T16:37:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "Computer science",
+      "D-Wave",
+      "dual-rail qubits",
+      "Physics",
+      "quantum computing",
+      "quantum mechanics",
+      "qubits"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/v5-500x500.webp",
+    "pinned": false
+  },
+  {
+    "id": "73d4c5770626dba2b294aab827739a4a57598cf9",
+    "title": "Samsung and Mousterian move ahead with floating datacenter for Texas",
+    "link": "https://www.theregister.com/on-prem/2026/08/05/samsung-and-mousterian-move-ahead-with-floating-datacenter-for-texas/5283505",
+    "summary": "But bobbing bit barn may be becalmed by state governor's moratorium on connecting to the grid",
+    "isoDate": "2026-08-05T15:47:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5267025&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3432a5c0e7c9f01f8c1f24591275a8be48ed4e27",
+    "title": "Google plans to kill Assistant on your phone on September 4",
+    "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+    "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+    "isoDate": "2026-08-05T15:30:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Tech",
+      "gemini",
+      "google",
+      "Google Assistant"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "208cb109736f16810388aff8b8b03f55e7d3da23",
+    "title": "Microsoft tells engineers to curb their token-burning enthusiasm",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/05/microsoft-tells-engineers-to-curb-their-token-burning-enthusiasm/5283482",
+    "summary": "Redmond wants results from Copilot, not impressive-looking consumption figures",
+    "isoDate": "2026-08-05T15:10:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5247261&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2bb1e0f71bb62876a55f871b9c91479c5064cf63",
+    "title": "SpaceX Partners With Nvidia For Starmind AI Satellites",
+    "link": "https://www.notateslaapp.com/news/4537/spacex-partners-with-nvidia-for-starmind-ai-satellites",
+    "summary": "In a major milestone for orbital computing, SpaceX has announced a new hardware partnership with Nvidia to power its upcoming network of data center satellites <a href=\"https://www.notateslaapp.com/news/4537/spacex-partners-with-nvidia-for-starmind-ai-satellites\">Read More</a>",
+    "isoDate": "2026-08-05T14:40:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-starmind-ai1-nvidia-2.webp/932d33d7b6e53112c5e0d96dffb4a8c1/spacex-starmind-ai1-nvidia-2.jpg",
+    "pinned": false
+  },
+  {
     "id": "97e91511be72504cfe20abd0b3306ccd3ef6137d",
     "title": "SpaceX revenue rockets while AI spending burns billions",
     "link": "https://www.theregister.com/ai-and-ml/2026/08/05/spacex-revenue-rockets-while-ai-spending-burns-billions/5283404",
@@ -29,6 +114,7 @@
       "quarterly earnings",
       "spacex",
       "starlink",
+      "syndication",
       "Tesla",
       "X",
       "xAI"
@@ -1027,23 +1113,6 @@
     "pinned": false
   },
   {
-    "id": "21ab393668f74cfd3181fb12113d925eabcb6466",
-    "title": "How headlights got brighter, whiter, and more blinding after dark",
-    "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
-    "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
-    "isoDate": "2026-08-03T11:00:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Matthew MacConnell",
-    "tags": [
-      "Cars",
-      "Features",
-      "headlights"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/FJCG3729-500x500-1782920572.jpg",
-    "pinned": false
-  },
-  {
     "id": "a705e53416ecf91fc188cce31d76f984ee165f99",
     "title": "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
     "link": "https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176",
@@ -1259,27 +1328,6 @@
     "pinned": false
   },
   {
-    "id": "3e26c8def12c65c631ce0f8f9700a4833ee5ad85",
-    "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-    "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-    "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-    "isoDate": "2026-08-01T18:20:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "Commercial space",
-      "katalyst space",
-      "NASA",
-      "satellite servicing",
-      "Swift"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "529d3d19961dc158ba2c39496f60d62e3b50233b",
     "title": "Tesla Model X Splits in Two in Insane Accident [PHOTOS]",
     "link": "https://www.notateslaapp.com/news/4527/tesla-model-x-splits-in-two-in-insane-accident-photos",
@@ -1336,21 +1384,6 @@
     "pinned": false
   },
   {
-    "id": "c005358e513eb70971de7e43d96cbb0526dfcbfd",
-    "title": "Enterprise cloud infrastructure uptake shows no sign of slowing",
-    "link": "https://www.theregister.com/off-prem/2026/08/01/enterprise-cloud-infrastructure-uptake-shows-no-sign-of-slowing/5281835",
-    "summary": "Cloud revenue now north of $143 billion a quarter, and growth is accelerating",
-    "isoDate": "2026-08-01T07:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=258648&width=800",
-    "pinned": false
-  },
-  {
     "id": "e0e57858afd1c973fa5282789150c965601b6034",
     "title": "Tesla Reveals Major Model Y L Efficiency Upgrades Over Model Y",
     "link": "https://www.notateslaapp.com/news/4523/tesla-reveals-major-model-y-l-efficiency-upgrades-over-model-y",
@@ -1361,21 +1394,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-improvements.webp/dd05b90e2c3812c2d4249e265c2f96ca/model-y-l-improvements.jpg",
-    "pinned": false
-  },
-  {
-    "id": "da6eb54a0cbab212e73a92a391bbd6c4c31031de",
-    "title": "Dev who gave HashiCorp its name returns with a faster terminal multiplexer",
-    "link": "https://www.theregister.com/devops/2026/07/31/dev-who-gave-hashicorp-its-name-returns-with-a-faster-terminal-multiplexer/5281970",
-    "summary": "Persistent sessions could be just the beginning",
-    "isoDate": "2026-07-31T19:12:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5282019&width=800",
     "pinned": false
   },
   {
@@ -1415,21 +1433,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/service-mode/front-camera-service-mode.webp/76b5f28b727394480599ab47122948e2/front-camera-service-mode.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c294e23dce383691c9909576765b6721c0dedfb8",
-    "title": "The most famous brand in physical security got pwned by ShinyHunters",
-    "link": "https://www.theregister.com/security/2026/07/31/the-most-famous-brand-in-physical-security-got-pwned-by-shinyhunters/5281924",
-    "summary": "Hopefully the company secures houses better than it locks down SaaS systems",
-    "isoDate": "2026-07-31T16:27:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5241973&width=800",
     "pinned": false
   },
   {
