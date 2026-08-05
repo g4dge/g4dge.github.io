@@ -1,5 +1,70 @@
 [
   {
+    "id": "449324f552c7524a940f52f6dc1b8d7b61af33a9",
+    "title": "AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165",
+    "summary": "Models used social engineering and collaborated among themselves to solve a security challenge",
+    "isoDate": "2026-08-05T01:55:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=252578&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b2d819b9b701106b960fb26a23c870bee25fcaae",
+    "title": "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/05/amds-results-spotlight-risks-of-putting-all-your-ai-eggs-in-too-few-baskets/5283142",
+    "summary": "The House of Zen's new Helios racks, Venice Epycs, may dent Nvidia's dominance — if the bubble doesn't pop first",
+    "isoDate": "2026-08-05T00:40:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=246863&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b45e8d4dc9e1522e686b751ec330d7f1fa1c06df",
+    "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+    "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+    "summary": "Fire experts warn such markets could incentivize arson.",
+    "isoDate": "2026-08-04T21:52:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cyrus Farivar",
+    "tags": [
+      "Policy",
+      "polymarket",
+      "prediction markets",
+      "wildfires"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "277b959805d4102518106e089ca40c0f9a548791",
+    "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+    "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+    "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
+    "isoDate": "2026-08-04T21:27:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "broadband",
+      "digital equity act"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-with-smartphone-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "38702a612e8c30e23bafea9bbdf1b47d5e1f05e7",
     "title": "Tesla HW3 Computers Are Overheating on FSD V14 Lite",
     "link": "https://www.notateslaapp.com/news/4536/tesla-hw3-computers-are-overheating-on-fsd-v14-lite",
@@ -58,6 +123,29 @@
     "pinned": false
   },
   {
+    "id": "82d406643c696eaa41bf27dd1a9753e9c5a8950d",
+    "title": "Texas halts data center connections to power grid amid overwhelming demand",
+    "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+    "isoDate": "2026-08-04T20:34:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "ai data centers",
+      "AI infrastructure",
+      "data centers",
+      "ERCOT",
+      "Greg Abbott",
+      "natural gas",
+      "power grids",
+      "texas"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "923e4285446f86f5793afae86f5689ce14301f8a",
     "title": "Tesla Semi Expansion Confirmed for Europe",
     "link": "https://www.notateslaapp.com/news/4535/tesla-semi-expansion-confirmed-for-europe",
@@ -81,6 +169,22 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2023/capture-fsd-visualizations.jpg/98c62e4602ba210de36ef1e41104d573/capture-fsd-visualizations.jpg",
+    "pinned": false
+  },
+  {
+    "id": "90a104281aa6c14628bd3c15d54c39bd5f653c6d",
+    "title": "China is Tesla's cash cow, but for how much longer?",
+    "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+    "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
+    "isoDate": "2026-08-04T17:34:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Tesla"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2270890949-500x500.jpg",
     "pinned": false
   },
   {
@@ -140,6 +244,45 @@
     "pinned": false
   },
   {
+    "id": "d227d1718ac7568ef0135ac06a36f738627ac416",
+    "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
+    "link": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+    "summary": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
+    "isoDate": "2026-08-04T16:11:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "gemini",
+      "google",
+      "LEDs",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HiLight-crop-500x500-1785858830.jpg",
+    "pinned": false
+  },
+  {
+    "id": "72bb33794695df3131ff3dd11a6f2c47573c4e2a",
+    "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
+    "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
+    "summary": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule.",
+    "isoDate": "2026-08-04T15:51:00Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "brendan carr",
+      "tom delay",
+      "trump fcc",
+      "TV ownership cap"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-500x500-1771622581.jpg",
+    "pinned": false
+  },
+  {
     "id": "3ea7c1c886a1fc73116cbebe9676d07ccb411b28",
     "title": "Feds get 3 days to patch N-able God mode flaw under active exploit",
     "link": "https://www.theregister.com/security/2026/08/04/feds-get-3-days-to-patch-n-able-god-mode-flaw-under-active-exploit/5282894",
@@ -152,6 +295,29 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=263315&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2b6bc66913115c1ffa3c5c19a87494ee64abb911",
+    "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
+    "link": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
+    "summary": "Federal officials will update the outbreak sometime \"this week,\" a spokesperson said.",
+    "isoDate": "2026-08-04T15:06:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "CDC",
+      "cyclospora",
+      "cyclosporiasis",
+      "diarrhea",
+      "fda",
+      "lettuce",
+      "outbreatk",
+      "taylor frams"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-500x500.jpg",
     "pinned": false
   },
   {
@@ -170,6 +336,21 @@
     "pinned": false
   },
   {
+    "id": "dbc6c49e0fb7b6fe2baaffa912e1b55583577fa6",
+    "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
+    "link": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
+    "summary": "Chevy's 721-hp hybrid ups the ante with few compromises, but at a steep cost.",
+    "isoDate": "2026-08-04T14:45:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Tim Stevens",
+    "tags": [
+      "Cars"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-Chevrolet-Corvette-Grand-Sport-X-005-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "c8b75cfd3c2e35abaf09061a989e5938bbab190a",
     "title": "AI helps Microsoft bug hunters chase a record $20M payday",
     "link": "https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821",
@@ -182,6 +363,25 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5252203&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b3077cd39d2787ef823f877b859be1b1e0f63d90",
+    "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+    "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+    "summary": "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says.",
+    "isoDate": "2026-08-04T13:38:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jamie John, Financial Times",
+    "tags": [
+      "Apple",
+      "Policy",
+      "apple",
+      "openai",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-500x500-1741196880.jpg",
     "pinned": false
   },
   {
@@ -346,6 +546,78 @@
     "pinned": false
   },
   {
+    "id": "8a9c56134c9a0237db9fa3110af097a97e442dd4",
+    "title": "Research roundup: 6 cool science stories we almost missed",
+    "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+    "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+    "isoDate": "2026-08-03T20:13:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "ancient DCA",
+      "animal behavior",
+      "Archaeology",
+      "astronomy",
+      "Biology",
+      "Robotics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/incaboy-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "da9ff99a8bf8e94f5ff6256d457d4dfa37028fa7",
+    "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+    "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+    "summary": "The orbiting observatory in minifigure scale.",
+    "isoDate": "2026-08-03T19:21:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Robert Pearlman",
+    "tags": [
+      "Space",
+      "35 years",
+      "ESA",
+      "Hubble Space Telescope",
+      "Lego",
+      "LEGO Icons",
+      "LEGO model",
+      "minifigure",
+      "NASA",
+      "science instruments",
+      "set 11382",
+      "space collectible",
+      "Space exploration",
+      "space history",
+      "space memorabilia",
+      "space telescope",
+      "space toy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-080226a-lg-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7930501cc9800dffead68dc67af9bcb33b805a22",
+    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+    "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "summary": "Top scores increased by 5x.",
+    "isoDate": "2026-08-03T19:00:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nate Anderson",
+    "tags": [
+      "AI",
+      "Culture",
+      "cheating",
+      "higher ed",
+      "test",
+      "universities"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "c3c453ceeed06b3d93dfedfe9f9b5d1d52e49eb8",
     "title": "Tesla Upgrades Cybertruck Underbody With Carbon Fiber",
     "link": "https://www.notateslaapp.com/news/4531/tesla-upgrades-cybertruck-underbody-with-carbon-fiber",
@@ -387,6 +659,23 @@
     "pinned": false
   },
   {
+    "id": "03ab1788bb3a504532235f618abf9e7b494393b0",
+    "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+    "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+    "summary": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
+    "isoDate": "2026-08-03T16:10:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "2026 Volkswagen Jetta Sport",
+      "car review"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-VW-Jetta-1-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "ea6fabb8b21af872fafffa43dc0c32956f27d1ac",
     "title": "Russian spies turn public Wi-Fi into malware delivery systems",
     "link": "https://www.theregister.com/security/2026/08/03/russias-svr-borks-public-wi-fis-for-digital-surveillance/5282399",
@@ -399,6 +688,25 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=262816&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9cb4da3a4c430e5f91c77ab5bc3a6e650eca259e",
+    "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+    "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+    "summary": "A Louisiana launch site would offer several significant advantages.",
+    "isoDate": "2026-08-03T14:41:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "Louisiana",
+      "space",
+      "spacex",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HI-A7kbXEAEZyU_-500x500.jpg",
     "pinned": false
   },
   {
@@ -444,6 +752,26 @@
       "science"
     ],
     "image": "https://image.theregister.com/?imageId=234630&width=800",
+    "pinned": false
+  },
+  {
+    "id": "785b9e3e2148c9ae27da6c5fda2bf21a6b60035a",
+    "title": "Trump wants the power to stop the public from suing polluters",
+    "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+    "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
+    "isoDate": "2026-08-03T13:33:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Sarah J. Morath, The Conversation",
+    "tags": [
+      "Policy",
+      "clean air act",
+      "EPA",
+      "pollution",
+      "syndication",
+      "trump administration"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/refinery-500x500.jpg",
     "pinned": false
   },
   {
@@ -504,6 +832,23 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5282252&width=800",
+    "pinned": false
+  },
+  {
+    "id": "21ab393668f74cfd3181fb12113d925eabcb6466",
+    "title": "How headlights got brighter, whiter, and more blinding after dark",
+    "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+    "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
+    "isoDate": "2026-08-03T11:00:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Matthew MacConnell",
+    "tags": [
+      "Cars",
+      "Features",
+      "headlights"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/FJCG3729-500x500-1782920572.jpg",
     "pinned": false
   },
   {
@@ -722,6 +1067,27 @@
     "pinned": false
   },
   {
+    "id": "3e26c8def12c65c631ce0f8f9700a4833ee5ad85",
+    "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+    "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+    "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+    "isoDate": "2026-08-01T18:20:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "Commercial space",
+      "katalyst space",
+      "NASA",
+      "satellite servicing",
+      "Swift"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-500x500.png",
+    "pinned": false
+  },
+  {
     "id": "529d3d19961dc158ba2c39496f60d62e3b50233b",
     "title": "Tesla Model X Splits in Two in Insane Accident [PHOTOS]",
     "link": "https://www.notateslaapp.com/news/4527/tesla-model-x-splits-in-two-in-insane-accident-photos",
@@ -732,6 +1098,25 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-x/tesla-model-x-insane-accident-3-1785606172.webp/ba9e4c9a5b3688080e1c8c9b8f3bab81/tesla-model-x-insane-accident-3-1785606172.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9b00352cfacc1cb2ed250aca173b8cf5a69a5bb9",
+    "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+    "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+    "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+    "isoDate": "2026-08-01T15:19:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "Christopher Nolan",
+      "film reviews",
+      "reviews",
+      "The Odyssey"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odysseyTOP-500x500.jpg",
     "pinned": false
   },
   {
@@ -1048,36 +1433,6 @@
       "UFOs"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b34d545353074343c5ea3a65c9c8cb28ccbbc3dd",
-    "title": "Airport sign fails to boot, officers already on the scene",
-    "link": "https://www.theregister.com/offbeat/2026/07/31/airport-sign-fails-to-boot-officers-already-on-the-scene/5281066",
-    "summary": "Bork! Bork! That's the sound of the police",
-    "isoDate": "2026-07-31T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5281088&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5f06c006e35c58a8ffea025eb4164f64a14a54d3",
-    "title": "Techie lured out of retirement to support software only he remembered",
-    "link": "https://www.theregister.com/software/2026/07/31/techie-lured-out-of-retirement-to-support-software-only-he-remembered/5280245",
-    "summary": "The first job was lucrative and went well, but a pension was preferable to rolling projects",
-    "isoDate": "2026-07-31T06:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5280269&width=800",
     "pinned": false
   },
   {
