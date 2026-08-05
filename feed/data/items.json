@@ -1,5 +1,81 @@
 [
   {
+    "id": "1272e5c0a387e02c22be0a0fb7d16110359f1aa7",
+    "title": "Prompt injection isn't the bug, AI agent frameworks are",
+    "link": "https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585",
+    "summary": "Check Point researchers tried to break the frameworks enterprises use to build AI apps. Now they're telling Black Hat attendees what they found",
+    "isoDate": "2026-08-05T21:35:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5283628&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5685c603100a52b482839ac8ea6721b026dfdbc4",
+    "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+    "link": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+    "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
+    "isoDate": "2026-08-05T21:03:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "Cassidy",
+      "CDC",
+      "robert f kennedy jr",
+      "Schwartz",
+      "vaccines"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-500x500-1776453341.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1250d4cae918f436a2d19b1c18b25737fe1cc15b",
+    "title": "Time Magazine has a separate version of its website with ads only AI can see",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/05/time-magazine-has-a-separate-version-of-its-website-with-ads-only-ai-can-see/5283640",
+    "summary": "Brands are already paying to influence what chatbots say about them",
+    "isoDate": "2026-08-05T21:02:55Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=258788&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1baa27119cabf4cfb4cde46abe6458baa5b22659",
+    "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+    "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+    "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+    "isoDate": "2026-08-05T20:47:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "Security",
+      "AI agents",
+      "Anthropic",
+      "Artificial Intelligence",
+      "cybersecurity",
+      "frontier ai",
+      "GPT-5.6 Sol",
+      "Mythos 5",
+      "openai",
+      "UK AI Security Institute"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "671a045d741e0bda56f5388653de06aa6f3964c6",
     "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
     "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
@@ -27,7 +103,7 @@
     "category": "Tech",
     "author": "",
     "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/waymo.webp/4fa402a7ef7f9abfbcfd1f0e39ae024f/waymo.jpg",
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/waymo-graph.webp/740dbb01737c61d5d77cc637c69474a6/waymo-graph.jpg",
     "pinned": false
   },
   {
@@ -308,7 +384,7 @@
   },
   {
     "id": "2bb1e0f71bb62876a55f871b9c91479c5064cf63",
-    "title": "SpaceX Partners With Nvidia for New Datacenter in Space Starmind Satellite",
+    "title": "SpaceX Partners With Nvidia for New Data Centers in Space",
     "link": "https://www.notateslaapp.com/news/4537/spacex-partners-with-nvidia-for-starmind-ai-satellites",
     "summary": "In a major milestone for orbital computing, SpaceX has announced a new hardware partnership with Nvidia to power its upcoming network of data center satellites <a href=\"https://www.notateslaapp.com/news/4537/spacex-partners-with-nvidia-for-starmind-ai-satellites\">Read More</a>",
     "isoDate": "2026-08-05T14:40:00Z",
@@ -777,25 +853,6 @@
     "pinned": false
   },
   {
-    "id": "72bb33794695df3131ff3dd11a6f2c47573c4e2a",
-    "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
-    "link": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
-    "summary": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule.",
-    "isoDate": "2026-08-04T15:51:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "brendan carr",
-      "tom delay",
-      "trump fcc",
-      "TV ownership cap"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-500x500-1771622581.jpg",
-    "pinned": false
-  },
-  {
     "id": "3ea7c1c886a1fc73116cbebe9676d07ccb411b28",
     "title": "Feds get 3 days to patch N-able God mode flaw under active exploit",
     "link": "https://www.theregister.com/security/2026/08/04/feds-get-3-days-to-patch-n-able-god-mode-flaw-under-active-exploit/5282894",
@@ -808,29 +865,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=234266&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2b6bc66913115c1ffa3c5c19a87494ee64abb911",
-    "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
-    "link": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
-    "summary": "Federal officials will update the outbreak sometime \"this week,\" a spokesperson said.",
-    "isoDate": "2026-08-04T15:06:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "CDC",
-      "cyclospora",
-      "cyclosporiasis",
-      "diarrhea",
-      "fda",
-      "lettuce",
-      "outbreatk",
-      "taylor frams"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-500x500.jpg",
     "pinned": false
   },
   {
@@ -1319,21 +1353,6 @@
     "pinned": false
   },
   {
-    "id": "f95a8a27c4411f8f9385d085ac383b175a8ab7ba",
-    "title": "Meta straps on a ‘Kick Me’ sign by mistakenly taking down video by India’s prime minister",
-    "link": "https://www.theregister.com/public-sector/2026/08/03/meta-straps-on-a-kick-me-sign-by-mistakenly-taking-down-video-by-indias-prime-minister/5282130",
-    "summary": "PLUS: DeepSeek to double peak hour prices for new model; Australia hikes fines for Big Tech; Japan’s next moonshot to ride local rocket; and more!",
-    "isoDate": "2026-08-03T01:25:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=252224&width=800",
-    "pinned": false
-  },
-  {
     "id": "fcbabcb05debef8fdd36ee0e86ff10bac0ce5695",
     "title": "Tesla to Open Source Software and Design for Model S and Model X",
     "link": "https://www.notateslaapp.com/news/4490/tesla-to-make-design-and-software-for-model-s-and-model-x-open-source",
@@ -1344,21 +1363,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-x/group_90.jpg/5fb3281b905e24e5beef36e15d4b09eb/group_90.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b1e38f9f739665ad155a25e69eafe8e3a1ff192a",
-    "title": "Meet the 'internet radical' who helped Microsoft get email and AT&T get online",
-    "link": "https://www.theregister.com/offbeat/2026/08/02/meet-the-internet-radical-who-helped-microsoft-get-email-and-att-get-online/5281281",
-    "summary": "Tom Evslin on Bill Gates, the birth of Exchange, and dragging Ma Bell onto the web",
-    "isoDate": "2026-08-02T07:11:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=227615&width=800",
     "pinned": false
   },
   {
