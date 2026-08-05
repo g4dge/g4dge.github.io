@@ -1,5 +1,87 @@
 [
   {
+    "id": "97e91511be72504cfe20abd0b3306ccd3ef6137d",
+    "title": "SpaceX revenue rockets while AI spending burns billions",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/05/spacex-revenue-rockets-while-ai-spending-burns-billions/5283404",
+    "summary": "Investors balk as quarterly capex climbs to $18.4B",
+    "isoDate": "2026-08-05T14:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=246054&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6104801924978ae5f4ef367b79cc318c74b2180d",
+    "title": "SpaceX spooks investors with debut earnings report",
+    "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+    "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+    "isoDate": "2026-08-05T13:59:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "George Hammond, Financial Times",
+    "tags": [
+      "AI",
+      "Space",
+      "quarterly earnings",
+      "spacex",
+      "starlink",
+      "Tesla",
+      "X",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2a2d6018d24e03de4cc4e1c8d4784aefbb291da5",
+    "title": "London cops handed victim's new address and number to her stalker, watchdog says",
+    "link": "https://www.theregister.com/security/2026/08/05/london-cops-handed-victims-new-address-and-number-to-her-stalker-watchdog-says/5283382",
+    "summary": "Met ordered to improve safeguards after two preventable data breaches",
+    "isoDate": "2026-08-05T13:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=242353&width=800",
+    "pinned": false
+  },
+  {
+    "id": "74dafcf6ae78e8b82475085e022ab958c1e0c435",
+    "title": "Voyager 2 cheats the power budget for another year",
+    "link": "https://www.theregister.com/science/2026/08/05/voyager-2-cheats-the-power-budget-for-another-year/5283247",
+    "summary": "Carefully choreographed shutdown gives probe's three remaining instruments more time",
+    "isoDate": "2026-08-05T12:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=204237&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4080fafde5d3039d469214ae92e6bcaa9f581342",
+    "title": "UK charities count the cost of Beacon CRM cyberattack",
+    "link": "https://www.theregister.com/security/2026/08/05/uk-charities-count-the-cost-of-beacon-crm-cyberattack/5283305",
+    "summary": "Database backups likely stolen, potentially exposing donor, supporter, and service user details",
+    "isoDate": "2026-08-05T11:04:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5283378&width=800",
+    "pinned": false
+  },
+  {
     "id": "03f2d2d381a8c6a65c4cdffaf8f1911b0a04dc20",
     "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
     "link": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
@@ -91,20 +173,20 @@
     "tags": [
       "offbeat"
     ],
-    "image": "https://image.theregister.com/?imageId=5283226&width=800",
+    "image": "https://image.theregister.com/?imageId=5283451&width=800",
     "pinned": false
   },
   {
-    "id": "3464291478c1fb060802cebdff3388edfda3746d",
+    "id": "4a9fcac131c58af9cb4b738eae83513c4c0a1cae",
     "title": "Adding an API to networking hardware doesn’t solve management challenges",
-    "link": "https://www.theregister.com/networks/2026/08/05/adding-an-api-to-networking-hardware-doesnt-solve-management-challenges/5283188",
+    "link": "https://www.theregister.com/columnists/2026/08/05/adding-an-api-to-networking-hardware-doesnt-solve-management-challenges/5283188",
     "summary": "This is why cloud-inspired networks win: virtual switches are all consistent",
     "isoDate": "2026-08-05T05:05:41Z",
     "source": "The Register",
     "category": "Tech",
     "author": "",
     "tags": [
-      "networks"
+      "columnists"
     ],
     "image": "https://image.theregister.com/?imageId=234104&width=800",
     "pinned": false
@@ -141,7 +223,7 @@
   },
   {
     "id": "b45e8d4dc9e1522e686b751ec330d7f1fa1c06df",
-    "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+    "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
     "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
     "summary": "Fire experts warn such markets could incentivize arson.",
     "isoDate": "2026-08-04T21:52:31Z",
@@ -159,7 +241,7 @@
   },
   {
     "id": "277b959805d4102518106e089ca40c0f9a548791",
-    "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+    "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
     "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
     "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
     "isoDate": "2026-08-04T21:27:05Z",
@@ -1211,25 +1293,6 @@
     "pinned": false
   },
   {
-    "id": "9b00352cfacc1cb2ed250aca173b8cf5a69a5bb9",
-    "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-    "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-    "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
-    "isoDate": "2026-08-01T15:19:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Christopher Nolan",
-      "film reviews",
-      "reviews",
-      "The Odyssey"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odysseyTOP-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "526f9b234bf416eddf8b2680a9ec0ac80f41227a",
     "title": "Tesla Extends Cybertruck PCS Warranty to 8 Years, Will Reimburse Owners for Repairs",
     "link": "https://www.notateslaapp.com/news/4524/tesla-extends-cybertruck-pcs-warranty-to-8-years-will-reimburse-owners-for-repairs",
@@ -1370,36 +1433,6 @@
     "pinned": false
   },
   {
-    "id": "a87be041345ddc397605af62a0650d72f8d35929",
-    "title": "US bank places trust in ransomware crew that promised to delete its data",
-    "link": "https://www.theregister.com/cyber-crime/2026/07/31/us-bank-places-trust-in-ransomware-crew-that-promised-to-delete-its-data/5281888",
-    "summary": "History suggests this was not wise",
-    "isoDate": "2026-07-31T15:41:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5266120&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9663cee845cf4d237aa73b7c2a226b643e45bf08",
-    "title": "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
-    "link": "https://www.theregister.com/security/2026/07/31/anthropic-and-openai-are-competing-to-see-whose-agents-can-go-rogue-harder/5281797",
-    "summary": "Whoever wins, we lose",
-    "isoDate": "2026-07-31T15:04:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5248788&width=800",
-    "pinned": false
-  },
-  {
     "id": "c2b80a324f6da303cad7849900d1f4ec028a275b",
     "title": "Tesla FSD Reaction Times: V14 Lite vs V12.6.4 vs V14.3",
     "link": "https://www.notateslaapp.com/news/4519/tesla-fsd-reaction-times-v14-lite-vs-v1264-vs-v143",
@@ -1410,51 +1443,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-v14-lite-reaction-time-test-2-1785498679.webp/aca96272adecfc38dc4b4bd4a696aa49/tesla-fsd-v14-lite-reaction-time-test-2-1785498679.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6255c0c29c309dfa5c010137511603d443cd2af4",
-    "title": "Update Teams mobile app by October or lose your calendar",
-    "link": "https://www.theregister.com/software/2026/07/31/update-teams-mobile-app-by-october-or-lose-your-calendar/5281773",
-    "summary": "A nice little summer job for someone",
-    "isoDate": "2026-07-31T14:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682200&width=800",
-    "pinned": false
-  },
-  {
-    "id": "afec32753c5cf2e9e17bf89b45cb99198dbc653e",
-    "title": "Charities remain locked out of CAF Bank online accounts",
-    "link": "https://www.theregister.com/security/2026/07/31/charities-remain-locked-out-of-caf-bank-online-accounts/5281711",
-    "summary": "A week into shutdown, 14,000 customers still have no restoration date and some are struggling to pay staff",
-    "isoDate": "2026-07-31T13:55:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5241871&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fd19a427705f1ef872a69f78854223fd4388b2a4",
-    "title": "NASA's Swift rescue slips to late August as LINK battles its spin",
-    "link": "https://www.theregister.com/science/2026/07/31/nasas-swift-rescue-slips-to-late-august-as-link-battles-its-spin/5281687",
-    "summary": "Engineers make progress in stabilizing mission but push back the rendezvous date",
-    "isoDate": "2026-07-31T12:41:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5237915&width=800",
     "pinned": false
   },
   {
