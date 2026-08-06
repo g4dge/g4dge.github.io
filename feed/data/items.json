@@ -1,5 +1,65 @@
 [
   {
+    "id": "941894c8fac4a4b9b1a3283e9e8c0bc65bd47b83",
+    "title": "Azure CTO pastes Doom into Paint one frame at a time",
+    "link": "https://www.theregister.com/offbeat/2026/08/06/azure-cto-pastes-doom-into-paint-one-frame-at-a-time/5283559",
+    "summary": "It computes nothing, renders everything, and even has sound",
+    "isoDate": "2026-08-06T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5241734&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a960118b916f46ebc392d267edfa557713336d71",
+    "title": "HPE extends validity of quoted hardware prices, possibly for months",
+    "link": "https://www.theregister.com/systems/2026/08/06/hpe-extends-validity-of-quoted-hardware-prices-possibly-for-months/5283817",
+    "summary": "Suggests Big Green knows its component prices will remain steady",
+    "isoDate": "2026-08-06T05:59:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=258399&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e04d675477f5503dbb7faacfb4bf7644537a361f",
+    "title": "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway",
+    "link": "https://www.theregister.com/security/2026/08/06/chinese-router-vendor-denies-its-firmware-contains-backdoors-but-pauses-downloads-to-fix-security-issues-anyway/5283794",
+    "summary": "It’s just a remote maintenance function, says Zbtlink",
+    "isoDate": "2026-08-06T04:57:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=253595&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ee2a945038f8d1401948f3cb1fb39e85bb669c75",
+    "title": "Proxmox ports itself to Arm with help from Nvidia and Supermicro",
+    "link": "https://www.theregister.com/virtualization/2026/08/06/proxmox-ports-itself-to-arm-with-help-from-nvidia-and-supermicro/5283770",
+    "summary": "VMware competitor aiming for the AI datacenter",
+    "isoDate": "2026-08-06T03:45:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=5283791&width=800",
+    "pinned": false
+  },
+  {
     "id": "c2270f4ca38162c23fb7d9063f523c5bdc0fff4a",
     "title": "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
     "link": "https://www.theregister.com/security/2026/08/06/openai-reveals-its-rogue-agent-swarm-went-a-little-bit-borg-ahead-of-hugging-face-hack/5283741",
@@ -1250,36 +1310,6 @@
     "pinned": false
   },
   {
-    "id": "17967bd79e1ed95022b9a3d8119eacfc887fdedc",
-    "title": "UK government investment arm cops to 40-hour leak of officials' contact details",
-    "link": "https://www.theregister.com/security/2026/08/03/uk-government-investment-arm-cops-to-40-hour-leak-of-officials-contact-details/5282213",
-    "summary": "Employee failed to follow security policy, leaving internal management file open to the public",
-    "isoDate": "2026-08-03T11:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5282252&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a705e53416ecf91fc188cce31d76f984ee165f99",
-    "title": "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176",
-    "summary": "LLMs are theft by 'absolute scum' who make life harder for writers by putting them in copyright peril",
-    "isoDate": "2026-08-03T10:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=251558&width=800",
-    "pinned": false
-  },
-  {
     "id": "8965bfb150c8e490b1b7703b821944d73b2a6ac7",
     "title": "Ani Liu: eye heart womb",
     "link": "https://aeon.co/videos/transforming-scientific-enquiry-and-human-bodies-into-visceral-art",
@@ -1306,21 +1336,6 @@
     "pinned": false
   },
   {
-    "id": "0703f79959a848920b7af83975e2a9dabf6eb9f6",
-    "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851",
-    "summary": "Use it to debug and review, says Big Red, but don't submit its output",
-    "isoDate": "2026-08-03T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=253730&width=800",
-    "pinned": false
-  },
-  {
     "id": "97d2c8031a26fe214a8e135cb9296323aff2bf35",
     "title": "Why does the political right still hate electric vehicles and dismiss green energy?",
     "link": "https://www.skeptic.org.uk/2026/08/why-does-the-political-right-still-hate-electric-vehicles-and-dismiss-green-energy/",
@@ -1335,21 +1350,6 @@
       "Technology"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8b5709e340bf4ca5dfcfcd64056ca199cc60b4fe",
-    "title": "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
-    "link": "https://www.theregister.com/columnists/2026/08/03/claude-code-is-revolutionizing-digital-archaeology-enterprise-better-dig-it/5281676",
-    "summary": "'As a big AI skeptic, you just blew my mind'",
-    "isoDate": "2026-08-03T08:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=164235&width=800",
     "pinned": false
   },
   {
