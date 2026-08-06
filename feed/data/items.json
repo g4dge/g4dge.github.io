@@ -1,5 +1,35 @@
 [
   {
+    "id": "c2270f4ca38162c23fb7d9063f523c5bdc0fff4a",
+    "title": "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
+    "link": "https://www.theregister.com/security/2026/08/06/openai-reveals-its-rogue-agent-swarm-went-a-little-bit-borg-ahead-of-hugging-face-hack/5283741",
+    "summary": "It started with an 'impossible task' and led to AI deciding it needed to act as a collective intelligence",
+    "isoDate": "2026-08-06T01:47:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=224517&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ad4f7fa3deb21609b89a1aa17bfc83aedaa6ec50",
+    "title": "Meta wants to get inside your terminal with its new coding agent",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/06/meta-wants-to-get-inside-your-terminal-with-its-new-coding-agent/5283717",
+    "summary": "Muse Code showcases Muse Spark's fresh software engineering chops",
+    "isoDate": "2026-08-06T01:05:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5283763&width=800",
+    "pinned": false
+  },
+  {
     "id": "a09b8a0550b0e7d68c92d355c967134dad1cf721",
     "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
     "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
@@ -17,6 +47,21 @@
       "vulnerabilities"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "eebce071c0cdeec9c7ba6abe482d10eba6a927b0",
+    "title": "An off-grid AI sounds like a great survival assistant, but is better left to roleplaying the zombie apocalypse",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/05/an-off-grid-ai-sounds-like-a-great-survival-assistant-but-is-better-left-to-roleplaying-the-zombie-apocalypse/5283685",
+    "summary": "Would you rather play Russian roulette with an LLM or put your health and safety in the hands of a professional",
+    "isoDate": "2026-08-05T22:33:40Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5283708&width=800",
     "pinned": false
   },
   {
@@ -1305,51 +1350,6 @@
       "columnists"
     ],
     "image": "https://image.theregister.com/?imageId=164235&width=800",
-    "pinned": false
-  },
-  {
-    "id": "cc28d154af8a8ae581e0a231b51b49e7b9c25944",
-    "title": "AI is 'both the weapon and the target' in latest wave of cyberattacks",
-    "link": "https://www.theregister.com/cyber-crime/2026/08/03/ai-is-both-the-weapon-and-the-target-in-latest-wave-of-cyberattacks/5281534",
-    "summary": "CrowdStrike tracks 89% surge in machine-assisted activity as patch windows shrink to 48 hours",
-    "isoDate": "2026-08-03T07:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=258436&width=800",
-    "pinned": false
-  },
-  {
-    "id": "dcc8f93913c16fe522fdec470778b38201d5d631",
-    "title": "IT boss left root session open for bring-your-kid-to-work day",
-    "link": "https://www.theregister.com/os-platforms/2026/08/03/it-boss-left-root-session-open-for-bring-your-kid-to-work-day/5280931",
-    "summary": "Daddy, I typed a Unix command! Was it a bad one?",
-    "isoDate": "2026-08-03T06:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5280954&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ee3392a07e7b2b8f22c7192743068a4692d7a2e9",
-    "title": "Microsoft says 8 GB of RAM should be enough for anyone running Windows 11",
-    "link": "https://www.theregister.com/os-platforms/2026/08/03/microsoft-says-8-gb-of-ram-should-be-enough-for-anyone-running-windows-11/5282153",
-    "summary": "Redmond adds new items to its make-Windows-better list",
-    "isoDate": "2026-08-03T04:40:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=257334&width=800",
     "pinned": false
   },
   {
