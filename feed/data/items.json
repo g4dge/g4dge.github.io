@@ -1,5 +1,115 @@
 [
   {
+    "id": "d36d60d1616a8b776b6aec8f5d65ce079d0dd4a8",
+    "title": "Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591",
+    "summary": "What wouldst thou ask of the monkey's paw?",
+    "isoDate": "2026-08-10T16:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5285615&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6b286787d74155c059f8891bc47d14818b5aeabd",
+    "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
+    "link": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
+    "summary": "Recall of jalapeño products spans 26 states, major retailers, a variety of foods.",
+    "isoDate": "2026-08-10T16:37:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "CDC",
+      "fda",
+      "foodborne illness",
+      "Jalapeño",
+      "salmonella",
+      "taylor farms"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2252731557-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "08a6e908e73a47fe17786fe5778f3b6f33976774",
+    "title": "LexisNexis pulls three services offline after suspicious server activity",
+    "link": "https://www.theregister.com/off-prem/2026/08/10/lexisnexis-blames-outage-on-unusual-server-activity/5285541",
+    "summary": "Customers say issues began Wednesday and still not resolved",
+    "isoDate": "2026-08-10T16:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=254851&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fa72e9ffca5a8e9312f48b9a5c33192ca1f218f0",
+    "title": "Valve slowly expands SteamOS support on non-Valve hardware",
+    "link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
+    "summary": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others.",
+    "isoDate": "2026-08-10T16:01:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "AMD",
+      "claw",
+      "Intel",
+      "msi",
+      "steamos",
+      "updates",
+      "Valve"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/powered-by-steam-os-500x500-1786375747.jpg",
+    "pinned": false
+  },
+  {
+    "id": "df8560ce5bd8d27fd8eb0339cef837cd119ea820",
+    "title": "Should Tesla Allow FSD Transfers on Totaled Vehicles?",
+    "link": "https://www.notateslaapp.com/news/4439/opinion-tesla-should-allow-fsd-transfer-on-totalled-cars",
+    "summary": "An argument for Tesla to permit Full Self-Driving transfers on totaled vehicles to protect customer loyalty. <a href=\"https://www.notateslaapp.com/news/4439/opinion-tesla-should-allow-fsd-transfer-on-totalled-cars\">Read More</a>",
+    "isoDate": "2026-08-10T15:45:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard.webp/7cfd0633399b2af2d987f0a8fd17d106/fsd_giftcard.jpg",
+    "pinned": false
+  },
+  {
+    "id": "091d908b075684c8db9bdd4eb5b7bec4259df04f",
+    "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+    "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+    "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
+    "isoDate": "2026-08-10T15:44:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "antitrust",
+      "apps",
+      "Epic Games",
+      "games",
+      "google",
+      "google play",
+      "Google v. Epic",
+      "play store"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay-500x500-1759849988.jpeg",
+    "pinned": false
+  },
+  {
     "id": "08118ec86ad771778eb22d3ff6bb78e43f0a83f1",
     "title": "Tesla FSD V14.1 Lite Rolls Out: First Impressions",
     "link": "https://www.notateslaapp.com/news/4565/tesla-fsd-v141-lite-rolls-out-first-impressions",
@@ -85,6 +195,81 @@
     "pinned": false
   },
   {
+    "id": "160d0a955c1019be94d97ba7da3d44b50000cdde",
+    "title": "As datacenters expand, so does public opposition to them",
+    "link": "https://www.theregister.com/on-prem/2026/08/10/as-datacenters-expand-so-does-public-opposition-to-them/5285449",
+    "summary": "Bans on new server farm projects spread across the US, while plans meet with protests in the UK",
+    "isoDate": "2026-08-10T14:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=1684059&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8f72097a41f0b243278d8856934246459f75a531",
+    "title": "Attackers pick Levi's pockets in social engineering attack",
+    "link": "https://www.theregister.com/security/2026/08/10/attackers-pick-levis-pockets-in-social-engineering-attack/5285401",
+    "summary": "Crims talked their way onto three employee PCs before trousering corporate data",
+    "isoDate": "2026-08-10T13:36:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5285412&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c3f2240932ff862669f0312ba8627389a4c79996",
+    "title": "Wetherspoons bars smart glasses from filming customers",
+    "link": "https://www.theregister.com/personal-tech/2026/08/10/wetherspoons-bars-smart-glasses-from-filming-customers/5285357",
+    "summary": "Pub chain says turn off the cameras, reminds punters not to blare sound from phone vids either",
+    "isoDate": "2026-08-10T13:20:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=257009&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6c578a26c50edb35bd3fcd13ad5ebf1226bf576d",
+    "title": "Cyber vulnerability sweep picks up Royal Navy drones sending data to China",
+    "link": "https://www.theregister.com/edge-and-iot/2026/08/10/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china/5285430",
+    "summary": "No, no nasties to see here, guv...",
+    "isoDate": "2026-08-10T12:25:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "edge and iot"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094139&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6ea897a7b1e0e6d0cdbe5d90affb5781716b6a64",
+    "title": "Framework loses customer data in Metabase zero-day attack",
+    "link": "https://www.theregister.com/personal-tech/2026/08/10/framework-loses-customer-data-in-metabase-zero-day-attack/5285302",
+    "summary": "Repairable hardware is little comfort when personal details escape",
+    "isoDate": "2026-08-10T11:21:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5225977&width=800",
+    "pinned": false
+  },
+  {
     "id": "deeb72293cb6459830443566a29b8523a902e4c5",
     "title": "Peer review is overwhelmed—can it survive in the AI era?",
     "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
@@ -102,6 +287,21 @@
       "scientific journals"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1467e1a29cf4e1a44932bff6ac58b9cc1a9115d7",
+    "title": "Claude Code puts auto mode in the driver's seat",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/10/claude-code-puts-auto-mode-in-the-drivers-seat/5285326",
+    "summary": "Walk away and hope the classifier catches anything irreversible or destructive",
+    "isoDate": "2026-08-10T10:38:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5285396&width=800",
     "pinned": false
   },
   {
@@ -209,7 +409,7 @@
     "id": "0ec1429f55915725490884aa31e57d1562d90e30",
     "title": "Advertisers are trying to influence AI bots with secret ads",
     "link": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093",
-    "summary": "PLUS: Hiveminds are emerging to hack the planet, and open-weight models are the new new red scare.",
+    "summary": "PLUS: Hiveminds are emerging to hack the planet, and open-weight models are the new new red scare",
     "isoDate": "2026-08-10T03:00:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -758,26 +958,6 @@
     "pinned": false
   },
   {
-    "id": "c0ea7c9ee15149cf2ffed7ed460e540975684be4",
-    "title": "Report: White House drafting executive order linking vaccines and autism",
-    "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
-    "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
-    "isoDate": "2026-08-07T14:41:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anti-vaccine",
-      "autism",
-      "robert f kennedy jr",
-      "Trump",
-      "vaccine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3d75571224edd1ba2478755c512e4d55648a2724",
     "title": "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
     "link": "https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081",
@@ -805,45 +985,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=260005&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6eab0a95d44b855f9b0c398cecb4cfab6ae2ff58",
-    "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-    "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-    "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
-    "isoDate": "2026-08-07T13:49:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cyrus Farivar",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI and mental health",
-      "Anthropic",
-      "ChatGPT",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1031fe6932b5a28d7501b5b77e8d5a9e66e6fbf4",
-    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-    "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-    "summary": "TikTok owner training a model with 10 trillion parameters.",
-    "isoDate": "2026-08-07T13:29:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Zijing Wu, Financial Times",
-    "tags": [
-      "AI",
-      "bytedance",
-      "china",
-      "Model distillation",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-500x500.jpg",
     "pinned": false
   },
   {
@@ -1311,126 +1452,6 @@
     "author": "Sam Dresser",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0c7ea8c638d2a2245c56e4640096c4784a036e25",
-    "title": "News Corp labels some AI companies 'crass kleptomaniacs'",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/06/news-corp-labels-some-ai-companies-crass-kleptomaniacs/5283848",
-    "summary": "Pay it for content, like OpenAI and Meta, to become 'principled' and 'honorable'",
-    "isoDate": "2026-08-06T09:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5283895&width=800",
-    "pinned": false
-  },
-  {
-    "id": "941894c8fac4a4b9b1a3283e9e8c0bc65bd47b83",
-    "title": "Azure CTO pastes Doom into Paint one frame at a time",
-    "link": "https://www.theregister.com/offbeat/2026/08/06/azure-cto-pastes-doom-into-paint-one-frame-at-a-time/5283559",
-    "summary": "It computes nothing, renders everything, and even has sound",
-    "isoDate": "2026-08-06T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5241734&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a960118b916f46ebc392d267edfa557713336d71",
-    "title": "HPE extends validity of quoted hardware prices, possibly for months",
-    "link": "https://www.theregister.com/systems/2026/08/06/hpe-extends-validity-of-quoted-hardware-prices-possibly-for-months/5283817",
-    "summary": "Suggests Big Green knows its component prices will remain steady",
-    "isoDate": "2026-08-06T05:59:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=258399&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e04d675477f5503dbb7faacfb4bf7644537a361f",
-    "title": "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway",
-    "link": "https://www.theregister.com/security/2026/08/06/chinese-router-vendor-denies-its-firmware-contains-backdoors-but-pauses-downloads-to-fix-security-issues-anyway/5283794",
-    "summary": "It’s just a remote maintenance function, says Zbtlink",
-    "isoDate": "2026-08-06T04:57:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=253595&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ee2a945038f8d1401948f3cb1fb39e85bb669c75",
-    "title": "Proxmox ports itself to Arm with help from Nvidia and Supermicro",
-    "link": "https://www.theregister.com/virtualization/2026/08/06/proxmox-ports-itself-to-arm-with-help-from-nvidia-and-supermicro/5283770",
-    "summary": "VMware competitor aiming for the AI datacenter",
-    "isoDate": "2026-08-06T03:45:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "virtualization"
-    ],
-    "image": "https://image.theregister.com/?imageId=5283791&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c2270f4ca38162c23fb7d9063f523c5bdc0fff4a",
-    "title": "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
-    "link": "https://www.theregister.com/security/2026/08/06/openai-reveals-its-rogue-agent-swarm-went-a-little-bit-borg-ahead-of-hugging-face-hack/5283741",
-    "summary": "It started with an 'impossible task' and led to AI deciding it needed to act as a collective intelligence",
-    "isoDate": "2026-08-06T01:47:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=224517&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ad4f7fa3deb21609b89a1aa17bfc83aedaa6ec50",
-    "title": "Meta wants to get inside your terminal with its new coding agent",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/06/meta-wants-to-get-inside-your-terminal-with-its-new-coding-agent/5283717",
-    "summary": "Muse Code showcases Muse Spark's fresh software engineering chops",
-    "isoDate": "2026-08-06T01:05:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5283763&width=800",
-    "pinned": false
-  },
-  {
-    "id": "eebce071c0cdeec9c7ba6abe482d10eba6a927b0",
-    "title": "An off-grid AI sounds like a great survival assistant, but is better left to roleplaying the zombie apocalypse",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/05/an-off-grid-ai-sounds-like-a-great-survival-assistant-but-is-better-left-to-roleplaying-the-zombie-apocalypse/5283685",
-    "summary": "Would you rather play Russian roulette with an LLM or put your health and safety in the hands of a professional",
-    "isoDate": "2026-08-05T22:33:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5283708&width=800",
     "pinned": false
   },
   {
