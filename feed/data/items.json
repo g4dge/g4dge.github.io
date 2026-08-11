@@ -1,5 +1,54 @@
 [
   {
+    "id": "99ee35b9d2142e94903b25cf45351b712d34ebf5",
+    "title": "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/11/cyberattack-on-logistics-giant-ceva-delivers-customer-data-into-the-wrong-hands/5286229",
+    "summary": "Valve, Bol, ING, Ajax, and others affected as pwnage disrupts eight European warehouses",
+    "isoDate": "2026-08-11T13:24:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=239517&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e7210abe706aa09b89ae613f18116dc5d127b0d9",
+    "title": "New surveillance tech links your phone to your license plate",
+    "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
+    "summary": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
+    "isoDate": "2026-08-11T13:15:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nicole M. Bennett, The Conversation",
+    "tags": [
+      "Security",
+      "Flock!",
+      "license plate readers",
+      "privacy",
+      "surveillance"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-500x500-1779223476.jpg",
+    "pinned": false
+  },
+  {
+    "id": "dbd10b55a9551ff1e5f0291fcf3aa29a6f05a9f7",
+    "title": "Deepfake hiccup unmasks suspected digital certificate fraudster",
+    "link": "https://www.theregister.com/security/2026/08/11/deepfake-hiccup-unmasks-suspected-digital-certificate-fraudster/5285934",
+    "summary": "Face-swap software blinked for 'barely a second,' giving Spanish cops the break they needed",
+    "isoDate": "2026-08-11T12:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5286216&width=800",
+    "pinned": false
+  },
+  {
     "id": "58f27f8111b758808d47b581fb8890b03aacb8ef",
     "title": "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
     "link": "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908",
@@ -991,28 +1040,6 @@
     "pinned": false
   },
   {
-    "id": "5cd4a4ede33f4df6f8a21c879db289a2ab140a0b",
-    "title": "Europe's free satellite service just made it easier to track wildfires",
-    "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-    "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
-    "isoDate": "2026-08-07T21:48:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "Copernicus",
-      "european space agency",
-      "satellite imagery",
-      "Satellite imaging",
-      "Sentinel satellites",
-      "wildfire",
-      "wildfires"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8da4921b8aac5e5c469a1927244b43060ac77b8b",
     "title": "Tesla Battery Recycling to Rival North American Mining Output",
     "link": "https://www.notateslaapp.com/news/4558/tesla-battery-recycling-to-rival-north-american-mining-output",
@@ -1359,36 +1386,6 @@
       "networks"
     ],
     "image": "https://image.theregister.com/?imageId=5284450&width=800",
-    "pinned": false
-  },
-  {
-    "id": "82342824c2fa4d44d1dbdbc771bc79fee6e22ec3",
-    "title": "How the famed USENIX Security conf is managing a flood of papers in the AI era",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/07/how-the-famed-usenix-security-conf-is-managing-a-flood-of-papers-in-the-ai-era/5284374",
-    "summary": "AI usage is evident but isn't yet a serious problem",
-    "isoDate": "2026-08-06T23:40:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5284394&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9a54045d74542bea959f17c6310e924ea77dd400",
-    "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
-    "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "summary": "Early tech demos show model-specific integrated circuits churning out up to 17,000 tokens a second",
-    "isoDate": "2026-08-06T20:05:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5284365&width=800",
     "pinned": false
   },
   {
