@@ -1,5 +1,80 @@
 [
   {
+    "id": "e0173e8dc4a3d3db4dc00087c1f387020372a064",
+    "title": "From the archives: Neural Networks and NDEs – Can a computer have a near-death experience?",
+    "link": "https://www.skeptic.org.uk/2026/08/from-the-archives-neural-networks-and-ndes-can-a-computer-have-a-near-death-experience/",
+    "summary": "<p>From the archives of July 1993, David Bradbury on the experiments which claimed to show neural networks were capable of producing NDEs.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/08/from-the-archives-neural-networks-and-ndes-can-a-computer-have-a-near-death-experience/\">From the archives: Neural Networks and NDEs – Can a computer have a near-death experience?</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-08-11T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "David Bradbury",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f9a965b4a6f76fcb7604ea3e5d4546b1a5e2e865",
+    "title": "OVH Cloud warns of 87% price hikes to help it cover RAMpocalypse costs",
+    "link": "https://www.theregister.com/off-prem/2026/08/11/ovh-cloud-warns-of-87-price-hikes-to-help-it-cover-rampocalypse-costs/5285867",
+    "summary": "Gaming servers get the steepest rises but sticker shock is also coming to conventional instances running on old and new boxes",
+    "isoDate": "2026-08-11T05:52:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=260550&width=800",
+    "pinned": false
+  },
+  {
+    "id": "18ca572effe493e93696fbc43ca90d5f93614eef",
+    "title": "Japan kind-of completes its sovereign satnav constellation",
+    "link": "https://www.theregister.com/science/2026/08/11/japan-kind-of-completes-its-sovereign-satnav-constellation/5285838",
+    "summary": "H3 rocket gets the job done after losing a bird last year",
+    "isoDate": "2026-08-11T04:59:40Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=238265&width=800",
+    "pinned": false
+  },
+  {
+    "id": "acc7f997b2426e9f07016980eb672d0b63667380",
+    "title": "Alibaba Cloud is using AI to help it use less AI",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/11/alibaba-cloud-is-using-ai-to-help-it-use-less-ai/5285815",
+    "summary": "Solves tech support tickets faster and more accurately by keeping them away from LLMs",
+    "isoDate": "2026-08-11T00:48:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=259127&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0d6127b8a739290158cf3b7e6372e8f38271e753",
+    "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
+    "summary": "EU rules cited as reason for effort to trace AI output ancestry",
+    "isoDate": "2026-08-11T00:27:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=261698&width=800",
+    "pinned": false
+  },
+  {
     "id": "5dd6b19cff3c0ffa3ac1fa4f81d9c2c28d28e489",
     "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
     "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
@@ -78,6 +153,21 @@
       "nintendo switch"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d77e4fafee55956524f7bf69dd580c47ff1aeca4",
+    "title": "Hey, big spender – OpenAI has a new SKU just for you",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
+    "summary": "$125 a month? So, how good are those open-weight models getting, again?",
+    "isoDate": "2026-08-10T21:25:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=244264&width=800",
     "pinned": false
   },
   {
@@ -1323,21 +1413,6 @@
     "pinned": false
   },
   {
-    "id": "896b79b687eada36ad52076b54533920e2e01d79",
-    "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
-    "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
-    "isoDate": "2026-08-06T16:44:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5251269&width=800",
-    "pinned": false
-  },
-  {
     "id": "01487457a9fb3c8f6896d2724ff90a938f6b4f34",
     "title": "Tesla Secures New Robovan Design Patent",
     "link": "https://www.notateslaapp.com/news/4547/tesla-secures-new-robovan-design-patent",
@@ -1348,81 +1423,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robovan/robovan-app.webp/30b50eb67f913a8b679f382a4105f8d0/robovan-app.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fec39792c50b41b0836e6d08be975f28b065dab0",
-    "title": "Next step for LINK spacecraft – a software update that won't make things worse. Are you listening, Microsoft?",
-    "link": "https://www.theregister.com/science/2026/08/06/next-step-for-link-spacecraft-a-software-update-that-wont-make-things-worse-are-you-listening-microsoft/5284143",
-    "summary": "Spin slows as orbital rescue mission creeps forward",
-    "isoDate": "2026-08-06T15:11:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5237915&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e9350004b093cdb744e1483a324f53e9ab220cdc",
-    "title": "Platform Engineering 2.0: your platform was built for a different era. AI just exposed it",
-    "link": "https://www.theregister.com/devops/2026/08/06/partner-content-platform-engineering-20-your-platform-was-built-for-a-different-era-ai-just-exposed-it/5283237",
-    "summary": "PARTNER CONTENT: Platform engineering won the argument. Now it has to grow up fast and evolve for the AI era",
-    "isoDate": "2026-08-06T15:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5283944&width=800",
-    "pinned": false
-  },
-  {
-    "id": "38feeb6f9b0eeeb863f2c9e26cc54258551920b0",
-    "title": "Microsoft excludes Domain Exclusion from MS 365 Copilot  – days after rolling it out",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/06/microsoft-excludes-domain-exclusion-from-ms-365-copilot-days-after-rolling-it-out/5284106",
-    "summary": "Perhaps an allow list of domains might be better?",
-    "isoDate": "2026-08-06T14:34:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5284130&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ea3a78edd3db49745a885ad0d80888ce19388947",
-    "title": "Snowflake extortionist admits 165-victim cloud crime spree – and squeezing one target twice",
-    "link": "https://www.theregister.com/storage/2026/08/06/snowflake-extortionist-admits-165-victim-cloud-crime-spree-and-squeezing-one-target-twice/5284059",
-    "summary": "Connor Moucka pleads guilty over sprawling 2024 campaign that looted billions of records",
-    "isoDate": "2026-08-06T14:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "storage"
-    ],
-    "image": "https://image.theregister.com/?imageId=258627&width=800",
-    "pinned": false
-  },
-  {
-    "id": "215f224d6f3fd44c373f38ed637f3d4b04bcd25d",
-    "title": "Blue Origin blames New Glenn fireball on engine oxygen valve",
-    "link": "https://www.theregister.com/science/2026/08/06/blue-origin-blames-new-glenn-fireball-on-engine-oxygen-valve/5283997",
-    "summary": "Small modifications under way as Bezos's rocket biz races to rebuild pad and fly again this year",
-    "isoDate": "2026-08-06T13:18:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5248404&width=800",
     "pinned": false
   },
   {
@@ -1621,21 +1621,6 @@
     "category": "Long Reads",
     "author": "Fainos Mangena",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fb6e9c6d2bdbeaab0408f2143bcff39a37d9945e",
-    "title": "From the archives: Cold fusion heats up",
-    "link": "https://www.skeptic.org.uk/2026/08/from-the-archives-cold-fusion-heats-up/",
-    "summary": "<p>From the archives of May 1993, Chris Tinsley urges caution in writing off cold fusion experiments, before they had been proven to be a hoax.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/08/from-the-archives-cold-fusion-heats-up/\">From the archives: Cold fusion heats up</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-08-04T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Chris Tinsley",
-    "tags": [
-      "Archive"
-    ],
     "image": "",
     "pinned": false
   }
