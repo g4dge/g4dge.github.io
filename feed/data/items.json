@@ -1,5 +1,53 @@
 [
   {
+    "id": "fcb250e7858652914f69cc76fa32782513491132",
+    "title": "Russian drones found near vital European offshore gas site, get blown up",
+    "link": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+    "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+    "isoDate": "2026-08-11T21:20:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "drones",
+      "european union",
+      "military drones",
+      "Nato",
+      "natural gas",
+      "Romania",
+      "russia",
+      "Russian invasion of Ukraine",
+      "Russian war on Ukraine",
+      "Ukraine",
+      "Ukraine war"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "d717af62f3980f0f25828f145ce8bb39f5867d1d",
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+    "isoDate": "2026-08-11T20:59:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Google",
+      "Security",
+      "account takeovers",
+      "dbscs",
+      "device bound session credentials",
+      "session cookie",
+      "session cookie theft"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "31b7868f8278077ec65e2cff5ca230e365060129",
     "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
     "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
@@ -675,30 +723,6 @@
     "pinned": false
   },
   {
-    "id": "091d908b075684c8db9bdd4eb5b7bec4259df04f",
-    "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
-    "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
-    "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
-    "isoDate": "2026-08-10T15:44:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "antitrust",
-      "apps",
-      "Epic Games",
-      "games",
-      "google",
-      "google play",
-      "Google v. Epic",
-      "play store"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay-500x500-1759849988.jpeg",
-    "pinned": false
-  },
-  {
     "id": "08118ec86ad771778eb22d3ff6bb78e43f0a83f1",
     "title": "Tesla FSD V14.1 Lite Rolls Out: First Impressions",
     "link": "https://www.notateslaapp.com/news/4565/tesla-fsd-v141-lite-rolls-out-first-impressions",
@@ -709,24 +733,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-1.webp/85beac17d20feea27848008a4229f225/fsd-vis-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e24aabdc39859bb77f5a072b7d304475da421089",
-    "title": "One of China's workhorse rockets just exploded in flight",
-    "link": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
-    "summary": "If the failure involved the YF-100 engine, there are broader concerns for China's space program.",
-    "isoDate": "2026-08-10T15:05:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "china",
-      "long march 7A",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1936304422-500x500.jpg",
     "pinned": false
   },
   {
@@ -1565,19 +1571,6 @@
       "Science"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "38702a612e8c30e23bafea9bbdf1b47d5e1f05e7",
-    "title": "Tesla HW3 Computers Are Overheating on FSD V14 Lite",
-    "link": "https://www.notateslaapp.com/news/4536/tesla-hw3-computers-are-overheating-on-fsd-v14-lite",
-    "summary": "As Tesla pushes its latest self-driving advancements to legacy hardware, an increasing number of owners are reporting thermal issues under their dashboards <a href=\"https://www.notateslaapp.com/news/4536/tesla-hw3-computers-are-overheating-on-fsd-v14-lite\">Read More</a>",
-    "isoDate": "2026-08-04T21:22:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v14-lite-hw3-overheating-1.webp/ba24e211d077c2b5cd187e813264a14a/fsd-v14-lite-hw3-overheating-1.jpg",
     "pinned": false
   }
 ]
