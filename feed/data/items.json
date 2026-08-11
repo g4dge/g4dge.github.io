@@ -1,5 +1,20 @@
 [
   {
+    "id": "1841dcddf1781debd28b8cc561f8c9629d4821eb",
+    "title": "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/11/feds-warn-gunra-ransomware-is-exploiting-known-bugs-to-hit-critical-infrastructure/5286263",
+    "summary": "Newly minted RaaS crew breaks in through using internet-facing kit via known Fortinet flaws, then steals and scrambles data",
+    "isoDate": "2026-08-11T14:36:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=261470&width=800",
+    "pinned": false
+  },
+  {
     "id": "99ee35b9d2142e94903b25cf45351b712d34ebf5",
     "title": "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands",
     "link": "https://www.theregister.com/cyber-crime/2026/08/11/cyberattack-on-logistics-giant-ceva-delivers-customer-data-into-the-wrong-hands/5286229",
@@ -28,7 +43,8 @@
       "Flock!",
       "license plate readers",
       "privacy",
-      "surveillance"
+      "surveillance",
+      "syndication"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-500x500-1779223476.jpg",
     "pinned": false
@@ -205,7 +221,7 @@
     "id": "5dd6b19cff3c0ffa3ac1fa4f81d9c2c28d28e489",
     "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
     "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-    "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
+    "summary": "Our discussion takes place live on August 11 at 2:30 pm ET.",
     "isoDate": "2026-08-10T22:23:43Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -1371,21 +1387,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=222888&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d82bfb4108abcd2e36fdfea787123de54953d333",
-    "title": "‘Humans will be a rounding error on the internet’ says Cloudflare exec",
-    "link": "https://www.theregister.com/networks/2026/08/07/humans-will-be-a-rounding-error-on-the-internet-says-cloudflare-exec/5284429",
-    "summary": "Machine-generated traffic to surge 1000x in five years, while we meatbags keep clicking away slowly",
-    "isoDate": "2026-08-07T02:40:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5284450&width=800",
     "pinned": false
   },
   {
