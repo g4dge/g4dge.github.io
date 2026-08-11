@@ -1,5 +1,40 @@
 [
   {
+    "id": "58f27f8111b758808d47b581fb8890b03aacb8ef",
+    "title": "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
+    "link": "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908",
+    "summary": "Audit logs found no unexpected visitors, but release verification still needs an update",
+    "isoDate": "2026-08-11T11:36:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5274447&width=800",
+    "pinned": false
+  },
+  {
+    "id": "cfbcaf46624e402ab6d4121651c4543648fa780d",
+    "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+    "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+    "summary": "Why passkey apps treat Windows differently than other operating systems.",
+    "isoDate": "2026-08-11T11:30:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "authentication",
+      "Google password manager",
+      "passkeys",
+      "Windows"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "63af43f880302e40d2933fd873eb023e12072aad",
     "title": "Building up the US power grid won't be wasted, even if the AI bubble bursts",
     "link": "https://www.theregister.com/on-prem/2026/08/11/building-up-the-us-power-grid-wont-be-wasted-even-if-the-ai-bubble-bursts/5285563",
@@ -978,21 +1013,6 @@
     "pinned": false
   },
   {
-    "id": "ff92579b98c3ee2d1f813679b2801d2feec7232d",
-    "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-    "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-    "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
-    "isoDate": "2026-08-07T21:09:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg",
-    "pinned": false
-  },
-  {
     "id": "8da4921b8aac5e5c469a1927244b43060ac77b8b",
     "title": "Tesla Battery Recycling to Rival North American Mining Output",
     "link": "https://www.notateslaapp.com/news/4558/tesla-battery-recycling-to-rival-north-american-mining-output",
@@ -1395,21 +1415,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_57.jpg/026a7985b249867550cc300262b613c0/group_57.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6b8f12e6dcf4c2a09b914fcb91b5b44b33dfa834",
-    "title": "AI struggles to patch vulns without adult supervision",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
-    "summary": "Left alone, autonomous fixes often fail to fully remediate flaws",
-    "isoDate": "2026-08-06T19:04:30Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5255449&width=800",
     "pinned": false
   },
   {
