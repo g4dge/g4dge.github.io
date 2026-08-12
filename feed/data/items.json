@@ -1,5 +1,59 @@
 [
   {
+    "id": "2b21256f8da35ff7ac7710978eeb561e34fd94f9",
+    "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+    "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+    "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+    "isoDate": "2026-08-12T22:31:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "ameoba",
+      "brain",
+      "case report",
+      "infection"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b7995d0a4e6fe0c1fa429f70b8a402d0f81f2a47",
+    "title": "The web’s newest weapon against AI scrapers is a font",
+    "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+    "isoDate": "2026-08-12T22:02:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "AI scrapers",
+      "Font",
+      "LLMs",
+      "models",
+      "scrapers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f4dbae80ad1ccc698576ec9d983437406a467893",
+    "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
+    "link": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
+    "summary": "Some say the world will end in fire, some say an agentic swarm",
+    "isoDate": "2026-08-12T21:45:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5287075&width=800",
+    "pinned": false
+  },
+  {
     "id": "80c120873d58c484595f30ba3cd6591572281e6f",
     "title": "Terabytes of credentials leaked in massive supply-chain attack",
     "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
@@ -17,6 +71,21 @@
       "teampcp"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "b137b3d7b14568573370368bfd2fa3e40b3bfce5",
+    "title": "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
+    "link": "https://www.theregister.com/databases/2026/08/12/tailscale-says-deeply-buried-16-year-old-sqlite-bug-caused-last-years-outages/5287004",
+    "summary": "Think your bugs are a pain to track? WAL-Reset took six months of hunting and development of a new logging tool to identify",
+    "isoDate": "2026-08-12T21:29:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "databases"
+    ],
+    "image": "https://image.theregister.com/?imageId=252834&width=800",
     "pinned": false
   },
   {
@@ -79,6 +148,36 @@
     "pinned": false
   },
   {
+    "id": "0cf8f23a165f2ad7f30c920f6e700ea4c7d18f1a",
+    "title": "Node.js creator liberates Durable Objects from Cloudflare",
+    "link": "https://www.theregister.com/devops/2026/08/12/nodejs-creator-liberates-durable-objects-from-cloudflare-with-celld/5286954",
+    "summary": "Same stateful trick, now with your own infrastructure",
+    "isoDate": "2026-08-12T20:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5287001&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2bbe2ae549a25365e7a88a10d9f1659814bc19fb",
+    "title": "Spectre rears its ugly head again as researchers show some RISC-V chips are susceptible",
+    "link": "https://www.theregister.com/security/2026/08/12/spectre-rears-its-ugly-head-again-as-researchers-show-some-risc-v-chips-are-susceptible/5286978",
+    "summary": "Eight years on, we're still paying to hide the future glimpsed during speculative execution",
+    "isoDate": "2026-08-12T19:42:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=253288&width=800",
+    "pinned": false
+  },
+  {
     "id": "dcbf4d15b160dd73817608ccd8d57c3d9da05c85",
     "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
     "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
@@ -108,6 +207,36 @@
     "pinned": false
   },
   {
+    "id": "5a762adc6317f7f3da0422c1afd0e1dc9bb724d8",
+    "title": "Nvidia's latest solution to soaring enterprise AI costs is...a router?",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/12/nvidias-latest-solution-for-soaring-enterprise-costs-nemo-switchyard-software-router/5286911",
+    "summary": "NeMo Switchyard brings GPT-5-style model routing to the mainstream",
+    "isoDate": "2026-08-12T19:00:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5286938&width=800",
+    "pinned": false
+  },
+  {
+    "id": "54004da19703f906e3473ade51a4fa8199118660",
+    "title": "Microsoft-vendetta hacker has a new zero day that gives system privileges on fully patched Windows",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/12/microsoft-vendetta-hacker-has-a-new-zero-day-that-gives-system-privileges-on-fully-patched-windows/5286889",
+    "summary": "Exploit Wednesday's back, baby",
+    "isoDate": "2026-08-12T18:12:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5286943&width=800",
+    "pinned": false
+  },
+  {
     "id": "fb6dbb174d77c50701a617432e6781af1db62627",
     "title": "Two hydrogen-burning engines powered this car to a new land speed record",
     "link": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
@@ -122,6 +251,21 @@
       "land speed record"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/06_08_26_JCB_HM_D4_JA_093-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "145f11b350adf6584e12763914e6e8868a41f064",
+    "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
+    "summary": "Contributors wanted: 167B transparent tokens have a long way to go against AI giants' trillions",
+    "isoDate": "2026-08-12T16:57:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5286886&width=800",
     "pinned": false
   },
   {
@@ -153,6 +297,21 @@
       "prediction markets"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b220f2d092e6094c7edd7575b5a0beb93dafe9f0",
+    "title": "CoreWeave revenue doubles as debt pile reaches $35.6B",
+    "link": "https://www.theregister.com/off-prem/2026/08/12/coreweave-revenue-doubles-as-debt-pile-reaches-356b/5286832",
+    "summary": "Neocloud says AI compute demand is becoming continuous, but so is the spending",
+    "isoDate": "2026-08-12T16:13:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=242495&width=800",
     "pinned": false
   },
   {
@@ -647,22 +806,6 @@
     "pinned": false
   },
   {
-    "id": "d552df63b3c95986b83994b78706ea6fcd24c03b",
-    "title": "Used EV buying guide: The $30,000 edition",
-    "link": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
-    "summary": "Depending on the model, you might have hundreds to choose from—or just one.",
-    "isoDate": "2026-08-11T18:31:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "used ev prices"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/electric-piggy-bank-30k-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "00fc684ea5fc1fdda43828d6169265c25f71ce9d",
     "title": "Tesla Issues Physical Recall for 20,349 Model 3 and Model Y Vehicles Over Headlights",
     "link": "https://www.notateslaapp.com/news/4567/tesla-issues-physical-recall-for-20349-model-3-and-model-y-vehicles-over-headlights",
@@ -673,31 +816,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y/0x0-model-y_07.webp/d295d7c1915cc909fcb04b05e16cb86a/0x0-model-y_07.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d9cc4f6795372c0a9b060575243b098975025aaa",
-    "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
-    "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
-    "summary": "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions.",
-    "isoDate": "2026-08-11T18:00:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "CDC",
-      "cyclospora",
-      "fda",
-      "food safety",
-      "iceberg lettuce",
-      "lettuce",
-      "outbreak",
-      "recall",
-      "taylor farms",
-      "walmart"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2287552371-500x500.jpg",
     "pinned": false
   },
   {
@@ -1098,66 +1216,6 @@
     "pinned": false
   },
   {
-    "id": "c3f2240932ff862669f0312ba8627389a4c79996",
-    "title": "Wetherspoons bars smart glasses from filming customers",
-    "link": "https://www.theregister.com/personal-tech/2026/08/10/wetherspoons-bars-smart-glasses-from-filming-customers/5285357",
-    "summary": "Pub chain says turn off the cameras, reminds punters not to blare sound from phone vids either",
-    "isoDate": "2026-08-10T13:20:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=257009&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6c578a26c50edb35bd3fcd13ad5ebf1226bf576d",
-    "title": "Cyber vulnerability sweep picks up Royal Navy drones sending data to China",
-    "link": "https://www.theregister.com/edge-and-iot/2026/08/10/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china/5285430",
-    "summary": "No, no nasties to see here, guv...",
-    "isoDate": "2026-08-10T12:25:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "edge and iot"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094139&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6ea897a7b1e0e6d0cdbe5d90affb5781716b6a64",
-    "title": "Framework loses customer data in Metabase zero-day attack",
-    "link": "https://www.theregister.com/personal-tech/2026/08/10/framework-loses-customer-data-in-metabase-zero-day-attack/5285302",
-    "summary": "Repairable hardware is little comfort when personal details escape",
-    "isoDate": "2026-08-10T11:21:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5225977&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1467e1a29cf4e1a44932bff6ac58b9cc1a9115d7",
-    "title": "Claude Code puts auto mode in the driver's seat",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/10/claude-code-puts-auto-mode-in-the-drivers-seat/5285326",
-    "summary": "Walk away and hope the classifier catches anything irreversible or destructive",
-    "isoDate": "2026-08-10T10:38:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5285396&width=800",
-    "pinned": false
-  },
-  {
     "id": "c73cb602e3df369e8a18845d1266ea6c2bb589bd",
     "title": "Khosheutovsky khurul",
     "link": "https://aeon.co/videos/the-strange-circuitous-history-of-europes-oldest-buddhist-temple",
@@ -1184,21 +1242,6 @@
     "pinned": false
   },
   {
-    "id": "3f71a702e5a0f9c4ab88c2b1447a0d654b981d2e",
-    "title": "London still dominates Britain's datacenter map, but the regions are powering up",
-    "link": "https://www.theregister.com/systems/2026/08/10/london-still-dominates-britains-datacenter-map-but-the-regions-are-powering-up/5284693",
-    "summary": "The capital holds two-thirds of capacity, while multimegawatt projects gather beyond the M25",
-    "isoDate": "2026-08-10T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5229859&width=800",
-    "pinned": false
-  },
-  {
     "id": "d83b7c22d24561008e25bbc12c900ded40979f1c",
     "title": "The immortality cult, cryonics, and the Arizona way of death",
     "link": "https://www.skeptic.org.uk/2026/08/the-immortality-cult-cryonics-and-the-arizona-way-of-death/",
@@ -1211,51 +1254,6 @@
       "Cults"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "9c4f20b25b7601dfb9b53ac9837e555d5ba66f16",
-    "title": "Smart glasses are only smart if we train them to be good. Then they'll be fantastic",
-    "link": "https://www.theregister.com/columnists/2026/08/10/smart-glasses-are-only-smart-if-we-train-them-to-be-good-then-theyll-be-fantastic/5284545",
-    "summary": "Just add smart humans – and a pinch of dog",
-    "isoDate": "2026-08-10T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=5284570&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ec34746665c5e8d3ba3352f8409b1a24d1251009",
-    "title": "Demoralized developer's desperate hack came back to haunt him on LinkedIn",
-    "link": "https://www.theregister.com/software/2026/08/10/demoralized-developers-desperate-hack-came-back-to-haunt-him-on-linkedin/5284476",
-    "summary": "A script that shouldn't have worked, on a project that never ended, for a company that hardly cared",
-    "isoDate": "2026-08-10T06:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=240806&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b5fe438e69f46beda69aa5dc16977a322774f41f",
-    "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
-    "link": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
-    "summary": "He’s not thrilled, but won’t let it delay the release of version 7.2",
-    "isoDate": "2026-08-10T05:56:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=259539&width=800",
     "pinned": false
   },
   {
