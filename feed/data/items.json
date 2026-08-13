@@ -1,5 +1,58 @@
 [
   {
+    "id": "6228d23d4185085068e763db1b62a3b83b186a02",
+    "title": "AWS key exposed in JavaScript may have lit way to Beacon's charity data",
+    "link": "https://www.theregister.com/security/2026/08/13/aws-key-exposed-in-javascript-may-have-lit-way-to-beacons-charity-data/5287303",
+    "summary": "CRM provider confirms customer database was copied and probably downloaded in readable form",
+    "isoDate": "2026-08-13T11:34:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=1681829&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ce6137803a586c9a7a75002cdd4224aa80801568",
+    "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+    "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+    "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+    "isoDate": "2026-08-13T11:10:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI Act",
+      "ai labels",
+      "ai watermark",
+      "Anthropic",
+      "Artificial Intelligence",
+      "Claude",
+      "european union"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-500x500-1786564039.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2579083d42ea160ce1ff4158c7fabbf54a8cb4eb",
+    "title": "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
+    "link": "https://www.theregister.com/offbeat/2026/08/13/twitch-feeds-your-streams-to-amazons-ai-unless-you-tell-it-to-stop/5287258",
+    "summary": "Bot training switch is on by default, because apparently asking first wasn't going to work",
+    "isoDate": "2026-08-13T10:32:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=251692&width=800",
+    "pinned": false
+  },
+  {
     "id": "e53da4f2c1794abab3254a992b2795660aa09429",
     "title": "Where the earth meets the sky",
     "link": "https://aeon.co/videos/in-the-remote-desert-an-awe-inspiring-artwork-collapses-time-and-space",
@@ -917,26 +970,6 @@
     "pinned": false
   },
   {
-    "id": "f1a9ee4ad552ac992c766c04afeefe78f1b4b1a8",
-    "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-    "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-    "summary": "But will Gemini's surge survive slowing model releases?",
-    "isoDate": "2026-08-11T19:48:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "gemini",
-      "generative ai",
-      "google"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "00fc684ea5fc1fdda43828d6169265c25f71ce9d",
     "title": "Tesla Issues Physical Recall for 20,349 Model 3 and Model Y Vehicles Over Headlights",
     "link": "https://www.notateslaapp.com/news/4567/tesla-issues-physical-recall-for-20349-model-3-and-model-y-vehicles-over-headlights",
@@ -1183,36 +1216,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=261698&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d77e4fafee55956524f7bf69dd580c47ff1aeca4",
-    "title": "Hey, big spender – OpenAI has a new SKU just for you",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
-    "summary": "$125 a month? So, how good are those open-weight models getting, again?",
-    "isoDate": "2026-08-10T21:25:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=244264&width=800",
-    "pinned": false
-  },
-  {
-    "id": "17c7cc7c56fded50bcb2a091f23d78f812036cbf",
-    "title": "DEF CON hackers add new muscle to water utility protection",
-    "link": "https://www.theregister.com/security/2026/08/10/def-con-hackers-add-new-muscle-to-water-utility-protection/5285715",
-    "summary": "Franklin project adds new security providers, employs digital twins and AI",
-    "isoDate": "2026-08-10T21:08:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5285760&width=800",
     "pinned": false
   },
   {
