@@ -1,5 +1,80 @@
 [
   {
+    "id": "33ca97ca5aabe833acad5a9068f5b2a332d97765",
+    "title": "Passwords stored in public Google Doc then showed up in search results",
+    "link": "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028",
+    "summary": "Developer spotted hostname and credential string lurking in autocomplete",
+    "isoDate": "2026-08-13T07:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5287048&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e815c7c820f88a328ec753d7bd99c713283d7a39",
+    "title": "Cisco thinks Mythos means instant death for unsupported networking kit",
+    "link": "https://www.theregister.com/networks/2026/08/13/cisco-thinks-mythos-means-instant-death-for-unsupported-networking-kit/5287204",
+    "summary": "CEO says buyers are moving fast and shuffling budgets to replace old boxen",
+    "isoDate": "2026-08-13T06:28:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=233710&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7b3fd0d44e44e38556310049f1e6f19ee3a79cc9",
+    "title": "Tencent says it could make instant profits on $53bn hardware splurge by renting it for AI workloads",
+    "link": "https://www.theregister.com/off-prem/2026/08/13/tencent-says-it-could-make-instant-profits-on-53bn-hardware-splurge-by-renting-it-for-ai-workloads/5287181",
+    "summary": "Plans to build models instead because it thinks selling tokens will prove more lucrative in the long term",
+    "isoDate": "2026-08-13T04:45:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=233376&width=800",
+    "pinned": false
+  },
+  {
+    "id": "93cd75873e33e693efaf8c55245069d0a473b987",
+    "title": "Chinese Loongson processors have leaky caches, researchers find",
+    "link": "https://www.theregister.com/security/2026/08/13/chinese-loongson-processors-have-leaky-caches-researchers-find/5287137",
+    "summary": "Attackers could extract data, even working from inside a guest VM",
+    "isoDate": "2026-08-13T02:14:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5287158&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7ea9720b35a1eb00702841264819bee58313e0c0",
+    "title": "OpenAI ad service can bill customers for up to one day after they pause campaigns",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/13/openai-ad-service-can-bill-customers-for-up-to-one-day-after-they-pause-campaigns/5287110",
+    "summary": "ChatGPT Ads, I wish I knew how to quit you",
+    "isoDate": "2026-08-13T00:28:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=259473&width=800",
+    "pinned": false
+  },
+  {
     "id": "1d70d4dbaf75c31029e89ac6b97908aa1d8cc2d8",
     "title": "Rent-a-GPU outfit Nebius promises rapid 1 GW powerup plan isn't nebulous",
     "link": "https://www.theregister.com/off-prem/2026/08/12/rent-a-gpu-outfit-nebius-promises-rapid-1-gw-powerup-plan-isnt-nebulous/5287086",
@@ -89,9 +164,9 @@
     "pinned": false
   },
   {
-    "id": "b137b3d7b14568573370368bfd2fa3e40b3bfce5",
-    "title": "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
-    "link": "https://www.theregister.com/databases/2026/08/12/tailscale-says-deeply-buried-16-year-old-sqlite-bug-caused-last-years-outages/5287004",
+    "id": "974efb64e98d0f4d0a025a9724115a3778683aad",
+    "title": "Deeply buried 16-year-old SQLite bug caused last year's Tailscale outages",
+    "link": "https://www.theregister.com/databases/2026/08/12/deeply-buried-16-year-old-sqlite-bug-caused-last-years-tailscale-outages/5287004",
     "summary": "Think your bugs are a pain to track? WAL-Reset took six months of hunting and development of a new logging tool to identify",
     "isoDate": "2026-08-12T21:29:09Z",
     "source": "The Register",
@@ -100,7 +175,7 @@
     "tags": [
       "databases"
     ],
-    "image": "https://image.theregister.com/?imageId=252834&width=800",
+    "image": "https://image.theregister.com/?imageId=5287252&width=800",
     "pinned": false
   },
   {
@@ -1115,66 +1190,6 @@
     "pinned": false
   },
   {
-    "id": "737a9367f53d4f51863243a58dd1af231a1044e9",
-    "title": "Zuck rekindles open weights Llama drama with Muse Glimmer",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666",
-    "summary": "30-billion parameter LLM, Meta's first in more than a year, signals Meta's return to the open weights arena. Open version of Muse Spark to follow",
-    "isoDate": "2026-08-10T20:05:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=256736&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9e78a9b1874d247ba13467eebcb1ce7b233c72ed",
-    "title": "North Korean spies are running local LLMs to cause AI mischief",
-    "link": "https://www.theregister.com/security/2026/08/10/north-korean-spies-are-running-local-llms-to-cause-ai-mischief/5285632",
-    "summary": "Kimsuky's phishing attacks get an AI boost",
-    "isoDate": "2026-08-10T17:23:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=234163&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d36d60d1616a8b776b6aec8f5d65ce079d0dd4a8",
-    "title": "Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591",
-    "summary": "What wouldst thou ask of the monkey's paw?",
-    "isoDate": "2026-08-10T16:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5285615&width=800",
-    "pinned": false
-  },
-  {
-    "id": "08a6e908e73a47fe17786fe5778f3b6f33976774",
-    "title": "LexisNexis pulls three services offline after suspicious server activity",
-    "link": "https://www.theregister.com/off-prem/2026/08/10/lexisnexis-blames-outage-on-unusual-server-activity/5285541",
-    "summary": "Customers say issues began Wednesday and still not resolved",
-    "isoDate": "2026-08-10T16:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=254851&width=800",
-    "pinned": false
-  },
-  {
     "id": "df8560ce5bd8d27fd8eb0339cef837cd119ea820",
     "title": "Should Tesla Allow FSD Transfers on Totaled Vehicles?",
     "link": "https://www.notateslaapp.com/news/4439/opinion-tesla-should-allow-fsd-transfer-on-totalled-cars",
@@ -1198,21 +1213,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-1.webp/85beac17d20feea27848008a4229f225/fsd-vis-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "160d0a955c1019be94d97ba7da3d44b50000cdde",
-    "title": "As datacenters expand, so does public opposition to them",
-    "link": "https://www.theregister.com/on-prem/2026/08/10/as-datacenters-expand-so-does-public-opposition-to-them/5285449",
-    "summary": "Bans on new server farm projects spread across the US, while plans meet with protests in the UK",
-    "isoDate": "2026-08-10T14:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=1684059&width=800",
     "pinned": false
   },
   {
