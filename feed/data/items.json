@@ -1,5 +1,58 @@
 [
   {
+    "id": "51cbe3e17fac2ebba3e4b9712c35c63d9d207ba7",
+    "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+    "link": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+    "summary": "\"We’ve never seen launch capacity so constrained.\"",
+    "isoDate": "2026-08-14T11:00:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "rocket report",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B-500x500.webp",
+    "pinned": false
+  },
+  {
+    "id": "4f072efc0d8f1e7ace8c72c739c72279e32de7e0",
+    "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+    "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+    "summary": "Samsung didn't have to change much this year because its hardware is just that good.",
+    "isoDate": "2026-08-14T11:00:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Features",
+      "Reviews",
+      "Tech",
+      "Foldables",
+      "reviews",
+      "Samsung",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-4-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1fe9ebdea19531b6758a00dd9d226fd20c95cd33",
+    "title": "Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach",
+    "link": "https://www.theregister.com/security/2026/08/14/crypto-wallet-maker-trezor-confirms-13000-customers-details-exposed-in-logistics-breach/5287734",
+    "summary": "Even if your hardware is secure, quantum-ready, encrypted, and future-proof, no one is immune to a supplier letting the side down",
+    "isoDate": "2026-08-14T10:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5287758&width=800",
+    "pinned": false
+  },
+  {
     "id": "36efbb737799860f78b8e67ef347d36c644c0ed3",
     "title": "The Skeptic Podcast – Episode 077",
     "link": "https://www.skeptic.org.uk/2026/08/the-skeptic-podcast-episode-077/",
@@ -846,24 +899,6 @@
     "pinned": false
   },
   {
-    "id": "b6a245e2e4e966930174eeee739d7eae85c1f74b",
-    "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-    "link": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
-    "summary": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
-    "isoDate": "2026-08-12T20:20:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Trump",
-      "truth api",
-      "truth social"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0cf8f23a165f2ad7f30c920f6e700ea4c7d18f1a",
     "title": "Node.js creator liberates Durable Objects from Cloudflare",
     "link": "https://www.theregister.com/devops/2026/08/12/nodejs-creator-liberates-durable-objects-from-cloudflare-with-celld/5286954",
@@ -891,35 +926,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=253288&width=800",
-    "pinned": false
-  },
-  {
-    "id": "dcbf4d15b160dd73817608ccd8d57c3d9da05c85",
-    "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-    "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-    "summary": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
-    "isoDate": "2026-08-12T19:40:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Health",
-      "Tech",
-      "AI drones",
-      "animals",
-      "cbp",
-      "customs and border protection",
-      "drones",
-      "flies",
-      "livestock",
-      "new world screwworm",
-      "screwworm",
-      "screwworms",
-      "US Department of Agriculture",
-      "USDA",
-      "wildlife"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-500x500.jpeg",
     "pinned": false
   },
   {
@@ -1300,21 +1306,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/preferred-routes-1.webp/19e1a679c8c7b8399faafa6232a631ad/preferred-routes-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4250214b1d3f8d86ab00fb800f7854f2f4cf716d",
-    "title": "DEF CON dingus suspected of trying to take over Delta in-flight Wi-Fi",
-    "link": "https://www.theregister.com/security/2026/08/11/def-con-dingus-suspected-of-trying-to-take-over-delta-in-flight-wi-fi/5286331",
-    "summary": "This is why we can't have nice things, people",
-    "isoDate": "2026-08-11T16:27:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=260314&width=800",
     "pinned": false
   },
   {
