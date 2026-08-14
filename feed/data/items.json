@@ -1,5 +1,35 @@
 [
   {
+    "id": "441b1e87220b74d95ca5108711adfdb07ec8065c",
+    "title": "New Zealand says China tried using space investments to spy on local affairs",
+    "link": "https://www.theregister.com/security/2026/08/14/new-zealand-says-china-tried-using-space-investments-to-spy-on-local-affairs/5287657",
+    "summary": "Intelligence Service says finding domestic threats is harder due to proliferation of toxic content online",
+    "isoDate": "2026-08-14T03:23:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5287678&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2244124264e20df7687f7c24996cc50ffb88c64b",
+    "title": "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618",
+    "summary": "'Computer History' records clicks and typing to build ChatGPT memories",
+    "isoDate": "2026-08-14T00:27:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=256287&width=800",
+    "pinned": false
+  },
+  {
     "id": "5273c3175afcececbf6cc383b17293acdd2a6443",
     "title": "US wait times for cancer surgeries are getting longer and longer",
     "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
@@ -17,6 +47,21 @@
       "surgery"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "468fcf64d9ca6dafc986a701af750c6497988917",
+    "title": "Give Google the boot by building your own search engine",
+    "link": "https://www.theregister.com/software/2026/08/13/give-google-the-boot-by-building-your-own-search-engine/5287535",
+    "summary": "Got $10 and a gig of storage space? Marlin lets you weight your crawl toward the parts of the web you actually care about",
+    "isoDate": "2026-08-13T20:48:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=261723&width=800",
     "pinned": false
   },
   {
@@ -79,6 +124,21 @@
       "vss unity"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8f45c7ea0ffb75236a9402f242fabfda8019ef1b",
+    "title": "Microsoft's dueling Copilot apps have combined into a single entity",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/13/microsofts-dueling-copilot-apps-have-combined-into-a-single-entity/5287512",
+    "summary": "Consumer and work experiences converge, while a few features face the chop",
+    "isoDate": "2026-08-13T19:04:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5287532&width=800",
     "pinned": false
   },
   {
@@ -1213,51 +1273,6 @@
     "pinned": false
   },
   {
-    "id": "dbd10b55a9551ff1e5f0291fcf3aa29a6f05a9f7",
-    "title": "Deepfake hiccup unmasks suspected digital certificate fraudster",
-    "link": "https://www.theregister.com/security/2026/08/11/deepfake-hiccup-unmasks-suspected-digital-certificate-fraudster/5285934",
-    "summary": "Face-swap software blinked for 'barely a second,' giving Spanish cops the break they needed",
-    "isoDate": "2026-08-11T12:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5286216&width=800",
-    "pinned": false
-  },
-  {
-    "id": "58f27f8111b758808d47b581fb8890b03aacb8ef",
-    "title": "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
-    "link": "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908",
-    "summary": "Audit logs found no unexpected visitors, but release verification still needs an update",
-    "isoDate": "2026-08-11T11:36:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5274447&width=800",
-    "pinned": false
-  },
-  {
-    "id": "63af43f880302e40d2933fd873eb023e12072aad",
-    "title": "Building up the US power grid won't be wasted, even if the AI bubble bursts",
-    "link": "https://www.theregister.com/on-prem/2026/08/11/building-up-the-us-power-grid-wont-be-wasted-even-if-the-ai-bubble-bursts/5285563",
-    "summary": "The bigger risk is underinvestment, claims consulting biz McKinsey",
-    "isoDate": "2026-08-11T10:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5285618&width=800",
-    "pinned": false
-  },
-  {
     "id": "8f05c7a0c9d609f14f8a87ed1e176b7bf1c26007",
     "title": "A second sexual revolution",
     "link": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes",
@@ -1268,21 +1283,6 @@
     "author": "Rosa Campbell",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7b8b936a3140210c3a571aa00ca515cf30a27be1",
-    "title": "Malicious SIMs can shut down phones, steal files, and drag 5G back to 2G",
-    "link": "https://www.theregister.com/security/2026/08/11/malicious-sims-can-shut-down-phones-steal-files-and-drag-5g-back-to-2g/5285482",
-    "summary": "Researchers find standards-compliant functionality can be abused to hijack modems, downgrade connections, and even execute code",
-    "isoDate": "2026-08-11T09:37:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=229858&width=800",
     "pinned": false
   },
   {
