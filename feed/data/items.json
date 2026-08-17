@@ -1,5 +1,46 @@
 [
   {
+    "id": "ae4cd4f37119d3d3e677d2222fd01d6e0cd2e139",
+    "title": "Tesla Is Auctioning Off Stockpiles of Model S and Model X Parts",
+    "link": "https://www.notateslaapp.com/news/4586/tesla-is-auctioning-off-stockpiles-of-model-s-and-model-x-parts",
+    "summary": "Tesla is auctioning excess Model S and Model X parts after ending production and clearing their Fremont assembly lines. <a href=\"https://www.notateslaapp.com/news/4586/tesla-is-auctioning-off-stockpiles-of-model-s-and-model-x-parts\">Read More</a>",
+    "isoDate": "2026-08-17T17:31:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-auction-parts.webp/4ae18297a258f279226951ec8e405bc8/tesla-auction-parts.jpg",
+    "pinned": false
+  },
+  {
+    "id": "493b7b0fbfab7b3ab6cc5e93d2760f7af08d2be9",
+    "title": "Tesla Publishes Vehicle-to-Load (V2L), PCS Retrofit Procedure, But Is It Worth It?",
+    "link": "https://www.notateslaapp.com/news/4585/tesla-publishes-vehicle-to-load-v2l-pcs-retrofit-procedure-but-is-it-worth-it",
+    "summary": "Tesla has published a Model Y PCS2 retrofit procedure that could add V2L hardware to vehicles that currently lack support. <a href=\"https://www.notateslaapp.com/news/4585/tesla-publishes-vehicle-to-load-v2l-pcs-retrofit-procedure-but-is-it-worth-it\">Read More</a>",
+    "isoDate": "2026-08-17T16:48:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/pcs-retrofit.webp/8558a2e2a96862df0c943301332fa1dd/pcs-retrofit.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1ae2f7c0cede941118fa7a3b7c53eef4a14f39d0",
+    "title": "An AI broke Snowflake's code. Then another AI agent exploited it",
+    "link": "https://www.theregister.com/security/2026/08/17/an-ai-broke-snowflakes-code-then-another-ai-agent-exploited-it/5288666",
+    "summary": "Don't worry, this one was via a bug bounty program",
+    "isoDate": "2026-08-17T16:36:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5288720&width=800",
+    "pinned": false
+  },
+  {
     "id": "027e780d94a8f40ebdce46062b6671f84f654911",
     "title": "Tesla’s Lost ‘Back to the Future’ Easter Egg: What It Did and Why It Disappeared",
     "link": "https://www.notateslaapp.com/news/50/tesla-back-to-the-future-easter-egg",
@@ -10,6 +51,51 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2021/back-to-the-future-easter-egg.webp/04e743adb2992cb951ddd3c7cb3bf0db/back-to-the-future-easter-egg.jpg",
+    "pinned": false
+  },
+  {
+    "id": "54dc1a77c3ac9a1327158a0b0428220c288350d8",
+    "title": "Mozilla adds ad blocking to Firefox for iOS",
+    "link": "https://www.theregister.com/software/2026/08/17/mozilla-adds-ad-blocking-to-firefox-for-ios/5288585",
+    "summary": "Experimental feature to block some, but not all, ads",
+    "isoDate": "2026-08-17T15:50:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242942&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c440c0acbe303584f0667d6c55245aa996dd918d",
+    "title": "GitHub has Issues as repo downloads hit 50% error rate",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/17/github-has-issues-as-repo-downloads-hit-50-error-rate/5288543",
+    "summary": "Copilot also wobbles as another outage tests developer patience",
+    "isoDate": "2026-08-17T15:04:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=257887&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a2292eeebef90f268e8567084d9116321395d557",
+    "title": "$1K laser mosquito zapper promises precision strikes as backers itch for answers",
+    "link": "https://www.theregister.com/offbeat/2026/08/17/1k-laser-mosquito-zapper-promises-precision-strikes-as-backers-itch-for-answers/5288431",
+    "summary": "After raising $2.8M, the project has entered production, but company comms have done little to reassure buyers",
+    "isoDate": "2026-08-17T15:04:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=255772&width=800",
     "pinned": false
   },
   {
@@ -47,6 +133,21 @@
     "pinned": false
   },
   {
+    "id": "0411d574ec3b2f492e59bb7153865d98a21571a1",
+    "title": "Windows 11 movable taskbar edges closer to general release",
+    "link": "https://www.theregister.com/os-platforms/2026/08/17/windows-11-movable-taskbar-edges-closer-to-general-release/5288393",
+    "summary": "Preview also brings compact icons, Start menu sizing, and the final shove for WMIC",
+    "isoDate": "2026-08-17T14:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094209&width=800",
+    "pinned": false
+  },
+  {
     "id": "ea6d9d434c3dfe851199ffc3ef11ea0628058e70",
     "title": "Meet the only known trebuchet casualty in history",
     "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
@@ -72,6 +173,36 @@
     "pinned": false
   },
   {
+    "id": "05a8b1b495ca4f9f5edc080bafa395d1e4fe315a",
+    "title": "Agentic AI costs set to balloon fivefold by 2028",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363",
+    "summary": "Cheaper tokens won't help when complex workflows consume so many more of them, Gartner warns",
+    "isoDate": "2026-08-17T12:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=233433&width=800",
+    "pinned": false
+  },
+  {
+    "id": "23839b2ced7e04c7609bd3b7521d5206c0d60ef7",
+    "title": "Crook hawks millions of records allegedly plundered from corporate Azure tenants",
+    "link": "https://www.theregister.com/security/2026/08/17/crook-hawks-millions-of-records-allegedly-plundered-from-corporate-azure-tenants/5288305",
+    "summary": "McDonald's, Vodafone, TCS, Kyndryl, and others named as researchers point to compromised credentials",
+    "isoDate": "2026-08-17T11:43:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=253523&width=800",
+    "pinned": false
+  },
+  {
     "id": "c51dd5be23a9efab9fb36134e398ffd2a92e4877",
     "title": "Satellite operators are in panic mode due to a worsening launch crisis",
     "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
@@ -92,6 +223,36 @@
       "ula"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ada03c759b206778d77bf17ab6681ad6f5afb691",
+    "title": "Excel's Copilot function is headed for the Recycle Bin",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/17/excels-copilot-function-is-headed-for-the-recycle-bin/5288327",
+    "summary": "Microsoft realizes the side pane should be enough for anyone",
+    "isoDate": "2026-08-17T10:55:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5269830&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ae3f21f64cd7ffc0c7e7feada1560be79a35159e",
+    "title": "Be a hater all you want, AI's here to stay",
+    "link": "https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275",
+    "summary": "The good news? One of the worst bits, tech giants controlling it all, might soon be over",
+    "isoDate": "2026-08-17T10:18:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "columnists"
+    ],
+    "image": "https://image.theregister.com/?imageId=5288302&width=800",
     "pinned": false
   },
   {
@@ -193,6 +354,21 @@
       "os platforms"
     ],
     "image": "https://image.theregister.com/?imageId=5288263&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6970c131b74992725c29027088d5078d87518543",
+    "title": "Sainsbury's staff eject wrong shopper after facial recognition alert – again",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/17/sainsburys-staff-eject-wrong-shopper-after-facial-recognition-alert-again/5288602",
+    "summary": "Facewatch says its technology worked as intended before humans mishandled the result",
+    "isoDate": "2026-08-17T04:21:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=240288&width=800",
     "pinned": false
   },
   {
@@ -1197,171 +1373,6 @@
       "networks"
     ],
     "image": "https://image.theregister.com/?imageId=233710&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f77a88ca59c628a0edabe733bef8c43dab704ff6",
-    "title": "Tencent says it could make instant profits on $53B hardware splurge by renting it for AI workloads",
-    "link": "https://www.theregister.com/off-prem/2026/08/13/tencent-says-it-could-make-instant-profits-on-53b-hardware-splurge-by-renting-it-for-ai-workloads/5287181",
-    "summary": "Plans to build models instead because it thinks selling tokens will prove more lucrative in the long term",
-    "isoDate": "2026-08-13T04:45:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=233376&width=800",
-    "pinned": false
-  },
-  {
-    "id": "93cd75873e33e693efaf8c55245069d0a473b987",
-    "title": "Chinese Loongson processors have leaky caches, researchers find",
-    "link": "https://www.theregister.com/security/2026/08/13/chinese-loongson-processors-have-leaky-caches-researchers-find/5287137",
-    "summary": "Attackers could extract data, even working from inside a guest VM",
-    "isoDate": "2026-08-13T02:14:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5287158&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7ea9720b35a1eb00702841264819bee58313e0c0",
-    "title": "OpenAI ad service can bill customers for up to one day after they pause campaigns",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/13/openai-ad-service-can-bill-customers-for-up-to-one-day-after-they-pause-campaigns/5287110",
-    "summary": "ChatGPT Ads, I wish I knew how to quit you",
-    "isoDate": "2026-08-13T00:28:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=259473&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1d70d4dbaf75c31029e89ac6b97908aa1d8cc2d8",
-    "title": "Rent-a-GPU outfit Nebius promises rapid 1 GW powerup plan isn't nebulous",
-    "link": "https://www.theregister.com/off-prem/2026/08/12/rent-a-gpu-outfit-nebius-promises-rapid-1-gw-powerup-plan-isnt-nebulous/5287086",
-    "summary": "And it'll jump through every financial hoop it can to get there",
-    "isoDate": "2026-08-12T22:56:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5287107&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f4dbae80ad1ccc698576ec9d983437406a467893",
-    "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
-    "link": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-    "summary": "Some say the world will end in fire, some say an agentic swarm",
-    "isoDate": "2026-08-12T21:45:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5287075&width=800",
-    "pinned": false
-  },
-  {
-    "id": "974efb64e98d0f4d0a025a9724115a3778683aad",
-    "title": "Deeply buried 16-year-old SQLite bug caused last year's Tailscale outages",
-    "link": "https://www.theregister.com/databases/2026/08/12/deeply-buried-16-year-old-sqlite-bug-caused-last-years-tailscale-outages/5287004",
-    "summary": "Think your bugs are a pain to track? WAL-Reset took six months of hunting and development of a new logging tool to identify",
-    "isoDate": "2026-08-12T21:29:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "databases"
-    ],
-    "image": "https://image.theregister.com/?imageId=5287252&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0cf8f23a165f2ad7f30c920f6e700ea4c7d18f1a",
-    "title": "Node.js creator liberates Durable Objects from Cloudflare",
-    "link": "https://www.theregister.com/devops/2026/08/12/nodejs-creator-liberates-durable-objects-from-cloudflare-with-celld/5286954",
-    "summary": "Same stateful trick, now with your own infrastructure",
-    "isoDate": "2026-08-12T20:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5287001&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2bbe2ae549a25365e7a88a10d9f1659814bc19fb",
-    "title": "Spectre rears its ugly head again as researchers show some RISC-V chips are susceptible",
-    "link": "https://www.theregister.com/security/2026/08/12/spectre-rears-its-ugly-head-again-as-researchers-show-some-risc-v-chips-are-susceptible/5286978",
-    "summary": "Eight years on, we're still paying to hide the future glimpsed during speculative execution",
-    "isoDate": "2026-08-12T19:42:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=253288&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5a762adc6317f7f3da0422c1afd0e1dc9bb724d8",
-    "title": "Nvidia's latest solution to soaring enterprise AI costs is...a router?",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/12/nvidias-latest-solution-for-soaring-enterprise-costs-nemo-switchyard-software-router/5286911",
-    "summary": "NeMo Switchyard brings GPT-5-style model routing to the mainstream",
-    "isoDate": "2026-08-12T19:00:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5286938&width=800",
-    "pinned": false
-  },
-  {
-    "id": "54004da19703f906e3473ade51a4fa8199118660",
-    "title": "Microsoft-vendetta hacker has a new zero day that gives system privileges on fully patched Windows",
-    "link": "https://www.theregister.com/cyber-crime/2026/08/12/microsoft-vendetta-hacker-has-a-new-zero-day-that-gives-system-privileges-on-fully-patched-windows/5286889",
-    "summary": "Exploit Wednesday's back, baby",
-    "isoDate": "2026-08-12T18:12:44Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5286943&width=800",
-    "pinned": false
-  },
-  {
-    "id": "145f11b350adf6584e12763914e6e8868a41f064",
-    "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
-    "summary": "Contributors wanted: 167B transparent tokens have a long way to go against AI giants' trillions",
-    "isoDate": "2026-08-12T16:57:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5286886&width=800",
     "pinned": false
   },
   {
