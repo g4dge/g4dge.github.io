@@ -1,5 +1,56 @@
 [
   {
+    "id": "3bbaa3b8ac78ec5a585de2cecccc7d2aa72460fc",
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+    "isoDate": "2026-08-18T13:00:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "copilot",
+      "exploits",
+      "guardrails",
+      "microsoft"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9ab5002251e5b919871371d3dda1d139e40f2381",
+    "title": "Copilot tricked into telling reseachers how to hack itself",
+    "link": "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857",
+    "summary": "How to social engineer an AI's reasoning engine",
+    "isoDate": "2026-08-18T13:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "research"
+    ],
+    "image": "https://image.theregister.com/?imageId=5288896&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ca33a65b70e92d4cc617920db7af4ee0f369a144",
+    "title": "Government Teams users face another ******* month of filtered captions",
+    "link": "https://www.theregister.com/software/2026/08/18/government-teams-users-face-another-month-of-filtered-captions/5288985",
+    "summary": "Officials must wait a little longer before Live Captions tells it like it is",
+    "isoDate": "2026-08-18T12:05:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=254894&width=800",
+    "pinned": false
+  },
+  {
     "id": "68698280f2dff328ba1d0cfa212e5803b03ab563",
     "title": "Passport out-of-control at French airport",
     "link": "https://www.theregister.com/os-platforms/2026/08/18/passport-out-of-control-at-french-airport/5288697",
@@ -1002,25 +1053,6 @@
     "pinned": false
   },
   {
-    "id": "9510778d4d6d67950c0c825ec0cea2a9fec90a98",
-    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-    "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-    "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-    "isoDate": "2026-08-14T17:26:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI prompt injection",
-      "prompt injection",
-      "sanctions"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6a4795bd6f333f52e5d46309797b8639ab77bc72",
     "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
     "link": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
@@ -1310,36 +1342,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=256287&width=800",
-    "pinned": false
-  },
-  {
-    "id": "468fcf64d9ca6dafc986a701af750c6497988917",
-    "title": "Give Google the boot by building your own search engine",
-    "link": "https://www.theregister.com/software/2026/08/13/give-google-the-boot-by-building-your-own-search-engine/5287535",
-    "summary": "Got $10 and a gig of storage space? Marlin lets you weight your crawl toward the parts of the web you actually care about",
-    "isoDate": "2026-08-13T20:48:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=261723&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8f45c7ea0ffb75236a9402f242fabfda8019ef1b",
-    "title": "Microsoft's dueling Copilot apps have combined into a single entity",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/13/microsofts-dueling-copilot-apps-have-combined-into-a-single-entity/5287512",
-    "summary": "Consumer and work experiences converge, while a few features face the chop",
-    "isoDate": "2026-08-13T19:04:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5287532&width=800",
     "pinned": false
   },
   {
