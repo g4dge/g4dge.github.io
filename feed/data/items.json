@@ -1,5 +1,65 @@
 [
   {
+    "id": "73a365d0dab5d912fcb3ae7067924141a021ba7b",
+    "title": "AI models get convenient amnesia about source material as they grow, MIT boffins find",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/ai-models-get-convenient-amnesia-about-source-material-as-they-grow-mit-boffins-find/5288846",
+    "summary": "Attributing diffusion model output to a specific input becomes more difficult with more training data",
+    "isoDate": "2026-08-18T09:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5288899&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ff950809bbe0be8ff4992172a574b9b41da39ddb",
+    "title": "From the archives: Psychic Diary – Two North Yorkshire oddities",
+    "link": "https://www.skeptic.org.uk/2026/08/from-the-archives-psychic-diary-two-north-yorkshire-oddities/",
+    "summary": "<p>From the archives of July 1993, Toby Howard reports from a North Yorkshire field trip to a tomb and a temple.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/08/from-the-archives-psychic-diary-two-north-yorkshire-oddities/\">From the archives: Psychic Diary – Two North Yorkshire oddities</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-08-18T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Toby Howard",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "61fa2705df0eb27bce86418239af138891b3cd97",
+    "title": "UK's tech talent pipeline shrinks as overseas worker visa applications fall 7%",
+    "link": "https://www.theregister.com/cxo/2026/08/18/uks-tech-talent-pipeline-shrinks-as-overseas-worker-visa-applications-fall-7/5288476",
+    "summary": "Third consecutive annual decline adds to concerns about shortages of specialist skills",
+    "isoDate": "2026-08-18T08:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cxo"
+    ],
+    "image": "https://image.theregister.com/?imageId=5288507&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7d1d995afc75a536b84d94c108f2a8586d4d60ec",
+    "title": "Google buys crashed airline Spirit’s data at auction, because AI",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "summary": "$10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP",
+    "isoDate": "2026-08-18T06:43:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5273664&width=800",
+    "pinned": false
+  },
+  {
     "id": "8a75d0847cc1e7c9119e40bfc9fa6d220ee05125",
     "title": "Microsoft MVP creates site to remind you of all the brands Redmond replaced",
     "link": "https://www.theregister.com/software/2026/08/18/microsoft-mvp-creates-site-to-remind-you-of-all-the-brands-redmond-replaced/5288937",
@@ -1290,21 +1350,6 @@
     "pinned": false
   },
   {
-    "id": "46f8f49beadd7b01744c3ca7919ee6eb1270fe28",
-    "title": "Mystery attacker spent a year raiding Salesforce and ServiceNow portals",
-    "link": "https://www.theregister.com/cyber-crime/2026/08/13/mystery-attacker-spent-a-year-raiding-salesforce-and-servicenow-portals/5287368",
-    "summary": "Custom tools harvested whatever over-permissioned guest accounts would surrender",
-    "isoDate": "2026-08-13T13:32:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094178&width=800",
-    "pinned": false
-  },
-  {
     "id": "dadc866a1097a58411403773e42b277d26e0b4e0",
     "title": "The Ockham Awards 2026: recognising the best in skepticism, and the worst in pseudoscience",
     "link": "https://www.skeptic.org.uk/2026/08/the-ockham-awards-2026-recognising-the-best-in-skepticism-and-the-worst-in-pseudoscience/",
@@ -1318,36 +1363,6 @@
       "Skepticism"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8a4fa61814d8b3dc7a1ba05780cf25eecff9a0eb",
-    "title": "Ryanair adds Google to its dual-cloud flight plan",
-    "link": "https://www.theregister.com/off-prem/2026/08/13/ryanair-adds-google-to-its-dual-cloud-flight-plan/5287336",
-    "summary": "Gemini gets to juggle crews, forecasts, and maintenance while AWS keeps its seat",
-    "isoDate": "2026-08-13T12:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5273664&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6228d23d4185085068e763db1b62a3b83b186a02",
-    "title": "AWS key exposed in JavaScript may have lit way to Beacon's charity data",
-    "link": "https://www.theregister.com/security/2026/08/13/aws-key-exposed-in-javascript-may-have-lit-way-to-beacons-charity-data/5287303",
-    "summary": "CRM provider confirms customer database was copied and probably downloaded in readable form",
-    "isoDate": "2026-08-13T11:34:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=1681829&width=800",
     "pinned": false
   },
   {
@@ -1466,21 +1481,6 @@
     "category": "Long Reads",
     "author": "Rosa Campbell",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e0173e8dc4a3d3db4dc00087c1f387020372a064",
-    "title": "From the archives: Neural Networks and NDEs – Can a computer have a near-death experience?",
-    "link": "https://www.skeptic.org.uk/2026/08/from-the-archives-neural-networks-and-ndes-can-a-computer-have-a-near-death-experience/",
-    "summary": "<p>From the archives of July 1993, David Bradbury on the experiments which claimed to show neural networks were capable of producing NDEs.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/08/from-the-archives-neural-networks-and-ndes-can-a-computer-have-a-near-death-experience/\">From the archives: Neural Networks and NDEs – Can a computer have a near-death experience?</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-08-11T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "David Bradbury",
-    "tags": [
-      "Archive"
-    ],
     "image": "",
     "pinned": false
   }
