@@ -1,5 +1,35 @@
 [
   {
+    "id": "1ab7a016c2b7a7563430c764c12a8c7d1926dcf4",
+    "title": "Postgres pioneer credits Oracle with helping his database take over the world",
+    "link": "https://www.theregister.com/databases/2026/08/19/postgres-pioneer-credits-oracle-with-helping-his-database-take-over-the-world/5289087",
+    "summary": "Big Red's acquisition of MySQL sent users running toward the open source alternative, says Michael Stonebraker",
+    "isoDate": "2026-08-19T12:37:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "databases"
+    ],
+    "image": "https://image.theregister.com/?imageId=170448&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c5d4d2bf913acf7d68b73911a5fdd840d8cfd99a",
+    "title": "GitHub blames 8-hour outage on autoscaling fail and VS Code retry storm",
+    "link": "https://www.theregister.com/saas/2026/08/19/github-blames-8-hour-outage-on-autoscaling-fail-and-vs-code-retry-storm/5289547",
+    "summary": "Load balancers buckled after a monitoring blind spot allowed traffic to spiral",
+    "isoDate": "2026-08-19T11:40:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=243768&width=800",
+    "pinned": false
+  },
+  {
     "id": "a1ef064cb11365fb7739e870f4bdfaae94d7e9d3",
     "title": "Scotland's AI Growth Zone gets a wee £300M power-up",
     "link": "https://www.theregister.com/on-prem/2026/08/19/scotlands-ai-growth-zone-gets-a-wee-300m-power-up/5289042",
@@ -1295,36 +1325,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=5282879&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0b801de4b78ddf0ba1f8e9952ca182385056e595",
-    "title": "Anthropic says text watermarking scheme relies on inconsequential words",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/15/anthropic-says-text-watermarking-scheme-relies-on-inconsequential-words/5288156",
-    "summary": "'Shall I compare thee to a summer's afternoon' is the sort of thing this will make, and others look likely to adopt it",
-    "isoDate": "2026-08-15T00:44:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5271370&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b5e508b4e16349b3e5a0c923f8898061b5754123",
-    "title": "DeepSeek's innovative harness treats everything as a plug-in",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/14/deepseeks-innovative-harness-treats-everything-as-a-plug-in/5288095",
-    "summary": "Chinese AI labs keep moving forward while US labs play defense",
-    "isoDate": "2026-08-14T20:25:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=229561&width=800",
     "pinned": false
   },
   {
