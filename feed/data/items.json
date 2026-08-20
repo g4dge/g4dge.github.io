@@ -1,5 +1,70 @@
 [
   {
+    "id": "9d8f56e4dc45b3cdbb91e6dee08078d0f5bf15af",
+    "title": "Roblox must make changes after failing to block adults creeping on kids",
+    "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+    "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
+    "isoDate": "2026-08-20T17:14:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "age checks",
+      "age verification",
+      "australia",
+      "child safety",
+      "roblox"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7b0e23f35ca4293a1b34eb92c52ff2478bed27ce",
+    "title": "Microsoft gives Task Manager another task: Watching AI workloads",
+    "link": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
+    "summary": "Per-process NPU metrics arrive as one more venerable Windows utility risks feature bloat",
+    "isoDate": "2026-08-20T16:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5290518&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1d82c8863bdd1698eaca83f3f4d58637b8eaf399",
+    "title": "US claims 15 of the world's top 20 hyperscale datacenter locations",
+    "link": "https://www.theregister.com/off-prem/2026/08/20/us-claims-15-of-the-worlds-top-20-hyperscale-datacenter-locations/5290436",
+    "summary": "Northern Virginia alone accounts for nearly 12% of global capacity, though new builds are shifting inland",
+    "isoDate": "2026-08-20T16:12:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=261440&width=800",
+    "pinned": false
+  },
+  {
+    "id": "26c8e1272385464e81e00e55e50b19b11c3d509b",
+    "title": "Researcher tricks Apple’s Find My into sharing location data with Linux",
+    "link": "https://www.theregister.com/security/2026/08/20/researcher-tricks-apples-find-my-into-sharing-location-data-with-linux/5290496",
+    "summary": "Clever protocol wrangling gets iBiz-only people tracking working on a non-iGadget",
+    "isoDate": "2026-08-20T16:10:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5290528&width=800",
+    "pinned": false
+  },
+  {
     "id": "eec5413213e28c9806db6e67e4acc83de5005f17",
     "title": "Tesla Officially Confirms Semi Launch in Europe",
     "link": "https://www.notateslaapp.com/news/4595/tesla-officially-confirms-semi-launch-in-europe",
@@ -13,6 +78,21 @@
     "pinned": false
   },
   {
+    "id": "99a404cee9a46b6d37754dac3953918cf1828dd3",
+    "title": "Slack Code taps into collective vibe, puts AI agents into the group chat",
+    "link": "https://www.theregister.com/saas/2026/08/20/slack-code-taps-into-collective-vibe-puts-ai-agents-into-the-group-chat/5290413",
+    "summary": "Developers can now invite the whole team along for their quality time with the coding bot",
+    "isoDate": "2026-08-20T15:23:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=248129&width=800",
+    "pinned": false
+  },
+  {
     "id": "9a3f917f0a9e39be3f47333462ea29190c408b66",
     "title": "Tesla Is Holding Back Model Y Robotaxis, Reveals New FSD V15 Details",
     "link": "https://www.notateslaapp.com/news/4594/tesla-is-holding-back-model-y-robotaxis-reveals-new-fsd-v15-details",
@@ -23,6 +103,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard.webp/7cfd0633399b2af2d987f0a8fd17d106/fsd_giftcard.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c98c66b9c5c3eafa37db8a0741148119c77b2e37",
+    "title": "Thunderbird to flap twice as fast from September",
+    "link": "https://www.theregister.com/software/2026/08/20/thunderbird-to-flap-twice-as-fast-from-september/5290393",
+    "summary": "Email client follows Firefox onto two-week release treadmill",
+    "isoDate": "2026-08-20T15:03:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5290483&width=800",
     "pinned": false
   },
   {
@@ -1059,24 +1154,6 @@
     "pinned": false
   },
   {
-    "id": "34c590c62c08d94310affdf27dbc5e396c4cfe95",
-    "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
-    "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
-    "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
-    "isoDate": "2026-08-18T18:11:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "ABC",
-      "Disney",
-      "FCC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-500x500-1758655749.jpg",
-    "pinned": false
-  },
-  {
     "id": "ecec6485a1bd8a4607f22ccbaf03429df82a56b3",
     "title": "Study finds Meta and Google mobile apps gorge on user data",
     "link": "https://www.theregister.com/personal-tech/2026/08/18/study-finds-meta-and-google-mobile-apps-gorge-on-user-data/5289171",
@@ -1223,21 +1300,6 @@
     "pinned": false
   },
   {
-    "id": "dee39f8c02d09536138341286e99f993b6f60b31",
-    "title": "Sponsor gives KDE Plasma 6.6 the LTS treatment",
-    "link": "https://www.theregister.com/software/2026/08/18/sponsor-gives-kde-plasma-66-the-lts-treatment/5288531",
-    "summary": "Kubuntu 26.04 gets three years of fixes for the desktop, frameworks, and apps",
-    "isoDate": "2026-08-18T10:34:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5288646&width=800",
-    "pinned": false
-  },
-  {
     "id": "a6d886f6d416cc4125dcb2aa5a8da65264076f2f",
     "title": "In praise of zealotry",
     "link": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
@@ -1248,36 +1310,6 @@
     "author": "Geertje Bol",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "eae68dcc5dee69d13749a1386f24e1850e2b7dda",
-    "title": "UK puts Google AI on the flight path to fewer contrails",
-    "link": "https://www.theregister.com/public-sector/2026/08/18/uk-puts-google-ai-on-the-flight-path-to-fewer-contrails/5288516",
-    "summary": "Trial will test whether small route and altitude tweaks can reduce aviation's warming impact",
-    "isoDate": "2026-08-18T09:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5288528&width=800",
-    "pinned": false
-  },
-  {
-    "id": "73a365d0dab5d912fcb3ae7067924141a021ba7b",
-    "title": "AI models get convenient amnesia about source material as they grow, MIT boffins find",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/ai-models-get-convenient-amnesia-about-source-material-as-they-grow-mit-boffins-find/5288846",
-    "summary": "Attributing diffusion model output to a specific input becomes more difficult with more training data",
-    "isoDate": "2026-08-18T09:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5288899&width=800",
     "pinned": false
   },
   {
@@ -1293,36 +1325,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "61fa2705df0eb27bce86418239af138891b3cd97",
-    "title": "UK's tech talent pipeline shrinks as overseas worker visa applications fall 7%",
-    "link": "https://www.theregister.com/cxo/2026/08/18/uks-tech-talent-pipeline-shrinks-as-overseas-worker-visa-applications-fall-7/5288476",
-    "summary": "Third consecutive annual decline adds to concerns about shortages of specialist skills",
-    "isoDate": "2026-08-18T08:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cxo"
-    ],
-    "image": "https://image.theregister.com/?imageId=5288507&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7d1d995afc75a536b84d94c108f2a8586d4d60ec",
-    "title": "Google buys crashed airline Spirit’s data at auction, because AI",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "summary": "$10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP",
-    "isoDate": "2026-08-18T06:43:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5273664&width=800",
     "pinned": false
   },
   {
