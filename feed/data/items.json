@@ -1,5 +1,95 @@
 [
   {
+    "id": "da7cc667ca37fb5f420e985880f6de9b7ee7c740",
+    "title": "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
+    "link": "https://www.theregister.com/software/2026/08/21/developer-given-missionimpossible-fixing-rubbish-code-that-could-crash-a-city-simply-chose-not-to-accept-it/5290120",
+    "summary": "After imagining explosions, blackouts, and daring escapes, this techie decided the best thing to do was just not doing the job",
+    "isoDate": "2026-08-21T06:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=253830&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8a657d1a21dd32b82ec6a706f11f66f1b626dd30",
+    "title": "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5.",
+    "link": "https://www.theregister.com/security/2026/08/21/cisco-bug-severity-warning-reads-like-olympic-gymnastics-scores-10-10-99-96-and-75/5290838",
+    "summary": "Secure Workload Software has five nasty flaws and even SaaS users have updates to install",
+    "isoDate": "2026-08-21T05:33:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5290859&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e17738116bed93b3b68c0bf9aeddd894dcd902ce",
+    "title": "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
+    "link": "https://www.theregister.com/off-prem/2026/08/21/alibaba-cloud-plans-to-use-fewer-western-chips-to-boost-its-already-huge-ai-margins/5290815",
+    "summary": "Cloudy AI is Chinese giant’s ‘most certain’ path to growth as e-commerce slows",
+    "isoDate": "2026-08-21T04:38:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=259127&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ffcc4f64b8cad09a6fc7e781d70a8b56cc70603a",
+    "title": "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation",
+    "link": "https://www.theregister.com/legal/2026/08/21/supermicro-fired-staff-after-probe-into-25-billion-gpus-to-china-smuggling-operation/5290791",
+    "summary": "Policies and code of conduct breached",
+    "isoDate": "2026-08-21T02:39:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=5290804&width=800",
+    "pinned": false
+  },
+  {
+    "id": "097934fccdde84d82b2c9c24cfc0aa848bfa4e53",
+    "title": "Russian snoops add OAuth abuse to targeted phishing campaigns",
+    "link": "https://www.theregister.com/security/2026/08/21/russian-snoops-add-oauth-abuse-to-targeted-phishing-campaigns/5290706",
+    "summary": "Don't click on that State Department meeting invite",
+    "isoDate": "2026-08-21T00:19:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=253184&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4619836d71fe9f946b8403bb3e7f2922a2fc1f57",
+    "title": "Google tethers Antigravity to enterprise controls amid AI shakeup",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/21/google-tethers-antigravity-to-enterprise-controls-amid-ai-shakeup/5290730",
+    "summary": "Corporate customers can look forward to easier management of agents in Google Cloud",
+    "isoDate": "2026-08-20T23:47:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=248218&width=800",
+    "pinned": false
+  },
+  {
     "id": "b7e65a5154d557ac31d78e3f5d672fa13444b3c8",
     "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
     "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
@@ -1176,36 +1266,6 @@
     "pinned": false
   },
   {
-    "id": "8805e4a554fc15782dcf7b007cbac6187707e101",
-    "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
-    "summary": "Expanded multistage chain of thought monitoring makes frontier model work more expensive",
-    "isoDate": "2026-08-18T23:36:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=260353&width=800",
-    "pinned": false
-  },
-  {
-    "id": "22c5549e93807227e29ba68c587682354cc8f385",
-    "title": "Expired credit cards revived by researchers to make unauthorized payments",
-    "link": "https://www.theregister.com/security/2026/08/18/expired-credit-cards-revived-by-researchers-to-make-unauthorized-payments/5289229",
-    "summary": "Gaps in expiry checks could let dead plastic make purchases again",
-    "isoDate": "2026-08-18T20:20:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5243747&width=800",
-    "pinned": false
-  },
-  {
     "id": "87aa60ca37b1eabab5c9a3ac4f0f43aa642d7d21",
     "title": "Tesla Plans Charging Hub in Austin With 80 Wireless Chargers",
     "link": "https://www.notateslaapp.com/news/4589/tesla-plans-charging-hub-in-austin-with-80-wireless-chargers",
@@ -1219,36 +1279,6 @@
     "pinned": false
   },
   {
-    "id": "ecec6485a1bd8a4607f22ccbaf03429df82a56b3",
-    "title": "Study finds Meta and Google mobile apps gorge on user data",
-    "link": "https://www.theregister.com/personal-tech/2026/08/18/study-finds-meta-and-google-mobile-apps-gorge-on-user-data/5289171",
-    "summary": "Zuck's empire declares triple the appetite of Apple or Microsoft, while Google packs the leaderboard, survey shows",
-    "isoDate": "2026-08-18T16:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240624&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1b22fabd7b12011959d061a3abaa84fb51dc055d",
-    "title": "CISA gives feds 3 days to fix actively exploited Ray RCE bug",
-    "link": "https://www.theregister.com/security/2026/08/18/cisa-gives-feds-3-days-to-fix-actively-exploited-ray-rce-bug/5289007",
-    "summary": "Phishing, malvertising attacks could target devs to gain access to private corporate networks",
-    "isoDate": "2026-08-18T15:26:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5274310&width=800",
-    "pinned": false
-  },
-  {
     "id": "eebed858b04472d873e203a9298205e94d9e7edf",
     "title": "Tesla Cybercab Launch Event Announced — Win an Invitation",
     "link": "https://www.notateslaapp.com/news/4588/tesla-cybercab-launch-event-announced-win-an-invitation",
@@ -1259,36 +1289,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-1787062863.webp/d9e39963217a1d9ad2f5b559e9440682/cybercab-1787062863.jpg",
-    "pinned": false
-  },
-  {
-    "id": "33c869fb0bb0e7fba494b80fd72035c38926b51e",
-    "title": "Apple plugs image-processing hole ripe for spyware abuse",
-    "link": "https://www.theregister.com/security/2026/08/18/apple-plugs-image-processing-hole-ripe-for-spyware-abuse/5289031",
-    "summary": "Patch batch spans current kit, older iGadgets, Macs, and Vision Pro",
-    "isoDate": "2026-08-18T14:56:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5243350&width=800",
-    "pinned": false
-  },
-  {
-    "id": "59fa514de66b5a1160b38d17f4aad0c0cc885fde",
-    "title": "Tim King, AmigaDOS royalty, dies aged 70",
-    "link": "https://www.theregister.com/software/2026/08/18/tim-king-amigados-royalty-dies-aged-70/5289101",
-    "summary": "Parallel computing pioneer went on to found early British ISP UK Online",
-    "isoDate": "2026-08-18T14:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=254902&width=800",
     "pinned": false
   },
   {
