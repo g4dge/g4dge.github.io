@@ -1,5 +1,72 @@
 [
   {
+    "id": "115d48b83298a75c815cdaf5872d2ada465736e8",
+    "title": "Critics: FTC limits on personalized pricing may increase costs, kill discounts",
+    "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+    "summary": "Some Americans fear the FTC may be thinking about personalized pricing all wrong.",
+    "isoDate": "2026-08-21T16:38:25Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "data privacy",
+      "federal trade commission",
+      "FTC",
+      "online pricing",
+      "online privacy",
+      "personalized pricing",
+      "surveillance pricing"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2278328918-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1f5674b193f94fbb942fc1294ec02713b63ae94a",
+    "title": "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it",
+    "link": "https://www.theregister.com/patches/2026/08/21/homeland-security-cybercops-say-patch-trueconf-russias-zoom-if-youre-using-it/5291156",
+    "summary": "Ukrainian hacktivists exploiting the bugs, but TrueConf's reach stretches well beyond home turf",
+    "isoDate": "2026-08-21T16:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "patches"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291189&width=800",
+    "pinned": false
+  },
+  {
+    "id": "21921abf4d5d2e404ceceea2bf6fd7419e9cdd9e",
+    "title": "Musk fumbles the timetable for first Starship catch",
+    "link": "https://www.theregister.com/offbeat/2026/08/21/musk-fumbles-the-timetable-for-first-starship-catch/5291201",
+    "summary": "Billionaire walks back earnings call optimism as orbital test approaches",
+    "isoDate": "2026-08-21T16:14:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5246434&width=800",
+    "pinned": false
+  },
+  {
+    "id": "66a35317a0965b5521905e83e71d263e7b923a5b",
+    "title": "SickKids children’s hospital bandages up careers website after intruder breaks in",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/21/sickkids-childrens-hospital-bandages-up-careers-website-after-intruder-breaks-in/5291098",
+    "summary": "Toronto org says it wasn’t the only one to be affected by the third-party software vulnerability",
+    "isoDate": "2026-08-21T15:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=235319&width=800",
+    "pinned": false
+  },
+  {
     "id": "b4e2cbcd7bd99dcb5107e82e95ab1f8ddabf8645",
     "title": "Hackers poison popular Rust crates to steal developers' credentials",
     "link": "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075",
@@ -65,7 +132,7 @@
     "isoDate": "2026-08-21T13:11:35Z",
     "source": "Ars Technica",
     "category": "Tech",
-    "author": "Rafe Rosner Uddin in San Francisco and Michael Taffe in New York",
+    "author": "Rafe Rosner Uddin and Michael Taffe, Financial Times",
     "tags": [
       "Biz & IT",
       "Cars",
@@ -1199,28 +1266,6 @@
     "pinned": false
   },
   {
-    "id": "cf70bce2fbbe5c92e3cca1262fc918c4292808ee",
-    "title": "Google Pixel 11 series review: Is the magic fading?",
-    "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-    "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
-    "isoDate": "2026-08-19T16:11:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Features",
-      "Google",
-      "Reviews",
-      "Tech",
-      "android",
-      "google",
-      "pixel 11",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-1-500x500-1787081521.jpg",
-    "pinned": false
-  },
-  {
     "id": "8c63bab11d4ca308137792fbe7916efff04297a2",
     "title": "Flock surveillance backlash mounts as fiendish Halloween plans circulate",
     "link": "https://www.theregister.com/security/2026/08/19/flock-surveillance-backlash-mounts-as-fiendish-halloween-plans-circulate/5289701",
@@ -1251,21 +1296,6 @@
     "pinned": false
   },
   {
-    "id": "0446e66b45b412a0e775d6bb7f1ec6186e62c90f",
-    "title": "ISS spacewalkers discover there's no such thing as a quick antenna job",
-    "link": "https://www.theregister.com/science/2026/08/19/iss-spacewalkers-discover-theres-no-such-thing-as-a-quick-antenna-job/5289644",
-    "summary": "Astronauts removed broken hardware but will have to return for more orbital DIY",
-    "isoDate": "2026-08-19T14:07:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=227223&width=800",
-    "pinned": false
-  },
-  {
     "id": "ee750b8cd2f4c4eedf500bcd43cfbb91a2539850",
     "title": "Tesla Reveals Cybercab Event Location and How to Enter Without a Robotaxi Ride",
     "link": "https://www.notateslaapp.com/news/4590/tesla-reveals-cybercab-event-location-and-how-to-enter-without-a-robotaxi-ride",
@@ -1276,36 +1306,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-event.webp/2bdac2476efd6e0a72254f7d981092ad/cybercab-event.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c13fe9b1c9efe435d136eb1431684d43e8a89dab",
-    "title": "Comcast gives its Wi-Fi motion detector a security makeover",
-    "link": "https://www.theregister.com/security/2026/08/19/comcast-gives-its-wi-fi-motion-detector-a-security-makeover/5289572",
-    "summary": "Rebranded feature promises household alerts without video, but mind the small print",
-    "isoDate": "2026-08-19T13:14:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=228628&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1ab7a016c2b7a7563430c764c12a8c7d1926dcf4",
-    "title": "Postgres pioneer credits Oracle with helping his database take over the world",
-    "link": "https://www.theregister.com/databases/2026/08/19/postgres-pioneer-credits-oracle-with-helping-his-database-take-over-the-world/5289087",
-    "summary": "Big Red's acquisition of MySQL sent users running toward the open source alternative, says Michael Stonebraker",
-    "isoDate": "2026-08-19T12:37:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "databases"
-    ],
-    "image": "https://image.theregister.com/?imageId=170448&width=800",
     "pinned": false
   },
   {
