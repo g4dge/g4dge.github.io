@@ -1,5 +1,62 @@
 [
   {
+    "id": "f7d709790eca66051829c1bd90910d294d815877",
+    "title": "Researchers use \"thunderquakes\" to study structure of Earth's surface",
+    "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+    "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
+    "isoDate": "2026-08-21T20:26:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "atmospheric science",
+      "Earth sciences",
+      "seismology",
+      "thunder",
+      "thunderquake"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "05f949a592c9b0662a2381abea20c89b54d98292",
+    "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+    "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+    "isoDate": "2026-08-21T20:10:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "real estate",
+      "Zillow"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-500x500-1787340469.jpg",
+    "pinned": false
+  },
+  {
+    "id": "392c32ec611e12103eb895fb90f54e2ab6d2344b",
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+    "summary": "The private Android-based OS will expand beyond Pixels next year.",
+    "isoDate": "2026-08-21T19:32:29Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "android",
+      "grapheneos",
+      "privacy",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motorola-X-GrapheneOS-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "2a6422304d907afba34ea8a19c1a4c26e8263a22",
     "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
     "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
@@ -1150,46 +1207,6 @@
     "pinned": false
   },
   {
-    "id": "9c4159617916be686124176d33ee39954a79b21e",
-    "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-    "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-    "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-    "isoDate": "2026-08-19T20:21:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "framework",
-      "laptops"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-500x500.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "c68077f21300db58317f56b61edaa7b5fe500c58",
-    "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-    "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-    "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-    "isoDate": "2026-08-19T20:04:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Google",
-      "Policy",
-      "AI training",
-      "bankruptcy",
-      "google",
-      "online privacy",
-      "personally identifying information",
-      "spirit airlines"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f83560a7017cb8534c41677810e43017d42bd6e7",
     "title": "SvelteKit 3 puts heat on Next.js with radical approach to RPCs",
     "link": "https://www.theregister.com/devops/2026/08/19/sveltekit-3-puts-heat-on-nextjs-with-radical-approach-to-rpcs/5289925",
@@ -1202,23 +1219,6 @@
       "devops"
     ],
     "image": "https://image.theregister.com/?imageId=5289955&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fb71e4c664c96e7d9f665f6ba234e3b13a8663c8",
-    "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
-    "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
-    "summary": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
-    "isoDate": "2026-08-19T19:45:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "broadband",
-      "FCC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/turtle-crossing-500x500-1787167314.jpg",
     "pinned": false
   },
   {
