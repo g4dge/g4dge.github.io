@@ -1,5 +1,63 @@
 [
   {
+    "id": "b4e2cbcd7bd99dcb5107e82e95ab1f8ddabf8645",
+    "title": "Hackers poison popular Rust crates to steal developers' credentials",
+    "link": "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075",
+    "summary": "Malicious updates turned routine builds into a delivery system for infostealer malware",
+    "isoDate": "2026-08-21T14:57:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682371&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6ac24dc505f13bafb5d138b7c25210f167203b76",
+    "title": "Tesla’s Solar Roof Is Being Discontinued After 10 Years",
+    "link": "https://www.notateslaapp.com/news/4597/teslas-solar-roof-is-being-discontinued-after-10-years",
+    "summary": "Tesla is discontinuing Solar Roof nearly 10 years after its debut and shifting its residential solar focus to conventional panels. <a href=\"https://www.notateslaapp.com/news/4597/teslas-solar-roof-is-being-discontinued-after-10-years\">Read More</a>",
+    "isoDate": "2026-08-21T14:50:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/energy/0x0-solarroof_03.webp/c1c05d08de797b1f9e034b7648d3e75e/0x0-solarroof_03.jpg",
+    "pinned": false
+  },
+  {
+    "id": "02aadc6e9ad3166b0b571d20ce98b49f188cd64b",
+    "title": "AMD grabs more CPU share while pricier PCs punish desktop demand",
+    "link": "https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053",
+    "summary": "Mercury Research blames costly memory and scarce GPUs for 20% processor shipment slide",
+    "isoDate": "2026-08-21T14:05:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094116&width=800",
+    "pinned": false
+  },
+  {
+    "id": "61c0d13fcbd71d20ab30612b5ee908a4406d4c1c",
+    "title": "'We let you down': GitHub pledges to scale up before developers give up",
+    "link": "https://www.theregister.com/devops/2026/08/21/we-let-you-down-github-pledges-to-scale-up-before-developers-give-up/5291031",
+    "summary": "CTO promises architectural overhaul following second outage of the month",
+    "isoDate": "2026-08-21T13:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682264&width=800",
+    "pinned": false
+  },
+  {
     "id": "3236bfa81e621a80e058e7f44482b5fac69f1d0a",
     "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
     "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
@@ -17,6 +75,36 @@
       "waymo"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "a35522588b0166e53e066c86b4e7024c8de7c955",
+    "title": "$10K phishing kit claims it can plant rogue passkeys for persistent access to pwned accounts",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/21/10k-phishing-kit-claims-it-can-plant-rogue-passkeys-for-persistent-access-to-pwned-accounts/5291006",
+    "summary": "Seller's demos show a browser-in-the-middle attack adding credentials seconds after authentication",
+    "isoDate": "2026-08-21T12:18:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=229085&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f7961eb155534d6c31fc9cf9a6b077051e70477c",
+    "title": "Microsoft lets you swap New Outlook's looks with the face of Outlook Classic",
+    "link": "https://www.theregister.com/applications/2026/08/21/microsoft-lets-you-swap-new-outlooks-looks-with-the-face-of-outlook-classic/5290948",
+    "summary": "Functionality not all there yet, but at least Redmond's latest and greatest appears a bit more like its predecessor",
+    "isoDate": "2026-08-21T11:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5237731&width=800",
     "pinned": false
   },
   {
@@ -70,6 +158,21 @@
       "vulcan"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8cc4c7207be249a36557ea676646e06ef1052430",
+    "title": "Microsoft sounds alarm as perfect-10 Entra ID flaw comes under attack",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/21/microsoft-sounds-alarm-as-perfect-10-entra-id-flaw-comes-under-attack/5290925",
+    "summary": "Redmond says the cloud identity bug is already fixed, but isn't saying who exploited it or how widely",
+    "isoDate": "2026-08-21T10:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5211376&width=800",
     "pinned": false
   },
   {
@@ -1206,51 +1309,6 @@
     "pinned": false
   },
   {
-    "id": "c5d4d2bf913acf7d68b73911a5fdd840d8cfd99a",
-    "title": "GitHub blames 8-hour outage on autoscaling fail and VS Code retry storm",
-    "link": "https://www.theregister.com/saas/2026/08/19/github-blames-8-hour-outage-on-autoscaling-fail-and-vs-code-retry-storm/5289547",
-    "summary": "Load balancers buckled after a monitoring blind spot allowed traffic to spiral",
-    "isoDate": "2026-08-19T11:40:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=243768&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a1ef064cb11365fb7739e870f4bdfaae94d7e9d3",
-    "title": "Scotland's AI Growth Zone gets a wee £300M power-up",
-    "link": "https://www.theregister.com/on-prem/2026/08/19/scotlands-ai-growth-zone-gets-a-wee-300m-power-up/5289042",
-    "summary": "DataVita secures funding to expand datacenter capacity, while Dell brings some desks",
-    "isoDate": "2026-08-19T11:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5289080&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3c070d3e478ba7db781130f5c649e6f818a3271c",
-    "title": "SAP consultant job ads overshoot final offers by up to 12%, recruiter claims",
-    "link": "https://www.theregister.com/software/2026/08/19/sap-consultant-job-ads-overshoot-final-offers-by-up-to-12-recruiter-claims/5289467",
-    "summary": "Both sides apparently start high then price in the inevitable haggle",
-    "isoDate": "2026-08-19T10:10:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=255122&width=800",
-    "pinned": false
-  },
-  {
     "id": "82a8fa099039eb21db01b6a9056aad9baa82219e",
     "title": "The conscience files",
     "link": "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park",
@@ -1261,21 +1319,6 @@
     "author": "Aeon Video",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "f8df6982ddbc4cb56b8d6028ec95d3378b2804a8",
-    "title": "Raspberry Pi gets jiggy with batch CM5 provisioning",
-    "link": "https://www.theregister.com/edge-and-iot/2026/08/19/raspberry-pi-gets-jiggy-with-batch-cm5-provisioning/5289499",
-    "summary": "Clamp, flash, repeat – no separate IO board or host computer required",
-    "isoDate": "2026-08-19T09:42:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "edge and iot"
-    ],
-    "image": "https://image.theregister.com/?imageId=5289525&width=800",
     "pinned": false
   },
   {
@@ -1291,36 +1334,6 @@
       "Skepticism"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1bf3861b8e7948c55987d898601e8b90bf2d1709",
-    "title": "UK taxman discovers low code doesn't mean low cost with £657M awards",
-    "link": "https://www.theregister.com/public-sector/2026/08/19/uk-taxman-discovers-low-code-doesnt-mean-low-cost-with-657m-awards/5288634",
-    "summary": "Those legacy systems won't fix themselves",
-    "isoDate": "2026-08-19T08:44:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5288694&width=800",
-    "pinned": false
-  },
-  {
-    "id": "764b03316a6957b44cc99b738dfc0f48758aea7f",
-    "title": "NASA estimates the size of the hole SpaceX made in the moon",
-    "link": "https://www.theregister.com/offbeat/2026/08/19/nasa-estimates-the-size-of-the-hole-spacex-made-in-the-moon/5289425",
-    "summary": "As the latest Starship finds its way to an obscure part of Australia, for observations",
-    "isoDate": "2026-08-19T06:15:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5289450&width=800",
     "pinned": false
   },
   {
@@ -1494,32 +1507,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/myp-v2l.webp/292d8ce0d52dad773c5fc0112e625046/myp-v2l.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6a9597e014dbc9281e4b79062808516816b1313a",
-    "title": "Tesla Cybercab’s Front Light Bar Appears to Be RGB After New Purple Sighting",
-    "link": "https://www.notateslaapp.com/news/4582/tesla-cybercabs-front-light-bar-appears-to-be-rgb-after-new-purple-sighting",
-    "summary": "A Cybercab has been spotted with a purple front light bar, adding evidence that Tesla is using programmable RGB lighting on its robotaxi. <a href=\"https://www.notateslaapp.com/news/4582/tesla-cybercabs-front-light-bar-appears-to-be-rgb-after-new-purple-sighting\">Read More</a>",
-    "isoDate": "2026-08-14T15:23:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-light-bar-american-flag.webp/2593269b482219c74be082898c0366e5/cybercab-light-bar-american-flag.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fe5649c1d437eeb82a8bd84703c0ee597b1f255d",
-    "title": "Tesla Adds FSD Stats Rainbow Easter Egg to Tesla App [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/4581/tesla-adds-fsd-stats-rainbow-easter-egg-to-tesla-app-video",
-    "summary": "Tesla has added a hidden rainbow Easter egg to its Tesla app. <a href=\"https://www.notateslaapp.com/news/4581/tesla-adds-fsd-stats-rainbow-easter-egg-to-tesla-app-video\">Read More</a>",
-    "isoDate": "2026-08-14T14:54:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-stats-easter-egg.webp/6131cb4a9e2c058e56ec8986e35536fd/fsd-stats-easter-egg.jpg",
     "pinned": false
   }
 ]
