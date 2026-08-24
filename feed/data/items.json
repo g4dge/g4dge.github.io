@@ -1,5 +1,50 @@
 [
   {
+    "id": "ac9dc3926923734620b0de57d331a11b7069aea9",
+    "title": "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg",
+    "link": "https://www.theregister.com/applications/2026/08/24/i-picked-task-manager-to-see-how-ready-ai-is-for-primetime-or-if-it-would-just-degrade-to-slop-og-dev-talks-to-the-reg/5291639",
+    "summary": "Original author of legendary 1996 system utility tries to answer the question: 'How would I do it today?'",
+    "isoDate": "2026-08-24T13:03:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291651&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d9f01e965d068e1948c883e662b9ba6cce3887e3",
+    "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
+    "link": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662",
+    "summary": "Sawtooth waves you can't hear still mess with your Bluetooth. Firefox and Brave say they've got you covered",
+    "isoDate": "2026-08-24T12:32:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=257881&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0f5b5750601b68186c422e8e9407dd5aca41bf66",
+    "title": "US datacenters tripled their water footprint in 10 years",
+    "link": "https://www.theregister.com/on-prem/2026/08/24/us-datacenters-tripled-their-water-footprint-in-10-years/5291564",
+    "summary": "... and those are figures from the start of the AI boom. It can only be worse now. Silo-ed reporting isn't helping",
+    "isoDate": "2026-08-24T12:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094013&width=800",
+    "pinned": false
+  },
+  {
     "id": "037ea0583b94c2efe8db1f2c64880012875d311d",
     "title": "$1T investment giant Apollo breached after social engineering attack",
     "link": "https://www.theregister.com/cyber-crime/2026/08/24/1t-investment-giant-apollo-breached-after-social-engineering-attack/5291609",
@@ -170,7 +215,7 @@
   },
   {
     "id": "d41bba2863541495cf4adc8fff31dd3157964f41",
-    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
     "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
     "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
     "isoDate": "2026-08-23T14:30:16Z",
@@ -802,10 +847,10 @@
     "pinned": false
   },
   {
-    "id": "8cc4c7207be249a36557ea676646e06ef1052430",
-    "title": "Microsoft sounds alarm as perfect-10 Entra ID flaw comes under attack",
-    "link": "https://www.theregister.com/cyber-crime/2026/08/21/microsoft-sounds-alarm-as-perfect-10-entra-id-flaw-comes-under-attack/5290925",
-    "summary": "Redmond says the cloud identity bug is already fixed, but isn't saying who exploited it or how widely",
+    "id": "b6bfe25eb8758872c97eed77b3eb00f9c98b225b",
+    "title": "Microsoft sounds alarm over perfect-10 Entra ID flaw",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/21/microsoft-sounds-alarm-over-perfect-10-entra-id-flaw/5290925",
+    "summary": "Redmond says the cloud identity bug is already fixed",
     "isoDate": "2026-08-21T10:15:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -1278,36 +1323,6 @@
       "cyber-crime"
     ],
     "image": "https://image.theregister.com/?imageId=5290355&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3cfd04564c15cb08ea12a7917798521cd55dbc7a",
-    "title": "NetBSD 11 lands with RISC-V support and lightning-fast VM boots",
-    "link": "https://www.theregister.com/os-platforms/2026/08/20/netbsd-11-lands-with-risc-v-support-and-lightning-fast-vm-boots/5289713",
-    "summary": "Venerable Unix-like remains reassuringly old-school, if you're willing to put in the work",
-    "isoDate": "2026-08-20T13:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5289735&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3f563d45edca27179b1109a8a93e35584217f366",
-    "title": "Grok chat duped into swallowing injected instructions",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019",
-    "summary": "A spoonful of encryption helps the malware go down",
-    "isoDate": "2026-08-20T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=240567&width=800",
     "pinned": false
   },
   {
