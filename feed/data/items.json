@@ -1,5 +1,59 @@
 [
   {
+    "id": "3de1560a7afaa8429d48916ef2cc759fe5a5f7fa",
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+    "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+    "isoDate": "2026-08-24T16:41:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI chips",
+      "ai servers",
+      "china",
+      "NVIDIA",
+      "supermicro",
+      "Taiwan"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e1c30c7ae61679651a0b756bd74b835ff603a180",
+    "title": "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/24/users-mash-linkedins-ai-slop-button-1m-times-in-3-weeks/5291802",
+    "summary": "Or: Shock as users of world's largest slop repository report lots of slop",
+    "isoDate": "2026-08-24T16:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=231279&width=800",
+    "pinned": false
+  },
+  {
+    "id": "923a97904c63e917b9fa9490e283a7ed449d9122",
+    "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
+    "link": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
+    "summary": "Formula 1 returned from its summer break with this weekend's Dutch Grand Prix.",
+    "isoDate": "2026-08-24T16:02:54Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "F1",
+      "Formula 1"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291183505-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "716f9263b501a03b3544adbaa2cef476cf6debcb",
     "title": "Tesla Quietly Discounts Items in the Tesla Shop Including Commemorative Vehicle Set",
     "link": "https://www.notateslaapp.com/news/4602/tesla-quietly-discounts-several-items-in-the-tesla-shop-including-its-commemorative-vehicle-set",
@@ -28,6 +82,21 @@
     "pinned": false
   },
   {
+    "id": "ae2fde3458da91670bf68616be0981610cbd2119",
+    "title": "What Nvidia's first Groq 3 LPU benchmarks do and don't tell us about its $20B gamble",
+    "link": "https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-do-and-dont-tell-us-about-its-20b-gamble/5291880",
+    "summary": "Gemma 4 31B performance tests offer a best-case scenario for next-gen dataflow accelerators",
+    "isoDate": "2026-08-24T15:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5224053&width=800",
+    "pinned": false
+  },
+  {
     "id": "09fbae9b292b8310220a41009ce988e24bb63a17",
     "title": "Tesla to recall almost three million vehicles over hidden door handles",
     "link": "https://www.theregister.com/offbeat/2026/08/24/tesla-to-recall-almost-three-million-vehicles-over-hidden-door-handles/5291757",
@@ -50,7 +119,7 @@
     "isoDate": "2026-08-24T14:43:56Z",
     "source": "Ars Technica",
     "category": "Tech",
-    "author": "Martha Muir",
+    "author": "Martha Muir, Financial Times",
     "tags": [
       "Science",
       "clean energy",
@@ -1171,46 +1240,6 @@
     "pinned": false
   },
   {
-    "id": "6a6c4f15758f38f8db69d56464f9cd0389aea280",
-    "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-    "link": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-    "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
-    "isoDate": "2026-08-20T21:40:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "ariane 6",
-      "Future",
-      "rockets",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4f853a8a6020e63e3d8c27b846ca807694bf780f",
-    "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
-    "link": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
-    "summary": "Survivors reconnect with those who saved them in National Geographic's <em>9/11: Reunited</em>.",
-    "isoDate": "2026-08-20T21:25:25Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "9/11",
-      "disney plus",
-      "documentaries",
-      "History",
-      "Hulu",
-      "National Geographic"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-500x500-1786893438.jpg",
-    "pinned": false
-  },
-  {
     "id": "bb3bb8cc7e07f777ca7e081285244187335cd2fd",
     "title": "Go updates may delight diehard gophers but displease AI overlords",
     "link": "https://www.theregister.com/devops/2026/08/20/go-updates-may-delight-diehard-gophers-but-displease-ai-overlords/5290643",
@@ -1266,36 +1295,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-aurum-cybercab-pickleball-paddle-2.webp/5131fa2d85b5d178e8ca736ab05c4da9/tesla-aurum-cybercab-pickleball-paddle-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "58f7fa82d2abd61bcad6a5792dd086b8a7153ab2",
-    "title": "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline",
-    "link": "https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560",
-    "summary": "Follow the money",
-    "isoDate": "2026-08-20T17:30:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5239008&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7b0e23f35ca4293a1b34eb92c52ff2478bed27ce",
-    "title": "Microsoft gives Task Manager another task: Watching AI workloads",
-    "link": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
-    "summary": "Per-process NPU metrics arrive as one more venerable Windows utility risks feature bloat",
-    "isoDate": "2026-08-20T16:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5290518&width=800",
     "pinned": false
   },
   {
@@ -1508,32 +1507,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-auction-parts.webp/4ae18297a258f279226951ec8e405bc8/tesla-auction-parts.jpg",
-    "pinned": false
-  },
-  {
-    "id": "493b7b0fbfab7b3ab6cc5e93d2760f7af08d2be9",
-    "title": "Tesla Publishes Vehicle-to-Load (V2L), PCS Retrofit Procedure, But Is It Worth It?",
-    "link": "https://www.notateslaapp.com/news/4585/tesla-publishes-vehicle-to-load-v2l-pcs-retrofit-procedure-but-is-it-worth-it",
-    "summary": "Tesla has published a Model Y PCS2 retrofit procedure that could add V2L hardware to vehicles that currently lack support. <a href=\"https://www.notateslaapp.com/news/4585/tesla-publishes-vehicle-to-load-v2l-pcs-retrofit-procedure-but-is-it-worth-it\">Read More</a>",
-    "isoDate": "2026-08-17T16:48:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/pcs-retrofit.webp/8558a2e2a96862df0c943301332fa1dd/pcs-retrofit.jpg",
-    "pinned": false
-  },
-  {
-    "id": "027e780d94a8f40ebdce46062b6671f84f654911",
-    "title": "Tesla’s Lost ‘Back to the Future’ Easter Egg: What It Did and Why It Disappeared",
-    "link": "https://www.notateslaapp.com/news/50/tesla-back-to-the-future-easter-egg",
-    "summary": "Tesla once hid a detailed Back to the Future Easter egg in its app. Here’s how it worked and why it disappeared. <a href=\"https://www.notateslaapp.com/news/50/tesla-back-to-the-future-easter-egg\">Read More</a>",
-    "isoDate": "2026-08-17T15:54:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2021/back-to-the-future-easter-egg.webp/04e743adb2992cb951ddd3c7cb3bf0db/back-to-the-future-easter-egg.jpg",
     "pinned": false
   }
 ]
