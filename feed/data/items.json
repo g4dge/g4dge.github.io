@@ -1,5 +1,53 @@
 [
   {
+    "id": "246d0fd5c610722144b3c9ad6626077ba72df56c",
+    "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
+    "link": "https://www.theregister.com/systems/2026/08/24/youtubers-backyard-fab-ambitions-expand-from-ram-to-homebrew-leds/5291956",
+    "summary": "Dr. Semiconductor's latest project lights the path toward what he tells us he hopes becomes a cottage chip industry",
+    "isoDate": "2026-08-24T17:22:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291973&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3226dc8d79ceaa839b2b029df2225d87b9831d09",
+    "title": "Buyer beware: Those mummified remains might carry toxic spores",
+    "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
+    "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
+    "isoDate": "2026-08-24T16:59:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "Archaeology",
+      "Egyptian mummies",
+      "microbiology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/curse7-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6e30ecf3ebf49d727434ec9bf8806d5f24896307",
+    "title": "Iran-linked cyberattack shut down a UK power plant",
+    "link": "https://www.theregister.com/security/2026/08/24/iran-linked-cyberattack-shut-down-a-uk-power-plant/5291930",
+    "summary": "No risk to wider energy system, government tells The Reg",
+    "isoDate": "2026-08-24T16:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291980&width=800",
+    "pinned": false
+  },
+  {
     "id": "3de1560a7afaa8429d48916ef2cc759fe5a5f7fa",
     "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
     "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
@@ -19,6 +67,21 @@
       "Taiwan"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4bb0b42c80eef1aea37e00369c7f71f27b8a85c9",
+    "title": "Logitech hit by sueball over tariff refunds",
+    "link": "https://www.theregister.com/legal/2026/08/24/logitech-hit-by-sueball-over-tariff-refunds/5291845",
+    "summary": "Complaint: Peripheral maker did not want to unplug itself from higher prices and hand back cash to customers",
+    "isoDate": "2026-08-24T16:34:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=1684065&width=800",
     "pinned": false
   },
   {
@@ -67,9 +130,9 @@
     "pinned": false
   },
   {
-    "id": "2bdf819a12baf2e6cfb47d0b71a14844d7d0bd8f",
+    "id": "01343ae01f567f237d0531296aa4768cb6049257",
     "title": "Emperor Penguin Linus Torvalds banishes a bug – with a bot",
-    "link": "https://www.theregister.com/os-platforms/2026/08/24/emperor-penguin-linus-torvalds-banishes-a-bug-with-a-bot/5291784",
+    "link": "https://www.theregister.com/os-platforms/2026/08/24/linus-torvalds-banishes-linux-bug-with-a-bot/5291784",
     "summary": "The lad himself finds and fixes a tricky one… or does he?",
     "isoDate": "2026-08-24T15:32:00Z",
     "source": "The Register",
@@ -82,9 +145,9 @@
     "pinned": false
   },
   {
-    "id": "ae2fde3458da91670bf68616be0981610cbd2119",
-    "title": "What Nvidia's first Groq 3 LPU benchmarks do and don't tell us about its $20B gamble",
-    "link": "https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-do-and-dont-tell-us-about-its-20b-gamble/5291880",
+    "id": "0fcee8f639a24917b06577f547413a3eebb40d30",
+    "title": "What Nvidia's first Groq 3 LPU benchmarks tell us about its $20B gamble",
+    "link": "https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-tell-us-about-its-20b-gamble/5291880",
     "summary": "Gemma 4 31B performance tests offer a best-case scenario for next-gen dataflow accelerators",
     "isoDate": "2026-08-24T15:00:00Z",
     "source": "The Register",
@@ -1217,74 +1280,6 @@
     "pinned": false
   },
   {
-    "id": "b7e65a5154d557ac31d78e3f5d672fa13444b3c8",
-    "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-    "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-    "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
-    "isoDate": "2026-08-20T22:00:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "humanoid robots",
-      "Industrial robots",
-      "medical robots",
-      "Robo Inc.",
-      "RoboStore",
-      "Robotics",
-      "robots",
-      "Unitree Robotics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-500x500.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "bb3bb8cc7e07f777ca7e081285244187335cd2fd",
-    "title": "Go updates may delight diehard gophers but displease AI overlords",
-    "link": "https://www.theregister.com/devops/2026/08/20/go-updates-may-delight-diehard-gophers-but-displease-ai-overlords/5290643",
-    "summary": "v 1.27 expands generics to support methods",
-    "isoDate": "2026-08-20T21:14:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5290671&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e0edf816f6b9008b7955f89c0e568c3756f64791",
-    "title": "OpenAI chases Anthropic's biz customers with zero data retention pledge",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/20/openai-chases-anthropics-biz-customers-with-zero-data-retention-pledge/5290609",
-    "summary": "With Private Safety Processing, AI biz promises discreet, automated prompt surveillance",
-    "isoDate": "2026-08-20T19:59:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5290632&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0a47ffcf61c275e77e7121aa84cb6ce6bdffb78b",
-    "title": "Waymo has designed a robocar chip to stay ahead of Tesla",
-    "link": "https://www.theregister.com/edge-and-iot/2026/08/20/waymo-has-designed-a-robocar-chip-to-stay-ahead-of-tesla/5290592",
-    "summary": "5 nm ML accelerators promise 1,000+ TOPS, ultra-low latency",
-    "isoDate": "2026-08-20T19:41:58Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "edge and iot"
-    ],
-    "image": "https://image.theregister.com/?imageId=227785&width=800",
-    "pinned": false
-  },
-  {
     "id": "7d603f458278b9a62288689f35bc27474ccf30fa",
     "title": "Tesla Launches Cybercab-Themed Aurum Pickleball Paddle",
     "link": "https://www.notateslaapp.com/news/4596/tesla-launches-cybercab-themed-aurum-pickleball-paddle",
@@ -1494,19 +1489,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ae4cd4f37119d3d3e677d2222fd01d6e0cd2e139",
-    "title": "Tesla Is Auctioning Off Stockpiles of Model S and Model X Parts",
-    "link": "https://www.notateslaapp.com/news/4586/tesla-is-auctioning-off-stockpiles-of-model-s-and-model-x-parts",
-    "summary": "Tesla is auctioning excess Model S and Model X parts after ending production and clearing their Fremont assembly lines. <a href=\"https://www.notateslaapp.com/news/4586/tesla-is-auctioning-off-stockpiles-of-model-s-and-model-x-parts\">Read More</a>",
-    "isoDate": "2026-08-17T17:31:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-auction-parts.webp/4ae18297a258f279226951ec8e405bc8/tesla-auction-parts.jpg",
     "pinned": false
   }
 ]
