@@ -1,5 +1,40 @@
 [
   {
+    "id": "582ff1eabfc11b155620277191e5972868573b39",
+    "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+    "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+    "summary": "\"This will be a project like no other.\"",
+    "isoDate": "2026-08-25T17:26:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "Louisiana",
+      "space",
+      "spacex",
+      "Starbase",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c39fe54e82db2b402c7a60cd0697c57f01f62794",
+    "title": "EPA to drop requirement for public notice of polluting datacenters",
+    "link": "https://www.theregister.com/on-prem/2026/08/25/epa-to-drop-requirement-for-public-notice-of-polluting-datacenters/5292341",
+    "summary": "State and local regulators would decide whether the public gets a say on minor-source permits",
+    "isoDate": "2026-08-25T16:40:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292360&width=800",
+    "pinned": false
+  },
+  {
     "id": "0d862494830598017b6c08b76681970efbc71694",
     "title": "Tesla Announces Tesla Semi Event at New Nevada Factory",
     "link": "https://www.notateslaapp.com/news/4607/tesla-announces-tesla-semi-event-at-new-nevada-factory",
@@ -32,6 +67,21 @@
     "pinned": false
   },
   {
+    "id": "d35973d030c6338035050273eff10b56639052ed",
+    "title": "You could've applied all 1,449 Oracle patches and still been hit by this attack",
+    "link": "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335",
+    "summary": "Attackers now ready to exploit how things work, rather than just break them, says Oracle support expert",
+    "isoDate": "2026-08-25T16:09:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=234063&width=800",
+    "pinned": false
+  },
+  {
     "id": "54c6c5c6faa9a8fdb294f5d17cc0b2ed2c816cce",
     "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
     "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
@@ -51,6 +101,36 @@
       "VR"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/quest1-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "67ea5d220fbd2d04e4896283aa4ff95c42abdfb0",
+    "title": "Microsoft warns that transitioning Excel workbooks to new Exchange connectors might not be smooth sailing",
+    "link": "https://www.theregister.com/software/2026/08/25/microsoft-warns-that-transitioning-excel-workbooks-to-new-exchange-connectors-might-not-be-smooth-sailing/5292316",
+    "summary": "Current Exchange connector is retiring - and new ones won't work if you don't upgrade",
+    "isoDate": "2026-08-25T15:53:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=254628&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3d25b74a25eeffd3086fe7f75086788d03bd4514",
+    "title": "Slop factory bans Russians for using slop factory to create slop",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297",
+    "summary": "OpenAI wants you to thank it for keeping a permanent record of all your discussions with its bots",
+    "isoDate": "2026-08-25T15:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=253985&width=800",
     "pinned": false
   },
   {
@@ -1168,72 +1248,6 @@
       "personal tech"
     ],
     "image": "https://image.theregister.com/?imageId=5291261&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9feb1564008796a5f8f0a51f74292e196cb5138c",
-    "title": "AWS Security makes an inscrutable choice",
-    "link": "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
-    "summary": "Quarantining leaked credentials is not good enough",
-    "isoDate": "2026-08-21T23:42:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5291460&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f90858f43fcf59fb54ad5f66c0c0e9afaa1a7d6e",
-    "title": "Trump's space transportation policy calls for new spaceport on federal land",
-    "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-    "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
-    "isoDate": "2026-08-21T23:32:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "Commercial space",
-      "launch",
-      "military space",
-      "NASA",
-      "space policy",
-      "spaceport"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7fc9ea1241d061fd64d627b93a0d33c4d423cf93",
-    "title": "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says",
-    "link": "https://www.theregister.com/saas/2026/08/21/salesforce-partners-not-seeing-meaningful-revenue-from-agentforce-ai-platform-report-says/5291167",
-    "summary": "Show us the money",
-    "isoDate": "2026-08-21T20:50:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=1683935&width=800",
-    "pinned": false
-  },
-  {
-    "id": "19982bba45a33781a3e0da98b6fa50eedefd13f4",
-    "title": "AI companies are burning books, advocates complain to FTC",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/21/ai-companies-are-burning-books-advocates-complain-to-ftc/5291299",
-    "summary": "Fahrenheit 203, the temperature GPUs stop gorging on literature",
-    "isoDate": "2026-08-21T20:23:12Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=233661&width=800",
     "pinned": false
   },
   {
