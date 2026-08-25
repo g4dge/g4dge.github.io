@@ -1,5 +1,35 @@
 [
   {
+    "id": "a053ef58feabad6f33d33b7116c163317ab9065c",
+    "title": "IBM announces chip that natively executes Arm and Z instructions concurrently",
+    "link": "https://www.theregister.com/systems/2026/08/25/ibm-announces-chip-that-natively-executes-arm-and-z-instructions-concurrently/5292059",
+    "summary": "Cunning plan to expand the amount of software that runs on mainframes is also an admission ISVs are focusing their energies elsewhere",
+    "isoDate": "2026-08-25T01:27:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292064&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bbf0dbf1df0efaee10321de71d2a34b99243887f",
+    "title": "Microsoft AI watermarks in Paint and Photos are linked to user IDs, researcher finds",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/microsoft-ai-watermarks-in-paint-and-photos-are-linked-to-user-ids-researcher-finds/5292034",
+    "summary": "Privacy? Not if you use hosted AI services",
+    "isoDate": "2026-08-25T00:10:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=261247&width=800",
+    "pinned": false
+  },
+  {
     "id": "f2e956db9deea37e3edbde97fcc0f41a1fec9819",
     "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
     "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
@@ -18,6 +48,21 @@
       "standford"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-500x500-1787606429.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8ceef692fde333cf5345f4ce38ef903e692740ed",
+    "title": "You don't want this Sleepwalker backdoor on your Windows machine",
+    "link": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021",
+    "summary": "Its own command language, 23 instructions - signs point to 'well-resourced operation rather than an opportunistic one'",
+    "isoDate": "2026-08-24T21:39:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292027&width=800",
     "pinned": false
   },
   {
@@ -43,6 +88,21 @@
       "solid-state transformers"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3eb305ada461938f15411dfe5942feb0ca6c9c2b",
+    "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks",
+    "link": "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015",
+    "summary": "Glassbox dev admits he had some help from Claude to build locally running tool",
+    "isoDate": "2026-08-24T21:07:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=254347&width=800",
     "pinned": false
   },
   {
@@ -1228,66 +1288,6 @@
       "networks"
     ],
     "image": "https://image.theregister.com/?imageId=5290340&width=800",
-    "pinned": false
-  },
-  {
-    "id": "da7cc667ca37fb5f420e985880f6de9b7ee7c740",
-    "title": "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
-    "link": "https://www.theregister.com/software/2026/08/21/developer-given-missionimpossible-fixing-rubbish-code-that-could-crash-a-city-simply-chose-not-to-accept-it/5290120",
-    "summary": "After imagining explosions, blackouts, and daring escapes, this techie decided the best thing to do was just not doing the job",
-    "isoDate": "2026-08-21T06:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=253830&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8a657d1a21dd32b82ec6a706f11f66f1b626dd30",
-    "title": "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5.",
-    "link": "https://www.theregister.com/security/2026/08/21/cisco-bug-severity-warning-reads-like-olympic-gymnastics-scores-10-10-99-96-and-75/5290838",
-    "summary": "Secure Workload Software has five nasty flaws and even SaaS users have updates to install",
-    "isoDate": "2026-08-21T05:33:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5290859&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e17738116bed93b3b68c0bf9aeddd894dcd902ce",
-    "title": "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
-    "link": "https://www.theregister.com/off-prem/2026/08/21/alibaba-cloud-plans-to-use-fewer-western-chips-to-boost-its-already-huge-ai-margins/5290815",
-    "summary": "Cloudy AI is Chinese giant’s ‘most certain’ path to growth as e-commerce slows",
-    "isoDate": "2026-08-21T04:38:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=259127&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ffcc4f64b8cad09a6fc7e781d70a8b56cc70603a",
-    "title": "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation",
-    "link": "https://www.theregister.com/legal/2026/08/21/supermicro-fired-staff-after-probe-into-25-billion-gpus-to-china-smuggling-operation/5290791",
-    "summary": "Policies and code of conduct breached",
-    "isoDate": "2026-08-21T02:39:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=5290804&width=800",
     "pinned": false
   },
   {
