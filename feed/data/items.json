@@ -1,5 +1,26 @@
 [
   {
+    "id": "a6e98391ec184adb26ee99b45d2ee46d32c66607",
+    "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+    "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+    "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+    "isoDate": "2026-08-25T22:21:06Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "cape canaveral",
+      "falcon 9",
+      "launch",
+      "spacex",
+      "starlink",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/f9_streak1-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "91e48aee102019579fa219a49f495f866b897e1a",
     "title": "World humanoid robot games show runners breaking records, bursting into flames",
     "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
@@ -17,6 +38,36 @@
       "world humanoid robot games"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8a1e207103dddf993bf38a4b80e02c68d24ddff6",
+    "title": "Apple defies memory shortage with new Mac minis",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/apple-defies-memory-shortage-with-new-mac-minis/5292406",
+    "summary": "The cost of memory makes this an expensive ML meal",
+    "isoDate": "2026-08-25T20:18:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292415&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9baf1febdbe0a95b8339151a546b61ed78955a45",
+    "title": "Claude and Cowork now share what they know about you",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/claude-and-cowork-now-share-what-they-know-about-you/5292412",
+    "summary": "Shared memory is live, with no option to separate it between services, Anthropic tells us; Claude Code stays apart for now",
+    "isoDate": "2026-08-25T19:54:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=222766&width=800",
     "pinned": false
   },
   {
@@ -59,6 +110,21 @@
       "smartphones"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motion-Assist-Pixel-11-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b8610be2a39d1167334b07a462d66e4d54fe3024",
+    "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388",
+    "summary": "Fasten your seatbelt and empty that bladder: AI investment is rising, but reported enterprise earnings impact remains stubbornly flat",
+    "isoDate": "2026-08-25T17:44:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=234929&width=800",
     "pinned": false
   },
   {
@@ -987,26 +1053,6 @@
     "pinned": false
   },
   {
-    "id": "b01edcf6b76067464b8ef669aafc5e02a9344861",
-    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-    "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-    "summary": "The Unibook is a weird entry-level laptop for people with patience.",
-    "isoDate": "2026-08-24T11:00:01Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Features",
-      "Tech",
-      "chuwi",
-      "intel core series 3",
-      "macbook neo",
-      "wildcat lake"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_9264-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "dc0975bf55d3544af3702750430e24b8456eea03",
     "title": "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows",
     "link": "https://www.theregister.com/ai-and-ml/2026/08/24/ai-vendors-are-turning-to-custom-hardware-as-microsoft-winds-back-the-clock-on-windows/5291293",
@@ -1209,51 +1255,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-event-1787405360.webp/0e2ea04e995407634b1f288917baa2bd/cybercab-event-1787405360.jpg",
-    "pinned": false
-  },
-  {
-    "id": "35209cf100cae66e81a0092c75318c0e2554dd60",
-    "title": "AI slop is good for business if you know what you're doing",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/22/ai-slop-is-good-for-business-if-you-know-what-youre-doing/5291382",
-    "summary": "Your irresponsibility is someone else's opportunity",
-    "isoDate": "2026-08-22T13:19:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5230118&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b904bb6f56abac606d5eb7832b7a1ea28f5b2043",
-    "title": "Skylab completists, clear some shelf space for 26 DVDs",
-    "link": "https://www.theregister.com/offbeat/2026/08/22/skylab-completists-clear-some-shelf-space-for-26-dvds/5290531",
-    "summary": "Decades of archive hunting recover downlinks, silent reels, and footage once thought lost",
-    "isoDate": "2026-08-22T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=241602&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fa06fc15bd88d13886fad2471be8a14dc550ce8a",
-    "title": "Casio decides it's about time the simple digital watch got a little smarter",
-    "link": "https://www.theregister.com/personal-tech/2026/08/22/casio-decides-its-about-time-the-simple-digital-watch-got-a-little-smarter/5291223",
-    "summary": "F-B100W adds Bluetooth and step tracking while keeping a two-year battery",
-    "isoDate": "2026-08-22T08:43:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5291261&width=800",
     "pinned": false
   },
   {
