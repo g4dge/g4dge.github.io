@@ -1,5 +1,50 @@
 [
   {
+    "id": "2f1bf61098c8765983059271d9f63494a48a0282",
+    "title": "SpaceX claims it will put a Vera Rubin NVL72 rack-scale system into orbit next year",
+    "link": "https://www.theregister.com/off-prem/2026/08/25/spacex-claims-it-will-put-a-vera-rubin-nvl72-rack-scale-system-into-orbit-next-year/5292067",
+    "summary": "And fly ‘significant scale’ in 2028 – a claim that isn’t entirely bonkers, but needs a solid grain of salt",
+    "isoDate": "2026-08-25T05:21:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094220&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a053ef58feabad6f33d33b7116c163317ab9065c",
+    "title": "IBM announces chip that natively executes Arm and Z instructions concurrently",
+    "link": "https://www.theregister.com/systems/2026/08/25/ibm-announces-chip-that-natively-executes-arm-and-z-instructions-concurrently/5292059",
+    "summary": "Cunning plan to expand the amount of software that runs on mainframes is also an admission ISVs are focusing their energies elsewhere",
+    "isoDate": "2026-08-25T01:27:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292064&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bbf0dbf1df0efaee10321de71d2a34b99243887f",
+    "title": "Microsoft AI watermarks in Paint and Photos are linked to user IDs, researcher finds",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/microsoft-ai-watermarks-in-paint-and-photos-are-linked-to-user-ids-researcher-finds/5292034",
+    "summary": "Privacy? Not if you use hosted AI services",
+    "isoDate": "2026-08-25T00:10:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=261247&width=800",
+    "pinned": false
+  },
+  {
     "id": "f2e956db9deea37e3edbde97fcc0f41a1fec9819",
     "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
     "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
@@ -18,6 +63,21 @@
       "standford"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-500x500-1787606429.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8ceef692fde333cf5345f4ce38ef903e692740ed",
+    "title": "You don't want this Sleepwalker backdoor on your Windows machine",
+    "link": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021",
+    "summary": "Its own command language, 23 instructions - signs point to 'well-resourced operation rather than an opportunistic one'",
+    "isoDate": "2026-08-24T21:39:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292027&width=800",
     "pinned": false
   },
   {
@@ -43,6 +103,21 @@
       "solid-state transformers"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3eb305ada461938f15411dfe5942feb0ca6c9c2b",
+    "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks",
+    "link": "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015",
+    "summary": "Glassbox dev admits he had some help from Claude to build locally running tool",
+    "isoDate": "2026-08-24T21:07:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=254347&width=800",
     "pinned": false
   },
   {
@@ -115,6 +190,21 @@
     "pinned": false
   },
   {
+    "id": "ea30867c8ca022faff2977bddfaf7883de98e267",
+    "title": "Conjure cash with old Macs by linking them to AI inference Borg",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/24/conjure-cash-with-old-macs-by-linking-them-to-ai-inference-borg/5292002",
+    "summary": "Darkbloom distributed inference network promises to put underutilized Apple kit to work",
+    "isoDate": "2026-08-24T19:40:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=235164&width=800",
+    "pinned": false
+  },
+  {
     "id": "ca28fc026cd6c150b51acdce2e05ce33e434645f",
     "title": "Tesla Patent Helps Keep FSD Cameras Clear by Preventing Windshield Haze",
     "link": "https://www.notateslaapp.com/news/4603/tesla-patent-helps-keep-fsd-cameras-clear-by-preventing-windshield-haze",
@@ -149,6 +239,36 @@
     "pinned": false
   },
   {
+    "id": "13800f333d18287a34c09971c51117a21dc9568a",
+    "title": "Windows NT 4 went on sale 30 years ago today",
+    "link": "https://www.theregister.com/os-platforms/2026/08/24/windows-nt-4-went-on-sale-30-years-ago-today/5291938",
+    "summary": "The version that started to bring all Microsoft’s pieces together",
+    "isoDate": "2026-08-24T17:43:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291999&width=800",
+    "pinned": false
+  },
+  {
+    "id": "246d0fd5c610722144b3c9ad6626077ba72df56c",
+    "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
+    "link": "https://www.theregister.com/systems/2026/08/24/youtubers-backyard-fab-ambitions-expand-from-ram-to-homebrew-leds/5291956",
+    "summary": "Dr. Semiconductor's latest project lights the path toward what he tells us he hopes becomes a cottage chip industry",
+    "isoDate": "2026-08-24T17:22:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291973&width=800",
+    "pinned": false
+  },
+  {
     "id": "3226dc8d79ceaa839b2b029df2225d87b9831d09",
     "title": "Buyer beware: Those mummified remains might carry toxic spores",
     "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
@@ -164,6 +284,21 @@
       "microbiology"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/curse7-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6e30ecf3ebf49d727434ec9bf8806d5f24896307",
+    "title": "Iran-linked cyberattack shut down a UK power plant",
+    "link": "https://www.theregister.com/security/2026/08/24/iran-linked-cyberattack-shut-down-a-uk-power-plant/5291930",
+    "summary": "No risk to wider energy system, government tells The Reg",
+    "isoDate": "2026-08-24T16:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291980&width=800",
     "pinned": false
   },
   {
@@ -186,6 +321,36 @@
       "Taiwan"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4bb0b42c80eef1aea37e00369c7f71f27b8a85c9",
+    "title": "Logitech hit by sueball over tariff refunds",
+    "link": "https://www.theregister.com/legal/2026/08/24/logitech-hit-by-sueball-over-tariff-refunds/5291845",
+    "summary": "Complaint: Peripheral maker did not want to unplug itself from higher prices and hand back cash to customers",
+    "isoDate": "2026-08-24T16:34:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=1684065&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e1c30c7ae61679651a0b756bd74b835ff603a180",
+    "title": "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/24/users-mash-linkedins-ai-slop-button-1m-times-in-3-weeks/5291802",
+    "summary": "Or: Shock as users of world's largest slop repository report lots of slop",
+    "isoDate": "2026-08-24T16:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=231279&width=800",
     "pinned": false
   },
   {
@@ -219,6 +384,51 @@
     "pinned": false
   },
   {
+    "id": "01343ae01f567f237d0531296aa4768cb6049257",
+    "title": "Emperor Penguin Linus Torvalds banishes a bug – with a bot",
+    "link": "https://www.theregister.com/os-platforms/2026/08/24/linus-torvalds-banishes-linux-bug-with-a-bot/5291784",
+    "summary": "The lad himself finds and fixes a tricky one… or does he?",
+    "isoDate": "2026-08-24T15:32:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291813&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0fcee8f639a24917b06577f547413a3eebb40d30",
+    "title": "What Nvidia's first Groq 3 LPU benchmarks tell us about its $20B gamble",
+    "link": "https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-tell-us-about-its-20b-gamble/5291880",
+    "summary": "Gemma 4 31B performance tests offer a best-case scenario for next-gen dataflow accelerators",
+    "isoDate": "2026-08-24T15:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5224053&width=800",
+    "pinned": false
+  },
+  {
+    "id": "09fbae9b292b8310220a41009ce988e24bb63a17",
+    "title": "Tesla to recall almost three million vehicles over hidden door handles",
+    "link": "https://www.theregister.com/offbeat/2026/08/24/tesla-to-recall-almost-three-million-vehicles-over-hidden-door-handles/5291757",
+    "summary": "At least it looks cool, right Elon? China demands changes ahead of ban on new models in 2027",
+    "isoDate": "2026-08-24T15:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291780&width=800",
+    "pinned": false
+  },
+  {
     "id": "6c0ab7f23bc7bc9e5e37299924c6eced4b4ec758",
     "title": "Trump tried to curb clean energy. It’s booming anyway.",
     "link": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
@@ -235,6 +445,111 @@
       "wind power"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289637867-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7e00413c345b6b8bdd1b1c6ad29bc0faa2481bc0",
+    "title": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
+    "link": "https://www.theregister.com/databases/2026/08/24/oracle-exadata-databaseaws-offers-advantages-but-trade-offs-remain/5291731",
+    "summary": "Cloud giant allows customers to get more from Oracle hardware, but will try to gain more workloads on the side",
+    "isoDate": "2026-08-24T14:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "databases"
+    ],
+    "image": "https://image.theregister.com/?imageId=121330&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5b0c40c42782e598d09446dc86d105853676a454",
+    "title": "ShinyHunters and ReliaQuest trade blows over claimed breach",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/24/shinyhunters-and-reliaquest-trade-blows-over-claimed-breach/5291702",
+    "summary": "Attackers took a look at an employee's identity dashboard, but security firm says that's as far as they got",
+    "isoDate": "2026-08-24T14:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5235702&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ac0117c900075c6d32d6ce0f00ed584eb40fe8d8",
+    "title": "Chipmakers laughing all the way to the vault as memory prices go stratospheric",
+    "link": "https://www.theregister.com/systems/2026/08/24/chipmakers-laughing-all-the-way-to-the-vault-as-memory-prices-go-stratospheric/5291690",
+    "summary": "Gartner reckons $1.6 trillion year is just the start, and don't expect a bust anytime soon",
+    "isoDate": "2026-08-24T13:40:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=1673877&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ac9dc3926923734620b0de57d331a11b7069aea9",
+    "title": "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg",
+    "link": "https://www.theregister.com/applications/2026/08/24/i-picked-task-manager-to-see-how-ready-ai-is-for-primetime-or-if-it-would-just-degrade-to-slop-og-dev-talks-to-the-reg/5291639",
+    "summary": "Original author of legendary 1996 system utility tries to answer the question: 'How would I do it today?'",
+    "isoDate": "2026-08-24T13:03:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291651&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d9f01e965d068e1948c883e662b9ba6cce3887e3",
+    "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
+    "link": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662",
+    "summary": "Sawtooth waves you can't hear still mess with your Bluetooth. Firefox and Brave say they've got you covered",
+    "isoDate": "2026-08-24T12:32:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=257881&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0f5b5750601b68186c422e8e9407dd5aca41bf66",
+    "title": "US datacenters tripled their water footprint in 10 years",
+    "link": "https://www.theregister.com/on-prem/2026/08/24/us-datacenters-tripled-their-water-footprint-in-10-years/5291564",
+    "summary": "... and those are figures from the start of the AI boom. It can only be worse now. Silo-ed reporting isn't helping",
+    "isoDate": "2026-08-24T12:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094013&width=800",
+    "pinned": false
+  },
+  {
+    "id": "037ea0583b94c2efe8db1f2c64880012875d311d",
+    "title": "$1T investment giant Apollo breached after social engineering attack",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/24/1t-investment-giant-apollo-breached-after-social-engineering-attack/5291609",
+    "summary": "Hackers spent four days inside the org's cloud platforms after apparently talking their way in",
+    "isoDate": "2026-08-24T11:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5264558&width=800",
     "pinned": false
   },
   {
@@ -258,6 +573,51 @@
     "pinned": false
   },
   {
+    "id": "dc0975bf55d3544af3702750430e24b8456eea03",
+    "title": "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/24/ai-vendors-are-turning-to-custom-hardware-as-microsoft-winds-back-the-clock-on-windows/5291293",
+    "summary": "Vendors are moving way beyond Nvidia’s GPUs in the datacenter",
+    "isoDate": "2026-08-24T10:57:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291295&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1f10f1bdac9a95b10f3062bdd2a53abbe91eb885",
+    "title": "Security vets rally around $4 paper password books for sale in Australia",
+    "link": "https://www.theregister.com/security/2026/08/24/security-vets-rally-around-4-paper-password-books-for-sale-in-australia/5291234",
+    "summary": "Once shunned by the IT crowd, pen-and-paper password vaults are getting the love they deserve in 2026",
+    "isoDate": "2026-08-24T10:17:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5269504&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9e3e73ec2190ed76d0e4eb51409559c67e16090a",
+    "title": "Canonical backs quest to translate mountains of C into safe Rust with AI",
+    "link": "https://www.theregister.com/software/2026/08/24/canonical-backs-quest-to-translate-mountains-of-c-into-safe-rust-with-ai/5290959",
+    "summary": "Bungs banknotes at Bristol boffins to find out if mature code survives the machine",
+    "isoDate": "2026-08-24T09:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=1618337&width=800",
+    "pinned": false
+  },
+  {
     "id": "d448b99b8d0031307768fddacfa2287ae6650a48",
     "title": "Leaving aside the wonder and the doom, we should appreciate the real-world arithmetic cost of AI",
     "link": "https://www.skeptic.org.uk/2026/08/leaving-aside-the-wonder-and-the-doom-we-should-appreciate-the-real-world-arithmetic-cost-of-ai/",
@@ -271,6 +631,66 @@
       "Technology"
     ],
     "image": "",
+    "pinned": false
+  },
+  {
+    "id": "8577389386b6384e37a957f0e518012b3a3f88a9",
+    "title": "Software should work, and talking about it needn't be boring",
+    "link": "https://www.theregister.com/columnists/2026/08/24/software-should-work-and-talking-about-it-neednt-be-boring/5290862",
+    "summary": "Bingeing the boxed set of binary bafflement",
+    "isoDate": "2026-08-24T08:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "columnists"
+    ],
+    "image": "https://image.theregister.com/?imageId=5266492&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3256ca55c25793f81a19e7410f41a5b44191944b",
+    "title": "China calls off ambitious ice-hunting moonshot a day before flight",
+    "link": "https://www.theregister.com/science/2026/08/24/china-calls-off-ambitious-ice-hunting-moonshot-a-day-before-flight/5291536",
+    "summary": "Chang'e 7 didn’t meet unspecified ‘launch requirements’",
+    "isoDate": "2026-08-24T07:11:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291551&width=800",
+    "pinned": false
+  },
+  {
+    "id": "956adffb2bc3cd562b8cd46d6cbb736f20e25a20",
+    "title": "Batch file automated a clean-up job, then fouled itself by deleting the wrong directory",
+    "link": "https://www.theregister.com/software/2026/08/24/batch-file-automated-a-clean-up-job-then-fouled-itself-by-deleting-the-wrong-directory/5290873",
+    "summary": "It survived testing and the boss signed off, so who was really to blame?",
+    "isoDate": "2026-08-24T06:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=255816&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e26eed42303bcd04eb9964a935b93e96eebbf328",
+    "title": "Ancient ‘Who owns Linux?’ case now has one foot very deep in the grave",
+    "link": "https://www.theregister.com/software/2026/08/24/ancient-who-owns-linux-case-now-has-one-foot-very-deep-in-the-grave/5291513",
+    "summary": "Appeals court upholds decision the case is dead, but Xinuos is trying for a long-shot re-hearing",
+    "isoDate": "2026-08-23T23:50:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=260653&width=800",
     "pinned": false
   },
   {
@@ -306,6 +726,36 @@
     "pinned": false
   },
   {
+    "id": "0f84c77048ab6009375688cbefe6eabbfd3eb1c4",
+    "title": "How Cursor beat Git's scalability shortcomings",
+    "link": "https://www.theregister.com/devops/2026/08/23/how-cursor-beat-gits-scalability-shortcomings/5291421",
+    "summary": "S3 keeps the source of truth while local NVMe repositories do the latency-sensitive work",
+    "isoDate": "2026-08-23T13:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291465&width=800",
+    "pinned": false
+  },
+  {
+    "id": "20dffac77ac66737eba89431201e4a8f9f8e150b",
+    "title": "An ultra-rare piece of Microsoft history could be hiding on your shelf",
+    "link": "https://www.theregister.com/offbeat/2026/08/23/an-ultra-rare-piece-of-microsoft-history-could-be-hiding-on-your-shelf/5291118",
+    "summary": "Red Tetris stickers and shirtless Windows 95 tots - accidental collectibles gathering dust",
+    "isoDate": "2026-08-23T12:32:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682578&width=800",
+    "pinned": false
+  },
+  {
     "id": "0d50cbd1b3b1a71bc343b58d2933fd8e2373a0d6",
     "title": "Volcanoes that made history",
     "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
@@ -337,6 +787,21 @@
     "pinned": false
   },
   {
+    "id": "e27266507cd21b897783f55381bc8669900239e5",
+    "title": "If you're not using AI to attack your own systems, your adversaries will",
+    "link": "https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346",
+    "summary": "Agents are also the new attack surface - cue defenders' existential angst",
+    "isoDate": "2026-08-22T15:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5270164&width=800",
+    "pinned": false
+  },
+  {
     "id": "5bdf5247ab04db7c79d0455cacc44a71fb767c46",
     "title": "Tesla Confirms Date for Cybercab Event; Sends Out Invites",
     "link": "https://www.notateslaapp.com/news/4600/tesla-confirms-date-for-cybercab-event-sends-out-invites",
@@ -347,6 +812,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-event-1787405360.webp/0e2ea04e995407634b1f288917baa2bd/cybercab-event-1787405360.jpg",
+    "pinned": false
+  },
+  {
+    "id": "35209cf100cae66e81a0092c75318c0e2554dd60",
+    "title": "AI slop is good for business if you know what you're doing",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/22/ai-slop-is-good-for-business-if-you-know-what-youre-doing/5291382",
+    "summary": "Your irresponsibility is someone else's opportunity",
+    "isoDate": "2026-08-22T13:19:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5230118&width=800",
     "pinned": false
   },
   {
@@ -390,6 +870,51 @@
     "pinned": false
   },
   {
+    "id": "b904bb6f56abac606d5eb7832b7a1ea28f5b2043",
+    "title": "Skylab completists, clear some shelf space for 26 DVDs",
+    "link": "https://www.theregister.com/offbeat/2026/08/22/skylab-completists-clear-some-shelf-space-for-26-dvds/5290531",
+    "summary": "Decades of archive hunting recover downlinks, silent reels, and footage once thought lost",
+    "isoDate": "2026-08-22T09:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=241602&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fa06fc15bd88d13886fad2471be8a14dc550ce8a",
+    "title": "Casio decides it's about time the simple digital watch got a little smarter",
+    "link": "https://www.theregister.com/personal-tech/2026/08/22/casio-decides-its-about-time-the-simple-digital-watch-got-a-little-smarter/5291223",
+    "summary": "F-B100W adds Bluetooth and step tracking while keeping a two-year battery",
+    "isoDate": "2026-08-22T08:43:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291261&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9feb1564008796a5f8f0a51f74292e196cb5138c",
+    "title": "AWS Security makes an inscrutable choice",
+    "link": "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
+    "summary": "Quarantining leaked credentials is not good enough",
+    "isoDate": "2026-08-21T23:42:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291460&width=800",
+    "pinned": false
+  },
+  {
     "id": "f90858f43fcf59fb54ad5f66c0c0e9afaa1a7d6e",
     "title": "Trump's space transportation policy calls for new spaceport on federal land",
     "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
@@ -411,6 +936,21 @@
     "pinned": false
   },
   {
+    "id": "7fc9ea1241d061fd64d627b93a0d33c4d423cf93",
+    "title": "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says",
+    "link": "https://www.theregister.com/saas/2026/08/21/salesforce-partners-not-seeing-meaningful-revenue-from-agentforce-ai-platform-report-says/5291167",
+    "summary": "Show us the money",
+    "isoDate": "2026-08-21T20:50:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=1683935&width=800",
+    "pinned": false
+  },
+  {
     "id": "f7d709790eca66051829c1bd90910d294d815877",
     "title": "Thunder + fiber-optic cabling used for seismic imaging",
     "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
@@ -428,6 +968,21 @@
       "thunderquake"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "19982bba45a33781a3e0da98b6fa50eedefd13f4",
+    "title": "AI companies are burning books, advocates complain to FTC",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/21/ai-companies-are-burning-books-advocates-complain-to-ftc/5291299",
+    "summary": "Fahrenheit 203, the temperature GPUs stop gorging on literature",
+    "isoDate": "2026-08-21T20:23:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=233661&width=800",
     "pinned": false
   },
   {
@@ -514,6 +1069,66 @@
     "pinned": false
   },
   {
+    "id": "1f5674b193f94fbb942fc1294ec02713b63ae94a",
+    "title": "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it",
+    "link": "https://www.theregister.com/patches/2026/08/21/homeland-security-cybercops-say-patch-trueconf-russias-zoom-if-youre-using-it/5291156",
+    "summary": "Ukrainian hacktivists exploiting the bugs, but TrueConf's reach stretches well beyond home turf",
+    "isoDate": "2026-08-21T16:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "patches"
+    ],
+    "image": "https://image.theregister.com/?imageId=5291189&width=800",
+    "pinned": false
+  },
+  {
+    "id": "21921abf4d5d2e404ceceea2bf6fd7419e9cdd9e",
+    "title": "Musk fumbles the timetable for first Starship catch",
+    "link": "https://www.theregister.com/offbeat/2026/08/21/musk-fumbles-the-timetable-for-first-starship-catch/5291201",
+    "summary": "Billionaire walks back earnings call optimism as orbital test approaches",
+    "isoDate": "2026-08-21T16:14:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5246434&width=800",
+    "pinned": false
+  },
+  {
+    "id": "66a35317a0965b5521905e83e71d263e7b923a5b",
+    "title": "SickKids children’s hospital bandages up careers website after intruder breaks in",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/21/sickkids-childrens-hospital-bandages-up-careers-website-after-intruder-breaks-in/5291098",
+    "summary": "Toronto org says it wasn’t the only one to be affected by the third-party software vulnerability",
+    "isoDate": "2026-08-21T15:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=235319&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b4e2cbcd7bd99dcb5107e82e95ab1f8ddabf8645",
+    "title": "Hackers poison popular Rust crates to steal developers' credentials",
+    "link": "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075",
+    "summary": "Malicious updates turned routine builds into a delivery system for infostealer malware",
+    "isoDate": "2026-08-21T14:57:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682371&width=800",
+    "pinned": false
+  },
+  {
     "id": "6ac24dc505f13bafb5d138b7c25210f167203b76",
     "title": "Tesla’s Solar Roof Is Being Discontinued After 10 Years",
     "link": "https://www.notateslaapp.com/news/4597/teslas-solar-roof-is-being-discontinued-after-10-years",
@@ -524,6 +1139,81 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/energy/0x0-solarroof_03.webp/c1c05d08de797b1f9e034b7648d3e75e/0x0-solarroof_03.jpg",
+    "pinned": false
+  },
+  {
+    "id": "02aadc6e9ad3166b0b571d20ce98b49f188cd64b",
+    "title": "AMD grabs more CPU share while pricier PCs punish desktop demand",
+    "link": "https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053",
+    "summary": "Mercury Research blames costly memory and scarce GPUs for 20% processor shipment slide",
+    "isoDate": "2026-08-21T14:05:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094116&width=800",
+    "pinned": false
+  },
+  {
+    "id": "61c0d13fcbd71d20ab30612b5ee908a4406d4c1c",
+    "title": "'We let you down': GitHub pledges to scale up before developers give up",
+    "link": "https://www.theregister.com/devops/2026/08/21/we-let-you-down-github-pledges-to-scale-up-before-developers-give-up/5291031",
+    "summary": "CTO promises architectural overhaul following second outage of the month",
+    "isoDate": "2026-08-21T13:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682264&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a35522588b0166e53e066c86b4e7024c8de7c955",
+    "title": "$10K phishing kit claims it can plant rogue passkeys for persistent access to pwned accounts",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/21/10k-phishing-kit-claims-it-can-plant-rogue-passkeys-for-persistent-access-to-pwned-accounts/5291006",
+    "summary": "Seller's demos show a browser-in-the-middle attack adding credentials seconds after authentication",
+    "isoDate": "2026-08-21T12:18:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=229085&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f7961eb155534d6c31fc9cf9a6b077051e70477c",
+    "title": "Microsoft lets you swap New Outlook's looks with the face of Outlook Classic",
+    "link": "https://www.theregister.com/applications/2026/08/21/microsoft-lets-you-swap-new-outlooks-looks-with-the-face-of-outlook-classic/5290948",
+    "summary": "Functionality not all there yet, but at least Redmond's latest and greatest appears a bit more like its predecessor",
+    "isoDate": "2026-08-21T11:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5237731&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b6bfe25eb8758872c97eed77b3eb00f9c98b225b",
+    "title": "Microsoft sounds alarm over perfect-10 Entra ID flaw",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/21/microsoft-sounds-alarm-over-perfect-10-entra-id-flaw/5290925",
+    "summary": "Redmond says the cloud identity bug is already fixed",
+    "isoDate": "2026-08-21T10:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5211376&width=800",
     "pinned": false
   },
   {
@@ -555,6 +1245,21 @@
     "pinned": false
   },
   {
+    "id": "44bd60d5d19d9863a5e3d0d68ba55bd3ce712ce0",
+    "title": "Wi-Fi 7's WPA3 protections come with a compatibility catch",
+    "link": "https://www.theregister.com/networks/2026/08/21/wi-fi-7s-wpa3-protections-come-with-a-compatibility-catch/5289614",
+    "summary": "CableLabs wants hardware makers to embrace a workaround that keeps legacy kit connected",
+    "isoDate": "2026-08-21T09:14:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5239018&width=800",
+    "pinned": false
+  },
+  {
     "id": "ee4b8b1f340361bc78884a89ea1c28192466d1f0",
     "title": "Ivermectin is a genuinely great drug, but there’s no good evidence it can treat cancer",
     "link": "https://www.skeptic.org.uk/2026/08/ivermectin-is-a-genuinely-great-drug-but-theres-no-good-evidence-it-can-treat-cancer/",
@@ -568,6 +1273,21 @@
       "Cancer cures"
     ],
     "image": "",
+    "pinned": false
+  },
+  {
+    "id": "2adebb184f5616cf471cf3fba76e8eca523f1aaf",
+    "title": "Debian is 33, Haiku is 25, and neither is standing still",
+    "link": "https://www.theregister.com/os-platforms/2026/08/21/debian-is-33-haiku-is-25-and-neither-is-standing-still/5290144",
+    "summary": "One remains a pillar of Linux, while the other keeps the BeOS dream alive",
+    "isoDate": "2026-08-21T08:26:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5290207&width=800",
     "pinned": false
   },
   {
