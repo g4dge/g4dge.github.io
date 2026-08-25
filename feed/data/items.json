@@ -1,5 +1,63 @@
 [
   {
+    "id": "9e6ab0ca1e6888b049ac49da19a8edd8d15895d2",
+    "title": "US convicts ex-Philips engineer for exposing X-ray secrets to competitor",
+    "link": "https://www.theregister.com/legal/2026/08/25/us-convicts-ex-philips-engineer-for-exposing-x-ray-secrets-to-competitor/5292291",
+    "summary": "Dutch electronics giant saw right through ex-engineer’s plot, albeit over a year after it all unravelled",
+    "isoDate": "2026-08-25T14:43:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=261844&width=800",
+    "pinned": false
+  },
+  {
+    "id": "35e13a64a647aa962a0657defc716eeb88674a42",
+    "title": "Tesla Raises Cybertruck Prices by $5,000 — Will It Be Discontinued?",
+    "link": "https://www.notateslaapp.com/news/4605/tesla-raises-cybertruck-prices-by-5000-will-it-be-discontinued",
+    "summary": "Tesla raises Cybertruck prices by $5,000, pushing its cheapest truck to $74,990 just six months after its $59,990 debut. <a href=\"https://www.notateslaapp.com/news/4605/tesla-raises-cybertruck-prices-by-5000-will-it-be-discontinued\">Read More</a>",
+    "isoDate": "2026-08-25T14:40:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybertruck_armor_installed.jpg/fc5db164d8183247521c77b5fc891e14/cybertruck_armor_installed.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ee6762aaf6563e31b03f0f87ecfe19be14027982",
+    "title": "OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast",
+    "link": "https://www.theregister.com/systems/2026/08/25/openais-upcoming-jalapeno-chip-looks-like-itll-be-an-inference-beast/5292052",
+    "summary": "128 chips, 1.7 exaFLOPS, and 27 TB of HBM give Altman and crew a leg up over Blackwell, and maybe even Rubin",
+    "isoDate": "2026-08-25T14:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292307&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a1ca6174e132b9a31d307e56c594c1ee2efaafbc",
+    "title": "Windows XP was released to manufacturing a quarter of a century ago",
+    "link": "https://www.theregister.com/offbeat/2026/08/25/windows-xp-was-released-to-manufacturing-a-quarter-of-a-century-ago/5292240",
+    "summary": "So incredibly stable, govt branches, banks, and dentist offices still haven't figured out how to close it",
+    "isoDate": "2026-08-25T13:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=240382&width=800",
+    "pinned": false
+  },
+  {
     "id": "a037d648cf60b82d42319b9c8ecc4a8b485241b0",
     "title": "Apple's new desktop computers are designed specifically for local AI development",
     "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
@@ -20,6 +78,51 @@
       "macos 27"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-500x500-1787611186.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f4470307a2e279300cc2fdceda5857e6c9d3653d",
+    "title": "SiFive pushes development server to take RISC-V into the datacenter",
+    "link": "https://www.theregister.com/systems/2026/08/25/sifive-pushes-development-server-to-take-risc-v-into-the-datacenter/5292136",
+    "summary": "Rack-mount system intended for software porting, workload optimization, to bring open standard to the bitbarn",
+    "isoDate": "2026-08-25T12:13:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=246385&width=800",
+    "pinned": false
+  },
+  {
+    "id": "78142e91b9af2148ece10e811049e283012092a2",
+    "title": "Microsoft breaks WPF printing with .NET update",
+    "link": "https://www.theregister.com/os-platforms/2026/08/25/microsoft-breaks-wpf-printing-with-net-update/5292116",
+    "summary": "Summer in Redmond, Winter for everyone else",
+    "isoDate": "2026-08-25T11:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5244931&width=800",
+    "pinned": false
+  },
+  {
+    "id": "347937ebb6aa263121a1227dc152a948cc1bc7ac",
+    "title": "CISA slaps its tightest three-day patching deadline on perfect-10 Oracle flaw",
+    "link": "https://www.theregister.com/security/2026/08/25/cisa-slaps-its-tightest-three-day-patching-deadline-on-perfect-10-oracle-flaw/5292107",
+    "summary": "Disclosed in January and honeypots buzzed soon after, CISA says it’s finally time for the USG to plug the gap",
+    "isoDate": "2026-08-25T10:43:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682641&width=800",
     "pinned": false
   },
   {
@@ -1132,66 +1235,6 @@
     "pinned": false
   },
   {
-    "id": "1f5674b193f94fbb942fc1294ec02713b63ae94a",
-    "title": "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it",
-    "link": "https://www.theregister.com/patches/2026/08/21/homeland-security-cybercops-say-patch-trueconf-russias-zoom-if-youre-using-it/5291156",
-    "summary": "Ukrainian hacktivists exploiting the bugs, but TrueConf's reach stretches well beyond home turf",
-    "isoDate": "2026-08-21T16:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "patches"
-    ],
-    "image": "https://image.theregister.com/?imageId=5291189&width=800",
-    "pinned": false
-  },
-  {
-    "id": "21921abf4d5d2e404ceceea2bf6fd7419e9cdd9e",
-    "title": "Musk fumbles the timetable for first Starship catch",
-    "link": "https://www.theregister.com/offbeat/2026/08/21/musk-fumbles-the-timetable-for-first-starship-catch/5291201",
-    "summary": "Billionaire walks back earnings call optimism as orbital test approaches",
-    "isoDate": "2026-08-21T16:14:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5246434&width=800",
-    "pinned": false
-  },
-  {
-    "id": "66a35317a0965b5521905e83e71d263e7b923a5b",
-    "title": "SickKids children’s hospital bandages up careers website after intruder breaks in",
-    "link": "https://www.theregister.com/cyber-crime/2026/08/21/sickkids-childrens-hospital-bandages-up-careers-website-after-intruder-breaks-in/5291098",
-    "summary": "Toronto org says it wasn’t the only one to be affected by the third-party software vulnerability",
-    "isoDate": "2026-08-21T15:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=235319&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b4e2cbcd7bd99dcb5107e82e95ab1f8ddabf8645",
-    "title": "Hackers poison popular Rust crates to steal developers' credentials",
-    "link": "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075",
-    "summary": "Malicious updates turned routine builds into a delivery system for infostealer malware",
-    "isoDate": "2026-08-21T14:57:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682371&width=800",
-    "pinned": false
-  },
-  {
     "id": "6ac24dc505f13bafb5d138b7c25210f167203b76",
     "title": "Tesla’s Solar Roof Is Being Discontinued After 10 Years",
     "link": "https://www.notateslaapp.com/news/4597/teslas-solar-roof-is-being-discontinued-after-10-years",
@@ -1202,36 +1245,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/energy/0x0-solarroof_03.webp/c1c05d08de797b1f9e034b7648d3e75e/0x0-solarroof_03.jpg",
-    "pinned": false
-  },
-  {
-    "id": "02aadc6e9ad3166b0b571d20ce98b49f188cd64b",
-    "title": "AMD grabs more CPU share while pricier PCs punish desktop demand",
-    "link": "https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053",
-    "summary": "Mercury Research blames costly memory and scarce GPUs for 20% processor shipment slide",
-    "isoDate": "2026-08-21T14:05:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094116&width=800",
-    "pinned": false
-  },
-  {
-    "id": "61c0d13fcbd71d20ab30612b5ee908a4406d4c1c",
-    "title": "'We let you down': GitHub pledges to scale up before developers give up",
-    "link": "https://www.theregister.com/devops/2026/08/21/we-let-you-down-github-pledges-to-scale-up-before-developers-give-up/5291031",
-    "summary": "CTO promises architectural overhaul following second outage of the month",
-    "isoDate": "2026-08-21T13:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682264&width=800",
     "pinned": false
   },
   {
@@ -1447,19 +1460,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-1787062863.webp/d9e39963217a1d9ad2f5b559e9440682/cybercab-1787062863.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b3bdb156999dcc86babd2d8fb6efb34b705e3b3a",
-    "title": "Tesla Adds Sliding Center Console Trays for the New Model Y to Its Shop",
-    "link": "https://www.notateslaapp.com/news/4587/tesla-adds-sliding-center-console-trays-for-the-new-model-y-to-its-shop",
-    "summary": "Tesla has launched a $40 three-piece center console tray set for 2025+ Model Y Premium and Performance vehicles. <a href=\"https://www.notateslaapp.com/news/4587/tesla-adds-sliding-center-console-trays-for-the-new-model-y-to-its-shop\">Read More</a>",
-    "isoDate": "2026-08-18T14:07:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/console-tray-2.webp/df2759ac8b2c007505a102ac7fc4f1ca/console-tray-2.jpg",
     "pinned": false
   }
 ]
