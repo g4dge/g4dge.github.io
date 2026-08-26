@@ -1,5 +1,73 @@
 [
   {
+    "id": "d0606a5bd0ac1b4e78215fe7ba27e096e7fc5c8b",
+    "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
+    "link": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
+    "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates.",
+    "isoDate": "2026-08-26T15:45:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "broadcast tv",
+      "FCC"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/vote-sign-500x500-1787756263.jpg",
+    "pinned": false
+  },
+  {
+    "id": "84e3a366c55e0451a5efdeabbe867b060e888ad2",
+    "title": "Boston Scientific discloses 'global disruption' in ongoing cyberattack",
+    "link": "https://www.theregister.com/security/2026/08/26/boston-scientific-discloses-global-disruption-in-ongoing-cyberattack/5292641",
+    "summary": "No timeline to restore IT systems as probe remains ongoing",
+    "isoDate": "2026-08-26T15:44:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292654&width=800",
+    "pinned": false
+  },
+  {
+    "id": "140ec8d3c037af1db101f185289a09936637d469",
+    "title": "Carhartt data breach affects 12.9M, half of what ShinyHunters claimed",
+    "link": "https://www.theregister.com/security/2026/08/26/carhartt-data-breach-affects-129m-half-of-what-shinyhunters-claimed/5292626",
+    "summary": "One AI and two trained eyes delved into the heavily padded leaks",
+    "isoDate": "2026-08-26T15:13:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292647&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7f957bf50eda31451e7bb0dee4cc2be973b7138c",
+    "title": "Researchers get two genetic codes to work at the same time",
+    "link": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
+    "summary": "Messing with the genetic code might have gotten a bit easier to do.",
+    "isoDate": "2026-08-26T15:00:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "genetic code",
+      "Genetics",
+      "ribosome",
+      "RNA",
+      "synthetic biology",
+      "translation"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2080373895-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "197893cc7de857c9204deab0aaeeb3a15d6f3be3",
     "title": "Microsoft sketches out a Whiteboard extension",
     "link": "https://www.theregister.com/personal-tech/2026/08/26/microsoft-sketches-out-a-whiteboard-extension/5292608",
@@ -959,22 +1027,6 @@
     "pinned": false
   },
   {
-    "id": "6e4e9a92223f963f87c2c70ffe19cc9e42060c8e",
-    "title": "GM vehicles under federal scrutiny after hundreds of reports",
-    "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-    "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
-    "isoDate": "2026-08-24T19:42:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "General Motors"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/Lyriq-V015_v4-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "ea30867c8ca022faff2977bddfaf7883de98e267",
     "title": "Conjure cash with old Macs by linking them to AI inference Borg",
     "link": "https://www.theregister.com/ai-and-ml/2026/08/24/conjure-cash-with-old-macs-by-linking-them-to-ai-inference-borg/5292002",
@@ -1000,27 +1052,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/camera-housing-patent.webp/e6f8b7e2bcf7f2be92232fccb7f5edbc/camera-housing-patent.jpg",
-    "pinned": false
-  },
-  {
-    "id": "74e7cf421fbc26e24bf412c736b4204ba598d9a5",
-    "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-    "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-    "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
-    "isoDate": "2026-08-24T19:19:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "AliExpress",
-      "browser fingerprinting",
-      "chromium",
-      "firefox",
-      "Safari"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-500x500.jpeg",
     "pinned": false
   },
   {
@@ -1184,51 +1215,6 @@
       "cyber-crime"
     ],
     "image": "https://image.theregister.com/?imageId=5235702&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ac0117c900075c6d32d6ce0f00ed584eb40fe8d8",
-    "title": "Chipmakers laughing all the way to the vault as memory prices go stratospheric",
-    "link": "https://www.theregister.com/systems/2026/08/24/chipmakers-laughing-all-the-way-to-the-vault-as-memory-prices-go-stratospheric/5291690",
-    "summary": "Gartner reckons $1.6 trillion year is just the start, and don't expect a bust anytime soon",
-    "isoDate": "2026-08-24T13:40:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=1673877&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ac9dc3926923734620b0de57d331a11b7069aea9",
-    "title": "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg",
-    "link": "https://www.theregister.com/applications/2026/08/24/i-picked-task-manager-to-see-how-ready-ai-is-for-primetime-or-if-it-would-just-degrade-to-slop-og-dev-talks-to-the-reg/5291639",
-    "summary": "Original author of legendary 1996 system utility tries to answer the question: 'How would I do it today?'",
-    "isoDate": "2026-08-24T13:03:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "applications"
-    ],
-    "image": "https://image.theregister.com/?imageId=5291651&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d9f01e965d068e1948c883e662b9ba6cce3887e3",
-    "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
-    "link": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662",
-    "summary": "Sawtooth waves you can't hear still mess with your Bluetooth. Firefox and Brave say they've got you covered",
-    "isoDate": "2026-08-24T12:32:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=257881&width=800",
     "pinned": false
   },
   {
@@ -1458,19 +1444,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/modelyl_na_79.jpg/3001cf281fe828eaab15e5762dae089e/modelyl_na_79.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b89bd471d281e25ad60943525345ed45293c1d20",
-    "title": "Tesla Cybercab UI Reveals Split-Screen Map, Roaming and Rodeo Controls",
-    "link": "https://www.notateslaapp.com/news/4591/tesla-cybercab-ui-reveals-split-screen-map-roaming-and-rodeo-controls",
-    "summary": "A close look at Cybercab’s native interface reveals Rodeo controls, Robotaxi settings, a Roaming status and employee ride-review tools. <a href=\"https://www.notateslaapp.com/news/4591/tesla-cybercab-ui-reveals-split-screen-map-roaming-and-rodeo-controls\">Read More</a>",
-    "isoDate": "2026-08-19T16:19:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/cybercab-ui-4.webp/aa90d26fb9d1d7e66ffdf4841e4b577f/cybercab-ui-4.jpg",
     "pinned": false
   }
 ]
