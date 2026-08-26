@@ -1,5 +1,159 @@
 [
   {
+    "id": "e69eb14794455cd5102194b6dc98095b6ee7ed03",
+    "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+    "link": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+    "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
+    "isoDate": "2026-08-26T22:13:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "Obituaries",
+      "Tim Curry"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/horrorTOP-500x500-1754745298.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fbbe9e7cb9c58dc1f0a296f99cb69a424e5ba7ab",
+    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+    "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "summary": "Report shows Meta's challenges replacing people with AI agents.",
+    "isoDate": "2026-08-26T21:25:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "job losses",
+      "jobs",
+      "meta"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "afe32b98e71a05ff142bce904b45a27db0ecaafe",
+    "title": "Meta's new MTIA 400 chip has a split personality: Training AI and serving ads",
+    "link": "https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727",
+    "summary": "Faster than Blackwell, but still no replacement for AMD or Nvidia ... yet",
+    "isoDate": "2026-08-26T21:18:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5225674&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b805f98e369c68e32ae6e88bd046f3d001edd567",
+    "title": "Kubernetes cleans house, bins legacy kube-dns, IPVS, and cgroup v1",
+    "link": "https://www.theregister.com/devops/2026/08/26/kubernetes-cleans-house-bins-legacy-kube-dns-ipvs-and-cgroup-v1/5292717",
+    "summary": "K8s 1.37 also unsticks a Metrics API that has been lodged in beta status for nine years",
+    "isoDate": "2026-08-26T20:54:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292734&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1f2ea201e85d6662b717261948effc8e294bbb12",
+    "title": "New Twitter launches, says Musk's X gave up the name",
+    "link": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+    "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
+    "isoDate": "2026-08-26T20:49:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cyrus Farivar",
+    "tags": [
+      "Policy",
+      "legal",
+      "musk",
+      "Twitter"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/twitter-500x500-1787776286.jpg",
+    "pinned": false
+  },
+  {
+    "id": "64167e0d32255a8bbc5b8f7f8f4a87939140a3b0",
+    "title": "Flock shock rocks cop cam vendor as protests mount",
+    "link": "https://www.theregister.com/legal/2026/08/26/flock-shock-rocks-cop-cam-vendor-as-protests-mount/5292691",
+    "summary": "Database from legal advocacy group details growing unease with warrantless panopticon",
+    "isoDate": "2026-08-26T20:19:54Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292724&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c2daa75c6380b63fbb0e88607217a0386519e75a",
+    "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+    "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
+    "summary": "The bishops' snub comes as the state continues to attack vaccines.",
+    "isoDate": "2026-08-26T19:39:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "catholic",
+      "Florida",
+      "religious exemptions",
+      "vaccination",
+      "vaccination exemptions",
+      "vaccines"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-178446892-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e138211becc3f4278264813a653d8bcb6615dcea",
+    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+    "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+    "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+    "isoDate": "2026-08-26T19:19:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "gemini",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4375100d29be3dd315744eeec48d489d52952640",
+    "title": "More than 100 water systems were hit in July cyberattacks",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/26/more-than-100-water-systems-were-hit-in-july-cyberattacks/5292685",
+    "summary": "'These are test runs for a larger-scale attack'",
+    "isoDate": "2026-08-26T19:04:28Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=234409&width=800",
+    "pinned": false
+  },
+  {
     "id": "a40490241f51a3693974f1c472a936882a40f21b",
     "title": "Tesla Expands Robotaxi Hours and Says Unsupervised Fleet Is Larger and Smarter",
     "link": "https://www.notateslaapp.com/news/4619/tesla-expands-robotaxi-hours-and-says-unsupervised-fleet-is-larger-and-smarter",
@@ -306,7 +460,7 @@
     "id": "a86d164cb203eeb6f3d7bf01983097641edf2d03",
     "title": "SpaceX plans to plant $100B Starbase on Louisiana coast",
     "link": "https://www.theregister.com/offbeat/2026/08/26/spacex-plans-to-plant-100b-starbase-on-louisiana-coast/5292520",
-    "summary": "Plans to break ground in 2027, produce own propellent, power in 'self-sustaining' spaceport. All before Starship ships v1.0 orbit",
+    "summary": "Plans to break ground in 2027, produce its own propellant, and power a 'self-sustaining' spaceport. All before Starship ships v1.0 to orbit",
     "isoDate": "2026-08-26T11:29:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -687,25 +841,6 @@
     "pinned": false
   },
   {
-    "id": "c772e10a4a4f40c8663ceab9f058874675d569aa",
-    "title": "Lab supply companies have been selling antibodies using manipulated images",
-    "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
-    "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
-    "isoDate": "2026-08-25T16:16:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "antibodies",
-      "biochemistry",
-      "Biology",
-      "research fraud"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1184711342-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d35973d030c6338035050273eff10b56639052ed",
     "title": "You could've applied all 1,449 Oracle patches and still been hit by this attack",
     "link": "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335",
@@ -718,28 +853,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=234063&width=800",
-    "pinned": false
-  },
-  {
-    "id": "54c6c5c6faa9a8fdb294f5d17cc0b2ed2c816cce",
-    "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-    "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
-    "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
-    "isoDate": "2026-08-25T16:04:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "hack",
-      "headset",
-      "meta",
-      "oculus",
-      "quest",
-      "virtual reality",
-      "VR"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/quest1-500x500.png",
     "pinned": false
   },
   {
@@ -770,24 +883,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=253985&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c1c1e3cb931cd4f26d7f7d3a35f1623405e3e5c7",
-    "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-    "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-    "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
-    "isoDate": "2026-08-25T15:10:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Lola Butcher, Knowable Magazine",
-    "tags": [
-      "AI",
-      "Health",
-      "Radiology",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280376449-500x500.jpg",
     "pinned": false
   },
   {
@@ -859,29 +954,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=240382&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a037d648cf60b82d42319b9c8ecc4a8b485241b0",
-    "title": "Apple's new desktop computers are designed specifically for local AI development",
-    "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-    "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-    "isoDate": "2026-08-25T13:00:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Apple",
-      "M5 Pro",
-      "m5 ultra",
-      "M6",
-      "Mac",
-      "Mac mini",
-      "Mac Studio",
-      "macos 27"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-500x500-1787611186.jpg",
     "pinned": false
   },
   {
@@ -1035,27 +1107,6 @@
     "pinned": false
   },
   {
-    "id": "f2e956db9deea37e3edbde97fcc0f41a1fec9819",
-    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-    "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-    "isoDate": "2026-08-24T21:45:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "economy",
-      "employment",
-      "job losses",
-      "jobs",
-      "research",
-      "standford"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-500x500-1787606429.jpg",
-    "pinned": false
-  },
-  {
     "id": "8ceef692fde333cf5345f4ce38ef903e692740ed",
     "title": "You don't want this Sleepwalker backdoor on your Windows machine",
     "link": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021",
@@ -1068,31 +1119,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5292027&width=800",
-    "pinned": false
-  },
-  {
-    "id": "743a13d8b15630a361d9bdef525129668607c9b7",
-    "title": "Data centers become \"killer application\" for new power transformer tech",
-    "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-    "summary": "Solid-state transformers could also benefit EV charging and, someday, households.",
-    "isoDate": "2026-08-24T21:32:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "AI chips",
-      "ai data centers",
-      "data centers",
-      "electricity",
-      "electricity demand",
-      "electricity grid",
-      "EV charging",
-      "power grids",
-      "power transformers",
-      "solid-state transformers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-500x500.jpg",
     "pinned": false
   },
   {
@@ -1182,51 +1208,6 @@
     "pinned": false
   },
   {
-    "id": "6e30ecf3ebf49d727434ec9bf8806d5f24896307",
-    "title": "Iran-linked cyberattack shut down a UK power plant",
-    "link": "https://www.theregister.com/security/2026/08/24/iran-linked-cyberattack-shut-down-a-uk-power-plant/5291930",
-    "summary": "No risk to wider energy system, government tells The Reg",
-    "isoDate": "2026-08-24T16:59:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5291980&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4bb0b42c80eef1aea37e00369c7f71f27b8a85c9",
-    "title": "Logitech hit by sueball over tariff refunds",
-    "link": "https://www.theregister.com/legal/2026/08/24/logitech-hit-by-sueball-over-tariff-refunds/5291845",
-    "summary": "Complaint: Peripheral maker did not want to unplug itself from higher prices and hand back cash to customers",
-    "isoDate": "2026-08-24T16:34:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=1684065&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e1c30c7ae61679651a0b756bd74b835ff603a180",
-    "title": "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/24/users-mash-linkedins-ai-slop-button-1m-times-in-3-weeks/5291802",
-    "summary": "Or: Shock as users of world's largest slop repository report lots of slop",
-    "isoDate": "2026-08-24T16:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=231279&width=800",
-    "pinned": false
-  },
-  {
     "id": "716f9263b501a03b3544adbaa2cef476cf6debcb",
     "title": "Tesla Quietly Discounts Items in the Tesla Shop Including Commemorative Vehicle Set",
     "link": "https://www.notateslaapp.com/news/4602/tesla-quietly-discounts-several-items-in-the-tesla-shop-including-its-commemorative-vehicle-set",
@@ -1237,21 +1218,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/vehicle-speedform-set-2.webp/9e01d3f66018799847411c246dc0f7ad/vehicle-speedform-set-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "01343ae01f567f237d0531296aa4768cb6049257",
-    "title": "Emperor Penguin Linus Torvalds banishes a bug – with a bot",
-    "link": "https://www.theregister.com/os-platforms/2026/08/24/linus-torvalds-banishes-linux-bug-with-a-bot/5291784",
-    "summary": "The lad himself finds and fixes a tricky one… or does he?",
-    "isoDate": "2026-08-24T15:32:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5291813&width=800",
     "pinned": false
   },
   {
