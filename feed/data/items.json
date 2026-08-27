@@ -1,5 +1,95 @@
 [
   {
+    "id": "88d0f1c4d42153e3bbed00994e3dd5eb301ba25f",
+    "title": "Check out the width of that Debian display",
+    "link": "https://www.theregister.com/offbeat/2026/08/27/check-out-the-width-of-that-debian-display/5292353",
+    "summary": "Somebody might be aware, but does anyone care?",
+    "isoDate": "2026-08-27T09:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292357&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9c3524d53df960ae10ba797a0d8a943d944e08f2",
+    "title": "AI use among UK teachers doubles, but working hours still don't come down",
+    "link": "https://www.theregister.com/public-sector/2026/08/27/ai-use-among-uk-teachers-doubles-but-working-hours-still-dont-come-down/5292551",
+    "summary": "F- for AI in test of reducing burden of teacher workload",
+    "isoDate": "2026-08-27T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=235977&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6c83a5e1f90f28345d5bc088a007646f88f2f039",
+    "title": "You could own AI.slop, if applicant for new global top-level domains get their way",
+    "link": "https://www.theregister.com/networks/2026/08/27/you-could-own-aislop-if-applicant-for-new-global-top-level-domains-get-their-way/5292831",
+    "summary": "Resistance is futile: .borg is on the list, along with .itiswhatitis, .therapy, and.hype. If that’s scary, might a cup of .tea help?",
+    "isoDate": "2026-08-27T06:39:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5230118&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8ac8374bc9b5da5040b58822b5129067729e5a31",
+    "title": "Nutanix built $20m AI cluster to reduce use of Copilot and Claude, expects ROI in a year",
+    "link": "https://www.theregister.com/virtualization/2026/08/27/nutanix-built-20m-ai-cluster-to-reduce-use-of-copilot-and-claude-expects-roi-in-a-year/5292823",
+    "summary": "Also thinks Arm can give it a hand on the edge during RAMpocalypse",
+    "isoDate": "2026-08-27T05:21:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292828&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ea040d41476c68d9a5f74cf3f26dfcbc63231491",
+    "title": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
+    "link": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742",
+    "summary": "Beijing's botnets busted.",
+    "isoDate": "2026-08-27T00:06:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=261947&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5508f8d2af2a350535e3cc0a8f3f58d6117e1b62",
+    "title": "OpenAI explains how its naughty AI agents attacked Hugging Face",
+    "link": "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780",
+    "summary": "Biz describes its act of automated irresponsibility as 'a warning shot'",
+    "isoDate": "2026-08-26T23:45:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=255325&width=800",
+    "pinned": false
+  },
+  {
     "id": "e69eb14794455cd5102194b6dc98095b6ee7ed03",
     "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
     "link": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
@@ -1092,51 +1182,6 @@
     "pinned": false
   },
   {
-    "id": "bbf0dbf1df0efaee10321de71d2a34b99243887f",
-    "title": "Microsoft AI watermarks in Paint and Photos are linked to user IDs, researcher finds",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/microsoft-ai-watermarks-in-paint-and-photos-are-linked-to-user-ids-researcher-finds/5292034",
-    "summary": "Privacy? Not if you use hosted AI services",
-    "isoDate": "2026-08-25T00:10:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=261247&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8ceef692fde333cf5345f4ce38ef903e692740ed",
-    "title": "You don't want this Sleepwalker backdoor on your Windows machine",
-    "link": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021",
-    "summary": "Its own command language, 23 instructions - signs point to 'well-resourced operation rather than an opportunistic one'",
-    "isoDate": "2026-08-24T21:39:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5292027&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3eb305ada461938f15411dfe5942feb0ca6c9c2b",
-    "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks",
-    "link": "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015",
-    "summary": "Glassbox dev admits he had some help from Claude to build locally running tool",
-    "isoDate": "2026-08-24T21:07:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=254347&width=800",
-    "pinned": false
-  },
-  {
     "id": "cca624074a1fdd8310bdf39ee3d7332faf4e297e",
     "title": "Tesla Begins Rolling Out Summer Update to FSD Vehicles in Europe",
     "link": "https://www.notateslaapp.com/news/4604/tesla-begins-rolling-out-summer-update-to-fsd-vehicles-in-europe",
@@ -1150,21 +1195,6 @@
     "pinned": false
   },
   {
-    "id": "ea30867c8ca022faff2977bddfaf7883de98e267",
-    "title": "Conjure cash with old Macs by linking them to AI inference Borg",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/24/conjure-cash-with-old-macs-by-linking-them-to-ai-inference-borg/5292002",
-    "summary": "Darkbloom distributed inference network promises to put underutilized Apple kit to work",
-    "isoDate": "2026-08-24T19:40:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=235164&width=800",
-    "pinned": false
-  },
-  {
     "id": "ca28fc026cd6c150b51acdce2e05ce33e434645f",
     "title": "Tesla Patent Helps Keep FSD Cameras Clear by Preventing Windshield Haze",
     "link": "https://www.notateslaapp.com/news/4603/tesla-patent-helps-keep-fsd-cameras-clear-by-preventing-windshield-haze",
@@ -1175,36 +1205,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/camera-housing-patent.webp/e6f8b7e2bcf7f2be92232fccb7f5edbc/camera-housing-patent.jpg",
-    "pinned": false
-  },
-  {
-    "id": "13800f333d18287a34c09971c51117a21dc9568a",
-    "title": "Windows NT 4 went on sale 30 years ago today",
-    "link": "https://www.theregister.com/os-platforms/2026/08/24/windows-nt-4-went-on-sale-30-years-ago-today/5291938",
-    "summary": "The version that started to bring all Microsoft’s pieces together",
-    "isoDate": "2026-08-24T17:43:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5291999&width=800",
-    "pinned": false
-  },
-  {
-    "id": "246d0fd5c610722144b3c9ad6626077ba72df56c",
-    "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
-    "link": "https://www.theregister.com/systems/2026/08/24/youtubers-backyard-fab-ambitions-expand-from-ram-to-homebrew-leds/5291956",
-    "summary": "Dr. Semiconductor's latest project lights the path toward what he tells us he hopes becomes a cottage chip industry",
-    "isoDate": "2026-08-24T17:22:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5291973&width=800",
     "pinned": false
   },
   {
