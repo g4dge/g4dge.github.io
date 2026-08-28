@@ -1,5 +1,123 @@
 [
   {
+    "id": "a2a1f73617a8bbd45eb05af52793cb390e773ec6",
+    "title": "Anthropic proposes plumbing spec to link AI agents to lab kit and robots",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
+    "summary": "Say you're trying to enrich Uranium and your centrifuges broke - soon it will be easy to connect an AI to figure out why",
+    "isoDate": "2026-08-27T23:22:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293144&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ce409be732eeb305baf5c69c0ca743895ab6d73f",
+    "title": "Nvidia and Cerebras are selling performance their customers will (probably) never see",
+    "link": "https://www.theregister.com/systems/2026/08/27/nvidia-and-cerebras-are-selling-performance-their-customers-will-probably-never-see/5293117",
+    "summary": "Touting batch 1 token generation is a bit like boasting about the top speed of your car",
+    "isoDate": "2026-08-27T22:57:43Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=251642&width=800",
+    "pinned": false
+  },
+  {
+    "id": "77020aa53dd6024f51b258e5e8cce60689cb07cd",
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "summary": "Standardized driver interface  aims to let devices talk to AI and each other.",
+    "isoDate": "2026-08-27T22:15:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Amazon Web Services",
+      "Anthropic",
+      "automata",
+      "clause",
+      "robots"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "bb5681e20e3bff91714265e258f7a6b4336f3d98",
+    "title": "CRPx0 hacking service for dummies claims victim count more than quintupled",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/27/crpx0-hacking-service-for-dummies-claims-victim-count-more-than-quintupled/5293097",
+    "summary": "It's 'built to be operated by a human with no technical background'",
+    "isoDate": "2026-08-27T21:24:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293114&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bf19a10534ab2866ba92301c101acd77be134507",
+    "title": "Cyborg cockroaches may soon deliver life-saving drugs to disaster victims",
+    "link": "https://www.theregister.com/offbeat/2026/08/27/cyborg-cockroaches-may-soon-deliver-life-saving-drugs-to-disaster-victims/5293081",
+    "summary": "Just what you want crawling through the rubble to rescue you: A swarm of remote-controlled cockroaches with syringe-shooting guns strapped to their backs",
+    "isoDate": "2026-08-27T21:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293085&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4d05f8bb9094f1e73ce7127150d80639a28bc0d6",
+    "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
+    "isoDate": "2026-08-27T20:52:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai csam",
+      "child pornography",
+      "child sex abuse materials",
+      "csam",
+      "Elon Musk",
+      "grok",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280412936-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d4f56c043d4a2ecbc278643ebec2d78d7d3b0a4f",
+    "title": "Police investigating possible forgery at AFRINIC election",
+    "link": "https://www.theregister.com/networks/2026/08/27/police-investigating-possible-forgery-at-afrinic-election/5293100",
+    "summary": "The regional internet registry is also trying to make it easier to terminate members",
+    "isoDate": "2026-08-27T20:38:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5292279&width=800",
+    "pinned": false
+  },
+  {
     "id": "246b3636a67b23f4bdc5cb7115f2959b3e44187e",
     "title": "GOP heads to Supreme Court after losing case over TV election ad prices",
     "link": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
@@ -36,6 +154,36 @@
       "physical AI"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "108cd0681b2fa418730e2e8494ef93bfa5dfe3b3",
+    "title": "AI girlfriend review site's secrets were exposed to the world for three weeks",
+    "link": "https://www.theregister.com/security/2026/08/27/ai-girlfriend-review-sites-secrets-were-exposed-to-the-world-for-three-weeks/5293064",
+    "summary": "Even testing and staging sites need protection from prying eyes",
+    "isoDate": "2026-08-27T19:10:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293075&width=800",
+    "pinned": false
+  },
+  {
+    "id": "64f20b450844d087500ad74bc10b1eba5f72b2b6",
+    "title": "Google forces Android apps to use memory more wisely as RAMpocalypse rages",
+    "link": "https://www.theregister.com/software/2026/08/27/google-forces-android-apps-to-use-memory-more-wisely-as-rampocalypse-rages/5293071",
+    "summary": "No one can afford RAM anymore, so we're requiring devs to mind memory usage",
+    "isoDate": "2026-08-27T19:07:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293078&width=800",
     "pinned": false
   },
   {
@@ -109,6 +257,21 @@
     "pinned": false
   },
   {
+    "id": "a30221bd8a3f119adb12674993d674ab0c6000ab",
+    "title": "Omarchy distro gains serious backing",
+    "link": "https://www.theregister.com/os-platforms/2026/08/27/omarchy-distro-gains-serious-backing/5293026",
+    "summary": "Polarizing opinions while tech heavyweights put up $10M",
+    "isoDate": "2026-08-27T17:07:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293055&width=800",
+    "pinned": false
+  },
+  {
     "id": "cb6939d400439b26469bcd24a297f65615628d01",
     "title": "RFK Jr. goes full anti-vaccine bananas over two measles deaths—one was a newborn",
     "link": "https://arstechnica.com/health/2026/08/rfk-jr-spews-anti-vaccine-rubbish-as-newborn-revealed-to-have-died-from-measles/",
@@ -125,6 +288,21 @@
       "robert f kennedy jr"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f68a1f553b6406c777e8a33ed27aec1b2e83a0bc",
+    "title": "Hugging Face offers $399 robot duck to help you quack the AI code",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/27/hugging-face-offers-399-robot-duck-to-help-you-quack-the-ai-code/5293011",
+    "summary": "Microduck from Pollen Robotics runs on open source software, is just 25cm tall, and is ready to play out of the box",
+    "isoDate": "2026-08-27T16:25:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293032&width=800",
     "pinned": false
   },
   {
@@ -718,24 +896,6 @@
     "pinned": false
   },
   {
-    "id": "bb40d847718984a92a886f87cd3cae3e478e098a",
-    "title": "The Porsche 911 GT3 Touring punches above its weight class",
-    "link": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
-    "summary": "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag.",
-    "isoDate": "2026-08-26T17:25:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Bradley Iger",
-    "tags": [
-      "Cars",
-      "car review",
-      "Porsche 911 GT3",
-      "Porsche 911 GT3 Touring"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/09-992.2-Porsche-911-GT3-Touring-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3c2ded6dc1a876dc78c5899ad4b1dbf82f8f01cc",
     "title": "Tesla Updates App to v4.60: Passkey Support, Powershare and Wallet Improvements",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.60.0/release-notes",
@@ -761,26 +921,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=5292674&width=800",
-    "pinned": false
-  },
-  {
-    "id": "07782fdd28c9cc6b91043ba3040a01e31b3e6ca9",
-    "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
-    "link": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
-    "summary": "\"Most\" Xbox One and Series X games are compatible; discs will still work after being claimed.",
-    "isoDate": "2026-08-26T16:59:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "digital",
-      "disc",
-      "microsoft",
-      "physical",
-      "XBox"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/disccrack-500x500.jpg",
     "pinned": false
   },
   {
@@ -1067,51 +1207,6 @@
     "pinned": false
   },
   {
-    "id": "9baf1febdbe0a95b8339151a546b61ed78955a45",
-    "title": "Claude and Cowork now share what they know about you",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/claude-and-cowork-now-share-what-they-know-about-you/5292412",
-    "summary": "Shared memory is live, with no option to separate it between services, Anthropic tells us; Claude Code stays apart for now",
-    "isoDate": "2026-08-25T19:54:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=222766&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b8610be2a39d1167334b07a462d66e4d54fe3024",
-    "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388",
-    "summary": "Fasten your seatbelt and empty that bladder: AI investment is rising, but reported enterprise earnings impact remains stubbornly flat",
-    "isoDate": "2026-08-25T17:44:49Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=234929&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c39fe54e82db2b402c7a60cd0697c57f01f62794",
-    "title": "EPA to drop requirement for public notice of polluting datacenters",
-    "link": "https://www.theregister.com/on-prem/2026/08/25/epa-to-drop-requirement-for-public-notice-of-polluting-datacenters/5292341",
-    "summary": "State and local regulators would decide whether the public gets a say on minor-source permits",
-    "isoDate": "2026-08-25T16:40:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5292360&width=800",
-    "pinned": false
-  },
-  {
     "id": "0d862494830598017b6c08b76681970efbc71694",
     "title": "Tesla Announces Tesla Semi Event at New Nevada Factory",
     "link": "https://www.notateslaapp.com/news/4607/tesla-announces-tesla-semi-event-at-new-nevada-factory",
@@ -1122,51 +1217,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/semi/semi-basecharger-hero-4.webp/0ca0f84e4f570bf77033b176afd834b6/semi-basecharger-hero-4.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d35973d030c6338035050273eff10b56639052ed",
-    "title": "You could've applied all 1,449 Oracle patches and still been hit by this attack",
-    "link": "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335",
-    "summary": "Attackers now ready to exploit how things work, rather than just break them, says Oracle support expert",
-    "isoDate": "2026-08-25T16:09:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=234063&width=800",
-    "pinned": false
-  },
-  {
-    "id": "67ea5d220fbd2d04e4896283aa4ff95c42abdfb0",
-    "title": "Microsoft warns that transitioning Excel workbooks to new Exchange connectors might not be smooth sailing",
-    "link": "https://www.theregister.com/software/2026/08/25/microsoft-warns-that-transitioning-excel-workbooks-to-new-exchange-connectors-might-not-be-smooth-sailing/5292316",
-    "summary": "Current Exchange connector is retiring - and new ones won't work if you don't upgrade",
-    "isoDate": "2026-08-25T15:53:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=254628&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3d25b74a25eeffd3086fe7f75086788d03bd4514",
-    "title": "Slop factory bans Russians for using slop factory to create slop",
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297",
-    "summary": "OpenAI wants you to thank it for keeping a permanent record of all your discussions with its bots",
-    "isoDate": "2026-08-25T15:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=253985&width=800",
     "pinned": false
   },
   {
@@ -1183,21 +1233,6 @@
     "pinned": false
   },
   {
-    "id": "9e6ab0ca1e6888b049ac49da19a8edd8d15895d2",
-    "title": "US convicts ex-Philips engineer for exposing X-ray secrets to competitor",
-    "link": "https://www.theregister.com/legal/2026/08/25/us-convicts-ex-philips-engineer-for-exposing-x-ray-secrets-to-competitor/5292291",
-    "summary": "Dutch electronics giant saw right through ex-engineer’s plot, albeit over a year after it all unravelled",
-    "isoDate": "2026-08-25T14:43:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=261844&width=800",
-    "pinned": false
-  },
-  {
     "id": "35e13a64a647aa962a0657defc716eeb88674a42",
     "title": "Tesla Raises Cybertruck Prices by $5,000 — Will It Be Discontinued?",
     "link": "https://www.notateslaapp.com/news/4605/tesla-raises-cybertruck-prices-by-5000-will-it-be-discontinued",
@@ -1208,36 +1243,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybertruck_armor_installed.jpg/fc5db164d8183247521c77b5fc891e14/cybertruck_armor_installed.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ee6762aaf6563e31b03f0f87ecfe19be14027982",
-    "title": "OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast",
-    "link": "https://www.theregister.com/systems/2026/08/25/openais-upcoming-jalapeno-chip-looks-like-itll-be-an-inference-beast/5292052",
-    "summary": "128 chips, 1.7 exaFLOPS, and 27 TB of HBM give Altman and crew a leg up over Blackwell, and maybe even Rubin",
-    "isoDate": "2026-08-25T14:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5292307&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a1ca6174e132b9a31d307e56c594c1ee2efaafbc",
-    "title": "Windows XP was released to manufacturing a quarter of a century ago",
-    "link": "https://www.theregister.com/offbeat/2026/08/25/windows-xp-was-released-to-manufacturing-a-quarter-of-a-century-ago/5292240",
-    "summary": "So incredibly stable, govt branches, banks, and dentist offices still haven't figured out how to close it",
-    "isoDate": "2026-08-25T13:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=240382&width=800",
     "pinned": false
   },
   {
