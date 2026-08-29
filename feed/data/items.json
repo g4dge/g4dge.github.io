@@ -1,5 +1,54 @@
 [
   {
+    "id": "ba5cb7096f48bccff57d35877e5440ff678325ea",
+    "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+    "link": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+    "summary": "A lot of datacenter networks are run by absolute clowns. Not Amazon's",
+    "isoDate": "2026-08-29T13:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293383&width=800",
+    "pinned": false
+  },
+  {
+    "id": "01fb7eabcec4aa5be01ffb1b74dd99eb19ce14c1",
+    "title": "I asked 100 companies for my data. Some deleted it instead.",
+    "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+    "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+    "isoDate": "2026-08-29T10:50:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Reece Rodgers, wired.com",
+    "tags": [
+      "Policy",
+      "california consumer privacy act",
+      "CCPA",
+      "opt out",
+      "privacy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bc5c0949ae285a2159f550a4d98de60c3485615d",
+    "title": "Startup bags $7M to build drone-interceptor-in-a-backpack systems",
+    "link": "https://www.theregister.com/offbeat/2026/08/29/startup-bags-7m-to-build-drone-interceptor-in-a-backpack-systems/5293176",
+    "summary": "Spike drone defense system is designed to be carried in a rucksack or mounted on top of a vehicle",
+    "isoDate": "2026-08-29T10:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293180&width=800",
+    "pinned": false
+  },
+  {
     "id": "8f252e870b493462eb6de3000445a8397d461b07",
     "title": "Xbox respawns IKEA furniture with gaming range",
     "link": "https://www.theregister.com/offbeat/2026/08/29/xbox-respawns-ikea-furniture-with-gaming-range/5292911",
@@ -959,30 +1008,6 @@
     "pinned": false
   },
   {
-    "id": "bde7b5d130519e2b042a637bfd7bdc41fda307bc",
-    "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
-    "link": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
-    "summary": "\"We built this city on good cacao\" does have a nice ring to it.",
-    "isoDate": "2026-08-27T14:22:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kiona N. Smith",
-    "tags": [
-      "Science",
-      "ancient DNA",
-      "Archaeology",
-      "chaco canyon",
-      "etowah mounds",
-      "indigenous americans",
-      "indigenous North America",
-      "potsherds",
-      "Pre-Columbian civilizations",
-      "science"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/etowah_04_LRG-XL-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "032e8ee7b92320d689d516d4f608638ddaa00549",
     "title": "Tesla Launches Dog Mode Collection With Plushie, Toys and Apparel",
     "link": "https://www.notateslaapp.com/news/4620/tesla-launches-dog-mode-collection-with-plushie-toys-and-apparel",
@@ -1221,36 +1246,6 @@
     "pinned": false
   },
   {
-    "id": "64167e0d32255a8bbc5b8f7f8f4a87939140a3b0",
-    "title": "Flock shock rocks cop cam vendor as protests mount",
-    "link": "https://www.theregister.com/legal/2026/08/26/flock-shock-rocks-cop-cam-vendor-as-protests-mount/5292691",
-    "summary": "Database from legal advocacy group details growing unease with warrantless panopticon",
-    "isoDate": "2026-08-26T20:19:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=5292724&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4375100d29be3dd315744eeec48d489d52952640",
-    "title": "More than 100 water systems were hit in July cyberattacks",
-    "link": "https://www.theregister.com/cyber-crime/2026/08/26/more-than-100-water-systems-were-hit-in-july-cyberattacks/5292685",
-    "summary": "'These are test runs for a larger-scale attack'",
-    "isoDate": "2026-08-26T19:04:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=234409&width=800",
-    "pinned": false
-  },
-  {
     "id": "a40490241f51a3693974f1c472a936882a40f21b",
     "title": "Tesla Expands Robotaxi Hours and Says Unsupervised Fleet Is Larger and Smarter",
     "link": "https://www.notateslaapp.com/news/4619/tesla-expands-robotaxi-hours-and-says-unsupervised-fleet-is-larger-and-smarter",
@@ -1450,19 +1445,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-3/0x0-model-3_17.jpg/33091429550ee4d20456c9dfc11ce3a5/0x0-model-3_17.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5bdf5247ab04db7c79d0455cacc44a71fb767c46",
-    "title": "Tesla Confirms Date for Cybercab Event; Sends Out Invites",
-    "link": "https://www.notateslaapp.com/news/4600/tesla-confirms-date-for-cybercab-event-sends-out-invites",
-    "summary": "Tesla has begun sending Cybercab launch invitations confirming a September 3 event in Austin, Texas. <a href=\"https://www.notateslaapp.com/news/4600/tesla-confirms-date-for-cybercab-event-sends-out-invites\">Read More</a>",
-    "isoDate": "2026-08-22T13:31:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-event-1787405360.webp/0e2ea04e995407634b1f288917baa2bd/cybercab-event-1787405360.jpg",
     "pinned": false
   }
 ]
