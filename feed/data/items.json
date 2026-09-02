@@ -1,5 +1,79 @@
 [
   {
+    "id": "a94d0ae71979e25723c2efaae7d3f8af82b865f1",
+    "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+    "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+    "summary": "333 miles of real-world range with uncompromised comfort and off-road ability.",
+    "isoDate": "2026-09-01T23:01:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Range Rover Electric"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-500x500-1787913492.jpg",
+    "pinned": false
+  },
+  {
+    "id": "737b8e8d9326e21c667c6f6904c05624e195cefe",
+    "title": "Tesla Now Uses Grok Think Fast 2.0 With Summer Update",
+    "link": "https://www.notateslaapp.com/news/4638/tesla-now-uses-grok-think-fast-20-with-summer-update",
+    "summary": "In-cabin voice interactions in Tesla vehicles are getting a speed and intelligence upgrade with the Summer 2026 Software Update (version 2026.26 and later) <a href=\"https://www.notateslaapp.com/news/4638/tesla-now-uses-grok-think-fast-20-with-summer-update\">Read More</a>",
+    "isoDate": "2026-09-01T22:25:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-1.webp/af9875fa07b1d49ab631958f5aea7ed4/grok-ui-1.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e19c626f619c01c72c278c02f6671859496a53f9",
+    "title": "Another Artifactory CVE under attack by AI agents or humans",
+    "link": "https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
+    "summary": "Unauthenticated intruders can mint admin tokens, and exposed servers are already being hit",
+    "isoDate": "2026-09-01T21:07:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=230216&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a35e64974ea94d640fc08a7aadedc83ed89dfaec",
+    "title": "Attacker stole a METR API key, used $600K worth of credits, and no one noticed for weeks",
+    "link": "https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
+    "summary": "The model provider gave METR the credits for free. An actual customer would not have been so lucky",
+    "isoDate": "2026-09-01T20:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293753&width=800",
+    "pinned": false
+  },
+  {
+    "id": "94304d430b990b6edf0d13809e8e1f3cc9c755af",
+    "title": "Firefox helps iPhone users bypass ads on web sites while making money showing its own ads",
+    "link": "https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747",
+    "summary": "Baked-in Firefox ad blocking on iOS begins rolling out slowly today, and is off by default",
+    "isoDate": "2026-09-01T20:17:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=260206&width=800",
+    "pinned": false
+  },
+  {
     "id": "208250f4458da0cf45f09acb925f7690af533e59",
     "title": "Austrian Company Builds Automated NACS Charging Dock for Tesla Robotaxis",
     "link": "https://www.notateslaapp.com/news/4636/austrian-company-builds-automated-nacs-charging-dock-for-tesla-robotaxis",
@@ -10,6 +84,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-nacs-supercharger-docking-volteria.webp/74b0d5763e870feab0a9deae4a438240/tesla-nacs-supercharger-docking-volteria.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f246a9f9209ff20bfddd7636b36d61a8fc5d4c8d",
+    "title": "Anthropic pledges to try harder to keep models under control, asks partners to chip in",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
+    "summary": "Security ... this time it will be different",
+    "isoDate": "2026-09-01T19:27:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293744&width=800",
     "pinned": false
   },
   {
@@ -800,24 +889,6 @@
     "pinned": false
   },
   {
-    "id": "e629f13bcec4e2aec186a5885ba430a79198280b",
-    "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
-    "link": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
-    "summary": "\"We would need over half a million 4K TVs to fully display the single Roman image from our largest survey.\"",
-    "isoDate": "2026-08-31T13:01:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "Nancy Grace Roman Telescope",
-      "NASA"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HRAzV1dXYAEXjHy-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "366456c3d378b58738e58c2aead8c9adda9c20a3",
     "title": "From watches to passwords on paper, everything that's old is new again",
     "link": "https://www.theregister.com/offbeat/2026/08/31/from-watches-to-passwords-on-paper-everything-thats-old-is-new-again/5293348",
@@ -1339,66 +1410,6 @@
       "Society"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "d8c443e74200e4cc15f201e4ab35ca9478f83365",
-    "title": "BOFH: Schrödinger's petty cash puts us in a very awkward superposition",
-    "link": "https://www.theregister.com/bofh/2026/08/28/bofh-schroedingers-petty-cash-puts-us-in-a-very-awkward-superposition/5289510",
-    "summary": "Why oh why are the accountants stricter than the IRS and HMRC put together?",
-    "isoDate": "2026-08-28T08:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "bofh"
-    ],
-    "image": "https://image.theregister.com/?imageId=5252203&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0fc63cceef42be2eb61f7c974bcc306536b1a48b",
-    "title": "On Call: Exec couldn’t identify a photocopier, which made for a fax-inating tech support call",
-    "link": "https://www.theregister.com/personal-tech/2026/08/28/on-call-exec-couldnt-identify-a-photocopier-which-made-for-a-fax-inating-tech-support-call/5292838",
-    "summary": "One retro numeric keypad looks much like any other to some users",
-    "isoDate": "2026-08-28T06:37:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=245345&width=800",
-    "pinned": false
-  },
-  {
-    "id": "415d1fddbe611eb6f1efd19e3e474328dd0f13c5",
-    "title": "Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood",
-    "link": "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168",
-    "summary": "The fix is either an unvalidated and unofficial emergency patch or taking the server offline",
-    "isoDate": "2026-08-28T05:29:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293173&width=800",
-    "pinned": false
-  },
-  {
-    "id": "57ebab57114081437100d321d4c8d4b9004ebbc4",
-    "title": "Australian cops cuff alleged TeamPCP masterminds",
-    "link": "https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157",
-    "summary": "Alleged crew behind the Shai-Hulud worm and other supply chain attacks nabbed with help from the FBI",
-    "isoDate": "2026-08-28T03:33:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293164&width=800",
     "pinned": false
   },
   {
