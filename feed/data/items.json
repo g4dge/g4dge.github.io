@@ -1,5 +1,142 @@
 [
   {
+    "id": "4bcdf849548391dead9c3abd568576dd7490e372",
+    "title": "Haiku OS rises / Beta 6 sails open web / Virtual winds fly fast",
+    "link": "https://www.theregister.com/os-platforms/2026/09/03/haiku-os-rises-/-beta-6-sails-open-web-/-virtual-winds-fly-fast/5294184",
+    "summary": "A real alternative to running some kind of FOSS Unix clone",
+    "isoDate": "2026-09-03T13:46:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294198&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d44ccc0ba93d15f20138a138c48410b807f08330",
+    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+    "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+    "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+    "isoDate": "2026-09-03T13:34:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Michael Acton, Financial Times",
+    "tags": [
+      "AI",
+      "Hugging Face",
+      "NVIDIA",
+      "open-weight models",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8d95de0bce1678da3d07bb3fb35467d80dc9a97f",
+    "title": "Nvidia buys Hugging Face for $12.9B, promises not to squeeze too hard",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/03/nvidia-buys-hugging-face-for-129b-promises-not-to-squeeze-too-hard/5294208",
+    "summary": "GPU giant pledges to keep the model hub open to the entire AI ecosystem",
+    "isoDate": "2026-09-03T13:03:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=252462&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9902ee506e73cda1b710c858ba93eafcece29441",
+    "title": "Cybercrooks trawl Fishbrain to net password hashes",
+    "link": "https://www.theregister.com/cyber-crime/2026/09/03/cybercrooks-trawl-fishbrain-to-net-password-hashes/5294158",
+    "summary": "Armed with password hashes and salts, attackers could already be kraken those creds",
+    "isoDate": "2026-09-03T12:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=4093857&width=800",
+    "pinned": false
+  },
+  {
+    "id": "44c76706c9534f5eef4c548e027c65a64c980f05",
+    "title": "'Uber rapture' leaves passengers and drivers behind in Nigeria and Uganda",
+    "link": "https://www.theregister.com/offbeat/2026/09/03/uber-rapture-leaves-passengers-and-drivers-behind-in-nigeria-and-uganda/5294152",
+    "summary": "No time for a fare-thee-well as app hails a ride out of two more markets",
+    "isoDate": "2026-09-03T12:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=253463&width=800",
+    "pinned": false
+  },
+  {
+    "id": "325287efd3c1cdca3575c2cb6101e124b1bc7bb9",
+    "title": "Windows 11 update sends some desktops into an unwanted goth phase",
+    "link": "https://www.theregister.com/os-platforms/2026/09/03/windows-11-update-sends-some-desktops-into-an-unwanted-goth-phase/5294142",
+    "summary": "Hello darkness, my old friend... I've trusted Redmond once again",
+    "isoDate": "2026-09-03T11:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=261311&width=800",
+    "pinned": false
+  },
+  {
+    "id": "09c714da831f849031f4850d9930b1344be30db5",
+    "title": "Which came first, Windows 95's taskbar or NeXT's Dock? Neither",
+    "link": "https://www.theregister.com/os-platforms/2026/09/03/which-came-first-windows-95s-taskbar-or-nexts-dock-neither/5293715",
+    "summary": "Reg hack accidentally rattles Microsoft folks' cages… again",
+    "isoDate": "2026-09-03T10:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=225582&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d3025cbf07f63f96b94c1907265f2ecb5cfb14a1",
+    "title": "Spurs boots VMware, cites 85% licensing saving",
+    "link": "https://www.theregister.com/on-prem/2026/09/03/spurs-boots-vmware-cites-85-licensing-saving/5294139",
+    "summary": "Part of wider infrastructure replacement upgrade project with HPE",
+    "isoDate": "2026-09-03T10:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=255440&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7d19db33d220422493dab70298692f908768212c",
+    "title": "Neuroqueering on the lawn",
+    "link": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance",
+    "summary": "<p><img alt=\"Collage of two vintage photos featuring historic figures, one tipping a hat, the other in a thoughtful pose.\" src=\"https://images.aeonmedia.co/images/5644fcf3-600d-4249-8909-475112d8fd6f/essay-v2-.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Hans Christian Andersen’s tantrum in Charles Dickens’s garden was a case of ‘too muchness’, emotions bursting past respectability</p><p><em>- by Siobhan Unwin & Kathryne Ford</em></p><p><a href=\"https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance\">Read on Aeon</a></p>",
+    "isoDate": "2026-09-03T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Siobhan Unwin & Kathryne Ford",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "83a87e10657505d66dbb872ea0d3cc7c480215ed",
     "title": "UK's Online Safety Act has made 'absolutely no difference,' kids say",
     "link": "https://www.theregister.com/security/2026/09/03/uks-online-safety-act-has-made-absolutely-no-difference-kids-say/5293893",
@@ -1086,55 +1223,6 @@
     "pinned": false
   },
   {
-    "id": "a04d6e040fa9b6f33e221eef63d3140c86e18ded",
-    "title": "Insider: Red Hat is capping devs' bot budgets",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/01/insider-red-hat-is-capping-devs-bot-budgets/5292620",
-    "summary": "And no sharing your allowance! What do you think we are, communists?",
-    "isoDate": "2026-09-01T10:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093590&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3e51ccbe52b5ee5e2b5ed7d09c4a389954eb0fca",
-    "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
-    "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
-    "summary": "\"We could really be facing the great filter.\"",
-    "isoDate": "2026-09-01T10:00:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "alpha centauri",
-      "fermi paradox",
-      "interstellar",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2_FermiExplorer_HeroShot_01-500x500.png",
-    "pinned": false
-  },
-  {
-    "id": "b92881099ba15c2bc764b446510fb1c256347151",
-    "title": "AWS: DuckDB will provide 'connective tissue' across the data estate",
-    "link": "https://www.theregister.com/databases/2026/09/01/aws-duckdb-will-provide-connective-tissue-across-the-data-estate/5293304",
-    "summary": "Dutch in-process OLAP systems set to be the 'SDK for data' as developers scale systems, cloud giant claims after DuckLab acquisition",
-    "isoDate": "2026-09-01T10:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "databases"
-    ],
-    "image": "https://image.theregister.com/?imageId=132821&width=800",
-    "pinned": false
-  },
-  {
     "id": "53a39213f0412ad6dc09f309602dddb5f9ed8e71",
     "title": "More nothing now",
     "link": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score",
@@ -1145,21 +1233,6 @@
     "author": "Justin Neuman",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "5723abfacc1becd17eb1a9851cb3b264dfbce973",
-    "title": "Next bus to Altrincham delayed by Windows Defender",
-    "link": "https://www.theregister.com/offbeat/2026/09/01/next-bus-to-altrincham-delayed-by-windows-defender/5293289",
-    "summary": "Or possibly \"AI\", it's hard to tell behind the firewall warning",
-    "isoDate": "2026-09-01T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293293&width=800",
     "pinned": false
   },
   {
@@ -1175,66 +1248,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "cdfeb524a2ae3a10082d47064446ac763e248e0f",
-    "title": "The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten",
-    "link": "https://www.theregister.com/columnists/2026/09/01/the-teen-bill-gates-has-answers-to-the-ai-pocalypse-the-70-year-old-gates-has-forgotten/5293201",
-    "summary": "Hacking education to thrive in the AI world is the first and best step in keeping control",
-    "isoDate": "2026-09-01T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=154258&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b1517dc515246c3f1c04a12fcfcd230123bd79d4",
-    "title": "If hardware price squeezes make you sad, VMware says it will all end in tiers",
-    "link": "https://www.theregister.com/virtualization/2026/09/01/if-hardware-price-squeezes-make-you-sad-vmware-says-it-will-all-end-in-tiers/5293575",
-    "summary": "Virtzilla finding more ways to pull data out of DRAM to enable ‘densification’ and dodge the RAMpocalypse",
-    "isoDate": "2026-09-01T05:06:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "virtualization"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293582&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c62c4f5c681960d2852f55eef49ea1d5e670e82c",
-    "title": "AI adoption at work is broad but shallow",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
-    "summary": "GenAI now reaches 80% of occupations, but in most of those fewer than half of workers use it",
-    "isoDate": "2026-08-31T23:43:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293556&width=800",
-    "pinned": false
-  },
-  {
-    "id": "cf69ef0bfdbca23b9299e3c8a1ccb8d1e00d1e61",
-    "title": "Nvidia is building an IP licensing empire on the back of NVLink",
-    "link": "https://www.theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530",
-    "summary": "Even when you think you're not buying Nvidia, you might still be buying Nvidia",
-    "isoDate": "2026-08-31T22:54:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=262815&width=800",
     "pinned": false
   },
   {
@@ -1449,19 +1462,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/browser-bookmarks.webp/dc68e44c91a57d4f3c70e4e35ddb2729/browser-bookmarks.jpg",
-    "pinned": false
-  },
-  {
-    "id": "032e8ee7b92320d689d516d4f608638ddaa00549",
-    "title": "Tesla Launches Dog Mode Collection With Plushie, Toys and Apparel",
-    "link": "https://www.notateslaapp.com/news/4620/tesla-launches-dog-mode-collection-with-plushie-toys-and-apparel",
-    "summary": "Tesla’s Pet Mode Collection adds dog gear, kids apparel, a plush toy and pet liners for Cybertruck, Model S, Model 3 and Model Y. <a href=\"https://www.notateslaapp.com/news/4620/tesla-launches-dog-mode-collection-with-plushie-toys-and-apparel\">Read More</a>",
-    "isoDate": "2026-08-27T14:22:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/shop/dog-mode-dog-toy.webp/cc81c83e9117f97ed4ac696d1b51a4c1/dog-mode-dog-toy.jpg",
     "pinned": false
   }
 ]
