@@ -1,5 +1,41 @@
 [
   {
+    "id": "5dc4c7485ef0be8de93d45dd74c4c92d25b3f604",
+    "title": "OpenAI throws Astra into the top-tier model ring",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/03/openai-throws-astra-into-the-top-tier-model-ring/5294378",
+    "summary": "OpenAI slow-walks debut of delayed GPT-6, with Trusted Access Program participants getting first shot",
+    "isoDate": "2026-09-03T22:42:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294386&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9cd9b698f7127f37f45829ff78daa0cde92ecaed",
+    "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+    "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+    "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+    "isoDate": "2026-09-03T22:13:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "CDC",
+      "deaths",
+      "measles",
+      "Pennsylvania",
+      "robert f kennedy jr"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "898c0fc1cfd9a20f971d14c438d2afd39dc402d1",
     "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
     "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
@@ -126,6 +162,21 @@
     "pinned": false
   },
   {
+    "id": "92b999d8390cb2ae826662a357af9abb992d6570",
+    "title": "True AI-pocalypse as ChatGPT, Claude, and Grok all go down at once",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/03/chatgpt-claude-and-grok-all-had-outages-at-the-same-time/5294322",
+    "summary": "All three are recovering from overlapping availability issues",
+    "isoDate": "2026-09-03T18:24:55Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294336&width=800",
+    "pinned": false
+  },
+  {
     "id": "25291f243b68a6d7887596515cff076914bcdd67",
     "title": "Just like a fruit fly, a new algorithm never forgets old scents",
     "link": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
@@ -168,6 +219,36 @@
       "xAI"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2197730159-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ee5092f126aa1ebba1c96c387a9e20fb255d4a23",
+    "title": "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC",
+    "link": "https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318",
+    "summary": "A shared security 'Nightmare'",
+    "isoDate": "2026-09-03T18:08:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294333&width=800",
+    "pinned": false
+  },
+  {
+    "id": "964efb5d9d477775cc0757725be1df73d9d710d5",
+    "title": "CERN moves thousands of accelerator control computers to Debian",
+    "link": "https://www.theregister.com/os-platforms/2026/09/03/cern-moves-thousands-of-accelerator-control-computers-to-debian/5294312",
+    "summary": "Prompted by CentOS 8's premature demise, it's a very visible loss for the Red Hat ecosystem",
+    "isoDate": "2026-09-03T17:52:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=207169&width=800",
     "pinned": false
   },
   {
@@ -971,26 +1052,6 @@
     "pinned": false
   },
   {
-    "id": "57c96ba73cccce868bf2fa1c9b5a6cef46f8f2df",
-    "title": "Is Russia's rival to Starlink failing? Here's what we know.",
-    "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
-    "summary": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
-    "isoDate": "2026-09-02T11:15:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "broadband",
-      "rassvet",
-      "russia",
-      "satellites",
-      "starlink"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "3270714de7ca3a3d2f9638835b0068771784a493",
     "title": "UK goes shopping for homegrown AI with £100M procurement scheme",
     "link": "https://www.theregister.com/ai-and-ml/2026/09/02/uk-goes-shopping-for-homegrown-ai-with-100m-procurement-scheme/5293680",
@@ -1140,36 +1201,6 @@
     "pinned": false
   },
   {
-    "id": "a35e64974ea94d640fc08a7aadedc83ed89dfaec",
-    "title": "Attacker stole a METR API key, used $600K worth of credits, and no one noticed for weeks",
-    "link": "https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
-    "summary": "The model provider gave METR the credits for free. An actual customer would not have been so lucky",
-    "isoDate": "2026-09-01T20:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293753&width=800",
-    "pinned": false
-  },
-  {
-    "id": "94304d430b990b6edf0d13809e8e1f3cc9c755af",
-    "title": "Firefox helps iPhone users bypass ads on web sites while making money showing its own ads",
-    "link": "https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747",
-    "summary": "Baked-in Firefox ad blocking on iOS begins rolling out slowly today, and is off by default",
-    "isoDate": "2026-09-01T20:17:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=260206&width=800",
-    "pinned": false
-  },
-  {
     "id": "208250f4458da0cf45f09acb925f7690af533e59",
     "title": "Austrian Company Builds Automated NACS Charging Dock for Tesla Robotaxis",
     "link": "https://www.notateslaapp.com/news/4636/austrian-company-builds-automated-nacs-charging-dock-for-tesla-robotaxis",
@@ -1180,21 +1211,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-nacs-supercharger-docking-volteria.webp/74b0d5763e870feab0a9deae4a438240/tesla-nacs-supercharger-docking-volteria.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f246a9f9209ff20bfddd7636b36d61a8fc5d4c8d",
-    "title": "Anthropic pledges to try harder to keep models under control, asks partners to chip in",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
-    "summary": "Security ... this time it will be different",
-    "isoDate": "2026-09-01T19:27:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293744&width=800",
     "pinned": false
   },
   {
@@ -1211,36 +1227,6 @@
     "pinned": false
   },
   {
-    "id": "6ff81f97e29f1f4b35e808f0dcf6de84e7804d3c",
-    "title": "ReactOS 0.4.16 serves '90s Windows nostalgia with fewer bugs",
-    "link": "https://www.theregister.com/os-platforms/2026/09/01/reactos-0416-serves-90s-windows-nostalgia-with-fewer-bugs/5293694",
-    "summary": "30 years on, it's still alpha, but 0.4.16 brings plenty of bug fixes and quality-of-life improvements - just in time for Windows XP's 25th anniversary",
-    "isoDate": "2026-09-01T16:43:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293722&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1a57a4ca2f0b1be42f8463e16786c51e287f6019",
-    "title": "Oracle pins hopes on 'Star Wars' productivity jump to lightspeed from AI-assisted engineering",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/01/oracle-pins-hopes-on-star-wars-productivity-jump-to-lightspeed-from-ai-assisted-engineering-1/5293596",
-    "summary": "Big Red talks up superhuman coders after shedding 21,000 staff",
-    "isoDate": "2026-09-01T16:06:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=2607118&width=800",
-    "pinned": false
-  },
-  {
     "id": "5e765d9278911d31f94ec04924742f919351f8cd",
     "title": "Tesla Robotaxis Get New Vehicle Icon on Mini-Map, Likely Also Coming to FSD",
     "link": "https://www.notateslaapp.com/news/4634/tesla-robotaxis-get-new-vehicle-icon-on-mini-map-likely-also-coming-to-fsd",
@@ -1251,21 +1237,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-vehicle-image-mini-map-1.jpg/3456aad63cd3901290c59d976b54eaaf/tesla-robotaxi-vehicle-image-mini-map-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b0d29b063896deca9b70a3146baadecb4c94482f",
-    "title": "Microsoft and AWS build the multicloud bridge they said customers barely needed",
-    "link": "https://www.theregister.com/off-prem/2026/09/01/microsoft-and-aws-build-the-multicloud-bridge-they-said-customers-barely-needed/5293614",
-    "summary": "New services promise private 100 Gbps links between the rival platforms without months of networking faff",
-    "isoDate": "2026-09-01T14:16:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=241502&width=800",
     "pinned": false
   },
   {
