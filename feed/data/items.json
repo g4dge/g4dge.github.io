@@ -1,5 +1,50 @@
 [
   {
+    "id": "785a88277f3ee7ed370fa05944514e83ebdf0855",
+    "title": "The search company that plants trees just launched a Linux browser to help Europe battle big tech",
+    "link": "https://www.theregister.com/software/2026/09/04/the-search-company-that-plants-trees-just-launched-a-linux-browser-to-help-europe-battle-big-tech/5294345",
+    "summary": "Why now? Well, the Linux desktop market share in the EU doubled between 2024 and 2025 (to 5.7%). That's why!",
+    "isoDate": "2026-09-04T04:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294349&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ddb52b24a40a91dfb2291528bf1a3bc2bc38b577",
+    "title": "Cisco searched for IOS XR bugs and found so many it rolled them into an update release",
+    "link": "https://www.theregister.com/security/2026/09/04/cisco-searched-for-ios-xr-bugs-and-found-so-many-it-rolled-them-into-an-update-release/5294410",
+    "summary": "Three critical vulns demand your attention, one a make-me-root mess in Nexus 9000 Series Switches that you can mitigate, not fix",
+    "isoDate": "2026-09-04T02:18:36Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294415&width=800",
+    "pinned": false
+  },
+  {
+    "id": "22ebdc62aa02fe8f0b9c891fa6d0eb9c5e29e6bf",
+    "title": "OpenAI commits $1B in AI credits to frontline cyber defenders",
+    "link": "https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382",
+    "summary": "Daybreak program brings subsidized models, training, and support to under-resourced teams",
+    "isoDate": "2026-09-03T23:47:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294407&width=800",
+    "pinned": false
+  },
+  {
     "id": "5dc4c7485ef0be8de93d45dd74c4c92d25b3f604",
     "title": "OpenAI throws Astra into the top-tier model ring",
     "link": "https://www.theregister.com/ai-and-ml/2026/09/03/openai-throws-astra-into-the-top-tier-model-ring/5294378",
@@ -1143,36 +1188,6 @@
     "pinned": false
   },
   {
-    "id": "88ecacc376b4c2fbdb4c96247bde66f5289ac027",
-    "title": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes",
-    "link": "https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795",
-    "summary": "23-year-old botnet down",
-    "isoDate": "2026-09-01T23:54:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=247072&width=800",
-    "pinned": false
-  },
-  {
-    "id": "029dd428355c0a40a397ddc3c021143c646a243b",
-    "title": "Anthropic promises zero data retention – but customers must check it worked",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/02/anthropic-promises-zero-data-retention-but-customers-must-check-it-worked/5293789",
-    "summary": "More compliance-friendly stance could boost appeal of Fable",
-    "isoDate": "2026-09-01T23:37:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293799&width=800",
-    "pinned": false
-  },
-  {
     "id": "737b8e8d9326e21c667c6f6904c05624e195cefe",
     "title": "Tesla Now Uses Grok Think Fast 2.0 With Summer Update",
     "link": "https://www.notateslaapp.com/news/4638/tesla-now-uses-grok-think-fast-20-with-summer-update",
@@ -1183,21 +1198,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-1.webp/af9875fa07b1d49ab631958f5aea7ed4/grok-ui-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e19c626f619c01c72c278c02f6671859496a53f9",
-    "title": "Another Artifactory CVE under attack by AI agents or humans",
-    "link": "https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
-    "summary": "Unauthenticated intruders can mint admin tokens, and exposed servers are already being hit",
-    "isoDate": "2026-09-01T21:07:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=230216&width=800",
     "pinned": false
   },
   {
