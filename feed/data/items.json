@@ -1,5 +1,80 @@
 [
   {
+    "id": "2e473a237582e9765209f4e5559cf2976e1980e9",
+    "title": "Britain reboots its space strategy with £7.8B already on the launchpad",
+    "link": "https://www.theregister.com/public-sector/2026/09/08/britain-reboots-its-space-strategy-with-78b-already-on-the-launchpad/5294839",
+    "summary": "Cross-government plan combines civil ambitions with an increasingly military view of orbit",
+    "isoDate": "2026-09-08T09:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=260524&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0ba290c16fc3930a4d44e5409f96704b3f23bf6c",
+    "title": "From the archives: Faces on Mars and Earth – Tales of gargantuan interplanetary human portraiture",
+    "link": "https://www.skeptic.org.uk/2026/09/from-the-archives-faces-on-mars-and-earth-tales-of-gargantuan-interplanetary-human-portraiture/",
+    "summary": "<p>From the archives in 1993, Robert McGrath is skeptical about the carving of a face on Mars, decades before higher resolutions debunked the pareidolia.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/from-the-archives-faces-on-mars-and-earth-tales-of-gargantuan-interplanetary-human-portraiture/\">From the archives: Faces on Mars and Earth &#8211; Tales of gargantuan interplanetary human portraiture</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-09-08T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Robert McGrath",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "21732649e6072fd73950c838072642e7686a338a",
+    "title": "Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform",
+    "link": "https://www.theregister.com/systems/2026/09/08/arm-pushes-agentic-ai-and-desktop-quality-graphics-in-next-gen-phone-platform/5294867",
+    "summary": "New CPU and GPU designs chase lower latency and richer games within a 1 W power budget",
+    "isoDate": "2026-09-08T08:35:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294871&width=800",
+    "pinned": false
+  },
+  {
+    "id": "285f5baa8c915a5f62b8dab10c1e19759aa6e0b5",
+    "title": "HPE makes its “unified storage” claim real as B10000 R6 hits GA",
+    "link": "https://www.theregister.com/storage/2026/09/08/partner-content-hpe-makes-its-unified-storage-claim-real-as-b10000-r6-hits-ga/5294566",
+    "summary": "PARTNER CONTENT: Pairs block and adjacent file workloads with independent scaling of performance and capacity",
+    "isoDate": "2026-09-08T08:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294578&width=800",
+    "pinned": false
+  },
+  {
+    "id": "77421523bbd384825fa7ee33a17b46aa7c31e4dd",
+    "title": "‘Global reckoning’ is coming for big tech, says Australian minister",
+    "link": "https://www.theregister.com/legal/2026/09/08/global-reckoning-is-coming-for-big-tech-says-australian-minister/5294909",
+    "summary": "Introduces 'digital duty of care' that will mean Aussies get ‘my feed, my way’ – without algorithms if requested",
+    "isoDate": "2026-09-08T05:51:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=1683955&width=800",
+    "pinned": false
+  },
+  {
     "id": "3a50e4f2098f21d5e3a92035e509eab9f1cbdba7",
     "title": "Huawei proudly shows off an entirely un-American chip",
     "link": "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
@@ -1356,36 +1431,6 @@
     "pinned": false
   },
   {
-    "id": "ee5092f126aa1ebba1c96c387a9e20fb255d4a23",
-    "title": "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC",
-    "link": "https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318",
-    "summary": "A shared security 'Nightmare'",
-    "isoDate": "2026-09-03T18:08:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5294333&width=800",
-    "pinned": false
-  },
-  {
-    "id": "964efb5d9d477775cc0757725be1df73d9d710d5",
-    "title": "CERN moves thousands of accelerator control computers to Debian",
-    "link": "https://www.theregister.com/os-platforms/2026/09/03/cern-moves-thousands-of-accelerator-control-computers-to-debian/5294312",
-    "summary": "Prompted by CentOS 8's premature demise, it's a very visible loss for the Red Hat ecosystem",
-    "isoDate": "2026-09-03T17:52:21Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=207169&width=800",
-    "pinned": false
-  },
-  {
     "id": "ab509f18d1e3dd9807d79d101e353fef43e0146e",
     "title": "Tesla Updates Robotaxi App to Add Support for Cybercab Rides",
     "link": "https://www.notateslaapp.com/news/4644/tesla-updates-robotaxi-app-to-add-support-for-cybercab-rides",
@@ -1396,21 +1441,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-app-cybercab-debut.webp/f075aad76b54c7e46c6b5e1bfea98ea0/tesla-robotaxi-app-cybercab-debut.jpg",
-    "pinned": false
-  },
-  {
-    "id": "032f89cf4b9639d86643f47c012bc06dbfa7c477",
-    "title": "Audacity audio-editing app no longer looks like it's from the early 2000s",
-    "link": "https://www.theregister.com/personal-tech/2026/09/03/audacity-audio-editing-app-no-longer-looks-like-its-from-the-early-2000s/5294270",
-    "summary": "The FOSS tool for audio editing has a fresh coat of paint, and new features to boot",
-    "isoDate": "2026-09-03T16:26:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5294299&width=800",
     "pinned": false
   },
   {
@@ -1556,21 +1586,6 @@
     "category": "Long Reads",
     "author": "Justin Neuman",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a8786ff548b9c364dcfd513cf5a1252e07b6cd08",
-    "title": "From the archives: Cyril Burt Reconsidered – Another look at the charges of fraud levelled against Burt",
-    "link": "https://www.skeptic.org.uk/2026/09/from-the-archives-cyril-burt-reconsidered-another-look-at-the-charges-of-fraud-levelled-against-burt/",
-    "summary": "<p>From the archives of July 1993, John C McLachlan picks back up the story of Cyril Burt, to question how much can be attributed to fraud, and how much to sloppiness.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/from-the-archives-cyril-burt-reconsidered-another-look-at-the-charges-of-fraud-levelled-against-burt/\">From the archives: Cyril Burt Reconsidered – Another look at the charges of fraud levelled against Burt</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-09-01T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "John C McLachlan",
-    "tags": [
-      "Archive"
-    ],
     "image": "",
     "pinned": false
   }
