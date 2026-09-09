@@ -1,5 +1,80 @@
 [
   {
+    "id": "cd785567fe41a7a4e04597cd42d226ff7a85d311",
+    "title": "Switzerland tests a FOSS escape route from Microsoft 365",
+    "link": "https://www.theregister.com/os-platforms/2026/09/09/switzerland-tests-a-foss-escape-route-from-microsoft-365/5294878",
+    "summary": "Swiss Army sticks a knife in American cloud apps with its own FOSS push",
+    "isoDate": "2026-09-09T09:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=236158&width=800",
+    "pinned": false
+  },
+  {
+    "id": "626a982d57e280a6f9c6f83e03985398bbfc1c03",
+    "title": "Skeptics should not be so gullible as to believe Nathan Cofnas’ academic freedom is being stifled",
+    "link": "https://www.skeptic.org.uk/2026/09/skeptics-should-not-be-so-gullible-as-to-believe-nathan-cofnas-academic-freedom-is-being-stifled/",
+    "summary": "<p>So-called \"race realist\" Nathan Cofnas is selling the story that his suspension is a retaliation for whistleblowing - sadly, some skeptics are buying it.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/skeptics-should-not-be-so-gullible-as-to-believe-nathan-cofnas-academic-freedom-is-being-stifled/\">Skeptics should not be so gullible as to believe Nathan Cofnas&#8217; academic freedom is being stifled</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-09-09T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Michael Marshall",
+    "tags": [
+      "Extremism"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "d32a15b46392748c94b342df736515d7251cabcb",
+    "title": "Another Microsoft team admits it’s struggling to handle flood of AI-generated code",
+    "link": "https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185",
+    "summary": "Increase in vibe-coded browser extensions sees Edge team automate quality assessments",
+    "isoDate": "2026-09-09T06:34:21Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5271891&width=800",
+    "pinned": false
+  },
+  {
+    "id": "082238bebfc79c760b5efa3eaa13c23c719ada01",
+    "title": "Philippines bets AI will lift GDP by 12 percent in seven years – without hurting outsourcing",
+    "link": "https://www.theregister.com/public-sector/2026/09/09/philippines-bets-ai-will-lift-gdp-by-12-percent-in-seven-years-without-hurting-outsourcing/5295178",
+    "summary": "Plans 30x datacenter expansion for less than what big tech spends in a month",
+    "isoDate": "2026-09-09T05:25:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=250045&width=800",
+    "pinned": false
+  },
+  {
+    "id": "47e8b8f33807de75bd2d663efa3549e5aeb500bd",
+    "title": "US claims Chinese AI companies’ core AI strategy is distilling American models",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/09/us-claims-chinese-ai-companies-core-ai-strategy-is-distilling-american-models/5295171",
+    "summary": "Spooks and CISA point to ‘industrial-scale distillation’ by DeepSeek, Alibaba, and other Chinese players",
+    "isoDate": "2026-09-09T02:59:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=247173&width=800",
+    "pinned": false
+  },
+  {
     "id": "0bdc0242248cc5924dbd30b85ad581b6f658bd02",
     "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
     "link": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
@@ -1382,51 +1457,6 @@
     "pinned": false
   },
   {
-    "id": "fe8b04c1717bbd1a5d50492f4db29cb7e698d159",
-    "title": "Anthropic lays groundwork for bots that shop for you",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/04/anthropic-lays-groundwork-for-bots-that-shop-for-you/5294621",
-    "summary": "Now comes the harder sell: Convincing customers and merchants to trust AI with purchases",
-    "isoDate": "2026-09-04T20:36:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5294637&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3bd414ef9c11680d401a25b77c1adee4de40352f",
-    "title": "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
-    "link": "https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616",
-    "summary": "AI workstation promises to put up to 576 GB of HBM3e and 16 TB/s of memory bandwidth on your desk",
-    "isoDate": "2026-09-04T20:12:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5294624&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e6a069b23ae4b8c4a88ffe25ed1c0269468b3c73",
-    "title": "ASCII smuggling isn't just an AI security risk",
-    "link": "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
-    "summary": "Phishers find a new use for invisible Unicode tag characters",
-    "isoDate": "2026-09-04T19:23:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=258480&width=800",
-    "pinned": false
-  },
-  {
     "id": "7e7810777234bb2cb61b06ff3644253c914c0df0",
     "title": "Tesla Adds Cybercab to Its 3D Supercharger Site Maps",
     "link": "https://www.notateslaapp.com/news/4649/tesla-adds-cybercab-to-its-3d-supercharger-site-maps",
@@ -1437,21 +1467,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/cybercab-3d-site-map.webp/e59a659797d38d82a20fdbe4c5ee8acb/cybercab-3d-site-map.jpg",
-    "pinned": false
-  },
-  {
-    "id": "25942e169dbc342a2213e911227c4b48ce95c8ba",
-    "title": "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
-    "summary": "Two cases of agents escaping to solve unsolvable problems paints an uncomfortable question: Is the entire internet in OpenAI's experimental agentic firing line?",
-    "isoDate": "2026-09-04T16:02:08Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5294592&width=800",
     "pinned": false
   },
   {
@@ -1629,22 +1644,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/modelyl_na_79.jpg/3001cf281fe828eaab15e5762dae089e/modelyl_na_79.jpg",
-    "pinned": false
-  },
-  {
-    "id": "36acb99c449109f8f74e6afb6b012794dc97cba6",
-    "title": "How can we tell authentic writing, when even the Pope is suspected of using AI?",
-    "link": "https://www.skeptic.org.uk/2026/09/how-can-we-tell-authentic-writing-when-even-the-pope-is-suspected-of-using-ai/",
-    "summary": "<p>In this age of ubiquitous AI usage, we are all left with a reflexive suspicion, constantly asking ourselves, \"but did a human even write this?\"</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/how-can-we-tell-authentic-writing-when-even-the-pope-is-suspected-of-using-ai/\">How can we tell authentic writing, when even the Pope is suspected of using AI?</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-09-02T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Aaron Rabinowitz",
-    "tags": [
-      "Philosophy",
-      "Technology"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
