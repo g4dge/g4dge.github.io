@@ -1,5 +1,267 @@
 [
   {
+    "id": "eca0578fed4853fc9470dfde1bb5bc79d27b806d",
+    "title": "4 groups caught using the same Chrome and Windows exploit kit",
+    "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+    "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+    "isoDate": "2026-09-09T20:55:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "chrome",
+      "chromium",
+      "exploits",
+      "Windows"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "70521a617fe57c98f28cdee7137adeacd9bda9ab",
+    "title": "AI models don't kill people – people kill people",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+    "summary": "AI fearmongers forget we could just jail tech execs until morale and model safety improve",
+    "isoDate": "2026-09-09T20:44:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5295388&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5777c1130bb25d0c616aca8d83e2feb20cdbd80c",
+    "title": "Apple hawks $2k folding fondleslab",
+    "link": "https://www.theregister.com/personal-tech/2026/09/09/apple-hawks-2k-folding-fondleslab/5295381",
+    "summary": "Another new form factor for devs to adapt to",
+    "isoDate": "2026-09-09T20:38:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5295384&width=800",
+    "pinned": false
+  },
+  {
+    "id": "19322c230a997811063aa2d8ef46e01a994eb4d8",
+    "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+    "link": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+    "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+    "isoDate": "2026-09-09T20:27:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "helene huby",
+      "space",
+      "the exploration company"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bb768cb2890303053d41464c45a2ca601861a750",
+    "title": "Samsung to help fortify OpenAI's semiconductor supply chain",
+    "link": "https://www.theregister.com/systems/2026/09/09/samsung-to-help-fortify-openais-semiconductor-supply-chain/5295374",
+    "summary": "Semiconductor supply chains are hard, but Samsung offers OpenAI relief in many forms spanning compute and memory",
+    "isoDate": "2026-09-09T20:18:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=230443&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d72e277442da39b4e93ea28278f6856188eb2361",
+    "title": "Tesla FSD V14.3.9 and V14.2 Lite: First Impressions",
+    "link": "https://www.notateslaapp.com/news/4669/tesla-fsd-v1439-and-v142-lite-first-impressions",
+    "summary": "Tesla’s dual-branch FSD rollout is hitting customer driveways, giving us our first look at how both of the latest software builds handle real-world streets <a href=\"https://www.notateslaapp.com/news/4669/tesla-fsd-v1439-and-v142-lite-first-impressions\">Read More</a>",
+    "isoDate": "2026-09-09T20:10:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v-14-3-9-first-impressions.webp/80227a466840f1503ba109c5422279c1/fsd-v-14-3-9-first-impressions.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1fcac2698cdeb2beb02de770e557a77127a423ac",
+    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+    "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+    "isoDate": "2026-09-09T20:06:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "Artificial Intelligence",
+      "china",
+      "Distillation",
+      "Donald Trump",
+      "frontier ai",
+      "Model distillation",
+      "US-China relations"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-500x500-1788979944.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bf73a4f73e1aa97797bbb574f2c2254894615be1",
+    "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+    "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+    "summary": "Apple's first foldable can be yours next month.",
+    "isoDate": "2026-09-09T19:42:00Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Apple",
+      "Tech",
+      "apple",
+      "Foldables",
+      "iphone duo",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c6f2eda348cb5b52f56ef3c3c9c80cf0e089042f",
+    "title": "When it comes to Beatles references, scientists can't let it be",
+    "link": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+    "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
+    "isoDate": "2026-09-09T19:31:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "Linguistics",
+      "Popular Culture",
+      "Science communication",
+      "Scientific publishing",
+      "social sciences",
+      "The Beatles"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/beatles-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b3a28ff7c5d9f51e445397936bf2c94d2a92f6a0",
+    "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+    "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
+    "isoDate": "2026-09-09T19:09:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Amazon"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-warehouse-500x500-1788978729.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3b3da7cc2992a0a9d3bb4415149d3f8208459675",
+    "title": "Tesla Update 2026.32.3 Release Notes",
+    "link": "https://www.notateslaapp.com/software-updates/version/2026.32.3/release-notes",
+    "summary": "We take a look at the release notes and what's new in Tesla update 2026.32.3. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.32.3/release-notes\">Read More</a>",
+    "isoDate": "2026-09-09T19:00:31Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.32/wheel-selection.png/91b4f61c9c419c3d4fe6035d28b4a6fb/wheel-selection.jpg",
+    "pinned": false
+  },
+  {
+    "id": "716b73a6f8045b2565a04c037dc188f264812883",
+    "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+    "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+    "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+    "isoDate": "2026-09-09T18:58:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Apple",
+      "Tech",
+      "airpods",
+      "airpods 5",
+      "apple",
+      "earphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AIrPods-5-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a3decef8ea9638b7af83b53b44f7499414a27c3e",
+    "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+    "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
+    "summary": "New Apple Intelligence features, too.",
+    "isoDate": "2026-09-09T18:47:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Apple",
+      "Tech"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-Watch-Series-12-readiness-260909-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "98c702c313d2525f59a6b2db269e881e3f90dcad",
+    "title": "The quick guide to fall vaccines and when you should get them",
+    "link": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
+    "summary": "Here are the evidence-based recommendations and this year's vaccine rollout.",
+    "isoDate": "2026-09-09T18:39:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "CDC",
+      "COVID-19",
+      "fda",
+      "flu",
+      "influenzas",
+      "robert f kennedy jr",
+      "RSV",
+      "seasonal flu shot",
+      "vaccines"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-1231396408-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b63cb76d81339d128c87780163bcf8af60ffcd95",
+    "title": "Tesla Rolls Out FSD V14.3.9 and V14.2 Lite, 'Automatic Collision Evasion' Only for HW4",
+    "link": "https://www.notateslaapp.com/news/4668/tesla-rolls-out-fsd-v1439-and-fsd-v142-lite-automatic-collision-evasion-only-for-hw4",
+    "summary": "Tesla has kicked off a dual-branch software rollout that caters to both current-generation hardware and legacy HW3 vehicle platforms <a href=\"https://www.notateslaapp.com/news/4668/tesla-rolls-out-fsd-v1439-and-fsd-v142-lite-automatic-collision-evasion-only-for-hw4\">Read More</a>",
+    "isoDate": "2026-09-09T18:34:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cameras-safety.webp/5717b831dcdcd736fbec09c67a0eb787/cameras-safety.jpg",
+    "pinned": false
+  },
+  {
     "id": "9b72a98a05528fc9c1025049aad31a15e09ee904",
     "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
     "link": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
@@ -18,6 +280,21 @@
       "iPhone 18 Ultra"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-17-Pro-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "90b05129931480f34d11407f7b5b38fa2c4d788d",
+    "title": "Serial Microsoft 0-day hunter drops yet another Defender exploit",
+    "link": "https://www.theregister.com/security/2026/09/09/serial-microsoft-0-day-hunter-drops-yet-another-defender-exploit/5295335",
+    "summary": "A bypass of a bypass of a bypass",
+    "isoDate": "2026-09-09T17:23:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094178&width=800",
     "pinned": false
   },
   {
@@ -60,6 +337,21 @@
       "threat"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-504013302-500x500-1788971361.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0edcbaf093501cf5ee30df2941a2f849d85cedf3",
+    "title": "Chinese researchers find egg-cellent way to keep space debris from scrambling craft",
+    "link": "https://www.theregister.com/offbeat/2026/09/09/chinese-researchers-find-egg-cellent-way-to-keep-space-debris-from-scrambling-craft/5295340",
+    "summary": "Eggy armor cuts projectile speed in simulations as LEO gets increasingly crowded",
+    "isoDate": "2026-09-09T16:56:41Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5295348&width=800",
     "pinned": false
   },
   {
@@ -555,28 +847,6 @@
     "pinned": false
   },
   {
-    "id": "cec960be6b03fb8d840786b855497756841f4a48",
-    "title": "NIH to use part of its budget to pay for Department of Defense research",
-    "link": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
-    "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
-    "isoDate": "2026-09-08T20:06:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Policy",
-      "Science",
-      "budget",
-      "Defense Department",
-      "emerging diseases",
-      "NIH",
-      "pandemic preparedness",
-      "science funding"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2229834435-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b33b269b60a546e4a603c4fff917f82479ee8a6a",
     "title": "Musk: Tesla Cybercab Hopefully Coming Soon to Europe",
     "link": "https://www.notateslaapp.com/news/4665/musk-tesla-cybercab-hopefully-coming-soon-to-europe",
@@ -587,52 +857,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-2.webp/cfc30d1a1b7ea83d9ff89bb896c64bf7/cybercab-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "153ab89786454cc18090f19a0c5d97d427e7cf10",
-    "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
-    "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
-    "summary": "Republican victory means stations must offer lowest ad prices to political parties.",
-    "isoDate": "2026-09-08T19:50:00Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "election ads",
-      "FCC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/gop-logo-500x500-1787858832.jpg",
-    "pinned": false
-  },
-  {
-    "id": "97bd724efad42944330e01c7a92a42c53000d21c",
-    "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
-    "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
-    "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
-    "isoDate": "2026-09-08T19:12:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "ai data centers",
-      "ASML",
-      "china",
-      "Chip manufacturing",
-      "Chipmakers",
-      "chipmaking",
-      "Intel",
-      "memory chips",
-      "Samsung",
-      "samsung electronics",
-      "semiconductor manufacturing",
-      "SK Hynix",
-      "Taiwan Semiconductor Manufacturing Company",
-      "TSMC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ASML_HighNA_cleanroom_Veldhoven_068-1-500x500.jpg",
     "pinned": false
   },
   {
@@ -648,68 +872,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5295099&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0aaa2b7ddaf7e098c633dc682f256df8e3cd8c3f",
-    "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
-    "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
-    "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
-    "isoDate": "2026-09-08T18:53:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "film trailers",
-      "Godzilla Minus Zero",
-      "Toho",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/godzilla1-500x500-1788889762.jpg",
-    "pinned": false
-  },
-  {
-    "id": "083ec72c2d04417f550b8270a6378cd7f30f3c88",
-    "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-    "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-    "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
-    "isoDate": "2026-09-08T18:43:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ai csam",
-      "csam",
-      "Facebook",
-      "Instagram",
-      "meta",
-      "nudify apps",
-      "online advertising"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1975339882-500x500-1788891021.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a7d30b6a865411807fc07098fa37612d2f694489",
-    "title": "Update to Google’s AI weather model improves forecast accuracy",
-    "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-    "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
-    "isoDate": "2026-09-08T18:00:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scott K. Johnson",
-    "tags": [
-      "AI",
-      "Google",
-      "Science",
-      "machine learning",
-      "weather models"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-85757697-500x500.jpg",
     "pinned": false
   },
   {
@@ -756,46 +918,6 @@
     "pinned": false
   },
   {
-    "id": "4795c1e465ac3f1d9e598d3a8f573149ce9bd0fd",
-    "title": "Google complies with EU rules for travel searches, says the new results stink",
-    "link": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
-    "summary": "The EU continues to go after Google search practices it sees as anticompetitive.",
-    "isoDate": "2026-09-08T16:49:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "Digital Markets Act",
-      "europe",
-      "european union",
-      "google",
-      "search"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1c66ae5141c67cad235e7cedafa174cae2993872",
-    "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-    "link": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-    "summary": "Trump admin's propaganda \"arcade\" hits some apparent legal limits.",
-    "isoDate": "2026-09-08T16:31:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "arcade",
-      "Propaganda",
-      "Tetris",
-      "Trump"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/buildthewall-500x500-1788883596.png",
-    "pinned": false
-  },
-  {
     "id": "4257c85aac74fad7decd18ea3045417f44839d8e",
     "title": "Floating nuclear startup Bluecore lands $50M funding before setting sail",
     "link": "https://www.theregister.com/systems/2026/09/08/floating-nuclear-startup-bluecore-lands-50m-funding-before-setting-sail/5295032",
@@ -808,28 +930,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=5295036&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2b3d53af889794fd3d8f604b9c60f6e87619cd53",
-    "title": "The secret to protecting next-gen spacecraft might be eggshells",
-    "link": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
-    "summary": "3D-printed aluminum eggshell arrays filled with water proved more effective at impact resistance.",
-    "isoDate": "2026-09-08T16:20:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "Space",
-      "3D printing",
-      "biomimicry",
-      "eggshells",
-      "materials science",
-      "Physics",
-      "space debris"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/eggshells-500x500.jpg",
     "pinned": false
   },
   {
@@ -1282,36 +1382,6 @@
     "pinned": false
   },
   {
-    "id": "5a4ec37e671d08005a6c6e7a52e0a4d2876c450c",
-    "title": "Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff",
-    "link": "https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748",
-    "summary": "NRW says it has found no evidence data was misused after spreadsheet published in error five years ago",
-    "isoDate": "2026-09-07T11:04:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=254740&width=800",
-    "pinned": false
-  },
-  {
-    "id": "be3bde3c8b1f04759afa6f18750092b8e13f1b04",
-    "title": "UK food supply chain at risk from hostile attacks",
-    "link": "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719",
-    "summary": "Defending against cyber foes is among factors hitting food price inflation, report finds",
-    "isoDate": "2026-09-07T10:06:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5294725&width=800",
-    "pinned": false
-  },
-  {
     "id": "236e455c4348ce2556630f43ffc588a6920bef3a",
     "title": "The planet is… up to something",
     "link": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times",
@@ -1322,21 +1392,6 @@
     "author": "Aeon Video",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "0e9cf83c0236bfa9dbdf8e62438c8dd2ce2f2f12",
-    "title": "Feel peak Windows was 7? You might like Kumander Linux",
-    "link": "https://www.theregister.com/os-platforms/2026/09/07/feel-peak-windows-was-7-you-might-like-kumander-linux/5294760",
-    "summary": "Debian and Xfce – solid, sensible choices – with a pretty skin",
-    "isoDate": "2026-09-07T10:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=222595&width=800",
     "pinned": false
   },
   {
@@ -1353,21 +1408,6 @@
     "pinned": false
   },
   {
-    "id": "cc5a13aab136497acbd6c2348fef81f00049364d",
-    "title": "Peers ask why UK cyber bill leaves execs off the personal liability hook",
-    "link": "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
-    "summary": "Ministers say £17M corporate fines and forthcoming board-level governance rules provide sufficient accountability",
-    "isoDate": "2026-09-07T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=259615&width=800",
-    "pinned": false
-  },
-  {
     "id": "8432638f78667e8a12b99ae99b4d72db7e23a799",
     "title": "Elon Musk’s Hyperloop Hype: Monorail, Monorail, Monorail…",
     "link": "https://www.skeptic.org.uk/2026/09/elon-musks-hyperloop-hype-monorail-monorail-monorail/",
@@ -1380,36 +1420,6 @@
       "Technology"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "543158d87b947d77b1fe57493fbcb6d58a524e63",
-    "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
-    "link": "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
-    "summary": "'The Collective' learned to communicate, organize, cheat, and apparently sacrifice its own",
-    "isoDate": "2026-09-07T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=5219893&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c8c1d8cf79e07502186e9d985c84164708c75a3d",
-    "title": "Amazon-branded plane in fatal accident at Miami Airport",
-    "link": "https://www.theregister.com/on-prem/2026/09/07/amazon-branded-plane-in-fatal-accident-at-miami-airport/5294707",
-    "summary": "Couldn’t stop before the end of a runway",
-    "isoDate": "2026-09-07T07:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=240942&width=800",
     "pinned": false
   },
   {
@@ -1639,32 +1649,6 @@
     "author": "Siobhan Unwin & Kathryne Ford",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "aeff6d6686033ffe84d4843b7bc2d9205b069c37",
-    "title": "Tesla Influencer Sends Speeding Ticket to Tesla Over FSD",
-    "link": "https://www.notateslaapp.com/news/4641/tesla-influencer-sends-speeding-ticket-to-tesla-over-fsd",
-    "summary": "Following a recent traffic violation committed by Tesla's FSD software, one well-known community creator has forwarded their citation directly to the automaker <a href=\"https://www.notateslaapp.com/news/4641/tesla-influencer-sends-speeding-ticket-to-tesla-over-fsd\">Read More</a>",
-    "isoDate": "2026-09-02T21:17:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-cybertruck-hero.jpg/6148068c186d57a9b64e10d8a7ec5987/fsd-cybertruck-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "eb0f0d6e48a9ff86ae539583b335ba4e103482c6",
-    "title": "Tesla Caraoke Changes: Rear Screen Support Removed, Mobile Queue Added",
-    "link": "https://www.notateslaapp.com/news/4640/tesla-caraoke-changes-rear-lyrics-cut-mobile-queue-added",
-    "summary": "Now that Tesla’s redesigned Caraoke app has been out publicly for a few weeks, new changes have rolled out to the built-in entertainment feature <a href=\"https://www.notateslaapp.com/news/4640/tesla-caraoke-changes-rear-lyrics-cut-mobile-queue-added\">Read More</a>",
-    "isoDate": "2026-09-02T19:22:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/caraoke-rear-screen.webp/e3eb1a96043976c847d91ac600cc8fde/caraoke-rear-screen.jpg",
     "pinned": false
   }
 ]
