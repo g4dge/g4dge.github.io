@@ -1,5 +1,112 @@
 [
   {
+    "id": "032cea49447e827369ce4174a535a4fac9c33d47",
+    "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+    "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+    "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
+    "isoDate": "2026-09-10T18:14:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "Artificial Intelligence",
+      "bankruptcy",
+      "google",
+      "intellectual property",
+      "online privacy",
+      "spirit airlines"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2271644469-500x500-1789059550.jpg",
+    "pinned": false
+  },
+  {
+    "id": "896c66e540be0a41f67c8fa72be4771ee182c26a",
+    "title": "You Can Now Let Tesla Know You Want to Buy a Cybercab",
+    "link": "https://www.notateslaapp.com/news/4672/you-can-now-let-tesla-know-you-want-to-buy-a-cybercab",
+    "summary": "Following the start of public passenger rides in Austin last week, Tesla has quietly taken its first step toward commercial Cybercab sales <a href=\"https://www.notateslaapp.com/news/4672/you-can-now-let-tesla-know-you-want-to-buy-a-cybercab\">Read More</a>",
+    "isoDate": "2026-09-10T18:11:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-purchase-interest-form.webp/7abca7bf6aed508624c3a8c3b4d522f9/tesla-cybercab-purchase-interest-form.jpg",
+    "pinned": false
+  },
+  {
+    "id": "01a19305335fa547bef669f623af2639420e8da8",
+    "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
+    "link": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
+    "summary": "The trick from <em>Next Generation</em> would be even more effective in real life.",
+    "isoDate": "2026-09-10T17:54:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Matt von Hippel",
+    "tags": [
+      "Science",
+      "faster than light",
+      "Physics",
+      "picard",
+      "relativity",
+      "Star Trek"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/PicardManeuverScreenshot-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "5605ce270ce091a0170654cfb1dcd1cf36b21441",
+    "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+    "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+    "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
+    "isoDate": "2026-09-10T16:53:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "china",
+      "delivery drones",
+      "dji",
+      "DJI Flycart 100",
+      "drone deliveries",
+      "drones",
+      "Nepal",
+      "Nepal flood disaster",
+      "Nepal floods"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Drone-Nepal-flood-disaster-relief-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bc9f91cbed0750318a08cd06a2be19893420146a",
+    "title": "Tesla Adds Built-In Ad Blocker to Browser in Update 2026.32",
+    "link": "https://www.notateslaapp.com/news/4671/tesla-adds-ad-blocker-to-browser-in-update-202632",
+    "summary": "With its latest software update, Tesla is taking direct aim at webpage clutter by quietly introducing a built-in ad blocker to its infotainment web browser <a href=\"https://www.notateslaapp.com/news/4671/tesla-adds-ad-blocker-to-browser-in-update-202632\">Read More</a>",
+    "isoDate": "2026-09-10T16:19:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-browser-ad-blocker.webp/0a7e5343808906ce0292e919ac26f749/tesla-browser-ad-blocker.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2ccad6187b05cfcf3671a3325fc09d8d515a3f21",
+    "title": "Azure SQL Data Sync stops taking newcomers before 2027 execution",
+    "link": "https://www.theregister.com/databases/2026/09/10/azure-sql-data-sync-stops-taking-newcomers-before-2027-execution/5295579",
+    "summary": "Existing customers can carry on for now, but Microsoft offers no like-for-like successor",
+    "isoDate": "2026-09-10T14:47:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "databases"
+    ],
+    "image": "https://image.theregister.com/?imageId=223152&width=800",
+    "pinned": false
+  },
+  {
     "id": "8c34dc20071e25bed705f9945f9f48cc812f25f5",
     "title": "Nscale swallows lion's share of UK datacenter investment",
     "link": "https://www.theregister.com/on-prem/2026/09/10/nscale-swallows-lions-share-of-uk-datacenter-investment/5295541",
@@ -227,7 +334,7 @@
   },
   {
     "id": "b02cc6e7c0101511f9c53ce54f1376ebbed9849a",
-    "title": "VMware defends ending downloads of SDK that helps VM backups– or migrations to rivals",
+    "title": "VMware defends ending downloads of SDK that helps VM backups – or migrations to rivals",
     "link": "https://www.theregister.com/virtualization/2026/09/10/vmware-defends-ending-downloads-of-sdk-that-helps-vm-backups-or-migrations-to-rivals/5295421",
     "summary": "Says license was never about moving VMs",
     "isoDate": "2026-09-10T02:05:58Z",
@@ -792,29 +899,6 @@
     "pinned": false
   },
   {
-    "id": "8b769129aac18b6bccbbd81a08440b2fc9f94979",
-    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-    "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-    "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
-    "isoDate": "2026-09-09T11:00:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Features",
-      "Policy",
-      "AI psychosis",
-      "bipolar disorder",
-      "chatbot",
-      "ChatGPT",
-      "GPT-4o",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-jesus2-1-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "c5e95322748807146773243b1a06a69e1fe7f98d",
     "title": "Virgin Media offloads email services to third-party provider",
     "link": "https://www.theregister.com/networks/2026/09/09/virgin-media-offloads-email-services-to-third-party-provider/5295230",
@@ -991,45 +1075,6 @@
     "pinned": false
   },
   {
-    "id": "dc3eda17ca27c313b15164d3a0bfd6db60912869",
-    "title": "LG TV shown scanning LAN for third-party phones and other devices",
-    "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-    "summary": "“It doesn’t cost a lot to store text forever.”",
-    "isoDate": "2026-09-08T21:52:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "ads",
-      "LG",
-      "TVs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e883a47e5391f8b79fc06f3eca729726183e774d",
-    "title": "GOG brings back \"big box\" PC games, one printable template at a time",
-    "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-    "summary": "Preservation \"goodies\" also include downloadable 3D models for desktop perusal.",
-    "isoDate": "2026-09-08T21:23:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "big box",
-      "gog",
-      "packaging",
-      "pc",
-      "PC gaming",
-      "retail"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/hitmanbox1-500x500-1788901132.png",
-    "pinned": false
-  },
-  {
     "id": "394ebaf29f294a93c1bd62e95a2eefc058dc76d5",
     "title": "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack",
     "link": "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
@@ -1042,25 +1087,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5295128&width=800",
-    "pinned": false
-  },
-  {
-    "id": "bf8c2b1da340d9c0e6fb2a5972bd0253dab6a6db",
-    "title": "Why this month's Microsoft patch release is a doozy",
-    "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-    "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-    "isoDate": "2026-09-08T21:11:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "LLM",
-      "vulnerability discovery"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
     "pinned": false
   },
   {
@@ -1321,21 +1347,6 @@
     "author": "Alison Bashford",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8e393d677ccb2f7f192f93dad74321bfd6b32eb5",
-    "title": "Whitehall's latest plan to get things done: Less Whitehall",
-    "link": "https://www.theregister.com/public-sector/2026/09/08/whitehalls-latest-plan-to-get-things-done-less-whitehall/5294813",
-    "summary": "Ministers declare war on an 'industry of dither and delay' as consultations, legal caution, and judicial reviews get the chop",
-    "isoDate": "2026-09-08T09:46:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=241212&width=800",
     "pinned": false
   },
   {
@@ -1660,32 +1671,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-refresh-iihs-top-safety-pick-plus-2026.webp/780c2e973e758ba5a2e370686d4db066/model-y-refresh-iihs-top-safety-pick-plus-2026.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ab509f18d1e3dd9807d79d101e353fef43e0146e",
-    "title": "Tesla Updates Robotaxi App to Add Support for Cybercab Rides",
-    "link": "https://www.notateslaapp.com/news/4644/tesla-updates-robotaxi-app-to-add-support-for-cybercab-rides",
-    "summary": "Tesla has officially pushed a major update to its Robotaxi app, adding direct booking and ride controls for its upcoming Cybercab <a href=\"https://www.notateslaapp.com/news/4644/tesla-updates-robotaxi-app-to-add-support-for-cybercab-rides\">Read More</a>",
-    "isoDate": "2026-09-03T17:49:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-app-cybercab-debut.webp/f075aad76b54c7e46c6b5e1bfea98ea0/tesla-robotaxi-app-cybercab-debut.jpg",
-    "pinned": false
-  },
-  {
-    "id": "64bd0d88b3f4685935783b2b991a601c93b45d0d",
-    "title": "Tesla's Cybercab Launch Event: How to Watch & What to Expect",
-    "link": "https://www.notateslaapp.com/news/4643/teslas-cybercab-launch-event-how-to-watch-what-to-expect",
-    "summary": "After months of public testing and speculation, Tesla is preparing to officially take the wraps off its dedicated Cybercab robotaxi <a href=\"https://www.notateslaapp.com/news/4643/teslas-cybercab-launch-event-how-to-watch-what-to-expect\">Read More</a>",
-    "isoDate": "2026-09-03T16:10:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-event.webp/2bdac2476efd6e0a72254f7d981092ad/cybercab-event.jpg",
     "pinned": false
   }
 ]
