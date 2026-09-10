@@ -1,5 +1,80 @@
 [
   {
+    "id": "7acbb8d71a16711544a65223ec0f72901705fa5e",
+    "title": "Digital sovereignty sounds great until you try ditching your suppliers",
+    "link": "https://www.theregister.com/paas-and-iaas/2026/09/10/digital-sovereignty-sounds-great-until-you-try-ditching-your-suppliers/5294997",
+    "summary": "Most organizations say tech independence is unrealistic – and one in ten can't replace a critical provider at all",
+    "isoDate": "2026-09-10T09:05:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "paas and iaas"
+    ],
+    "image": "https://image.theregister.com/?imageId=233350&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f0790e026e4f45e0b5b980aeb3480db90246f5a5",
+    "title": "Dental contractor set up secret account with access to 4,000 patient records then left the company",
+    "link": "https://www.theregister.com/security/2026/09/10/dental-contractor-set-up-secret-account-with-access-to-4000-patient-records-then-left-the-company/5295361",
+    "summary": "Toothless security",
+    "isoDate": "2026-09-10T07:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=256731&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8f5fddc7faae191375b426e650682d2f5aac627c",
+    "title": "Laptop-slinger Framework refunding customers who paid top dollar for RAM",
+    "link": "https://www.theregister.com/personal-tech/2026/09/10/laptop-slinger-framework-refunding-customers-who-paid-top-dollar-for-ram/5295439",
+    "summary": "Puts a whole new spin on ‘Cheap as chips’",
+    "isoDate": "2026-09-10T06:23:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5262109&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7c35a4aa58e5458ac7e25db1339fc5ec17325536",
+    "title": "Microsoft goes after Salesforce and ERP users with AI-powered converter",
+    "link": "https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428",
+    "summary": "Ironically, this idea lands as Salesforce is struggling to sell its own AI",
+    "isoDate": "2026-09-10T04:53:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5295433&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b02cc6e7c0101511f9c53ce54f1376ebbed9849a",
+    "title": "VMware defends ending downloads of SDK that helps VM backups– or migrations to rivals",
+    "link": "https://www.theregister.com/virtualization/2026/09/10/vmware-defends-ending-downloads-of-sdk-that-helps-vm-backups-or-migrations-to-rivals/5295421",
+    "summary": "Says license was never about moving VMs",
+    "isoDate": "2026-09-10T02:05:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=232652&width=800",
+    "pinned": false
+  },
+  {
     "id": "dbd0633d9193a931f23b05aa472554b4f7ea74de",
     "title": "Anthropic reveals fourth likely crime committed by its AI",
     "link": "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
@@ -1332,66 +1407,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=160249&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1cbf8a6c2e8600698cb069110c4da55f5c447f1b",
-    "title": "DRAM contract prices forecast to grow only 13-18% in Q3",
-    "link": "https://www.theregister.com/storage/2026/09/07/dram-contract-prices-forecast-to-grow-only-13-18-in-q3/5294776",
-    "summary": "PC buyers already had enough of helping to fund the AI revolution, only essential refreshes happening now",
-    "isoDate": "2026-09-07T15:20:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "storage"
-    ],
-    "image": "https://image.theregister.com/?imageId=257307&width=800",
-    "pinned": false
-  },
-  {
-    "id": "963fd27bcf79b740786f5656313953ef1b1e868f",
-    "title": "Nightwing CEO has a Labor Day message for staff – and apparently The Register",
-    "link": "https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819",
-    "summary": "Nothing says ‘For internal use only’ quite like emailing it to the press",
-    "isoDate": "2026-09-07T14:43:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5254719&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a9a32a60244dcbcc9c60256de5615e8ca2cc21c6",
-    "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys",
-    "link": "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770",
-    "summary": "Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed",
-    "isoDate": "2026-09-07T13:26:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=262699&width=800",
-    "pinned": false
-  },
-  {
-    "id": "67464077f05fea386e8b96958377acfb35aede6b",
-    "title": "Asahi Linux takes on Apple M3, minus a few creature comforts",
-    "link": "https://www.theregister.com/os-platforms/2026/09/07/asahi-linux-takes-on-apple-m3-minus-a-few-creature-comforts/5294788",
-    "summary": "Most hardware works, although graphics, sleep, and external displays need more attention",
-    "isoDate": "2026-09-07T13:01:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=261233&width=800",
     "pinned": false
   },
   {
