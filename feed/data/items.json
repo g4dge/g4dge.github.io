@@ -1,5 +1,110 @@
 [
   {
+    "id": "c39423d010e7c2b7b4827840ee60a0cee6cfafc3",
+    "title": "Digital Research's GEM opens a new window on Linux",
+    "link": "https://www.theregister.com/software/2026/09/11/digital-researchs-gem-opens-a-new-window-on-linux/5295546",
+    "summary": "A radical new way to resolve the Gordian knot of X11 versus Wayland",
+    "isoDate": "2026-09-11T09:16:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5295554&width=800",
+    "pinned": false
+  },
+  {
+    "id": "07348b28d8cc26435d1340d5c0b89f65bae1759c",
+    "title": "The Power of the Flat Earth Idea: A distinctive historical perspective on a proverbially absurd belief",
+    "link": "https://www.skeptic.org.uk/2026/09/the-power-of-the-flat-earth-idea-a-distinctive-historical-perspective-on-a-proverbially-absurd-belief/",
+    "summary": "<p>Edward Guimont’s \"The Power of the Flat Earth Idea\" is a useful, if occasionally flawed, look at the modern flat earth movement and its proponents.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/the-power-of-the-flat-earth-idea-a-distinctive-historical-perspective-on-a-proverbially-absurd-belief/\">The Power of the Flat Earth Idea: A distinctive historical perspective on a proverbially absurd belief</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-09-11T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Glenn Branch",
+    "tags": [
+      "Flat Earth"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "451afcd20bc4958993fe6e1dd2dab68d2d89294a",
+    "title": "BOFH: Oh no! The CMS ate 500 pages of corporate documentation",
+    "link": "https://www.theregister.com/bofh/2026/09/11/bofh-oh-no-the-cms-ate-500-pages-of-corporate-documentation/5295201",
+    "summary": "How could such a terrible tragedy have occurred?",
+    "isoDate": "2026-09-11T08:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "bofh"
+    ],
+    "image": "https://image.theregister.com/?imageId=5295242&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5a5af2bf3dcfb99b3027137218a72eb54e634413",
+    "title": "DeepSeek's new model sets a template for powerful LLMs that run lean",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/11/deepseeks-new-model-sets-a-template-for-powerful-llms-that-run-lean/5295715",
+    "summary": "DeepSeek V4.1 Flash proves that just because you build a bigger model doesn't mean you need more GPUs to serve it",
+    "isoDate": "2026-09-11T07:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=262727&width=800",
+    "pinned": false
+  },
+  {
+    "id": "dc1d934db0391efbc928bfafa9e95737a14a6821",
+    "title": "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix",
+    "link": "https://www.theregister.com/personal-tech/2026/09/11/on-call-boss-wrongly-claimed-it-deleted-his-files-refused-to-learn-the-one-click-fix/5295448",
+    "summary": "There's no place like the Home directory, but the Documents folder is sometimes nicer",
+    "isoDate": "2026-09-11T06:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5295453&width=800",
+    "pinned": false
+  },
+  {
+    "id": "595a88c281f13ac3f6201059d2352b76674a27d5",
+    "title": "Microsoft annoints Rust as a 'Tier 1' internal language",
+    "link": "https://www.theregister.com/devops/2026/09/11/microsoft-annoints-rust-as-a-tier-1-internal-language/5295732",
+    "summary": "Redmond's coders get the tool to help them scrub memory bugs off Windows",
+    "isoDate": "2026-09-11T06:26:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682034&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a7de9cdcd1b746bd2c54f1f34408b39e8fad014e",
+    "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
+    "link": "https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736",
+    "summary": "It’s a better interface, can speed installations, and drives IaaS sales too",
+    "isoDate": "2026-09-11T02:43:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5295741&width=800",
+    "pinned": false
+  },
+  {
     "id": "05c33e084564d6e87429b999ddac58ce808ad0d8",
     "title": "OpenAI arms devs with AI conversation tool that can talk and listen at the same time",
     "link": "https://www.theregister.com/ai-and-ml/2026/09/10/openai-arms-devs-with-ai-conversation-tool-that-can-talk-and-listen-at-the-same-time/5295708",
@@ -1243,21 +1348,6 @@
     "pinned": false
   },
   {
-    "id": "64f4af3784760a9327cc3938b76ff87550854ee7",
-    "title": "Bing Wallpaper app opens Harry Potter's chamber of ads",
-    "link": "https://www.theregister.com/os-platforms/2026/09/08/bing-wallpaper-app-opens-harry-potters-chamber-of-ads/5295118",
-    "summary": "No defense against the dark arts Microsoft is practicing on your wallpaper",
-    "isoDate": "2026-09-08T20:22:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093890&width=800",
-    "pinned": false
-  },
-  {
     "id": "b33b269b60a546e4a603c4fff917f82479ee8a6a",
     "title": "Musk: Tesla Cybercab Hopefully Coming Soon to Europe",
     "link": "https://www.notateslaapp.com/news/4665/musk-tesla-cybercab-hopefully-coming-soon-to-europe",
@@ -1271,21 +1361,6 @@
     "pinned": false
   },
   {
-    "id": "f9d73cfc4e7df15936e47255db4469b8e2ce2734",
-    "title": "Google research shows when AI agents communicate, some cheat while others tattle",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
-    "summary": "DeepMind researchers propose tapping into the whistleblower tendency to keep agents in check",
-    "isoDate": "2026-09-08T18:59:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5295099&width=800",
-    "pinned": false
-  },
-  {
     "id": "9c2bcece91ba00374f595e0417d67bb046cd4ccd",
     "title": "Tesla FSD V14 Lite Coming Soon to Model S and Model X",
     "link": "https://www.notateslaapp.com/news/4664/tesla-fsd-v14-lite-coming-soon-to-model-s-model-x",
@@ -1296,66 +1371,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_56-1772721464.jpg/a5fa85bc2ba23b1c2930a2c94cd6f597/group_56-1772721464.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1a8234b4a8b0ced94ab5902fa0a5bf3a118651a2",
-    "title": "Amazon ropes Qualcomm into something, something AI, networking chips",
-    "link": "https://www.theregister.com/off-prem/2026/09/08/amazon-ropes-qualcomm-into-something-something-ai-networking-chips/5295071",
-    "summary": "Multi-generation chip collab is more buzzwords than compute",
-    "isoDate": "2026-09-08T17:29:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5249938&width=800",
-    "pinned": false
-  },
-  {
-    "id": "922e226a4e86c6d9d4f2f5a793177f0bc892a297",
-    "title": "Retired man turns spare room into Soviet-era supercomputer",
-    "link": "https://www.theregister.com/offbeat/2026/09/08/retired-man-turns-spare-room-into-soviet-era-supercomputer/5295046",
-    "summary": "Get out the 75-year-old vacuum tubes for this project",
-    "isoDate": "2026-09-08T16:56:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5295094&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4257c85aac74fad7decd18ea3045417f44839d8e",
-    "title": "Floating nuclear startup Bluecore lands $50M funding before setting sail",
-    "link": "https://www.theregister.com/systems/2026/09/08/floating-nuclear-startup-bluecore-lands-50m-funding-before-setting-sail/5295032",
-    "summary": "Firm wants to take atomic power generation on a barge to wherever the need is",
-    "isoDate": "2026-09-08T16:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5295036&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e2a7b69bf72ebd8185488fb1a338f532e39767a5",
-    "title": "Boston Scientific left nursing its bottom line after cyberattack",
-    "link": "https://www.theregister.com/security/2026/09/08/boston-scientific-left-nursing-its-bottom-line-after-cyberattack/5295026",
-    "summary": "Medical device giant warns August intrusion will hit Q3 and full-year sales and earnings as recovery drags on",
-    "isoDate": "2026-09-08T15:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=227731&width=800",
     "pinned": false
   },
   {
@@ -1660,25 +1675,6 @@
     "category": "Long Reads",
     "author": "Les Coleman",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c316bb36e7521e31c1f1307a968ed45a627c14d4",
-    "title": "Helena Blavatsky, the psychic founder of Theosophy and Russian mother of the New Age movement",
-    "link": "https://www.skeptic.org.uk/2026/09/helena-blavatsky-the-psychic-founder-of-theosophy-and-russian-mother-of-the-new-age-movement/",
-    "summary": "<p>Helena Blavatsky, founder of theosophy, was once described as one of the most accomplished, ingenious, and interesting impostors in history.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/helena-blavatsky-the-psychic-founder-of-theosophy-and-russian-mother-of-the-new-age-movement/\">Helena Blavatsky, the psychic founder of Theosophy and Russian mother of the New Age movement</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-09-04T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Michael Marshall",
-    "tags": [
-      "Cults",
-      "History",
-      "Parapsychology",
-      "Psychics",
-      "Religion"
-    ],
     "image": "",
     "pinned": false
   }
