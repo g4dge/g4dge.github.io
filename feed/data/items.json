@@ -1,5 +1,73 @@
 [
   {
+    "id": "4fb7c0b8bdda9ea1903fbffdb31a87782c6d7843",
+    "title": "Some satellite companies still have an appetite for boutique launch services",
+    "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+    "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+    "isoDate": "2026-09-11T23:34:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "Astroscale",
+      "isar aerospace",
+      "Japan",
+      "launch",
+      "satellite servicing",
+      "space debris"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9d35db9c6f7d09bdd589054d9a1cf5fc556515ec",
+    "title": "AI more likely to kill animals if it saves fuel or money",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
+    "summary": "Machine learning models still have a lot to learn about the value of life",
+    "isoDate": "2026-09-11T21:49:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5296007&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c30a52edd2d2c531a590f8b1f71c892b80c26589",
+    "title": "Tesla VP Talks About What's Coming in FSD V15",
+    "link": "https://www.notateslaapp.com/news/4679/tesla-ai-chief-talks-about-whats-coming-in-fsd-v15",
+    "summary": "Ashok Elluswamy recently shared what's coming in FSD v15, the next major neural network upgrade that's expected to roll out later this year or early next year <a href=\"https://www.notateslaapp.com/news/4679/tesla-ai-chief-talks-about-whats-coming-in-fsd-v15\">Read More</a>",
+    "isoDate": "2026-09-11T21:45:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard.webp/7cfd0633399b2af2d987f0a8fd17d106/fsd_giftcard.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d7b2f7525c3f51eddcbfa905a2de5f336296be64",
+    "title": "Random rewards enrich classic game-theory insights",
+    "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+    "summary": "Simple games gain rich strategies in the face of noise.",
+    "isoDate": "2026-09-11T21:41:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Chris Lee",
+    "tags": [
+      "Science",
+      "Behavioral science",
+      "game theory",
+      "math"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "23758e513507dfd210f5e5639d05fce982cb6bde",
     "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
     "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
@@ -122,7 +190,7 @@
   },
   {
     "id": "69808f529b230dad968a17f7d90c8daf8b982dec",
-    "title": "Tesla Officially Announces Semi for Europe, Launching 2027",
+    "title": "Tesla Officially Announces Semi for Europe: What's Different",
     "link": "https://www.notateslaapp.com/news/4677/tesla-officially-announces-semi-for-europe-launching-2027",
     "summary": "After Tesla confirmed last month that the Semi would be coming to Europe, official regional web portals and technical specs have gone live <a href=\"https://www.notateslaapp.com/news/4677/tesla-officially-announces-semi-for-europe-launching-2027\">Read More</a>",
     "isoDate": "2026-09-11T17:49:00Z",
@@ -131,6 +199,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-europe-launch-2.webp/c4a73283e86fcb3e0ff574f59dd30da5/tesla-semi-europe-launch-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a8477b7cb2315b12fe1f48fd3a1af55f53c027ef",
+    "title": "More JFrog Artifactory bugs under attack, and all 3 have patches",
+    "link": "https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943",
+    "summary": "If you're waiting for a sign to upgrade to a fixed version: this is it",
+    "isoDate": "2026-09-11T17:43:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5295963&width=800",
     "pinned": false
   },
   {
@@ -758,30 +841,6 @@
     "pinned": false
   },
   {
-    "id": "5605ce270ce091a0170654cfb1dcd1cf36b21441",
-    "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-    "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-    "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
-    "isoDate": "2026-09-10T16:53:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "china",
-      "delivery drones",
-      "dji",
-      "DJI Flycart 100",
-      "drone deliveries",
-      "drones",
-      "Nepal",
-      "Nepal flood disaster",
-      "Nepal floods"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Drone-Nepal-flood-disaster-relief-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "56ef123e779e2ce8ff4248197fec69f1f6802a89",
     "title": "AI job cuts could come with a costly undo button",
     "link": "https://www.theregister.com/ai-and-ml/2026/09/10/ai-job-cuts-could-come-with-a-costly-undo-button/5295605",
@@ -897,41 +956,6 @@
       "public sector"
     ],
     "image": "https://image.theregister.com/?imageId=5288528&width=800",
-    "pinned": false
-  },
-  {
-    "id": "309bc3c43127daff15c0af7e8b789fb2754400a2",
-    "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
-    "link": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
-    "summary": "\"Artemis II is done.\"",
-    "isoDate": "2026-09-10T11:30:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Robert Pearlman",
-    "tags": [
-      "Space",
-      "artemis II",
-      "artemis iii",
-      "astronaut mentoring",
-      "astronaut office",
-      "Cal Poly",
-      "Canadian Space Agency",
-      "Christina Koch",
-      "emeritus program",
-      "houston",
-      "international space station",
-      "Jeremy Hansen",
-      "johnson space center",
-      "moon mission",
-      "NASA",
-      "Reid Wiseman",
-      "space history",
-      "spaceflight experience",
-      "SpaceX Dragon",
-      "U.S. Space Academy",
-      "victor glover"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090926a-lg-500x500.jpg",
     "pinned": false
   },
   {
@@ -1326,21 +1350,6 @@
     "pinned": false
   },
   {
-    "id": "c5e95322748807146773243b1a06a69e1fe7f98d",
-    "title": "Virgin Media offloads email services to third-party provider",
-    "link": "https://www.theregister.com/networks/2026/09/09/virgin-media-offloads-email-services-to-third-party-provider/5295230",
-    "summary": "Users given 45 days to save their mail or sign up with Junara",
-    "isoDate": "2026-09-09T10:30:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=1681267&width=800",
-    "pinned": false
-  },
-  {
     "id": "278bb85ef0b22bf7575e56165d12fa226cde6635",
     "title": "Making revisions",
     "link": "https://aeon.co/videos/meet-the-aboriginal-australian-artists-painting-over-the-colonial-past",
@@ -1351,21 +1360,6 @@
     "author": "Aeon Video",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "dd368125c6f48dd9ee5cb08bebd04b503d4e16d9",
-    "title": "Huawei Watch D3 pumps up its health-monitoring credentials",
-    "link": "https://www.theregister.com/personal-tech/2026/09/09/huawei-watch-d3-pumps-up-its-health-monitoring-credentials/5294920",
-    "summary": "Inflatable wrist cuff delivers 24-hour blood pressure readings, though the design remains chunky",
-    "isoDate": "2026-09-09T09:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5294923&width=800",
     "pinned": false
   },
   {
@@ -1645,19 +1639,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/two-cybercabs.webp/560bca7bb71390339f30cd6afcb8a0ae/two-cybercabs.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e40f024ecca36f322e69ac867c631a8c6a2a6ea4",
-    "title": "Cybercab Joins Tesla's Robotaxi Fleet With Cheaper Fares",
-    "link": "https://www.notateslaapp.com/news/4651/cybercab-joins-teslas-robotaxi-fleet-with-cheaper-fares",
-    "summary": "Following Thursday’s private unveiling in downtown Austin, Tesla officially opened Cybercab ride bookings to the general public in the city <a href=\"https://www.notateslaapp.com/news/4651/cybercab-joins-teslas-robotaxi-fleet-with-cheaper-fares\">Read More</a>",
-    "isoDate": "2026-09-04T22:44:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-employee-rides-giga-texas-1.webp/6afc3b1ef327d78c0470ea8bc8432abf/cybercab-employee-rides-giga-texas-1.jpg",
     "pinned": false
   }
 ]
