@@ -1,5 +1,88 @@
 [
   {
+    "id": "1e67ea309e5934e5995de17daaceb5a1a9684963",
+    "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+    "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+    "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+    "isoDate": "2026-09-15T07:00:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Volvo XC60",
+      "Volvo XC90"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/The_new_Volvo_XC60_and_the_Volvo_XC90_DuoAngle01_HERO-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5d4a899972d4bf72c47eeeb1dd1669ac22273bfd",
+    "title": "Apple iPhone Duo makes developers think in folds",
+    "link": "https://www.theregister.com/devops/2026/09/15/apple-iphone-duo-makes-developers-think-in-folds/5296415",
+    "summary": "Cupertino's $2,000 foldable gives devs more screen, and more UI state to manage",
+    "isoDate": "2026-09-15T05:55:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5296422&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bc479d98fe091006f9d26d85d280b86d0f98cba8",
+    "title": "The latest AI doomsayer is China’s intelligence boss",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451",
+    "summary": "Beijing’s response is to ‘firmly grasp technological sovereignty’ and broad regulations",
+    "isoDate": "2026-09-15T04:56:09Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=260439&width=800",
+    "pinned": false
+  },
+  {
+    "id": "50f4581c522c834a954078e9e9bf4e3ec736d20c",
+    "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+    "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+    "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
+    "isoDate": "2026-09-15T03:47:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "military space",
+      "space warfare",
+      "space weapons",
+      "US Air Force",
+      "US Space Force"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/9718607-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "924ffb539f35337dd43256dfd7e33c522006264c",
+    "title": "COBOL dev won .Net hackathon with help from AI – and their CIO loves it",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438",
+    "summary": "Australia Taxation Office sees footling with Copilot as a way to develop ‘muscles’ for real AI work",
+    "isoDate": "2026-09-15T01:47:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=262941&width=800",
+    "pinned": false
+  },
+  {
     "id": "02abb8e396706cee09c5d65427790aa74a3e7b42",
     "title": "Microsoft drafts feel-good AI model guidelines and wants your input",
     "link": "https://www.theregister.com/ai-and-ml/2026/09/15/microsoft-drafts-feel-good-ai-model-guidelines-and-wants-your-input/5296431",
@@ -934,46 +1017,6 @@
     "pinned": false
   },
   {
-    "id": "d7b2f7525c3f51eddcbfa905a2de5f336296be64",
-    "title": "Random rewards enrich classic game-theory insights",
-    "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-    "summary": "Simple games gain rich strategies in the face of noise.",
-    "isoDate": "2026-09-11T21:41:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Chris Lee",
-    "tags": [
-      "Science",
-      "Behavioral science",
-      "game theory",
-      "math"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "23758e513507dfd210f5e5639d05fce982cb6bde",
-    "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-    "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-    "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-    "isoDate": "2026-09-11T21:14:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "antibiotics",
-      "bouncy castle",
-      "drug resistance",
-      "infection",
-      "MRSA",
-      "outbreak",
-      "skin"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2233742597-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "9f9439f3791528ddc702482edf10fa1513d2a101",
     "title": "Tesla Starts Sending Invites for Semi Event on September 24",
     "link": "https://www.notateslaapp.com/news/4678/tesla-starts-sending-invites-for-semi-event-on-september-24",
@@ -1337,36 +1380,6 @@
     "pinned": false
   },
   {
-    "id": "496419006017d6239a7034f3c996c5fe16c6fcd6",
-    "title": "Watch out: Apple timepiece can grab snippets of conversation without both speakers' consent",
-    "link": "https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666",
-    "summary": "War is peace. Freedom is slavery. Privacy is surveillance",
-    "isoDate": "2026-09-10T19:50:24Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5295678&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d0211dbc0219b5261ef87487af31e6fdd48c5342",
-    "title": "Shopify extends lifeline to Tailwind as vibe coding erodes web dev platform's bottom line",
-    "link": "https://www.theregister.com/devops/2026/09/10/shopify-extends-lifeline-to-tailwind-as-vibe-coding-erodes-web-dev-platforms-bottom-line/5295672",
-    "summary": "Acquisition gives open source CSS framework 'a stable long-term home'",
-    "isoDate": "2026-09-10T19:43:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=245113&width=800",
-    "pinned": false
-  },
-  {
     "id": "659df2cffb40ac2bddfad694b72089bf62ce5c7d",
     "title": "Tesla Cybertruck & Powerwall Can Now Power Your Home Together",
     "link": "https://www.notateslaapp.com/news/4673/tesla-cybertruck-powerwall-can-now-power-your-home-together",
@@ -1377,21 +1390,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-powershare-1.png/7f236157bf84bc24292bf258cec767aa/cybertruck-powershare-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3fcc5a757d9e9f228cccc79f0217713784612350",
-    "title": "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script",
-    "link": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
-    "summary": "Human operator: don't touch CIS orgs. AI agents: look a squirrel!",
-    "isoDate": "2026-09-10T18:49:43Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5224165&width=800",
     "pinned": false
   },
   {
