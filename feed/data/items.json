@@ -1,5 +1,55 @@
 [
   {
+    "id": "240199ea7c1155eddc3d238e22e29588a3abb3d5",
+    "title": "Java 27 grows up, makes better choices",
+    "link": "https://www.theregister.com/devops/2026/09/16/java-27-grows-up-makes-better-choices/5296707",
+    "summary": "Improvements in JDK garbage collection, header sizes, data security and quantum key support all should minimize developer friction",
+    "isoDate": "2026-09-16T04:50:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=1683348&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ea18852fc5444bd8935c0697eaaf1d3e9bfe47b5",
+    "title": "How chimps teach their kids tool tricks",
+    "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+    "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+    "isoDate": "2026-09-16T04:00:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "animal behavior",
+      "animal psychology",
+      "animal tool use",
+      "chimpanzees",
+      "primates"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chimps1-500x500-1789408227.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3f978337272762e59f5bb821bec7fd7de23c5004",
+    "title": "TypeSafe AI debuts model for machines that plays Doom",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+    "summary": "'Jev' doesn't chat. It produces typed probabilistic decisions",
+    "isoDate": "2026-09-16T01:35:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=257943&width=800",
+    "pinned": false
+  },
+  {
     "id": "8e7804334d7aa981909973cf137f1e3ba1472af0",
     "title": "Tesla Debuts Pre-Assembled Accordion Superchargers",
     "link": "https://www.notateslaapp.com/news/4697/tesla-debuts-pre-assembled-accordion-superchargers",
@@ -31,6 +81,36 @@
       "spacex"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "abbfd892821509e36d23f9124395b19246b714b3",
+    "title": "The vulnpocalypse rains iBugs down on Apple with record-setting number of patches",
+    "link": "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679",
+    "summary": "September Patch Tuesday part 2?",
+    "isoDate": "2026-09-15T21:38:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5296699&width=800",
+    "pinned": false
+  },
+  {
+    "id": "cab22266840304c9d83de605e8151bf37ea0aacd",
+    "title": "AI networking startups race to replace Nvidia's NVLink",
+    "link": "https://www.theregister.com/systems/2026/09/15/ai-networking-startups-race-to-replace-nvidias-nvlink/5296672",
+    "summary": "Intel spin-off Cornelis and newcomer Delos Data pitch open alternatives for scaling AI beyond the rack",
+    "isoDate": "2026-09-15T20:56:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5290632&width=800",
     "pinned": false
   },
   {
@@ -886,31 +966,6 @@
     "pinned": false
   },
   {
-    "id": "0ae42235b746e80641c53cb526d930f595dd53b1",
-    "title": "AI leaders want to hit the brakes after years of reckless speed",
-    "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-    "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-    "isoDate": "2026-09-14T19:06:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Tech",
-      "altman",
-      "amodei",
-      "Anthropic",
-      "china",
-      "Dario Amodei",
-      "frontier",
-      "openai",
-      "sam altman",
-      "speed"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-500x500-1789407445.jpg",
-    "pinned": false
-  },
-  {
     "id": "3c49997b3859dc3437123630dfe193358e640587",
     "title": "New hardware device can RAM into encrypted memory, expose your data",
     "link": "https://www.theregister.com/security/2026/09/14/new-hardware-device-can-ram-into-encrypted-memory-expose-your-data/5296377",
@@ -1248,21 +1303,6 @@
     "pinned": false
   },
   {
-    "id": "4ae9bf02b2b403fb142ae014cade007ead85a4a6",
-    "title": "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-    "summary": "Amodei, Altman, Nadella and Musk agree on how government can tame the monster they created",
-    "isoDate": "2026-09-14T01:15:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=262625&width=800",
-    "pinned": false
-  },
-  {
     "id": "438035e42ff4f89c572a1e4f1c960d4dacb691c9",
     "title": "Tesla Robotaxis to Get FSD V15, Start 24/7 Rides Next Month",
     "link": "https://www.notateslaapp.com/news/4682/tesla-robotaxis-to-get-fsd-v15-start-running-247-next-month",
@@ -1273,51 +1313,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-screen-display.webp/7f2a2a37700951cd5d4b64adc5098e1d/robotaxi-screen-display.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6ee771b91e76ba6ec7268173edfd33770890c1e6",
-    "title": "The improbable music of the ZX Spectrum's one-bit speaker",
-    "link": "https://www.theregister.com/offbeat/2026/09/13/the-improbable-music-of-the-zx-spectrums-one-bit-speaker/5295862",
-    "summary": "Ingenious coders coaxed multichannel chiptunes from the humblest of sound hardware",
-    "isoDate": "2026-09-13T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=236851&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a51cde05e603b140e1675145e8b24f0e8f697939",
-    "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-    "link": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
-    "summary": "RIP, you won't be mourned",
-    "isoDate": "2026-09-13T11:21:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296004&width=800",
-    "pinned": false
-  },
-  {
-    "id": "379b971b4459e5c73fc941210d370f557c1b275a",
-    "title": "How to make Xfce look like almost any desktop you want",
-    "link": "https://www.theregister.com/software/2026/09/13/how-to-make-xfce-look-like-almost-any-desktop-you-want/5295775",
-    "summary": "Panel Profiles handles the heavy lifting, once you've installed the plugins it expects",
-    "isoDate": "2026-09-13T09:09:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5295794&width=800",
     "pinned": false
   },
   {
