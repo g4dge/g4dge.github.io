@@ -1,5 +1,126 @@
 [
   {
+    "id": "beb9711acac3a683e3cfbaeb1d765f2e4385df0b",
+    "title": "Google announces new experimental \"CC\" AI agent for families",
+    "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+    "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+    "isoDate": "2026-09-17T20:24:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "gemini",
+      "google"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "01982aadb2ec985009f152d381630d3f3119f168",
+    "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+    "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+    "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+    "isoDate": "2026-09-17T20:10:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI training",
+      "ChatGPT",
+      "conyright infringement",
+      "copilot",
+      "copyright law",
+      "fair use",
+      "microsoft",
+      "openai"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7dc0621411e9510321b5394811126e090f949a97",
+    "title": "Tesla to Open New Collision Repair Center in Miami",
+    "link": "https://www.notateslaapp.com/news/4703/tesla-to-open-new-collision-repair-center-in-miami",
+    "summary": "Tesla is preparing to expand its footprint in South Florida with a new collision center designed to handle heavy-duty bodywork and structural repairs <a href=\"https://www.notateslaapp.com/news/4703/tesla-to-open-new-collision-repair-center-in-miami\">Read More</a>",
+    "isoDate": "2026-09-17T19:57:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-service/tesla-service-lights-hero.jpeg/d94ce673a8f5d4815a39493510b91d7b/tesla-service-lights-hero.jpg",
+    "pinned": false
+  },
+  {
+    "id": "efa840d232707a5f6579cf1e949d085c6600c17d",
+    "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+    "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+    "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
+    "isoDate": "2026-09-17T19:07:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "MPA",
+      "site-blocking"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-500x500-1738189251.jpg",
+    "pinned": false
+  },
+  {
+    "id": "de0fc760122ac3c6c29ece2dfca6fc09c9bd4b47",
+    "title": "What's Changed in the Tesla Shop This Month",
+    "link": "https://www.notateslaapp.com/news/4702/whats-changed-in-the-tesla-shop-this-month",
+    "summary": "Tesla frequently adjusts its official online store, shuffling prices, retiring older inventory, and introducing fresh accessories <a href=\"https://www.notateslaapp.com/news/4702/whats-changed-in-the-tesla-shop-this-month\">Read More</a>",
+    "isoDate": "2026-09-17T18:57:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-shop-changes-aug-sep-2026-hero.webp/62cdc0a8a8fd1b971a7ce4304294c133/tesla-shop-changes-aug-sep-2026-hero.jpg",
+    "pinned": false
+  },
+  {
+    "id": "168e3a7edc7326171115c7d80bcf950f41bf1686",
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+    "isoDate": "2026-09-17T18:33:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "Anthropic",
+      "LLMs",
+      "watermarking"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "26056f2e2843345fa073ed874323010b711f2c98",
+    "title": "China's Salt Typhoon backdoors Latin American orgs with new snooping malware",
+    "link": "https://www.theregister.com/security/2026/09/17/chinas-salt-typhoon-backdoors-latin-american-orgs-with-new-snooping-malware/5297286",
+    "summary": "Beware the SparroWocky, my son! The backdoor that bites…",
+    "isoDate": "2026-09-17T18:00:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=1681600&width=800",
+    "pinned": false
+  },
+  {
     "id": "c1040cb3b243079ff32b3260bc9bf37941bc95e4",
     "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
     "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
@@ -35,6 +156,21 @@
       "car review"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Hyundai-Ioniq-5-1-of-10-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5212eb797be24aa0cac8241c4e052fe9bafd4e66",
+    "title": "Scientific papers become agentic chatbots with new tool",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/17/scientific-papers-become-agentic-chatbots-with-new-tool/5297276",
+    "summary": "Why go through the hassle of reading a study for yourself when you can turn it into an AI agent and tell it to reproduce the analysis for you?",
+    "isoDate": "2026-09-17T16:42:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=246435&width=800",
     "pinned": false
   },
   {
@@ -708,52 +844,6 @@
     "pinned": false
   },
   {
-    "id": "4e08e8bed0ca12888073a35a3a04e1e2f5a1c660",
-    "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-    "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
-    "summary": "Man wins fight to block ICE threat over off-the-cuff angry email.",
-    "isoDate": "2026-09-16T17:06:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "censorship",
-      "First Amendment",
-      "free speech",
-      "ice",
-      "immigration and customs enforcement"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/David-Streever-via-FIRE-500x500.jpeg",
-    "pinned": false
-  },
-  {
-    "id": "5604e23691ab88c4b3c72aaae73f7fd67b3259c2",
-    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-    "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-    "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
-    "isoDate": "2026-09-16T16:40:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "ai data centers",
-      "Amazon",
-      "Amazon AWS",
-      "Amazon Web Services",
-      "AWS",
-      "aws outage",
-      "cloud services",
-      "data centers",
-      "Iran",
-      "military drones",
-      "USA-Iran War"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AWS-data-center-in-Abu-Dhabi-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e84f3e5196793145abcf397c28a9f1b987e374e2",
     "title": "Enterprises are sweating legacy IT assets as AI investment grows",
     "link": "https://www.theregister.com/systems/2026/09/16/enterprises-are-sweating-legacy-it-assets-as-ai-investment-grows/5296896",
@@ -796,49 +886,6 @@
       "software"
     ],
     "image": "https://image.theregister.com/?imageId=5296885&width=800",
-    "pinned": false
-  },
-  {
-    "id": "eb6ba41d10f310e8a8342c5aba96fadfc275cc9d",
-    "title": "What happens when neutrinos swap identities inside a supernova?",
-    "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
-    "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
-    "isoDate": "2026-09-16T15:17:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "astrophysics",
-      "neutrinos",
-      "particle physics",
-      "Physics",
-      "supernovas"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-500x500.png",
-    "pinned": false
-  },
-  {
-    "id": "0317bab3a39adea2a475622339c6de1589f8dbbe",
-    "title": "macOS 27 Golden Gate: The Ars Technica review",
-    "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-    "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
-    "isoDate": "2026-09-16T14:50:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Features",
-      "Tech",
-      "apple",
-      "Apple silicon",
-      "MacOS",
-      "macos 27",
-      "macos 27 golden gate",
-      "macos golden gate"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper-500x500-1789126751.jpg",
     "pinned": false
   },
   {
@@ -1293,36 +1340,6 @@
     "pinned": false
   },
   {
-    "id": "c67bfaf153cae712f7d38f53c55be98143cbb3bf",
-    "title": "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler",
-    "link": "https://www.theregister.com/security/2026/09/15/swiss-court-sentences-52-year-old-ukrainian-ransomware-dev-to-nearly-13-years-in-the-cooler/5296482",
-    "summary": "The man allegedly wrote the code that powered the Lockergoga, MegaCortex, and Nefilim operations",
-    "isoDate": "2026-09-15T13:32:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5252924&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e83253b1c0f087ba6b9e2329b52c864a4ae104a6",
-    "title": "Anthropic and OpenAI look to Uncle Sam to make them too big to fail",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/15/anthropic-and-openai-look-to-uncle-sam-to-make-them-too-big-to-fail/5296403",
-    "summary": "American model devs are trying to convince Washington to cement their dominance",
-    "isoDate": "2026-09-15T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296496&width=800",
-    "pinned": false
-  },
-  {
     "id": "d6031cb4afc67ee4afd4ebbd9c67102105495415",
     "title": "Chasing la dolce vita",
     "link": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
@@ -1575,45 +1592,6 @@
       "Flat Earth"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "3f2e4e51da7317ff7dfb7e9b2d7b7274b727dbf0",
-    "title": "Tesla Files Plans for Another Robotaxi-Only Supercharger",
-    "link": "https://www.notateslaapp.com/news/4674/tesla-files-plans-for-another-robotaxi-only-supercharger",
-    "summary": "With the Robotaxi network steadily expanding, Tesla is already planning dedicated infrastructure to keep its driverless fleet powered up <a href=\"https://www.notateslaapp.com/news/4674/tesla-files-plans-for-another-robotaxi-only-supercharger\">Read More</a>",
-    "isoDate": "2026-09-10T20:39:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-second-robotaxi-supercharger-austin-1.webp/22d899baef7416af2c2ff1012fce6e57/tesla-second-robotaxi-supercharger-austin-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "659df2cffb40ac2bddfad694b72089bf62ce5c7d",
-    "title": "Tesla Cybertruck & Powerwall Can Now Power Your Home Together",
-    "link": "https://www.notateslaapp.com/news/4673/tesla-cybertruck-powerwall-can-now-power-your-home-together",
-    "summary": "Tesla has officially resolved a longstanding product incompatibility between Cybertruck and Powerwall that prevented owners of both from using Powershare <a href=\"https://www.notateslaapp.com/news/4673/tesla-cybertruck-powerwall-can-now-power-your-home-together\">Read More</a>",
-    "isoDate": "2026-09-10T19:18:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-powershare-1.png/7f236157bf84bc24292bf258cec767aa/cybertruck-powershare-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "896c66e540be0a41f67c8fa72be4771ee182c26a",
-    "title": "You Can Now Let Tesla Know You Want to Buy a Cybercab",
-    "link": "https://www.notateslaapp.com/news/4672/you-can-now-let-tesla-know-you-want-to-buy-a-cybercab",
-    "summary": "Following the start of public passenger rides in Austin last week, Tesla has quietly taken its first step toward commercial Cybercab sales <a href=\"https://www.notateslaapp.com/news/4672/you-can-now-let-tesla-know-you-want-to-buy-a-cybercab\">Read More</a>",
-    "isoDate": "2026-09-10T18:11:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-purchase-interest-form.webp/7abca7bf6aed508624c3a8c3b4d522f9/tesla-cybercab-purchase-interest-form.jpg",
     "pinned": false
   }
 ]
