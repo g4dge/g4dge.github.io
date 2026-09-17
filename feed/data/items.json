@@ -1,5 +1,173 @@
 [
   {
+    "id": "8fe055239060fdac4c2466bd912a882d499a5b31",
+    "title": "AI model watermarking changes agent behavior",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998",
+    "summary": "Lasso Security sees differences in tool handling and model refusals",
+    "isoDate": "2026-09-17T13:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5294391&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a58825c13db176da0fd919f3d107eed469fb599f",
+    "title": "Cisco drops another exploited zero-day, this time a perfect 10",
+    "link": "https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180",
+    "summary": "ISE authentication bypass under active attack just days after another Cisco zero-day sent admins scrambling to patch",
+    "isoDate": "2026-09-17T12:40:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5249134&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b1623f4db02395c89378243f481976a07ad14559",
+    "title": "Microsoft AI chief warns Anthropic not to put ideas in Claude's head",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/17/microsoft-ai-chief-warns-anthropic-not-to-put-ideas-in-claudes-head/5297149",
+    "summary": "Mustafa Suleyman claims model welfare language could make future systems harder to control – while sparing OpenAI the same scrutiny",
+    "isoDate": "2026-09-17T12:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5214745&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9321dd4ea95d7808048ebbf819ffdecb1a3bb233",
+    "title": "Test environment let anyone access live customer data",
+    "link": "https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977",
+    "summary": "Even a temporary staging server needs to be locked down.",
+    "isoDate": "2026-09-17T11:28:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5296981&width=800",
+    "pinned": false
+  },
+  {
+    "id": "dd14f31854f5ce65fb1098c4e759e27053b484c6",
+    "title": "Omarchy gains $18.5M in backing, fresh converts – and fierce critics",
+    "link": "https://www.theregister.com/software/2026/09/17/omarchy-gains-185m-in-backing-fresh-converts-and-fierce-critics/5296780",
+    "summary": "DHH's Arch-based desktop becomes the latest front in FOSS's culture wars",
+    "isoDate": "2026-09-17T10:44:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=1624985&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3bf6be97e09ad8f94d76329b770121865fca796e",
+    "title": "Ofcom discovers issuing Online Safety Act fines is easier than collecting them",
+    "link": "https://www.theregister.com/security/2026/09/17/ofcom-discovers-issuing-online-safety-act-fines-is-easier-than-collecting-them/5297110",
+    "summary": "Platforms comply just enough to avoid being blocked, leaving the regulator chasing debt",
+    "isoDate": "2026-09-17T10:08:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5254826&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7e11f4b418fe4b5a32d96d005f6eb180d02191dc",
+    "title": "Who will taste the cherries?",
+    "link": "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
+    "summary": "<p><img alt=\"Vintage photo showing a woman in a retro futuristic kitchen operating a round appliance with a clear dome lid.\" src=\"https://images.aeonmedia.co/images/df3de1b9-0cd3-48a0-a054-36d0baf17bbe/essay-v1-.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The computist has one dream: to debug the subjectivity out of all of human knowledge, creating a pure, frictionless world</p><p><em>- by Liam Spradlin</em></p><p><a href=\"https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries\">Read on Aeon</a></p>",
+    "isoDate": "2026-09-17T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Liam Spradlin",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "774b93474be4400f6ad1287319d4a58321439c9f",
+    "title": "Hackers reveal how Flock cameras really track cars and people",
+    "link": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
+    "summary": "One hacked camera captured 1.6 million images and could detect people as well as cars.",
+    "isoDate": "2026-09-17T09:43:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dhruv Mehrotra, Joseph Cox, wired.com",
+    "tags": [
+      "Security",
+      "automated license plate readers",
+      "Flock!",
+      "hacking",
+      "surveillance",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-500x500-1779223476.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b3a9a60d8923aad4b5515310829b512e5925d2db",
+    "title": "Government Digital Service move 'grinds gears' in UK's e-government",
+    "link": "https://www.theregister.com/public-sector/2026/09/17/government-digital-service-move-grinds-gears-in-uks-e-government/5296784",
+    "summary": "As team responsible for tech strategy shunted to third department in three years, experts fear exodus of talent",
+    "isoDate": "2026-09-17T09:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=241212&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5f124237f6b6a0c1ffcc9c5c6c217b1a1dfe0afb",
+    "title": "Judge orders Microsoft to spill internal docs and scour execs' comms in secondhand licensing case",
+    "link": "https://www.theregister.com/legal/2026/09/17/judge-orders-microsoft-to-spill-internal-docs-and-scour-execs-comms-in-secondhand-licensing-case/5296820",
+    "summary": "Yes, the 'Secondhand Software Presentation' does sound like it might be an adverse document...",
+    "isoDate": "2026-09-17T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=263174&width=800",
+    "pinned": false
+  },
+  {
+    "id": "58c43be93b548797f292d17a006a9a4eeacd897e",
+    "title": "Fujitsu ready to sell its custom ‘Monaka’ Arm chip, maybe to rival server-makers",
+    "link": "https://www.theregister.com/systems/2026/09/17/fujitsu-ready-to-sell-its-custom-monaka-arm-chip-maybe-to-rival-server-makers/5297025",
+    "summary": "Clouds, the sovereign-sensitive, and the inferencing-interested are also about to get sales calls",
+    "isoDate": "2026-09-17T06:20:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297033&width=800",
+    "pinned": false
+  },
+  {
     "id": "fc1fcfe7927f68dd513b188fb1c0e7093fcd564b",
     "title": "Swift 6.4 unifies building across Linux, macOS, Windows",
     "link": "https://www.theregister.com/devops/2026/09/17/swift-64-unifies-building-across-linux-macos-windows/5297006",
@@ -891,26 +1059,6 @@
     "pinned": false
   },
   {
-    "id": "75a28c3dcafa1e78a5081f2ed0c33845543c9aff",
-    "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
-    "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
-    "summary": "Reaching orbit would mark a significant milestone.",
-    "isoDate": "2026-09-15T18:48:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "orbital flight",
-      "space",
-      "spacex",
-      "starlink",
-      "starship"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "047d99bbbc95e2a796ea0cfd2698d20ffdfec65c",
     "title": "Iranian spies hit Windows machines with Chosen Brick data-stealing malware",
     "link": "https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646",
@@ -1158,36 +1306,6 @@
     "pinned": false
   },
   {
-    "id": "ec141e3311ba5ae1c400a7c4f3f90db1c4ce0520",
-    "title": "PostgreSQL 19 graph queries fail the 'would you ship this?' test",
-    "link": "https://www.theregister.com/databases/2026/09/15/postgresql-19-graph-queries-fail-the-would-you-ship-this-test/5296343",
-    "summary": "SQL/PGQ gets bounced over unresolved bugs as concurrent REPACK promises fewer midnight calls for DBAs",
-    "isoDate": "2026-09-15T09:42:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "databases"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682474&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ae02fc31ec2493b9e9590ca8e40441c6f621ad0b",
-    "title": "Give Xfce a Mac or Unity-style makeover",
-    "link": "https://www.theregister.com/software/2026/09/15/give-xfce-a-mac-or-unity-style-makeover/5295937",
-    "summary": "The existing layouts are fun, but there's much more we can do",
-    "isoDate": "2026-09-15T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5295973&width=800",
-    "pinned": false
-  },
-  {
     "id": "2d27ba33161342bdf38e093a51c04a3821e90c74",
     "title": "From the archives: At the frontiers of science – cataloguing the anomalies and curiosities of nature",
     "link": "https://www.skeptic.org.uk/2026/09/from-the-archives-at-the-frontiers-of-science-cataloguing-the-anomalies-and-curiosities-of-nature/",
@@ -1200,96 +1318,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fa2ebb7707766c86425b4c18d1fad8f5312ae32a",
-    "title": "Open weights are not open source: Why AI's favorite label is under dispute",
-    "link": "https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436",
-    "summary": "Downloading a model is increasingly easy. Understanding how it was made, or changing a system at its root, is another matter",
-    "isoDate": "2026-09-15T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=5295478&width=800",
-    "pinned": false
-  },
-  {
-    "id": "45ce14e07772ee05484ab539575177d07afaf947",
-    "title": "Most people who quit M365 for Google do it out of spite, but there’s no ROI in that",
-    "link": "https://www.theregister.com/saas/2026/09/15/most-people-who-quit-m365-for-google-do-it-out-of-spite-but-theres-no-roi-in-that/5296460",
-    "summary": "Nor are you likely to save much by making the move, says Gartner",
-    "isoDate": "2026-09-15T07:23:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=1621996&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5d4a899972d4bf72c47eeeb1dd1669ac22273bfd",
-    "title": "Apple iPhone Duo makes developers think in folds",
-    "link": "https://www.theregister.com/devops/2026/09/15/apple-iphone-duo-makes-developers-think-in-folds/5296415",
-    "summary": "Cupertino's $2,000 foldable gives devs more screen, and more UI state to manage",
-    "isoDate": "2026-09-15T05:55:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296422&width=800",
-    "pinned": false
-  },
-  {
-    "id": "bc479d98fe091006f9d26d85d280b86d0f98cba8",
-    "title": "The latest AI doomsayer is China’s intelligence boss",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451",
-    "summary": "Beijing’s response is to ‘firmly grasp technological sovereignty’ and broad regulations",
-    "isoDate": "2026-09-15T04:56:09Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=260439&width=800",
-    "pinned": false
-  },
-  {
-    "id": "924ffb539f35337dd43256dfd7e33c522006264c",
-    "title": "COBOL dev won .Net hackathon with help from AI – and their CIO loves it",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438",
-    "summary": "Australia Taxation Office sees footling with Copilot as a way to develop ‘muscles’ for real AI work",
-    "isoDate": "2026-09-15T01:47:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=262941&width=800",
-    "pinned": false
-  },
-  {
-    "id": "02abb8e396706cee09c5d65427790aa74a3e7b42",
-    "title": "Microsoft drafts feel-good AI model guidelines and wants your input",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/15/microsoft-drafts-feel-good-ai-model-guidelines-and-wants-your-input/5296431",
-    "summary": "Redmond outlines 'aspirational' goals for model behavior, but gives itself a pass if it gets things wrong",
-    "isoDate": "2026-09-15T00:15:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296435&width=800",
     "pinned": false
   },
   {
@@ -1569,32 +1597,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-browser-ad-blocker.webp/0a7e5343808906ce0292e919ac26f749/tesla-browser-ad-blocker.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8522a22eadd026f8d2f84fd6518e2feafc6e0571",
-    "title": "The Chinese room",
-    "link": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness",
-    "summary": "<p><img alt=\"Illustration of a robot reading with a thought bubble showing ancient cave paintings of hunters and a deer.\" src=\"https://images.aeonmedia.co/images/4040d550-762e-46f4-92ba-431242992b66/the-chinese-room-experiment-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Can we test for AI consciousness when we don’t understand our own? Getting into John Searle’s ‘Chinese room’ experiment</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness\">Watch on Aeon</a></p>",
-    "isoDate": "2026-09-10T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8b6d5449dbf8136e98ea7083dbf31fda498126e7",
-    "title": "Medieval mental health",
-    "link": "https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health",
-    "summary": "<p><img alt=\"Medieval painting of a man in a bath, attended by various people under a tree with heart-shaped leaves.\" src=\"https://images.aeonmedia.co/images/f5b2d9a3-db7d-49c3-b79d-a14788da0cb0/essay-bathing.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Saffron and ostrich liver were prescribed but so were exercise, gardens, animals, socialising, and music</p><p><em>- by Katherine Harvey</em></p><p><a href=\"https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health\">Read on Aeon</a></p>",
-    "isoDate": "2026-09-10T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Katherine Harvey",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
