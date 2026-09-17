@@ -1,5 +1,50 @@
 [
   {
+    "id": "fc1fcfe7927f68dd513b188fb1c0e7093fcd564b",
+    "title": "Swift 6.4 unifies building across Linux, macOS, Windows",
+    "link": "https://www.theregister.com/devops/2026/09/17/swift-64-unifies-building-across-linux-macos-windows/5297006",
+    "summary": "Swift Build is now the default engine for the Swift Package Manager",
+    "isoDate": "2026-09-17T04:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=258433&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2ff6a22332155de6ed0fda2bcccce6f6142d5680",
+    "title": "OpenAI admits its agents went off the rails another six times",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016",
+    "summary": "Startup says it’s learned from these mistakes and that they shouldn’t happen again … which is just what Zuck has said about 100 times",
+    "isoDate": "2026-09-17T02:39:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=256885&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8bd897c3d9f6b6402f5d8854394d8ef8ce120e2b",
+    "title": "If a Mac mini is agentic overkill, try this glowing pyramid that runs personal bots",
+    "link": "https://www.theregister.com/personal-tech/2026/09/17/if-a-mac-mini-is-agentic-overkill-try-this-glowing-pyramid-that-runs-personal-bots/5296964",
+    "summary": "'Intern 2' offers an isolated environment and cloudy inference to automate your world",
+    "isoDate": "2026-09-16T23:28:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297002&width=800",
+    "pinned": false
+  },
+  {
     "id": "f217395f26a72cb4c8cfc562e4d9a8584408919d",
     "title": "AI agents can modify themselves without humans telling them to do so",
     "link": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
@@ -242,9 +287,9 @@
   },
   {
     "id": "9de7ad29984ba94a42ae59bb24c9125d2cfcfd39",
-    "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
+    "title": "The Specialized Diverge 4 Pro makes rough gravel your playground",
     "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
-    "summary": "The Diverge Pro 4 is happiest when the road gets ugly.",
+    "summary": "The Diverge 4 Pro is happiest when the road gets ugly.",
     "isoDate": "2026-09-16T18:11:53Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -1248,36 +1293,6 @@
     "pinned": false
   },
   {
-    "id": "68c5f60d4b6b6b05510f615d7222070165c0e00b",
-    "title": "HBO Max Reddit account compromised to serve ClickFix attacks",
-    "link": "https://www.theregister.com/cyber-crime/2026/09/14/hbo-max-reddit-account-compromised-to-serve-clickfix-attacks/5296408",
-    "summary": "Part of a 'massive 48-hour malvertising blitz' targeting macOS and Windows machines with malware",
-    "isoDate": "2026-09-14T22:43:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296419&width=800",
-    "pinned": false
-  },
-  {
-    "id": "da41df3cd6d28e2884f57f3cb07c79d489d1a3b9",
-    "title": "Oracle celebrates banner quarter with another round of layoffs",
-    "link": "https://www.theregister.com/databases/2026/09/14/oracle-celebrates-banner-quarter-with-another-round-of-layoffs/5296395",
-    "summary": "Congratulations on helping Larry Ellison's AI cloud boom. Now please pack your bags and go",
-    "isoDate": "2026-09-14T20:46:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "databases"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682145&width=800",
-    "pinned": false
-  },
-  {
     "id": "184f86ab0ad4515e5b1a918d2143cfb97e2b463d",
     "title": "Tesla Adds Insurance Estimates to Order Page, Highlighting FSD Savings",
     "link": "https://www.notateslaapp.com/news/4685/tesla-adds-insurance-estimates-to-order-page-highlighting-fsd-savings",
@@ -1288,21 +1303,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/insurance-order-page.webp/eac10300f3ff1714e1dd85e6782762d8/insurance-order-page.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3c49997b3859dc3437123630dfe193358e640587",
-    "title": "New hardware device can RAM into encrypted memory, expose your data",
-    "link": "https://www.theregister.com/security/2026/09/14/new-hardware-device-can-ram-into-encrypted-memory-expose-your-data/5296377",
-    "summary": "Attackers would need physical access to the server to pull off the DDR5 trick",
-    "isoDate": "2026-09-14T18:31:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296381&width=800",
     "pinned": false
   },
   {
