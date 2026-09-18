@@ -1,5 +1,104 @@
 [
   {
+    "id": "b22a3ce2165b6f1062f15cf3f06188901d0dff8f",
+    "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+    "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+    "summary": "Akademy talk imagines Plasma assembling itself around a personal model of each user",
+    "isoDate": "2026-09-18T14:25:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297398&width=800",
+    "pinned": false
+  },
+  {
+    "id": "161acfd6fde5a0a8b1e386d008378edde27d3748",
+    "title": "Meet the winner of Nikon's Small World in Motion video contest",
+    "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+    "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
+    "isoDate": "2026-09-18T13:56:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Science",
+      "microscopic imagery",
+      "Nikon Small World in Motion video",
+      "scientific imaging"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/nikonTOP-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a8365cfa26c035d9e0fa201ceff4916d184708de",
+    "title": "Researchers used Claude to hack OpenAI",
+    "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+    "isoDate": "2026-09-18T13:30:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cristina Criddle, Financial Times",
+    "tags": [
+      "AI",
+      "Security",
+      "Anthropic",
+      "ChatGPT",
+      "hacking",
+      "openai",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "061c9e74f85cdfdafb4279f77bb5f7e0e9b58bdb",
+    "title": "Introducing Our Personalized Tesla License Plate Generator [Update: Now Supports Canada!]",
+    "link": "https://www.notateslaapp.com/news/4686/introducing-our-tesla-license-plate-generator-with-designs-for-all-50-states",
+    "summary": "Our new Tesla license plate generator includes all 50 U.S. states. Customize your text or download a blank plate for your vehicle visualization. <a href=\"https://www.notateslaapp.com/news/4686/introducing-our-tesla-license-plate-generator-with-designs-for-all-50-states\">Read More</a>",
+    "isoDate": "2026-09-18T13:27:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/canada-license-plate.webp/410fd33e3451bbb8369d705678240ee2/canada-license-plate.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fb6c06f99696092790c80492ba27568783f7f285",
+    "title": "Microsoft fixes the fix that broke Excel paste – partly",
+    "link": "https://www.theregister.com/software/2026/09/18/microsoft-fixes-the-fix-that-broke-excel-paste-partly/5297467",
+    "summary": "Hotfix covers only Excel 2016 and may still come unstuck around conditional formatting",
+    "isoDate": "2026-09-18T13:22:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=244387&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2ac41d6a4629ca0a589c1b999ad8056a7201a256",
+    "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
+    "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
+    "summary": "“I can tell you SpaceX has already gone captive.\"",
+    "isoDate": "2026-09-18T11:00:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "rocket report",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_pillars-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "a2164889f4c3f798b30e6f7790be03d2719da614",
     "title": "KPMG tech cuts come with a severance sum some staff call insulting",
     "link": "https://www.theregister.com/channel/2026/09/18/kpmg-tech-cuts-come-with-a-severance-sum-some-staff-call-insulting/5296942",
@@ -181,7 +280,7 @@
     "id": "f5dbcedb0e592751b16658b890ecc955a44ce614",
     "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
     "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-    "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+    "summary": "The USPSTF sets insurance coverage for preventive services, like colonoscopies.",
     "isoDate": "2026-09-17T22:31:28Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -969,29 +1068,6 @@
     "pinned": false
   },
   {
-    "id": "cb035bc8dd07a01ea31cbcb1271dfc250f453741",
-    "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-    "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-    "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
-    "isoDate": "2026-09-16T20:23:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "android",
-      "ARM",
-      "compatibility layer",
-      "proton",
-      "Steam",
-      "steam frame",
-      "steamos",
-      "Valve"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/steam-500x360.jpeg",
-    "pinned": false
-  },
-  {
     "id": "0b1dcf0345f057ed10e97727d66c26fb098356b5",
     "title": "Tesla Launches Model Y L Accessories in the U.S.",
     "link": "https://www.notateslaapp.com/news/4699/tesla-launches-model-y-l-accessories-in-the-us",
@@ -1002,43 +1078,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/modelyl_na_76.jpg/c744cd845d6a5dafd85aa48c946603a9/modelyl_na_76.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9668e15731f4b71df12c7cad37df7a20d1518778",
-    "title": "California may gut state net neutrality law to comply with Trump admin demand",
-    "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
-    "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
-    "isoDate": "2026-09-16T19:36:44Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "California",
-      "Net Neutrality"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-network-500x500-1732040422.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bbc292539ccfc94f4f80701964fddd4c07f3b39d",
-    "title": "Researchers swap in human brain cells for a mouse's cortex",
-    "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
-    "summary": "The results are only a slight improvement over missing the entire brain structure.",
-    "isoDate": "2026-09-16T19:08:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "Biology",
-      "Cortex",
-      "Genetics",
-      "Mice",
-      "Neuroscience"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-500x500.jpeg",
     "pinned": false
   },
   {
@@ -1263,66 +1302,6 @@
     "pinned": false
   },
   {
-    "id": "9af94f67b60df3b0adb40c223ce200ceb370f930",
-    "title": "Bring on the AI swarms. They’re the only thing that can defend us now that AI is free",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/16/bring-on-the-ai-swarms-theyre-the-only-thing-that-can-defend-us-now-that-ai-is-free/5296727",
-    "summary": "Frontier-level AI runs everywhere, so attacks will never stop",
-    "isoDate": "2026-09-16T06:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=117515&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f841d0174bc8a6f870e4025320a697961e85d3fd",
-    "title": "Mythos has made 2026 patching hell. It might make 2027 a breeze",
-    "link": "https://www.theregister.com/security/2026/09/16/mythos-has-made-2026-patching-hell-it-might-make-2027-a-breeze/5296747",
-    "summary": "Gartner sees huge amounts of technical debt paid down, and better scanning that could make software safer sooner",
-    "isoDate": "2026-09-16T05:54:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093186&width=800",
-    "pinned": false
-  },
-  {
-    "id": "240199ea7c1155eddc3d238e22e29588a3abb3d5",
-    "title": "Java 27 grows up, makes better choices",
-    "link": "https://www.theregister.com/devops/2026/09/16/java-27-grows-up-makes-better-choices/5296707",
-    "summary": "Improvements in JDK garbage collection, header sizes, data security and quantum key support all should minimize developer friction",
-    "isoDate": "2026-09-16T04:50:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=1683348&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3f978337272762e59f5bb821bec7fd7de23c5004",
-    "title": "TypeSafe AI debuts model for machines that plays Doom",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
-    "summary": "'Jev' doesn't chat. It produces typed probabilistic decisions",
-    "isoDate": "2026-09-16T01:35:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=257943&width=800",
-    "pinned": false
-  },
-  {
     "id": "8e7804334d7aa981909973cf137f1e3ba1472af0",
     "title": "Tesla Debuts Pre-Assembled Accordion Superchargers",
     "link": "https://www.notateslaapp.com/news/4697/tesla-debuts-pre-assembled-accordion-superchargers",
@@ -1385,19 +1364,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-app-new-features-3.webp/392d248eaa4bf8374d7338257ccf790f/tesla-robotaxi-app-new-features-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "061c9e74f85cdfdafb4279f77bb5f7e0e9b58bdb",
-    "title": "Introducing Our Tesla License Plate Generator With Designs for All 50 States",
-    "link": "https://www.notateslaapp.com/news/4686/introducing-our-tesla-license-plate-generator-with-designs-for-all-50-states",
-    "summary": "Our new Tesla license plate generator includes all 50 U.S. states. Customize your text or download a blank plate for your vehicle visualization. <a href=\"https://www.notateslaapp.com/news/4686/introducing-our-tesla-license-plate-generator-with-designs-for-all-50-states\">Read More</a>",
-    "isoDate": "2026-09-15T14:33:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/license-plate-vis-1.webp/03898028b663555afba843ed931c7fad/license-plate-vis-1.jpg",
     "pinned": false
   },
   {
