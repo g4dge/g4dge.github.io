@@ -1,5 +1,59 @@
 [
   {
+    "id": "6b844761c1220d264f713540e21cb2d329f2b7b1",
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "summary": "But the military's overall use of AI seems to be accelerating.",
+    "isoDate": "2026-09-18T20:26:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "china",
+      "Department of Defense",
+      "DoD",
+      "hegseth",
+      "military AI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "38c0847148b785cace08519adea0618d329e5e54",
+    "title": "Tesla's Upcoming Full Self-Driving Features",
+    "link": "https://www.notateslaapp.com/news/4705/teslas-upcoming-full-self-driving-features",
+    "summary": "Tesla’s FSD (Supervised) software has made remarkable strides with end-to-end neural networks, but the engineering roadmap ahead is even more exciting <a href=\"https://www.notateslaapp.com/news/4705/teslas-upcoming-full-self-driving-features\">Read More</a>",
+    "isoDate": "2026-09-18T20:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/model-y-fsd.webp/b4bb6bf8b222001bd00199f4ad9d8b1b/model-y-fsd.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8a86701f25e4f074ec3c26948a4383099def5417",
+    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+    "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+    "isoDate": "2026-09-18T19:20:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "AI tools",
+      "air traffic control",
+      "air traffic controllers",
+      "airspace",
+      "FAA",
+      "Federal Aviation Administration"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "fae77d6e8b2f24e9b13bdb29096aabfee2045c62",
     "title": "Tesla FSD Cuts Collisions by 40% in Australia and NZ",
     "link": "https://www.notateslaapp.com/news/4704/tesla-fsd-cuts-collisions-by-40-in-australia-and-nz",
@@ -944,26 +998,6 @@
     "pinned": false
   },
   {
-    "id": "774b93474be4400f6ad1287319d4a58321439c9f",
-    "title": "Hackers reveal how Flock cameras really track cars and people",
-    "link": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
-    "summary": "One hacked camera captured 1.6 million images and could detect people as well as cars.",
-    "isoDate": "2026-09-17T09:43:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dhruv Mehrotra, Joseph Cox, wired.com",
-    "tags": [
-      "Security",
-      "automated license plate readers",
-      "Flock!",
-      "hacking",
-      "surveillance",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-500x500-1779223476.jpg",
-    "pinned": false
-  },
-  {
     "id": "b3a9a60d8923aad4b5515310829b512e5925d2db",
     "title": "Government Digital Service move 'grinds gears' in UK's e-government",
     "link": "https://www.theregister.com/public-sector/2026/09/17/government-digital-service-move-grinds-gears-in-uks-e-government/5296784",
@@ -1079,30 +1113,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-grok-location-reminders.jpg/22495d3e0e2f4e244be5ac1f0f1983c9/tesla-grok-location-reminders.jpg",
-    "pinned": false
-  },
-  {
-    "id": "00f56e1b1eec192bfadc6ddee9f0ac7e49e49122",
-    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-    "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-    "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-    "isoDate": "2026-09-16T22:02:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Apple",
-      "AI developers",
-      "ai servers",
-      "apple",
-      "apple hardware",
-      "Apple silicon",
-      "Apple Silicon Mac",
-      "m-series chips",
-      "servers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-500x500.jpg",
     "pinned": false
   },
   {
@@ -1532,19 +1542,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard.webp/7cfd0633399b2af2d987f0a8fd17d106/fsd_giftcard.jpg",
-    "pinned": false
-  },
-  {
-    "id": "9f9439f3791528ddc702482edf10fa1513d2a101",
-    "title": "Tesla Starts Sending Invites for Semi Event on September 24",
-    "link": "https://www.notateslaapp.com/news/4678/tesla-starts-sending-invites-for-semi-event-on-september-24",
-    "summary": "Following years of pilot runs and a gradual manufacturing ramp, Tesla is getting ready to showcase its dedicated commercial truck factory <a href=\"https://www.notateslaapp.com/news/4678/tesla-starts-sending-invites-for-semi-event-on-september-24\">Read More</a>",
-    "isoDate": "2026-09-11T19:38:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/semi-factory.webp/ae7849eb3745d9b4a73fefd21c302436/semi-factory.jpg",
     "pinned": false
   }
 ]
