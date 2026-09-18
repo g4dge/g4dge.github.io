@@ -1,5 +1,139 @@
 [
   {
+    "id": "fae77d6e8b2f24e9b13bdb29096aabfee2045c62",
+    "title": "Tesla FSD Cuts Collisions by 40% in Australia and NZ",
+    "link": "https://www.notateslaapp.com/news/4704/tesla-fsd-cuts-collisions-by-40-in-australia-and-nz",
+    "summary": "Tesla’s FSD (Supervised) software has officially completed its first full year Down Under, and the safety stats are painting an impressive picture <a href=\"https://www.notateslaapp.com/news/4704/tesla-fsd-cuts-collisions-by-40-in-australia-and-nz\">Read More</a>",
+    "isoDate": "2026-09-18T17:58:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-australia-screen.webp/bf31758a6456f6110272bc6794c48397/fsd-australia-screen.jpg",
+    "pinned": false
+  },
+  {
+    "id": "20fc0c317b9e82672413f70a8f1c457c1a176b93",
+    "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+    "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+    "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+    "isoDate": "2026-09-18T17:57:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "CBS",
+      "Paramount Skydance",
+      "warner bros. discovery"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d781200a2b8df24c3090def4b448413925655b1a",
+    "title": "Finding the cells that put our brain to sleep",
+    "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+    "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+    "isoDate": "2026-09-18T17:49:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "Biology",
+      "brain",
+      "Cortex",
+      "neurobiology",
+      "sleep"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-623682073-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "26bd35d9b365cbf244aff2ffbe9487e964756b15",
+    "title": "US government website used Chinese model the FBI called \"malicious\"",
+    "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+    "isoDate": "2026-09-18T17:28:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai race",
+      "alibaba",
+      "Artificial Intelligence",
+      "fbi",
+      "Qwen",
+      "trump administration",
+      "US government"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-500x500-1789748963.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3819f0b1f89e0ed674effbe544edbe943c084dec",
+    "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+    "link": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
+    "summary": "Agentic exploits for the win (again)",
+    "isoDate": "2026-09-18T17:16:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297523&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d4a4fb2fab561447f33f0b7e525d9782bb037074",
+    "title": "North Korea's fake job interviews infected 30,000 devices",
+    "link": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
+    "summary": "WaterPlum recruiters used bogus coding tests to backdoor jobseekers and raid more than 7,000 crypto wallets",
+    "isoDate": "2026-09-18T16:53:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=234163&width=800",
+    "pinned": false
+  },
+  {
+    "id": "cdbe99095e861cf8ccbb1d3a3524427626233430",
+    "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B",
+    "link": "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
+    "summary": "AI, fake uniforms, and mock offices help crooks sell the con",
+    "isoDate": "2026-09-18T16:19:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297516&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ae6afb5b7925ba8d48fd54d6a7e99b027fd172fa",
+    "title": "Admins, you've been warned: The clock is ticking on Edge's IE Mode",
+    "link": "https://www.theregister.com/software/2026/09/18/admins-youve-been-warned-the-clock-is-ticking-on-edges-ie-mode/5297408",
+    "summary": "Legacy web apps have guaranteed shelter only through 2029, and Redmond warns modernization can take years",
+    "isoDate": "2026-09-18T15:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=244550&width=800",
+    "pinned": false
+  },
+  {
     "id": "b22a3ce2165b6f1062f15cf3f06188901d0dff8f",
     "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
     "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
@@ -439,7 +573,7 @@
   },
   {
     "id": "de0fc760122ac3c6c29ece2dfca6fc09c9bd4b47",
-    "title": "What's Changed in the Tesla Shop This Month",
+    "title": "Tesla Shop Changes This Month: Wall Connector Price Increase, Discontinued Products and New Additions",
     "link": "https://www.notateslaapp.com/news/4702/whats-changed-in-the-tesla-shop-this-month",
     "summary": "Tesla frequently adjusts its official online store, shuffling prices, retiring older inventory, and introducing fresh accessories <a href=\"https://www.notateslaapp.com/news/4702/whats-changed-in-the-tesla-shop-this-month\">Read More</a>",
     "isoDate": "2026-09-17T18:57:00Z",
@@ -972,28 +1106,6 @@
     "pinned": false
   },
   {
-    "id": "2a4fab1da5c1918fcbff906f361e59d007b8b309",
-    "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-    "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
-    "isoDate": "2026-09-16T21:42:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "child porn",
-      "child sex abuse materials",
-      "csam",
-      "department of justice",
-      "Donald Trump",
-      "epstein files",
-      "Jeffrey Epstein"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-681946574-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e368cd8f167b84621d5fbb06c9e8954a5c1e2b28",
     "title": "Nvidia goes green to keep grid capacity from zapping its revenues",
     "link": "https://www.theregister.com/systems/2026/09/16/nvidia-goes-green-to-keep-grid-capacity-from-zapping-its-revenues/5296984",
@@ -1006,50 +1118,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=254958&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c60fc05e1d0d16b4d074b1228405d7242daa9d1d",
-    "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-    "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-    "summary": "Group plans to be largely out of commission for several weeks.",
-    "isoDate": "2026-09-16T21:08:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Science",
-      "Security",
-      "Space",
-      "Cyberattacks",
-      "hacking",
-      "meteors",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1a466487d14487043ae528e590ec701ead8aa1bb",
-    "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-    "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-    "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, <em>Wildwood</em>.",
-    "isoDate": "2026-09-16T20:44:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "films",
-      "HG: Sunrise on the Reaping",
-      "Laika Studios",
-      "Lionsgate",
-      "Trailers",
-      "Wildwood"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sunrise-500x500-1789589529.jpg",
     "pinned": false
   },
   {
@@ -1214,36 +1282,6 @@
     "pinned": false
   },
   {
-    "id": "ddb1001780295b330b3c43711f7a06e4c13a45f4",
-    "title": "Ministry of Justice apologizes after court staff accessed Southport victims' files",
-    "link": "https://www.theregister.com/security/2026/09/16/ministry-of-justice-apologizes-after-court-staff-accessed-southport-victims-files/5296808",
-    "summary": "Sensitive personal data was involved, but there is no evidence it was shared with third parties",
-    "isoDate": "2026-09-16T10:42:28Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=254837&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c755f664baba5cb8ff12b78c533e05d84a622bab",
-    "title": "Salesforce staggers back to feet after global outage",
-    "link": "https://www.theregister.com/saas/2026/09/16/salesforce-staggers-back-to-feet-after-global-outage/5296800",
-    "summary": "As thousands attend annual conference in San Francisco, customers get 'severe delays, intermittent errors, and inability to access services'",
-    "isoDate": "2026-09-16T10:06:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296839&width=800",
-    "pinned": false
-  },
-  {
     "id": "d110430e3ce799aa3bcbaae32f31328a33ce188e",
     "title": "The meaning of fake marble",
     "link": "https://aeon.co/videos/the-millennia-long-history-of-our-obsession-with-fake-marble",
@@ -1269,36 +1307,6 @@
       "Science"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "faf19e0b8a6baa94d608a6e4144e73e38126cbd0",
-    "title": "BT Email users hit by barrage of unsolicited password reset PINs",
-    "link": "https://www.theregister.com/networks/2026/09/16/bt-email-users-hit-by-barrage-of-unsolicited-password-reset-pins/5296616",
-    "summary": "Telco says accounts are secure as customers report hundreds of mystery codes arriving in rapid bursts",
-    "isoDate": "2026-09-16T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5244266&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e75fbc390cc04df0017ad3abc10d9c2003ab1a4c",
-    "title": "UK funds flying broadband stations with power beamed from below",
-    "link": "https://www.theregister.com/networks/2026/09/16/uk-funds-flying-broadband-stations-with-power-beamed-from-below/5296545",
-    "summary": "£70M ARIA program backs 18 projects aiming to keep connectivity aloft for a week",
-    "isoDate": "2026-09-16T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296563&width=800",
     "pinned": false
   },
   {
@@ -1537,45 +1545,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/semi/semi-factory.webp/ae7849eb3745d9b4a73fefd21c302436/semi-factory.jpg",
-    "pinned": false
-  },
-  {
-    "id": "69808f529b230dad968a17f7d90c8daf8b982dec",
-    "title": "Tesla Officially Announces Semi for Europe: What's Different",
-    "link": "https://www.notateslaapp.com/news/4677/tesla-officially-announces-semi-for-europe-launching-2027",
-    "summary": "After Tesla confirmed last month that the Semi would be coming to Europe, official regional web portals and technical specs have gone live <a href=\"https://www.notateslaapp.com/news/4677/tesla-officially-announces-semi-for-europe-launching-2027\">Read More</a>",
-    "isoDate": "2026-09-11T17:49:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-europe-launch-2.webp/c4a73283e86fcb3e0ff574f59dd30da5/tesla-semi-europe-launch-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fdcb87437c54bb22136f66bbadf0716e84f7689b",
-    "title": "Tesla Launches Model Y Performance in China for $55,000",
-    "link": "https://www.notateslaapp.com/news/4676/tesla-launches-model-y-performance-in-china-for-55000",
-    "summary": "Tesla’s flagship electric crossover has officially made its return to the world’s largest automotive market <a href=\"https://www.notateslaapp.com/news/4676/tesla-launches-model-y-performance-in-china-for-55000\">Read More</a>",
-    "isoDate": "2026-09-11T16:29:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-performance/model-y-performance-china-launch-2.webp/c5b576d496cd075c9f25c648d6f0ee69/model-y-performance-china-launch-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fca393c0034a6f28bf7c468a39dbae08452bad34",
-    "title": "Our Tesla Lock Sounds Page Gets a New Design, Favorites and Volume Choices",
-    "link": "https://www.notateslaapp.com/news/4675/our-tesla-lock-sounds-page-gets-a-new-design-favorites-and-volume-choices",
-    "summary": "Our redesigned Tesla lock sounds page adds collections, local favorites, smarter sorting and three volume choices. <a href=\"https://www.notateslaapp.com/news/4675/our-tesla-lock-sounds-page-gets-a-new-design-favorites-and-volume-choices\">Read More</a>",
-    "isoDate": "2026-09-11T16:22:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-lock-sounds.webp/0bdaeaff48a2ed99dd67e6427c799f57/tesla-lock-sounds.jpg",
     "pinned": false
   }
 ]
