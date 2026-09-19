@@ -1,5 +1,48 @@
 [
   {
+    "id": "64510450e3f343f94fb47118c110efed6c22b6f1",
+    "title": "How Tesla Improved Automatic Navigation in Update 2026.26",
+    "link": "https://www.notateslaapp.com/news/4706/the-improvements-tesla-made-to-its-automatic-navigation-feature-in-update-202626",
+    "summary": "Tesla’s 2026.26 Summer Update quietly made some major improvements to suggested destinations and the Automatic Navigation system under the hood <a href=\"https://www.notateslaapp.com/news/4706/the-improvements-tesla-made-to-its-automatic-navigation-feature-in-update-202626\">Read More</a>",
+    "isoDate": "2026-09-18T21:57:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/auto-navigate.webp/f0d08ed064283dffd10073446ab03ff1/auto-navigate.jpg",
+    "pinned": false
+  },
+  {
+    "id": "48ca975669cbb5b37115814a24d3d7b6b1c395a0",
+    "title": "Anthropic decides to support OpenAI's markdown instructions spec",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
+    "summary": "Devs cheer relief from compatibility headache",
+    "isoDate": "2026-09-18T21:33:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297598&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6cc7aeef347789183b028f1ff6e46ea1a748e1b1",
+    "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+    "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+    "summary": "The Rust compiler remains unperturbed by the antics of the LLM",
+    "isoDate": "2026-09-18T21:11:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297581&width=800",
+    "pinned": false
+  },
+  {
     "id": "6b844761c1220d264f713540e21cb2d329f2b7b1",
     "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
     "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
@@ -16,7 +59,22 @@
       "hegseth",
       "military AI"
     ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-500x500.jpg",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3774a3a579c909b0c01382993411775844336377",
+    "title": "Virginia governor wakes up to fact datacenters have become political cancer",
+    "link": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
+    "summary": "Executive order puts the kibosh on NDAs, limits permitting, and calls for stiffer environmental protections",
+    "isoDate": "2026-09-18T20:16:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5269875&width=800",
     "pinned": false
   },
   {
@@ -30,6 +88,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/model-y-fsd.webp/b4bb6bf8b222001bd00199f4ad9d8b1b/model-y-fsd.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e0932d171a8a6d1fde77844a58430096ad33c590",
+    "title": "Compsci grads facing recession-like job prospects thanks to AI",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
+    "summary": "Slinging coffee and waiting tables ain't just for liberal arts grads any more, say Census Bureau economists",
+    "isoDate": "2026-09-18T19:48:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=233361&width=800",
     "pinned": false
   },
   {
@@ -51,6 +124,21 @@
       "Federal Aviation Administration"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "05b3b17741d968ddb9d8811329dbce91d88bde91",
+    "title": "Claude Code revamps projects so you can work and pay in parallel",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/18/claude-code-revamps-projects-so-you-can-work-and-pay-in-parallel/5297532",
+    "summary": "Running multiple Claude sessions at once means less waiting around to hit your usage limit",
+    "isoDate": "2026-09-18T19:15:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297536&width=800",
     "pinned": false
   },
   {
@@ -1217,81 +1305,6 @@
     "pinned": false
   },
   {
-    "id": "49e483aeccf1ea258b697df03804fc7a53f90102",
-    "title": "Fedora 45 beta drags the Linux console into the 21st century",
-    "link": "https://www.theregister.com/software/2026/09/16/fedora-45-beta-drags-the-linux-console-into-the-21st-century/5296873",
-    "summary": "Kmscon brings smooth scaling, richer colors, and better Unicode support beneath GNOME 51",
-    "isoDate": "2026-09-16T15:27:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296885&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2bb6e023c6126a54ce140a8d3ae72ff899324804",
-    "title": "SpaceX aims Starship for orbit on September 22",
-    "link": "https://www.theregister.com/offbeat/2026/09/16/spacex-aims-starship-for-orbit-on-september-22/5296836",
-    "summary": "Flight test 14 angling for 10 hours in space and a splashdown in the Pacific",
-    "isoDate": "2026-09-16T12:46:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=226720&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d6bd8f35c59c2f37b7ce6f323599a1e11d3dae95",
-    "title": "AWS says wartime damage means some Middle East cloud resources are gone for good",
-    "link": "https://www.theregister.com/off-prem/2026/09/16/aws-says-wartime-damage-means-some-middle-east-cloud-resources-are-gone-for-good/5296830",
-    "summary": "Iranian strikes overwhelmed regional redundancy in Bahrain and left one UAE Availability Zone inaccessible",
-    "isoDate": "2026-09-16T12:11:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=254445&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7db6a5d7b683af7b57c55f2f6bf3b081606321cf",
-    "title": "Spain gets its first taste of AI-aided cyber attack",
-    "link": "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844",
-    "summary": "Data protection chiefs call for 'immediate review' of data protection models",
-    "isoDate": "2026-09-16T11:56:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=231135&width=800",
-    "pinned": false
-  },
-  {
-    "id": "908b04353331f578b6ba7032099f6734013990c3",
-    "title": "Logitech releases the MX Keypad to keep idle fingers busy",
-    "link": "https://www.theregister.com/personal-tech/2026/09/16/logitech-releases-the-mx-keypad-to-keep-idle-fingers-busy/5296573",
-    "summary": "It looks like you're trying to write some code. Perhaps a shortcut is in order?",
-    "isoDate": "2026-09-16T11:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296577&width=800",
-    "pinned": false
-  },
-  {
     "id": "d110430e3ce799aa3bcbaae32f31328a33ce188e",
     "title": "The meaning of fake marble",
     "link": "https://aeon.co/videos/the-millennia-long-history-of-our-obsession-with-fake-marble",
@@ -1529,19 +1542,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-2.webp/cd7dab309c0bf45ee3ccc770ddcee781/grok-ui-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c30a52edd2d2c531a590f8b1f71c892b80c26589",
-    "title": "Tesla VP Talks About What's Coming in FSD V15",
-    "link": "https://www.notateslaapp.com/news/4679/tesla-ai-chief-talks-about-whats-coming-in-fsd-v15",
-    "summary": "Ashok Elluswamy recently shared what's coming in FSD v15, the next major neural network upgrade that's expected to roll out later this year or early next year <a href=\"https://www.notateslaapp.com/news/4679/tesla-ai-chief-talks-about-whats-coming-in-fsd-v15\">Read More</a>",
-    "isoDate": "2026-09-11T21:45:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard.webp/7cfd0633399b2af2d987f0a8fd17d106/fsd_giftcard.jpg",
     "pinned": false
   }
 ]
