@@ -1,5 +1,79 @@
 [
   {
+    "id": "2fab1312f6e2614f623449c5987a88a70a4028dd",
+    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+    "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+    "isoDate": "2026-09-20T11:07:00Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andy Greenberg, WIRED.com",
+    "tags": [
+      "Biz & IT",
+      "Google",
+      "Security",
+      "Mole",
+      "supply chain attack",
+      "supply chain hacking",
+      "syndication",
+      "teampcp"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6449f8efc30e82263502bdad7441763015b30ca7",
+    "title": "Don't call it an SUV: The Ferrari Purosangue review",
+    "link": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+    "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
+    "isoDate": "2026-09-20T10:00:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "car review",
+      "Ferrari Purosangue"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-500x500-1789751590.jpg",
+    "pinned": false
+  },
+  {
+    "id": "130f9eb6783813c8af9105bb12e9495b579e44fa",
+    "title": "T. rex teeth indicate it ran as warm as an elephant",
+    "link": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+    "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+    "isoDate": "2026-09-20T09:00:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "Biology",
+      "dinosaurs",
+      "paleontology",
+      "phsiology",
+      "warm blooded"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-500x500-1789756455.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1de2c088942f01a428f6f610d5e96b68ef38f607",
+    "title": "How Windows turned months of inactivity into a 7-hour update hostage situation",
+    "link": "https://www.theregister.com/os-platforms/2026/09/20/how-windows-turned-months-of-inactivity-into-a-7-hour-update-hostage-situation/5297478",
+    "summary": "Windows is getting more efficient. The updates, not so much",
+    "isoDate": "2026-09-20T08:14:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=234436&width=800",
+    "pinned": false
+  },
+  {
     "id": "a745184ffa5734552b1c88de25e4f6830043f93d",
     "title": "Tesla Adds 3D Supercharger Site Maps to Tesla App",
     "link": "https://www.notateslaapp.com/news/4710/tesla-adds-3d-supercharger-site-maps-to-tesla-app",
@@ -935,23 +1009,6 @@
     "pinned": false
   },
   {
-    "id": "65b788dedb5abb2f610b2befc5d883c105cd953b",
-    "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
-    "link": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
-    "summary": "It’s spacious, efficient, and charges very quickly. But what about reliability concerns?",
-    "isoDate": "2026-09-17T17:30:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "2026 Hyundai Ioniq 5",
-      "car review"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Hyundai-Ioniq-5-1-of-10-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "5212eb797be24aa0cac8241c4e052fe9bafd4e66",
     "title": "Scientific papers become agentic chatbots with new tool",
     "link": "https://www.theregister.com/ai-and-ml/2026/09/17/scientific-papers-become-agentic-chatbots-with-new-tool/5297276",
@@ -977,47 +1034,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/ai5-chip.webp/dd09ee32c5d7e1e20367170173c2e60b/ai5-chip.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a6c133e82102caf0fb5540f56c1458b9dcddd3f3",
-    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-    "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-    "summary": "Model maker commits to new framework for reporting misaligned models.",
-    "isoDate": "2026-09-17T16:18:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "AI alignment",
-      "AI safety",
-      "misalignment",
-      "openai"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-875641-001-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3a9753ec3d5fc6a1083c75ae292e34830dcb2b4c",
-    "title": "EPA immediately sued over plans to repeal climate rules for power plants",
-    "link": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
-    "summary": "Public health groups warn EPA rule will cost Americans billions in health bills.",
-    "isoDate": "2026-09-17T15:38:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "Science",
-      "climate change",
-      "climate pollution",
-      "Environmental Protection Agency",
-      "EPA",
-      "greenhouse gas emissions",
-      "power plants"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2261166461-500x500-1789657361.jpg",
     "pinned": false
   },
   {
