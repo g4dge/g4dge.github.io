@@ -1,5 +1,95 @@
 [
   {
+    "id": "b2c543ac59e1c4518c6ada1d61803543a9eca330",
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "isoDate": "2026-09-21T22:24:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "AI assistants",
+      "meta",
+      "privacy",
+      "security",
+      "zero days"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e24108f386b05aff87d250067bfe75ad1fdef381",
+    "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+    "link": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+    "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+    "isoDate": "2026-09-21T21:07:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "drone boats",
+      "military drones",
+      "Russia invasion of Ukraine",
+      "Russia war on Ukraine",
+      "Russian war on Ukraine",
+      "Ukraine",
+      "Ukraine war",
+      "uncrewed surface vessels"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-drone-boat-machine-gun-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6c3e192ba371355e9f113dd69db8072455624af7",
+    "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+    "link": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+    "summary": "The new carmaker is a joint venture between the Saudi PIF and Foxconn.",
+    "isoDate": "2026-09-21T20:55:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Chad Kirchner",
+    "tags": [
+      "Cars",
+      "Foxconn",
+      "Saudi Arabia"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/WhatsApp_Image_2026-09-21_at_21.24.15-500x500-1790021070.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "eebd204a444fcd13ff14e450abc82f6d162abbb5",
+    "title": "Tesla FSD V14.3.9 Triggers False Camera Service Alerts",
+    "link": "https://www.notateslaapp.com/news/4716/tesla-fsd-v1439-triggers-false-camera-service-alerts",
+    "summary": "After updating to version 14.3.9, drivers across the fleet are reporting frequent alerts warning of dirty front-facing FSD cameras and demanding service visits <a href=\"https://www.notateslaapp.com/news/4716/tesla-fsd-v1439-triggers-false-camera-service-alerts\">Read More</a>",
+    "isoDate": "2026-09-21T20:47:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-v-14-3-9-camera-cleaning-alerts-issue-1-1790022366.webp/507ed513c7c0c35d1a48758838a49d3f/fsd-v-14-3-9-camera-cleaning-alerts-issue-1-1790022366.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3705922b155e26816bd6d9f001a581bc8234d55b",
+    "title": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+    "link": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+    "summary": "'Humans are responsible, not the AI,' argues Scott Bessent as he calls out OpenAI agents' hack of Hugging Face",
+    "isoDate": "2026-09-21T19:10:53Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=226050&width=800",
+    "pinned": false
+  },
+  {
     "id": "d4382ee9f73005669567325930a906864c601f8e",
     "title": "Tesla FSD (Supervised) Approved for Launch in Czechia",
     "link": "https://www.notateslaapp.com/news/4715/tesla-fsd-supervised-approved-for-launch-in-czechia",
@@ -13,8 +103,38 @@
     "pinned": false
   },
   {
+    "id": "4542a06fa1c2e627253dbcba96bc20db59dce1c1",
+    "title": "Google smacks forehead, realizes $899+ thin-and-lights were what it was missing",
+    "link": "https://www.theregister.com/personal-tech/2026/09/21/google-smacks-forehead-realizes-899-thin-and-lights-were-what-it-was-missing/5297947",
+    "summary": "'A new category,' insists the Chocolate Factory, not a premium Chromebook - yet some of the family resemblance remains",
+    "isoDate": "2026-09-21T18:47:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297962&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e14f3af38d3d2686440437c84adaa515daf0be9a",
+    "title": "London neocloud Nscale takes its $1B loss to Wall Street",
+    "link": "https://www.theregister.com/on-prem/2026/09/21/london-neocloud-nscale-takes-its-1b-loss-to-wall-street/5297824",
+    "summary": "Rent-a-GPU firm reportedly seeks a valuation of up to $35B in New York IPO",
+    "isoDate": "2026-09-21T17:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=234088&width=800",
+    "pinned": false
+  },
+  {
     "id": "35f1f82ee803689de06faf7b3777f1e8d38317e3",
-    "title": "Tesla's Dashcam Clears Driver Arrested at Gunpoint",
+    "title": "Tesla's Dashcam Clears Driver Arrested at Gunpoint [VIDEO]",
     "link": "https://www.notateslaapp.com/news/4714/teslas-dashcam-clears-driver-arrested-at-gunpoint",
     "summary": "For one Florida driver, footage recorded by Tesla’s built-in Dashcam feature served as the vital evidence that kept him out of prison <a href=\"https://www.notateslaapp.com/news/4714/teslas-dashcam-clears-driver-arrested-at-gunpoint\">Read More</a>",
     "isoDate": "2026-09-21T16:59:00Z",
@@ -69,6 +189,21 @@
     "pinned": false
   },
   {
+    "id": "9fd5417f09daeb7ef07c96231d7f2e3235884cc3",
+    "title": "AI can't outprompt a shortage of power, water, and land",
+    "link": "https://www.theregister.com/on-prem/2026/09/21/ai-cant-outprompt-a-shortage-of-power-water-and-land/5297811",
+    "summary": "Forrester predicts operators will face tariffs, grid commitments, and tougher community scrutiny",
+    "isoDate": "2026-09-21T16:35:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094260&width=800",
+    "pinned": false
+  },
+  {
     "id": "a9c684051bd08a3a7b83953323e01aba3159d4e1",
     "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
     "link": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
@@ -84,6 +219,21 @@
       "warner bros. discovery"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-500x500-1783966818.jpg",
+    "pinned": false
+  },
+  {
+    "id": "702172478e20e5e3a94a40be6edf8ac5009b4c1e",
+    "title": "AWS bolts together open source agent harness, says it sips fewer tokens than rivals",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/21/aws-bolts-together-open-source-agent-harness-says-it-sips-fewer-tokens-than-rivals/5297915",
+    "summary": "Strands claims near-parity with Claude Code and Codex on benchmarks, though it only raced coding agents and marked its own homework",
+    "isoDate": "2026-09-21T16:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=1682582&width=800",
     "pinned": false
   },
   {
@@ -117,6 +267,21 @@
       "Trump"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-500x500-1756146144.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2b1c20c4660e41e8059312cebdfdaee73e6f5654",
+    "title": "RansomHouse picks a fight with Namibia's defense establishment",
+    "link": "https://www.theregister.com/cyber-crime/2026/09/21/ransomhouse-picks-a-fight-with-namibias-defense-establishment/5297816",
+    "summary": "National cyber team confirms the breach, but not whether data was stolen or encrypted",
+    "isoDate": "2026-09-21T15:19:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=258246&width=800",
     "pinned": false
   },
   {
@@ -670,7 +835,7 @@
   },
   {
     "id": "a2df87a9571b289bb902c1d100aeb8a64f7f640d",
-    "title": "Tesla FSD v14.3.10 Release Notes (Update 2026.27.10)",
+    "title": "Tesla FSD v14.3.10 and v14.2 Lite Release Notes (Update 2026.27.10)",
     "link": "https://www.notateslaapp.com/software-updates/version/2026.27.10/release-notes",
     "summary": "We take a look at the release notes and what's new in Tesla update 2026.27.10. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.27.10/release-notes\">Read More</a>",
     "isoDate": "2026-09-19T02:13:01Z",
@@ -973,45 +1138,6 @@
     "pinned": false
   },
   {
-    "id": "161acfd6fde5a0a8b1e386d008378edde27d3748",
-    "title": "Meet the winner of Nikon's Small World in Motion video contest",
-    "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-    "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
-    "isoDate": "2026-09-18T13:56:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "microscopic imagery",
-      "Nikon Small World in Motion video",
-      "scientific imaging"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/nikonTOP-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a8365cfa26c035d9e0fa201ceff4916d184708de",
-    "title": "Researchers used Claude to hack OpenAI",
-    "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-    "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-    "isoDate": "2026-09-18T13:30:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cristina Criddle, Financial Times",
-    "tags": [
-      "AI",
-      "Security",
-      "Anthropic",
-      "ChatGPT",
-      "hacking",
-      "openai",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "061c9e74f85cdfdafb4279f77bb5f7e0e9b58bdb",
     "title": "Introducing Our Personalized Tesla License Plate Generator [Update: Now Supports Canada!]",
     "link": "https://www.notateslaapp.com/news/4686/introducing-our-tesla-license-plate-generator-with-designs-for-all-50-states",
@@ -1037,23 +1163,6 @@
       "software"
     ],
     "image": "https://image.theregister.com/?imageId=244387&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2ac41d6a4629ca0a589c1b999ad8056a7201a256",
-    "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-    "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-    "summary": "“I can tell you SpaceX has already gone captive.\"",
-    "isoDate": "2026-09-18T11:00:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "rocket report",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_pillars-500x500.jpg",
     "pinned": false
   },
   {
@@ -1321,21 +1430,6 @@
     "pinned": false
   },
   {
-    "id": "5212eb797be24aa0cac8241c4e052fe9bafd4e66",
-    "title": "Scientific papers become agentic chatbots with new tool",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/17/scientific-papers-become-agentic-chatbots-with-new-tool/5297276",
-    "summary": "Why go through the hassle of reading a study for yourself when you can turn it into an AI agent and tell it to reproduce the analysis for you?",
-    "isoDate": "2026-09-17T16:42:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=246435&width=800",
-    "pinned": false
-  },
-  {
     "id": "25fd289f2092c527640d5a92381d5759111b8abc",
     "title": "Tesla AI5 Chip Enters Trial Production at Samsung's Texas Fab",
     "link": "https://www.notateslaapp.com/news/4701/tesla-ai5-chip-enters-trial-production-at-samsungs-texas-fab",
@@ -1349,21 +1443,6 @@
     "pinned": false
   },
   {
-    "id": "9298478d73197da542e284fd85c50b00bb236646",
-    "title": "London property manager breach may have exposed bank details and lockbox codes",
-    "link": "https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
-    "summary": "City Relay says intruders accessed its Metabase Cloud instance twice and extracted customer data",
-    "isoDate": "2026-09-17T15:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094087&width=800",
-    "pinned": false
-  },
-  {
     "id": "1eef67d95fea47e5922734303a18918d0f6c82c9",
     "title": "Tesla FSD v14.3.9 Down Under (Update 2026.28.5)",
     "link": "https://www.notateslaapp.com/software-updates/version/2026.28.5/release-notes",
@@ -1374,66 +1453,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.16/fsd-supervised-v1433-down-under.png/3acac15b46a0fd355bd05d294197f488/fsd-supervised-v1433-down-under.jpg",
-    "pinned": false
-  },
-  {
-    "id": "412c2cc23cb7d3417d95610c0f35399617c05731",
-    "title": "Microsoft configuration change leaves SharePoint pages drawing a blank",
-    "link": "https://www.theregister.com/saas/2026/09/17/microsoft-configuration-change-leaves-sharepoint-pages-drawing-a-blank/5297198",
-    "summary": "Validation? Apparently that comes after deployment",
-    "isoDate": "2026-09-17T15:17:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=229481&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b6af7300b62f0086b9bb9ddf8bd7494317d9c64f",
-    "title": "Grassroots coalition asks politicians to choose voters over Big AI's $140M machine",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/17/grassroots-coalition-asks-politicians-to-choose-voters-over-big-ais-140m-machine/5297186",
-    "summary": "QuitGPT-led pledge targets Leading the Future's push for lighter regulation ahead of the midterms",
-    "isoDate": "2026-09-17T14:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=263123&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2fce52e09e505e12b3525cc6e3245e52a6e39bb1",
-    "title": "Microsoft patch gives domain-joined Windows PCs trust issues",
-    "link": "https://www.theregister.com/os-platforms/2026/09/17/microsoft-patch-gives-domain-joined-windows-pcs-trust-issues/5297155",
-    "summary": "Machine Identity Isolation policies can reject valid credentials unless controllers meet the Server 2025 functional level",
-    "isoDate": "2026-09-17T13:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=231576&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8fe055239060fdac4c2466bd912a882d499a5b31",
-    "title": "AI model watermarking changes agent behavior",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998",
-    "summary": "Lasso Security sees differences in tool handling and model refusals",
-    "isoDate": "2026-09-17T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5294391&width=800",
     "pinned": false
   },
   {
@@ -1607,19 +1626,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "184f86ab0ad4515e5b1a918d2143cfb97e2b463d",
-    "title": "Tesla Adds Insurance Estimates to Order Page, Highlighting FSD Savings",
-    "link": "https://www.notateslaapp.com/news/4685/tesla-adds-insurance-estimates-to-order-page-highlighting-fsd-savings",
-    "summary": "Tesla adds insurance estimates to its order page, letting buyers adjust mileage and coverage and compare potential savings from FSD usage. <a href=\"https://www.notateslaapp.com/news/4685/tesla-adds-insurance-estimates-to-order-page-highlighting-fsd-savings\">Read More</a>",
-    "isoDate": "2026-09-14T19:42:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/insurance-order-page.webp/eac10300f3ff1714e1dd85e6782762d8/insurance-order-page.jpg",
     "pinned": false
   }
 ]
