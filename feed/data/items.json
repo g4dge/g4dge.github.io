@@ -1,8 +1,242 @@
 [
   {
-    "id": "bfdeddd3a0f4812983743b843f0cd194ef451ddb",
-    "title": "Failed UK networking vendor Cambium set to turn off its cloudy management portal",
-    "link": "https://www.theregister.com/networks/2026/09/21/failed-uk-networking-vendor-cambium-set-to-turn-off-its-cloudy-management-portal/5297647",
+    "id": "5671b4bec0d8c2e1583ec9c9ada0c88013d36980",
+    "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
+    "link": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
+    "summary": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
+    "isoDate": "2026-09-21T13:53:46Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "entertainment",
+      "Neagley",
+      "prime video",
+      "reviews",
+      "streaming television"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/neagley-500x500-1789586805.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3957e526e6410d9be6ca611f64ea4a249e7fa548",
+    "title": "Amazon shows Meta's Muse AI shopping agent the door",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
+    "summary": "Retailer cites credentials and transparency concerns while guarding its lucrative customer journey",
+    "isoDate": "2026-09-21T13:28:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297782&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d3361d5d9008b5d16c73ba8c32e8f2c0b5fb46c1",
+    "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+    "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+    "summary": "The M4 Mac mini was one of Apple's best values ever. This one, not so much.",
+    "isoDate": "2026-09-21T13:00:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Features",
+      "Tech",
+      "apple",
+      "apple m6",
+      "Apple silicon",
+      "Mac mini",
+      "macos 27 golden gate"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3731-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "6d3d61319f06c770c0bf4740a591334897fab7ed",
+    "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+    "link": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+    "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+    "isoDate": "2026-09-21T13:00:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HP-Googlebook-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f5705f344462c892fcc8bc61fa3ea184e6094c00",
+    "title": "Clop gets a taste of its own medicine after ShinyHunters hijack leak site",
+    "link": "https://www.theregister.com/cyber-crime/2026/09/21/clop-gets-a-taste-of-its-own-medicine-after-shinyhunters-hijack-leak-site/5297702",
+    "summary": "Rival crew demands eight figures and threatens to expose companies that paid to keep quiet",
+    "isoDate": "2026-09-21T12:46:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=255895&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e40cf8b005b34182ee5b86cf13caaf3ca88ea939",
+    "title": "NASA gives SpaceX a billion reasons to keep flying Crew Dragon",
+    "link": "https://www.theregister.com/offbeat/2026/09/21/nasa-gives-spacex-a-billion-reasons-to-keep-flying-crew-dragon/5297705",
+    "summary": "Crew-15 through Crew-17 shore up astronaut access to ISS while Starliner's future remains uncertain",
+    "isoDate": "2026-09-21T12:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=227223&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fbbabda9d04d3dda49afddb3fb81f22a8c5a0577",
+    "title": "American datacenters might be getting dirtier, but at least they'll be efficient",
+    "link": "https://www.theregister.com/systems/2026/09/21/american-datacenters-might-be-getting-dirtier-but-at-least-theyll-be-efficient/5297526",
+    "summary": "US power emissions restrictions are being wiped out, but hey – datacenters running Nvidia kit are getting better at extracting ever bit of compute they can from a megawatt, for what it's worth",
+    "isoDate": "2026-09-21T11:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5270351&width=800",
+    "pinned": false
+  },
+  {
+    "id": "63aa8c538632a8fc3ba60095ddc102b63e2f0598",
+    "title": "Rustaceans warned of job interviews with a malicious payload",
+    "link": "https://www.theregister.com/security/2026/09/21/rustaceans-warned-of-job-interviews-with-a-malicious-payload/5297690",
+    "summary": "Attackers are courting crate owners with plausible company profiles and booby-trapped recruitment calls",
+    "isoDate": "2026-09-21T10:33:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5226389&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ed227fff5881e265c6e0d3598c18752ece9edb09",
+    "title": "Sound guardians",
+    "link": "https://aeon.co/videos/indonesia-is-building-a-new-capital-city-whats-being-lost",
+    "summary": "<p><img alt=\"Photo of a man with closed eyes wearing headphones, appearing focused, against a blurred green background.\" src=\"https://images.aeonmedia.co/images/350652a0-e6ac-4a1d-b013-736fa59eeda5/sound-guardians-landscape.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>As Indonesia builds a new capital city, the race is on to preserve the sounds of the rainforest before they vanish forever</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/indonesia-is-building-a-new-capital-city-whats-being-lost\">Watch on Aeon</a></p>",
+    "isoDate": "2026-09-21T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "386561a8fd703d121f57916e1a6b10131627f0a1",
+    "title": "He was probably right",
+    "link": "https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty",
+    "summary": "<p><img alt=\"Classical marble busts in a museum setting with focus on a detailed male figure in the background.\" src=\"https://images.aeonmedia.co/images/ab30ee1c-11a9-4d4d-a7a0-fd34b45891e5/esssay-gettyimages-527618704.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Cicero’s life and thought are a testament to the idea of probabilia: we should be confident in our beliefs, but never certain</p><p><em>- by Massimo Pigliucci</em></p><p><a href=\"https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty\">Read on Aeon</a></p>",
+    "isoDate": "2026-09-21T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Massimo Pigliucci",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "216533f95d395e464a55d2fc90c25c47430d0343",
+    "title": "It's raining, the transport isn't working, and now an Android app wants to walk out in solidarity",
+    "link": "https://www.theregister.com/offbeat/2026/09/21/its-raining-the-transport-isnt-working-and-now-an-android-app-wants-to-walk-out-in-solidarity/5297494",
+    "summary": "Please release me, let me close...",
+    "isoDate": "2026-09-21T09:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297498&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6b443d9b44fc68304f432949c179ba497a0f14ae",
+    "title": "Salesforce wants to charge for AI outcomes, but first it needs to figure out how",
+    "link": "https://www.theregister.com/software/2026/09/21/salesforce-wants-to-charge-for-ai-outcomes-but-first-it-needs-to-figure-out-how/5297402",
+    "summary": "Seats, Flex Credits, and all-you-can-eat contracts make for an 'anxiety-filled architecture'",
+    "isoDate": "2026-09-21T09:07:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=1683935&width=800",
+    "pinned": false
+  },
+  {
+    "id": "182ab9e5e2ea01fce33ed7bb40b587e4bade90c9",
+    "title": "Your cloud survived everything except the real world",
+    "link": "https://www.theregister.com/columnists/2026/09/21/your-cloud-survived-everything-except-the-real-world/5297423",
+    "summary": "War damage, air traffic chaos, and a storage shortage expose the cost of treating resilience as someone else's problem",
+    "isoDate": "2026-09-21T08:03:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "columnists"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297434&width=800",
+    "pinned": false
+  },
+  {
+    "id": "dd8a384b1f9ec5124aeed9e58693a1dc3fc48e30",
+    "title": "VMware has quietly walked back its SmartNIC ambitions",
+    "link": "https://www.theregister.com/virtualization/2026/09/21/vmware-has-quietly-walked-back-its-smartnic-ambitions/5297654",
+    "summary": "Virtzilla’s bet on hyperscale hardware going mainstream didn’t excite customers, but may live on",
+    "isoDate": "2026-09-21T07:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=247020&width=800",
+    "pinned": false
+  },
+  {
+    "id": "06e03429ce83f77b2656274013566ff9e4275353",
+    "title": "Boss bought cheap 'printer' from a catalog and was left without a leg to stand on",
+    "link": "https://www.theregister.com/personal-tech/2026/09/21/boss-bought-cheap-printer-from-a-catalog-and-was-left-without-a-leg-to-stand-on-1/5297373",
+    "summary": "Attempt to prove procurement prowess ended up gathering dust",
+    "isoDate": "2026-09-21T06:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=259304&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5c236f2cf70b0644136b89c2ab3f3dbdc85945b1",
+    "title": "Failed networking vendor Cambium set to turn off its cloudy management portal",
+    "link": "https://www.theregister.com/networks/2026/09/21/failed-networking-vendor-cambium-set-to-turn-off-its-cloudy-management-portal/5297647",
     "summary": "Quits enterprise networking hardware business, tells users to install on-prem software ASAP",
     "isoDate": "2026-09-21T05:17:02Z",
     "source": "The Register",
@@ -687,21 +921,6 @@
     "pinned": false
   },
   {
-    "id": "3b8ed7366bc2b38070bb9b9b5e68a101d2e4eb0d",
-    "title": "The Skeptic Podcast – Episode 082",
-    "link": "https://www.skeptic.org.uk/2026/09/the-skeptic-podcast-episode-082/",
-    "summary": "<p>Featuring articles from Emma McClure (April 2024), Chris French (March 2021), Edzard Ernst (May 2023), and Dave Hahn (August 2026). </p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/the-skeptic-podcast-episode-082/\">The Skeptic Podcast – Episode 082</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-09-18T10:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "The Skeptic Podcast",
-    "tags": [
-      "Podcast"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "3920f61e0f9dbb56d5177e2f8da019196f5560d1",
     "title": "Cosmic amnesia",
     "link": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
@@ -727,21 +946,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=5297253&width=800",
-    "pinned": false
-  },
-  {
-    "id": "24beaad9cc31805feb603b64a66bbb0d68029987",
-    "title": "The network pushing extremism at the University of Cambridge – and why it should matter to skeptics",
-    "link": "https://www.skeptic.org.uk/2026/09/the-network-pushing-extremism-at-the-university-of-cambridge-and-why-it-should-matter-to-skeptics/",
-    "summary": "<p>Skeptics should be wary of a network of wealthy interests undermining academic freedom and credibility, at prestigious Cambridge University and across our media</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/the-network-pushing-extremism-at-the-university-of-cambridge-and-why-it-should-matter-to-skeptics/\">The network pushing extremism at the University of Cambridge – and why it should matter to skeptics</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-09-18T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Michael Marshall",
-    "tags": [
-      "Politics"
-    ],
-    "image": "",
     "pinned": false
   },
   {
@@ -994,23 +1198,6 @@
     "pinned": false
   },
   {
-    "id": "efa840d232707a5f6579cf1e949d085c6600c17d",
-    "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
-    "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
-    "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
-    "isoDate": "2026-09-17T19:07:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "MPA",
-      "site-blocking"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-500x500-1738189251.jpg",
-    "pinned": false
-  },
-  {
     "id": "de0fc760122ac3c6c29ece2dfca6fc09c9bd4b47",
     "title": "Tesla Shop Changes This Month: Wall Connector Price Increase, Discontinued Products and New Additions",
     "link": "https://www.notateslaapp.com/news/4702/whats-changed-in-the-tesla-shop-this-month",
@@ -1021,26 +1208,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-shop-changes-aug-sep-2026-hero.webp/62cdc0a8a8fd1b971a7ce4304294c133/tesla-shop-changes-aug-sep-2026-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "168e3a7edc7326171115c7d80bcf950f41bf1686",
-    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-    "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-    "isoDate": "2026-09-17T18:33:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "Anthropic",
-      "LLMs",
-      "watermarking"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-500x500.jpg",
     "pinned": false
   },
   {
@@ -1056,27 +1223,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=1681600&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c1040cb3b243079ff32b3260bc9bf37941bc95e4",
-    "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
-    "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
-    "summary": "The IV drips included glutathione, which was not made to be injected.",
-    "isoDate": "2026-09-17T17:43:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "CDC",
-      "fda",
-      "IV drips",
-      "supplements",
-      "toxic",
-      "toxins"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1155940802-500x500.jpg",
     "pinned": false
   },
   {
@@ -1211,66 +1357,6 @@
     "pinned": false
   },
   {
-    "id": "b1623f4db02395c89378243f481976a07ad14559",
-    "title": "Microsoft AI chief warns Anthropic not to put ideas in Claude's head",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/17/microsoft-ai-chief-warns-anthropic-not-to-put-ideas-in-claudes-head/5297149",
-    "summary": "Mustafa Suleyman claims model welfare language could make future systems harder to control – while sparing OpenAI the same scrutiny",
-    "isoDate": "2026-09-17T12:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5214745&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9321dd4ea95d7808048ebbf819ffdecb1a3bb233",
-    "title": "Test environment let anyone access live customer data",
-    "link": "https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977",
-    "summary": "Even a temporary staging server needs to be locked down.",
-    "isoDate": "2026-09-17T11:28:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5296981&width=800",
-    "pinned": false
-  },
-  {
-    "id": "dd14f31854f5ce65fb1098c4e759e27053b484c6",
-    "title": "Omarchy gains $18.5M in backing, fresh converts – and fierce critics",
-    "link": "https://www.theregister.com/software/2026/09/17/omarchy-gains-185m-in-backing-fresh-converts-and-fierce-critics/5296780",
-    "summary": "DHH's Arch-based desktop becomes the latest front in FOSS's culture wars",
-    "isoDate": "2026-09-17T10:44:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=1624985&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3bf6be97e09ad8f94d76329b770121865fca796e",
-    "title": "Ofcom discovers issuing Online Safety Act fines is easier than collecting them",
-    "link": "https://www.theregister.com/security/2026/09/17/ofcom-discovers-issuing-online-safety-act-fines-is-easier-than-collecting-them/5297110",
-    "summary": "Platforms comply just enough to avoid being blocked, leaving the regulator chasing debt",
-    "isoDate": "2026-09-17T10:08:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5254826&width=800",
-    "pinned": false
-  },
-  {
     "id": "7e11f4b418fe4b5a32d96d005f6eb180d02191dc",
     "title": "Who will taste the cherries?",
     "link": "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
@@ -1281,96 +1367,6 @@
     "author": "Liam Spradlin",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b3a9a60d8923aad4b5515310829b512e5925d2db",
-    "title": "Government Digital Service move 'grinds gears' in UK's e-government",
-    "link": "https://www.theregister.com/public-sector/2026/09/17/government-digital-service-move-grinds-gears-in-uks-e-government/5296784",
-    "summary": "As team responsible for tech strategy shunted to third department in three years, experts fear exodus of talent",
-    "isoDate": "2026-09-17T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=241212&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5f124237f6b6a0c1ffcc9c5c6c217b1a1dfe0afb",
-    "title": "Judge orders Microsoft to spill internal docs and scour execs' comms in secondhand licensing case",
-    "link": "https://www.theregister.com/legal/2026/09/17/judge-orders-microsoft-to-spill-internal-docs-and-scour-execs-comms-in-secondhand-licensing-case/5296820",
-    "summary": "Yes, the 'Secondhand Software Presentation' does sound like it might be an adverse document...",
-    "isoDate": "2026-09-17T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=263174&width=800",
-    "pinned": false
-  },
-  {
-    "id": "58c43be93b548797f292d17a006a9a4eeacd897e",
-    "title": "Fujitsu ready to sell its custom ‘Monaka’ Arm chip, maybe to rival server-makers",
-    "link": "https://www.theregister.com/systems/2026/09/17/fujitsu-ready-to-sell-its-custom-monaka-arm-chip-maybe-to-rival-server-makers/5297025",
-    "summary": "Clouds, the sovereign-sensitive, and the inferencing-interested are also about to get sales calls",
-    "isoDate": "2026-09-17T06:20:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297033&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fc1fcfe7927f68dd513b188fb1c0e7093fcd564b",
-    "title": "Swift 6.4 unifies building across Linux, macOS, Windows",
-    "link": "https://www.theregister.com/devops/2026/09/17/swift-64-unifies-building-across-linux-macos-windows/5297006",
-    "summary": "Swift Build is now the default engine for the Swift Package Manager",
-    "isoDate": "2026-09-17T04:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=258433&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2ff6a22332155de6ed0fda2bcccce6f6142d5680",
-    "title": "OpenAI admits its agents went off the rails another six times",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016",
-    "summary": "Startup says it’s learned from these mistakes and that they shouldn’t happen again … which is just what Zuck has said about 100 times",
-    "isoDate": "2026-09-17T02:39:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=256885&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8bd897c3d9f6b6402f5d8854394d8ef8ce120e2b",
-    "title": "If a Mac mini is agentic overkill, try this glowing pyramid that runs personal bots",
-    "link": "https://www.theregister.com/personal-tech/2026/09/17/if-a-mac-mini-is-agentic-overkill-try-this-glowing-pyramid-that-runs-personal-bots/5296964",
-    "summary": "'Intern 2' offers an isolated environment and cloudy inference to automate your world",
-    "isoDate": "2026-09-16T23:28:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297002&width=800",
     "pinned": false
   },
   {
@@ -1422,21 +1418,6 @@
     "category": "Long Reads",
     "author": "Aeon Video",
     "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "88bd0c2813a6d37f0cf3a6b5f8700e1afff52121",
-    "title": "The longevity protocol of dasatinib and quercetin has shown some promise… but so far, only in mice",
-    "link": "https://www.skeptic.org.uk/2026/09/the-longevity-protocol-of-dasatinib-and-quercetin-has-shown-some-promise-but-so-far-only-in-mice/",
-    "summary": "<p>While some early mouse studies show promise for a dasatinib and quercetin longevity cocktail, evidence doesn't yet suggest humans can benefit</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/the-longevity-protocol-of-dasatinib-and-quercetin-has-shown-some-promise-but-so-far-only-in-mice/\">The longevity protocol of dasatinib and quercetin has shown some promise&#8230; but so far, only in mice</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-09-16T10:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Brian Goncus",
-    "tags": [
-      "Science"
-    ],
     "image": "",
     "pinned": false
   },
@@ -1519,21 +1500,6 @@
     "pinned": false
   },
   {
-    "id": "2d27ba33161342bdf38e093a51c04a3821e90c74",
-    "title": "From the archives: At the frontiers of science – cataloguing the anomalies and curiosities of nature",
-    "link": "https://www.skeptic.org.uk/2026/09/from-the-archives-at-the-frontiers-of-science-cataloguing-the-anomalies-and-curiosities-of-nature/",
-    "summary": "<p>From the archives in 1993, William R Corliss summarises lessons learned from the first 86 issues of Science Frontiers magazine.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/from-the-archives-at-the-frontiers-of-science-cataloguing-the-anomalies-and-curiosities-of-nature/\">From the archives: At the frontiers of science – cataloguing the anomalies and curiosities of nature</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-09-15T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "William R Corliss",
-    "tags": [
-      "Archive"
-    ],
-    "image": "",
-    "pinned": false
-  },
-  {
     "id": "184f86ab0ad4515e5b1a918d2143cfb97e2b463d",
     "title": "Tesla Adds Insurance Estimates to Order Page, Highlighting FSD Savings",
     "link": "https://www.notateslaapp.com/news/4685/tesla-adds-insurance-estimates-to-order-page-highlighting-fsd-savings",
@@ -1570,47 +1536,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/superchargers-multiple.jpeg/ba5d2f3bd95e5028b3aa51caed4277bc/superchargers-multiple.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fb4050ac94733da69aea31e0930540497278c874",
-    "title": "Once upon a screen: explosive paradox",
-    "link": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
-    "summary": "<p><img alt=\"Photo of a scene from a film showing a soldier in muddy gear behind sandbags in a jungle, reflected on an iPad screen.\" src=\"https://images.aeonmedia.co/images/bead947c-a6cf-4c98-97e3-1fb2364202af/once-upon-a-screen-explosive-paradox-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Decades after seeing ‘Platoon’, Kevin recalls how the film stirred generational trauma in his family and racism at school</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory\">Watch on Aeon</a></p>",
-    "isoDate": "2026-09-14T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "207102c81e77ed620d84c800cb94a0f3ac10877c",
-    "title": "The bombarding of childhood",
-    "link": "https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media",
-    "summary": "<p><img alt=\"Two children engrossed in watching a cartoon on TV in a dimly lit room with curtains and a table.\" src=\"https://images.aeonmedia.co/images/0bdeea37-3692-4792-af19-9981bd686a4b/essay-gettyimages-514482248.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>It’s not just screen time: the problem with children’s media is that it has become relentlessly hectic, loud and bright</p><p><em>- by Natalia Kucirkova</em></p><p><a href=\"https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media\">Read on Aeon</a></p>",
-    "isoDate": "2026-09-14T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Natalia Kucirkova",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "fdfe89a311e24fe43da9f4ef273b2a633c47c370",
-    "title": "The Turing test is no longer fit for purpose – we need a new benchmark for machine intelligence",
-    "link": "https://www.skeptic.org.uk/2026/09/the-turing-test-is-no-longer-fit-for-purpose-we-need-a-new-benchmark-for-machine-intelligence/",
-    "summary": "<p>When the Turing Test was first proposed, it was never designed to be a definitive test for genuine artificial intelligence.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/the-turing-test-is-no-longer-fit-for-purpose-we-need-a-new-benchmark-for-machine-intelligence/\">The Turing test is no longer fit for purpose – we need a new benchmark for machine intelligence</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-09-14T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Richard Glover",
-    "tags": [
-      "Technology"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
