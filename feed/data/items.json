@@ -1,5 +1,35 @@
 [
   {
+    "id": "5ab05d424cb0742a8d99e14ed5cc93578b1204ed",
+    "title": "California tightens datacenter rules on water and power",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/22/california-tightens-datacenter-rules-on-water-and-power/5298028",
+    "summary": "Public pushback puts bit barn resource use under the microscope",
+    "isoDate": "2026-09-21T23:33:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298032&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4c094eabbf43bbae9533017c7cf3ecdc6abaaf06",
+    "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+    "link": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
+    "summary": "Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild",
+    "isoDate": "2026-09-21T22:32:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298025&width=800",
+    "pinned": false
+  },
+  {
     "id": "b2c543ac59e1c4518c6ada1d61803543a9eca330",
     "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
     "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
@@ -45,6 +75,21 @@
     "pinned": false
   },
   {
+    "id": "d2df521a969d5956f43d9b3a6af24816675257c4",
+    "title": "Perpetual underdog AMD nips at Nvidia's heels as it joins the $1T club",
+    "link": "https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998",
+    "summary": "Fueled by the AI boom, the House of Zen's rise isn't just Instinct - Lisa Su is riding high on some Epyc design chops too",
+    "isoDate": "2026-09-21T20:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298015&width=800",
+    "pinned": false
+  },
+  {
     "id": "6c3e192ba371355e9f113dd69db8072455624af7",
     "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
     "link": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
@@ -72,6 +117,36 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-v-14-3-9-camera-cleaning-alerts-issue-1-1790022366.webp/507ed513c7c0c35d1a48758838a49d3f/fsd-v-14-3-9-camera-cleaning-alerts-issue-1-1790022366.jpg",
+    "pinned": false
+  },
+  {
+    "id": "35913be31f11d5264caee1c65b479e4150c92ce0",
+    "title": "Skip the upgrade? iPhone 18 Pro aperture about as unrepairable as it gets, iFixit finds",
+    "link": "https://www.theregister.com/personal-tech/2026/09/21/skip-the-upgrade-iphone-18-pro-aperture-about-as-unrepairable-as-it-gets-ifixit-finds/5297970",
+    "summary": "Repairability improvements can't lift last year's score as camera complexity and screen-frame concerns remain",
+    "isoDate": "2026-09-21T20:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5297976&width=800",
+    "pinned": false
+  },
+  {
+    "id": "12555d18a30641999d6e97158c59a89acc21f280",
+    "title": "Meta Muse AI app flaw lets local malware redirect dictation traffic",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
+    "summary": "Ad biz promises users control while bug could expose voice prompts",
+    "isoDate": "2026-09-21T19:59:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298012&width=800",
     "pinned": false
   },
   {
@@ -1329,51 +1404,6 @@
     "pinned": false
   },
   {
-    "id": "84259df9ff470bba94f35c7e9c6d57a0987c6be1",
-    "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
-    "link": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
-    "summary": "Plugin4Shell attack affects all the major coding agents, researchers say",
-    "isoDate": "2026-09-17T22:42:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297339&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a2e6ff0925ec15b8908b74c0f2ad4600be102b30",
-    "title": "Huawei's next-gen Ascend NPUs could become China's best option",
-    "link": "https://www.theregister.com/systems/2026/09/17/huaweis-next-gen-ascend-npus-could-become-chinas-best-option/5297320",
-    "summary": "960DT is set to arrive early, boasting performance far exceeding anything the West could offer the Middle Kingdom",
-    "isoDate": "2026-09-17T21:07:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=261217&width=800",
-    "pinned": false
-  },
-  {
-    "id": "57cd83a4dd2f3a263f9a0f1c523636ab4b6e47ed",
-    "title": "DoE seeking fault-tolerant quantum computer ... by 2028",
-    "link": "https://www.theregister.com/hpc/2026/09/17/doe-seeking-fault-tolerant-quantum-computer-by-2028/5297311",
-    "summary": "Entrants get $250K upfront to deliver a demo within a year, which sounds totally feasible given quantum computing's track record",
-    "isoDate": "2026-09-17T20:09:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "hpc"
-    ],
-    "image": "https://image.theregister.com/?imageId=104971&width=800",
-    "pinned": false
-  },
-  {
     "id": "7dc0621411e9510321b5394811126e090f949a97",
     "title": "Tesla to Open New Collision Repair Center in Miami",
     "link": "https://www.notateslaapp.com/news/4703/tesla-to-open-new-collision-repair-center-in-miami",
@@ -1387,21 +1417,6 @@
     "pinned": false
   },
   {
-    "id": "e158f7fa3bf72c060aace64dbc3f7bfb66346ccf",
-    "title": "Researchers find way to listen in on headphones from afar",
-    "link": "https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303",
-    "summary": "Eve's dropping in on Alice and Bob",
-    "isoDate": "2026-09-17T19:36:10Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297307&width=800",
-    "pinned": false
-  },
-  {
     "id": "de0fc760122ac3c6c29ece2dfca6fc09c9bd4b47",
     "title": "Tesla Shop Changes This Month: Wall Connector Price Increase, Discontinued Products and New Additions",
     "link": "https://www.notateslaapp.com/news/4702/whats-changed-in-the-tesla-shop-this-month",
@@ -1412,21 +1427,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-shop-changes-aug-sep-2026-hero.webp/62cdc0a8a8fd1b971a7ce4304294c133/tesla-shop-changes-aug-sep-2026-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "26056f2e2843345fa073ed874323010b711f2c98",
-    "title": "China's Salt Typhoon backdoors Latin American orgs with new snooping malware",
-    "link": "https://www.theregister.com/security/2026/09/17/chinas-salt-typhoon-backdoors-latin-american-orgs-with-new-snooping-malware/5297286",
-    "summary": "Beware the SparroWocky, my son! The backdoor that bites…",
-    "isoDate": "2026-09-17T18:00:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=1681600&width=800",
     "pinned": false
   },
   {
