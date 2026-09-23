@@ -18,6 +18,21 @@
     "pinned": false
   },
   {
+    "id": "bdc6b949fce849805502a45c0273d14ffad3f5f3",
+    "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+    "link": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
+    "summary": "'first' publicly documented Windows implant to use LLMs for C2",
+    "isoDate": "2026-09-22T21:33:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298442&width=800",
+    "pinned": false
+  },
+  {
     "id": "5618ffbe19d5709c91eda9d0e6e11b693b7cff3b",
     "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
     "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
@@ -39,6 +54,21 @@
       "Sol"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Claude-ChatGPT-500x500-1790110453.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e0ffb209158958cb11e501c61944e6795ea54d03",
+    "title": "Security firm finds naming AI agents after Seinfeld characters helps bots join the team",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/22/security-firm-finds-naming-ai-agents-after-seinfeld-characters-helps-bots-join-the-team/5298424",
+    "summary": "Not that there's anything wrong with it",
+    "isoDate": "2026-09-22T20:43:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298428&width=800",
     "pinned": false
   },
   {
@@ -179,6 +209,21 @@
       "Zach Cregger"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/residentevilTOP-500x500-1790010806.jpg",
+    "pinned": false
+  },
+  {
+    "id": "86731cd95e8f895bf33d229ebda3a34b7316c359",
+    "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
+    "link": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
+    "summary": "This time it's personal",
+    "isoDate": "2026-09-22T17:24:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298402&width=800",
     "pinned": false
   },
   {
@@ -1365,36 +1410,6 @@
     "pinned": false
   },
   {
-    "id": "6cc7aeef347789183b028f1ff6e46ea1a748e1b1",
-    "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-    "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-    "summary": "The Rust compiler remains unperturbed by the antics of the LLM",
-    "isoDate": "2026-09-18T21:11:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297581&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3774a3a579c909b0c01382993411775844336377",
-    "title": "Virginia governor wakes up to fact datacenters have become political cancer",
-    "link": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
-    "summary": "Executive order puts the kibosh on NDAs, limits permitting, and calls for stiffer environmental protections",
-    "isoDate": "2026-09-18T20:16:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5269875&width=800",
-    "pinned": false
-  },
-  {
     "id": "38c0847148b785cace08519adea0618d329e5e54",
     "title": "Tesla's Upcoming Full Self-Driving Features",
     "link": "https://www.notateslaapp.com/news/4705/teslas-upcoming-full-self-driving-features",
@@ -1405,21 +1420,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/model-y-fsd.webp/b4bb6bf8b222001bd00199f4ad9d8b1b/model-y-fsd.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e0932d171a8a6d1fde77844a58430096ad33c590",
-    "title": "Compsci grads facing recession-like job prospects thanks to AI",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
-    "summary": "Slinging coffee and waiting tables ain't just for liberal arts grads any more, say Census Bureau economists",
-    "isoDate": "2026-09-18T19:48:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=233361&width=800",
     "pinned": false
   },
   {
@@ -1608,19 +1608,6 @@
       "Science"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "8e7804334d7aa981909973cf137f1e3ba1472af0",
-    "title": "Tesla Debuts Pre-Assembled Accordion Superchargers",
-    "link": "https://www.notateslaapp.com/news/4697/tesla-debuts-pre-assembled-accordion-superchargers",
-    "summary": "Tesla has officially unveiled the new Accordion Supercharger, which makes it possible to build a station even when Tesla can’t place stalls behind a curb <a href=\"https://www.notateslaapp.com/news/4697/tesla-debuts-pre-assembled-accordion-superchargers\">Read More</a>",
-    "isoDate": "2026-09-15T23:05:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/tesla-accordion-supercharger-pre-assembled.webp/ee507482f0d026e73052b6e8d917c7ec/tesla-accordion-supercharger-pre-assembled.jpg",
     "pinned": false
   }
 ]
