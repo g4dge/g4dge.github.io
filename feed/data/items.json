@@ -1,5 +1,65 @@
 [
   {
+    "id": "add77eb6b13b5ddd73a4b918a3c9f85f818fdde9",
+    "title": "Experts question whether Salesforce demo breaches SAP API policy",
+    "link": "https://www.theregister.com/saas/2026/09/24/experts-question-whether-salesforce-demo-breaches-sap-api-policy/5298606",
+    "summary": "For the German vendor, greater challenges may lie ahead, as rivals seek to control the user experience",
+    "isoDate": "2026-09-24T09:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240704&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1d9141b660eb7f1ed2d30a21b4130b8c0b00e402",
+    "title": "Government contractor exposed path to immigration records",
+    "link": "https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689",
+    "summary": "IT took a shortcut when the boss was away, and it led to danger!",
+    "isoDate": "2026-09-24T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298696&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b207a431a30eb082d6cf1bbb14d159f13d7264de",
+    "title": "Europe’s internet registry wants governance ‘correction’ because its ‘Executive Board’ is not the executive",
+    "link": "https://www.theregister.com/networks/2026/09/24/europes-internet-registry-wants-governance-correction-because-its-executive-board-is-not-the-executive/5298728",
+    "summary": "RIPE NCC hopes members get aboard effort to tidy things up and give its CEO a vote",
+    "isoDate": "2026-09-24T05:31:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298733&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b193d306b2f980f225746047890e78c69c095687",
+    "title": "India’s outsourced software industry grows 9.5 percent to reach $239 billion",
+    "link": "https://www.theregister.com/channel/2026/09/24/indias-outsourced-software-industry-grows-95-percent-to-reach-239-billion/5298721",
+    "summary": "Software product development industry shrinks a little, but if AI has dented prospects, it’s not in these numbers",
+    "isoDate": "2026-09-24T03:34:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "channel"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094241&width=800",
+    "pinned": false
+  },
+  {
     "id": "58fc1c24f962fb99ed1c391a9c4d794e394bf435",
     "title": "OpenAI's Astra model went for a drive and no one died",
     "link": "https://www.theregister.com/ai-and-ml/2026/09/24/openais-astra-model-went-for-a-drive-and-no-one-died/5298715",
@@ -18,7 +78,7 @@
     "id": "331ed22c36d6da8c7a76cbb2e97779ddf2aff5e1",
     "title": "OpenAI agents ‘infiltrated Australian government website’",
     "link": "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
-    "summary": "Used generic unattended email to reveal incident, which may have spread to multiple agencies",
+    "summary": "Canberra is fuming after AI lab sent the news to a generic unattended email address",
     "isoDate": "2026-09-24T00:03:03Z",
     "source": "The Register",
     "category": "Tech",
@@ -1211,21 +1271,6 @@
     "pinned": false
   },
   {
-    "id": "d2df521a969d5956f43d9b3a6af24816675257c4",
-    "title": "Perpetual underdog AMD nips at Nvidia's heels as it joins the $1T club",
-    "link": "https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998",
-    "summary": "Fueled by the AI boom, the House of Zen's rise isn't just Instinct - Lisa Su is riding high on some Epyc design chops too",
-    "isoDate": "2026-09-21T20:59:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298015&width=800",
-    "pinned": false
-  },
-  {
     "id": "eebd204a444fcd13ff14e450abc82f6d162abbb5",
     "title": "Tesla FSD V14.3.9 Triggers False Camera Service Alerts",
     "link": "https://www.notateslaapp.com/news/4716/tesla-fsd-v1439-triggers-false-camera-service-alerts",
@@ -1236,51 +1281,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd-v-14-3-9-camera-cleaning-alerts-issue-1-1790022366.webp/507ed513c7c0c35d1a48758838a49d3f/fsd-v-14-3-9-camera-cleaning-alerts-issue-1-1790022366.jpg",
-    "pinned": false
-  },
-  {
-    "id": "35913be31f11d5264caee1c65b479e4150c92ce0",
-    "title": "Skip the upgrade? iPhone 18 Pro aperture about as unrepairable as it gets, iFixit finds",
-    "link": "https://www.theregister.com/personal-tech/2026/09/21/skip-the-upgrade-iphone-18-pro-aperture-about-as-unrepairable-as-it-gets-ifixit-finds/5297970",
-    "summary": "Repairability improvements can't lift last year's score as camera complexity and screen-frame concerns remain",
-    "isoDate": "2026-09-21T20:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297976&width=800",
-    "pinned": false
-  },
-  {
-    "id": "12555d18a30641999d6e97158c59a89acc21f280",
-    "title": "Meta Muse AI app flaw lets local malware redirect dictation traffic",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
-    "summary": "Ad biz promises users control while bug could expose voice prompts",
-    "isoDate": "2026-09-21T19:59:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298012&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3705922b155e26816bd6d9f001a581bc8234d55b",
-    "title": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
-    "link": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
-    "summary": "'Humans are responsible, not the AI,' argues Scott Bessent as he calls out OpenAI agents' hack of Hugging Face",
-    "isoDate": "2026-09-21T19:10:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=226050&width=800",
     "pinned": false
   },
   {
