@@ -1,5 +1,199 @@
 [
   {
+    "id": "f99ffb818c2ddd9fb0d8908189e8433f94bf1e9e",
+    "title": "Talk of AI in KDE sets the community ablaze",
+    "link": "https://www.theregister.com/software/2026/09/24/talk-of-ai-in-kde-sets-the-community-ablaze/5298854",
+    "summary": "A desktop pitch and an attempt to curb LLM slop descended into very human mayhem",
+    "isoDate": "2026-09-24T14:32:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=225978&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3eafea9b7d9fa7ddad451e621a5716ad25e4777b",
+    "title": "Meta puts its AI assistant on a keychain",
+    "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+    "summary": "Meta says the keychain-sized Muse Charm will ship in December.",
+    "isoDate": "2026-09-24T14:03:38Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Hannah Murphy, Financial Times",
+    "tags": [
+      "AI",
+      "Mark Zuckerberg",
+      "meta"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6bcfd4120025e56d59fa2625ac5bdd31fd0794d5",
+    "title": "DoJ: Uncle Sam bought forensics software from same Russian operation supplying FSB",
+    "link": "https://www.theregister.com/software/2026/09/24/doj-uncle-sam-bought-forensics-software-from-same-russian-operation-supplying-fsb/5298774",
+    "summary": "Russian devs alleged to have built tools for US agencies as software from same op was sold to Moscow's security services",
+    "isoDate": "2026-09-24T13:43:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=225422&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d298302749d6e4dee1a4872e808ada74908e6c3a",
+    "title": "Google to critical infra orgs: Our AI scanners won't be evil, promise",
+    "link": "https://www.theregister.com/security/2026/09/24/google-to-critical-infra-orgs-our-ai-scanners-wont-be-evil-promise/5298685",
+    "summary": "Gemini 3.8 Flash Cyber and Wiz's Red Agent team up to protect hospitals, public transit, and tech",
+    "isoDate": "2026-09-24T13:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298699&width=800",
+    "pinned": false
+  },
+  {
+    "id": "585927b04cc5bfe751340fb8f1ed1fe1cdbc2dcc",
+    "title": "City council may be waking from its Oracle nightmare but the accounting hangover continues",
+    "link": "https://www.theregister.com/public-sector/2026/09/24/city-council-may-be-waking-from-its-oracle-nightmare-but-the-accounting-hangover-continues/5298824",
+    "summary": "Europe's largest local authority still cannot get auditors to vouch for its books as historic data problems linger",
+    "isoDate": "2026-09-24T12:43:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=253921&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1eec55de77f8cae845824aae57b4140dea5b5446",
+    "title": "Meta ads steered Polish Android users into a premium-rate billing trap",
+    "link": "https://www.theregister.com/cyber-crime/2026/09/24/meta-ads-steered-polish-android-users-into-a-premium-rate-billing-trap/5298790",
+    "summary": "CERT Polska linked 852 promotions to 17 Google Play apps capable of sending costly texts or starting recurring subscriptions",
+    "isoDate": "2026-09-24T11:26:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=249322&width=800",
+    "pinned": false
+  },
+  {
+    "id": "597e963ae52ec7232b275b9eceab3c4df3206805",
+    "title": "There's a new way to break RSA that's faster than anything we've seen before",
+    "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
+    "isoDate": "2026-09-24T11:15:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "cryptanalysis",
+      "factoring",
+      "key forgery",
+      "RSA"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ebd82bf7183716e6fe7b9a8bfaea6208fa929f80",
+    "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+    "link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+    "summary": "Usable local AI is a lot of fun, but how much would you pay for it?",
+    "isoDate": "2026-09-24T11:00:04Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Features",
+      "Tech",
+      "apple",
+      "apple m3 ultra",
+      "apple m4 max",
+      "Apple M5",
+      "apple m5 max",
+      "apple m5 ultra",
+      "Apple silicon",
+      "Mac mini",
+      "Mac Studio"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3740-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "af959871b8bc004fbdb02888ad5942bd6d4e5dc0",
+    "title": "HSBC decides Samsung Secure Folder and Android's Private Space are no place for a banking app",
+    "link": "https://www.theregister.com/applications/2026/09/24/hsbc-decides-samsung-secure-folder-and-androids-private-space-are-no-place-for-a-banking-app/5298542",
+    "summary": "Customers say the unannounced change also cut off web access that relied on mobile authentication",
+    "isoDate": "2026-09-24T10:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298574&width=800",
+    "pinned": false
+  },
+  {
+    "id": "28f8ccc35aeb942a9d6cf4d8970952d7f98068f8",
+    "title": "Britain’s last great airship",
+    "link": "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
+    "summary": "<p><img alt=\"Photo of an airship labelled R101 flying above a grassy field with cows and a tall structure in the background.\" src=\"https://images.aeonmedia.co/images/f74fe38c-14fa-4732-899f-b4cf68298cdd/britains-last-great-airship-landscape-1-v4.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The remarkable engineering and tragic demise of the vessel that would end Britain’s dream to dominate the skies</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship\">Watch on Aeon</a></p>",
+    "isoDate": "2026-09-24T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "938409f5bf66bc1ce4ed8ebe21edf02a27859a54",
+    "title": "For MariaDB, LLMs are the new search engines to win over",
+    "link": "https://www.theregister.com/databases/2026/09/24/for-mariadb-llms-are-the-new-search-engines-to-win-over/5298104",
+    "summary": "Its vector search is ready, but coding assistants keep pointing developers toward other databases, says the foundation's chairman",
+    "isoDate": "2026-09-24T10:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "databases"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298120&width=800",
+    "pinned": false
+  },
+  {
+    "id": "760134e7e28665d51daaa9a496612c2f39506bc2",
+    "title": "Where a land ethic blooms",
+    "link": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
+    "summary": "<p><img alt=\"A lush green landscape with hills and distant cattle under a cloudy sky, suggesting a tranquil rural setting.\" src=\"https://images.aeonmedia.co/images/1cd4dc38-6c0f-44aa-85b0-49959f51226b/essay-grassland-ag-2.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Caring for this planet entails decisions that are intimate, about our farms, our homes, our human and our wild neighbours</p><p><em>- by Craig Maier</em></p><p><a href=\"https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic\">Read on Aeon</a></p>",
+    "isoDate": "2026-09-24T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Craig Maier",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "add77eb6b13b5ddd73a4b918a3c9f85f818fdde9",
     "title": "Experts question whether Salesforce demo breaches SAP API policy",
     "link": "https://www.theregister.com/saas/2026/09/24/experts-question-whether-salesforce-demo-breaches-sap-api-policy/5298606",
@@ -817,30 +1011,6 @@
     "pinned": false
   },
   {
-    "id": "5618ffbe19d5709c91eda9d0e6e11b693b7cff3b",
-    "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-    "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-    "summary": "The frontier AI model race has entered its comparison shopping phase.",
-    "isoDate": "2026-09-22T21:25:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "AI",
-      "Agentic workflows",
-      "Anthropic",
-      "frontier models",
-      "GPT-6",
-      "large language models",
-      "Luna",
-      "openai",
-      "Opus 5.5",
-      "Sol"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Claude-ChatGPT-500x500-1790110453.jpg",
-    "pinned": false
-  },
-  {
     "id": "e0ffb209158958cb11e501c61944e6795ea54d03",
     "title": "Security firm finds naming AI agents after Seinfeld characters helps bots join the team",
     "link": "https://www.theregister.com/ai-and-ml/2026/09/22/security-firm-finds-naming-ai-agents-after-seinfeld-characters-helps-bots-join-the-team/5298424",
@@ -853,43 +1023,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=5298428&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ac5d72a77c3d02a2976c2a8836ac302a65faf60b",
-    "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
-    "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
-    "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
-    "isoDate": "2026-09-22T20:38:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "broadband",
-      "FCC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-500x500-1746811509.jpg",
-    "pinned": false
-  },
-  {
-    "id": "69bd5b227657faccb6a82f66dc0185deb6acadc0",
-    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-    "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-    "isoDate": "2026-09-22T19:45:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "AI ATTACK",
-      "chatbots",
-      "spam"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-500x500.jpg",
     "pinned": false
   },
   {
@@ -1138,21 +1271,6 @@
     "pinned": false
   },
   {
-    "id": "87c857074ac7ce52fc82e04e3d6bd07d40800624",
-    "title": "Longtime SUSE staff asked if they'd opt for 'voluntary separation'",
-    "link": "https://www.theregister.com/software/2026/09/22/longtime-suse-staff-asked-if-theyd-opt-for-voluntary-separation/5297457",
-    "summary": "Other changes also afoot as employees unionize and the distro itself sees modifications",
-    "isoDate": "2026-09-22T10:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=256309&width=800",
-    "pinned": false
-  },
-  {
     "id": "1d787579a935fe83cfea71c031c6a9caf190b170",
     "title": "Toadstools and toxins",
     "link": "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
@@ -1163,21 +1281,6 @@
     "author": "Eric Leas",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c3fc5e428b8a88443220b842e6f6495aeb615562",
-    "title": "Commodore's forgotten Amiga Unix gets a modern revival",
-    "link": "https://www.theregister.com/software/2026/09/22/commodores-forgotten-amiga-unix-gets-a-modern-revival/5297805",
-    "summary": "Amix gains newer CPU support and a package manager as Open Look joins the retro comeback",
-    "isoDate": "2026-09-22T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=234956&width=800",
     "pinned": false
   },
   {
@@ -1193,81 +1296,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "244a61bc8cbb5919ef40b048912356f83a85256b",
-    "title": "GOV.UK founder warns AI gold rush could leave Britain locked in",
-    "link": "https://www.theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828",
-    "summary": "Mike Bracken says the dash to adopt sovereign AI risks giving more control to a handful of tech suppliers",
-    "isoDate": "2026-09-22T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297885&width=800",
-    "pinned": false
-  },
-  {
-    "id": "27320614e50343470a3484d162f8aed28c7a3107",
-    "title": "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
-    "link": "https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062",
-    "summary": "USA alone has 37GW under construction, but Alibaba doesn't think the AI boom will run out of steam",
-    "isoDate": "2026-09-22T05:42:32Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298067&width=800",
-    "pinned": false
-  },
-  {
-    "id": "648715097d0d306fc62c830227940340d0341d9b",
-    "title": "Gartner predicts 55% of enterprise VMware users will be investigating an exit by 2029",
-    "link": "https://www.theregister.com/virtualization/2026/09/22/gartner-predicts-55-of-enterprise-vmware-users-will-be-investigating-an-exit-by-2029/5298043",
-    "summary": "Chasing pack has its problems too, with maturity, cost, and complex licenses",
-    "isoDate": "2026-09-22T02:39:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "virtualization"
-    ],
-    "image": "https://image.theregister.com/?imageId=239298&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5ab05d424cb0742a8d99e14ed5cc93578b1204ed",
-    "title": "California tightens datacenter rules on water and power",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/22/california-tightens-datacenter-rules-on-water-and-power/5298028",
-    "summary": "Public pushback puts bit barn resource use under the microscope",
-    "isoDate": "2026-09-21T23:33:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298032&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4c094eabbf43bbae9533017c7cf3ecdc6abaaf06",
-    "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
-    "link": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
-    "summary": "Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild",
-    "isoDate": "2026-09-21T22:32:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298025&width=800",
     "pinned": false
   },
   {
@@ -1587,19 +1615,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.16/fsd-supervised-v1433-down-under.png/3acac15b46a0fd355bd05d294197f488/fsd-supervised-v1433-down-under.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7e11f4b418fe4b5a32d96d005f6eb180d02191dc",
-    "title": "Who will taste the cherries?",
-    "link": "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
-    "summary": "<p><img alt=\"Vintage photo showing a woman in a retro futuristic kitchen operating a round appliance with a clear dome lid.\" src=\"https://images.aeonmedia.co/images/df3de1b9-0cd3-48a0-a054-36d0baf17bbe/essay-v1-.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The computist has one dream: to debug the subjectivity out of all of human knowledge, creating a pure, frictionless world</p><p><em>- by Liam Spradlin</em></p><p><a href=\"https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries\">Read on Aeon</a></p>",
-    "isoDate": "2026-09-17T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Liam Spradlin",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
