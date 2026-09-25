@@ -1,5 +1,50 @@
 [
   {
+    "id": "d3fb8d1d5689fdf13a120a958cb1f3b354caffeb",
+    "title": "Project leader thought his team understood the plan, ended up fixing their 'interpretation' of it",
+    "link": "https://www.theregister.com/networks/2026/09/25/project-leader-thought-his-team-understood-the-plan-ended-up-fixing-their-interpretation-of-it/5298754",
+    "summary": "Malicious compliance crosses cultural barriers",
+    "isoDate": "2026-09-25T06:37:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5298759&width=800",
+    "pinned": false
+  },
+  {
+    "id": "712951dbae600961335a3644a755461c543f2da0",
+    "title": "Astronomer watches Starlink satellites sinking to build a ‘planetary barometer’",
+    "link": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
+    "summary": "The atmosphere expands and contracts; watching objects in orbit reveals the extent",
+    "isoDate": "2026-09-25T04:46:50Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=229400&width=800",
+    "pinned": false
+  },
+  {
+    "id": "516e2ab719904cb81ff23eaf0da913e9f01d9eab",
+    "title": "2026 just became the year of FreeBSD on the (Amazonian cloud) desktop",
+    "link": "https://www.theregister.com/os-platforms/2026/09/25/2026-just-became-the-year-of-freebsd-on-the-amazonian-cloud-desktop/5299025",
+    "summary": "Desktop AMIs ‘designed to behave as much like Windows as possible’ now available as an on ramp for new users",
+    "isoDate": "2026-09-25T03:04:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299030&width=800",
+    "pinned": false
+  },
+  {
     "id": "4ee5eb3c9eba1ef0f154c5f8d5614c26374ae46b",
     "title": "Tesla's Semi Event Tonight: How to Watch",
     "link": "https://www.notateslaapp.com/news/4732/teslas-semi-event-how-to-watch-what-to-expect",
@@ -10,6 +55,36 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/semi/semi-factory.webp/ae7849eb3745d9b4a73fefd21c302436/semi-factory.jpg",
+    "pinned": false
+  },
+  {
+    "id": "aa209b9a4a81e649fbd78c4237dc1ee21b43ec91",
+    "title": "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/25/google-gemini-can-present-cartoon-or-lifelike-avatars-to-lip-sync-generative-chatter/5299016",
+    "summary": "Despite uncertainty about how human mimicry affects people, DeepMind fakes are here",
+    "isoDate": "2026-09-24T23:57:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299022&width=800",
+    "pinned": false
+  },
+  {
+    "id": "28c4ceb99ab9a280f6fa33304e137086ef5723a7",
+    "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
+    "link": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
+    "summary": "Operator’s AI bill averaged just $25 per completed scan",
+    "isoDate": "2026-09-24T23:32:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299019&width=800",
     "pinned": false
   },
   {
@@ -1245,51 +1320,6 @@
     "pinned": false
   },
   {
-    "id": "6a58123f6078733841520cc9725c02dc957b4a6c",
-    "title": "Frontier AI keeps racing despite calls to slow down",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
-    "summary": "Anthropic and OpenAI debut Opus 5.5 and GPT-6 Sol and Luna",
-    "isoDate": "2026-09-23T00:02:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298454&width=800",
-    "pinned": false
-  },
-  {
-    "id": "bdc6b949fce849805502a45c0273d14ffad3f5f3",
-    "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
-    "link": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
-    "summary": "'first' publicly documented Windows implant to use LLMs for C2",
-    "isoDate": "2026-09-22T21:33:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298442&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e0ffb209158958cb11e501c61944e6795ea54d03",
-    "title": "Security firm finds naming AI agents after Seinfeld characters helps bots join the team",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/22/security-firm-finds-naming-ai-agents-after-seinfeld-characters-helps-bots-join-the-team/5298424",
-    "summary": "Not that there's anything wrong with it",
-    "isoDate": "2026-09-22T20:43:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298428&width=800",
-    "pinned": false
-  },
-  {
     "id": "9d329cabcc2bf5970180852dbbd1bd325bd0b22c",
     "title": "Tesla Adds Grok Bot to Vehicles for Hands-Free Errands and Tasks",
     "link": "https://www.notateslaapp.com/news/4724/tesla-adds-grok-bot-to-vehicles-for-hands-free-errands-and-tasks",
@@ -1326,36 +1356,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-passkey.webp/f65f8c6ed34df66c3b24352e5e5fa715/tesla-passkey.jpg",
-    "pinned": false
-  },
-  {
-    "id": "86731cd95e8f895bf33d229ebda3a34b7316c359",
-    "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
-    "link": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
-    "summary": "This time it's personal",
-    "isoDate": "2026-09-22T17:24:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298402&width=800",
-    "pinned": false
-  },
-  {
-    "id": "60c7dc2a877ef107499eac5745f165937bd40f93",
-    "title": "ABBYY gives old-school OCR a job in the AI pipeline",
-    "link": "https://www.theregister.com/applications/2026/09/22/abbyy-gives-old-school-ocr-a-job-in-the-ai-pipeline/5298361",
-    "summary": "FineParser runs in a CPU-powered container, preserving tables and layout before handing documents to an LLM",
-    "isoDate": "2026-09-22T17:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "applications"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682043&width=800",
     "pinned": false
   },
   {
