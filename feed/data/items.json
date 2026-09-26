@@ -1,5 +1,25 @@
 [
   {
+    "id": "13df8a7ee8b3c2420889fc13e6b4862e7251a2a4",
+    "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+    "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+    "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+    "isoDate": "2026-09-25T23:00:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "fda",
+      "hearing",
+      "Heidi Overton",
+      "Senate",
+      "Trump"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "4a19c9abdcc198ed4481db0355c1b17b3568b1fd",
     "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
     "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
@@ -40,6 +60,21 @@
     "pinned": false
   },
   {
+    "id": "6dc8c1420072c483b84aebddf3ad6b3a98a9a3ea",
+    "title": "Valen creator drives 'Golden Spike' to connect new languages with Rust",
+    "link": "https://www.theregister.com/devops/2026/09/25/valen-creator-drives-golden-spike-to-connect-new-languages-with-rust/5299273",
+    "summary": "An experiment is afoot to sidestep C as the language of interoperability with Rust",
+    "isoDate": "2026-09-25T20:15:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299302&width=800",
+    "pinned": false
+  },
+  {
     "id": "5775266bbdf28353979b6c7394b495c175dc6172",
     "title": "Tesla Semi Event Recap: Everything That Was Announced",
     "link": "https://www.notateslaapp.com/news/4738/tesla-semi-event-recap-everything-that-was-announced",
@@ -50,6 +85,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-rollout-event-musk-hero.png/12b9a7663deea135733e23b5aba2b114/tesla-semi-rollout-event-musk-hero.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3323e833934fd8ebfa3f0f4f379ee78fe52c3b4b",
+    "title": "Microsoft cells out, crams multiple values into Excel boxes",
+    "link": "https://www.theregister.com/applications/2026/09/25/microsoft-cells-out-crams-multiple-values-into-excel-boxes/5299294",
+    "summary": "Once a single-scalar home, spreadsheet cells are being redeveloped to handle many tenants",
+    "isoDate": "2026-09-25T19:58:36Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299298&width=800",
     "pinned": false
   },
   {
@@ -970,29 +1020,6 @@
     "pinned": false
   },
   {
-    "id": "f864c96bc66d410b5a9e1a56e6a99e9de5cfa432",
-    "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-    "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-    "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
-    "isoDate": "2026-09-24T18:39:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "military robots",
-      "robots",
-      "Russia invasion of Ukraine",
-      "Russia war on Ukraine",
-      "Russian invasion of Ukraine",
-      "Russian war on Ukraine",
-      "Ukraine",
-      "Ukraine war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-ground-robot-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "5f9986f8b84d344e560849184fdde8df39b8c163",
     "title": "Meta's new AI fidget is a ... Tamagotchi?",
     "link": "https://www.theregister.com/personal-tech/2026/09/24/metas-new-ai-fidget-is-a-tamagotchi/5298936",
@@ -1299,36 +1326,6 @@
       "channel"
     ],
     "image": "https://image.theregister.com/?imageId=4094241&width=800",
-    "pinned": false
-  },
-  {
-    "id": "58fc1c24f962fb99ed1c391a9c4d794e394bf435",
-    "title": "OpenAI's Astra model went for a drive and no one died",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/24/openais-astra-model-went-for-a-drive-and-no-one-died/5298715",
-    "summary": "First LLM to pass test did it in a parking lot at snail's pace, at considerable expense, but it still counts for something",
-    "isoDate": "2026-09-24T00:54:18Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=262625&width=800",
-    "pinned": false
-  },
-  {
-    "id": "331ed22c36d6da8c7a76cbb2e97779ddf2aff5e1",
-    "title": "OpenAI agents ‘infiltrated Australian government website’",
-    "link": "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
-    "summary": "Canberra is fuming after AI lab sent the news to a generic unattended email address",
-    "isoDate": "2026-09-24T00:03:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298708&width=800",
     "pinned": false
   },
   {
