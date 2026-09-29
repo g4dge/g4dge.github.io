@@ -1,7 +1,43 @@
 [
   {
+    "id": "be8dc0eb7d5e49ef2f5d24c2e5db3a16688f6831",
+    "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+    "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+    "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+    "isoDate": "2026-09-28T22:24:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "Boeing",
+      "dragon",
+      "NASA",
+      "space",
+      "spacex",
+      "starliner"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d50aee851fe905ff6fb56786d027483d6cf4de13",
+    "title": "AMD bets $8.2B that worlds matter more than words in AI",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/28/amd-bets-82b-that-worlds-matter-more-than-words-in-ai/5299609",
+    "summary": "AI pioneer Fei-Fei Li just co-founded spatial AI research company World Labs in 2024. Now it's joining AMD",
+    "isoDate": "2026-09-28T22:01:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299618&width=800",
+    "pinned": false
+  },
+  {
     "id": "ce7b13e0f7aa9e81ed021a64d5dc628b5f873708",
-    "title": "Nvidia may sell more chips in China as Jensen Huang’s influence over Trump grows",
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
     "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
     "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
     "isoDate": "2026-09-28T21:49:10Z",
@@ -45,6 +81,21 @@
     "pinned": false
   },
   {
+    "id": "bf918244edec4ae1250f070feb883495a58dff3f",
+    "title": "AWS needs to embrace its place as the Home Depot of AI infrastructure",
+    "link": "https://www.theregister.com/paas-and-iaas/2026/09/28/aws-needs-to-embrace-its-place-as-the-home-depot-of-ai-infrastructure/5299602",
+    "summary": "What's wrong with being a great wholesaler?",
+    "isoDate": "2026-09-28T21:05:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "paas and iaas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299606&width=800",
+    "pinned": false
+  },
+  {
     "id": "35cd9b23afc7edda297504e97f20e6763ef962d9",
     "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
     "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
@@ -84,6 +135,21 @@
     "pinned": false
   },
   {
+    "id": "97d48c50ae789aeaffb074249418fcdafd73ab90",
+    "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+    "link": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+    "summary": "Smells like more agentic ransomware, Redmond warns",
+    "isoDate": "2026-09-28T20:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299599&width=800",
+    "pinned": false
+  },
+  {
     "id": "c12e5c711d4ade1afb9c571c5b2df0aa6bb7e6f5",
     "title": "How to Use Grok to Load a Website and Read Articles in Your Tesla",
     "link": "https://www.notateslaapp.com/news/4745/how-to-use-grok-to-load-a-website-and-read-an-article-to-you",
@@ -113,6 +179,21 @@
       "Pharmaceutical industry"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prescription-thicket-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f3f7a5546da6041435be8613f094900b5cd67aef",
+    "title": "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-gpt-6-astra-really-good-at-supply-chain-attacks-uk-gov-warns/5299588",
+    "summary": "During testing, the model showed it can violate security rules more often than its predecessors",
+    "isoDate": "2026-09-28T19:44:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299596&width=800",
     "pinned": false
   },
   {
@@ -859,29 +940,6 @@
     "pinned": false
   },
   {
-    "id": "1d7ffbbb06c8df77d30288362505fb7f060b7802",
-    "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-    "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
-    "summary": "Better thermals and battery life make this iterative update nicer to use.",
-    "isoDate": "2026-09-25T19:34:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Apple",
-      "Reviews",
-      "A20 Pro",
-      "apple",
-      "iphone",
-      "iPhone 18 Pro",
-      "iphone duo",
-      "reviews",
-      "smartphone"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "ea1636a8ab6d868e45bfa6d45a5f9723b3efc332",
     "title": "Uncle Sam coughs up $1.9B for grid upgrades as datacenters hit a power wall",
     "link": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
@@ -1296,21 +1354,6 @@
     "pinned": false
   },
   {
-    "id": "516e2ab719904cb81ff23eaf0da913e9f01d9eab",
-    "title": "2026 just became the year of FreeBSD on the (Amazonian cloud) desktop",
-    "link": "https://www.theregister.com/os-platforms/2026/09/25/2026-just-became-the-year-of-freebsd-on-the-amazonian-cloud-desktop/5299025",
-    "summary": "Desktop AMIs ‘designed to behave as much like Windows as possible’ now available as an on ramp for new users",
-    "isoDate": "2026-09-25T03:04:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5299030&width=800",
-    "pinned": false
-  },
-  {
     "id": "4ee5eb3c9eba1ef0f154c5f8d5614c26374ae46b",
     "title": "Tesla's Semi Event: Watch Replay",
     "link": "https://www.notateslaapp.com/news/4732/teslas-semi-event-how-to-watch-what-to-expect",
@@ -1321,51 +1364,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/semi/semi-factory.webp/ae7849eb3745d9b4a73fefd21c302436/semi-factory.jpg",
-    "pinned": false
-  },
-  {
-    "id": "aa209b9a4a81e649fbd78c4237dc1ee21b43ec91",
-    "title": "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/25/google-gemini-can-present-cartoon-or-lifelike-avatars-to-lip-sync-generative-chatter/5299016",
-    "summary": "Despite uncertainty about how human mimicry affects people, DeepMind fakes are here",
-    "isoDate": "2026-09-24T23:57:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5299022&width=800",
-    "pinned": false
-  },
-  {
-    "id": "28c4ceb99ab9a280f6fa33304e137086ef5723a7",
-    "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
-    "link": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
-    "summary": "Operator’s AI bill averaged just $25 per completed scan",
-    "isoDate": "2026-09-24T23:32:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5299019&width=800",
-    "pinned": false
-  },
-  {
-    "id": "138b439314f7e92ef0ceeee61fbcb171cae5ebd8",
-    "title": "Google's TPUs to catch some rays in orbit next week",
-    "link": "https://www.theregister.com/systems/2026/09/24/googles-tpus-to-catch-some-rays-in-orbit-next-week/5298990",
-    "summary": "Part of Project Suncatcher, the proof of concept aims to see how well lightly modified compute fares in orbit",
-    "isoDate": "2026-09-24T22:12:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242044&width=800",
     "pinned": false
   },
   {
