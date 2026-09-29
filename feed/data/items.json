@@ -1,5 +1,65 @@
 [
   {
+    "id": "948e5adf0e555d224156f5dabf152ad14f65bc82",
+    "title": "Which copy of the file is the real one?",
+    "link": "https://www.theregister.com/storage/2026/09/29/sponsored-which-copy-of-the-file-is-the-real-one/5299556",
+    "summary": "A Register dinner in Soho on 20 October takes on the file infrastructure everyone still runs and nobody chose, off the record.",
+    "isoDate": "2026-09-29T08:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299559&width=800",
+    "pinned": false
+  },
+  {
+    "id": "39084d5b2907d729776fcf4b8abf051e937126bc",
+    "title": "Fresh CSS constructs move web design beyond ticky-tacky little boxes",
+    "link": "https://www.theregister.com/devops/2026/09/29/fresh-css-constructs-move-web-design-beyond-ticky-tacky-little-boxes/5299614",
+    "summary": "Let us bury the web's 30-year layout reliance on rectangles",
+    "isoDate": "2026-09-29T06:32:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299652&width=800",
+    "pinned": false
+  },
+  {
+    "id": "87be46c6f9247b1d2b53162af94c6f983ca7d224",
+    "title": "Google ending ChromeOS support two years early",
+    "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+    "summary": "Rise of the Googlebook means ChromeOS users get eight years' support, not a decade",
+    "isoDate": "2026-09-29T04:55:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=226413&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9781d3f6a1487e869f7febe027bc480d9ae70ff6",
+    "title": "OpenAI’s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
+    "summary": "Admits its agents side-swiped four Australian government sites",
+    "isoDate": "2026-09-29T02:13:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299671&width=800",
+    "pinned": false
+  },
+  {
     "id": "be8dc0eb7d5e49ef2f5d24c2e5db3a16688f6831",
     "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
     "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
@@ -1291,66 +1351,6 @@
       "storage"
     ],
     "image": "https://image.theregister.com/?imageId=5298985&width=800",
-    "pinned": false
-  },
-  {
-    "id": "47de913c7951d69b500c2c327790415c6d3e074a",
-    "title": "UK wants more homes heated by waste heat from datacenters",
-    "link": "https://www.theregister.com/on-prem/2026/09/25/uk-wants-more-homes-heated-by-waste-heat-from-datacenters/5298827",
-    "summary": "Millions for building and improving bitbarn driven heat networks - including hot water pushed through tunnel under the Thames",
-    "isoDate": "2026-09-25T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=197624&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9881ab9fedb0c009b756a70b3facf4b8def9116d",
-    "title": "Huawei Cloud Rolls Out Enterprise AI Products Across the Board, Building an Open Agentic Cloud",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/25/partner-content-huawei-cloud-rolls-out-enterprise-ai-products-across-the-board-building-an-open-agentic-cloud/5298765",
-    "summary": "PARTNER CONTENT: Huawei Cloud strengthens the silicon bedrock on the cloud",
-    "isoDate": "2026-09-25T08:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298769&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d3fb8d1d5689fdf13a120a958cb1f3b354caffeb",
-    "title": "Project leader thought his team understood the plan, ended up fixing their 'interpretation' of it",
-    "link": "https://www.theregister.com/networks/2026/09/25/project-leader-thought-his-team-understood-the-plan-ended-up-fixing-their-interpretation-of-it/5298754",
-    "summary": "Malicious compliance crosses cultural barriers",
-    "isoDate": "2026-09-25T06:37:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298759&width=800",
-    "pinned": false
-  },
-  {
-    "id": "712951dbae600961335a3644a755461c543f2da0",
-    "title": "Astronomer watches Starlink satellites sinking to build a ‘planetary barometer’",
-    "link": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
-    "summary": "The atmosphere expands and contracts; watching objects in orbit reveals the extent",
-    "isoDate": "2026-09-25T04:46:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=229400&width=800",
     "pinned": false
   },
   {
