@@ -1,5 +1,74 @@
 [
   {
+    "id": "0205a3f4941d64d9845ead74e0f36e9748d642e6",
+    "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+    "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+    "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+    "isoDate": "2026-09-29T22:30:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "clinical trial",
+      "eli lilly",
+      "GIP",
+      "GLP-1",
+      "glucagon",
+      "obesity",
+      "retatrutide"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f8e7c3348cfce7844f3b824ed3eeac0aa26dd0b8",
+    "title": "Protests against OpenAI get increasingly creative",
+    "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+    "isoDate": "2026-09-29T21:52:58Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cyrus Farivar",
+    "tags": [
+      "AI",
+      "art",
+      "openai"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2e214347ffb20564cb344c5ad9d8d09112158396",
+    "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
+    "link": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
+    "summary": "It's a worm attack, AI-style",
+    "isoDate": "2026-09-29T21:34:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299934&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ad13c79b8a8a3b10115994ee7316575353dfcbb0",
+    "title": "OpenAI tries disarming AI angst with cute graphics and always-on agents",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-tries-disarming-ai-angst-with-cute-graphics-and-always-on-agents/5299915",
+    "summary": "It's not OpenClaw. It's dots",
+    "isoDate": "2026-09-29T21:12:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299919&width=800",
+    "pinned": false
+  },
+  {
     "id": "16ec48cdc174952b27e9643df675ec37a5b235d4",
     "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
     "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
@@ -17,6 +86,21 @@
     "pinned": false
   },
   {
+    "id": "a416f5c8b5231e54d1de9280cdaf7b825119711a",
+    "title": "Trump launches America.gov with AI chatbots at its core",
+    "link": "https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907",
+    "summary": "Gemini, Grok now serving as front door to federal resources on unfinished, poorly designed website",
+    "isoDate": "2026-09-29T20:14:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5276597&width=800",
+    "pinned": false
+  },
+  {
     "id": "7a77c0d6352aba75203526440b2f95d542ad78e4",
     "title": "Germany Confirms December EU Vote on Tesla FSD Approval",
     "link": "https://www.notateslaapp.com/news/4749/germany-says-it-is-open-to-tesla-fsd-approval-confirms-eu-wide-vote-in-december",
@@ -27,6 +111,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b513f59d09898c70f0767f250be22b1c0e62715f",
+    "title": "FBI to ShinyHunters: 'We know how to find you'",
+    "link": "https://www.theregister.com/security/2026/09/29/fbi-to-shinyhunters-we-know-how-to-find-you/5299901",
+    "summary": "Federal cops have 'a very particular set of skills'",
+    "isoDate": "2026-09-29T19:38:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=256583&width=800",
     "pinned": false
   },
   {
@@ -81,7 +180,7 @@
   },
   {
     "id": "d934a8cf5ec83aacc2befdaf0214ebd89fd8f584",
-    "title": "Tesla's Active Robotaxi Markets and Their Actual Sizes",
+    "title": "All of Tesla's Robotaxi Markets and Their Actual Sizes",
     "link": "https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes",
     "summary": "Tesla’s Robotaxi service has steadily grown from an experimental pilot in Austin into a commercial footprint spanning seven major regions across the U.S. <a href=\"https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes\">Read More</a>",
     "isoDate": "2026-09-29T18:31:00Z",
@@ -835,62 +934,6 @@
     "pinned": false
   },
   {
-    "id": "70e2a9fc6d33026409d45876ac223e668e5d2806",
-    "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-    "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
-    "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
-    "isoDate": "2026-09-28T18:04:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "chromebooks",
-      "ChromeOS",
-      "google",
-      "googlebooks",
-      "laptops"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/list-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4bc875ebcfd3251d62dad10ceb5cc74766ac2b4e",
-    "title": "Scientists solve 1840s space weather mystery",
-    "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-    "summary": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo.",
-    "isoDate": "2026-09-28T17:56:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "geophysics",
-      "solar flares",
-      "space weather"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/spaceweather-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0d89405e4b6bc1fc46e5389e803b563ce396c7b6",
-    "title": "F1 in Azerbaijan: That was almost a close-run thing",
-    "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
-    "summary": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
-    "isoDate": "2026-09-28T17:41:35Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "F1",
-      "Formula 1"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297234571-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4ef53b8d234a800ff823fea82cddb7f8c633ef0a",
     "title": "How many times are you paying for the same file?",
     "link": "https://www.theregister.com/storage/2026/09/28/sponsored-how-many-times-are-you-paying-for-the-same-file/5299562",
@@ -1200,21 +1243,6 @@
     "pinned": false
   },
   {
-    "id": "f65cefb68b50e639636a0b9a4cbb118c3959e18b",
-    "title": "Big AI's content problem: Take the work, keep the money",
-    "link": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
-    "summary": "The more we learn about how AI does business, the more unfair it looks",
-    "isoDate": "2026-09-27T09:35:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=5299100&width=800",
-    "pinned": false
-  },
-  {
     "id": "d2c102ec35417d33a05e39fe2b02a1886dbfca5c",
     "title": "Tesla in Talks for FSD Approval in Ireland as EU Delays Vote",
     "link": "https://www.notateslaapp.com/news/4742/tesla-in-talks-for-fsd-approval-in-ireland-as-eu-delays-vote",
@@ -1264,51 +1292,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/automatic-collision-avoidance.webp/8013c2da185d86def59682bdf1c7cddf/automatic-collision-avoidance.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6b90d9294832e118856f0defb8eb57ae156582be",
-    "title": "How Samsung turned months of inactivity into a very attention-seeking smartphone",
-    "link": "https://www.theregister.com/personal-tech/2026/09/26/how-samsung-turned-months-of-inactivity-into-a-very-attention-seeking-smartphone/5298736",
-    "summary": "Your spare Android won’t come back to life in a hurry but – like neglected PCs – it really should",
-    "isoDate": "2026-09-26T10:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298741&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7d93e8920620777dc9e790bf767123d39f806463",
-    "title": "Space Jam: UK debuts space squadron to protect satellites",
-    "link": "https://www.theregister.com/offbeat/2026/09/26/space-jam-uk-debuts-space-squadron-to-protect-satellites/5299119",
-    "summary": "Number III Space Effects Squadron likely to use electronic warfare rather than lobbing missiles at hostile orbiting threats",
-    "isoDate": "2026-09-26T08:08:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=253982&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6dc8c1420072c483b84aebddf3ad6b3a98a9a3ea",
-    "title": "Valen creator drives 'Golden Spike' to connect new languages with Rust",
-    "link": "https://www.theregister.com/devops/2026/09/25/valen-creator-drives-golden-spike-to-connect-new-languages-with-rust/5299273",
-    "summary": "An experiment is afoot to sidestep C as the language of interoperability with Rust",
-    "isoDate": "2026-09-25T20:15:44Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5299302&width=800",
     "pinned": false
   },
   {
