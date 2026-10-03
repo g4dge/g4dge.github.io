@@ -1,5 +1,33 @@
 [
   {
+    "id": "42f62f130fdf8c5032ffd475f9dc221e4ae27ec0",
+    "title": "Tesla Cuts RAM on AI5 and AI6 Chips to Boost Production",
+    "link": "https://www.notateslaapp.com/news/4763/tesla-cuts-ram-on-ai5-and-ai6-chips-to-boost-production",
+    "summary": "Tesla is trimming the memory on its next-generation AI5 and AI6 chips, and Elon Musk says it comes down to getting enough of them built for Optimus production <a href=\"https://www.notateslaapp.com/news/4763/tesla-cuts-ram-on-ai5-and-ai6-chips-to-boost-production\">Read More</a>",
+    "isoDate": "2026-10-03T16:32:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/ai5-chip.webp/dd09ee32c5d7e1e20367170173c2e60b/ai5-chip.jpg",
+    "pinned": false
+  },
+  {
+    "id": "176337226fdb1c104dece9b3945f0adf181c1eab",
+    "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+    "link": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+    "summary": "Exploitation attempts came from China-hosted IP, VulnCheck researcher says",
+    "isoDate": "2026-10-03T15:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=1684441&width=800",
+    "pinned": false
+  },
+  {
     "id": "39fb02b4f6419466d217bd8f19fd0a893bbd48c6",
     "title": "Clever database, but can it run Doom?",
     "link": "https://www.theregister.com/databases/2026/10/03/clever-database-but-can-it-run-doom/5300506",
@@ -160,7 +188,7 @@
   },
   {
     "id": "8b5fc497a8220b90a94cf5ec0b5cf8eb149be154",
-    "title": "Shut up and take our money: Amazon plows $1B into quashing datacenter dissent",
+    "title": "Shut up and take our money: Amazon plows $1B+ into quashing datacenter dissent",
     "link": "https://www.theregister.com/systems/2026/10/02/shut-up-and-take-our-money-amazon-plows-1b-into-quashing-datacenter-dissent/5300914",
     "summary": "Thou shalt love the datacenter! Verily, thou shalt rejoice in the house of the datacenter!",
     "isoDate": "2026-10-02T19:30:56Z",
@@ -1307,21 +1335,6 @@
     "pinned": false
   },
   {
-    "id": "9d76017ebf6da31beb15aa93c667b9104b6e4d5a",
-    "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China",
-    "link": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266",
-    "summary": "The chips may not be as advanced, but they won't get banned at a moment's notice, Eric Xu says",
-    "isoDate": "2026-09-30T20:16:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=261217&width=800",
-    "pinned": false
-  },
-  {
     "id": "c0daa4d42e9316edce5e0b15f4388ff2b711d7b8",
     "title": "Did We Just Figure Out Tesla’s 'Unforgettable' Roadster Surprise?",
     "link": "https://www.notateslaapp.com/news/4753/did-we-just-figure-out-teslas-unforgettable-roadster-surprise",
@@ -1598,32 +1611,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/roadster-concept-wing.webp/387a473b7a360e2ce3770ea249f14dce/roadster-concept-wing.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f5326fdf6d9b745fd707d26f3268711d5a15987c",
-    "title": "Tesla Unveils Next-Gen Heat Pump and Drivetrain for Semi",
-    "link": "https://www.notateslaapp.com/news/4740/tesla-unveils-next-gen-heat-pump-and-drivetrain-for-semi",
-    "summary": "When Tesla launched mass production of its refreshed Semi in Nevada this week, the exterior changes and high-volume assembly lines were only part of the story <a href=\"https://www.notateslaapp.com/news/4740/tesla-unveils-next-gen-heat-pump-and-drivetrain-for-semi\">Read More</a>",
-    "isoDate": "2026-09-26T17:05:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-megamanifold-design.png/79187348278bc0c004a3eeec25ecc6d1/tesla-semi-megamanifold-design.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1cd980c8afcbaeee67bfcb75c1b96b731212b243",
-    "title": "Watch Tesla FSD's New Automatic Collision Evasion Feature in Action [VIDEO]",
-    "link": "https://www.notateslaapp.com/news/4739/watch-tesla-fsds-new-automatic-collision-evasion-feature-in-action-video",
-    "summary": "The latest FSD builds can actually take over from the driver to steer out of harm’s way, and we now have our first real look at this new safety feature <a href=\"https://www.notateslaapp.com/news/4739/watch-tesla-fsds-new-automatic-collision-evasion-feature-in-action-video\">Read More</a>",
-    "isoDate": "2026-09-26T15:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/automatic-collision-avoidance.webp/8013c2da185d86def59682bdf1c7cddf/automatic-collision-avoidance.jpg",
     "pinned": false
   }
 ]
