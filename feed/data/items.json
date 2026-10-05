@@ -1,5 +1,275 @@
 [
   {
+    "id": "aaf1cc502a6b16035865b4bfd3cadc864213852e",
+    "title": "Vulnerability in agents from Google and others exposes structural flaw in MCP",
+    "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+    "isoDate": "2026-10-05T22:26:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "AI",
+      "Biz & IT",
+      "Security",
+      "agentic AI",
+      "MCP",
+      "Model Context Protocol",
+      "prompt injection"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9f8c948f698c5de3b42af1d7c8d6179053a16b0f",
+    "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+    "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+    "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
+    "isoDate": "2026-10-05T20:47:48Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "cable lobby",
+      "national television ownership rule"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-500x500-1771622581.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e2ed63c890b1d74d28b645cdccec1e6e9220959e",
+    "title": "Texas city demands $2M for public records on Flock usage",
+    "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+    "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
+    "isoDate": "2026-10-05T20:31:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "Policy",
+      "alprs",
+      "automated license plate readers",
+      "flock safety",
+      "Flock!",
+      "Fourth Amendment",
+      "mass surveillance",
+      "unconstitutional search"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288945998-500x500-1791229677.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1298848c1b1d9d663095faabb74a02aa5c6f4a74",
+    "title": "Tesla Hits 85,000 Superchargers at 9,000 Locations Worldwide",
+    "link": "https://www.notateslaapp.com/news/4771/tesla-hits-85000-superchargers-at-9000-locations-worldwide",
+    "summary": "Tesla's Supercharger network added about 5,000 stalls across the globe since April, including 2,700 in Q3, as new pre-assembled designs speed up deployment <a href=\"https://www.notateslaapp.com/news/4771/tesla-hits-85000-superchargers-at-9000-locations-worldwide\">Read More</a>",
+    "isoDate": "2026-10-05T20:13:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/0x0-supercharger_04.jpg/21a9314dc87a8a0501a555a884598eb9/0x0-supercharger_04.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fcc69224a887c21397053906f3c1bec7e5fc1732",
+    "title": "Cohere offers to put agents in lockdown mode with strict ACLs",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/05/cohere-offers-to-put-agents-in-lockdown-mode-with-strict-acls/5301219",
+    "summary": "Like OpenClaw but with access control",
+    "isoDate": "2026-10-05T19:47:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5299357&width=800",
+    "pinned": false
+  },
+  {
+    "id": "75513876669d11a660a623b913e0c1f3f53e99ac",
+    "title": "Musk: SpaceXAI Will Be Renamed SpaceXSI, Dropping 'AI'",
+    "link": "https://www.notateslaapp.com/news/4770/musk-spacexai-will-be-renamed-spacexsi-dropping-ai",
+    "summary": "Elon Musk confirms SpaceXAI will be renamed SpaceXSI, dropping AI for \"super intelligence\" in what would be the division's second name change this year <a href=\"https://www.notateslaapp.com/news/4770/musk-spacexai-will-be-renamed-spacexsi-dropping-ai\">Read More</a>",
+    "isoDate": "2026-10-05T19:26:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-xai-logo.webp/f11d044bd94ac7cae5d1da238d5a9f26/spacex-xai-logo.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4cd46f7a42769d61974510bf55159d4954a80f85",
+    "title": "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
+    "summary": "Meet RemoveMacAI",
+    "isoDate": "2026-10-05T19:24:19Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=256031&width=800",
+    "pinned": false
+  },
+  {
+    "id": "04277ae7314bbae12f0e96f9fce9dbcf53e189f5",
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "summary": "The tool can free up over 12GB of storage.",
+    "isoDate": "2026-10-05T19:14:44Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "AI",
+      "Apple",
+      "apple",
+      "MacOS",
+      "macos 27",
+      "macos 27 golden gate"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "832dc62c5158978a89c6002d4876488cb27c4e26",
+    "title": "Tesla Robotaxi App Now Available in Many More Countries",
+    "link": "https://www.notateslaapp.com/news/4769/tesla-robotaxi-app-now-available-worldwide",
+    "summary": "Tesla's Robotaxi app can now be downloaded in many more countries, mostly for tourists visiting the U.S., where rides are still limited to seven cities <a href=\"https://www.notateslaapp.com/news/4769/tesla-robotaxi-app-now-available-worldwide\">Read More</a>",
+    "isoDate": "2026-10-05T18:21:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-app-cybercab-debut.webp/f075aad76b54c7e46c6b5e1bfea98ea0/tesla-robotaxi-app-cybercab-debut.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8059555356edb2518dec32ed608731c6d2ee77e2",
+    "title": "Controlling the brain with light earns a physiology Nobel",
+    "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+    "summary": "The entire field of optogenetics traces back to light-seeking algae.",
+    "isoDate": "2026-10-05T17:59:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "Biology",
+      "neurobiology",
+      "nobel prizes",
+      "optogenetics",
+      "physiology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2212760356-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3e0fd50065abaed8abb0f543e4403cacc99aa3a2",
+    "title": "FBI confirms 'multiple' arrests related to ShinyHunters hack",
+    "link": "https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178",
+    "summary": "Another few bite the dust",
+    "isoDate": "2026-10-05T17:46:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=252487&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b71a18268c0998d75d0f552e433bf772ec3e9743",
+    "title": "Windows 11 26H2 blighted by new audio issue",
+    "link": "https://www.theregister.com/os-platforms/2026/10/05/windows-11-26h2-blighted-by-new-audio-issue/5301135",
+    "summary": "AC-3 decoder drama also hits Windows 11 25H2 and 24H2",
+    "isoDate": "2026-10-05T17:24:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=226203&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9bdb34782c42fc86ecc78cde6a16c8d4c8c97f46",
+    "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+    "link": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+    "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
+    "isoDate": "2026-10-05T17:21:11Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "data centers",
+      "mobile phone service",
+      "Russia invasion of Ukraine",
+      "Russia war on Ukraine",
+      "Russian invasion of Ukraine",
+      "Russian war on Ukraine",
+      "telecommunications",
+      "Ukraine",
+      "Ukraine war"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-data-center-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d5b877552dd29275b37d22ec59e7e3a180d2f176",
+    "title": "Altman-backed Volantis reveals plan to vault the memory wall by baking photonics into AI accelerators",
+    "link": "https://www.theregister.com/systems/2026/10/05/altman-backed-volantis-reveals-plan-to-vault-the-memory-wall-by-baking-photonics-into-ai-accelerators/5300959",
+    "summary": "Who said you had to use wires to connect memory to compute?",
+    "isoDate": "2026-10-05T16:32:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5263102&width=800",
+    "pinned": false
+  },
+  {
+    "id": "055f9ef01fa22877ef85921d81397de6c4e87bf6",
+    "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
+    "link": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
+    "summary": "A software bug waylaid half the field and required a race reboot.",
+    "isoDate": "2026-10-05T16:09:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "F1",
+      "Formula 1"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298078711-500x500-1791212582.jpg",
+    "pinned": false
+  },
+  {
+    "id": "eb4335e023ec3e4506f9b3a27d0025356609ed5a",
+    "title": "OpenAI to flood your eyeballs with visual ads",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152",
+    "summary": "Want to generate an image with ChatGPT? Then prepare for ads if you're in the US",
+    "isoDate": "2026-10-05T15:54:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5301175&width=800",
+    "pinned": false
+  },
+  {
     "id": "f755965b64a46b0862a4f8809f1f71f4480af47c",
     "title": "Debian's latest kernel security update has 1,313 reasons to patch",
     "link": "https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124",
@@ -85,7 +355,7 @@
     "id": "f62624212a4392df551e1f633ee66a60f0c8af24",
     "title": "Games Workshop seeks IT leader to summon the legions in epic saga battling the forces of ERP",
     "link": "https://www.theregister.com/software/2026/10/05/games-workshop-seeks-it-leader-to-summon-the-legions-in-epic-saga-battling-the-forces-of-erp/5301117",
-    "summary": "Warhammer set in 40,000? Yes, ERP projects can take seem to take that long",
+    "summary": "Warhammer set in 40,000? Yes, ERP projects can seem to take that long",
     "isoDate": "2026-10-05T13:30:00Z",
     "source": "The Register",
     "category": "Tech",
@@ -198,6 +468,21 @@
       "networks"
     ],
     "image": "https://image.theregister.com/?imageId=224821&width=800",
+    "pinned": false
+  },
+  {
+    "id": "34a1589266cbd5b7fe9df8d170db3ea7433a208f",
+    "title": "Legacy sign-on service comes back to bite school software provider Bromcom",
+    "link": "https://www.theregister.com/security/2026/10/05/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156",
+    "summary": "Intruders retrieved email addresses from superseded tech kept running for an internal system",
+    "isoDate": "2026-10-05T09:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5251523&width=800",
     "pinned": false
   },
   {
@@ -654,75 +939,6 @@
     "pinned": false
   },
   {
-    "id": "b7597f7e38044d53d1be3e49f9dfe746b638dfd7",
-    "title": "The 2008 economic crisis changed the US's relationship with energy",
-    "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-    "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
-    "isoDate": "2026-10-02T18:56:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "carbon emissions",
-      "economic growth",
-      "Energy",
-      "gdp"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d3db30efe56f6be934fdd4c61645d5de5942b26f",
-    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-    "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-    "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-    "isoDate": "2026-10-02T18:39:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI chips",
-      "china",
-      "Donald Trump",
-      "Export controls",
-      "NVIDIA",
-      "us-china trade war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "355fa56a83b56dae41866d43b22752e86ab4e3ed",
-    "title": "Research roundup: 6 cool science stories we almost missed",
-    "link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
-    "summary": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
-    "isoDate": "2026-10-02T18:17:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Science",
-      "Archaeology",
-      "biomaterials",
-      "cosmoramas",
-      "Dark Matter",
-      "engineering",
-      "Galileo Galilei",
-      "Large Hadron Collider",
-      "materials science",
-      "Physics",
-      "psychoaoctive compounds",
-      "quantum entanglement",
-      "science",
-      "telescopes"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0841692491f3c6eb6d9abb0ad7976189db726aa2",
     "title": "arXiv imposes rate limit on paper submissions to stem the AI slop tide",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
@@ -753,25 +969,6 @@
     "pinned": false
   },
   {
-    "id": "85448cc0d75ba66c04db09b281e6cdd7e77551fe",
-    "title": "US military ends long-running program to spot nuclear missile launches",
-    "link": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
-    "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
-    "isoDate": "2026-10-02T17:32:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "defense support program",
-      "ICBM",
-      "space",
-      "space force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "d8ebac3466aac894bf09166fd7b471d81ce926ab",
     "title": "Tesla Introduces Emergency Supercharger Breakaway Feature",
     "link": "https://www.notateslaapp.com/news/4760/tesla-introduces-emergency-supercharger-breakaway-feature",
@@ -785,33 +982,6 @@
     "pinned": false
   },
   {
-    "id": "002b559fd9cfb7f606bb42080874109d37f2fd4f",
-    "title": "This startup pays NYC residents to run air conditioners on free batteries",
-    "link": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
-    "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
-    "isoDate": "2026-10-02T17:20:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "air conditioning",
-      "batteries",
-      "battery",
-      "electric utilities",
-      "electrical utilities",
-      "electricity demand",
-      "electricity grid",
-      "Every Electric",
-      "peak electricity load",
-      "power grid",
-      "power grids",
-      "utilities"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image2-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "061c9e74f85cdfdafb4279f77bb5f7e0e9b58bdb",
     "title": "Our Personalized Tesla License Plate Generator Now Supports European Countries",
     "link": "https://www.notateslaapp.com/news/4686/introducing-our-tesla-license-plate-generator-with-designs-for-all-50-states",
@@ -822,22 +992,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/license-plates-germany.webp/2c9676dbd5605e93f30e30659f38c718/license-plates-germany.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1bca426ffc658517f2412129d355cd2ccceba092",
-    "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
-    "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
-    "summary": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
-    "isoDate": "2026-10-02T16:05:26Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Tesla deliveries"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-500x500.jpg",
     "pinned": false
   },
   {
@@ -866,26 +1020,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group-cropped.webp/13125f87604d305e6a4f80ad0adf62e8/group-cropped.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d3446779ff0f63d44ff453ddb8ae101c6082d056",
-    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-    "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-    "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-    "isoDate": "2026-10-02T14:52:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Tech",
-      "Artificial Intelligence",
-      "NVIDIA",
-      "Nvidia Shield TV",
-      "price increase"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-500x500.jpg",
     "pinned": false
   },
   {
@@ -1315,96 +1449,6 @@
     "pinned": false
   },
   {
-    "id": "9d85bfcd985c80857394d6ffe89286e66e71b2c5",
-    "title": "AWS offers local, open source leash for agent harnesses",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/01/aws-offers-local-open-source-leash-for-agent-harnesses/5300578",
-    "summary": "Dogwood Local Engine checks AI tool calls against user-defined temporal rules before they run",
-    "isoDate": "2026-10-01T16:11:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=237975&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0b6b426373409172571c860894effef0c52e66dd",
-    "title": "Microsoft makes Windows settings backup the default in 26H2",
-    "link": "https://www.theregister.com/os-platforms/2026/10/01/microsoft-makes-windows-settings-backup-the-default-in-26h2/5300552",
-    "summary": "Annual update installed. You're up to date, so nothing seems to have changed. Wait a minute...",
-    "isoDate": "2026-10-01T15:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=227449&width=800",
-    "pinned": false
-  },
-  {
-    "id": "df906286a3c44c251f924cb6dc769213f5bfef47",
-    "title": "Microsoft catches hackers exploiting Zimbra bug before disclosure",
-    "link": "https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543",
-    "summary": "Attackers were probing the mail server flaw weeks before it had a CVE to its name",
-    "isoDate": "2026-10-01T14:44:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5279434&width=800",
-    "pinned": false
-  },
-  {
-    "id": "137dca12c53f6b24856bf4d147ad93e5ce931b8f",
-    "title": "MI5 warns UK academics their research may have helped Chinese spies",
-    "link": "https://www.theregister.com/security/2026/10/01/mi5-warns-uk-academics-their-research-may-have-helped-chinese-spies/5300502",
-    "summary": "Institutions told to trace who is really financing their work or risk falling foul of national security law",
-    "isoDate": "2026-10-01T14:04:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=254671&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2ad02ac3e8b38607ab34239d5c8be2ed7b57543b",
-    "title": "CISO thought he had a 'r3@lg00dp@$$w0rd' but forgot to patch",
-    "link": "https://www.theregister.com/security/2026/10/01/ciso-thought-he-had-a-r3lg00dpw0rd-but-forgot-to-patch/5300314",
-    "summary": "Replacing letters with symbols still doesn’t make it good.",
-    "isoDate": "2026-10-01T13:32:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5300318&width=800",
-    "pinned": false
-  },
-  {
-    "id": "36e101b8f03f50d978755bb010f4cd86c0e470ad",
-    "title": "Exchange Web Services enters the final stretch before Microsoft pulls access",
-    "link": "https://www.theregister.com/saas/2026/10/01/exchange-web-services-enters-the-final-stretch-before-microsoft-pulls-access/5300458",
-    "summary": "Legacy API begins disappearing from tenants today, with no exceptions after April",
-    "isoDate": "2026-10-01T12:59:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=257893&width=800",
-    "pinned": false
-  },
-  {
     "id": "c3171fe1f58131b337ff925cb6b421ee2df7e5fa",
     "title": "Green tree ants are famous in the tropics",
     "link": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
@@ -1601,32 +1645,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c12e5c711d4ade1afb9c571c5b2df0aa6bb7e6f5",
-    "title": "How to Use Grok to Load a Website and Read Articles in Your Tesla",
-    "link": "https://www.notateslaapp.com/news/4745/how-to-use-grok-to-load-a-website-and-read-an-article-to-you",
-    "summary": "Grok can act as your personal web researcher, pulling up pages on the center display and reading entire news articles aloud while you focus on driving <a href=\"https://www.notateslaapp.com/news/4745/how-to-use-grok-to-load-a-website-and-read-an-article-to-you\">Read More</a>",
-    "isoDate": "2026-09-28T20:24:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-1.webp/af9875fa07b1d49ab631958f5aea7ed4/grok-ui-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ca21efa641e849dccba21d5dc2af832465bb3ebd",
-    "title": "Tesla Delays Roadster Event Due to Weather After Earlier Warnings",
-    "link": "https://www.notateslaapp.com/news/4744/tesla-warns-roadster-event-is-outdoors-could-be-delayed",
-    "summary": "With the long-awaited reveal of the next-gen Tesla Roadster just days away, attendees planning their trip to Texas might want to keep a close eye on the skies <a href=\"https://www.notateslaapp.com/news/4744/tesla-warns-roadster-event-is-outdoors-could-be-delayed\">Read More</a>",
-    "isoDate": "2026-09-28T19:16:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/roadster-event-delayed.webp/08b03b6b6cdf0a13414e7dc499547543/roadster-event-delayed.jpg",
     "pinned": false
   }
 ]
