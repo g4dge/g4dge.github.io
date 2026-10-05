@@ -1,5 +1,236 @@
 [
   {
+    "id": "f755965b64a46b0862a4f8809f1f71f4480af47c",
+    "title": "Debian's latest kernel security update has 1,313 reasons to patch",
+    "link": "https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124",
+    "summary": "AI-assisted bug hunting adds to maintainers' workload, while broad CVE rules help explain the sprawling tally",
+    "isoDate": "2026-10-05T15:35:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=246104&width=800",
+    "pinned": false
+  },
+  {
+    "id": "279aa6f0958fd28fce6982cdc424029bac2faf3b",
+    "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+    "link": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
+    "summary": "Unconfirmed reports have suggested there was a laboratory accident.",
+    "isoDate": "2026-10-05T15:12:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "outbreak",
+      "plague",
+      "quarantine",
+      "russia"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2199370602-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9473cde6ce32ad51428fdbea49b7fcf6e23c5031",
+    "title": "The question you would ask HPE and NVIDIA if nobody was recording",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/05/sponsored-the-question-you-would-ask-hpe-and-nvidia-if-nobody-was-recording/5300427",
+    "summary": "The Register’s data sovereignty dinner in Washington puts HPE’s and NVIDIA’s AI infrastructure leads at one table, off the record, on 29 October.",
+    "isoDate": "2026-10-05T15:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5300429&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9ac20000a84470336986696588ee86f7c497c553",
+    "title": "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand",
+    "link": "https://www.theregister.com/offbeat/2026/10/05/musk-follows-trumps-lead-swaps-ai-for-si-in-spacex-rebrand/5301090",
+    "summary": "Actual intelligence in worryingly short supply",
+    "isoDate": "2026-10-05T14:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=248844&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fdcf6b49e5f5916c8d70562fa066948c19f018b9",
+    "title": "AI glasses face their first major government crackdown",
+    "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+    "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
+    "isoDate": "2026-10-05T13:39:30Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Richard Milne, Financial Times",
+    "tags": [
+      "AI",
+      "ai glasses",
+      "privacy",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n-500x424.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f62624212a4392df551e1f633ee66a60f0c8af24",
+    "title": "Games Workshop seeks IT leader to summon the legions in epic saga battling the forces of ERP",
+    "link": "https://www.theregister.com/software/2026/10/05/games-workshop-seeks-it-leader-to-summon-the-legions-in-epic-saga-battling-the-forces-of-erp/5301117",
+    "summary": "Warhammer set in 40,000? Yes, ERP projects can take seem to take that long",
+    "isoDate": "2026-10-05T13:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=201275&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bea9b04744f2efa4615b6b30c379011dc9a09075",
+    "title": "Anthropic says its IPO could herald the end of the world as we know it",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/05/anthropic-says-its-ipo-could-herald-the-end-of-the-world-as-we-know-it/5300908",
+    "summary": "Pay no attention to those more practical risks behind the curtain, which is exactly what we're doing on this week's Kettle",
+    "isoDate": "2026-10-05T12:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5300941&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8571831eb44731dfb5358c211c7b2ef28f27efbe",
+    "title": "Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text",
+    "link": "https://www.theregister.com/os-platforms/2026/10/05/ubuntu-stonking-stingray-beta-swims-out-deeper-rust-oxidization-plus-llm-speech-to-text/5301023",
+    "summary": "GNOME 51 is here, and Ubuntu interim releases are getting interesting again",
+    "isoDate": "2026-10-05T11:25:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5301051&width=800",
+    "pinned": false
+  },
+  {
+    "id": "02277a651620344c7850d995f2c540db8bfbc75f",
+    "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+    "link": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+    "summary": "Ars Technica's guide to new keyboard sensing technologies.",
+    "isoDate": "2026-10-05T11:00:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Features",
+      "Tech",
+      "Keyboards",
+      "mechanical keyboards"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Varmilo-EC-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4049aad161ff320009de69481909e53c1dd5513b",
+    "title": "Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double",
+    "link": "https://www.theregister.com/os-platforms/2026/10/05/windows-11-market-share-creeps-upwards-as-cost-of-staying-on-windows-10-set-to-double/5300870",
+    "summary": "How badly do you want that Win10 device to keep getting security updates?",
+    "isoDate": "2026-10-05T10:24:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=258425&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c44bf45ed98dd09288f6e141bbb450879fbd6948",
+    "title": "All-around junior male",
+    "link": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
+    "summary": "<p><img alt=\"Silhouette photo of a skateboarder mid-jump near a low fence with a hooked pole in the foreground on a stark background.\" src=\"https://images.aeonmedia.co/images/98d1c630-57c6-439a-903e-98d4dc7d739a/all-around-junior-male-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>A ball suspended in mid-air meets an athlete’s determination: in the one-foot high kick, competitors must defy gravity</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured\">Watch on Aeon</a></p>",
+    "isoDate": "2026-10-05T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "ac1db33c9501bea8e9c2b4db9e88d457b25a45a0",
+    "title": "A life in episodes",
+    "link": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
+    "summary": "<p><img alt=\"A collage of various vintage photos including people, a black cat, handwritten notes and a passport photo.\" src=\"https://images.aeonmedia.co/images/add21bb0-e0e1-4a92-8b7a-d0d53f9da477/final-essay.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>For a decade, I’ve posted episodes of my memoir to Facebook. My readers correct my understanding of my past</p><p><em>- by Thomas Söderqvist</em></p><p><a href=\"https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook\">Read on Aeon</a></p>",
+    "isoDate": "2026-10-05T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Thomas Söderqvist",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "866178abe69310aa98526622ac0fcb794af459be",
+    "title": "BT buys TalkTalk out of administration to keep 2.5M customers connected",
+    "link": "https://www.theregister.com/networks/2026/10/05/bt-buys-talktalk-out-of-administration-to-keep-25m-customers-connected/5301066",
+    "summary": "Rescue carries an estimated £400M cash impact as Virgin Media declares move 'a stitchup'",
+    "isoDate": "2026-10-05T09:52:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=224821&width=800",
+    "pinned": false
+  },
+  {
+    "id": "af3d3f5b0b464b663952cf6aa9745ac826081d4f",
+    "title": "Samalia Bala’s arrest in Nigeria for witchcraft is a travesty – he must be released immediately",
+    "link": "https://www.skeptic.org.uk/2026/10/samalia-balas-arrest-in-nigeria-for-witchcraft-is-a-travesty-he-must-be-released-immediately/",
+    "summary": "<p>The Advocacy for Alleged Witches (AfAW) urges the Zamfara state government in Nigeria to release Samalia Bala, who has been falsely imprisoned for witchcraft.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/10/samalia-balas-arrest-in-nigeria-for-witchcraft-is-a-travesty-he-must-be-released-immediately/\">Samalia Bala&#8217;s arrest in Nigeria for witchcraft is a travesty &#8211; he must be released immediately</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-10-05T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Leo Igwe",
+    "tags": [
+      "Superstition"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "834a87739a6999ea17fe79d73097ec607cf9d509",
+    "title": "Brighter isn't better and more is less. The AI slowdown is nigh, no matter who says what",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/05/brighter-isnt-better-and-more-is-less-the-ai-slowdown-is-nigh-no-matter-who-says-what/5300747",
+    "summary": "Meta isn’t helping — or perhaps it is",
+    "isoDate": "2026-10-05T08:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=138071&width=800",
+    "pinned": false
+  },
+  {
     "id": "08999e909329dc1b34e775c84ceb20bd15cfa511",
     "title": "Buyer missed one option and got 1% of the cable they needed",
     "link": "https://www.theregister.com/networks/2026/10/05/buyer-missed-one-option-and-got-1-of-the-cable-they-needed/5300739",
@@ -18,7 +249,7 @@
     "id": "3fa4d4d373830969ffb71479ac1961fb14a00919",
     "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
     "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-    "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+    "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls.",
     "isoDate": "2026-10-05T04:00:52Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -36,9 +267,9 @@
   },
   {
     "id": "3116e977cb80fa72ccce424ac0640f7213b2baaf",
-    "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+    "title": "Lions and cheetahs and chimps, oh my: A spotlight on Africa's diverse wildlife",
     "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-    "summary": "Wunmi Mosaku (<em>Sinners, Loki</em>) narrates NatGeo's new documentary <em>Africa: Earth's Wild Home</em>",
+    "summary": "Wunmi Mosaku (<em>Sinners</em>, <em>Loki</em>) narrates NatGeo's new documentary <em>Africa: Earth's Wild Home</em>.",
     "isoDate": "2026-10-04T15:34:14Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -688,32 +919,6 @@
     "pinned": false
   },
   {
-    "id": "f5426fc3fd27597a91be2e08aff998eb928aedac",
-    "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-    "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-    "summary": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
-    "isoDate": "2026-10-02T13:54:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "blue origin",
-      "Boeing",
-      "falcon 9",
-      "rocket lab",
-      "rocket report",
-      "spacex",
-      "starliner",
-      "starship",
-      "united launch alliance",
-      "vulcan"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "22a09397ede9e0ee7edf959a02f0f9b79392db5b",
     "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
     "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
@@ -816,26 +1021,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5300807&width=800",
-    "pinned": false
-  },
-  {
-    "id": "79727cd75e0ed03ccdefceff7b37639f702a1610",
-    "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
-    "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
-    "summary": "Can it be Mini LED without a FALD backlight?",
-    "isoDate": "2026-10-02T10:30:11Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Features",
-      "Tech",
-      "Mini LED",
-      "Samsung",
-      "tcl",
-      "TVs"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026_Mini-LED_M80H_FRONT_WALL_Image-1-1024x683-1-500x500.jpg",
     "pinned": false
   },
   {
@@ -998,26 +1183,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-halloween-2026-2.webp/2e0a4eb468104510ce493517df283108/tesla-halloween-2026-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "cdd52eb3f6e404208ab60116be455125bc7000c3",
-    "title": "Venus' mysterious haze is actually cosmic dust",
-    "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
-    "summary": "A physical model show that iron dust and sulfuric acid create the right properties.",
-    "isoDate": "2026-10-01T22:27:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Elizabeth Rayne",
-    "tags": [
-      "Science",
-      "astronomy",
-      "atmospheric science",
-      "Haze",
-      "planetary science",
-      "Venus"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-500x500-1790890738.jpeg",
     "pinned": false
   },
   {
@@ -1240,51 +1405,6 @@
     "pinned": false
   },
   {
-    "id": "32661c97f54ce727dccd95c251a21f989aeb7e85",
-    "title": "Palantir's Tom Watson lectures MP on accuracy, citing selective data",
-    "link": "https://www.theregister.com/public-sector/2026/10/01/palantirs-tom-watson-lectures-mp-on-accuracy-citing-selective-data/5300493",
-    "summary": "Former Labour deputy challenges Clive Lewis but skips the warnings attached to NHS figures",
-    "isoDate": "2026-10-01T12:41:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=236752&width=800",
-    "pinned": false
-  },
-  {
-    "id": "188f4daf5827c55676d84b6d0a4cd9f60f702222",
-    "title": "England's schools are getting better at mopping up cyber incidents",
-    "link": "https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465",
-    "summary": "Two-thirds report immediate recovery, although teachers remain divided over whose job security is",
-    "isoDate": "2026-10-01T11:40:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5251523&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3ff9d1f6b085cf5f14fb1de2814b154df5672782",
-    "title": "UK privacy watchdog starts over with new board and Manchester HQ",
-    "link": "https://www.theregister.com/security/2026/10/01/uk-privacy-watchdog-starts-over-with-new-board-and-manchester-hq/5300439",
-    "summary": "The Information Commission replaces the Information Commissioner, putting statutory powers under collective control",
-    "isoDate": "2026-10-01T10:42:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=255798&width=800",
-    "pinned": false
-  },
-  {
     "id": "c3171fe1f58131b337ff925cb6b421ee2df7e5fa",
     "title": "Green tree ants are famous in the tropics",
     "link": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
@@ -1308,81 +1428,6 @@
     "author": "Sasha Mudd",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "18a1ec4423bee0912c84bdd16e01401b83a215f6",
-    "title": "Fewer women than ever in UK's 'old boys' club' cyber industry",
-    "link": "https://www.theregister.com/security/2026/10/01/fewer-women-than-ever-in-uks-old-boys-club-cyber-industry/5300064",
-    "summary": "Younger workers often overlooked for senior roles due to historical issues and fears they’ll get pregnant, says survey",
-    "isoDate": "2026-10-01T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5300088&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2ef6c99e555d3c1f4d1ddfffd55921fc3d7b5c2c",
-    "title": "Erase social media tomorrow? Brits say yes",
-    "link": "https://www.theregister.com/offbeat/2026/10/01/erase-social-media-tomorrow-brits-say-yes/5300109",
-    "summary": "So why are more and more people snorting their daily fix of cat videos, men fighting and political propaganda",
-    "isoDate": "2026-10-01T08:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5300114&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6f2a567448748aa725e218b5dc7b7727b520e2f1",
-    "title": "The tech industry is hot for shopping bots, but they're years away",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/01/the-tech-industry-is-hot-for-shopping-bots-but-theyre-years-away/5300325",
-    "summary": "What's good for human shoppers does not work with probabilistic AI agents",
-    "isoDate": "2026-10-01T07:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5300329&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b176a100540bac4ffeaceebfe36a1ed8ed0ac168",
-    "title": "Singapore’s government creates a dating app",
-    "link": "https://www.theregister.com/public-sector/2026/10/01/singapores-government-creates-a-dating-app/5300353",
-    "summary": "Team that gave the world Bluetooth COVID tracking swipes right on algorithmic matchmaking",
-    "isoDate": "2026-10-01T05:34:18Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=231712&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0deba24b4e6ab6900c1eed5b1e7f970a524f80e5",
-    "title": "RAM supply set to worsen, says Micron, as CEO celebrates ‘much higher’ prices",
-    "link": "https://www.theregister.com/systems/2026/10/01/ram-supply-set-to-worsen-says-micron-as-ceo-celebrates-much-higher-prices/5300346",
-    "summary": "Posts huge leaps in revenue, profit, and margin, with more to come",
-    "isoDate": "2026-10-01T02:37:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5261989&width=800",
     "pinned": false
   },
   {
@@ -1582,47 +1627,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/roadster-event-delayed.webp/08b03b6b6cdf0a13414e7dc499547543/roadster-event-delayed.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6dd049ea88ab82790223c3ca144257be535343fd",
-    "title": "Affect theory",
-    "link": "https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities",
-    "summary": "<p><img alt=\"Digital collage featuring a silhouette of a person with arrows pointing outward over a blurred monochrome crowd.\" src=\"https://images.aeonmedia.co/images/a094cb1f-18b9-4c12-9b8e-db903de73d0c/affect-theory-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>In the mid-1990s, thinkers pushed back against the idea we’re built by language, turning to feeling and the body instead</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities\">Watch on Aeon</a></p>",
-    "isoDate": "2026-09-28T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "6b968c71c6c1cec0d47c66a6218fb23adaf9b06d",
-    "title": "Paternity is poetical",
-    "link": "https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows",
-    "summary": "<p><img alt=\"Black and white photo of a man typing on a typewriter while holding a baby, with a window and desk in the background.\" src=\"https://images.aeonmedia.co/images/450d70f9-21a4-48dd-95c0-f372f4813999/essay-nn11536415.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The notion that fatherhood and creativity are at odds is plain wrong, as both poetry and neuroscience are showing us</p><p><em>- by Daniel Swift</em></p><p><a href=\"https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows\">Read on Aeon</a></p>",
-    "isoDate": "2026-09-28T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Daniel Swift",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "673409e3ce7328a75aea80c442c33f34aec36915",
-    "title": "Meeting the burden of evidence: How homeopathy is like plate tectonics… and how it differs",
-    "link": "https://www.skeptic.org.uk/2026/09/meeting-the-burden-of-evidence-how-homeopathy-is-like-plate-tectonics-and-how-it-differs/",
-    "summary": "<p>Ideas once dismissed as scientifically implausible can turn out to be true - but only if they can meet the evidentiary burden required for proof.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/09/meeting-the-burden-of-evidence-how-homeopathy-is-like-plate-tectonics-and-how-it-differs/\">Meeting the burden of evidence: How homeopathy is like plate tectonics&#8230; and how it differs</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-09-28T09:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Mark Horne",
-    "tags": [
-      "Homeopathy"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
