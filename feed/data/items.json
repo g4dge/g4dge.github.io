@@ -1,5 +1,80 @@
 [
   {
+    "id": "ccf9fc3320ad4b7808d617ac89d77a0e1c01acfd",
+    "title": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
+    "link": "https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757",
+    "summary": "The owner knew a guy...",
+    "isoDate": "2026-10-08T08:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5301760&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4fc23f1a5349f0fe30d6547d4a3a0f33d34433e2",
+    "title": "It's a bird, it's a plane...well, more of a spinning parachute, but really it's a droppable robot boat",
+    "link": "https://www.theregister.com/offbeat/2026/10/08/its-a-bird-its-a-planewell-more-of-a-spinning-parachute-but-really-its-a-droppable-robot-boat/5301788",
+    "summary": "The ALBATROSS has landed",
+    "isoDate": "2026-10-08T07:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5301792&width=800",
+    "pinned": false
+  },
+  {
+    "id": "42666c2470402297573700ff3452861f1c7b0962",
+    "title": "ICANN reveals bids for new top-level domains",
+    "link": "https://www.theregister.com/networks/2026/10/08/icann-reveals-bids-for-new-top-level-domains/5301857",
+    "summary": "Big tech has piled in with plenty of asks, but faces a fight as eight applicants want .api and seven seek .agi",
+    "isoDate": "2026-10-08T05:56:30Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=242423&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2aed15987fdbc66ad180a4abba2545930bea309e",
+    "title": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
+    "link": "https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831",
+    "summary": "Feds claim he charged clients more than ransoms, paid up, pocketed the difference",
+    "isoDate": "2026-10-08T02:29:55Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=241830&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1b6824b96dc0e37de0570f10420b995347640c4e",
+    "title": "Singapore’s central bank wants all FinTech AI use cases subject to independent review",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
+    "summary": "Failures of third-party services no excuse for island nation’s financial sector",
+    "isoDate": "2026-10-08T00:53:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5301805&width=800",
+    "pinned": false
+  },
+  {
     "id": "3a0428350fd02b1e48b32a153f99906d39b80063",
     "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
     "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
@@ -1224,96 +1299,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-app-cybercab-debut.webp/f075aad76b54c7e46c6b5e1bfea98ea0/tesla-robotaxi-app-cybercab-debut.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3e0fd50065abaed8abb0f543e4403cacc99aa3a2",
-    "title": "FBI confirms 'multiple' arrests related to ShinyHunters hack",
-    "link": "https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178",
-    "summary": "Another few bite the dust",
-    "isoDate": "2026-10-05T17:46:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=252487&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b71a18268c0998d75d0f552e433bf772ec3e9743",
-    "title": "Windows 11 26H2 blighted by new audio issue",
-    "link": "https://www.theregister.com/os-platforms/2026/10/05/windows-11-26h2-blighted-by-new-audio-issue/5301135",
-    "summary": "AC-3 decoder drama also hits Windows 11 25H2 and 24H2",
-    "isoDate": "2026-10-05T17:24:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=226203&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d5b877552dd29275b37d22ec59e7e3a180d2f176",
-    "title": "Altman-backed Volantis reveals plan to vault the memory wall by baking photonics into AI accelerators",
-    "link": "https://www.theregister.com/systems/2026/10/05/altman-backed-volantis-reveals-plan-to-vault-the-memory-wall-by-baking-photonics-into-ai-accelerators/5300959",
-    "summary": "Who said you had to use wires to connect memory to compute?",
-    "isoDate": "2026-10-05T16:32:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5263102&width=800",
-    "pinned": false
-  },
-  {
-    "id": "eb4335e023ec3e4506f9b3a27d0025356609ed5a",
-    "title": "OpenAI to flood your eyeballs with visual ads",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152",
-    "summary": "Want to generate an image with ChatGPT? Then prepare for ads if you're in the US",
-    "isoDate": "2026-10-05T15:54:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5301175&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f755965b64a46b0862a4f8809f1f71f4480af47c",
-    "title": "Debian's latest kernel security update has 1,313 reasons to patch",
-    "link": "https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124",
-    "summary": "AI-assisted bug hunting adds to maintainers' workload, while broad CVE rules help explain the sprawling tally",
-    "isoDate": "2026-10-05T15:35:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=246104&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9473cde6ce32ad51428fdbea49b7fcf6e23c5031",
-    "title": "The question you would ask HPE and NVIDIA if nobody was recording",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/05/sponsored-the-question-you-would-ask-hpe-and-nvidia-if-nobody-was-recording/5300427",
-    "summary": "The Register’s data sovereignty dinner in Washington puts HPE’s and NVIDIA’s AI infrastructure leads at one table, off the record, on 29 October.",
-    "isoDate": "2026-10-05T15:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5300429&width=800",
     "pinned": false
   },
   {
