@@ -1,5 +1,170 @@
 [
   {
+    "id": "9f4f46039e3dc6c139a9543ab17b9d1ae7598154",
+    "title": "AI coding agents generate more code, but not more software",
+    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+    "isoDate": "2026-10-09T19:43:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "agentic coding",
+      "AI agents",
+      "coding",
+      "pull requests",
+      "review"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-500x500-1791573923.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ca3b473c634fabcdf8e45b0ab91aa5089bcd9a0e",
+    "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+    "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+    "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+    "isoDate": "2026-10-09T19:27:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "clinical trial",
+      "Guinea-Bissau",
+      "hepatitis B",
+      "WHO"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2252095020-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "924aea9ba32e518f4b392d5ee9e846fb655cb3a4",
+    "title": "AWS AgentCore security undone by prompt requesting credentials",
+    "link": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+    "summary": "Tokens transmitted in metadata, weak VM isolation, and expansive permissions make hacking a lot easier",
+    "isoDate": "2026-10-09T19:15:48Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5302441&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9554ed299a35a5a3156df1aa45cb93c96b8a018b",
+    "title": "Tesla’s Halloween Mode Does Not Support Intel Vehicles",
+    "link": "https://www.notateslaapp.com/news/4798/teslas-halloween-mode-no-intel-support",
+    "summary": "Tesla’s Halloween Mode update is leaving Intel vehicles out of the mix, but it does support all current Tesla models. <a href=\"https://www.notateslaapp.com/news/4798/teslas-halloween-mode-no-intel-support\">Read More</a>",
+    "isoDate": "2026-10-09T19:13:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/halloween-fsd-vis.webp/953c5056528eb45272e418affa4e4300/halloween-fsd-vis.jpg",
+    "pinned": false
+  },
+  {
+    "id": "417ef50af1b0286360e3ff660cee5c029e22eaed",
+    "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+    "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+    "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+    "isoDate": "2026-10-09T18:54:52Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Biz & IT",
+      "Tech",
+      "Desktops",
+      "IDC",
+      "laptops"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2d92b45f51d071595ec09931d4cd8f07e53f2864",
+    "title": "SpaceX Buys Spectrum to Make Starlink a U.S. Phone Carrier",
+    "link": "https://www.notateslaapp.com/news/4799/spacex-buys-spectrum-to-make-starlink-a-us-phone-carrier",
+    "summary": "SpaceX is buying 800 MHz spectrum so Starlink Mobile can work indoors and compete with Verizon, AT&amp;T and, T-Mobile as a U.S. carrier <a href=\"https://www.notateslaapp.com/news/4799/spacex-buys-spectrum-to-make-starlink-a-us-phone-carrier\">Read More</a>",
+    "isoDate": "2026-10-09T18:54:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/starlink-mobile-hero.webp/ec535b6ed9f27ef6fb563c7ed66ed91a/starlink-mobile-hero.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9304db4f19bb1881d8c227de4b418755b4d22e37",
+    "title": "AI disqualification yields new Nikon Small World in Motion winner",
+    "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+    "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+    "isoDate": "2026-10-09T18:44:06Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "AI",
+      "Science",
+      "Nikon Small World in Motion video"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikon1-500x500-1791567849.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1b2c3437a485e01238e3133aaa14adea49616dae",
+    "title": "Your artwork could be featured in the next Debian release",
+    "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+    "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
+    "isoDate": "2026-10-09T18:33:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nick Indge",
+    "tags": [
+      "Tech",
+      "Debian Linux",
+      "desktop theme",
+      "forky"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ceratopsian_wallpaper-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "3a6ac94ae25f98777d725f60609c830207a609bf",
+    "title": "Microsoft 365 subscribers set to lose up to 4TB of OneDrive storage",
+    "link": "https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4tb-of-onedrive-storage/5302380",
+    "summary": "What Microsoft giveth, Microsoft taketh away, again and again",
+    "isoDate": "2026-10-09T16:14:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5230003&width=800",
+    "pinned": false
+  },
+  {
+    "id": "450ba5103ce368c5a636547d1188ba7155b1f5f2",
+    "title": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
+    "link": "https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393",
+    "summary": "Low-band frequencies can reach devices inside buildings, while 2 GHz orbiters could extend coverage beyond cell towers",
+    "isoDate": "2026-10-09T15:55:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5230051&width=800",
+    "pinned": false
+  },
+  {
     "id": "f39f663a3e6b8b7907479202be5da91e4991a2c7",
     "title": "Oracle lets AI agents do the work, provided you stay in Big Red's world",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/09/oracle-lets-ai-agents-do-the-work-provided-you-stay-in-big-reds-world/5302270",
@@ -699,26 +864,6 @@
     "pinned": false
   },
   {
-    "id": "9523a2fdd9f2139a858f94c627e4ca0a258a6240",
-    "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-    "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-    "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
-    "isoDate": "2026-10-08T14:04:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nicholas Kusnetz, Inside Climate News",
-    "tags": [
-      "Policy",
-      "climate change",
-      "ExxonMobil",
-      "fossil fuels",
-      "Massachusetts vs ExxonMobil",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/refinery-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0abe3d9c03fcc9706c1963168441ee4b218888d3",
     "title": "Rust upstart reveals 'reimplementation' of Microsoft Office – with Claude on coding duty",
     "link": "https://www.theregister.com/software/2026/10/08/rust-upstart-reveals-reimplementation-of-microsoft-office-with-claude-on-coding-duty/5301952",
@@ -821,54 +966,6 @@
       "os platforms"
     ],
     "image": "https://image.theregister.com/?imageId=5298120&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5387f8e8d5e8c2a4f67ff01d6fa8a9fa1837cfdb",
-    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-    "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-    "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-    "isoDate": "2026-10-08T11:15:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Agility Robotics",
-      "boston dynamics",
-      "humanoid robots",
-      "Industrial robots",
-      "NVIDIA",
-      "NVIDIA Halos",
-      "Robotics",
-      "robots"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4b27c28ad65735ddd995ec480f3876da7a614234",
-    "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-    "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
-    "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
-    "isoDate": "2026-10-08T11:00:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Features",
-      "Policy",
-      "biden administration",
-      "blanche lincoln",
-      "Commodity Futures Trading Commission",
-      "event contracts",
-      "Kalshi",
-      "polymarket",
-      "prediction markets",
-      "sports gambling",
-      "trump administration"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/blanche-kalshi-sports-500x500-1791305873.jpg",
     "pinned": false
   },
   {
@@ -1003,27 +1100,6 @@
     "pinned": false
   },
   {
-    "id": "3a0428350fd02b1e48b32a153f99906d39b80063",
-    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-    "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-    "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-    "isoDate": "2026-10-08T00:00:24Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nick Indge",
-    "tags": [
-      "AI",
-      "Tech",
-      "hybrid intelligence",
-      "microsoft rtx spark dev box",
-      "microsoft surface laptop ultra",
-      "Microsoft Windows",
-      "MXC"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-500x500.png",
-    "pinned": false
-  },
-  {
     "id": "9cdac8bf0e940e989e21865682d01bac5f99cac9",
     "title": "Tesla Owner Enables Track Mode on Non-Performance Model Y",
     "link": "https://www.notateslaapp.com/news/4788/tesla-owner-enables-track-mode-on-non-performance-model-y",
@@ -1034,28 +1110,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-track-mode-on-non-performance-model-y-4-1791411136.webp/64df9fc41c2e039a8d37513f71673a71/tesla-track-mode-on-non-performance-model-y-4-1791411136.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0598a3e5bb11bf63b2f76ab6db4b1d80c9bac843",
-    "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-    "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-    "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
-    "isoDate": "2026-10-07T21:56:42Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "Adobe",
-      "Anthropic",
-      "clause",
-      "open source",
-      "Opus",
-      "Photoshop",
-      "Reverse-engineering"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-500x500-1791408830.webp",
     "pinned": false
   },
   {
@@ -1130,22 +1184,6 @@
     "pinned": false
   },
   {
-    "id": "dcf8c6406bc7cfef7f73294e25fd799fd6e2ab36",
-    "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
-    "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
-    "summary": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
-    "isoDate": "2026-10-07T20:01:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "measles"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/misinfoTOP-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f26ebd939369b3a33ed4b7c5cc684109a355c5cf",
     "title": "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra",
     "link": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722",
@@ -1201,51 +1239,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-philadelphia-crash-door-frames-1.webp/321c1b1c7dc57e122ef5a4036bd8c7ec/cybercab-philadelphia-crash-door-frames-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5462f7058ba06d9ff9f5f4c28c0d54cb8e7bf114",
-    "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687",
-    "summary": "Strands Box is the latest open source AI control tool from the cloud giant; like its predecessors, it promises tighter reins on autonomous agents",
-    "isoDate": "2026-10-07T17:42:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=252926&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0a861f38834ed46c2aa231783a3e3c756c0bc2e4",
-    "title": "US states sue popular kitmaker TP-Link over China risks",
-    "link": "https://www.theregister.com/security/2026/10/07/us-states-sue-popular-kitmaker-tp-link-over-china-risks/5301653",
-    "summary": "Router maker rejects allegations it misled buyers about protection and its reliance on Chinese suppliers",
-    "isoDate": "2026-10-07T17:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=259721&width=800",
-    "pinned": false
-  },
-  {
-    "id": "bae46865dcd65b7289038d4509b6623264a88137",
-    "title": "Starlink's plan to avoid orbital near-misses: Ephemeris sharing",
-    "link": "https://www.theregister.com/offbeat/2026/10/07/starlinks-plan-to-avoid-orbital-near-misses-ephemeris-sharing/5301650",
-    "summary": "Hang on. How about not chucking tens of thousands more satellites into space?",
-    "isoDate": "2026-10-07T16:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=249851&width=800",
     "pinned": false
   },
   {
@@ -1525,58 +1518,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/ai5-chip.webp/dd09ee32c5d7e1e20367170173c2e60b/ai5-chip.jpg",
-    "pinned": false
-  },
-  {
-    "id": "24d43adcf80c8ae361a7aa6c77e46f4b7e245eaf",
-    "title": "Tesla Updates Model 3/Y in U.S. With 16\" Screen, Faster 0-60 & More",
-    "link": "https://www.notateslaapp.com/news/4762/tesla-updates-model-3y-in-us-with-16-screen-faster-0-60-more",
-    "summary": "Tesla has announced several changes that streamline display hardware across the lineup while giving dual-motor trims a noticeable boost in straight-line punch <a href=\"https://www.notateslaapp.com/news/4762/tesla-updates-model-3y-in-us-with-16-screen-faster-0-60-more\">Read More</a>",
-    "isoDate": "2026-10-02T20:48:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-3-2024/model-3-us-16-inch-screen.png/f24af2a077c8de43c938850f9abb8139/model-3-us-16-inch-screen.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5790c85c1064a84adb5f534c12e3217c2dd1f438",
-    "title": "Tesla FSD to Get Navigation Improvements and Pothole Detection",
-    "link": "https://www.notateslaapp.com/news/4761/tesla-fsd-to-get-navigation-improvements-and-pothole-detection",
-    "summary": "Tesla is working on fixes for two of the most common gripes with FSD: confusing navigation routing and plowing straight through tire-popping potholes <a href=\"https://www.notateslaapp.com/news/4761/tesla-fsd-to-get-navigation-improvements-and-pothole-detection\">Read More</a>",
-    "isoDate": "2026-10-02T19:11:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/capture-fsd-visualizations.jpg/98c62e4602ba210de36ef1e41104d573/capture-fsd-visualizations.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d8ebac3466aac894bf09166fd7b471d81ce926ab",
-    "title": "Tesla Introduces Emergency Supercharger Breakaway Feature",
-    "link": "https://www.notateslaapp.com/news/4760/tesla-introduces-emergency-supercharger-breakaway-feature",
-    "summary": "If you find yourself in a dangerous situation at a Tesla Supercharger, you no longer have to step outside and remove the charging cable in order to drive away <a href=\"https://www.notateslaapp.com/news/4760/tesla-introduces-emergency-supercharger-breakaway-feature\">Read More</a>",
-    "isoDate": "2026-10-02T17:24:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/emergency-drive-away-supercharger.webp/ed7bd73b3d79fc7ed936c7b2083a92db/emergency-drive-away-supercharger.jpg",
-    "pinned": false
-  },
-  {
-    "id": "061c9e74f85cdfdafb4279f77bb5f7e0e9b58bdb",
-    "title": "Our Personalized Tesla License Plate Generator Now Supports European Countries",
-    "link": "https://www.notateslaapp.com/news/4686/introducing-our-tesla-license-plate-generator-with-designs-for-all-50-states",
-    "summary": "Our new Tesla license plate generator includes all 50 U.S. states. Customize your text or download a blank plate for your vehicle visualization. <a href=\"https://www.notateslaapp.com/news/4686/introducing-our-tesla-license-plate-generator-with-designs-for-all-50-states\">Read More</a>",
-    "isoDate": "2026-10-02T17:10:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/license-plates-germany.webp/2c9676dbd5605e93f30e30659f38c718/license-plates-germany.jpg",
     "pinned": false
   }
 ]
