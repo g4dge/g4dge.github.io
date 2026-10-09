@@ -1,5 +1,65 @@
 [
   {
+    "id": "d95957496c2bee4b70c8ad384aab8299efacea0a",
+    "title": "Ukrainian drone attack takes out Russian datacenter",
+    "link": "https://www.theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137",
+    "summary": "Putin this cloud region back into operation might not be possible, says Yandex",
+    "isoDate": "2026-10-09T00:08:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=251310&width=800",
+    "pinned": false
+  },
+  {
+    "id": "40ad52af0b752a258e462a7d956bd6c50ea4aa2c",
+    "title": "AI company moves to defend critical infrastructure and open-source projects from AI",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/09/ai-company-moves-to-defend-critical-infrastructure-and-open-source-projects-from-ai/5302128",
+    "summary": "Anthropic says for the next two years, attackers will have the advantage",
+    "isoDate": "2026-10-08T23:57:40Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5302132&width=800",
+    "pinned": false
+  },
+  {
+    "id": "dab4d8e4a33fe928e4170e5dce30a0929d4097cf",
+    "title": "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide",
+    "link": "https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107",
+    "summary": "Infecting devices from 2021 until the FBI stepped in",
+    "isoDate": "2026-10-08T21:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5288224&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9bd87ac413507e12cb159ccd2dd7914688fdc527",
+    "title": "Nvidia found $1B under the couch to help secure American scientific computing dominance",
+    "link": "https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110",
+    "summary": "Commitment comes as GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers",
+    "isoDate": "2026-10-08T21:44:03Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "hpc"
+    ],
+    "image": "https://image.theregister.com/?imageId=259022&width=800",
+    "pinned": false
+  },
+  {
     "id": "7b89222ef9fc658f2858b12de4935848363491ac",
     "title": "Trump Honors Elon Musk With National Medal of Science",
     "link": "https://www.notateslaapp.com/news/4795/trump-honors-elon-musk-with-national-medal-of-science",
@@ -100,8 +160,23 @@
     "pinned": false
   },
   {
+    "id": "c56821de847d1c957e0aba2d3633c4117ee8b275",
+    "title": "There can be only one: Google Cloud casts Gemini as your enterprise AI hero",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086",
+    "summary": "The Chocolate Factory proposes a single universal agent for work",
+    "isoDate": "2026-10-08T20:16:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=248218&width=800",
+    "pinned": false
+  },
+  {
     "id": "87023935733fbc8e0fe848151354b9c28f9648e9",
-    "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+    "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
     "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
     "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
     "isoDate": "2026-10-08T20:15:53Z",
@@ -118,6 +193,21 @@
       "obituary"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hamilton2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e3ac0c9eefb52271d9e9bb00e20cd201f5d11a2e",
+    "title": "NASA taps DoE to help it build nuclear space reactors",
+    "link": "https://www.theregister.com/offbeat/2026/10/08/nasa-taps-doe-to-help-it-build-nuclear-space-reactors/5302096",
+    "summary": "Space agency claims steady progress on lunar reactor plans, but offers little evidence to back it up",
+    "isoDate": "2026-10-08T20:15:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5302102&width=800",
     "pinned": false
   },
   {
@@ -1160,51 +1250,6 @@
     "pinned": false
   },
   {
-    "id": "50bfa1d705fa28e50081f14a5863d0012515c379",
-    "title": "Google teams with nuclear power giant to give reactors a tune-up",
-    "link": "https://www.theregister.com/systems/2026/10/07/google-teams-with-nuclear-power-giant-to-give-reactors-a-tune-up/5301498",
-    "summary": "Upgraded turbines, generators, and digital controls are expected to unlock an addition 890MW of capacity",
-    "isoDate": "2026-10-06T23:08:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=258297&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8d6586c2fed37f06478a388e3c686e7694116130",
-    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470",
-    "summary": "Research firm not exactly thrilled by House of Altman's subscription changes",
-    "isoDate": "2026-10-06T21:11:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5301479&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6099281bae644ca2243998755c64ae441d0cf36d",
-    "title": "Permanent daylight saving time could be a public health time bomb",
-    "link": "https://www.theregister.com/offbeat/2026/10/06/permanent-daylight-saving-time-could-be-a-public-health-time-bomb/5301464",
-    "summary": "Trump pushes the US to adopt pDST, but Canadian researchers say darker mornings come with costs for sleep, learning, and productivity",
-    "isoDate": "2026-10-06T20:32:30Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5262298&width=800",
-    "pinned": false
-  },
-  {
     "id": "05d477ce58b3b7409970d8afb1dbab9488e83593",
     "title": "Germany Will Support FSD in EU Vote If Tesla Renames It",
     "link": "https://www.notateslaapp.com/news/4778/germany-will-support-fsd-in-eu-vote-if-tesla-renames-it",
@@ -1257,21 +1302,6 @@
     "pinned": false
   },
   {
-    "id": "49f963fc054e3b8fb200aafec0502ebe0a6a494b",
-    "title": "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/06/european-ai-flag-bearer-mistrals-new-open-weights-model-is-le-chonk/5301443",
-    "summary": "Oh lawd it is coming ... to Hugging Face later this month",
-    "isoDate": "2026-10-06T18:03:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5301448&width=800",
-    "pinned": false
-  },
-  {
     "id": "9c9157a88156bff289441ddd8333bcf0e7687ede",
     "title": "Tesla Introduces Powershare Home Backup for Model 3 and Y",
     "link": "https://www.notateslaapp.com/news/4775/tesla-introduces-powershare-home-backup-for-model-3-and-y",
@@ -1282,36 +1312,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/energy/powershare-model-y.webp/03c40294031246d25b1f42f6f629a3d0/powershare-model-y.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6952c5cbde821b6c33f6507442619b95cc43b60f",
-    "title": "Trump Mobile customers' data dumped - and some never even received their gold device",
-    "link": "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433",
-    "summary": "All that glitters …",
-    "isoDate": "2026-10-06T17:32:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5301440&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8877a5b6d638582b6ba84980ed0171f19750244d",
-    "title": "Wikimedia Foundation comes forward as latest OpenAI agent assault victim",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400",
-    "summary": "Millions of automated requests may have contributed to partial Wikidata outage in May",
-    "isoDate": "2026-10-06T16:04:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=231294&width=800",
     "pinned": false
   },
   {
@@ -1594,19 +1594,6 @@
       "Race Science"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "22a6f5aaea87ada56395a1ba470d24cc1f79e59c",
-    "title": "Tesla Teases Spooky Halloween Mode, Coming Soon",
-    "link": "https://www.notateslaapp.com/news/4758/tesla-teases-spooky-halloween-mode-coming-soon",
-    "summary": "Tesla posted a short teaser clip on X with the caption “Halloween is coming,” previewing a spooky transformation coming to the center touchscreen <a href=\"https://www.notateslaapp.com/news/4758/tesla-teases-spooky-halloween-mode-coming-soon\">Read More</a>",
-    "isoDate": "2026-10-02T01:23:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-halloween-2026-2.webp/2e0a4eb468104510ce493517df283108/tesla-halloween-2026-2.jpg",
     "pinned": false
   }
 ]
