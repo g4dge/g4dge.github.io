@@ -1,5 +1,84 @@
 [
   {
+    "id": "8701263ea07bd092ac144f2465d4750dcf1828c7",
+    "title": "One with the world? A new look at brains transformed by psychedelics.",
+    "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+    "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+    "isoDate": "2026-10-10T11:15:35Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "brain",
+      "Neuroscience",
+      "psilocybin",
+      "psychedelics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3d15435ffe4d6ead3d90cfd83a5c98dc1208912d",
+    "title": "Two characters open up a world of typosquatting opportunities in Chromium browsers",
+    "link": "https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383",
+    "summary": "Attackers abusing rare Cyrillic and Latin letters to impersonate popular websites",
+    "isoDate": "2026-10-10T10:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=262149&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8efa2a761798d7fa76c8320e701bdbb2252a8c9f",
+    "title": "EC users should be afraid of a US kill switch - not some new software",
+    "link": "https://www.theregister.com/columnists/2026/10/10/ec-users-should-be-afraid-of-a-us-kill-switch-not-some-new-software/5301875",
+    "summary": "EU executive branch is building a sovereign backup with\nElement, not replacing Teams. Not yet anyway",
+    "isoDate": "2026-10-10T09:05:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "columnists"
+    ],
+    "image": "https://image.theregister.com/?imageId=254434&width=800",
+    "pinned": false
+  },
+  {
+    "id": "04e9bbb6a9ef5b5b471f644fc9014288e2582802",
+    "title": "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
+    "link": "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662",
+    "summary": "Source attribution matters to 79% of respondents – handy for a company licensing its Q&amp;A archive to model builders",
+    "isoDate": "2026-10-10T08:14:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5238106&width=800",
+    "pinned": false
+  },
+  {
+    "id": "db2785e2c5ee7071d2a76ee78d21f88a91d93c09",
+    "title": "Microsoft leans on open weight model from Chinese AI lab to challenge Jev",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473",
+    "summary": "The first version of Microsoft-Decision-1 is based on Qwen3.5-9B, but the next will sport homegrown tech, Redmond reassures",
+    "isoDate": "2026-10-10T07:10:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5302477&width=800",
+    "pinned": false
+  },
+  {
     "id": "c16ef37659298f7ae8a7654198884d063800e700",
     "title": "Neanderthal wooden tools from Spain found preserved in stone",
     "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
@@ -713,27 +792,6 @@
     "pinned": false
   },
   {
-    "id": "2685ba6348fe63fd1aa8c5028c85ea121a16fb42",
-    "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-    "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
-    "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
-    "isoDate": "2026-10-08T19:57:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nick Indge",
-    "tags": [
-      "Security",
-      "Tech",
-      "HTTPS",
-      "let's encrypt",
-      "secure sockets layer",
-      "ssl",
-      "tls transport layer security"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-security-privacy-500x500-1736892656.jpg",
-    "pinned": false
-  },
-  {
     "id": "944c9102f01b07067e38b1fff326f33937322f83",
     "title": "Tesla Gets Extension to Respond to NHTSA's Cybercab Probe",
     "link": "https://www.notateslaapp.com/news/4793/tesla-gets-extension-to-respond-to-nhtsas-cybercab-probe",
@@ -1168,21 +1226,6 @@
     "pinned": false
   },
   {
-    "id": "a7b23d0eaaaf67995109cb2f592dd4d58c8c2119",
-    "title": "Argonne scientists create chatty X-ray microscope that zooms in where you tell it to",
-    "link": "https://www.theregister.com/science/2026/10/07/argonne-scientists-create-chatty-x-ray-microscope-that-zooms-in-where-you-tell-it-to/5301737",
-    "summary": "Talking to an X-ray nanoprobe beamline is far better than talking to a toaster, we assume",
-    "isoDate": "2026-10-07T20:23:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5301743&width=800",
-    "pinned": false
-  },
-  {
     "id": "1f0c507479c1585923b960642a07d3e6f9457c63",
     "title": "Tesla's Halloween Mode: Photos & Videos of Every Feature",
     "link": "https://www.notateslaapp.com/news/4780/everything-in-teslas-halloween-mode-photos-videos",
@@ -1193,51 +1236,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-halloween-mode-screen-2.webp/7d6777ee2b91d96d7ec6b5a2c25a299b/tesla-halloween-mode-screen-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f26ebd939369b3a33ed4b7c5cc684109a355c5cf",
-    "title": "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra",
-    "link": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722",
-    "summary": "Poverty-spec model starts at $2,599 with 24 GB of RAM and 512GB of storage with 128 GB models topping $5,899",
-    "isoDate": "2026-10-07T19:57:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5301731&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9bfc9003474a64139e93e52be65e1c2a2089d3a2",
-    "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
-    "link": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718",
-    "summary": "Trusted brand impersonation without the usual browser certificate warnings spells trouble",
-    "isoDate": "2026-10-07T19:38:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=255227&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d61722d6d6fcc66e46c1e9d99ec2b1e750966064",
-    "title": "Browser-in-browser attacks use fake Meta Muse Ad lure to steal credentials",
-    "link": "https://www.theregister.com/research/2026/10/07/browser-in-browser-attacks-use-fake-meta-muse-ad-lure-to-steal-credentials/5301505",
-    "summary": "Wiley fisherfolk spin up a new page just days after Meta's AI agent launch",
-    "isoDate": "2026-10-07T19:33:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "research"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298941&width=800",
     "pinned": false
   },
   {
