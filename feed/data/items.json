@@ -1,5 +1,118 @@
 [
   {
+    "id": "de63a5b31e17e0ee9dbef15df1c0d5bc0d3f60c9",
+    "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+    "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+    "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+    "isoDate": "2026-10-13T22:48:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "Pharmaceutical industry",
+      "Shkreli"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fc8c1b0a963db1aa91587d5df139f4dc8c8fb82b",
+    "title": "Anthropic reinvents source control as Claude floods the world with code",
+    "link": "https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943",
+    "summary": "When continuous integration gits you down, there's always an AI-tuned monorepo",
+    "isoDate": "2026-10-13T22:37:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5302950&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0d95cb46b728ae9ccb47222cc476ce50fff8c993",
+    "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+    "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+    "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+    "isoDate": "2026-10-13T21:55:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "anbernic",
+      "emulation",
+      "ESA",
+      "handheld",
+      "ROMs"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a61134e8630a6937ec15d9c1c5de7935c9359420",
+    "title": "Topgolf saved over $11.3 million after leaving VMware",
+    "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+    "summary": "Topgolf and VMware \"ran deep\" before the migration.",
+    "isoDate": "2026-10-13T21:33:43Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Biz & IT",
+      "Broadcom",
+      "topgolf",
+      "vmware"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "5ee3e59b3469639cd9daab1666e3e386ded16052",
+    "title": "Tesla Blocks Rear Screen Browser Workaround for Unsupported Streaming Apps",
+    "link": "https://www.notateslaapp.com/news/4821/tesla-blocks-rear-screen-browser-workaround-for-unsupported-streaming-apps",
+    "summary": "The YouTube workaround for streaming apps like HBO Max and Prime Video on your Tesla's rear screen no longer works — here’s why it may be gone <a href=\"https://www.notateslaapp.com/news/4821/tesla-blocks-rear-screen-browser-workaround-for-unsupported-streaming-apps\">Read More</a>",
+    "isoDate": "2026-10-13T21:13:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/rear-screen-video-2.webp/727dc276592a16948b00cd56f8364000/rear-screen-video-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c13bbb2a40e77630cab400ac4e749e6cfc01a2f5",
+    "title": "CISA director touts private partnerships after agency killed many",
+    "link": "https://www.theregister.com/public-sector/2026/10/13/cisa-director-touts-private-partnerships-after-agency-killed-many/5302920",
+    "summary": "Nick Andersen wants to work with private industry on security, but the Trump admin has taken an axe to such efforts.",
+    "isoDate": "2026-10-13T20:57:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=240641&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1104dfbad11064ef4c51d42e150ed2d89466738a",
+    "title": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
+    "summary": "Geordie's tests recorded 155 activity traces and multiple subagents after dot was given read-only permissions",
+    "isoDate": "2026-10-13T20:20:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5302917&width=800",
+    "pinned": false
+  },
+  {
     "id": "278b715863cc9c1ab9a0634d7a08cfc4bff0bfb4",
     "title": "Tesla Offers Free Supercharging for Hurricane Isaias Relief",
     "link": "https://www.notateslaapp.com/news/4820/tesla-offers-free-supercharging-for-hurricane-isaias-relief",
@@ -806,26 +919,6 @@
     "pinned": false
   },
   {
-    "id": "57c9de67bce45bf0a9ebc9b59528aea5a35783cc",
-    "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-    "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-    "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
-    "isoDate": "2026-10-12T13:00:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "fitbit",
-      "Fitbit Edge",
-      "google",
-      "wearables"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "5484727323ec9c9454feddb30eeb7eec517e4a09",
     "title": "UCLA settles Oracle ERP dispute with $3.1M in credits and $1.31M wiped off the bill",
     "link": "https://www.theregister.com/saas/2026/10/12/ucla-settles-oracle-erp-dispute-with-31m-in-credits-and-131m-wiped-off-the-bill/5302520",
@@ -838,26 +931,6 @@
       "saas"
     ],
     "image": "https://image.theregister.com/?imageId=5302592&width=800",
-    "pinned": false
-  },
-  {
-    "id": "5dfaa1d43f85e664a4b916f6458d18013ceea499",
-    "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-    "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-    "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-    "isoDate": "2026-10-12T12:43:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Features",
-      "Tech",
-      "Amazon",
-      "Robotics",
-      "robots"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-500x500.jpg",
     "pinned": false
   },
   {
@@ -1020,28 +1093,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=5301551&width=800",
-    "pinned": false
-  },
-  {
-    "id": "eb8e79306fa98ac13969778b3732e8745cbbe6a0",
-    "title": "Review: 4-hour Musk documentary feels like two different films",
-    "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-    "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
-    "isoDate": "2026-10-11T18:10:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Tech",
-      "Alex Gibney",
-      "Bleecker Street",
-      "Elon Musk",
-      "entertainment",
-      "Musk documentary",
-      "reviews"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-500x500.jpg",
     "pinned": false
   },
   {
@@ -1359,21 +1410,6 @@
     "pinned": false
   },
   {
-    "id": "33924d46bb14454feacfd40886dd0bc5e5c9666e",
-    "title": "Anthropic asks users to stop being mean to Claude",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-    "summary": "New usage policy cracks down on cruelty to chatbot, alongside slightly more pressing matters of weapons development, surveillance, and election interference",
-    "isoDate": "2026-10-09T10:42:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297782&width=800",
-    "pinned": false
-  },
-  {
     "id": "a300ebbb8193ec4f4b71d4349af34f754426f21a",
     "title": "The Skeptic Podcast – Episode 085",
     "link": "https://www.skeptic.org.uk/2026/10/the-skeptic-podcast-episode-085/",
@@ -1399,21 +1435,6 @@
     "author": "Or Rosenboim",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "b3cd49d8e21428360b77c413fc39c0ad39235f0f",
-    "title": "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
-    "link": "https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041",
-    "summary": "Vegalabs says $21,168 in unused Azure credits expired as separate Marketplace charges piled up",
-    "isoDate": "2026-10-09T09:46:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "paas and iaas"
-    ],
-    "image": "https://image.theregister.com/?imageId=228755&width=800",
     "pinned": false
   },
   {
