@@ -1,5 +1,20 @@
 [
   {
+    "id": "89110ccaa47451dffc0bf498311be088262f7ace",
+    "title": "Open-weight models win hearts, minds, and wallets",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/17/open-weight-models-win-hearts-minds-and-wallets/5303704",
+    "summary": "They handle 71.5% of Vercel gateway tokens and nearly a quarter of estimated spending",
+    "isoDate": "2026-10-16T23:07:04Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5303708&width=800",
+    "pinned": false
+  },
+  {
     "id": "2ab2687ae92b295341385cc3781b02d9e49056c7",
     "title": "Watch Tesla FSD Clear a Path for an Ambulance at a Red Light [VIDEO]",
     "link": "https://www.notateslaapp.com/news/4841/watch-tesla-fsd-clear-a-path-for-an-ambulance-at-a-red-light-video",
@@ -47,6 +62,21 @@
     "pinned": false
   },
   {
+    "id": "6e4d729b446c15e9ba8a76568cb198a0dd3d495f",
+    "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
+    "link": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621",
+    "summary": "El Reg digs its claws into HP's N1X-powered OmniBook Ultra 16",
+    "isoDate": "2026-10-16T20:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5303643&width=800",
+    "pinned": false
+  },
+  {
     "id": "5a8a8cf37871920c154ba756880a5d5b37a1ae71",
     "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
     "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
@@ -64,6 +94,36 @@
       "law enforcement"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f7fd3a190c95d3710797228dc3af6b10f938327c",
+    "title": "Node.js creator ditches Deno to work on open source Cloudflare Workers",
+    "link": "https://www.theregister.com/devops/2026/10/16/nodejs-creator-ditches-deno-to-work-on-open-source-cloudflare-workers/5303662",
+    "summary": "You're building servers 'wrong,' says Ryan Dahl as Cloudflare gobbles his Deno startup",
+    "isoDate": "2026-10-16T20:20:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5303681&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c42f8f758c6d5c8251e450bc89e3197029391e12",
+    "title": "Meta grants itself right to scrape content from business customers for model training",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658",
+    "summary": "The future is private, the present is plunder",
+    "isoDate": "2026-10-16T20:00:42Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5303666&width=800",
     "pinned": false
   },
   {
@@ -1302,66 +1362,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=5296381&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4004d72c6a96aa4df515104503a6c3a57d9abf5d",
-    "title": "Tiny11 puts Windows 11 on a diet without the PowerShell workout",
-    "link": "https://www.theregister.com/os-platforms/2026/10/14/tiny11-puts-windows-11-on-a-diet-without-the-powershell-workout/5303034",
-    "summary": "New desktop app simplifies stripping out bundled software, with heavier cuts carrying security and support risks",
-    "isoDate": "2026-10-14T14:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=256812&width=800",
-    "pinned": false
-  },
-  {
-    "id": "398ea5a10cba137bcc65256cef8dd724809f4b13",
-    "title": "Cisco, Nvidia team up to build fatter, faster pluggable",
-    "link": "https://www.theregister.com/networks/2026/10/14/cisco-nvidia-team-up-to-build-fatter-faster-pluggable/5302970",
-    "summary": "If you thought 1.6 Tbps was fast, just wait, Cisco's USFP targets 12.8 Tbps in a single optical pluggable",
-    "isoDate": "2026-10-14T13:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5263102&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6af772f4f17c430a0949604f618b51185279b9ee",
-    "title": "US tech giants warn Europe that ditching US tech giants could cost €115B",
-    "link": "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
-    "summary": "Amazon, Google, Meta among members of lobby group funding dire warnings over cloud sovereignty plans",
-    "isoDate": "2026-10-14T12:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "paas and iaas"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240668&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2018082dcafd9d54b04729187c40a8beb0efb944",
-    "title": "Python 3.15 goes global with UTF-8 support",
-    "link": "https://www.theregister.com/devops/2026/10/14/python-315-goes-global-with-utf-8-support/5302966",
-    "summary": "Decades of cross-platform character corruption finally comes to an end for Windows coders",
-    "isoDate": "2026-10-14T12:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=1683378&width=800",
     "pinned": false
   },
   {
