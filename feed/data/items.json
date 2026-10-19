@@ -1,5 +1,65 @@
 [
   {
+    "id": "ca8fc85089a18b27135b20ae3bc699786e6f7122",
+    "title": "Engineer was so sick of office pranks, he 'wiped' his antagonist's disk",
+    "link": "https://www.theregister.com/software/2026/10/19/engineer-was-so-sick-of-office-pranks-he-wiped-his-antagonists-disk/5302162",
+    "summary": "Revenge is a dish best served by autoexec.bat",
+    "isoDate": "2026-10-19T05:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5302167&width=800",
+    "pinned": false
+  },
+  {
+    "id": "746693f60fe62165b001e08b885b0c880fa90e69",
+    "title": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
+    "link": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
+    "summary": "Huntress alleges takeover of M365 accounts",
+    "isoDate": "2026-10-19T04:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=262396&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6cdb13992a0f10468d0e470a29edeadc7abf7276",
+    "title": "ICANN vows to work faster, improve transparency",
+    "link": "https://www.theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751",
+    "summary": "Leaders expect AI and geopolitics will throw up more governance challenges and threats",
+    "isoDate": "2026-10-19T03:28:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=252831&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fb0d1859261d6b6fc066c70fdb09e5b6940579fb",
+    "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+    "link": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+    "summary": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
+    "isoDate": "2026-10-19T00:33:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=5265166&width=800",
+    "pinned": false
+  },
+  {
     "id": "65637d5bf982e01261a10ee1a4d42ae613d0937e",
     "title": "Time Lords kill leap seconds, before they become the new Y2K bug",
     "link": "https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711",
@@ -1387,21 +1447,6 @@
     "pinned": false
   },
   {
-    "id": "f27922db894b417042e37b9317a8d9439b3d0075",
-    "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims",
-    "link": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168",
-    "summary": "Both Switchzilla and CISA sound the alarm",
-    "isoDate": "2026-10-14T21:40:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094206&width=800",
-    "pinned": false
-  },
-  {
     "id": "df74b4e9ed1b4ef5d463046fb5d88f56aa554a6c",
     "title": "Tesla Tinkerers Get CarPlay and AirPlay Running Natively [VIDEOS]",
     "link": "https://www.notateslaapp.com/news/4825/tesla-tinkerers-get-carplay-and-airplay-running-natively-videos",
@@ -1415,36 +1460,6 @@
     "pinned": false
   },
   {
-    "id": "47f8bddc708b1541d544db09da14556562ce12db",
-    "title": "Chaos ensues when AI interviewer meets AI interviewee",
-    "link": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
-    "summary": "Things got weird, but there's a lesson to be learned: Don't trust a bot to negotiate for you",
-    "isoDate": "2026-10-14T20:53:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303153&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8981417c2e936b730f6350b0863fa18061552383",
-    "title": "Linux kernel devs drop obligatory confession of AI tool usage",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
-    "summary": "Torvalds says contributors must understand their code, whatever tools they use",
-    "isoDate": "2026-10-14T20:16:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=2918386&width=800",
-    "pinned": false
-  },
-  {
     "id": "478f003a44937c8c0ec661a6630871cfa8b6d1c2",
     "title": "DeLorean Commends Tesla, Teases Upcoming EV",
     "link": "https://www.notateslaapp.com/news/4822/delorean-commends-tesla-teases-upcoming-ev",
@@ -1455,21 +1470,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/delorean-airspeeder.webp/eeb588d0ee73828c6cbd9292e3ee5c3f/delorean-airspeeder.jpg",
-    "pinned": false
-  },
-  {
-    "id": "24b402916fcefe4051f1c975aeca6c83bf137d82",
-    "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
-    "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
-    "summary": "Xbow earned a $250K bug bounty and all the AI model got was a lousy t-shirt",
-    "isoDate": "2026-10-14T19:12:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5299685&width=800",
     "pinned": false
   },
   {
