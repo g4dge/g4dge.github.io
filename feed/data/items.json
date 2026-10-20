@@ -1,5 +1,35 @@
 [
   {
+    "id": "e8fbdc64a73dc40ed02a15d78bdcdbb8a67ac14e",
+    "title": "ICANN testing tech to let law enforcement access non-public WHOIS info",
+    "link": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036",
+    "summary": "Single sign-on to help address imminent threats to life, critical infrastructure, or kids",
+    "isoDate": "2026-10-20T02:11:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304041&width=800",
+    "pinned": false
+  },
+  {
+    "id": "38fb0e145f85e5df56b4e20681f746ddd031bda6",
+    "title": "DeepSeek deep-sixed at all US federal civilian agencies",
+    "link": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
+    "summary": "Order disallowing use of Chinese AI service is unhelpfully vague and broad",
+    "isoDate": "2026-10-20T00:11:10Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304014&width=800",
+    "pinned": false
+  },
+  {
     "id": "bc26a53f6a05e12456e020f380f30ab897c83b40",
     "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
     "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
@@ -1429,36 +1459,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2023/roadster-3.jpg/4a934fa4ed502f02257d9369ef7aaec5/roadster-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "e5f47ba5314f2b2798140bb7f6ca8d129bd1e469",
-    "title": "YouTuber built 30-frame-per-second grayscale Game Boy, then open sourced it for all e-paper displays",
-    "link": "https://www.theregister.com/offbeat/2026/10/15/youtuber-built-30-frame-per-second-grayscale-game-boy-then-open-sourced-it-for-all-e-paper-displays/5303394",
-    "summary": "Not afraid of custom waveforms frying your e-paper? Download it from GitHub and give it a shot on your stock screen today",
-    "isoDate": "2026-10-15T17:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=245728&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a8a61e41406e854c37fcadbb407fe9907692e7b7",
-    "title": "Smartphone shipments plummet as memory crisis pumps up prices",
-    "link": "https://www.theregister.com/personal-tech/2026/10/15/smartphone-shipments-plummet-as-memory-crisis-pumps-up-prices/5303364",
-    "summary": "AI's appetite for components hammers budget handsets, with analysts seeing little relief before 2028",
-    "isoDate": "2026-10-15T16:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=257561&width=800",
     "pinned": false
   },
   {
