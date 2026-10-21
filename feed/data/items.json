@@ -1,5 +1,55 @@
 [
   {
+    "id": "f1d37bce71aed842fe945f8487c131414385876f",
+    "title": "Nervous ISPs replace Chrome as strange consumers of DNS resources",
+    "link": "https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344",
+    "summary": "Some network operators like to wear belts <span class=\"italic m-italic\">and</span> suspenders to keep their services up",
+    "isoDate": "2026-10-21T03:16:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=261129&width=800",
+    "pinned": false
+  },
+  {
+    "id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "isoDate": "2026-10-21T02:12:18Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "exploits",
+      "patches",
+      "php",
+      "vulnerabilities"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "5a3c7b1661d3653e0d7368706c6fc25b6867bce2",
+    "title": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
+    "link": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
+    "summary": "Massive clean-up job under way because this mess makes it possible to impersonate any website or service",
+    "isoDate": "2026-10-20T22:57:44Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304329&width=800",
+    "pinned": false
+  },
+  {
     "id": "ed05f4b9715a73ac9ed1c3401cf16ab765ebc579",
     "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
     "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
@@ -18,6 +68,21 @@
       "Tesla"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f10b70c93d5ae817dd89fc69017979d504ae400a",
+    "title": "Auto tech startup claims it traced hack attempt back to rival's IP address",
+    "link": "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
+    "summary": "IQ.Lvbs implies that rival Comma.ai isn't playing fair",
+    "isoDate": "2026-10-20T22:00:46Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304292&width=800",
     "pinned": false
   },
   {
@@ -812,28 +877,6 @@
     "pinned": false
   },
   {
-    "id": "71a28de11a06820bbe9bf477222d7e798bd76726",
-    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-    "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-    "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-    "isoDate": "2026-10-19T20:21:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "Artificial Intelligence",
-      "espionage",
-      "frontier ai",
-      "national security",
-      "openai",
-      "Saudi Arabia"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "09763441a66e65ddc20f8288c9af0bdfa9daa727",
     "title": "Maxwell gives sub-optimal code a runtime glow-up",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/19/maxwell-gives-sub-optimal-code-a-runtime-glow-up/5303961",
@@ -1369,21 +1412,6 @@
     "pinned": false
   },
   {
-    "id": "89110ccaa47451dffc0bf498311be088262f7ace",
-    "title": "Open-weight models win hearts, minds, and wallets",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/17/open-weight-models-win-hearts-minds-and-wallets/5303704",
-    "summary": "They handle 71.5% of Vercel gateway tokens and nearly a quarter of estimated spending",
-    "isoDate": "2026-10-16T23:07:04Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303708&width=800",
-    "pinned": false
-  },
-  {
     "id": "2ab2687ae92b295341385cc3781b02d9e49056c7",
     "title": "Watch Tesla FSD Clear a Path for an Ambulance at a Red Light [VIDEO]",
     "link": "https://www.notateslaapp.com/news/4841/watch-tesla-fsd-clear-a-path-for-an-ambulance-at-a-red-light-video",
@@ -1407,36 +1435,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster_95.webp/2043aa79a4185c58aa798773896f4126/roadster_95.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6e4d729b446c15e9ba8a76568cb198a0dd3d495f",
-    "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
-    "link": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621",
-    "summary": "El Reg digs its claws into HP's N1X-powered OmniBook Ultra 16",
-    "isoDate": "2026-10-16T20:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303643&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f7fd3a190c95d3710797228dc3af6b10f938327c",
-    "title": "Node.js creator ditches Deno to work on open source Cloudflare Workers",
-    "link": "https://www.theregister.com/devops/2026/10/16/nodejs-creator-ditches-deno-to-work-on-open-source-cloudflare-workers/5303662",
-    "summary": "You're building servers 'wrong,' says Ryan Dahl as Cloudflare gobbles his Deno startup",
-    "isoDate": "2026-10-16T20:20:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joab Jackson",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303681&width=800",
     "pinned": false
   },
   {
