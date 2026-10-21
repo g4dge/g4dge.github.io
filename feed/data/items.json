@@ -1,5 +1,197 @@
 [
   {
+    "id": "ed453db3f24caab797435e07afd36898e6106b70",
+    "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
+    "link": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
+    "summary": "Plus a RAT for good measure - get threat hunting now",
+    "isoDate": "2026-10-21T18:22:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=244835&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5cbd98ec79a60fdf478a03a1993a9a105e9cdc19",
+    "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+    "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+    "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+    "isoDate": "2026-10-21T18:20:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "clean air act",
+      "colossus data center",
+      "data center protests",
+      "Donald Trump",
+      "Elon Musk",
+      "Environmental Protection Agency",
+      "EPA",
+      "pollution",
+      "SpaceXAI",
+      "xAI"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a8fc29d639f4d84f370a6960cc86175ca639a41c",
+    "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
+    "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
+    "summary": "OS operators throwing out that data is \"unlikely,\" research author tells Ars.",
+    "isoDate": "2026-10-21T18:00:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "ads",
+      "privacy",
+      "Samsung",
+      "smart home",
+      "TVs",
+      "Vizio",
+      "walmart"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2226225055-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7a25cd10a5b8b5966dcefa626ff75f9f4c913e23",
+    "title": "Tesla Launches iPad and iPhone Duo App",
+    "link": "https://www.notateslaapp.com/news/4859/tesla-launches-new-app-for-ipad-and-iphone-duo",
+    "summary": "The Tesla app now has a dedicated big-screen layout with a car-style visualization, Show PSI button, side-by-side menus for tablets and foldables, and more <a href=\"https://www.notateslaapp.com/news/4859/tesla-launches-new-app-for-ipad-and-iphone-duo\">Read More</a>",
+    "isoDate": "2026-10-21T17:59:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-for-tablets-and-foldables-2.webp/989e526b38223149243dc82b47d820e7/tesla-app-for-tablets-and-foldables-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "56f6a3a03ef10ffd7d0668835c5f6db2467f72bc",
+    "title": "AI will eat a fifth of tech budgets in 2027, but don't expect it to pay for itself",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-will-eat-a-fifth-of-tech-budgets-in-2027-but-dont-expect-it-to-pay-for-itself/5304466",
+    "summary": "Forrester says only isolated wins are likely, while 'good enough' open-weight models soak up the tokens",
+    "isoDate": "2026-10-21T17:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240076&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3cd0deedd7470fa8bedc4f27234d127edd1a1173",
+    "title": "Signal bug could keep your mic - and camera - on after hangup",
+    "link": "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
+    "summary": "Careful what you say after goodbye, or better yet, update your messaging app",
+    "isoDate": "2026-10-21T17:00:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304543&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c265b4d39c82f31e84f5213fadd11ff3db57d366",
+    "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+    "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+    "summary": "\"We have had significant constructive engagement with the FAA.\"",
+    "isoDate": "2026-10-21T16:46:19Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "space",
+      "spacex",
+      "starlink",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "31bfb8dec10a8c92c7fd5d0d759eca082cc77e57",
+    "title": "OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine",
+    "link": "https://www.theregister.com/os-platforms/2026/10/21/openbsd-80-beefs-up-virtual-machines-and-gets-a-taste-of-wine/5304430",
+    "summary": "Proposed port brings 64-bit Windows apps within reach",
+    "isoDate": "2026-10-21T15:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=246374&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2f67d3a79def457fb31d21cc8146eb457f9dff8b",
+    "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+    "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+    "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+    "isoDate": "2026-10-21T15:14:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Rafe Rosner-Uddin, Financial Times",
+    "tags": [
+      "AI",
+      "Health",
+      "AI and health care",
+      "AI health",
+      "health care",
+      "healthcare",
+      "OpenEvidence",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e65691ba63a784d625d8c39f16a97bd7d3e92f25",
+    "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
+    "link": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
+    "summary": "Websites down as precaution as exploits have already been published",
+    "isoDate": "2026-10-21T15:08:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=263315&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3d7ad7a9f222fde896028494db639ae2386565f0",
+    "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
+    "summary": "Containerized datacenters, androids, and telecoms all feature in Berlin keynote interrupted by environmental protesters",
+    "isoDate": "2026-10-21T15:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304476&width=800",
+    "pinned": false
+  },
+  {
     "id": "a34fb4b9436284adfa35e81bad52d83b1748dc4a",
     "title": "OneDrive gives Macs a million things to keep in sync",
     "link": "https://www.theregister.com/saas/2026/10/21/onedrive-gives-macs-a-million-things-to-keep-in-sync/5304442",
@@ -78,7 +270,7 @@
     "id": "25ea45fa0784296b43d9092a86ca51a115ef4668",
     "title": "Review: Carrie is a triumphant remix with one major flaw",
     "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
-    "summary": "Mike Flanagan defies the odds with a re-imagining of Stephen King's classic that is well worth watching.",
+    "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
     "isoDate": "2026-10-21T11:19:12Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -650,22 +842,6 @@
     "pinned": false
   },
   {
-    "id": "3f48fe49da2fc398ab3721c06febb228271022e8",
-    "title": "Polestar tries to quantify what it’s like to drive a performance car",
-    "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
-    "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
-    "isoDate": "2026-10-20T14:53:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Polestar"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2ef0440dca1b65e8c3ec2e10a4600ce0453196de",
     "title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
     "link": "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
@@ -739,26 +915,6 @@
     "pinned": false
   },
   {
-    "id": "fb9936745ef93e7f82c7a68edb20df053b24cb20",
-    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-    "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-    "isoDate": "2026-10-20T12:33:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "meta",
-      "muse",
-      "privacy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "f7168b88b82dd9e86038745c9c229e8997828e53",
     "title": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
     "link": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
@@ -786,27 +942,6 @@
       "os platforms"
     ],
     "image": "https://image.theregister.com/?imageId=5304073&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c690855c32f0a682a98c7faaad1ae57b1fd963ce",
-    "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-    "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-    "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
-    "isoDate": "2026-10-20T11:00:16Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Bangeman",
-    "tags": [
-      "Cars",
-      "Features",
-      "battery electric car",
-      "battery electric truck",
-      "slate",
-      "Slate Auto",
-      "Slate Truck"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/slate-visit-chicago-intro-500x500.jpg",
     "pinned": false
   },
   {
@@ -868,6 +1003,21 @@
     "pinned": false
   },
   {
+    "id": "80d8d68402c66b79010d5638e9c0222993c4b950",
+    "title": "From the archives: Write your own pseudoscience – a new angle on the prophecies of Nostradamus",
+    "link": "https://www.skeptic.org.uk/2026/10/from-the-archives-write-your-own-pseudoscience-a-new-angle-on-the-prophecies-of-nostradamus/",
+    "summary": "<p>From the archives in 1993, Bob Basalla tries his hand at writing his own pseudoscientific tome, on chess history, with Nostradamus as a guide.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/10/from-the-archives-write-your-own-pseudoscience-a-new-angle-on-the-prophecies-of-nostradamus/\">From the archives: Write your own pseudoscience – a new angle on the prophecies of Nostradamus </a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-10-20T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Bob Basalla",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
     "id": "b3792088925adb5d380972c12b220812a9d377ca",
     "title": "London’s mobile networks fall to bottom of Europe’s capital league",
     "link": "https://www.theregister.com/networks/2026/10/20/londons-mobile-networks-fall-to-bottom-of-europes-capital-league/5303800",
@@ -908,33 +1058,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/halloween-mode.png/3cedbc726c03ff2dc630ce76a946cb5a/halloween-mode.jpg",
-    "pinned": false
-  },
-  {
-    "id": "582e7d53b6bab2de945311620007f93252459812",
-    "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-    "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-    "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-    "isoDate": "2026-10-20T05:59:56Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "h3 rocket",
-      "Japan",
-      "JAXA",
-      "Mars",
-      "martian moons exploration",
-      "mmx",
-      "NASA",
-      "Phobos",
-      "planetary science",
-      "solar system",
-      "tanegashima space center"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-500x500.jpg",
     "pinned": false
   },
   {
@@ -1187,66 +1310,6 @@
     "pinned": false
   },
   {
-    "id": "14c2e482de07365236bf770c172463ece5617613",
-    "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
-    "link": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
-    "summary": "Tech giant walks away from flagship Essex project as power connection delays threaten to leave nation's AI ambitions waiting until the 2030s",
-    "isoDate": "2026-10-19T12:15:48Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=240959&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f0e4e7a1fb1cfa791f1abbb28c9b50715f835018",
-    "title": "Broadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router",
-    "link": "https://www.theregister.com/networks/2026/10/19/broadcom-wi-fi-bug-turns-sweet-16-still-lets-strangers-hijack-your-router/5303771",
-    "summary": "Chip giant knew about the flaw in 2018, researcher claims, but millions of devices may still be vulnerable",
-    "isoDate": "2026-10-19T11:28:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303787&width=800",
-    "pinned": false
-  },
-  {
-    "id": "845377eca3f65d86d774465a4bc1e53dc743a533",
-    "title": "In space, 'We've gone from exploration to exploitation,' says original Voyager team member",
-    "link": "https://www.theregister.com/offbeat/2026/10/19/in-space-weve-gone-from-exploration-to-exploitation-says-original-voyager-team-member/5303632",
-    "summary": "Voyager imaging team member Dr. Garry Hunt joins The Reg's Kettle podcast to talk about his role in the mission as probe approaches one light day's distance from Earth",
-    "isoDate": "2026-10-19T11:03:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=249462&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b65ccab3c42ad51c6c944cbea8798a0c40e444bf",
-    "title": "Museum exhibit reveals the intricate workings of a knackered Dell",
-    "link": "https://www.theregister.com/offbeat/2026/10/19/museum-exhibit-reveals-the-intricate-workings-of-a-knackered-dell/5303250",
-    "summary": "When it should have been weaving tales of the Jacquard loom",
-    "isoDate": "2026-10-19T10:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303256&width=800",
-    "pinned": false
-  },
-  {
     "id": "8a49bf1ddfebe252f8476b7cf3ecabc5e6ad664c",
     "title": "A vocabulary for the future: nature",
     "link": "https://aeon.co/videos/theres-nothing-inherently-good-in-the-natural-argues-bruno-latour",
@@ -1273,33 +1336,18 @@
     "pinned": false
   },
   {
-    "id": "96461634a7f8c5847ec8d205b589ac2c3e05030e",
-    "title": "Microsoft’s second-hand licensing appeal gets the brush-off",
-    "link": "https://www.theregister.com/legal/2026/10/19/microsofts-second-hand-licensing-appeal-gets-the-brush-off/5303718",
-    "summary": "Court of Appeal refuses Redmond permission to take ValueLicensing fight to the Supreme Court, with a 'Known Adverse Document' still to come",
-    "isoDate": "2026-10-19T09:15:00Z",
-    "source": "The Register",
+    "id": "49b78ae7a1bb22378638ecfee62df5a879d3a95e",
+    "title": "Biased about bias: as social creatures, we should try to understand where our biases come from",
+    "link": "https://www.skeptic.org.uk/2026/10/biased-about-bias-as-social-creatures-we-should-try-to-understand-where-our-biases-come-from/",
+    "summary": "<p>Guarding against bias is a fool's errand - instead of pretending we can ignore them, we should acknowledge biases, and put them into context.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/10/biased-about-bias-as-social-creatures-we-should-try-to-understand-where-our-biases-come-from/\">Biased about bias: as social creatures, we should try to understand where our biases come from</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-10-19T09:00:00Z",
+    "source": "The Skeptic",
     "category": "Tech",
-    "author": "Richard Speed",
+    "author": "Richard Glover",
     "tags": [
-      "legal"
+      "Psychology"
     ],
-    "image": "https://image.theregister.com/?imageId=5303768&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4dd1a1774cbb6f3faf77171ddbd4b8bde72a26fd",
-    "title": "AI’s epic cash call is matched only by its ability to strangle revenue streams",
-    "link": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493",
-    "summary": "The first technology created with a self-disrupt button... But why oh why didn't they call Claude clone Fauxtoshop?",
-    "isoDate": "2026-10-19T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Rupert Goodwins",
-    "tags": [
-      "columnists"
-    ],
-    "image": "https://image.theregister.com/?imageId=5270706&width=800",
+    "image": "",
     "pinned": false
   },
   {
@@ -1339,6 +1387,38 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster_old_vs_new_design-2.webp/10be2e9564e9b996e29471c5bee7a06d/roadster_old_vs_new_design-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "87f6eb8bd0d9c435eb5aa8550116e5e1ac643d26",
+    "title": "Consumer protection campaigner Martin Lewis wins 2026 Skeptical Activism Ockham award",
+    "link": "https://www.skeptic.org.uk/2026/10/consumer-protection-campaigner-martin-lewis-wins-2026-skeptical-activism-ockham-award/",
+    "summary": "<p>Martin Lewis, a consumer protection journalist who campaigns against finance scams, wins the 2026 Ockham Award for Skeptical Activism.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/10/consumer-protection-campaigner-martin-lewis-wins-2026-skeptical-activism-ockham-award/\">Consumer protection campaigner Martin Lewis wins 2026 Skeptical Activism Ockham award</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-10-17T19:59:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Michael Marshall",
+    "tags": [
+      "Featured",
+      "Skepticism"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "c96a837d91d3985223b88c1d0f53f33f849439c2",
+    "title": "Lord Toby Young and the Daily Sceptic win 2026 Rusty Razor award for worst pseudoscience of the year",
+    "link": "https://www.skeptic.org.uk/2026/10/lord-toby-young-and-the-daily-sceptic-win-2026-rusty-razor-award-for-worst-pseudoscience-of-the-year/",
+    "summary": "<p>Lord Toby Young and the Daily Sceptic, prolific promoters of climate change denial and antivax misinformation, win the 2026 Rusty Razor Award.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/10/lord-toby-young-and-the-daily-sceptic-win-2026-rusty-razor-award-for-worst-pseudoscience-of-the-year/\">Lord Toby Young and the Daily Sceptic win 2026 Rusty Razor award for worst pseudoscience of the year</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-10-17T19:58:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Michael Marshall",
+    "tags": [
+      "Featured",
+      "Skepticism"
+    ],
+    "image": "",
     "pinned": false
   },
   {
@@ -1417,6 +1497,36 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-approved-in-slovakia.webp/efa1105ecf1f542a24e1f190f0246b49/tesla-fsd-approved-in-slovakia.jpg",
+    "pinned": false
+  },
+  {
+    "id": "357f6973f01cd1e594b0de58dccdba76506eee02",
+    "title": "The Skeptic Podcast – Episode 086",
+    "link": "https://www.skeptic.org.uk/2026/10/the-skeptic-podcast-episode-086/",
+    "summary": "<p>Featuring articles from Carlos Orsi (March 2024), Danny Chambers and Robyn Lowe (March 2022), Edzard Ernst (July 2021), and Rachel Ooi (August 2024).</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/10/the-skeptic-podcast-episode-086/\">The Skeptic Podcast – Episode 086</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-10-16T10:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "The Skeptic Podcast",
+    "tags": [
+      "Podcast"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "3284d504929245effc14bc7a81a9deb0c2b7c536",
+    "title": "The Gorbals vampire: the monster with iron teeth, and the evidence with none",
+    "link": "https://www.skeptic.org.uk/2026/10/the-gorbals-vampire-the-monster-with-iron-teeth-and-the-evidence-with-none/",
+    "summary": "<p>In 1954 a Glasgow cemetery filled with children hunting a vampire. Within a week the whole country knew what had made them do it, and nobody had checked. </p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/10/the-gorbals-vampire-the-monster-with-iron-teeth-and-the-evidence-with-none/\">The Gorbals vampire: the monster with iron teeth, and the evidence with none</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-10-16T09:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Ankana Das",
+    "tags": [
+      "Paranormal"
+    ],
+    "image": "",
     "pinned": false
   },
   {
