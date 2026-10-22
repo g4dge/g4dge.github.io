@@ -1,5 +1,65 @@
 [
   {
+    "id": "659ed8527f5282facdae3a2c53aba302b43e513c",
+    "title": "Certification authority eMudhra defends its laughably weak private keys",
+    "link": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647",
+    "summary": "Says it passed audits and made just a minor mystery error",
+    "isoDate": "2026-10-22T06:38:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=188286&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0fe639e321946d77299e10ab029d6c81fb5bcc57",
+    "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+    "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+    "summary": "90 percent of the performance at ten percent of the price, in just two or three racks, is hard to beat",
+    "isoDate": "2026-10-22T04:26:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=4091853&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e96196a6b387b862297372f0bd60cb487de169b8",
+    "title": "Philippine government suspends top tech official for alleged misconduct",
+    "link": "https://www.theregister.com/public-sector/2026/10/22/philippine-government-suspends-top-tech-official-for-alleged-misconduct/5304633",
+    "summary": "Founder of offshore software development firm investigated for possibly giving his former outfit government contracts",
+    "isoDate": "2026-10-22T03:04:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=250045&width=800",
+    "pinned": false
+  },
+  {
+    "id": "471d09cc22330c918bea1d0456e7800e08d90e94",
+    "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
+    "summary": "Signs Samsung to build substrates, bolsters spend with other players",
+    "isoDate": "2026-10-22T00:54:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304630&width=800",
+    "pinned": false
+  },
+  {
     "id": "d8f28661293c445270dcffd4064d510ef8297f26",
     "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
     "link": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611",
@@ -1235,51 +1295,6 @@
     "pinned": false
   },
   {
-    "id": "09763441a66e65ddc20f8288c9af0bdfa9daa727",
-    "title": "Maxwell gives sub-optimal code a runtime glow-up",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/19/maxwell-gives-sub-optimal-code-a-runtime-glow-up/5303961",
-    "summary": "Finally, your hardware has its own agent",
-    "isoDate": "2026-10-19T19:57:49Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303967&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f06325b7751d2c55def1451ab72bd0713c92aa7e",
-    "title": "Security patches need patches now that attackers have AI",
-    "link": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
-    "summary": "Terra finds sharp rise in GitHub security fixes reported broken within 90 days",
-    "isoDate": "2026-10-19T18:23:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "patches"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303945&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8bb0674563b7b403e2b5689791c47488ae15b001",
-    "title": "Write bot-resistant code with KillSwitch, a programming language designed to confuse LLMs",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/19/write-bot-resistant-code-with-killswitch-a-programming-language-designed-to-confuse-llms/5303919",
-    "summary": "Lies, lots of adverbs, and prosaic stories don't make for very machine-readable code, it turns out",
-    "isoDate": "2026-10-19T17:10:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=226584&width=800",
-    "pinned": false
-  },
-  {
     "id": "231f83db1846714bd278102f45f72babb948c36e",
     "title": "What If Tesla's Parked Vehicle Screen Matched Your Real Surroundings?",
     "link": "https://www.notateslaapp.com/news/4852/what-if-teslas-parked-vehicle-screen-matched-your-surroundings",
@@ -1290,21 +1305,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/parked-vis-concept.webp/8f1062d3061ce2bddfe7688f3b18b569/parked-vis-concept.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0cadaca15fe7cca2a94c05001a4886af942205ea",
-    "title": "Europe’s cloud sovereignty rules could do more harm than good",
-    "link": "https://www.theregister.com/off-prem/2026/10/19/europes-cloud-sovereignty-rules-could-do-more-harm-than-good/5303890",
-    "summary": "Report warns that sovereignty is being used to favor selected national providers and could stifle pan-Europe clouds",
-    "isoDate": "2026-10-19T16:35:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5229675&width=800",
     "pinned": false
   },
   {
