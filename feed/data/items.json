@@ -1,9 +1,30 @@
 [
   {
+    "id": "47234b822080ed0734f54459ef78ec2bc2f1f293",
+    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+    "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+    "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+    "isoDate": "2026-10-22T22:25:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "exploit",
+      "hack",
+      "Nintendo",
+      "smilebasic",
+      "Switch",
+      "switch 2"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-500x500-1792704893.png",
+    "pinned": false
+  },
+  {
     "id": "9423c8063b2efc3039f5d71666656e3fb5fde909",
-    "title": "Personalized mRNA cancer vaccine cut melanoma death, recurrence by 42%",
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
     "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-    "summary": "Markers released top-line results today after previously reporting trial succeeded.",
+    "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
     "isoDate": "2026-10-22T22:12:19Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -55,6 +76,36 @@
     "pinned": false
   },
   {
+    "id": "f2b6d976076c898250381e1a8824bbd590e5d545",
+    "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
+    "link": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
+    "summary": "“Adversaries are clearly spending time (and tokens) on this bug,” researcher says.",
+    "isoDate": "2026-10-22T20:37:52Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304901&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c0f7c2e2712e0d72d82177822941e8370cd88ae2",
+    "title": "Human receives AI-designed virus for the first time",
+    "link": "https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874",
+    "summary": "Not to kill the human, of course – to kill the antibiotic-resistant bacteria causing their infection",
+    "isoDate": "2026-10-22T20:31:39Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=178701&width=800",
+    "pinned": false
+  },
+  {
     "id": "49672d89136f62eb1b5f5689bfa3584cc4692ae1",
     "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
     "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
@@ -94,6 +145,21 @@
       "trailer"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meuniverse-500x500-1792697650.png",
+    "pinned": false
+  },
+  {
+    "id": "567e1abf881050eff99c7e07d6722e0c191946c8",
+    "title": "Backdoored robot tries its hand at finger chopping and cat cooking",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/22/backdoored-robot-tries-its-hand-at-finger-chopping-and-cat-cooking/5304870",
+    "summary": "No actual digits or cats were harmed beyond the number crunching that went into this LLM poisoning experiment",
+    "isoDate": "2026-10-22T19:57:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304880&width=800",
     "pinned": false
   },
   {
@@ -733,25 +799,6 @@
     "pinned": false
   },
   {
-    "id": "56259d9e9e192ae40370bb618aac569b4e0ec6e0",
-    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-    "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-    "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
-    "isoDate": "2026-10-21T22:06:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "cloud gaming",
-      "microsoft",
-      "streaming",
-      "XBox"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "4ce75d7dd14eb63e453bfd384237ae020a03e2d4",
     "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
     "link": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
@@ -1261,21 +1308,6 @@
     "pinned": false
   },
   {
-    "id": "2ef0440dca1b65e8c3ec2e10a4600ce0453196de",
-    "title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
-    "link": "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
-    "summary": "Keeping vendors happy is costing businesses millions, even when everything was working fine in the first place",
-    "isoDate": "2026-10-20T14:43:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=255776&width=800",
-    "pinned": false
-  },
-  {
     "id": "c89261aae5a9bad67c4743e06a2101842def4e54",
     "title": "Tesla Announces 2026 Shareholder Meeting for Dec. 3",
     "link": "https://www.notateslaapp.com/news/4853/tesla-announces-2026-shareholder-meeting-for-dec-3",
@@ -1286,36 +1318,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/2026-annual-shareholder-meeting-hero.webp/6ded71d060f8e91c050bdbb9038cd3b8/2026-annual-shareholder-meeting-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0486bb8da7c69be8091c12f2cf04be6fbf3818e7",
-    "title": "HPE to launch AI straight to the Moon",
-    "link": "https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983",
-    "summary": "Mystery silicon and mirrored SSDs set to touch down before year's end",
-    "isoDate": "2026-10-20T14:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303988&width=800",
-    "pinned": false
-  },
-  {
-    "id": "61ae40293dee867ba96e330d966c534df1d6fae3",
-    "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
-    "link": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
-    "summary": "ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children",
-    "isoDate": "2026-10-20T13:35:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Paul Kunert",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5294336&width=800",
     "pinned": false
   },
   {
@@ -1629,19 +1631,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster_58.webp/db02590284ac63fe579575fbdcd7dbd7/roadster_58.jpg",
-    "pinned": false
-  },
-  {
-    "id": "113a5280280bed9f05ea89c856d08f6d2affe7b4",
-    "title": "Tesla Plans to Expand Giga Berlin Output to 1 Million Vehicles Per Year",
-    "link": "https://www.notateslaapp.com/news/4836/tesla-plans-to-expand-giga-berlin-output-to-1-million-vehicles-per-year",
-    "summary": "esla plans a new second production hall at Giga Berlin that could nearly triple output to 1 million vehicles a year over the next decade <a href=\"https://www.notateslaapp.com/news/4836/tesla-plans-to-expand-giga-berlin-output-to-1-million-vehicles-per-year\">Read More</a>",
-    "isoDate": "2026-10-15T22:45:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/4_gigafactoryberlinbrandenburg_04-1782499521.webp/1e9800ce9b13ae7e2f410463b347a92b/4_gigafactoryberlinbrandenburg_04-1782499521.jpg",
     "pinned": false
   }
 ]
