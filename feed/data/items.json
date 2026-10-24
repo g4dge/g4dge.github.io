@@ -1,5 +1,75 @@
 [
   {
+    "id": "1afcb21b97fb0a5d5c141faf7be7cdc645e253fc",
+    "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+    "link": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+    "summary": "Designed to carry out 100,000 steps without human approval",
+    "isoDate": "2026-10-24T13:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305225&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7e7984ce45f70d7a0879e73e8ae94c5cdcfa63c3",
+    "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+    "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+    "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+    "isoDate": "2026-10-24T11:50:28Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Tereza Ondráčková, wired.com",
+    "tags": [
+      "Science",
+      "Arsia Mons",
+      "Mars",
+      "planetary science",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b03c6c0919bd87b7366fb83cc54a8be41c06ac12",
+    "title": "Raspberry Pi Desktop proves old PCs aren't past it",
+    "link": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
+    "summary": "Debian 13-based refresh runs comfortably on veteran ThinkPads, without making installation a hobby",
+    "isoDate": "2026-10-24T11:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=228466&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6ca78a3868779056ed18af310e48c1ae1e4a1458",
+    "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+    "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+    "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+    "isoDate": "2026-10-24T11:00:09Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "climate change",
+      "Earth science",
+      "glaciation",
+      "global warming",
+      "ice age",
+      "ice sheets"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "5dac0b35abefa5f7fc58cf8c1ba6882d974c07bf",
     "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
     "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
@@ -701,48 +771,6 @@
     "pinned": false
   },
   {
-    "id": "49672d89136f62eb1b5f5689bfa3584cc4692ae1",
-    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-    "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-    "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-    "isoDate": "2026-10-22T20:17:52Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "cerfificate authority",
-      "encryption",
-      "tls",
-      "transport layer security"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c4119488f6b0dfec78e5c61d8b28a9516bb00392",
-    "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-    "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
-    "summary": "We can't have nice things, but at least we can get trailers for them.",
-    "isoDate": "2026-10-22T19:59:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "Bioware",
-      "EA",
-      "Electronic Arts",
-      "Mass Effect",
-      "mass effect universe",
-      "teaser",
-      "trailer"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meuniverse-500x500-1792697650.png",
-    "pinned": false
-  },
-  {
     "id": "567e1abf881050eff99c7e07d6722e0c191946c8",
     "title": "Backdoored robot tries its hand at finger chopping and cat cooking",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/22/backdoored-robot-tries-its-hand-at-finger-chopping-and-cat-cooking/5304870",
@@ -1346,36 +1374,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=4094141&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ff80870018fbf885ff93d61a98e9ca938d0d1685",
-    "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
-    "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
-    "summary": "Consider this the wake-up call",
-    "isoDate": "2026-10-21T12:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=259070&width=800",
-    "pinned": false
-  },
-  {
-    "id": "531851bbfcaff478d426903d30c9521f8108184b",
-    "title": "Nvidia <span class=\"t42\">picks OpenShell to </span>tame AI gents",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
-    "summary": "Give your agents freedom to do useful work by locking them down",
-    "isoDate": "2026-10-21T11:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=249195&width=800",
     "pinned": false
   },
   {
