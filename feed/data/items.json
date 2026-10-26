@@ -1,5 +1,50 @@
 [
   {
+    "id": "d6e4404acf688dad995f71c3177d0c20444f1efd",
+    "title": "Tesco replacing VMware with Proxmox in its stores and on the edge",
+    "link": "https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281",
+    "summary": "Advertises for someone to ‘own cost-effective alternative virtualisation platform’",
+    "isoDate": "2026-10-26T05:24:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=260306&width=800",
+    "pinned": false
+  },
+  {
+    "id": "93aa3d65932234760c8e54a06fa51cb1c237087f",
+    "title": "Work to protect DNS from quantum decryption attacks is speeding up",
+    "link": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+    "summary": "PLUS: Regional internet registry reform nears; Trustworthy-sounding domains attract scammers",
+    "isoDate": "2026-10-26T04:08:23Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=238312&width=800",
+    "pinned": false
+  },
+  {
+    "id": "06309c4ea3586d91b77aec04b46ff697c6208f55",
+    "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+    "summary": "PLUS: AI datacenter bubble wobbles in Australia; E-commerce app suggests it can detect diseases; India’s top telco to IPO amid investor frenzy; and more!",
+    "isoDate": "2026-10-26T00:39:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=260439&width=800",
+    "pinned": false
+  },
+  {
     "id": "8979eb53ba2947ac70ce9ae7731ad36a0d2f1a53",
     "title": "First Look at Tesla's Roadster New User Interface[VIDEO]",
     "link": "https://www.notateslaapp.com/news/4894/tesla-shows-off-new-roadsters-fighter-jet-inspired-ui-video",
@@ -1407,51 +1452,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5304543&width=800",
-    "pinned": false
-  },
-  {
-    "id": "31bfb8dec10a8c92c7fd5d0d759eca082cc77e57",
-    "title": "OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine",
-    "link": "https://www.theregister.com/os-platforms/2026/10/21/openbsd-80-beefs-up-virtual-machines-and-gets-a-taste-of-wine/5304430",
-    "summary": "Proposed port brings 64-bit Windows apps within reach",
-    "isoDate": "2026-10-21T15:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=246374&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e65691ba63a784d625d8c39f16a97bd7d3e92f25",
-    "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
-    "link": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
-    "summary": "Websites down as precaution as exploits have already been published",
-    "isoDate": "2026-10-21T15:08:51Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=263315&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3d7ad7a9f222fde896028494db639ae2386565f0",
-    "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
-    "summary": "Containerized datacenters, androids, and telecoms all feature in Berlin keynote interrupted by environmental protesters",
-    "isoDate": "2026-10-21T15:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5304476&width=800",
     "pinned": false
   },
   {
