@@ -1,5 +1,280 @@
 [
   {
+    "id": "668d9a95d516ffd26f5ed82f41c6125164fbda91",
+    "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+    "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+    "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
+    "isoDate": "2026-10-26T19:04:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Apple",
+      "apple",
+      "iPad mini",
+      "tablets"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "0838a8885736dbc73dee6b6b1b659983533aa372",
+    "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+    "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+    "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+    "isoDate": "2026-10-26T18:09:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Elon Musk",
+      "starlink",
+      "starshield",
+      "Ukraine"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-500x500-1793037282.jpg",
+    "pinned": false
+  },
+  {
+    "id": "58e679e292e6d1ac801df08a40dfa3579c032004",
+    "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
+    "link": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
+    "summary": "Redmond joins growing list of software maintainers scrambling to patch compression flaw",
+    "isoDate": "2026-10-26T17:58:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=244699&width=800",
+    "pinned": false
+  },
+  {
+    "id": "71784ce3534e69e4797b530b102e2a027289af1a",
+    "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+    "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+    "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+    "isoDate": "2026-10-26T17:26:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai data center",
+      "ai theft",
+      "data center infrastructure"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "4913cf918626417096fc8a4de6daa0fbd4ac6f3c",
+    "title": "Open source keyboard lets you swap parts like magnetic Lego bricks",
+    "link": "https://www.theregister.com/offbeat/2026/10/26/open-source-keyboard-lets-you-swap-parts-like-magnetic-lego-bricks/5305470",
+    "summary": "Every key is its own module, and its designer tells us the sky's the theoretical limit on the size of the frankenboard you can build",
+    "isoDate": "2026-10-26T17:25:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305474&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d80b90a04fbd45a8d9aa0c53141cfb37e19a0952",
+    "title": "Reddit's r/opensource bans AI slop, and quite a few humans for good measure",
+    "link": "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392",
+    "summary": "New rules also shut out solo developers, fledgling projects, and anyone who doesn't speak English",
+    "isoDate": "2026-10-26T17:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5277792&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ec2a619f2f91a3070d21b83a0cf1d849f2032eca",
+    "title": "Some iPhone Duo screens are already failing",
+    "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+    "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+    "isoDate": "2026-10-26T16:51:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Apple",
+      "Tech",
+      "apple",
+      "Foldables",
+      "iphone duo",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8d7305202070d0ebc798f72a8212599adddc7d12",
+    "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
+    "link": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
+    "summary": "Jaydip Modhwadia beats challenge designed to test real-world exploitability of PHP2Shell in around 3 hours",
+    "isoDate": "2026-10-26T16:14:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240537&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0484546ab1e68e9aaf733dcb6cc46a2bebcec69f",
+    "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
+    "summary": "Claude maker reveals financials and warns investors its AI models could blackmail humans, resist shutdown, or go rogue",
+    "isoDate": "2026-10-26T15:47:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305476&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b0e11efa111144a2898419c50a15838fe84b4236",
+    "title": "Last call for <span class=\"italic m-italic\">The Register</span>’s data sovereignty dinner in Washington",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/sponsored-last-call-for-the-registers-data-sovereignty-dinner-in-washington/5304959",
+    "summary": "<span class=\"font-weight-bold m-font-weight-bold\">EVENT:</span> <span class=\"italic m-italic\">The Register</span>’s Washington dinner with HPE and NVIDIA is this Thursday. The table is nearly set.",
+    "isoDate": "2026-10-26T15:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "David Gordon",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5304974&width=800",
+    "pinned": false
+  },
+  {
+    "id": "75cbbc3708754a3a839d251513ea2da6178ddb32",
+    "title": "Tesla Robotaxi App Now Supports iPad, iPhone Duo and Improved Live Activities",
+    "link": "https://www.notateslaapp.com/news/4896/tesla-adds-ipad-iphone-duo-support-to-robotaxi-app",
+    "summary": "Robotaxi app version 26.10.3 adds a dedicated big-screen layout and Live Activities that glow the same color as your Cybercab’s front light bar <a href=\"https://www.notateslaapp.com/news/4896/tesla-adds-ipad-iphone-duo-support-to-robotaxi-app\">Read More</a>",
+    "isoDate": "2026-10-26T14:58:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-app-update.webp/7493f533a9cb0c60df38c71af812d248/robotaxi-app-update.jpg",
+    "pinned": false
+  },
+  {
+    "id": "082e41c8ec7149dd7b98a27ea2c257d2691a5781",
+    "title": "F1 in Texas: The American race that fans love to attend",
+    "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+    "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
+    "isoDate": "2026-10-26T14:48:24Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Formula 1"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a9648b7088ba2ca9ea18ff64e87dbb3f6ee9c83f",
+    "title": "Swift operations end: 2004 spacecraft headed for fiery reentry",
+    "link": "https://www.theregister.com/science/2026/10/26/swift-operations-end-2004-spacecraft-headed-for-fiery-reentry/5305346",
+    "summary": "Atmospheric drag brings an extraordinarily long-lived mission to a close",
+    "isoDate": "2026-10-26T14:44:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=5237915&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6a47f3e0c881231183933c5c5c078fc76087e492",
+    "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+    "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+    "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+    "isoDate": "2026-10-26T14:30:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kana Inagaki, Financial Times",
+    "tags": [
+      "AI",
+      "Cars",
+      "data centers",
+      "Elon Musk",
+      "FSD",
+      "spacex",
+      "syndication",
+      "Tesla"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b4f37ed55a9f7eb7ed46b95417d0fa7ae7e62d87",
+    "title": "Private equity giant: AI payoff strictly limited to Big Tech",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358",
+    "summary": "The Magnificent Seven are galloping off with the profits, while the rest of the S&amp;P 500 see no benefit, claims Apollo",
+    "isoDate": "2026-10-26T13:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=263134&width=800",
+    "pinned": false
+  },
+  {
+    "id": "76004c4d40415eed7b10dff78acf230c70326ea5",
+    "title": "Tesla App Lead Talks Upcoming Features: Mac App, More Vehicle Controls and Immersive Powerwall View",
+    "link": "https://www.notateslaapp.com/news/4897/tesla-app-lead-talks-upcoming-features-mac-app-more-vehicle-controls-and-immersive-powerwall-view",
+    "summary": "Tesla app lead Alex Guichet says the goal is to make the app feel like your car’s screen, with an immersive Powerwall view coming soon and a Mac app on the list. <a href=\"https://www.notateslaapp.com/news/4897/tesla-app-lead-talks-upcoming-features-mac-app-more-vehicle-controls-and-immersive-powerwall-view\">Read More</a>",
+    "isoDate": "2026-10-26T13:18:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-no-controls.webp/0957b2f7636443d9ae3e676baa625c23/tesla-app-no-controls.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1a44d05f6353d10866c01b2a744c1ff7d14d885d",
+    "title": "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue",
+    "link": "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186",
+    "summary": "What better way to celebrate Cybersecurity Awareness Month than warning that three-quarters of the web is about to be set on fire?",
+    "isoDate": "2026-10-26T13:14:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305338&width=800",
+    "pinned": false
+  },
+  {
     "id": "423b4b6a9322601f74f8056e927317c20f40186d",
     "title": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
     "link": "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
@@ -148,6 +423,21 @@
       "columnists"
     ],
     "image": "https://image.theregister.com/?imageId=1621607&width=800",
+    "pinned": false
+  },
+  {
+    "id": "80a6317091220e081499ee217b4d9d07b540c1b2",
+    "title": "PHP2Shell: No login, no app code, no warning. What next?",
+    "link": "https://www.theregister.com/security/2026/10/26/partner-content-no-login-no-app-code-no-warning-what-next/5305336",
+    "summary": "<span class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> Learn what the flaws are, how far exploitation has gone, and how to get to full coverage fast with Tanium",
+    "isoDate": "2026-10-26T08:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tanium",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305339&width=800",
     "pinned": false
   },
   {
@@ -733,25 +1023,6 @@
     "pinned": false
   },
   {
-    "id": "a39371ef5d6b5c5a19b7df54f31a436f43d3aec2",
-    "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-    "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-    "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
-    "isoDate": "2026-10-23T13:43:21Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jamie Smyth",
-    "tags": [
-      "Policy",
-      "nuclear power",
-      "Nuclear regulation",
-      "syndication",
-      "utlities"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "22ec0690abdf486e0754e317d2fe85103c6bfac3",
     "title": "PubKeep picks up where Microsoft Publisher signs off",
     "link": "https://www.theregister.com/applications/2026/10/23/pubkeep-picks-up-where-microsoft-publisher-signs-off/5304978",
@@ -794,75 +1065,6 @@
       "columnists"
     ],
     "image": "https://image.theregister.com/?imageId=5226908&width=800",
-    "pinned": false
-  },
-  {
-    "id": "dc1383425a6f819229f9e12693b569205ba76761",
-    "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-    "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-    "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
-    "isoDate": "2026-10-23T11:30:22Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "AI drones",
-      "drones",
-      "Elon Musk",
-      "military drones",
-      "Russia invasion of Ukraine",
-      "Russia war on Ukraine",
-      "Russian invasion of Ukraine",
-      "Russian war on Ukraine",
-      "spacex starlink",
-      "starlink",
-      "Ukraine",
-      "ukraine starlink",
-      "Ukraine war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "57c7fcd34eb28d8b210396b144552eeed84732ce",
-    "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-    "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
-    "summary": "<em>Friday the 13th</em> prequel series based on Jason’s mom drags at first, then hits a vein.",
-    "isoDate": "2026-10-23T11:15:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Culture",
-      "Reviews",
-      "a24 studio",
-      "body horror",
-      "crystal lake",
-      "Friday the 13th",
-      "horror",
-      "peacock"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-500x500.webp",
-    "pinned": false
-  },
-  {
-    "id": "7e041e1086ddc784f7a29a5f2bc339110e532de0",
-    "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-    "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
-    "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
-    "isoDate": "2026-10-23T11:00:57Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Features",
-      "Space",
-      "NASA",
-      "rocket report",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-500x500.jpg",
     "pinned": false
   },
   {
@@ -981,66 +1183,6 @@
       "personal tech"
     ],
     "image": "https://image.theregister.com/?imageId=263048&width=800",
-    "pinned": false
-  },
-  {
-    "id": "47234b822080ed0734f54459ef78ec2bc2f1f293",
-    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-    "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-    "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
-    "isoDate": "2026-10-22T22:25:33Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "Gaming",
-      "exploit",
-      "hack",
-      "Nintendo",
-      "smilebasic",
-      "Switch",
-      "switch 2"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-500x500-1792704893.png",
-    "pinned": false
-  },
-  {
-    "id": "9423c8063b2efc3039f5d71666656e3fb5fde909",
-    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-    "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-    "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
-    "isoDate": "2026-10-22T22:12:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "cancer",
-      "melanoma",
-      "merck",
-      "moderna",
-      "mRNA",
-      "vaccine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "724bb9eec32d8ed759a3d46b7fce9d5f8685526f",
-    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-    "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-    "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
-    "isoDate": "2026-10-22T21:52:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "artemis",
-      "space",
-      "starship"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-500x500.jpeg",
     "pinned": false
   },
   {
@@ -1246,36 +1388,6 @@
     "pinned": false
   },
   {
-    "id": "17b550f6862a53c1d38ad86f6160338d3936e4b1",
-    "title": "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants",
-    "link": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
-    "summary": "AI agents did the dirty work, with hackers gaining privileged access in some environments in under three hours",
-    "isoDate": "2026-10-22T11:28:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5304691&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1aca11b436d6e514e60bb5aeabdb5323708fca30",
-    "title": "Veteran ESA probe rolls out welcome mat for Japan's Phobos mission",
-    "link": "https://www.theregister.com/science/2026/10/22/veteran-esa-probe-rolls-out-welcome-mat-for-japans-phobos-mission/5304684",
-    "summary": "Mars Express could support MMX's 2027 arrival as another 'last ever' extension keeps old spacecraft in flight",
-    "isoDate": "2026-10-22T10:45:27Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=254666&width=800",
-    "pinned": false
-  },
-  {
     "id": "b336624ef51e38f8179d2fb0198e8d0d94d2c926",
     "title": "Bhutan: the last place",
     "link": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
@@ -1289,21 +1401,6 @@
     "pinned": false
   },
   {
-    "id": "d73a5cf491bb00224ef5cb53d96ccb2b7c83a8b8",
-    "title": "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall",
-    "link": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
-    "summary": "Misaligned incentives led to an intractable argument",
-    "isoDate": "2026-10-22T10:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Avram Piltch",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5304595&width=800",
-    "pinned": false
-  },
-  {
     "id": "71525f36f86cdc007a8127059e157af392cc174c",
     "title": "Other people",
     "link": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
@@ -1314,111 +1411,6 @@
     "author": "Elizabeth Oldfield",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "93479f3442192f13b366688dcb616d7fdf65f9ab",
-    "title": "UK government hasn't the foggiest how much it's spending on digital transformation",
-    "link": "https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662",
-    "summary": "Years of promises, but officials unable to put a figure on investment",
-    "isoDate": "2026-10-22T09:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5281055&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f0d35d040d9b5431de5cf5ce3ee99d0c3bda8a06",
-    "title": "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366",
-    "summary": "They might earn more than $200k but who do they work for? Tech buyers need to put some checks in place on FDEs",
-    "isoDate": "2026-10-22T08:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5304386&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b62c502050b16c88d68e324d23fb0066d188308d",
-    "title": "Why the immediate future of liquid cooling is hybrid",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795",
-    "summary": "<span class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> AI is driving liquid cooling adoption, but hybrid architectures will help operators balance density, flexibility, and operational realities",
-    "isoDate": "2026-10-22T08:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Andrew Bradner",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303797&width=800",
-    "pinned": false
-  },
-  {
-    "id": "659ed8527f5282facdae3a2c53aba302b43e513c",
-    "title": "Certification authority eMudhra defends its laughably weak private keys",
-    "link": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647",
-    "summary": "Says it passed audits and made just a minor mystery error",
-    "isoDate": "2026-10-22T06:38:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=188286&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0fe639e321946d77299e10ab029d6c81fb5bcc57",
-    "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-    "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-    "summary": "90 percent of the performance at ten percent of the price, in just two or three racks, is hard to beat",
-    "isoDate": "2026-10-22T04:26:39Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=4091853&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e96196a6b387b862297372f0bd60cb487de169b8",
-    "title": "Philippine government suspends top tech official for alleged misconduct",
-    "link": "https://www.theregister.com/public-sector/2026/10/22/philippine-government-suspends-top-tech-official-for-alleged-misconduct/5304633",
-    "summary": "Founder of offshore software development firm investigated for possibly giving his former outfit government contracts",
-    "isoDate": "2026-10-22T03:04:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=250045&width=800",
-    "pinned": false
-  },
-  {
-    "id": "471d09cc22330c918bea1d0456e7800e08d90e94",
-    "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
-    "summary": "Signs Samsung to build substrates, bolsters spend with other players",
-    "isoDate": "2026-10-22T00:54:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5304630&width=800",
     "pinned": false
   },
   {
@@ -1590,32 +1582,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/halloween-mode.png/3cedbc726c03ff2dc630ce76a946cb5a/halloween-mode.jpg",
-    "pinned": false
-  },
-  {
-    "id": "231f83db1846714bd278102f45f72babb948c36e",
-    "title": "What If Tesla's Parked Vehicle Screen Matched Your Real Surroundings?",
-    "link": "https://www.notateslaapp.com/news/4852/what-if-teslas-parked-vehicle-screen-matched-your-surroundings",
-    "summary": "Tesla could use the 3D models it already creates and Unreal Engine to turn the parked vehicle screen into a live scene of your real surroundings <a href=\"https://www.notateslaapp.com/news/4852/what-if-teslas-parked-vehicle-screen-matched-your-surroundings\">Read More</a>",
-    "isoDate": "2026-10-19T16:49:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/parked-vis-concept.webp/8f1062d3061ce2bddfe7688f3b18b569/parked-vis-concept.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ef826c4a57c69c98adbbbf39d70d60bb6a9e5747",
-    "title": "Tesla's New Roadster: All the Details You May Not Know",
-    "link": "https://www.notateslaapp.com/news/4850/tesla-roadster-all-the-details-you-may-not-know",
-    "summary": "The new Tesla Roadster hides a lot, including a plug-in wiper, deployable side skirts, a hidden charge port, a fourth base trim, and more <a href=\"https://www.notateslaapp.com/news/4850/tesla-roadster-all-the-details-you-may-not-know\">Read More</a>",
-    "isoDate": "2026-10-19T15:58:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/tesla-roadster-2-hero-1.webp/204dcfe3d5303a737b924fde7183e59f/tesla-roadster-2-hero-1.jpg",
     "pinned": false
   }
 ]
