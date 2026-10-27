@@ -1,7 +1,218 @@
 [
   {
+    "id": "71d9cb2bf3e5ef867fc7df6dea524995e0b59531",
+    "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+    "isoDate": "2026-10-27T20:25:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "bootkits",
+      "buffer overflow",
+      "disclosure",
+      "uefi"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2a82e21cea3f33d6a18dd85c1274ea705361544b",
+    "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
+    "summary": "Oracle plans to add those chips alongside new Nvidia hardware and OpenAI services as businesses await AI payoffs",
+    "isoDate": "2026-10-27T20:20:27Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=4093906&width=800",
+    "pinned": false
+  },
+  {
+    "id": "998a55470bad971b36ee0ec01e6f34dda4a22a53",
+    "title": "Goodbye AI4, Hello SI4: Tesla Renames Its FSD Computers",
+    "link": "https://www.notateslaapp.com/news/4910/goodbye-ai4-hello-si4-tesla-renames-its-fsd-computers",
+    "summary": "Tesla’s owner’s manuals now say SI Computer instead of FSD Computer, hinting AI4 will become SI4 and AI5 could launch as SI5 <a href=\"https://www.notateslaapp.com/news/4910/goodbye-ai4-hello-si4-tesla-renames-its-fsd-computers\">Read More</a>",
+    "isoDate": "2026-10-27T20:16:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ai5-chip-design.webp/9cc7cffa08cedadec4f37dc7238d978e/ai5-chip-design.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d5ef55b539d3f48c0a0467fd4fb2266026b6b071",
+    "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+    "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+    "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+    "isoDate": "2026-10-27T19:32:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "android",
+      "app stores",
+      "google",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "67ebe0aacd779f9b309804f659e9747bb4b9d0cb",
+    "title": "Anthropic now lets Claude users jump out of plane without parachute",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
+    "summary": "Meet CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS",
+    "isoDate": "2026-10-27T19:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=240909&width=800",
+    "pinned": false
+  },
+  {
+    "id": "004c185054dc7de7219af1aa37378a49f00d5b80",
+    "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
+    "link": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+    "summary": "One critical, three high-severity EPICS bugs could disrupt research experiments",
+    "isoDate": "2026-10-27T19:11:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305858&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a6a1f4abbd10c8132fe1a59588b73cc529926393",
+    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+    "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+    "isoDate": "2026-10-27T18:49:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "AI",
+      "Science",
+      "biochemistry",
+      "Biology",
+      "Computer science",
+      "Genomics",
+      "protein design"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "70b57af5f2a2e8a3456faa139cbd52a3980dec63",
+    "title": "Warner Bros. drops final trailer for Dune: Part Three",
+    "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+    "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
+    "isoDate": "2026-10-27T18:05:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jennifer Ouellette",
+    "tags": [
+      "Culture",
+      "denis villeneuve",
+      "Dune: Part 3",
+      "entertainment",
+      "Frank Herbert",
+      "Trailers",
+      "Warner Bros."
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-500x500-1793122976.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6ba8034ff4cb26bea489c6f9411b403c3ba56230",
+    "title": "Tesla App to Add X Money Support for Payments",
+    "link": "https://www.notateslaapp.com/news/4907/tesla-app-to-add-x-money-support-for-payments",
+    "summary": "Tesla app version 4.62.0 includes code for X Money support, letting owners pay for Supercharging, FSD, and Tesla Shop items through X’s payment platform <a href=\"https://www.notateslaapp.com/news/4907/tesla-app-to-add-x-money-support-for-payments\">Read More</a>",
+    "isoDate": "2026-10-27T17:56:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-app-x-money-support-render.png/5b74cea645d45ff3d20bbc2abed1e874/tesla-app-x-money-support-render.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1145817a986213de2cf9e2d3f5e8679423669a6b",
+    "title": "Apple takes powerful M6 chip to the MacBook Pro, iMac",
+    "link": "https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797",
+    "summary": "6th-gen M-series silicon promises more cores, faster memory, a fatter NPU, and better connectivity, now in more form factors",
+    "isoDate": "2026-10-27T17:47:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305802&width=800",
+    "pinned": false
+  },
+  {
+    "id": "36d4073b68d2823d87477a7ef9256c0709002e02",
+    "title": "EU privacy advocates accuse US data annotation firm of snooping on contractors",
+    "link": "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757",
+    "summary": "Noyb files five complaints in four member states over alleged tracking of workers on Scale AI's Outlier platform",
+    "isoDate": "2026-10-27T17:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305785&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d49a0877cc3993ea4253eeed35e5cbac6a96baaa",
+    "title": "ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux",
+    "link": "https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710",
+    "summary": "Classic Platinum or lickable Mavericks-era Aqua – it's your choice",
+    "isoDate": "2026-10-27T17:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305716&width=800",
+    "pinned": false
+  },
+  {
+    "id": "05495ba6afe3fc6e7045d298831a9026be8f4c3e",
+    "title": "Tesla App Code Reveals FSD Referral Rewards Are Coming",
+    "link": "https://www.notateslaapp.com/news/4905/tesla-app-code-reveals-fsd-referral-rewards-are-coming",
+    "summary": "Tesla app 4.62 includes code for FSD referral rewards, letting owners earn free FSD time for any vehicle on their account when they bring on other subscribers <a href=\"https://www.notateslaapp.com/news/4905/tesla-app-code-reveals-fsd-referral-rewards-are-coming\">Read More</a>",
+    "isoDate": "2026-10-27T16:55:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard-1790711572.jpg/2007acb44a5e2531b9b75042b4a2ae2c/fsd_giftcard-1790711572.jpg",
+    "pinned": false
+  },
+  {
     "id": "04011d5a5c5a0433bcec4c86009584a7ac5b3200",
-    "title": "Ford builds bidrectional charging into its $30K electric truck",
+    "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
     "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
     "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
     "isoDate": "2026-10-27T16:17:58Z",
@@ -69,7 +280,7 @@
     "id": "8b7c3e50fad15c068e1d32c9e3b052061934e338",
     "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
     "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-    "summary": "Huge software price hikes force loyal users to reconsider their favorite apps.",
+    "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
     "isoDate": "2026-10-27T15:50:19Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -763,28 +974,6 @@
     "pinned": false
   },
   {
-    "id": "6a47f3e0c881231183933c5c5c078fc76087e492",
-    "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-    "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-    "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-    "isoDate": "2026-10-26T14:30:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kana Inagaki, Financial Times",
-    "tags": [
-      "AI",
-      "Cars",
-      "data centers",
-      "Elon Musk",
-      "FSD",
-      "spacex",
-      "syndication",
-      "Tesla"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b4f37ed55a9f7eb7ed46b95417d0fa7ae7e62d87",
     "title": "Private equity giant: AI payoff strictly limited to Big Tech",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358",
@@ -870,26 +1059,6 @@
       "personal tech"
     ],
     "image": "https://image.theregister.com/?imageId=5305299&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9ffa0ff77ad0a7435a516193e09d78938f9cce89",
-    "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
-    "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
-    "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
-    "isoDate": "2026-10-26T11:00:15Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nick Indge",
-    "tags": [
-      "Features",
-      "Tech",
-      "FM-1",
-      "M-Vave",
-      "synth",
-      "Yamaha DX-7"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261020_212659503.PORTRAIT-500x500.jpg",
     "pinned": false
   },
   {
@@ -1164,61 +1333,6 @@
     "pinned": false
   },
   {
-    "id": "7e7984ce45f70d7a0879e73e8ae94c5cdcfa63c3",
-    "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-    "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-    "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
-    "isoDate": "2026-10-24T11:50:28Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Tereza Ondráčková, wired.com",
-    "tags": [
-      "Science",
-      "Arsia Mons",
-      "Mars",
-      "planetary science",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b03c6c0919bd87b7366fb83cc54a8be41c06ac12",
-    "title": "Raspberry Pi Desktop proves old PCs aren't past it",
-    "link": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
-    "summary": "Debian 13-based refresh runs comfortably on veteran ThinkPads, without making installation a hobby",
-    "isoDate": "2026-10-24T11:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=228466&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6ca78a3868779056ed18af310e48c1ae1e4a1458",
-    "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-    "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
-    "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
-    "isoDate": "2026-10-24T11:00:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "climate change",
-      "Earth science",
-      "glaciation",
-      "global warming",
-      "ice age",
-      "ice sheets"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "8a1d9b2289f002cf2890215823c7a9e0c6e38d4c",
     "title": "Tesla FSD v14.3.13 & FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
     "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.11/release-notes",
@@ -1229,51 +1343,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/halloween-mode.png/3cedbc726c03ff2dc630ce76a946cb5a/halloween-mode.jpg",
-    "pinned": false
-  },
-  {
-    "id": "eeeded6cdc0257935270159e55615397898b37e5",
-    "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
-    "summary": "We've totally got things under control",
-    "isoDate": "2026-10-23T22:36:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305242&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a7b370898ad8f0d40dcedc048ab197c1eb6949ab",
-    "title": "There's a third PHP2Shell bug, but it won't get an emergency fix",
-    "link": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208",
-    "summary": "Bad things (and software bugs?) come in threes",
-    "isoDate": "2026-10-23T20:04:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305212&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b4d73ea01a82241e285bcb7e2d8daada2199b7c1",
-    "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
-    "summary": "Monitoring was only partial and was easily bypassed",
-    "isoDate": "2026-10-23T19:14:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305204&width=800",
     "pinned": false
   },
   {
@@ -1290,21 +1359,6 @@
     "pinned": false
   },
   {
-    "id": "2f0abff23def60194e2e882b47071393252b5b95",
-    "title": "AI models describe humans as a bunch of amoral sheep",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123",
-    "summary": "Ask LLMs for their most controversial take on humanity, and it turns out they have little nice to say about us, as one AI experiment found",
-    "isoDate": "2026-10-23T16:26:13Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305178&width=800",
-    "pinned": false
-  },
-  {
     "id": "25d63718776bf6490d17ec7b290819650582dc0e",
     "title": "Tesla Cancels Cybertruck in Australia and New Zealand",
     "link": "https://www.notateslaapp.com/news/4883/tesla-cancels-cybertruck-in-australia-and-new-zealand",
@@ -1315,21 +1369,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck_95.webp/d1b131e3f7c61531bad710dba88b2f9b/cybertruck_95.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fbb7a802ee84d277e9b14e3760a6997cd67279e9",
-    "title": "Michigan prof creates Python-like Jac language for AI agents",
-    "link": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
-    "summary": "Stop burning $165K on AI rewrites; Jac is meant to \"gobble up\" your polyglot stack",
-    "isoDate": "2026-10-23T15:46:19Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joab Jackson",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305120&width=800",
     "pinned": false
   },
   {
@@ -1555,32 +1594,6 @@
     "author": "Aeon Video",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "69ee55f6e3f73f04aeaf1bab269f13b3b043b0fe",
-    "title": "Musk to Give Every Kid in the U.S. a Share of SpaceX",
-    "link": "https://www.notateslaapp.com/news/4857/musk-to-give-every-kid-in-the-us-a-share-of-spacex",
-    "summary": "Elon Musk plans to give every U.S. child a SpaceX share, responding to Anthropic’s new Public Benefit Fund ahead of SpaceX’s Q3 earnings call on Wednesday <a href=\"https://www.notateslaapp.com/news/4857/musk-to-give-every-kid-in-the-us-a-share-of-spacex\">Read More</a>",
-    "isoDate": "2026-10-20T19:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-falcon-9-launch-moon-hero-2.jpg/5add1d1e00edd99cfae52467b642502a/spacex-falcon-9-launch-moon-hero-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4aed944004fbb2bb6349413641a7cecc59125933",
-    "title": "Ferrari CEO Praises Tesla, Gives Roadster a Perfect 10/10",
-    "link": "https://www.notateslaapp.com/news/4856/ferrari-ceo-praises-tesla-gives-roadster-a-perfect-1010",
-    "summary": "Ferrari’s CEO gave Tesla’s Roadster launch a perfect 10 for technology and presentation, saying it proves even an old industry can still dare <a href=\"https://www.notateslaapp.com/news/4856/ferrari-ceo-praises-tesla-gives-roadster-a-perfect-1010\">Read More</a>",
-    "isoDate": "2026-10-20T18:34:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster_59.webp/5a4f0d07eac5b902bb6cb1d64d1c23a6/roadster_59.jpg",
     "pinned": false
   }
 ]
