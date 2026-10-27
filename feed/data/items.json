@@ -1,5 +1,35 @@
 [
   {
+    "id": "87fbf5a3c96b51901626b5b2af58232b63f3ef1b",
+    "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
+    "link": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
+    "summary": "CEO admits service used for foreign exchange trading had holes company was slow to fix",
+    "isoDate": "2026-10-27T01:06:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=255850&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4f8c3a88f097c1639c8793abbd86561d61292d00",
+    "title": "Humanity can't afford not to spend $800B on AI, Anthropic insists",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580",
+    "summary": "It's more important than chips, 'leccy and the net, after all",
+    "isoDate": "2026-10-26T23:39:49Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305597&width=800",
+    "pinned": false
+  },
+  {
     "id": "8c2aa3fd467263714323229634cf53f6c4f5fec8",
     "title": "Tesla’s New Houston Robotaxi Area Is Shaped Like a Rocket",
     "link": "https://www.notateslaapp.com/news/4903/teslas-new-houston-robotaxi-area-is-shaped-like-a-rocket",
@@ -10,6 +40,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-houston-geofence-10-26-26-1793054085.webp/186b1e48dd58156e129fe1cdb6615ee3/robotaxi-houston-geofence-10-26-26-1793054085.jpg",
+    "pinned": false
+  },
+  {
+    "id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
+    "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
+    "summary": "Not a bombshell, but it rivals pricier models on some tasks at a tenth of Astra's API price",
+    "isoDate": "2026-10-26T23:08:59Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305594&width=800",
     "pinned": false
   },
   {
@@ -30,6 +75,21 @@
       "Voluntary Exit Offer"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a3e6628ceeb10e86c0546b1ecb02482e08dc60ea",
+    "title": "Worm armed 42 GitHub repos by hiding a payload too big to fail",
+    "link": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+    "summary": "Payload blobs measuring 12.9 to 13.7 MB were large enough to evade GitHub code search",
+    "isoDate": "2026-10-26T22:29:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242669&width=800",
     "pinned": false
   },
   {
@@ -1349,51 +1409,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/future-rendering-4.webp/e410e381724e03c1692b31115b2602b3/future-rendering-4.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c00a1c6f5b8cc5f7845ea1a1fa4c2e71540383ec",
-    "title": "Disgraced Indian cert issuer leaves the cert issuing business",
-    "link": "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848",
-    "summary": "We didn't want to issue SSL/TLS certs anyway, eMudhra suggests after one private key turns out to be the number 4",
-    "isoDate": "2026-10-22T16:58:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=235298&width=800",
-    "pinned": false
-  },
-  {
-    "id": "65cab38538865f9c7539ae6fd4581c97f6d3803a",
-    "title": "PHP2Shell puts dozens of UK government services out of service",
-    "link": "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840",
-    "summary": "Ministers report 32 unavailable and four partly disrupted, but no confirmed compromise",
-    "isoDate": "2026-10-22T16:05:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=229174&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ca67b6d85b942445be294a3bc815b1cfede8ec10",
-    "title": "Apple App Store review process hits a traffic jam",
-    "link": "https://www.theregister.com/applications/2026/10/22/apple-app-store-review-process-hits-a-traffic-jam/5304802",
-    "summary": "Apple log jam? Apple fast lane pie-lup? We're here all week, on stage... sweeping it",
-    "isoDate": "2026-10-22T15:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [
-      "applications"
-    ],
-    "image": "https://image.theregister.com/?imageId=261768&width=800",
     "pinned": false
   },
   {
