@@ -1,5 +1,73 @@
 [
   {
+    "id": "f1032294b76f4b1c356c248ab115f4c9128f0284",
+    "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+    "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+    "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+    "isoDate": "2026-10-28T22:51:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Science",
+      "Space",
+      "Amazon",
+      "amazon leo",
+      "broadband",
+      "cape canaveral",
+      "launch",
+      "megaconstellation",
+      "Northrop Grumman",
+      "united launch alliance",
+      "vulcan",
+      "vulcan centaur"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "47ebb1c951d49cb735a5a895610af4e56d44cc46",
+    "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+    "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+    "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
+    "isoDate": "2026-10-28T22:35:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "Arctic",
+      "Canada",
+      "european union",
+      "Greenland",
+      "sabotage",
+      "subsea cable",
+      "subsea cables",
+      "undersea cable",
+      "undersea cable cuts",
+      "undersea cables"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4af1c4c1310925e66e0b2429e046ee36fa63a84c",
+    "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+    "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+    "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
+    "isoDate": "2026-10-28T22:17:15Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "fda",
+      "Peptides"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "e0b8db569d8da0897f3bddfd4b0f565462a2da75",
     "title": "Please state the nature of the medical emergency: Google is building a robot medic for NASA",
     "link": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130",
@@ -482,9 +550,9 @@
     "pinned": false
   },
   {
-    "id": "783fc65cb39295e6e5d6bdc6ff8093f6108c9f11",
-    "title": "Man spends 35 years collecting corporate waffle, turns it into an app",
-    "link": "https://www.theregister.com/offbeat/2026/10/28/man-spends-35-years-collecting-corporate-waffle-turns-it-into-an-app/5305765",
+    "id": "4e19880a2bbad43257f3929ccac8bc656ae982a0",
+    "title": "Man spends 35 years collecting corporatespeak, turns it into an app",
+    "link": "https://www.theregister.com/offbeat/2026/10/28/man-spends-35-years-collecting-corporatespeak-turns-it-into-an-app/5305765",
     "summary": "Why waste time thinking of something useful to say when an app can leverage synergies for you?",
     "isoDate": "2026-10-28T10:15:00Z",
     "source": "The Register",
@@ -667,26 +735,6 @@
     "pinned": false
   },
   {
-    "id": "71d9cb2bf3e5ef867fc7df6dea524995e0b59531",
-    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-    "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-    "isoDate": "2026-10-27T20:25:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "bootkits",
-      "buffer overflow",
-      "disclosure",
-      "uefi"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2a82e21cea3f33d6a18dd85c1274ea705361544b",
     "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
@@ -712,26 +760,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ai5-chip-design.webp/9cc7cffa08cedadec4f37dc7238d978e/ai5-chip-design.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d5ef55b539d3f48c0a0467fd4fb2266026b6b071",
-    "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-    "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-    "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
-    "isoDate": "2026-10-27T19:32:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "android",
-      "app stores",
-      "google",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-500x500.jpg",
     "pinned": false
   },
   {
@@ -762,27 +790,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5305858&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a6a1f4abbd10c8132fe1a59588b73cc529926393",
-    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-    "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-    "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
-    "isoDate": "2026-10-27T18:49:08Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "AI",
-      "Science",
-      "biochemistry",
-      "Biology",
-      "Computer science",
-      "Genomics",
-      "protein design"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-500x500.jpg",
     "pinned": false
   },
   {
@@ -1586,32 +1593,6 @@
     "author": "Elizabeth Oldfield",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "e81a6fb00528b0c4d3c9913e255c1f06a84db207",
-    "title": "Tesla FSD V14.3.12 Down Under Release Notes (Update 2026.38.5.5)",
-    "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.5/release-notes",
-    "summary": "We take a look at the release notes and what's new in Tesla update 2026.38.5.5. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.38.5.5/release-notes\">Read More</a>",
-    "isoDate": "2026-10-21T23:29:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/fsd-supervised-v14312-down-under.png/42c01d42e0ee1fd19537b42ae8f56ad1/fsd-supervised-v14312-down-under.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4ce75d7dd14eb63e453bfd384237ae020a03e2d4",
-    "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
-    "link": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
-    "summary": "Tesla’s Q3 2026 report shows FSD is bundled with 75% of new North American deliveries and active subscriptions have hit 1.74 million, up 67% year over year and <a href=\"https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders\">Read More</a>",
-    "isoDate": "2026-10-21T21:30:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard-1790711572.jpg/2007acb44a5e2531b9b75042b4a2ae2c/fsd_giftcard-1790711572.jpg",
     "pinned": false
   }
 ]
