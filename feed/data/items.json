@@ -1,5 +1,209 @@
 [
   {
+    "id": "d266a488af8f08b010c32d62922daad7f1dd7cfc",
+    "title": "Critical launch for Vulcan as ULA targets Friday the 13th",
+    "link": "https://www.theregister.com/offbeat/2026/10/29/critical-launch-for-vulcan-as-ula-targets-friday-the-13th/5306243",
+    "summary": "Hopefully without disintegrating SRB nozzles",
+    "isoDate": "2026-10-29T13:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=240696&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ec59d102565dd0e725d020c55121ed04766aaf37",
+    "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+    "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+    "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+    "isoDate": "2026-10-29T12:58:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dhruv Mehrotra, wired.com",
+    "tags": [
+      "Security",
+      "DHS",
+      "doxxing",
+      "hacking",
+      "ice",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6a4410175a8f57472f8365dc7be291386ed17ab2",
+    "title": "Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying",
+    "link": "https://www.theregister.com/security/2026/10/29/shortlist-of-age-checks-for-the-uks-under-16-social-media-ban-is-out-some-adults-will-need-verifying/5306282",
+    "summary": "Some adults may not need to prove it, but many will",
+    "isoDate": "2026-10-29T12:33:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=238027&width=800",
+    "pinned": false
+  },
+  {
+    "id": "41e5bf08d6d39f726778e09b95ac3061e926e9a9",
+    "title": "Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour",
+    "link": "https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153",
+    "summary": "'The workflow automatically is triggered within a second, and if the workflow is indeed vulnerable, then the attack is executed successfully'",
+    "isoDate": "2026-10-29T12:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5241038&width=800",
+    "pinned": false
+  },
+  {
+    "id": "91e272a54bcf5dcf61add9b89a46a1f5752bcd6f",
+    "title": "LibreOffice's 'no AI' stance meets LLM-assisted code",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084",
+    "summary": "Core developers avoid AI coding assistants, while community contributors face disclosure and review rules",
+    "isoDate": "2026-10-29T11:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5300113&width=800",
+    "pinned": false
+  },
+  {
+    "id": "421fcafb7abeabc4b7149b2667ade34f9b966c9c",
+    "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+    "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+    "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
+    "isoDate": "2026-10-29T11:00:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Features",
+      "Space",
+      "artemis",
+      "blue origin",
+      "Elon Musk",
+      "Jeff Bezos",
+      "NASA",
+      "space",
+      "spacex"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ab27d73196e29afa159e89b05fe28ec2f9a88b47",
+    "title": "Traces of new Pi hardware spotted in GitHub",
+    "link": "https://www.theregister.com/personal-tech/2026/10/29/traces-of-new-pi-hardware-spotted-in-github/5306022",
+    "summary": "A new Pi Zero 3 W and Pi 4 Model A seen lurking in the repository",
+    "isoDate": "2026-10-29T11:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5237283&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ff9d2245d9a9304164c2668b6413123e6d130e18",
+    "title": "Microsoft breaks New Outlook attachment opening with Edge Update",
+    "link": "https://www.theregister.com/personal-tech/2026/10/29/microsoft-breaks-new-outlook-attachment-opening-with-edge-update/5306224",
+    "summary": "Attachments in New Outlook come undone thanks to Windows' fundamental interconnectedness of things",
+    "isoDate": "2026-10-29T10:14:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5278204&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4a8fe907f9a35765ecff75ec0a1035d53ed8d9e4",
+    "title": "Hills and mountains",
+    "link": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
+    "summary": "<p><img alt=\"Photo of a mosque on a street with snow-capped mountains and blue sky in background and people, cars and a flying pigeon in the foreground\" src=\"https://images.aeonmedia.co/images/ff45dbb1-3bc0-4c05-b179-66f23dd04c84/hills-and-mountains-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>A girl’s story of forced marriage reveals how the Soviet invasion of 1979 transformed life in Afghanistan</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own\">Watch on Aeon</a></p>",
+    "isoDate": "2026-10-29T10:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "21fe777cfc37e9e670202fb884f2668064709908",
+    "title": "The physics of getting fired",
+    "link": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+    "summary": "<p><img alt=\"A frosted glass door with metal handle, card reader and a number 0 sign on a beige wall, indoors.\" src=\"https://images.aeonmedia.co/images/afb6d18f-037c-451b-a48b-e7420fcaa8b4/essay-v1-test-v1-jiran-family-4srj_3nontc-unsplash.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give</p><p><em>- by Zahaan Bharmal</em></p><p><a href=\"https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life\">Read on Aeon</a></p>",
+    "isoDate": "2026-10-29T10:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Zahaan Bharmal",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "732cc5c02fbc737ebab74955c1a7bd6b06396804",
+    "title": "Matrix takes sovereign messaging into the realm of the tech giants",
+    "link": "https://www.theregister.com/software/2026/10/29/matrix-takes-sovereign-messaging-into-the-realm-of-the-tech-giants/5305915",
+    "summary": "Once more, with feeling: 'First they ignore you, then they laugh at you, then they fight you'",
+    "isoDate": "2026-10-29T09:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=263174&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3974020733a46558a4580f6bbc048f0537815314",
+    "title": "Admin dropped the F-bomb in a password to show hackers who was really 1337",
+    "link": "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139",
+    "summary": "Cursing in login credentials can help keep the bad guys out, but not when the rest of your security is BS",
+    "isoDate": "2026-10-29T09:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5280606&width=800",
+    "pinned": false
+  },
+  {
+    "id": "44e3fd2d40c5d1d837750a48cbaf41cf833d576c",
+    "title": "HPE puts storage to work on AI’s expensive memory problem",
+    "link": "https://www.theregister.com/storage/2026/10/29/partner-content-hpe-puts-storage-to-work-on-ais-expensive-memory-problem/5305793",
+    "summary": "<span class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> HPE Alletra MP X10000 cache offload delivers up to 20× faster time to first token in testing validated by Kamiwaza. Apparently, remembering things beats calculating them again.",
+    "isoDate": "2026-10-29T09:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Colin Gallagher",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305790&width=800",
+    "pinned": false
+  },
+  {
     "id": "f8f8a720eb89b9785418c44f8386a6e8f5260aee",
     "title": "Google's Gemini 4 Carbon looks like a diamond in the rough",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149",
@@ -63,7 +267,7 @@
     "id": "f1032294b76f4b1c356c248ab115f4c9128f0284",
     "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
     "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-    "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+    "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
     "isoDate": "2026-10-28T22:51:15Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -758,43 +962,6 @@
     "pinned": false
   },
   {
-    "id": "6849d36ab61f28e0b8bd3f12ea15c2d3f4850204",
-    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-    "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-    "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-    "isoDate": "2026-10-27T21:50:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "AI",
-      "Policy",
-      "AI-run companies",
-      "Delaware"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-500x500-1793134828.jpg",
-    "pinned": false
-  },
-  {
-    "id": "78aca7aaafb2150dc3f494083f12456a2216a70b",
-    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-    "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-    "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
-    "isoDate": "2026-10-27T21:31:14Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Kyle Orland",
-    "tags": [
-      "AI",
-      "AI risks",
-      "Anthropic",
-      "IPO",
-      "S-1"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "2a82e21cea3f33d6a18dd85c1274ea705361544b",
     "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
@@ -1130,51 +1297,6 @@
     "pinned": false
   },
   {
-    "id": "5c358696ab934ce33d24ee407bead2f7ca518643",
-    "title": "IBM admits mainframes need to be modernized and will use AI to do the job",
-    "link": "https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618",
-    "summary": "Promises to build ‘IBM Z Atlas’ tool that will tidy up messy big iron and enable AIOps",
-    "isoDate": "2026-10-27T04:07:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=142108&width=800",
-    "pinned": false
-  },
-  {
-    "id": "87fbf5a3c96b51901626b5b2af58232b63f3ef1b",
-    "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
-    "link": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
-    "summary": "CEO admits service used for foreign exchange trading had holes company was slow to fix",
-    "isoDate": "2026-10-27T01:06:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=255850&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4f8c3a88f097c1639c8793abbd86561d61292d00",
-    "title": "Humanity can't afford not to spend $800B on AI, Anthropic insists",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580",
-    "summary": "It's more important than chips, 'leccy and the net, after all",
-    "isoDate": "2026-10-26T23:39:49Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305597&width=800",
-    "pinned": false
-  },
-  {
     "id": "8c2aa3fd467263714323229634cf53f6c4f5fec8",
     "title": "Tesla’s New Houston Robotaxi Area Is Shaped Like a Rocket",
     "link": "https://www.notateslaapp.com/news/4903/teslas-new-houston-robotaxi-area-is-shaped-like-a-rocket",
@@ -1188,36 +1310,6 @@
     "pinned": false
   },
   {
-    "id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
-    "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
-    "summary": "Not a bombshell, but it rivals pricier models on some tasks at a tenth of Astra's API price",
-    "isoDate": "2026-10-26T23:08:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305594&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a3e6628ceeb10e86c0546b1ecb02482e08dc60ea",
-    "title": "Worm armed 42 GitHub repos by hiding a payload too big to fail",
-    "link": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
-    "summary": "Payload blobs measuring 12.9 to 13.7 MB were large enough to evade GitHub code search",
-    "isoDate": "2026-10-26T22:29:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242669&width=800",
-    "pinned": false
-  },
-  {
     "id": "614b2f3042977fd7e8215d13d6d62b224f5a9279",
     "title": "Latvia Becomes 10th EU Country to Approve Tesla FSD",
     "link": "https://www.notateslaapp.com/news/4902/latvia-becomes-10th-eu-country-to-approve-tesla-fsd",
@@ -1228,66 +1320,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-approval-in-latvia.webp/ad9676a1d805559b4f7b8db321d455c2/fsd-approval-in-latvia.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ca6faf2faa2116ebdc4b01a884d2ef1fa47bfd4d",
-    "title": "Alibaba's Qwen AI caught trying to contact server in China",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
-    "summary": "But there's not much evidence this is anything more than echoes of unsanitized training data",
-    "isoDate": "2026-10-26T21:27:37Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305565&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1a47a5dbcb816a0edbc83d701e208a334b1d38c6",
-    "title": "LiteLLM supply chain attack started with an exposed master key",
-    "link": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
-    "summary": "A 'strong illustration of the risks associated with failing to rotate a potentially exposed key'",
-    "isoDate": "2026-10-26T20:30:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5263597&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d1c7eff86537504e2cf276982182bcfc8fae9dfc",
-    "title": "Microsoft offers parachutes to 60k employees if they jump by the end of the year",
-    "link": "https://www.theregister.com/cxo/2026/10/26/microsoft-offers-parachutes-to-60k-employees-if-they-jump-by-the-end-of-the-year/5305538",
-    "summary": "Voluntary exit offer extended to about one-quarter of existing Softies",
-    "isoDate": "2026-10-26T19:55:44Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "cxo"
-    ],
-    "image": "https://image.theregister.com/?imageId=236947&width=800",
-    "pinned": false
-  },
-  {
-    "id": "58e679e292e6d1ac801df08a40dfa3579c032004",
-    "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
-    "link": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
-    "summary": "Redmond joins growing list of software maintainers scrambling to patch compression flaw",
-    "isoDate": "2026-10-26T17:58:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=244699&width=800",
     "pinned": false
   },
   {
@@ -1554,45 +1586,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-3.webp/add26bc704a5fd1f8f19c8e0efca2e24/optimus-human-hands-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5d5b4d868560351207458b936a5b3840f4bbfc7e",
-    "title": "Tesla Says It's Trying to Get Cybercabs to Customers by the End of This Year",
-    "link": "https://www.notateslaapp.com/news/4864/tesla-targets-5m-cars-a-year-by-2030-cybercab-sales-soon",
-    "summary": "On its Q3 earnings call, Tesla set a 5 million vehicle production goal for 2030 and said it’s trying to get Cybercabs to customers by the end of 2026 <a href=\"https://www.notateslaapp.com/news/4864/tesla-targets-5m-cars-a-year-by-2030-cybercab-sales-soon\">Read More</a>",
-    "isoDate": "2026-10-22T13:46:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-production.webp/4e16d3763b10bcba9a15678f8019b014/cybercab-production.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b336624ef51e38f8179d2fb0198e8d0d94d2c926",
-    "title": "Bhutan: the last place",
-    "link": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
-    "summary": "<p><img alt=\"Photo of a boy in a sports jacket, looking thoughtful with his reflection in a dimly lit mirror behind him.\" src=\"https://images.aeonmedia.co/images/92d2b7d3-2619-4d46-a6ab-15754363e1eb/bhutan-the-last-place-landscape-1-v2.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>What happened when people in Bhutan, the last country on Earth without television, were allowed to watch it in 1999?</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban\">Watch on Aeon</a></p>",
-    "isoDate": "2026-10-22T10:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "71525f36f86cdc007a8127059e157af392cc174c",
-    "title": "Other people",
-    "link": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
-    "summary": "<p><img alt=\"A group hug in a shed doorway, with people embracing closely. Blue walls, metal roof and a door are visible.\" src=\"https://images.aeonmedia.co/images/9bc0eb2d-bb6c-4037-8408-96e841ba02b7/essay-photo-.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally</p><p><em>- by Elizabeth Oldfield</em></p><p><a href=\"https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die\">Read on Aeon</a></p>",
-    "isoDate": "2026-10-22T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Elizabeth Oldfield",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
