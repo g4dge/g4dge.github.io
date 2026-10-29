@@ -1,5 +1,65 @@
 [
   {
+    "id": "f8f8a720eb89b9785418c44f8386a6e8f5260aee",
+    "title": "Google's Gemini 4 Carbon looks like a diamond in the rough",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149",
+    "summary": "Undercutting Claude on price ahead of Anthropic's IPO",
+    "isoDate": "2026-10-29T05:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306177&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6331daa278a39614c3cdac543419ee3786c32a0a",
+    "title": "Boffin's software found a possible dwarf planet - a result so rare he thought it must be a bug",
+    "link": "https://www.theregister.com/science/2026/10/29/boffins-software-found-a-possible-dwarf-planet-a-result-so-rare-he-thought-it-must-be-a-bug/5306204",
+    "summary": "2026 ED138 is way out beyond Neptune and perhaps the smallest known object of its type",
+    "isoDate": "2026-10-29T05:06:42Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306210&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fc9b2c9e797b022cb99023ea3541116ea016299e",
+    "title": "Tape is so not dead that Fujifilm will increase production capacity 5x",
+    "link": "https://www.theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189",
+    "summary": "Because, sigh, AI",
+    "isoDate": "2026-10-29T03:34:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306196&width=800",
+    "pinned": false
+  },
+  {
+    "id": "736bac068c15c6470889826e5f188d2a84e7da66",
+    "title": "Google struggling to make AI Mode searches pay",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+    "summary": "That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud",
+    "isoDate": "2026-10-29T01:12:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306186&width=800",
+    "pinned": false
+  },
+  {
     "id": "f1032294b76f4b1c356c248ab115f4c9128f0284",
     "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
     "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
@@ -1228,66 +1288,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=244699&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4913cf918626417096fc8a4de6daa0fbd4ac6f3c",
-    "title": "Open source keyboard lets you swap parts like magnetic Lego bricks",
-    "link": "https://www.theregister.com/offbeat/2026/10/26/open-source-keyboard-lets-you-swap-parts-like-magnetic-lego-bricks/5305470",
-    "summary": "Every key is its own module, and its designer tells us the sky's the theoretical limit on the size of the frankenboard you can build",
-    "isoDate": "2026-10-26T17:25:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305474&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d80b90a04fbd45a8d9aa0c53141cfb37e19a0952",
-    "title": "Reddit's r/opensource bans AI slop, and quite a few humans for good measure",
-    "link": "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392",
-    "summary": "New rules also shut out solo developers, fledgling projects, and anyone who doesn't speak English",
-    "isoDate": "2026-10-26T17:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=5277792&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8d7305202070d0ebc798f72a8212599adddc7d12",
-    "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
-    "link": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
-    "summary": "Jaydip Modhwadia beats challenge designed to test real-world exploitability of PHP2Shell in around 3 hours",
-    "isoDate": "2026-10-26T16:14:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240537&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0484546ab1e68e9aaf733dcb6cc46a2bebcec69f",
-    "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
-    "summary": "Claude maker reveals financials and warns investors its AI models could blackmail humans, resist shutdown, or go rogue",
-    "isoDate": "2026-10-26T15:47:05Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305476&width=800",
     "pinned": false
   },
   {
