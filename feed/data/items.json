@@ -1,5 +1,65 @@
 [
   {
+    "id": "31015023a2dffb118657f5229b81c4d97af86e70",
+    "title": "Farm PC 'maintained' by a 14-year-old dumped support chap in a steaming pile of tech mess",
+    "link": "https://www.theregister.com/systems/2026/10/30/farm-pc-maintained-by-a-14-year-old-dumped-support-chap-in-a-steaming-pile-of-tech-mess/5306217",
+    "summary": "Human users can be hard to handle. A few hundred head of cattle and unsupported windows XP can really stink things up",
+    "isoDate": "2026-10-30T06:33:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=233457&width=800",
+    "pinned": false
+  },
+  {
+    "id": "24aa0af30ecb64d63fced74376e9451c8b466a17",
+    "title": "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
+    "link": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
+    "summary": "Before long, we could be writing about a cloud company with a retail side hustle",
+    "isoDate": "2026-10-30T05:42:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306552&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fd607345118f3399caa2c3f40ae76f463a3ee0d7",
+    "title": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security",
+    "link": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
+    "summary": "Binance freezes funny money after compromise of engineer’s laptop linked to $6.3 billion of unauthorized trades",
+    "isoDate": "2026-10-30T04:22:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306544&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b911ac1601256ccc4d63842b56825ec1939a1e0a",
+    "title": "PC chip plunge wipes out a quarter of Intel’s value",
+    "link": "https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531",
+    "summary": "CEO predicts massive datacenter CPU boom, coming soon, but production problems mean Chipzilla may not cash in",
+    "isoDate": "2026-10-30T02:42:58Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=134970&width=800",
+    "pinned": false
+  },
+  {
     "id": "eee28578f735a273be8f225716e5c5c003326ce9",
     "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
     "link": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
@@ -1258,51 +1318,6 @@
     "pinned": false
   },
   {
-    "id": "1145817a986213de2cf9e2d3f5e8679423669a6b",
-    "title": "Apple takes powerful M6 chip to the MacBook Pro, iMac",
-    "link": "https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797",
-    "summary": "6th-gen M-series silicon promises more cores, faster memory, a fatter NPU, and better connectivity, now in more form factors",
-    "isoDate": "2026-10-27T17:47:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305802&width=800",
-    "pinned": false
-  },
-  {
-    "id": "36d4073b68d2823d87477a7ef9256c0709002e02",
-    "title": "EU privacy advocates accuse US data annotation firm of snooping on contractors",
-    "link": "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757",
-    "summary": "Noyb files five complaints in four member states over alleged tracking of workers on Scale AI's Outlier platform",
-    "isoDate": "2026-10-27T17:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305785&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d49a0877cc3993ea4253eeed35e5cbac6a96baaa",
-    "title": "ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux",
-    "link": "https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710",
-    "summary": "Classic Platinum or lickable Mavericks-era Aqua – it's your choice",
-    "isoDate": "2026-10-27T17:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305716&width=800",
-    "pinned": false
-  },
-  {
     "id": "05495ba6afe3fc6e7045d298831a9026be8f4c3e",
     "title": "Tesla App Code Reveals FSD Referral Rewards Are Coming",
     "link": "https://www.notateslaapp.com/news/4905/tesla-app-code-reveals-fsd-referral-rewards-are-coming",
@@ -1313,21 +1328,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard-1790711572.jpg/2007acb44a5e2531b9b75042b4a2ae2c/fsd_giftcard-1790711572.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bee2c07a4262e07b619ab33ad3b14372faad6b41",
-    "title": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
-    "link": "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
-    "summary": "University hospitals once again accepting patients after initial ambulance diversion, but recovery to continue in phases",
-    "isoDate": "2026-10-27T16:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5238831&width=800",
     "pinned": false
   },
   {
