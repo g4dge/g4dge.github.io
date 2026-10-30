@@ -1,5 +1,57 @@
 [
   {
+    "id": "eee28578f735a273be8f225716e5c5c003326ce9",
+    "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+    "link": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
+    "summary": "Embedded browsers are at the heart of the problem",
+    "isoDate": "2026-10-29T23:12:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306527&width=800",
+    "pinned": false
+  },
+  {
+    "id": "adc226400758a68f359c444b88fb2bf7ca6c94e2",
+    "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+    "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+    "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+    "isoDate": "2026-10-29T21:47:57Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "reddit",
+      "social media"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ca205e978a06d148f1ae8663641aef1e07f195ba",
+    "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+    "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+    "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+    "isoDate": "2026-10-29T20:18:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nick Indge",
+    "tags": [
+      "Tech",
+      "Financial Report",
+      "KB5127936",
+      "microsoft",
+      "right-click menu",
+      "windows 11"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "69e91b7f989d65c77f02d17529d2124677e01552",
     "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
     "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
@@ -16,6 +68,36 @@
       "Ukraine"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-500x500-1792605024.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f9482e1e329ce711bdd82267bd0408053dd9b3c1",
+    "title": "Howler will have AI answer your questions, then burn the chat",
+    "link": "https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
+    "summary": "Ask AI dumb things and leave no local chat history, all with the style of a kids' fantasy novel – or rather, one of its magical letters",
+    "isoDate": "2026-10-29T20:04:05Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=202306&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6dc553098491af8b239ec547c51ec20d014de39d",
+    "title": "Startup wants to make AI agents safe for DevOps duty",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/29/startup-wants-to-make-ai-agents-safe-for-devops-duty/5306477",
+    "summary": "Infrastructure automation needs something better than prompt and pray",
+    "isoDate": "2026-10-29T19:46:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306496&width=800",
     "pinned": false
   },
   {
@@ -841,26 +923,6 @@
     "pinned": false
   },
   {
-    "id": "e0369b72520a0277e7dd45fd8c8d2646cb2b12a2",
-    "title": "Apple announces touchscreen MacBook Pro with OLED display",
-    "link": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
-    "summary": "The OLED display is the main draw, but the price is a lot to reckon with.",
-    "isoDate": "2026-10-28T17:25:04Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Apple",
-      "apple",
-      "Mac",
-      "MacBook Pro",
-      "MacOS",
-      "oled"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-500x500-1793208141.jpg",
-    "pinned": false
-  },
-  {
     "id": "0afbd32e1ac6a95cb3af5e33be14e6921d6d62ea",
     "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
@@ -916,25 +978,6 @@
       "cyber-crime"
     ],
     "image": "https://image.theregister.com/?imageId=226050&width=800",
-    "pinned": false
-  },
-  {
-    "id": "180cb46240423f278e99f5f27fe750cc8edaa90c",
-    "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
-    "link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
-    "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\"",
-    "isoDate": "2026-10-28T15:48:12Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "Jumanji: Open World",
-      "Sony Pictures",
-      "Trailers"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-500x500-1793197887.jpg",
     "pinned": false
   },
   {
@@ -1288,21 +1331,6 @@
     "pinned": false
   },
   {
-    "id": "9fae158b9ff574cfef2e5a99f9e941fea8f15c71",
-    "title": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year",
-    "link": "https://www.theregister.com/saas/2026/10/27/take-it-on-the-chin-satnad-microsoft-chief-execs-pay-slips-6-in-record-year/5305737",
-    "summary": "Revenue up, operating profit up, 30 million paid Copilot seats locked in, 88 DCs added, $43.8 billion returned to shareholders",
-    "isoDate": "2026-10-27T15:51:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Paul Kunert",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=256704&width=800",
-    "pinned": false
-  },
-  {
     "id": "d5a0ebd9d93f99c8d5278947e02589610a8de347",
     "title": "Tesla’s Optimus Robot Will Soon Plug In Robotaxis to Charge",
     "link": "https://www.notateslaapp.com/news/4904/teslas-optimus-robot-will-soon-plug-in-robotaxis-to-charge",
@@ -1313,36 +1341,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/optimus-charging-cybercab-supercharger-render-watermarked.webp/effe3d3faea78b6ec25c80b4c2a32a19/optimus-charging-cybercab-supercharger-render-watermarked.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6aac3b6503006f2e87688963ad72ea21b5c9dbc4",
-    "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
-    "link": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681",
-    "summary": "Both critical PHP flaws land on the agency’s exploited list as infosec pros confirm hackers are getting working shells",
-    "isoDate": "2026-10-27T14:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305685&width=800",
-    "pinned": false
-  },
-  {
-    "id": "84b53c26be12ba8f2a450abe5cdfc95d83531bef",
-    "title": "A whopping 3% of boardroom execs spy productivity and costs savings from AI",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/27/a-whopping-3-of-boardroom-execs-spy-productivity-and-costs-savings-from-ai/5305675",
-    "summary": "A load more are spending more than they expected and forecast to shell out even more in 2027",
-    "isoDate": "2026-10-27T14:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5305717&width=800",
     "pinned": false
   },
   {
