@@ -1,5 +1,27 @@
 [
   {
+    "id": "e7a0d7ebfffdbdc5e92c38b2a6d5bf79159fbca6",
+    "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+    "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+    "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+    "isoDate": "2026-10-31T00:07:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "astronomy",
+      "astrophysics",
+      "Commercial space",
+      "Hubble Space Telescope",
+      "jared isaacman",
+      "NASA",
+      "satellite servicing"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "b1311b7a9510b7df23493d0695e44f09b834cb69",
     "title": "Flesh-eating screwworms spread to third state and are attacking pets",
     "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
@@ -137,6 +159,21 @@
     "pinned": false
   },
   {
+    "id": "bb88bfd803d077c492e2d82aed386b5a50fc1034",
+    "title": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782",
+    "summary": "Blame plunging prices on tokens",
+    "isoDate": "2026-10-30T20:32:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=227887&width=800",
+    "pinned": false
+  },
+  {
     "id": "a222d0a212be4059289e582f89c13902de0c8a2b",
     "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
     "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
@@ -150,6 +187,36 @@
       "antibiotics"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3c2c8a544f014bf5616c62cfc0c0ff40f7a1bd33",
+    "title": "HTTP/3 is faster with some work and help from Cloudflare",
+    "link": "https://www.theregister.com/devops/2026/10/30/http/3-is-faster-with-some-work-and-help-from-cloudflare/5306767",
+    "summary": "How the Uber-bound delivery giant tuned its mobile networking stack to cut latency",
+    "isoDate": "2026-10-30T20:00:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joab Jackson",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306774&width=800",
+    "pinned": false
+  },
+  {
+    "id": "83d9201a844dc692d9ec03632c894aa397615e39",
+    "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
+    "link": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
+    "summary": "n0n-existent security",
+    "isoDate": "2026-10-30T19:37:12Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306779&width=800",
     "pinned": false
   },
   {
@@ -814,29 +881,6 @@
     "pinned": false
   },
   {
-    "id": "2eb0eeefec6e63209eacefceecc441e52218b439",
-    "title": "Trump declares robot imports a national security threat",
-    "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-    "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-    "isoDate": "2026-10-29T19:07:53Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Tech",
-      "imports",
-      "Industrial robots",
-      "physical AI",
-      "Robotics",
-      "robots",
-      "trump tariffs",
-      "US manufacturing"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "50e8cd6d193c992701de7871b019d9e7a1a79190",
     "title": "Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers",
     "link": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
@@ -1343,51 +1387,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/emergency-drive-away-supercharger.webp/ed7bd73b3d79fc7ed936c7b2083a92db/emergency-drive-away-supercharger.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4037f47be7e53c74060b9b89107aac5cd444bcd4",
-    "title": "How Google fumbled the frontend with Angular 2",
-    "link": "https://www.theregister.com/devops/2026/10/28/how-google-fumbled-the-frontend-with-angular-2/5306030",
-    "summary": "All Things Open Talk provided lessons in how not to upgrade a software package",
-    "isoDate": "2026-10-28T15:11:46Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joab Jackson",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5306054&width=800",
-    "pinned": false
-  },
-  {
-    "id": "477e9dcdae264153df96cd88813a9e790da64ee9",
-    "title": "Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions",
-    "link": "https://www.theregister.com/on-prem/2026/10/28/microsoft-faces-potential-vote-shareholders-curious-about-its-plans-to-tackle-emissions/5305953",
-    "summary": "Greenhouse gas output has risen dramatically since the company promised to become carbon-negative by 2030",
-    "isoDate": "2026-10-28T14:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5292360&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d2eeb025d6ee361355333b5a5e27115d84c073af",
-    "title": "China's spaceplane bears striking resemblance to America's X-37B",
-    "link": "https://www.theregister.com/offbeat/2026/10/28/chinas-spaceplane-bears-striking-resemblance-to-americas-x-37b/5305983",
-    "summary": "Defense Intelligence Agency space report includes a rare orbital snap of the Chinese craft, and it looks rather familiar",
-    "isoDate": "2026-10-28T13:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094139&width=800",
     "pinned": false
   },
   {
