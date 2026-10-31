@@ -1,5 +1,103 @@
 [
   {
+    "id": "6639c1e912ec639bed8c9e28f3cd1321b66c7116",
+    "title": "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s",
+    "link": "https://www.theregister.com/offbeat/2026/10/31/goth-aesthetic-gone-wild-a-users-self-inflicted-black-screen-of-non-death-in-windows-31s/5306592",
+    "summary": "Labeled in black on black - controls for a galactic hyper-hearse or ill-advised Windows theme?",
+    "isoDate": "2026-10-31T12:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=261311&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e58df0c82cd4e2a23ca2da145d93fedc9d2c263f",
+    "title": "Seabirds racing home over the ocean can get jet-lagged",
+    "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+    "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+    "isoDate": "2026-10-31T11:15:26Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "Behavioral science",
+      "Biology",
+      "chronobiology",
+      "circadian",
+      "internal clocks",
+      "navigation"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "58f1874bf514e218276b88e42b5109fe5efcac4c",
+    "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+    "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+    "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+    "isoDate": "2026-10-31T11:02:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Sara Talpos, Undark Magazine",
+    "tags": [
+      "Science",
+      "fda",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "10b3fdf3c2b838d641dab9a0026763438a05e329",
+    "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+    "summary": "A lot of software engineers feel bleak about the future of the profession",
+    "isoDate": "2026-10-31T11:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Corey Quinn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306808&width=800",
+    "pinned": false
+  },
+  {
+    "id": "445191fa6aaa4b4f894ea819c0a6a37d77d8f1d4",
+    "title": "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out",
+    "link": "https://www.theregister.com/offbeat/2026/10/31/chocolate-caterpillar-or-chocolate-teapot-top-up-the-disk-space-for-windows-10-to-find-out/5306103",
+    "summary": "London's Oxford Street signage shows its underwear to passing tourists",
+    "isoDate": "2026-10-31T09:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306107&width=800",
+    "pinned": false
+  },
+  {
+    "id": "0bcbd00768f43f2bf69a2c4da05d8acde8b02863",
+    "title": "Backbone of a beast – charting Nvidia's rise to networking titan",
+    "link": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
+    "summary": "How a $6.9B bet on Mellanox made Nvidia bigger than Cisco, and the world's most valuable company to boot",
+    "isoDate": "2026-10-31T08:03:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=116063&width=800",
+    "pinned": false
+  },
+  {
     "id": "e7a0d7ebfffdbdc5e92c38b2a6d5bf79159fbca6",
     "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
     "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
@@ -784,45 +882,6 @@
     "pinned": false
   },
   {
-    "id": "ca205e978a06d148f1ae8663641aef1e07f195ba",
-    "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-    "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-    "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-    "isoDate": "2026-10-29T20:18:49Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nick Indge",
-    "tags": [
-      "Tech",
-      "Financial Report",
-      "KB5127936",
-      "microsoft",
-      "right-click menu",
-      "windows 11"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "69e91b7f989d65c77f02d17529d2124677e01552",
-    "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-    "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-    "summary": "Inspector general rejected request from Democratic and Republican senators.",
-    "isoDate": "2026-10-29T20:08:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Pentagon",
-      "starlink",
-      "starshield",
-      "Ukraine"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-500x500-1792605024.jpg",
-    "pinned": false
-  },
-  {
     "id": "f9482e1e329ce711bdd82267bd0408053dd9b3c1",
     "title": "Howler will have AI answer your questions, then burn the chat",
     "link": "https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
@@ -1291,21 +1350,6 @@
     "pinned": false
   },
   {
-    "id": "c96bde332f1d8e804e9295e9a80355c8b381e3cb",
-    "title": "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble",
-    "link": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
-    "summary": "Attackers probe another EBS bug, and ShinyHunters' PeopleSoft 0-day turns out to involve three vulns",
-    "isoDate": "2026-10-28T19:56:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5306136&width=800",
-    "pinned": false
-  },
-  {
     "id": "0873a397e277ef23d575738dd6cd46b4f5de8e4e",
     "title": "New Bill Would Bring Back U.S. EV Tax Credit, Doubled to $15K",
     "link": "https://www.notateslaapp.com/news/4913/new-bill-would-bring-back-us-ev-tax-credit-doubled-to-15k",
@@ -1319,36 +1363,6 @@
     "pinned": false
   },
   {
-    "id": "0afbd32e1ac6a95cb3af5e33be14e6921d6d62ea",
-    "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
-    "summary": "Focus more on what matters, please, like creating useful software and accomplishing company goals",
-    "isoDate": "2026-10-28T16:49:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5251931&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e8c97a04456a554418680398a36ba31aac2814a2",
-    "title": "GitHub powering up four million extra cores to stop its service going down",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863",
-    "summary": "Re-architects site to cope with AI slop-pocalypse",
-    "isoDate": "2026-10-28T16:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=1618985&width=800",
-    "pinned": false
-  },
-  {
     "id": "1b7b41f28515b2cc4bbe9bd2dfd8339338d23ae1",
     "title": "Tesla Semi Catches Fire on the Highway [VIDEOS]",
     "link": "https://www.notateslaapp.com/news/4912/tesla-semi-catches-fire-on-the-highway-videos",
@@ -1359,21 +1373,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-i-880-fire-1.webp/a869eee5eda591de787aee08e248a188/tesla-semi-i-880-fire-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "28e02983a33a0aa6dc374a48e47ebab8a4b13d5f",
-    "title": "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles",
-    "link": "https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050",
-    "summary": "Artem Stryzhak joined both gangs, which targeted businesses and a hospital during the pandemic",
-    "isoDate": "2026-10-28T15:52:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=226050&width=800",
     "pinned": false
   },
   {
@@ -1638,19 +1637,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-ipad.webp/52e95675e7b7dc44df98d1d48eb4436c/tesla-app-ipad.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8a1d9b2289f002cf2890215823c7a9e0c6e38d4c",
-    "title": "Tesla FSD v14.3.13 & FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
-    "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.11/release-notes",
-    "summary": "We take a look at the release notes and what's new in Tesla update 2026.38.5.11. <a href=\"https://www.notateslaapp.com/software-updates/version/2026.38.5.11/release-notes\">Read More</a>",
-    "isoDate": "2026-10-24T08:45:06Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/halloween-mode.png/3cedbc726c03ff2dc630ce76a946cb5a/halloween-mode.jpg",
     "pinned": false
   }
 ]
