@@ -1,8 +1,222 @@
 [
   {
-    "id": "fec686f6f082d39236126f8e2c17bc7805fc1a46",
-    "title": "Open models can do 90 percent of agentic work at a twentieth of the cost of a frontier LLM: Gartner",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+    "id": "16328b74a07f03039a036c5518a4b9b1ca53377d",
+    "title": "Pokémon bakeoff reveals best JavaScript frameworks for AI",
+    "link": "https://www.theregister.com/devops/2026/11/03/pokemon-bakeoff-reveals-best-javascript-frameworks-for-ai/5307249",
+    "summary": "Sorry React die-hards, Claude prefers lean HTML-first tools over bloated SPAs",
+    "isoDate": "2026-11-03T14:51:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joab Jackson",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=259044&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8ec8eb5dfa4624104406e52e99096a115b0a9055",
+    "title": "EPA throws in the towel on policing air pollution from factory farms",
+    "link": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+    "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
+    "isoDate": "2026-11-03T14:49:00Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Georgina Gustin, Inside Climate News",
+    "tags": [
+      "Policy",
+      "clean air act",
+      "EPA",
+      "factory farming",
+      "methane emissions"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fbd0eff8d1e793c2bd2bbd72f22889231424c435",
+    "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+    "link": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+    "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
+    "isoDate": "2026-11-03T14:00:07Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "James Riswick",
+    "tags": [
+      "Cars",
+      "heads-up display",
+      "Mercedes-Benz"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ef15073e7636c0b3a3e3b4b3935b41935c4de543",
+    "title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
+    "link": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
+    "summary": "But first it needs planning permission, government approval and, rather importantly, a customer",
+    "isoDate": "2026-11-03T13:27:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=261387&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c8741a35c974a161de7ace8e898153a24b6e1722",
+    "title": "Virgin Media O2 outlines plans to lay off thousands as revenue falls",
+    "link": "https://www.theregister.com/networks/2026/11/03/virgin-media-o2-outlines-plans-to-lay-off-thousands-as-revenue-falls/5307194",
+    "summary": "Telco expects to deliver cost savings of £800M by 2029, with £300M coming from staff cuts",
+    "isoDate": "2026-11-03T13:17:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=258414&width=800",
+    "pinned": false
+  },
+  {
+    "id": "68779352afb433582ffb1d9f437924f3a031ba4a",
+    "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
+    "link": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+    "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
+    "isoDate": "2026-11-03T12:39:25Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=241603&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fa94e3ba6e5f64606aae6ef151b3e47c203d535f",
+    "title": "Apple's Mac business is booming, but the memory market has other plans",
+    "link": "https://www.theregister.com/personal-tech/2026/11/03/apples-mac-business-is-booming-but-the-memory-market-has-other-plans/5307188",
+    "summary": "New CEO John Ternus toasts record sales as soaring RAM costs threaten supplies and squeeze margins",
+    "isoDate": "2026-11-03T12:27:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5253634&width=800",
+    "pinned": false
+  },
+  {
+    "id": "37313f8f66389b8e43dd51a2c1f90e0cb2b264a0",
+    "title": "Broadcom denied names of cloud providers backing VMware merger challenge",
+    "link": "https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178",
+    "summary": "EU court's confidentiality ruling clears a procedural hurdle, not the merits of CISPE's case against Commission approval",
+    "isoDate": "2026-11-03T11:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=162067&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ea8c23c51e028d51d3ec00857397140ece600ef3",
+    "title": "Believing and thinking",
+    "link": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+    "summary": "<p><img alt=\"A foggy road leading to a distant church, flanked by trees, a building and powerlines, creating an eerie atmosphere.\" src=\"https://images.aeonmedia.co/images/40611a3c-3e4d-417a-b2a9-5d3ec4f128a0/essay-gettyimages-1431136250.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think</p><p><em>- by Neil Van Leeuwen & Jacob Eisler</em></p><p><a href=\"https://aeon.co/essays/the-psychology-of-separating-church-and-state\">Read on Aeon</a></p>",
+    "isoDate": "2026-11-03T11:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Neil Van Leeuwen & Jacob Eisler",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "4fed9a059599a0808ff2753b81360b8ea7e4f1a8",
+    "title": "UK.gov lacks understanding of climate impact, says watchdog",
+    "link": "https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918",
+    "summary": "Risks of changing climate and cost of transition to low-carbon energy poorly measured by government departments",
+    "isoDate": "2026-11-03T10:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5244794&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7da9bab82b5c7597f3a727adeb89da0384190c90",
+    "title": "From the archives: A Celestial Mystery Revisited – a new look at the famous ‘ghost ship’",
+    "link": "https://www.skeptic.org.uk/2026/11/from-the-archives-a-celestial-mystery-revisited-a-new-look-at-the-famous-ghost-ship/",
+    "summary": "<p>From the archives in 1993, Brian Haines looks at the mystery of the Mary Celeste, and the latest information available at the time.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/11/from-the-archives-a-celestial-mystery-revisited-a-new-look-at-the-famous-ghost-ship/\">From the archives: A Celestial Mystery Revisited – a new look at the famous &#8216;ghost ship&#8217;</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-11-03T10:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Brian W Haines",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "889623129270160082463dff6ddadc41ef7649a5",
+    "title": "Raspberry Pi hikes prices again, barely a month after the last round",
+    "link": "https://www.theregister.com/personal-tech/2026/11/03/raspberry-pi-hikes-prices-again-barely-a-month-after-the-last-round/5307004",
+    "summary": "Memory crunch pushes 16GB Pi 5 to $385, more than triple its launch price, just a month after the last round of hikes",
+    "isoDate": "2026-11-03T09:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=5251673&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8c23da708e27d894122a6c55946938d8c74812c0",
+    "title": "Final_FINAL_v7.docx is not a version control strategy",
+    "link": "https://www.theregister.com/storage/2026/11/03/sponsored-everyone-has-the-file-nobody-has-the-right-version/5306650",
+    "summary": "<span class=\"primary color_mobile_primary\"><span class=\"font-weight-normal m-font-weight-normal\">EVENT:</span> </span>Join The Register for dinner in London on 24 November and hear, off the record, how your peers are fixing it.",
+    "isoDate": "2026-11-03T09:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "David Gordon",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306653&width=800",
+    "pinned": false
+  },
+  {
+    "id": "04d39cc1945d65124c2a25cdc946112836061312",
+    "title": "Forget retraining - AI can now tweak another AI's weights",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
+    "summary": "'Weight-Space Programming' fiddles with nerd knobs to boost benchmark scores",
+    "isoDate": "2026-11-03T08:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5307111&width=800",
+    "pinned": false
+  },
+  {
+    "id": "028f23734b10b4f893384d55d81afaa1ab18b88a",
+    "title": "Open models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
     "summary": "Models are commodities, harnesses are the valuable part",
     "isoDate": "2026-11-03T06:19:50Z",
     "source": "The Register",
@@ -16,7 +230,7 @@
   },
   {
     "id": "747362de9d488311a43c49f6c852b0759fbf7fc1",
-    "title": "Architect creates open-source replacement for VM migration tool VMware has hidden",
+    "title": "Architect creates open source replacement for VM migration tool VMware has hidden",
     "link": "https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124",
     "summary": "OpenVDDK is reportedly already being used in production, at scale",
     "isoDate": "2026-11-03T04:45:59Z",
@@ -1104,24 +1318,6 @@
     "pinned": false
   },
   {
-    "id": "65d255a74525f3cac2165b3c101d412427cbc259",
-    "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-    "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-    "summary": "People who love AI don't always love telling others they used it.",
-    "isoDate": "2026-10-30T20:40:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nate Anderson",
-    "tags": [
-      "AI",
-      "Policy",
-      "Dartmouth",
-      "high ed"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "bb88bfd803d077c492e2d82aed386b5a50fc1034",
     "title": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782",
@@ -1134,22 +1330,6 @@
       "ai and ml"
     ],
     "image": "https://image.theregister.com/?imageId=227887&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a222d0a212be4059289e582f89c13902de0c8a2b",
-    "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
-    "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
-    "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
-    "isoDate": "2026-10-30T20:17:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "antibiotics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-500x500.jpg",
     "pinned": false
   },
   {
@@ -1211,21 +1391,6 @@
     "pinned": false
   },
   {
-    "id": "a1f01e3becb7c18b42058097eccccdc004ac2033",
-    "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
-    "link": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
-    "summary": "Claudeshop fingers 'malicious actor' in targeted supply-chain attack on Cursor",
-    "isoDate": "2026-10-30T16:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5254625&width=800",
-    "pinned": false
-  },
-  {
     "id": "1446673ad73474cf4d752754e8739a138b4ed040",
     "title": "Italy Backs EU-Wide Tesla FSD Approval After Salvini Speaks With Elon Musk",
     "link": "https://www.notateslaapp.com/news/4921/italy-backs-eu-wide-tesla-fsd-approval-after-salvini-speaks-with-elon-musk",
@@ -1236,21 +1401,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-european-approvals-hero.webp/9f6af298530cf63d2b2cc23527475bc7/tesla-fsd-european-approvals-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "63d28fd7ab882afc97f13b4d01b31f64a03b4585",
-    "title": "Voyager 1 gives controllers the silent treatment",
-    "link": "https://www.theregister.com/science/2026/10/30/voyager-1-gives-controllers-the-silent-treatment/5306637",
-    "summary": "Whew! Only kidding, here I am",
-    "isoDate": "2026-10-30T15:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5306667&width=800",
     "pinned": false
   },
   {
@@ -1267,96 +1417,6 @@
     "pinned": false
   },
   {
-    "id": "4cc99a9aba289375591eedf46ca690e84cbe72d7",
-    "title": "AlpineBSD announced – an AI-free FOSS OS",
-    "link": "https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589",
-    "summary": "Combining the NetBSD kernel with the Alpine Linux userland",
-    "isoDate": "2026-10-30T14:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5306598&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d3b3d80c763a9c2372df7606e4735a1cfbd18763",
-    "title": "NASA ponders a Hubble servicing mission or a controlled deorbit",
-    "link": "https://www.theregister.com/science/2026/10/30/nasa-ponders-a-hubble-servicing-mission-or-a-controlled-deorbit/5306622",
-    "summary": "Agency only looking for information, but reentry countdown ticking for veteran space telescope",
-    "isoDate": "2026-10-30T14:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=225671&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0239bdd5d424ae2b840038ef6e775ba1484c778a",
-    "title": "AI projects not paying off? Keep at it, says Uni Productivity Institute",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/30/ai-projects-not-paying-off-keep-at-it-says-uni-productivity-institute/5306581",
-    "summary": "All that up-front investment needs time to take effect, and speeding individual tasks won't necessarily boost the entire firm",
-    "isoDate": "2026-10-30T13:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5306604&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7c6d1e69824fe5fed3727e9850f879d542ac8d23",
-    "title": "NHS quango warns of risk to GP patient data after website vendor collapse",
-    "link": "https://www.theregister.com/public-sector/2026/10/30/nhs-quango-warns-of-risk-to-gp-patient-data-after-website-vendor-collapse/5306647",
-    "summary": "Hundreds of practices hit by small health tech firm going into administration",
-    "isoDate": "2026-10-30T12:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5306670&width=800",
-    "pinned": false
-  },
-  {
-    "id": "95b826d0e3a379749f79453c57675f92284a9961",
-    "title": "British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many",
-    "link": "https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605",
-    "summary": "Other agency errors included an unchecked software bug that led to Terrorism Act detentions",
-    "isoDate": "2026-10-30T11:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=197715&width=800",
-    "pinned": false
-  },
-  {
-    "id": "38ea20be3d90d03db292fa30b6e0dc603a7f9104",
-    "title": "Accenture AI agents are sifting through applicants",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460",
-    "summary": "But a human makes final hiring decisions at global tech consultancy",
-    "isoDate": "2026-10-30T11:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5252012&width=800",
-    "pinned": false
-  },
-  {
     "id": "2ca9e492c0a3fd95fb87928e921c4672719b4941",
     "title": "The Skeptic Podcast – Episode 088",
     "link": "https://www.skeptic.org.uk/2026/10/the-skeptic-podcast-episode-088/",
@@ -1369,21 +1429,6 @@
       "Podcast"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "c2cb9d2fbc203ee95a515c7efe3c7f7b4743f0d0",
-    "title": "Domestic droid gone amok? Don't worry, you're covered",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396",
-    "summary": "Insurance firms look to insulate domestic humanoid robot owners against the inevitable chaos they will bring",
-    "isoDate": "2026-10-30T10:14:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=260510&width=800",
     "pinned": false
   },
   {
@@ -1413,36 +1458,6 @@
     "author": "Jay Miller",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "1db1ef1581033b34fccf03f110bc7caeb72599ef",
-    "title": "UK Shelly reseller warns payment data stolen after malware found on website",
-    "link": "https://www.theregister.com/cyber-crime/2026/10/30/uk-shelly-reseller-warns-payment-data-stolen-after-malware-found-on-website/5306250",
-    "summary": "Customer says they received fraudulent charges on their card hours before company notified them",
-    "isoDate": "2026-10-30T09:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5304901&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8149192e9e7c560b65b801f185b62e985b6601af",
-    "title": "Google's search revenue Ferrari hits an AI-powered speed bump",
-    "link": "https://www.theregister.com/ai-and-ml/2026/10/30/googles-search-revenue-ferrari-hits-an-ai-powered-speed-bump/5306520",
-    "summary": "Just wait 'til we add more AI and this thing'll really fly",
-    "isoDate": "2026-10-30T07:33:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5306524&width=800",
     "pinned": false
   },
   {
@@ -1640,19 +1655,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/optimus-charging-cybercab-supercharger-render-watermarked.webp/effe3d3faea78b6ec25c80b4c2a32a19/optimus-charging-cybercab-supercharger-render-watermarked.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7e2f20c3fdf3b961b7bee8acd41cfe9e05a5855d",
-    "title": "Love with nowhere to go",
-    "link": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
-    "summary": "<p><img alt=\"A person walking uphill on a snowy slope against a cloudy sky with wind-blown snow patterns.\" src=\"https://images.aeonmedia.co/images/e4ffcd43-fc58-49e0-9596-99b6020acfca/essay-v2-nyc117497.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves</p><p><em>- by Derek van Zoonen</em></p><p><a href=\"https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death\">Read on Aeon</a></p>",
-    "isoDate": "2026-10-27T10:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Derek van Zoonen",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
