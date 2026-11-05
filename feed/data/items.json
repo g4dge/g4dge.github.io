@@ -1,5 +1,59 @@
 [
   {
+    "id": "df38b91887af8285e7a7f9b3b23dd432e27c3572",
+    "title": "Uber says it alone can make robotaxis pay, hours after Waymo quit its app",
+    "link": "https://www.theregister.com/personal-tech/2026/11/05/uber-says-it-alone-can-make-robotaxis-pay-hours-after-waymo-quit-its-app/5307718",
+    "summary": "Oh, the irony, as platform players fight",
+    "isoDate": "2026-11-05T01:45:07Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "personal tech"
+    ],
+    "image": "https://image.theregister.com/?imageId=253463&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fc88ef2887b770bfd36b692293dddfc1d831e7a9",
+    "title": "Meta brings Conductor on board its model train",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711",
+    "summary": "Agent orchestration startup gets its exit",
+    "isoDate": "2026-11-05T00:35:29Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5307715&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c2991dcf58cf05b14b169a9ba260f8f6e36e04b9",
+    "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+    "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "summary": "And what that could mean for physical Switch game costs.",
+    "isoDate": "2026-11-04T22:47:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "AI",
+      "chips",
+      "GPU",
+      "macronix",
+      "Nintendo",
+      "RAM",
+      "ROM",
+      "slowdown",
+      "Switch"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "3b2ef923cb90e13eb716fd076f18beda7f0ef73f",
     "title": "Uranium cubes reveal why the German nuclear project failed",
     "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
@@ -17,6 +71,21 @@
       "World War II"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bf3dcb66945ff7851e87f7695b191bc11313ba6f",
+    "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
+    "link": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
+    "summary": "Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term",
+    "isoDate": "2026-11-04T21:49:38Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5307696&width=800",
     "pinned": false
   },
   {
@@ -67,6 +136,21 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/starlink-mobile-hero-full.webp/83749ea31773663b7679244c6cc88169/starlink-mobile-hero-full.jpg",
+    "pinned": false
+  },
+  {
+    "id": "abdc6067e0e78142ae8c8fdf5e1b58a3e72c1b8e",
+    "title": "Hey, Siri: Plug into my app like you said you'd do way back in 2024",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/04/hey-siri-plug-into-my-app-like-you-said-youd-do-way-back-in-2024/5307659",
+    "summary": "More than two years after promising it, Apple lets developers test Siri AI app integration",
+    "isoDate": "2026-11-04T20:56:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5307663&width=800",
     "pinned": false
   },
   {
@@ -835,26 +919,6 @@
     "pinned": false
   },
   {
-    "id": "6e52bc4c45b140dece62724398c0419dc7d2e681",
-    "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-    "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-    "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-    "isoDate": "2026-11-03T16:03:13Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "microsoft",
-      "secure boot",
-      "uefi",
-      "Windows"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b65824c31f6f166c75a39f47a441b748e330f1ae",
     "title": "GhostBSD 26.2 takes the fright out of FreeBSD with a friendlier installer",
     "link": "https://www.theregister.com/os-platforms/2026/11/03/ghostbsd-262-takes-the-fright-out-of-freebsd-with-a-friendlier-installer/5307228",
@@ -1191,81 +1255,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-cybercab-shop-collection-november-2026-hero-1793648024.webp/4f94a7a1d2f34d551935305baf98a550/tesla-cybercab-shop-collection-november-2026-hero-1793648024.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4ae274b378254c860d26cd1e4bbaf4b8ecd0855f",
-    "title": "Cops bust botnet of 1.3M infected Android TV boxes",
-    "link": "https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045",
-    "summary": "Videostrong accused of shipping devices with a backdoor baked in",
-    "isoDate": "2026-11-02T19:03:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=247072&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c52141d45fc46b6df0746e53e7af8ee1a86fda80",
-    "title": "Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking",
-    "link": "https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028",
-    "summary": "IP house believes optics demand is going to explode as Nvidia and others eye bigger systems",
-    "isoDate": "2026-11-02T18:02:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=253714&width=800",
-    "pinned": false
-  },
-  {
-    "id": "6de61a67e0449569b9a1b9136a2b3765f9915ab1",
-    "title": "Oracle gobbles $20 billion borrowing limit a week after setting it",
-    "link": "https://www.theregister.com/paas-and-iaas/2026/11/02/oracle-gobbles-20-billion-borrowing-limit-a-week-after-setting-it/5307014",
-    "summary": "In the middle of a datacenter capex binge, vendor promises no more borrowing until the end of 2030",
-    "isoDate": "2026-11-02T17:35:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "paas and iaas"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094260&width=800",
-    "pinned": false
-  },
-  {
-    "id": "040cabbf188e746c55e8a0084e62d9ad4972996f",
-    "title": "Ericsson says it can detect, track drones using only mobile networks",
-    "link": "https://www.theregister.com/networks/2026/11/02/ericsson-says-it-can-detect-track-drones-using-only-mobile-networks/5306958",
-    "summary": "ISAC technology adds detection ability to existing cell networks, enabling them to track low-flying small drones",
-    "isoDate": "2026-11-02T17:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297253&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8342145f99f090abe8d78f7a8bdadb69b941882a",
-    "title": "Thieves pilfer environment variables from Trigger AI workflow tool",
-    "link": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
-    "summary": "So, who's ready to clear the dust out of that server closet and move things back on-prem?",
-    "isoDate": "2026-11-02T16:44:30Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=260694&width=800",
     "pinned": false
   },
   {
