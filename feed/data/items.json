@@ -1,15 +1,361 @@
 [
   {
+    "id": "18bb0a59786ff7df4ef5d3fb0db35fbc2a960076",
+    "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+    "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+    "summary": "Software optimizes a physical model of the telescope to reduce noise.",
+    "isoDate": "2026-11-05T19:59:22Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "astronomy",
+      "Computer science",
+      "coronagraph",
+      "software",
+      "telescopes",
+      "Webb telescope"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "a66127f2df78fa3fd92fe6fd026e071b7d94b4b2",
+    "title": "Tesla's Robotaxi Geofences Are Smaller Than Advertised: Their Actual Sizes",
+    "link": "https://www.notateslaapp.com/news/4953/teslas-robotaxi-geofences-are-smaller-than-advertised-their-actual-sizes",
+    "summary": "Tesla’s real Robotaxi pickup zones in Austin, Dallas, Houston, and Fort Worth are 22% to 41% smaller than the advertised geofences <a href=\"https://www.notateslaapp.com/news/4953/teslas-robotaxi-geofences-are-smaller-than-advertised-their-actual-sizes\">Read More</a>",
+    "isoDate": "2026-11-05T19:58:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-regions.webp/c182c3d2d25e5815d74fb5f8440ef4ed/robotaxi-regions.jpg",
+    "pinned": false
+  },
+  {
+    "id": "db8d3f83fa7ce6475037e895bc41a520670715d1",
+    "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+    "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+    "summary": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
+    "isoDate": "2026-11-05T19:46:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Kalshi",
+      "prediction market"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2889875b625e577874f71dadf737814847952b2b",
+    "title": "MAHA lost bigly in the midterms—is it at death's door?",
+    "link": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
+    "summary": "RFK Jr.'s Make America Healthy Again movement was in trouble before voting began.",
+    "isoDate": "2026-11-05T18:49:41Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "anti-vaccine",
+      "election",
+      "MAHA",
+      "robert f kennedy jr"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301676134-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "2a3856813d54ce94400ed20b278afec26e1455be",
+    "title": "Get root on a musl Linux system by slamming it with an overly long password",
+    "link": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
+    "summary": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'",
+    "isoDate": "2026-11-05T18:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=258580&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d934a8cf5ec83aacc2befdaf0214ebd89fd8f584",
+    "title": "All of Tesla's Robotaxi Markets and Their Actual Sizes [UPDATED]",
+    "link": "https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes",
+    "summary": "Tesla’s Robotaxi service has steadily grown from an experimental pilot in Austin into a commercial footprint spanning seven major regions across the U.S. <a href=\"https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes\">Read More</a>",
+    "isoDate": "2026-11-05T18:06:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-regions.webp/c182c3d2d25e5815d74fb5f8440ef4ed/robotaxi-regions.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fb680314d63af476f6c018e47b3fb01b5843b204",
+    "title": "Introducing Our Tesla Feature Requests Feature, Where Owners Can Submit and Vote on Ideas",
+    "link": "https://www.notateslaapp.com/news/4951/introducing-our-tesla-feature-requests-feature-where-owners-can-submit-and-vote-on-ideas",
+    "summary": "We launched our Tesla software wishlist page, where Tesla owners can submit feature requests that they'd like to see added to their Teslas. <a href=\"https://www.notateslaapp.com/news/4951/introducing-our-tesla-feature-requests-feature-where-owners-can-submit-and-vote-on-ideas\">Read More</a>",
+    "isoDate": "2026-11-05T18:03:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd_parking_concept_1.jpg/35df8fed388d3da62191822cb64ca660/fsd_parking_concept_1.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4c85354b1ef93ef001977e28dc6025d648c46a30",
+    "title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+    "summary": "Agentic 'on-path attack' went after Chainalysis's tools, which are routinely called upon to assist police investigations",
+    "isoDate": "2026-11-05T18:03:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=227153&width=800",
+    "pinned": false
+  },
+  {
+    "id": "738698803d84514c71e0ad789486ec81294ab2da",
+    "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+    "link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+    "summary": "Using a capture card and open source software to run PS5 video through a PC GPU.",
+    "isoDate": "2026-11-05T17:40:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "Gaming",
+      "Grand Theft Auto 6",
+      "NVIDIA",
+      "nvidia dlss"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-500x500-1793899264.png",
+    "pinned": false
+  },
+  {
+    "id": "f13cfe56bc71d8e147c30318f391c528af7bb8ae",
+    "title": "openSUSE Leap 16.1 gives Linux users the right to remain immutable",
+    "link": "https://www.theregister.com/os-platforms/2026/11/05/opensuse-leap-161-gives-linux-users-the-right-to-remain-immutable/5307874",
+    "summary": "One installer now offers conventional and read-only systems as separate Micro distro bows out",
+    "isoDate": "2026-11-05T17:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=243626&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7796ff759e0b6432a916da1f07cdb2f8062824a5",
+    "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
+    "link": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+    "summary": "The latest bug hunting model 'avoided exploiting out-of-scope services over 99 percent of the time', claims House of Altman",
+    "isoDate": "2026-11-05T17:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=262189&width=800",
+    "pinned": false
+  },
+  {
+    "id": "447833931eeda774945c4f1265ce6c5236cbae30",
+    "title": "Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+    "summary": "Mystery limits expand for users without the paid add-on, with upgrade prompts ready when features run dry",
+    "isoDate": "2026-11-05T16:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5230512&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a7e1d0b0e1baf096731cb6b43fff44f5ab846394",
+    "title": "Tobacco company got smoked by leaving secret recipes on a file share",
+    "link": "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704",
+    "summary": "They denied the data was real...then removed it",
+    "isoDate": "2026-11-05T16:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5307708&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f67900c7bb6b248e4a8672d90ab8f486e95a6b33",
+    "title": "Statehouse wins give Democrats new power to push clean energy",
+    "link": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+    "summary": "Democrats erased the GOP’s trifecta edge and gained new power over energy policy.",
+    "isoDate": "2026-11-05T15:59:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Gearino, Inside Climate News",
+    "tags": [
+      "Science",
+      "Blue tsunami",
+      "clean air act",
+      "clean energy",
+      "climate change",
+      "energy policy",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a90605b43b949139cbb1af2936d5792e5c72d4a7",
+    "title": "Tesla Wouldn’t Build a Cybervan, So Hoffman EV Did",
+    "link": "https://www.notateslaapp.com/news/4950/tesla-wouldnt-build-a-cybervan-so-hoffman-ev-did",
+    "summary": "Hoffman EV showed off a boxy, Cyber-style van at SEMA built on a recycled Model 3, with more body types available and sales expected next year <a href=\"https://www.notateslaapp.com/news/4950/tesla-wouldnt-build-a-cybervan-so-hoffman-ev-did\">Read More</a>",
+    "isoDate": "2026-11-05T15:44:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/hoffman-ev-badger-van-sema-5-1793892869.webp/14c3b85b24afea1f0adf9929894591fd/hoffman-ev-badger-van-sema-5-1793892869.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7b4f892ba3611cce446a6224b88683a690460cd5",
+    "title": "Memory makers mint megabucks while buyers beg for mercy",
+    "link": "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
+    "summary": "DRAM revenue jumps 369 percent as AI demand keeps supplies tight and prices climbing",
+    "isoDate": "2026-11-05T15:07:34Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5259665&width=800",
+    "pinned": false
+  },
+  {
+    "id": "43b13969d6cbefdafeb4241ed7aaad514467b76d",
+    "title": "Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again",
+    "link": "https://www.theregister.com/software/2026/11/05/microsoft-fixed-excel-2016-copy-paste-bug-then-reintroduced-it-now-its-fixed-again/5307782",
+    "summary": "All of this has happened before. All of this will happen again. Maybe",
+    "isoDate": "2026-11-05T14:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=227906&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f6984d35e0d1c2bc3e45324da48f1df619aa4786",
+    "title": "Starlink Is Replacing OG ‘Dishy McFlatface’ Dishes for Free",
+    "link": "https://www.notateslaapp.com/news/4949/starlink-is-replacing-og-dishy-mcflatface-dishes-for-free",
+    "summary": "SpaceX is inviting early Starlink users to trade their round first-gen dish for a free Standard 4X kit, with free mounting and optional installation <a href=\"https://www.notateslaapp.com/news/4949/starlink-is-replacing-og-dishy-mcflatface-dishes-for-free\">Read More</a>",
+    "isoDate": "2026-11-05T13:30:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/starlink-dish-gen-1-dishy-mcflatface--1793832220.webp/f39f05eae916b99f93fcc056eabc5a12/starlink-dish-gen-1-dishy-mcflatface--1793832220.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3496d8ac5c67c64f74679efd549381ebee66d0d6",
+    "title": "'Stop dirty datacenters': Europe-wide protests planned demanding building moratorium",
+    "link": "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790",
+    "summary": "Curbing compute farms played a big part in recent US elections, now Euro activists are making their feelings known",
+    "isoDate": "2026-11-05T13:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5277385&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bb7377ab6e9bc28631ca6fd1fe37402234f54d0c",
+    "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+    "link": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+    "summary": "It has all the bells and whistles (and cameras).",
+    "isoDate": "2026-11-05T13:00:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Tech",
+      "android",
+      "grapheneos",
+      "motorola",
+      "smartphones"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c29bbce4a31ed04c1137c63a9603e9242a2609a7",
+    "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+    "link": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+    "summary": "From EOP to RCE in six simple steps",
+    "isoDate": "2026-11-05T13:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "research"
+    ],
+    "image": "https://image.theregister.com/?imageId=5307922&width=800",
+    "pinned": false
+  },
+  {
+    "id": "27b7a41e0397dbec44559d0bd506b1bfa185dddd",
+    "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
+    "summary": "No gang has claimed the attack on incredible neighborhood resource yet",
+    "isoDate": "2026-11-05T12:10:15Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=1684482&width=800",
+    "pinned": false
+  },
+  {
     "id": "f050bc895e36e285bd8b5173ba4f6c7203941551",
     "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
     "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-    "summary": "US leader in deploying humanoid robots goes public on the Nadaq stock exchange.",
+    "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
     "isoDate": "2026-11-05T12:00:41Z",
     "source": "Ars Technica",
     "category": "Tech",
     "author": "Jeremy Hsu",
     "tags": [
       "AI",
+      "Tech",
       "Agility Robotics",
       "humanoid robots",
       "Industrial robots",
@@ -40,6 +386,21 @@
       "tablets"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261104_095710-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7cabac9649662d58676d10771a0d253b0e0b008c",
+    "title": "Norway's aid agency pwned and all users' data is stolen",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765",
+    "summary": "Norad said it cannot be sure that the details of those in 'conflict areas and authoritarian states' are safe or not",
+    "isoDate": "2026-11-05T11:19:16Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=260104&width=800",
     "pinned": false
   },
   {
@@ -542,26 +903,6 @@
     "pinned": false
   },
   {
-    "id": "bffe34ab28d264de28395a7bf45b59f9bfe3cbf0",
-    "title": "The DEA banned a drug some opioid users called a miracle",
-    "link": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
-    "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
-    "isoDate": "2026-11-04T15:08:48Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Manisha Krishnan, wired.com",
-    "tags": [
-      "Health",
-      "DEA",
-      "drug addiction",
-      "opiods",
-      "opioid crisis",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "44794c463e0716761bf45ff454edd0ac3c614cc4",
     "title": "HP Inc hires former GSK boss as CEO",
     "link": "https://www.theregister.com/personal-tech/2026/11/04/hp-inc-hires-former-gsk-boss-as-ceo/5307588",
@@ -740,25 +1081,6 @@
     "pinned": false
   },
   {
-    "id": "5f58c4321f5d8eca2fcdb7efc7eeffcc79188763",
-    "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-    "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-    "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
-    "isoDate": "2026-11-03T22:39:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "BEAD program",
-      "Broadband Equity Access and Deployment program",
-      "California",
-      "trump administration"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "6657449dba1299132ae51cb39df2de5db36b0c04",
     "title": "Your Tesla Runs Cleaner Today Than When You Bought It",
     "link": "https://www.notateslaapp.com/news/4941/your-tesla-runs-cleaner-today-than-when-you-bought-it",
@@ -817,31 +1139,6 @@
     "pinned": false
   },
   {
-    "id": "2f70d6c369eb887172ae89bc0a0d7ad84b6387ee",
-    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-    "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-    "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
-    "isoDate": "2026-11-03T20:39:55Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "ai data centers",
-      "data centers",
-      "Drone strikes",
-      "russia",
-      "Russia invasion of Ukraine",
-      "Russia war on Ukraine",
-      "Russian invasion of Ukraine",
-      "Russian war on Ukraine",
-      "Ukraine",
-      "Ukraine war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "89fbb78612a39835ab85e17ccbb718b903eee9da",
     "title": "Tesla Model 3/Y Could Get an Inverter Upgrade From Cybercab",
     "link": "https://www.notateslaapp.com/news/4939/tesla-model-3y-could-get-an-inverter-upgrade-from-cybercab",
@@ -895,44 +1192,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2d0707b1461a0a2bfe51619ef9e6a2f2385d7583",
-    "title": "Buttons are back and storage is king when it comes to car interiors",
-    "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-    "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
-    "isoDate": "2026-11-03T18:19:31Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "car design",
-      "Nissan Rogue Hybrid"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b121628aeba070c8bf7f7e10167becfae8abf8f1",
-    "title": "Google will let schools skip AI tools, but they have to give up search, too",
-    "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-    "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-    "isoDate": "2026-11-03T17:54:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "AI education",
-      "Artificial Intelligence",
-      "education",
-      "google",
-      "search"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg",
     "pinned": false
   },
   {
@@ -1039,81 +1298,6 @@
     "pinned": false
   },
   {
-    "id": "ef15073e7636c0b3a3e3b4b3935b41935c4de543",
-    "title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
-    "link": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
-    "summary": "But first it needs planning permission, government approval and, rather importantly, a customer",
-    "isoDate": "2026-11-03T13:27:33Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=261387&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c8741a35c974a161de7ace8e898153a24b6e1722",
-    "title": "Virgin Media O2 outlines plans to lay off thousands as revenue falls",
-    "link": "https://www.theregister.com/networks/2026/11/03/virgin-media-o2-outlines-plans-to-lay-off-thousands-as-revenue-falls/5307194",
-    "summary": "Telco expects to deliver cost savings of £800M by 2029, with £300M coming from staff cuts",
-    "isoDate": "2026-11-03T13:17:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=258414&width=800",
-    "pinned": false
-  },
-  {
-    "id": "68779352afb433582ffb1d9f437924f3a031ba4a",
-    "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
-    "link": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
-    "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
-    "isoDate": "2026-11-03T12:39:25Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=241603&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fa94e3ba6e5f64606aae6ef151b3e47c203d535f",
-    "title": "Apple's Mac business is booming, but the memory market has other plans",
-    "link": "https://www.theregister.com/personal-tech/2026/11/03/apples-mac-business-is-booming-but-the-memory-market-has-other-plans/5307188",
-    "summary": "New CEO John Ternus toasts record sales as soaring RAM costs threaten supplies and squeeze margins",
-    "isoDate": "2026-11-03T12:27:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5253634&width=800",
-    "pinned": false
-  },
-  {
-    "id": "37313f8f66389b8e43dd51a2c1f90e0cb2b264a0",
-    "title": "Broadcom denied names of cloud providers backing VMware merger challenge",
-    "link": "https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178",
-    "summary": "EU court's confidentiality ruling clears a procedural hurdle, not the merits of CISPE's case against Commission approval",
-    "isoDate": "2026-11-03T11:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "virtualization"
-    ],
-    "image": "https://image.theregister.com/?imageId=162067&width=800",
-    "pinned": false
-  },
-  {
     "id": "ea8c23c51e028d51d3ec00857397140ece600ef3",
     "title": "Believing and thinking",
     "link": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
@@ -1124,21 +1308,6 @@
     "author": "Neil Van Leeuwen & Jacob Eisler",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "4fed9a059599a0808ff2753b81360b8ea7e4f1a8",
-    "title": "UK.gov lacks understanding of climate impact, says watchdog",
-    "link": "https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918",
-    "summary": "Risks of changing climate and cost of transition to low-carbon energy poorly measured by government departments",
-    "isoDate": "2026-11-03T10:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5244794&width=800",
     "pinned": false
   },
   {
@@ -1154,81 +1323,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "889623129270160082463dff6ddadc41ef7649a5",
-    "title": "Raspberry Pi hikes prices again, barely a month after the last round",
-    "link": "https://www.theregister.com/personal-tech/2026/11/03/raspberry-pi-hikes-prices-again-barely-a-month-after-the-last-round/5307004",
-    "summary": "Memory crunch pushes 16GB Pi 5 to $385, more than triple its launch price, just a month after the last round of hikes",
-    "isoDate": "2026-11-03T09:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5251673&width=800",
-    "pinned": false
-  },
-  {
-    "id": "172da6b09c21aed42f7b8232ea0a2de2f65a932c",
-    "title": "Final_FINAL_v7.docx is not a version control strategy",
-    "link": "https://www.theregister.com/storage/2026/11/03/sponsored-final_final_v7docx-is-not-a-version-control-strategy/5306650",
-    "summary": "<span class=\"primary color_mobile_primary\"><span class=\"font-weight-normal m-font-weight-normal\">EVENT:</span> </span>Join The Register for dinner in London on 24 November and hear, off the record, how your peers are fixing it.",
-    "isoDate": "2026-11-03T09:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "David Gordon",
-    "tags": [
-      "storage"
-    ],
-    "image": "https://image.theregister.com/?imageId=5306653&width=800",
-    "pinned": false
-  },
-  {
-    "id": "04d39cc1945d65124c2a25cdc946112836061312",
-    "title": "Forget retraining - AI can now tweak another AI's weights",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
-    "summary": "'Weight-Space Programming' fiddles with nerd knobs to boost benchmark scores",
-    "isoDate": "2026-11-03T08:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307111&width=800",
-    "pinned": false
-  },
-  {
-    "id": "028f23734b10b4f893384d55d81afaa1ab18b88a",
-    "title": "Open models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
-    "summary": "Models are commodities, harnesses are the valuable part",
-    "isoDate": "2026-11-03T06:19:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307139&width=800",
-    "pinned": false
-  },
-  {
-    "id": "747362de9d488311a43c49f6c852b0759fbf7fc1",
-    "title": "Architect creates open source replacement for VM migration tool VMware has hidden",
-    "link": "https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124",
-    "summary": "OpenVDDK is reportedly already being used in production, at scale",
-    "isoDate": "2026-11-03T04:45:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "virtualization"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307129&width=800",
     "pinned": false
   },
   {
@@ -1496,45 +1590,6 @@
     "author": "Jay Miller",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ccdcd67aa926f54d31d2cbe3136028421bbbd9f7",
-    "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award",
-    "link": "https://www.notateslaapp.com/news/4918/tesla-semi-wins-top-gears-2027-tech-award",
-    "summary": "The Tesla Semi took the TG Tech Award at Top Gear’s US Car Awards 2027, as high-volume production ramps at Tesla’s new Nevada factory. <a href=\"https://www.notateslaapp.com/news/4918/tesla-semi-wins-top-gears-2027-tech-award\">Read More</a>",
-    "isoDate": "2026-10-29T19:32:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-top-gear-tech-award-2027.webp/49d729e82d1d435643466d9f6b11c7d4/tesla-semi-top-gear-tech-award-2027.jpg",
-    "pinned": false
-  },
-  {
-    "id": "7b7cb86439b6c59903fca034181118a0a20c6133",
-    "title": "Tesla Offers Free Robotaxi Rides for First-Time Riders",
-    "link": "https://www.notateslaapp.com/news/4917/tesla-offers-free-robotaxi-rides-for-first-time-riders",
-    "summary": "The Robotaxi app now shows a $0.00 fare for first-time riders in Houston and Dallas, though riders in other markets are left out of the promotion for now <a href=\"https://www.notateslaapp.com/news/4917/tesla-offers-free-robotaxi-rides-for-first-time-riders\">Read More</a>",
-    "isoDate": "2026-10-29T17:54:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi_rear_screen.jpg/3257c5dc37ca7ed182205ae77ec677a9/robotaxi_rear_screen.jpg",
-    "pinned": false
-  },
-  {
-    "id": "f71b2165978f672e2f36e39e33e40b9f990b6607",
-    "title": "Tesla Breaks Compatibility With Third-Party V2L Devices",
-    "link": "https://www.notateslaapp.com/news/4916/tesla-breaks-compatibility-with-third-party-v2l-devices",
-    "summary": "Third-party V2L adapters now shut off within minutes on software version 2026.38.5.1 and later, ending a workaround owners have used for years <a href=\"https://www.notateslaapp.com/news/4916/tesla-breaks-compatibility-with-third-party-v2l-devices\">Read More</a>",
-    "isoDate": "2026-10-29T16:17:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/myp-v2l.webp/292d8ce0d52dad773c5fc0112e625046/myp-v2l.jpg",
     "pinned": false
   }
 ]
