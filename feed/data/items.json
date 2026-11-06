@@ -1,5 +1,161 @@
 [
   {
+    "id": "e024b4cae3ca7f762d8b3bfdded74f085d8aedd3",
+    "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+    "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+    "summary": "\"This is going to be a game-changer.\"",
+    "isoDate": "2026-11-06T00:17:06Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "blue origin",
+      "GS3",
+      "new glenn",
+      "northstar",
+      "space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-500x500.webp",
+    "pinned": false
+  },
+  {
+    "id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "isoDate": "2026-11-05T23:09:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "alpine",
+      "Linux",
+      "SSH",
+      "vulnerabilities"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "a6dd2447219f4c8bb4c3efbb0f2186b525943940",
+    "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+    "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+    "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+    "isoDate": "2026-11-05T22:49:03Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "aircraft",
+      "experimental aircraft",
+      "jared isaacman",
+      "NASA",
+      "X-59",
+      "X-70",
+      "x-plane"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "b6411ac47a803928f00d79882026fd55c3b49d1e",
+    "title": "Sony revives the original Walkman headphones, adds USB-C",
+    "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+    "summary": "Orange ear cushions included.",
+    "isoDate": "2026-11-05T21:56:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "audio",
+      "Sony",
+      "Walkman"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8fdd6a5d2137a4084f265373a89ec6020998a1e1",
+    "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+    "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+    "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+    "isoDate": "2026-11-05T21:40:36Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "ai search",
+      "Artificial Intelligence",
+      "google",
+      "search"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d7bd7c1e685c0dfb9cb5ad04a8b31bd4024bd576",
+    "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+    "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+    "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+    "isoDate": "2026-11-05T21:39:40Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI safety",
+      "attempted murder",
+      "chatbot",
+      "ChatGPT",
+      "murder",
+      "openai",
+      "poisoning"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "431a63bf22695cc75fbee66e94a73eb264db9073",
+    "title": "The White House is apparently a popular residential proxy exit spot",
+    "link": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
+    "summary": "How it got there is another matter entirely",
+    "isoDate": "2026-11-05T20:50:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=226251&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fb2a1ae59af370a73f7063fc18a3c44441a5a92c",
+    "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+    "link": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+    "summary": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
+    "isoDate": "2026-11-05T20:45:50Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "2027 BMW i7",
+      "car review",
+      "First drive"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-500x500.jpg",
+    "pinned": false
+  },
+  {
     "id": "18bb0a59786ff7df4ef5d3fb0db35fbc2a960076",
     "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
     "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
@@ -601,26 +757,6 @@
     "pinned": false
   },
   {
-    "id": "b58632e425d58dc5a7116a6e20e5a14bbcdc0974",
-    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-    "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-    "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
-    "isoDate": "2026-11-04T21:29:46Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nick Indge",
-    "tags": [
-      "Tech",
-      "AI Halo",
-      "AMD",
-      "MI350P",
-      "quarterly earnings",
-      "Ryzen"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/AMD_Helios_Rack_Instinct_MI455X-500x500.webp",
-    "pinned": false
-  },
-  {
     "id": "43f765d8576efd6c0e5c3ee65bb1332765d5811b",
     "title": "SpaceX Taps Qualcomm to Build Nationwide Starlink Mobile Network",
     "link": "https://www.notateslaapp.com/news/4947/spacex-taps-qualcomm-to-build-nationwide-starlink-mobile-network",
@@ -649,56 +785,6 @@
     "pinned": false
   },
   {
-    "id": "e5cb2e6663b2cf73f94aff6bef3049fbaf85c4b2",
-    "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-    "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-    "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-    "isoDate": "2026-11-04T20:55:50Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "AI",
-      "Policy",
-      "ai data center",
-      "ai election",
-      "ai race",
-      "Artificial Intelligence",
-      "china",
-      "data center moratoriums",
-      "Donald Trump",
-      "Elon Musk",
-      "midterm elections",
-      "SpaceXAI",
-      "texas",
-      "trump administration"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "acf1fc42b66a4659e97571d84f5c09eeeb3f506a",
-    "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
-    "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
-    "summary": "\"Data centers in space looking pretty appealing right now.\"",
-    "isoDate": "2026-11-04T20:36:05Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Policy",
-      "Space",
-      "Abbott",
-      "Elon Musk",
-      "midterms",
-      "space",
-      "spacex",
-      "talarico"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b26e02f0672b4149d645917401b805ca722a3a09",
     "title": "The Model S Is Gone, but Tesla Just Patented Its Design",
     "link": "https://www.notateslaapp.com/news/4946/the-model-s-is-gone-but-tesla-just-patented-its-design",
@@ -724,26 +810,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=258394&width=800",
-    "pinned": false
-  },
-  {
-    "id": "dffc57c60a010a8e71ebbf07fbaaf6ab500bd2ef",
-    "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
-    "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
-    "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
-    "isoDate": "2026-11-04T19:08:23Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jon Brodkin",
-    "tags": [
-      "Policy",
-      "Anna Gomez",
-      "brendan carr",
-      "danielle thumann severs",
-      "FCC",
-      "ted cruz"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-500x500-1751388283.jpg",
     "pinned": false
   },
   {
@@ -805,23 +871,6 @@
     "pinned": false
   },
   {
-    "id": "130f1c049dde7084bdba237a02b550c093438ca6",
-    "title": "People say they want small smartphones—the Enough Phone will put that to the test",
-    "link": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
-    "summary": "It won't win the specs race, but it will actually fit in your hand.",
-    "isoDate": "2026-11-04T18:00:40Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Tech",
-      "android",
-      "smartphones"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d217ca2c15f204c91c02d0bf3f4aecce0b5d2b16",
     "title": "Bare metal boom: On-prem server sales for HPC and AI up 20% this year",
     "link": "https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611",
@@ -849,42 +898,6 @@
       "virtualization"
     ],
     "image": "https://image.theregister.com/?imageId=254061&width=800",
-    "pinned": false
-  },
-  {
-    "id": "868b661c5e46d114247c927292c3f442033dc4a9",
-    "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-    "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-    "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-    "isoDate": "2026-11-04T16:06:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "cryptocurrency",
-      "hacking",
-      "tradertraitor"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "36a84a9152761a71094dbdd7e5728e4d3bbaf768",
-    "title": "What I learned driving the Slate electric truck prototype",
-    "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
-    "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
-    "isoDate": "2026-11-04T15:42:18Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "First drive",
-      "Slate Auto"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/slate-in-car-500x500.jpg",
     "pinned": false
   },
   {
@@ -1280,21 +1293,6 @@
       "cyber-crime"
     ],
     "image": "https://image.theregister.com/?imageId=5307289&width=800",
-    "pinned": false
-  },
-  {
-    "id": "16328b74a07f03039a036c5518a4b9b1ca53377d",
-    "title": "Pokémon bakeoff reveals best JavaScript frameworks for AI",
-    "link": "https://www.theregister.com/devops/2026/11/03/pokemon-bakeoff-reveals-best-javascript-frameworks-for-ai/5307249",
-    "summary": "Sorry React die-hards, Claude prefers lean HTML-first tools over bloated SPAs",
-    "isoDate": "2026-11-03T14:51:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joab Jackson",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=259044&width=800",
     "pinned": false
   },
   {
