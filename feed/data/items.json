@@ -1,5 +1,65 @@
 [
   {
+    "id": "b51ac1e090e249d984b997a539b9ce11d7747504",
+    "title": "Safari's Autofill feature may be distorting time",
+    "link": "https://www.theregister.com/applications/2026/11/06/safaris-autofill-feature-may-be-distorting-time/5308006",
+    "summary": "Repeated reports about inaccurate form filling have lingered for years",
+    "isoDate": "2026-11-06T07:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308019&width=800",
+    "pinned": false
+  },
+  {
+    "id": "dc955d2a85c483583da2de597337685dbb1008f6",
+    "title": "Hospital gave very sick doctor a special PC for his personal, erm, pleasure",
+    "link": "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750",
+    "summary": "Support chap told to either allow blatant policy violations or find a new job",
+    "isoDate": "2026-11-06T06:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=222391&width=800",
+    "pinned": false
+  },
+  {
+    "id": "4720393fd82f906b9ab37585f54ceb9d2b7adbd9",
+    "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
+    "link": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+    "summary": "CEO says sovereigns probably exploited PHP2SHELL ages ago, and suggests containers are dead",
+    "isoDate": "2026-11-06T04:25:14Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=239494&width=800",
+    "pinned": false
+  },
+  {
+    "id": "63adad31a1b5f8c448b8cabbe4ec54b1d4e5eac6",
+    "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
+    "link": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+    "summary": "CERT-IN warns of ‘significant escalation’ in AI-powered attacks, some after victims tried to improve defences",
+    "isoDate": "2026-11-06T01:17:40Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308010&width=800",
+    "pinned": false
+  },
+  {
     "id": "e024b4cae3ca7f762d8b3bfdded74f085d8aedd3",
     "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
     "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
@@ -59,6 +119,36 @@
       "x-plane"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "4cb0518ea7cfe3ddef6692b1380500ec09a3256e",
+    "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
+    "link": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
+    "summary": "No documented attacks against American supermarkets…yet",
+    "isoDate": "2026-11-05T22:37:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5303687&width=800",
+    "pinned": false
+  },
+  {
+    "id": "77e9e4b20284d8926c1f2ebba8ce747026ced3da",
+    "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
+    "summary": "The cloud giant refits its agentic dev tools for agent orchestration",
+    "isoDate": "2026-11-05T22:09:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5307975&width=800",
     "pinned": false
   },
   {
@@ -1180,21 +1270,6 @@
     "pinned": false
   },
   {
-    "id": "4c971a521155633443f13c39f0f85f0862e7962e",
-    "title": "AI policy wonks declare 'sovereign agents' a threat to civilization",
-    "link": "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354",
-    "summary": "These are AI agents that operate outside of human control and 'pursue open-ended, evolving survival'",
-    "isoDate": "2026-11-03T19:33:01Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=260126&width=800",
-    "pinned": false
-  },
-  {
     "id": "ac41bc53238f43fec8ba9ae7e7ff4e652158982a",
     "title": "Tesla FSD Gets Reduced Speed Offset & More Changes in Europe",
     "link": "https://www.notateslaapp.com/news/4938/tesla-fsd-gets-reduced-speed-offset-more-changes-in-europe",
@@ -1208,36 +1283,6 @@
     "pinned": false
   },
   {
-    "id": "fd3502186d02ab22e425ef0f4e3458bc5a7b7557",
-    "title": "GSMA warns of growing risks to mobile networks from extreme weather",
-    "link": "https://www.theregister.com/networks/2026/11/03/gsma-warns-of-growing-risks-to-mobile-networks-from-extreme-weather/5307308",
-    "summary": "Mobile comms body wants a joined-up approach from governments and regulators to mitigate downtime",
-    "isoDate": "2026-11-03T17:54:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=263006&width=800",
-    "pinned": false
-  },
-  {
-    "id": "910f17a3431fe30e5b9d2c706dff4e7f5ca9a62a",
-    "title": "Improved asteroid deflection model runs faster, reveals more doomsday worries",
-    "link": "https://www.theregister.com/science/2026/11/03/improved-asteroid-deflection-model-runs-faster-reveals-more-doomsday-worries/5307317",
-    "summary": "“We expected aim to matter ... What surprised us was how much,' says Sandia physicist Nathan Moore",
-    "isoDate": "2026-11-03T17:36:36Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307320&width=800",
-    "pinned": false
-  },
-  {
     "id": "26eefb86d5261444168ffb77b800f38588ee45ac",
     "title": "Tesla Cybercab Teardown Reveals Modular Battery, Improved Inverter & More",
     "link": "https://www.notateslaapp.com/news/4937/tesla-cybercab-teardown-reveals-modular-battery-improved-inverter-more",
@@ -1248,51 +1293,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/two-cybercabs.webp/560bca7bb71390339f30cd6afcb8a0ae/two-cybercabs.jpg",
-    "pinned": false
-  },
-  {
-    "id": "db43045ae21972dfac0ab3e1bfd2e34d529970d1",
-    "title": "Password manager mSecure tells users to change passwords, won't say why",
-    "link": "https://www.theregister.com/security/2026/11/03/password-manager-msecure-tells-users-to-change-passwords-wont-say-why/5307296",
-    "summary": "Customers left wondering what's been compromised after vendor advises resetting passwords, 2FA and passkeys",
-    "isoDate": "2026-11-03T16:10:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5269504&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b65824c31f6f166c75a39f47a441b748e330f1ae",
-    "title": "GhostBSD 26.2 takes the fright out of FreeBSD with a friendlier installer",
-    "link": "https://www.theregister.com/os-platforms/2026/11/03/ghostbsd-262-takes-the-fright-out-of-freebsd-with-a-friendlier-installer/5307228",
-    "summary": "Full-disk encryption joins the toolkit, MATE and Xfce stay while Gershwin sits this one out",
-    "isoDate": "2026-11-03T16:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307264&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e566867efe44b54ff00a0e5368838ceed7a2be7b",
-    "title": "ShinyHunters hit 850k alumni, donors, students, and fam in last year's Harvard University raid",
-    "link": "https://www.theregister.com/cyber-crime/2026/11/03/shinyhunters-hit-850k-alumni-donors-students-and-fam-in-last-years-harvard-university-raid/5307272",
-    "summary": "How about them apples? Plenty of personal + donation data leaked by crims, data-sifting breach site claims a year after attack",
-    "isoDate": "2026-11-03T15:38:55Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307289&width=800",
     "pinned": false
   },
   {
