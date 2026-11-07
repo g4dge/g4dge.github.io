@@ -1,5 +1,99 @@
 [
   {
+    "id": "a5febcf92b897b78006d039206c6527771792410",
+    "title": "EVgo Opens Its First Tesla Supercharger Site in Chicago",
+    "link": "https://www.notateslaapp.com/news/4961/evgo-opens-its-first-tesla-supercharger-site-in-chicago",
+    "summary": "EVgo opened its first Tesla Supercharger site near Chicago, with 12 V4 stalls that charge both NACS and CCS EVs and show up in Tesla navigation <a href=\"https://www.notateslaapp.com/news/4961/evgo-opens-its-first-tesla-supercharger-site-in-chicago\">Read More</a>",
+    "isoDate": "2026-11-07T15:30:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/evgo-tesla-supercharger-chicago.webp/1a6b3b9173726d476d990c7beacece45/evgo-tesla-supercharger-chicago.jpg",
+    "pinned": false
+  },
+  {
+    "id": "85e4d139c5e2b7eb55a9d45aaa94d265bc2c31c7",
+    "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+    "summary": "The case for managed inference, or automatically routing queries to the right model for the right job",
+    "isoDate": "2026-11-07T15:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308281&width=800",
+    "pinned": false
+  },
+  {
+    "id": "cb12cbb102c5239d218e6b8c1e343d9b83702bb0",
+    "title": "Tesla’s Giga Shanghai Now Sources 98% of Parts Locally",
+    "link": "https://www.notateslaapp.com/news/4960/teslas-giga-shanghai-now-sources-98-of-parts-locally",
+    "summary": "Giga Shanghai’s parts localization rose from over 95% to 98%, with 400+ local tier-1 suppliers and 60+ in Tesla’s global supply chain. <a href=\"https://www.notateslaapp.com/news/4960/teslas-giga-shanghai-now-sources-98-of-parts-locally\">Read More</a>",
+    "isoDate": "2026-11-07T14:30:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-gigafactory-shanghai.webp/06b4e2b596aa5b658f49bdfc0039d386/model-y-l-gigafactory-shanghai.jpg",
+    "pinned": false
+  },
+  {
+    "id": "f510be305e79a5cd3f5ecf0b8cc3f3b8096cf06a",
+    "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+    "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+    "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+    "isoDate": "2026-11-07T12:15:55Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Katarina Zimmer, Knowable Magazine",
+    "tags": [
+      "Science",
+      "anthropology",
+      "Genetics",
+      "human origins",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "130145bcfb89b24c0d87af1bf3f0ed0fd8fee70e",
+    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+    "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+    "isoDate": "2026-11-07T11:00:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Cyrus Farivar",
+    "tags": [
+      "Security",
+      "Tech",
+      "Daniel Barton-Kennedy",
+      "sim card",
+      "soldier"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d155a865c64c4002cc1b6ab402f61d66ec48cc7b",
+    "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+    "link": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+    "summary": "Team given a day's notice faced distressed callers, safeguarding decisions during project that stretched from 2 weeks to 11",
+    "isoDate": "2026-11-07T10:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5240357&width=800",
+    "pinned": false
+  },
+  {
     "id": "4185e767d8b81d331e77d21e5d41fb8b6c102ff5",
     "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
     "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
@@ -737,48 +831,6 @@
     "pinned": false
   },
   {
-    "id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
-    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-    "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-    "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-    "isoDate": "2026-11-05T23:09:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "alpine",
-      "Linux",
-      "SSH",
-      "vulnerabilities"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a6dd2447219f4c8bb4c3efbb0f2186b525943940",
-    "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-    "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-    "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-    "isoDate": "2026-11-05T22:49:03Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "aircraft",
-      "experimental aircraft",
-      "jared isaacman",
-      "NASA",
-      "X-59",
-      "X-70",
-      "x-plane"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-500x500.jpeg",
-    "pinned": false
-  },
-  {
     "id": "4cb0518ea7cfe3ddef6692b1380500ec09a3256e",
     "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
     "link": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
@@ -1283,36 +1335,6 @@
       "offbeat"
     ],
     "image": "https://image.theregister.com/?imageId=4094104&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c3413da139ef8b5edc7c1a61800353fbb2d823c3",
-    "title": "Boffins use machine-learning tricks to create a starlight dimmer switch",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/04/boffins-use-machine-learning-tricks-to-create-a-starlight-dimmer-switch/5307625",
-    "summary": "FLIP reveals a planet hidden in Webb data, boosting detection sensitivity by up to 15 times",
-    "isoDate": "2026-11-04T18:03:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=235798&width=800",
-    "pinned": false
-  },
-  {
-    "id": "d217ca2c15f204c91c02d0bf3f4aecce0b5d2b16",
-    "title": "Bare metal boom: On-prem server sales for HPC and AI up 20% this year",
-    "link": "https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611",
-    "summary": "Firms still want kit on-premises, but spike in revenue is as much about increased costs as higher sales",
-    "isoDate": "2026-11-04T17:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "on-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=1684886&width=800",
     "pinned": false
   },
   {
