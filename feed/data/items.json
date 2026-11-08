@@ -1,5 +1,55 @@
 [
   {
+    "id": "bfb781931450978ac6cd259c0d66e525a64ec861",
+    "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+    "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+    "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+    "isoDate": "2026-11-08T12:15:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "Cooper pairs",
+      "cuprates",
+      "materials science",
+      "quantum mechanics",
+      "superconductivity"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "119e6b3672526ed9ce79f71ce7988274274ec7d7",
+    "title": "Doom delivers five minutes of terminal violence on an IBM mainframe",
+    "link": "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092",
+    "summary": "Browser demo renders the classic shooter in ASCII, with no login required and considerable squinting encouraged",
+    "isoDate": "2026-11-08T11:19:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308119&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3e95397a13cefab511736302a0b1d0d7f8915c62",
+    "title": "Internet governance about to get its quadrennial stress test at ITU meeting",
+    "link": "https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031",
+    "summary": "278 proposals on table, and some fear they might shift power to governments",
+    "isoDate": "2026-11-08T09:33:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308036&width=800",
+    "pinned": false
+  },
+  {
     "id": "a5febcf92b897b78006d039206c6527771792410",
     "title": "EVgo Opens Its First Tesla Supercharger Site in Chicago",
     "link": "https://www.notateslaapp.com/news/4961/evgo-opens-its-first-tesla-supercharger-site-in-chicago",
@@ -456,7 +506,7 @@
     "category": "Tech",
     "author": "",
     "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/ct_saudi.jpg/aae9704d91c0fc5019e754f8bd9ec8b3/ct_saudi.jpg",
+    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-snow.jpeg/f9de7965e622ae382c3b4382ccce3965/cybertruck-snow.jpg",
     "pinned": false
   },
   {
@@ -808,26 +858,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5308010&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e024b4cae3ca7f762d8b3bfdded74f085d8aedd3",
-    "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-    "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-    "summary": "\"This is going to be a game-changer.\"",
-    "isoDate": "2026-11-06T00:17:06Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Space",
-      "blue origin",
-      "GS3",
-      "new glenn",
-      "northstar",
-      "space"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-500x500.webp",
     "pinned": false
   },
   {
@@ -1305,36 +1335,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/5_gigafactorytexas_06.webp/bc5da0640238fdeb8a0cf99bd2ab3d69/5_gigafactorytexas_06.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0adf90e0681008ff65334f920eebd0aa19d71353",
-    "title": "Fedora 45 is finally finished and fit",
-    "link": "https://www.theregister.com/os-platforms/2026/11/04/fedora-45-is-finally-finished-and-fit/5307631",
-    "summary": "After two last-minute delays, it's here and running – albeit with a kernel series already at upstream end of life",
-    "isoDate": "2026-11-04T18:59:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307643&width=800",
-    "pinned": false
-  },
-  {
-    "id": "facb33f28cd1628612c97fa22e9cc41b2cfa01a6",
-    "title": "Turn your home into a giant crane game with this open source robot",
-    "link": "https://www.theregister.com/offbeat/2026/11/04/turn-your-home-into-a-giant-crane-game-with-this-open-source-robot/5307628",
-    "summary": "Who needs a humanoid to pick up after you when you can suspend an AI-powered claw from cables near your ceiling?",
-    "isoDate": "2026-11-04T18:35:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=4094104&width=800",
     "pinned": false
   },
   {
