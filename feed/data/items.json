@@ -1,5 +1,50 @@
 [
   {
+    "id": "f95e5ffd3bd783294bf42333639bbd93571d572e",
+    "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+    "link": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+    "summary": "Fixes are arriving faster than new bug reports for one major Linux project",
+    "isoDate": "2026-11-09T04:53:08Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5241522&width=800",
+    "pinned": false
+  },
+  {
+    "id": "94acbee62afa84e112d9ad3effc4fcc5b823cb98",
+    "title": "Huawei says it’s made a 100 percent Chinese PC",
+    "link": "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
+    "summary": "PLUS: Japan declares infosec emergency; Apple’s makes biggest school Mac sale, ever, anywhere, in the Philippines; And more!",
+    "isoDate": "2026-11-09T02:14:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308342&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1bfb49a33e5997f3e4147401eaee57e534a1c5fb",
+    "title": "Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me",
+    "link": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327",
+    "summary": "Admits to affair after company board opens probe into alleged contact with possible Chinese asset who bought GPUs in bulk",
+    "isoDate": "2026-11-09T00:04:47Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308332&width=800",
+    "pinned": false
+  },
+  {
     "id": "bc771ed7e48b38dce6fcf32b43aff61abbd81a64",
     "title": "Tesla Explains Why the Cybertruck Was Canceled, Will Increase Production to Clear Backlog",
     "link": "https://www.notateslaapp.com/news/4967/tesla-to-add-extra-cybertruck-shift-to-clear-order-backlog",
@@ -1280,21 +1325,6 @@
     "pinned": false
   },
   {
-    "id": "bf3dcb66945ff7851e87f7695b191bc11313ba6f",
-    "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
-    "link": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
-    "summary": "Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term",
-    "isoDate": "2026-11-04T21:49:38Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307696&width=800",
-    "pinned": false
-  },
-  {
     "id": "43f765d8576efd6c0e5c3ee65bb1332765d5811b",
     "title": "SpaceX Taps Qualcomm to Build Nationwide Starlink Mobile Network",
     "link": "https://www.notateslaapp.com/news/4947/spacex-taps-qualcomm-to-build-nationwide-starlink-mobile-network",
@@ -1308,21 +1338,6 @@
     "pinned": false
   },
   {
-    "id": "abdc6067e0e78142ae8c8fdf5e1b58a3e72c1b8e",
-    "title": "Hey, Siri: Plug into my app like you said you'd do way back in 2024",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/04/hey-siri-plug-into-my-app-like-you-said-youd-do-way-back-in-2024/5307659",
-    "summary": "More than two years after promising it, Apple lets developers test Siri AI app integration",
-    "isoDate": "2026-11-04T20:56:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307663&width=800",
-    "pinned": false
-  },
-  {
     "id": "b26e02f0672b4149d645917401b805ca722a3a09",
     "title": "The Model S Is Gone, but Tesla Just Patented Its Design",
     "link": "https://www.notateslaapp.com/news/4946/the-model-s-is-gone-but-tesla-just-patented-its-design",
@@ -1333,21 +1348,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-s/model-s_72.jpg/c4602752cce2bcfd6db47ce11d608d67/model-s_72.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6824dad2276c48f19054688d3be57348e40580a8",
-    "title": "Palantir CEO says it's pioneering an antiwar movement – while happily accepting defense dollars",
-    "link": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605",
-    "summary": "Alex Karp casts military software as a force for peace while declaring a moral imperative to dominate the market",
-    "isoDate": "2026-11-04T19:25:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=258394&width=800",
     "pinned": false
   },
   {
