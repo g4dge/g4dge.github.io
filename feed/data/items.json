@@ -1,5 +1,336 @@
 [
   {
+    "id": "8bc760bffba41ef817152068d12763473e13d900",
+    "title": "NASA keeps its PROMISE to raid Mars testbeds for parts",
+    "link": "https://www.theregister.com/science/2026/11/09/nasa-keeps-its-promise-to-raid-mars-testbeds-for-parts/5308475",
+    "summary": "Cut-and-shut trundlebot with spiffy new paint job meant to be headed to the Moon in 2028",
+    "isoDate": "2026-11-09T15:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=1684260&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8af7bc60b8918a4b8845ef438b35e5a70ea1f672",
+    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+    "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+    "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+    "isoDate": "2026-11-09T15:39:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "AI",
+      "space",
+      "spacex",
+      "starship"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "5d63754d84e9ecf358aa8cd541094c08cf840bd9",
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+    "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+    "isoDate": "2026-11-09T15:23:20Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Demetri Sevastopulo, Financial Times",
+    "tags": [
+      "AI",
+      "Policy",
+      "china",
+      "Chinese espionage",
+      "espionage",
+      "Jensen Huang",
+      "NVIDIA",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "7b3da89c9ff9092046072b932f26fb1d141309b8",
+    "title": "F1 in Brazil: You’ve got to keep your tires alive",
+    "link": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
+    "summary": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
+    "isoDate": "2026-11-09T15:16:31Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "F1",
+      "Formula 1"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304145044-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fc813b911c0a9ac488e4a3b984bd258d0c16e04d",
+    "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
+    "link": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
+    "summary": "A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams",
+    "isoDate": "2026-11-09T15:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308444&width=800",
+    "pinned": false
+  },
+  {
+    "id": "a18ce332976ade3aabb46d8997b0618a2e38d5aa",
+    "title": "Who Gives A Crap? Hackers, apparently, after toilet paper maker's customer data exposed",
+    "link": "https://www.theregister.com/security/2026/11/09/who-gives-a-crap-hackers-apparently-after-toilet-paper-makers-customer-data-exposed/5308419",
+    "summary": "UK shoppers caught up in third-party security mess, and nobody knows whether the data was flushed away",
+    "isoDate": "2026-11-09T14:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308423&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e95faf8e67e5dfa13626163f3052652cc79ca3f7",
+    "title": "The AI bubble can wait, but your exit plan can't",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415",
+    "summary": "Infrastructure spending outruns measurable returns, with supplier finances key to judging when trouble arrives",
+    "isoDate": "2026-11-09T14:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5220460&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2bf3346c67e6baa47c47fef01ccd331d65f6cc2a",
+    "title": "Outlook.com bounces legit emails as Microsoft's authentication crackdown goes sideways",
+    "link": "https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428",
+    "summary": "Missing DMARC or wobbly SPF means your mail may be treated as suspicious",
+    "isoDate": "2026-11-09T13:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "applications"
+    ],
+    "image": "https://image.theregister.com/?imageId=249757&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bdd8bc946e28c226e7dea6858e05fbcacc4c9477",
+    "title": "Who can still open your files after they've left?",
+    "link": "https://www.theregister.com/storage/2026/11/09/sponsored-who-can-still-open-your-files-after-theyve-left/5306418",
+    "summary": "<span class=\"font-weight-normal m-font-weight-normal\">EVENT: </span>Peers compare how they find the shares nobody closed, over dinner with The Register in London.",
+    "isoDate": "2026-11-09T13:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "David Gordon",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306422&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d24a7d11fb57da59d39ba0e2f2f15aed15f23fff",
+    "title": "Japanese homeware giant pulls online store after cloud breach puts 7.7M records at risk",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/09/japanese-homeware-giant-pulls-online-store-after-cloud-breach-puts-77m-records-at-risk/5308377",
+    "summary": "No reopening date as orders face delays and some customers are told to refuse deliveries to cancel purchases",
+    "isoDate": "2026-11-09T12:47:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308391&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b7aa39dcf96012fc98c50ab08206322e86533198",
+    "title": "Tesla Launches Robotaxi in San Antonio, Its 9th and Largest Region Yet",
+    "link": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
+    "summary": "Tesla’s unsupervised Robotaxi service launched in San Antonio with a ~275 sq. mile zone, one week after Fort Worth and its biggest launch yet <a href=\"https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio\">Read More</a>",
+    "isoDate": "2026-11-09T12:16:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-san-antonio-launch-geofence-november-2026.webp/15c24a66573f2c23a52ed673b865bc09/tesla-robotaxi-san-antonio-launch-geofence-november-2026.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b024c78b639c651e3ce1ff0d43e4532aaa806f26",
+    "title": "Datacenters, Elon Musk, and AI are all on the chopping block once Congress changes hands in 2027",
+    "link": "https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250",
+    "summary": "Rage, rage against the dying of the right",
+    "isoDate": "2026-11-09T12:14:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308257&width=800",
+    "pinned": false
+  },
+  {
+    "id": "3c7667d892fe8d8afa160e87c91cfd1f57f545b0",
+    "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+    "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+    "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+    "isoDate": "2026-11-09T12:00:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Features",
+      "Science",
+      "Space",
+      "golden dome",
+      "midterm elections",
+      "military space",
+      "missile defense",
+      "space based interceptors",
+      "US Space Force"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2219660369-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "ec16b4d0d408c21603fde8a80a3e027149868d24",
+    "title": "AI echo chambers and sanity in tech leadership: Three case studies",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/09/ai-echo-chambers-and-sanity-in-tech-leadership-three-case-studies/5308046",
+    "summary": "Altman, Torvalds, Yen. One has got his head screwed on. The others could do with some grounding",
+    "isoDate": "2026-11-09T11:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Rupert Goodwins",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308051&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b535061e31173c75d9738e947853c07e23b93641",
+    "title": "Portal breach at Germany's top university exposes every registered user's password",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/09/portal-breach-at-germanys-top-university-exposes-every-registered-users-password/5308380",
+    "summary": "Stolen sysadmin credentials enabled a follow-on attack on the campus management system",
+    "isoDate": "2026-11-09T11:44:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=4094138&width=800",
+    "pinned": false
+  },
+  {
+    "id": "804781f5f292a71badfcfa27652816bf566596a9",
+    "title": "A trip to upside-down world",
+    "link": "https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world",
+    "summary": "<p><img alt=\"Abstract painting of a person with a green face in a pink hat surrounded by floating houses and goats against a colourful sky.\" src=\"https://images.aeonmedia.co/images/9bf1c0dd-504c-49d4-8e80-196350a549a4/a-trip-to-upside-down-world-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Goats everywhere! Three-hour handstands! Magical doorknobs! Discover a whole new way of looking at a Cubist masterpiece</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world\">Watch on Aeon</a></p>",
+    "isoDate": "2026-11-09T11:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "859f813189c3119ae0f4815d4a3ce9531b914d67",
+    "title": "Equality talk",
+    "link": "https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world",
+    "summary": "<p><img alt=\"Black and white photo of a group of men in flat caps and coats, a young man sitting on a brick wall looks on.\" src=\"https://images.aeonmedia.co/images/f220e1d9-d115-41d2-8d6b-19080731b06a/essay-par161210.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences</p><p><em>- by Teresa M Bejan</em></p><p><a href=\"https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world\">Read on Aeon</a></p>",
+    "isoDate": "2026-11-09T11:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Teresa M Bejan",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "6abb8a1377572b1b6e8b945e73293ea65fb611ce",
+    "title": "AI Slop FM radio experiment puts machines on trial, one dodgy tune at a time",
+    "link": "https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161",
+    "summary": "Music fan from Wales lets listeners pit AI-generated songs against human bops – including toilet operas and HR protest songs",
+    "isoDate": "2026-11-09T10:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=256930&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fdedf2ad7107e7c70b70ff0dd0fc469303af7a7f",
+    "title": "The sentencing of a ULEZ camera vandal is not evidence of two-tier policing in the UK",
+    "link": "https://www.skeptic.org.uk/2026/11/the-sentencing-of-a-ulez-camera-vandal-is-not-evidence-of-two-tier-policing-in-the-uk/",
+    "summary": "<p>After a man was sentenced for destroying a ULEZ traffic enforcement camera, sections of the UK political landscape wrongly proclaimed a two-tier justice system.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/11/the-sentencing-of-a-ulez-camera-vandal-is-not-evidence-of-two-tier-policing-in-the-uk/\">The sentencing of a ULEZ camera vandal is not evidence of two-tier policing in the UK</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-11-09T10:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Michael Marshall",
+    "tags": [
+      "Conspiracy Theories",
+      "Environmentalism"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "9c99c9bfc4113908e79b030d0bb6bbde8f1a1f6c",
+    "title": "Memory crunch makes refurbished kit look a lot less secondhand",
+    "link": "https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758",
+    "summary": "Soaring component costs and warranties of up to three years give buyers more reason to consider pre-loved hardware",
+    "isoDate": "2026-11-09T09:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Paul Kunert",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5307762&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fef1392327502af3ab473f0bf8ce822b2b590cbe",
+    "title": "Dev error bricked 600 PCs, caused $1M CD-ROM write-off",
+    "link": "https://www.theregister.com/software/2026/11/09/dev-error-bricked-600-pcs-caused-1m-cd-rom-write-off/5308039",
+    "summary": "One lucky engineer scored a free dinner during the frantic fix, the rest got to explain their mistake",
+    "isoDate": "2026-11-09T07:36:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=225379&width=800",
+    "pinned": false
+  },
+  {
     "id": "f95e5ffd3bd783294bf42333639bbd93571d572e",
     "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
     "link": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
@@ -18,7 +349,7 @@
     "id": "94acbee62afa84e112d9ad3effc4fcc5b823cb98",
     "title": "Huawei says it’s made a 100 percent Chinese PC",
     "link": "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
-    "summary": "PLUS: Japan declares infosec emergency; Apple’s makes biggest school Mac sale, ever, anywhere, in the Philippines; And more!",
+    "summary": "PLUS: Japan declares infosec emergency; Apple makes biggest school Mac sale, ever, anywhere, in the Philippines; And more!",
     "isoDate": "2026-11-09T02:14:17Z",
     "source": "The Register",
     "category": "Tech",
@@ -218,7 +549,7 @@
     "id": "4185e767d8b81d331e77d21e5d41fb8b6c102ff5",
     "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
     "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-    "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+    "summary": "It's the exact path, not the apparent severity, that matters most, doctors say.",
     "isoDate": "2026-11-06T23:09:45Z",
     "source": "Ars Technica",
     "category": "Tech",
@@ -601,27 +932,6 @@
     "pinned": false
   },
   {
-    "id": "b5c1f3a9152a431d61a1cf9a27e62a37c39bbc5a",
-    "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-    "link": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-    "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
-    "isoDate": "2026-11-06T15:28:07Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Apple",
-      "Features",
-      "apple",
-      "M5 Max",
-      "M5 Pro",
-      "MacBook Pro",
-      "reviews"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MacBook-Pro-closed-lid-500x500-1793924693.jpg",
-    "pinned": false
-  },
-  {
     "id": "6d913cb54e3ff771f28be64dc93b801336088126",
     "title": "DoJ's 'Super Intelligence Task Force' up and running",
     "link": "https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074",
@@ -652,26 +962,6 @@
     "pinned": false
   },
   {
-    "id": "8250334af19793e3f5138f072419939ef05bb89a",
-    "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-    "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-    "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-    "isoDate": "2026-11-06T14:13:32Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Demetri Sevastopulo, Financial Times",
-    "tags": [
-      "Policy",
-      "china",
-      "espionage",
-      "Jensen Huang",
-      "NVIDIA",
-      "syndication"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "e78c2dfe2d3782613eda81a9e596b092372bb9f4",
     "title": "Blue Origin unveils more thrust, less haste as New Glenn slips to 2027",
     "link": "https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138",
@@ -697,45 +987,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/ct_saudi-1793979667.jpg/aa8dd269e0cb6233cdfdfdf178717bfd/ct_saudi-1793979667.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ba6c83f8e1dea815fa631e37003dea5c965c38d9",
-    "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
-    "link": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
-    "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
-    "isoDate": "2026-11-06T13:50:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jonathan M. Gitlin",
-    "tags": [
-      "Cars",
-      "Tesla Cybertruck"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303012424-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "1d078774c42946c24b4bb957d366e5172e90c3b4",
-    "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
-    "link": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
-    "summary": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
-    "isoDate": "2026-11-06T13:33:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "artemis II",
-      "blue origin",
-      "india",
-      "Japan",
-      "launch",
-      "new glenn",
-      "rocket report",
-      "space launch system"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/NHQ202604010115orig-500x500.jpg",
     "pinned": false
   },
   {
@@ -1134,21 +1385,6 @@
     "pinned": false
   },
   {
-    "id": "43b13969d6cbefdafeb4241ed7aaad514467b76d",
-    "title": "Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again",
-    "link": "https://www.theregister.com/software/2026/11/05/microsoft-fixed-excel-2016-copy-paste-bug-then-reintroduced-it-now-its-fixed-again/5307782",
-    "summary": "All of this has happened before. All of this will happen again. Maybe",
-    "isoDate": "2026-11-05T14:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=227906&width=800",
-    "pinned": false
-  },
-  {
     "id": "f6984d35e0d1c2bc3e45324da48f1df619aa4786",
     "title": "Starlink Is Replacing OG ‘Dishy McFlatface’ Dishes for Free",
     "link": "https://www.notateslaapp.com/news/4949/starlink-is-replacing-og-dishy-mcflatface-dishes-for-free",
@@ -1162,66 +1398,6 @@
     "pinned": false
   },
   {
-    "id": "3496d8ac5c67c64f74679efd549381ebee66d0d6",
-    "title": "'Stop dirty datacenters': Europe-wide protests planned demanding building moratorium",
-    "link": "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790",
-    "summary": "Curbing compute farms played a big part in recent US elections, now Euro activists are making their feelings known",
-    "isoDate": "2026-11-05T13:29:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5277385&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c29bbce4a31ed04c1137c63a9603e9242a2609a7",
-    "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
-    "link": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
-    "summary": "From EOP to RCE in six simple steps",
-    "isoDate": "2026-11-05T13:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "research"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307922&width=800",
-    "pinned": false
-  },
-  {
-    "id": "27b7a41e0397dbec44559d0bd506b1bfa185dddd",
-    "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
-    "link": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
-    "summary": "No gang has claimed the attack on incredible neighborhood resource yet",
-    "isoDate": "2026-11-05T12:10:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=1684482&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7cabac9649662d58676d10771a0d253b0e0b008c",
-    "title": "Norway's aid agency pwned and all users' data is stolen",
-    "link": "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765",
-    "summary": "Norad said it cannot be sure that the details of those in 'conflict areas and authoritarian states' are safe or not",
-    "isoDate": "2026-11-05T11:19:16Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=260104&width=800",
-    "pinned": false
-  },
-  {
     "id": "3a5a4cc9690ff44f757b69b742a197bb1bba55c6",
     "title": "Methodical/mercurial",
     "link": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
@@ -1232,96 +1408,6 @@
     "author": "Sarah Hendrickx",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2ee2560160fa146ed8b272de027672d443487641",
-    "title": "SAP promises to open out data flows in both directions",
-    "link": "https://www.theregister.com/software/2026/11/05/sap-promises-to-open-out-data-flows-in-both-directions/5307495",
-    "summary": "New commitment to Apache Iceberg and expanded Databricks partnership point to battle ahead over context layer",
-    "isoDate": "2026-11-05T10:15:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=4093655&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f605172a76805000f348bf57f62487b54c30d4d7",
-    "title": "When datacenters lose power, generators should kick in. That didn’t happen for Google in London",
-    "link": "https://www.theregister.com/off-prem/2026/11/05/when-datacenters-lose-power-generators-should-kick-in-that-didnt-happen-for-google-in-london/5307739",
-    "summary": "October outage caused by bad PLC config exposed at a time maintenance work reduced resilience",
-    "isoDate": "2026-11-05T06:19:54Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307745&width=800",
-    "pinned": false
-  },
-  {
-    "id": "dee3c022525148adc91d015c3d75fccb70d07b62",
-    "title": "VMware quietly offers European users extended sales and support for low-end vSphere",
-    "link": "https://www.theregister.com/virtualization/2026/11/05/vmware-quietly-offers-european-users-extended-sales-and-support-for-low-end-vsphere/5307732",
-    "summary": "Version 8 of Standard and Enterprise Plus will stay alive until October 2028",
-    "isoDate": "2026-11-05T04:31:22Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "virtualization"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240668&width=800",
-    "pinned": false
-  },
-  {
-    "id": "bb70770b45bca3c1b2d09c4223d930835f4dd70e",
-    "title": "Microsoft admits certifications can be a drag, launches creds that recognize skills",
-    "link": "https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725",
-    "summary": "‘Pro Badges’ don’t require a test, Microsoft awards them by watching you use GitHub",
-    "isoDate": "2026-11-05T03:43:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=241566&width=800",
-    "pinned": false
-  },
-  {
-    "id": "df38b91887af8285e7a7f9b3b23dd432e27c3572",
-    "title": "Uber says it alone can make robotaxis pay, hours after Waymo quit its app",
-    "link": "https://www.theregister.com/personal-tech/2026/11/05/uber-says-it-alone-can-make-robotaxis-pay-hours-after-waymo-quit-its-app/5307718",
-    "summary": "Oh, the irony, as platform players fight",
-    "isoDate": "2026-11-05T01:45:07Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=253463&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fc88ef2887b770bfd36b692293dddfc1d831e7a9",
-    "title": "Meta brings Conductor on board its model train",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711",
-    "summary": "Agent orchestration startup gets its exit",
-    "isoDate": "2026-11-05T00:35:29Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307715&width=800",
     "pinned": false
   },
   {
@@ -1508,60 +1594,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-europe-tour-schedule-1793635237.webp/a16a5fbbd2367e76e45eb339646a9308/cybercab-europe-tour-schedule-1793635237.jpg",
-    "pinned": false
-  },
-  {
-    "id": "47b415062ba621c576edf4e676c97c00cb72f368",
-    "title": "Tesla Expands Robotaxi Service, Launches Unsupervised Rides in Fort Worth",
-    "link": "https://www.notateslaapp.com/news/4932/tesla-expands-robotaxi-service-launches-unsupervised-rides-in-fort-worth",
-    "summary": "Tesla’s Robotaxi service is now live in Fort Worth with unsupervised rides in a 143-square-mile zone, its first new city launch in over three months <a href=\"https://www.notateslaapp.com/news/4932/tesla-expands-robotaxi-service-launches-unsupervised-rides-in-fort-worth\">Read More</a>",
-    "isoDate": "2026-11-02T14:00:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-geofence-fort-worth-november-2026-2.webp/b3bc43a8602e9507e58514a8d88cd5fd/tesla-robotaxi-geofence-fort-worth-november-2026-2.jpg",
-    "pinned": false
-  },
-  {
-    "id": "3cd17b065c5cae8e621d2de0417d3f14e2c88196",
-    "title": "Jo Marchant: In search of now",
-    "link": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
-    "summary": "<p><img alt=\"Photo of a close-up hourglass with sand flowing in the centre against a dark background.\" src=\"https://images.aeonmedia.co/images/a37af664-ff12-479f-927e-47ae1ede2bf7/jo-marchant-in-search-of-now-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>What is ‘now’? Through physics via philosophy and psychology, discover the science and mystery of the present moment</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now\">Watch on Aeon</a></p>",
-    "isoDate": "2026-11-02T11:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "73c827a46c0e8c35d196828b1f5fcc0e23467ba5",
-    "title": "The self-making world",
-    "link": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
-    "summary": "<p><img alt=\"A group of whales surfacing in a green sea near a rocky forested shoreline.\" src=\"https://images.aeonmedia.co/images/e7ea39c8-e023-47fb-820f-7a6d68ed3928/essay-humpbacks.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Long mocked and misunderstood, Lamarck’s radical idea that organisms shape themselves and their world is making a comeback</p><p><em>- by Jessica Riskin</em></p><p><a href=\"https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck\">Read on Aeon</a></p>",
-    "isoDate": "2026-11-02T11:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Jessica Riskin",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7e7e5423ac920d2dc35b31df4732978800f0c2cb",
-    "title": "Dishonesty and untruths abound in the world of so-called alternative medicine",
-    "link": "https://www.skeptic.org.uk/2026/11/dishonesty-and-untruths-abound-in-the-world-of-so-called-alternative-medicine/",
-    "summary": "<p>Alternative medicine is a field replete with false claims - from misinformation and mistaken correlation, to out right fraud and fabrication.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/11/dishonesty-and-untruths-abound-in-the-world-of-so-called-alternative-medicine/\">Dishonesty and untruths abound in the world of so-called alternative medicine</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-11-02T10:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Edzard Ernst",
-    "tags": [
-      "Alternative Medicine"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
