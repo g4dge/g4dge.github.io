@@ -1,5 +1,413 @@
 [
   {
+    "id": "c5b4bb51ba8b66372240168bac6b000f817ee4c8",
+    "title": "High oil prices have led to a dip in global carbon emissions",
+    "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+    "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
+    "isoDate": "2026-11-10T16:29:27Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scott K. Johnson",
+    "tags": [
+      "Science",
+      "climate change",
+      "greenhouse gas emissions"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4c4fe289b24da25d16dd8b4b75d30ec7817daa90",
+    "title": "One space station company sues another for copying its work",
+    "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+    "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+    "isoDate": "2026-11-10T16:17:51Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "axiom",
+      "lawsuit",
+      "NASA",
+      "private astronaut missions",
+      "vast space"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "16d2c7e6b39edd783037ecfe8b77144a327dbabd",
+    "title": "Trump taps Palantir security chief to run battered US cyber defense agency",
+    "link": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
+    "summary": "Michael LoSapio could inherit a depleted workforce and a political headache or two, courtesy of his current employer",
+    "isoDate": "2026-11-10T16:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5219759&width=800",
+    "pinned": false
+  },
+  {
+    "id": "345fcd0bd7d287b8864dcfe013403c06ca7cb053",
+    "title": "Tesla Explains Why It Dropped Sunroofs From Its Vehicles",
+    "link": "https://www.notateslaapp.com/news/4980/tesla-explains-why-it-dropped-sunroofs-from-its-vehicles",
+    "summary": "Tesla’s data showed owners rarely used opening sunroofs after the first week, so it switched to fixed glass roofs that block more heat and UV <a href=\"https://www.notateslaapp.com/news/4980/tesla-explains-why-it-dropped-sunroofs-from-its-vehicles\">Read More</a>",
+    "isoDate": "2026-11-10T15:47:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/model-s-roof.jpg/e6de8ed99e50239ba771f0e70c89a37d/model-s-roof.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8546ce92cc9b47a348afa12aedcdeab70d39f588",
+    "title": "Fireworks AI gets burned twice as customer data exposure widens",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
+    "summary": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants",
+    "isoDate": "2026-11-10T15:28:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308749&width=800",
+    "pinned": false
+  },
+  {
+    "id": "004c51f512e0fac4dbfbe3f4be2dd202222f5263",
+    "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+    "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+    "summary": "The new model is up to twice as successful at some tasks.",
+    "isoDate": "2026-11-10T15:00:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ryan Whitwam",
+    "tags": [
+      "AI",
+      "Google",
+      "gemini",
+      "gemini robotics",
+      "google",
+      "physical AI",
+      "robots"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-500x500-1794257853.jpg",
+    "pinned": false
+  },
+  {
+    "id": "952761630128c9fa3aa525d0dc759d442ba2ef9d",
+    "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+    "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+    "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+    "isoDate": "2026-11-10T14:53:05Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Michael Acton, Financial Times",
+    "tags": [
+      "Tech",
+      "Jensen",
+      "NVIDIA",
+      "spying",
+      "syndication"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fe7959f0734b2a10c237b1fbc40abdc13b6166b8",
+    "title": "Another contract extension for Fujitsu on the Post Office's Horizon",
+    "link": "https://www.theregister.com/public-sector/2026/11/10/another-contract-extension-for-fujitsu-on-the-post-offices-horizon/5308793",
+    "summary": "Just a few more months until Accenture takes over running scandal-hit Horizon system",
+    "isoDate": "2026-11-10T14:45:11Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=228064&width=800",
+    "pinned": false
+  },
+  {
+    "id": "50bad3cfec0305a05ae1adb3a803dd9e253c4c33",
+    "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+    "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+    "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
+    "isoDate": "2026-11-10T14:43:49Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "eye",
+      "fda",
+      "GLP-1",
+      "NAION",
+      "ophthalmology"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "6f75782d831705dd16247b9010cfac080d86032e",
+    "title": "You May Never Get Your Cybertruck; Tesla Says It Will Refund ‘a Lot of People’",
+    "link": "https://www.notateslaapp.com/news/4978/you-may-never-get-your-cybertruck-as-tesla-says-it-will-refund-a-lot-of-people",
+    "summary": "Tesla can’t build every Cybertruck on order before the line shuts down in about 8 months, so many buyers will get their deposits back. <a href=\"https://www.notateslaapp.com/news/4978/you-may-never-get-your-cybertruck-as-tesla-says-it-will-refund-a-lot-of-people\">Read More</a>",
+    "isoDate": "2026-11-10T14:23:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/textile_seats.webp/415158b3532ca591f0a556f5eee73ed8/textile_seats.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e65f1a95fdc7833e574a526197acda9401b22f99",
+    "title": "Polestar has a new look with its Formula 2030 concept",
+    "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+    "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+    "isoDate": "2026-11-10T14:22:02Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "Polestar"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "fb12216c2432cdaaf136a70781399ff6f9e141b0",
+    "title": "Stanford's century-long AI study admits it's already out of date",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/10/stanfords-century-long-ai-study-admits-its-already-out-of-date/5308574",
+    "summary": "Five-year review charts upheaval in work, science, and public life – with little consensus on who's in control",
+    "isoDate": "2026-11-10T14:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308673&width=800",
+    "pinned": false
+  },
+  {
+    "id": "8a1aa3911faff42e43438108ec4da97d0180f142",
+    "title": "Chrome zero-day whack-a-mole continues as 2026 tally hits 8",
+    "link": "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732",
+    "summary": "Another Chrome memory bug gets squashed, but not before attackers got their hands on it",
+    "isoDate": "2026-11-10T13:28:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308741&width=800",
+    "pinned": false
+  },
+  {
+    "id": "aa69a14638b1c9fca5f9ef58952398d0c1e2ad2e",
+    "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687",
+    "summary": "BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on",
+    "isoDate": "2026-11-10T13:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5303385&width=800",
+    "pinned": false
+  },
+  {
+    "id": "14af9c977aa5c99f8266ec5489a2c4a8d42d9e19",
+    "title": "Tesla Hikes Cyberbeast Price Again, Ends Cybertruck Premium Ordering",
+    "link": "https://www.notateslaapp.com/news/4979/tesla-ends-cybertruck-premium-orders-hikes-cyberbeast-price",
+    "summary": "Tesla stopped taking Cybertruck Premium AWD orders and raised the Cyberbeast to $109,990, its only remaining trim before production ends in 2027 <a href=\"https://www.notateslaapp.com/news/4979/tesla-ends-cybertruck-premium-orders-hikes-cyberbeast-price\">Read More</a>",
+    "isoDate": "2026-11-10T12:40:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/9-1778246822.jpg/4bf597ce6c3d057e0986ab485e5e2621/9-1778246822.jpg",
+    "pinned": false
+  },
+  {
+    "id": "43f1a44a1980892571b60bab9ad101c4216adedf",
+    "title": "Smart meters to cost the UK billions: 2G switch-off means replacing 12-13 million",
+    "link": "https://www.theregister.com/networks/2026/11/10/smart-meters-to-cost-the-uk-billions-2g-switch-off-means-replacing-12-13-million/5308728",
+    "summary": "Sunset of legacy cellphone tech means forced upgrade for many millions of smart energy meter users",
+    "isoDate": "2026-11-10T12:38:51Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=233199&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ffd1be60b8ac1c68f4fc28232666f2f0e37d184a",
+    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+    "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+    "isoDate": "2026-11-10T12:15:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "Tech",
+      "drones",
+      "fiber optic cable",
+      "fiber optics",
+      "military drones",
+      "optical fiber",
+      "Russia invasion of Ukraine",
+      "Russia war on Ukraine",
+      "Russian invasion of Ukraine",
+      "Russian war on Ukraine",
+      "Ukraine",
+      "Ukraine war"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "1e5c1e122cc52eb2833a7fc5bc3a1a1f13ff173b",
+    "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+    "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+    "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+    "isoDate": "2026-11-10T12:00:21Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Features",
+      "Tech",
+      "14-inch MacBook Pro",
+      "apple m6",
+      "Apple silicon",
+      "MacBook Pro"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-500x500.jpeg",
+    "pinned": false
+  },
+  {
+    "id": "364a289ee5b9336de4d9de75d72fedac927b3080",
+    "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
+    "summary": "Post-quantum handshake and Triple Ratchet get a formal security check",
+    "isoDate": "2026-11-10T12:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308629&width=800",
+    "pinned": false
+  },
+  {
+    "id": "124436fde11d104f90cdb32cff4617de24050d7a",
+    "title": "Microsoft is giving Claude the keys to UK Copilot tenants by default",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693",
+    "summary": "Admins have until December 9 to review access settings as Anthropic processes data in the US",
+    "isoDate": "2026-11-10T11:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5247969&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5a94fef24f4a8c7d4382a82dbf907ee32ce5f29d",
+    "title": "EU's €212M border IT project lands IBM and Atos in legal water",
+    "link": "https://www.theregister.com/public-sector/2026/11/10/eus-212m-border-it-project-lands-ibm-and-atos-in-legal-water/5308669",
+    "summary": "After years of missed deadlines, ballooning costs, and a blame game over who was responsible, Brussels has finally called in the lawyers",
+    "isoDate": "2026-11-10T11:01:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308676&width=800",
+    "pinned": false
+  },
+  {
+    "id": "06b87a1953d43568bd12cef7d22cb2fe2f0160f7",
+    "title": "The wholehearted life",
+    "link": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+    "summary": "<p><img alt=\"A smiling elderly woman in traditional attire holding a brush, standing against a red textured background.\" src=\"https://images.aeonmedia.co/images/1f0bf1c6-e0ad-490d-b4c1-685617a95d62/essay-from-kodo-dsc02003.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life?</p><p><em>- by Ben Daitz</em></p><p><a href=\"https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life\">Read on Aeon</a></p>",
+    "isoDate": "2026-11-10T11:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Ben Daitz",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f0373e69c004ebb7e5e458936cbd456454382e1e",
+    "title": "Royal Navy stands up first autonomous boat squadron",
+    "link": "https://www.theregister.com/offbeat/2026/11/10/royal-navy-stands-up-first-autonomous-boat-squadron/5308494",
+    "summary": "Force deploys an operational squadron to gain experience in uncrewed systems as part of its Hybrid Navy vision",
+    "isoDate": "2026-11-10T10:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308508&width=800",
+    "pinned": false
+  },
+  {
+    "id": "af13d2a04f43e612fda63f3c05f94ff4480046ea",
+    "title": "From the archives: Who’s that on the line? Authentication of computer and psychic channels",
+    "link": "https://www.skeptic.org.uk/2026/11/from-the-archives-whos-that-on-the-line-authentication-of-computer-and-psychic-channels/",
+    "summary": "<p>From the archives in 1993, Robert McGrath looks at the difficulty of validating psychic messages - and ponders lessons from cryptography.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/11/from-the-archives-whos-that-on-the-line-authentication-of-computer-and-psychic-channels/\">From the archives: Who&#8217;s that on the line? Authentication of computer and psychic channels</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-11-10T10:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Robert McGrath",
+    "tags": [
+      "Archive"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "70f18a2a580446bc2084ce182f52034fbc0415cd",
+    "title": "Microsoft teaches schools that free email was just a phase",
+    "link": "https://www.theregister.com/saas/2026/11/10/microsoft-teaches-schools-that-free-email-was-just-a-phase/5308371",
+    "summary": "Office 365 A1 and Student Use Benefit face retirement, leaving institutions to budget for paid replacements at renewal",
+    "isoDate": "2026-11-10T09:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308394&width=800",
+    "pinned": false
+  },
+  {
     "id": "a066efdc1712419f383218e7df2b74be2d6d00dd",
     "title": "Cisco to link all future products to its SaaS-y Cloud Control management tool",
     "link": "https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660",
@@ -772,25 +1180,6 @@
     "pinned": false
   },
   {
-    "id": "130145bcfb89b24c0d87af1bf3f0ed0fd8fee70e",
-    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-    "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-    "isoDate": "2026-11-07T11:00:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Cyrus Farivar",
-    "tags": [
-      "Security",
-      "Tech",
-      "Daniel Barton-Kennedy",
-      "sim card",
-      "soldier"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d155a865c64c4002cc1b6ab402f61d66ec48cc7b",
     "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
     "link": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
@@ -803,71 +1192,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5240357&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4185e767d8b81d331e77d21e5d41fb8b6c102ff5",
-    "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-    "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-    "summary": "It's the exact path, not the apparent severity, that matters most, doctors say.",
-    "isoDate": "2026-11-06T23:09:45Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "BMJ",
-      "brain",
-      "eye",
-      "knife",
-      "surgery"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-500x500-1794006484.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5e8dffb0e5fdf6c3b600988840eb40555e6affb8",
-    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-    "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-    "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
-    "isoDate": "2026-11-06T22:41:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "donald trump iran war",
-      "Iran",
-      "Iran Revolutionary Guard Corps",
-      "subsea cable",
-      "subsea cables",
-      "undersea cable",
-      "undersea cable cuts",
-      "undersea cables",
-      "USA-Iran War"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "0e26b90ba74d8b023da40eff0cb76aa44b343559",
-    "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-    "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-    "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
-    "isoDate": "2026-11-06T22:08:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Samuel Axon",
-    "tags": [
-      "Gaming",
-      "EA",
-      "gog",
-      "Privateer 2",
-      "Road Rash",
-      "ultima",
-      "Wing Commander"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
     "pinned": false
   },
   {
@@ -886,46 +1210,6 @@
     "pinned": false
   },
   {
-    "id": "a5eef3cf57a4e41068d18c3d750426ae75f2c8c8",
-    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-    "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-    "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-    "isoDate": "2026-11-06T20:56:41Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "blockchain",
-      "breaches",
-      "chainalysis",
-      "hacking"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "8437660c5ac92baa199a48febad589311e554b12",
-    "title": "Earth's churning mantle may have created the Great Unconformity",
-    "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-    "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
-    "isoDate": "2026-11-06T20:24:20Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacek Krywko",
-    "tags": [
-      "Science",
-      "Earth science",
-      "ediacaran",
-      "geology",
-      "great unconformity",
-      "plate tectonics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "25100428623f9c19ab6825ad1f225688293df749",
     "title": "Musk: Tesla Will Rent Optimus Robots Instead of Selling Them",
     "link": "https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them",
@@ -936,25 +1220,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-gen-3-eth-zurich.webp/104cfdf0eecac83331e34fe1cec7ea74/optimus-gen-3-eth-zurich.jpg",
-    "pinned": false
-  },
-  {
-    "id": "b20401b1101b6ddf84e2e79e60fca3609461db6e",
-    "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-    "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-    "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-    "isoDate": "2026-11-06T20:05:30Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nick Indge",
-    "tags": [
-      "Tech",
-      "Cargo theft",
-      "GPS spoofing",
-      "hijacking",
-      "NVIDIA"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-500x500.jpg",
     "pinned": false
   },
   {
@@ -1145,21 +1410,6 @@
     "pinned": false
   },
   {
-    "id": "f52ae76285179448e4e1e54fbb95d583e69a6880",
-    "title": "Home Office cloud services contract may net AWS £1B",
-    "link": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
-    "summary": "Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence",
-    "isoDate": "2026-11-06T12:47:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=252143&width=800",
-    "pinned": false
-  },
-  {
     "id": "8b1098ec43476a01c1fc29e3280320a0a186fca4",
     "title": "The Skeptic Podcast – Episode 089",
     "link": "https://www.skeptic.org.uk/2026/11/the-skeptic-podcast-episode-089/",
@@ -1172,36 +1422,6 @@
       "Podcast"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7b329f892d851d4fa1bb1dce2d21beacbb1bd862",
-    "title": "Bank of England pours cold water on AI productivity boom",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
-    "summary": "Turns out throwing billions at GPUs doesn't automatically mean everyone gets more done",
-    "isoDate": "2026-11-06T11:43:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=1683227&width=800",
-    "pinned": false
-  },
-  {
-    "id": "32fa756444deb29c5386d8abda8b3850ccb059fa",
-    "title": "UK ministers seek powers to investigate when AI agents are let off the leash",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
-    "summary": "Cyber Security and Resilience Bill could pave way for searches, seizures, and inspections when operators lose control of automated systems",
-    "isoDate": "2026-11-06T11:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=2918046&width=800",
     "pinned": false
   },
   {
@@ -1230,141 +1450,6 @@
       "Politics"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "a4f64ed53360e9de3ef69a988a9abef58c52e0e1",
-    "title": "NHS wants a second opinion on Palantir's glowing self-assessments",
-    "link": "https://www.theregister.com/public-sector/2026/11/06/nhs-wants-a-second-opinion-on-palantirs-glowing-self-assessments/5307809",
-    "summary": "Supplier told to clear benefit claims with health chiefs, though enforcing approval could prove tricky",
-    "isoDate": "2026-11-06T09:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Lindsay Clark",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5297443&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3b4569a07c63608e1dc79817c989863b38b52af5",
-    "title": "Britain's tech ambitions depend on minerals made in China, MPs warn",
-    "link": "https://www.theregister.com/public-sector/2026/11/06/britains-tech-ambitions-depend-on-minerals-made-in-china-mps-warn/5307779",
-    "summary": "Committee can't confidently tick off any of government's ten supply security tests, with alternatives a decade away",
-    "isoDate": "2026-11-06T09:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Currie",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307805&width=800",
-    "pinned": false
-  },
-  {
-    "id": "b51ac1e090e249d984b997a539b9ce11d7747504",
-    "title": "Safari's Autofill feature may be distorting time",
-    "link": "https://www.theregister.com/applications/2026/11/06/safaris-autofill-feature-may-be-distorting-time/5308006",
-    "summary": "Repeated reports about inaccurate form filling have lingered for years",
-    "isoDate": "2026-11-06T07:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "applications"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308019&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fd8d79b8b2e42c618f4a10ff0a0acafef01a0428",
-    "title": "Hospital gave very sick doctor a special PC for his very personal use",
-    "link": "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-very-personal-use/5307750",
-    "summary": "Support chap told to either allow blatant policy violations or find a new job",
-    "isoDate": "2026-11-06T06:31:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=222391&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4720393fd82f906b9ab37585f54ceb9d2b7adbd9",
-    "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
-    "link": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
-    "summary": "CEO says sovereigns probably exploited PHP2SHELL ages ago, and suggests containers are dead",
-    "isoDate": "2026-11-06T04:25:14Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=239494&width=800",
-    "pinned": false
-  },
-  {
-    "id": "63adad31a1b5f8c448b8cabbe4ec54b1d4e5eac6",
-    "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
-    "link": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
-    "summary": "CERT-IN warns of ‘significant escalation’ in AI-powered attacks, some after victims tried to improve defences",
-    "isoDate": "2026-11-06T01:17:40Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308010&width=800",
-    "pinned": false
-  },
-  {
-    "id": "4cb0518ea7cfe3ddef6692b1380500ec09a3256e",
-    "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
-    "link": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
-    "summary": "No documented attacks against American supermarkets…yet",
-    "isoDate": "2026-11-05T22:37:06Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5303687&width=800",
-    "pinned": false
-  },
-  {
-    "id": "77e9e4b20284d8926c1f2ebba8ce747026ced3da",
-    "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
-    "summary": "The cloud giant refits its agentic dev tools for agent orchestration",
-    "isoDate": "2026-11-05T22:09:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5307975&width=800",
-    "pinned": false
-  },
-  {
-    "id": "431a63bf22695cc75fbee66e94a73eb264db9073",
-    "title": "The White House is apparently a popular residential proxy exit spot",
-    "link": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
-    "summary": "How it got there is another matter entirely",
-    "isoDate": "2026-11-05T20:50:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=226251&width=800",
     "pinned": false
   },
   {
@@ -1562,34 +1647,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/two-cybercabs.webp/560bca7bb71390339f30cd6afcb8a0ae/two-cybercabs.jpg",
-    "pinned": false
-  },
-  {
-    "id": "ea8c23c51e028d51d3ec00857397140ece600ef3",
-    "title": "Believing and thinking",
-    "link": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
-    "summary": "<p><img alt=\"A foggy road leading to a distant church, flanked by trees, a building and powerlines, creating an eerie atmosphere.\" src=\"https://images.aeonmedia.co/images/40611a3c-3e4d-417a-b2a9-5d3ec4f128a0/essay-gettyimages-1431136250.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think</p><p><em>- by Neil Van Leeuwen & Jacob Eisler</em></p><p><a href=\"https://aeon.co/essays/the-psychology-of-separating-church-and-state\">Read on Aeon</a></p>",
-    "isoDate": "2026-11-03T11:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Neil Van Leeuwen & Jacob Eisler",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "7da9bab82b5c7597f3a727adeb89da0384190c90",
-    "title": "From the archives: A Celestial Mystery Revisited – a new look at the famous ‘ghost ship’",
-    "link": "https://www.skeptic.org.uk/2026/11/from-the-archives-a-celestial-mystery-revisited-a-new-look-at-the-famous-ghost-ship/",
-    "summary": "<p>From the archives in 1993, Brian Haines looks at the mystery of the Mary Celeste, and the latest information available at the time.</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/11/from-the-archives-a-celestial-mystery-revisited-a-new-look-at-the-famous-ghost-ship/\">From the archives: A Celestial Mystery Revisited – a new look at the famous &#8216;ghost ship&#8217;</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-11-03T10:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Brian W Haines",
-    "tags": [
-      "Archive"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
