@@ -1,5 +1,126 @@
 [
   {
+    "id": "4a057042ea274c04bca33e9b6987e8c7642dfeeb",
+    "title": "Anthropic tiptoes into MS Office territory",
+    "link": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
+    "summary": "Sheets, Whiteboards, and Data artifact types bring Claude closer to a productivity suite",
+    "isoDate": "2026-11-10T23:45:26Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308992&width=800",
+    "pinned": false
+  },
+  {
+    "id": "51c33ac2c70600f52a9c942dce119cb95c86c14e",
+    "title": "Seagate's new hybrid drive raises some old questions",
+    "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+    "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+    "isoDate": "2026-11-10T23:30:56Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nick Indge",
+    "tags": [
+      "Tech",
+      "Alkemi intelligent storage",
+      "Hybrid drives",
+      "MacOS Fusion Drive",
+      "Seagate FireCude Forge"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "9783ea583ebb1cfa93a7ab76eca9ac237c81b262",
+    "title": "Ye olde server consolidation has made Cisco push top-of-rack switching to 100G",
+    "link": "https://www.theregister.com/networks/2026/11/10/ye-olde-server-consolidation-has-made-cisco-push-top-of-rack-switching-to-100g/5308970",
+    "summary": "Newer server processors pack more cores into fewer boxes, creating a need for network speed",
+    "isoDate": "2026-11-10T23:25:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308975&width=800",
+    "pinned": false
+  },
+  {
+    "id": "eae5970b07524ba112b38ffb968d8777146fcf37",
+    "title": "The US military seems to be getting nervous about the launch supply crunch",
+    "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+    "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+    "isoDate": "2026-11-10T23:02:39Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Stephen Clark",
+    "tags": [
+      "Space",
+      "Pentagon",
+      "spacex"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "93b90c3ff593207a15a3bb3424c52537cdd960bf",
+    "title": "VMware floats new standard to make sure apps don’t break in hybrid K8s environments",
+    "link": "https://www.theregister.com/virtualization/2026/11/10/vmware-floats-new-standard-to-make-sure-apps-dont-break-in-hybrid-k8s-environments/5308956",
+    "summary": "Virtzilla also taking on KubeVirt by sharing VM API with the CNCF",
+    "isoDate": "2026-11-10T22:52:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "virtualization"
+    ],
+    "image": "https://image.theregister.com/?imageId=256634&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2a555df5f60aca593ee60be759445cb9d42dc33c",
+    "title": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far",
+    "link": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946",
+    "summary": "Microsoft admins wail and gnash their teeth",
+    "isoDate": "2026-11-10T22:37:01Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308965&width=800",
+    "pinned": false
+  },
+  {
+    "id": "cd1dc6d6e6bd42c361c62647318a8de90f7a5252",
+    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+    "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+    "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+    "isoDate": "2026-11-10T22:35:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "Tech",
+      "AI drones",
+      "Amazon",
+      "amazon drones",
+      "drones",
+      "physical AI",
+      "ring",
+      "ring doorbell camera",
+      "Robotics",
+      "robots"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-500x500.jpeg",
+    "pinned": false
+  },
+  {
     "id": "61142563917e9a9506e79d05dc1767d124d35245",
     "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
     "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
@@ -15,6 +136,21 @@
       "FCC"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-500x500-1794344594.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cd42927ef69a79ec8cd837b859d99564a2c5fead",
+    "title": "Ring robots ready to patrol paranoids’ pads",
+    "link": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
+    "summary": "Amazon calls its home security drone and business patrol bot 'proactive protection'",
+    "isoDate": "2026-11-10T21:45:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308936&width=800",
     "pinned": false
   },
   {
@@ -755,26 +891,6 @@
     "pinned": false
   },
   {
-    "id": "1f8464b9a8d55e3394de88a301ce5a4164223573",
-    "title": "A Sam Altman parody offers an amusing lesson in memory management",
-    "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-    "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-    "isoDate": "2026-11-09T20:49:09Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nick Indge",
-    "tags": [
-      "Tech",
-      "MemAvailable",
-      "MemTotal",
-      "openai",
-      "ram-altman script",
-      "sam altman"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "0afd008ab7c4a36b53050da20d57ee33f9b74141",
     "title": "Attackers backdoor trusted AWS integrations to steal secrets",
     "link": "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
@@ -790,25 +906,6 @@
     "pinned": false
   },
   {
-    "id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
-    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-    "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-    "summary": "\"*sshole\" poses a serious threat to Internet security.",
-    "isoDate": "2026-11-09T19:41:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "Linux",
-      "openssh",
-      "SSH"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "cfdc4893b2d2e13b73006398ceb15ba1b3490abc",
     "title": "Tesla Robotaxi Area Expands in Austin, Increases Hours Again",
     "link": "https://www.notateslaapp.com/news/4975/tesla-robotaxi-area-expands-in-austin-increases-hours-again",
@@ -819,26 +916,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-autin-robotaxi-geofence-expansion-10-november-2026.webp/1e65404ce27c5c376b0814bc7944c0e1/tesla-autin-robotaxi-geofence-expansion-10-november-2026.jpg",
-    "pinned": false
-  },
-  {
-    "id": "04df3a9aa5cdedc2f8398411a8303dc90d85886c",
-    "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-    "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-    "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-    "isoDate": "2026-11-09T19:08:37Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Science",
-      "Space",
-      "cislunar space",
-      "military space",
-      "moon",
-      "US Space Force"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-500x500.jpg",
     "pinned": false
   },
   {
@@ -1292,36 +1369,6 @@
     "pinned": false
   },
   {
-    "id": "d155a865c64c4002cc1b6ab402f61d66ec48cc7b",
-    "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
-    "link": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
-    "summary": "Team given a day's notice faced distressed callers, safeguarding decisions during project that stretched from 2 weeks to 11",
-    "isoDate": "2026-11-07T10:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5240357&width=800",
-    "pinned": false
-  },
-  {
-    "id": "23a4537c939c9516b46869ca6e2c1e3f5b3f47e2",
-    "title": "Agents reveal secrets when offered to team up with each other",
-    "link": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
-    "summary": "If you wouldn't put it on GitHub, don't give models access to it",
-    "isoDate": "2026-11-06T21:39:23Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=254748&width=800",
-    "pinned": false
-  },
-  {
     "id": "25100428623f9c19ab6825ad1f225688293df749",
     "title": "Musk: Tesla Will Rent Optimus Robots Instead of Selling Them",
     "link": "https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them",
@@ -1332,36 +1379,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-gen-3-eth-zurich.webp/104cfdf0eecac83331e34fe1cec7ea74/optimus-gen-3-eth-zurich.jpg",
-    "pinned": false
-  },
-  {
-    "id": "5555c456191c76820f28b90014e93fda034296f5",
-    "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
-    "link": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
-    "summary": "Technical debt shoveled aside to make large-scale AI training more resilient",
-    "isoDate": "2026-11-06T18:36:42Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joab Jackson",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308231&width=800",
-    "pinned": false
-  },
-  {
-    "id": "47c86d3d25d395bdb4d2301be7d9823ff237a42a",
-    "title": "US air traffic control enters the 21st century, starts to abandon floppy disks",
-    "link": "https://www.theregister.com/public-sector/2026/11/06/us-air-traffic-control-enters-the-21st-century-starts-to-abandon-floppy-disks/5308210",
-    "summary": "The FAA will need to come up with more money to finish the wider overhaul, though",
-    "isoDate": "2026-11-06T18:06:26Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "public sector"
-    ],
-    "image": "https://image.theregister.com/?imageId=250038&width=800",
     "pinned": false
   },
   {
