@@ -1,5 +1,81 @@
 [
   {
+    "id": "f093fc585edb63d2b3116f34f2fe1f831ab3ba1e",
+    "title": "Fine-tuning the argument: the Metaphysical Multiverse vs the all-powerful Creator",
+    "link": "https://www.skeptic.org.uk/2026/11/fine-tuning-the-argument-the-metaphysical-multiverse-vs-the-all-powerful-creator/",
+    "summary": "<p>Christians are fond of suggesting that the fact that the universe has very specific laws and constants is proof of their god - but physics and philosophy beg to differ</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/11/fine-tuning-the-argument-the-metaphysical-multiverse-vs-the-all-powerful-creator/\">Fine-tuning the argument: the Metaphysical Multiverse vs the all-powerful Creator</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
+    "isoDate": "2026-11-11T10:00:00Z",
+    "source": "The Skeptic",
+    "category": "Tech",
+    "author": "Paul McLean-Thorne",
+    "tags": [
+      "Physics",
+      "Religion"
+    ],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "1ad476be5ad8d76bd0a2e1a73189ad18cd79e0a4",
+    "title": "AMD: Where we're going we don't need (as much) DRAM",
+    "link": "https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953",
+    "summary": "The House of Zen's Mext team promises smarter SWAP through the power of, you'll never guess: AI",
+    "isoDate": "2026-11-11T09:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tobias Mann",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5259665&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e12c8e832dc24610602a0cc0a3bf7902f60409e2",
+    "title": "UK's 'buy British' tech ambitions hit reality as less than £1 in £6 stays at home",
+    "link": "https://www.theregister.com/public-sector/2026/11/11/uks-buy-british-tech-ambitions-hit-reality-as-less-than-1-in-6-stays-at-home/5308814",
+    "summary": "Whitehall's biggest IT suppliers are overwhelmingly foreign, and Uncle Sam is making a killing",
+    "isoDate": "2026-11-11T09:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5282252&width=800",
+    "pinned": false
+  },
+  {
+    "id": "763a80de58139461ac3ee8cdf85c24144152a842",
+    "title": "OpenAI builds a kill switch for its research models",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
+    "summary": "How much damage can a rogue agent do in 35 seconds? Asking cos that’s how long it might take to shut one down",
+    "isoDate": "2026-11-11T05:20:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=228453&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1dcbeb3df49ea2d2bea6b1b4ffa29e55ad05491a",
+    "title": "Australia may make knowingly selling unsafe AI a crime",
+    "link": "https://www.theregister.com/public-sector/2026/11/11/australia-may-make-knowingly-selling-unsafe-ai-a-crime/5308999",
+    "summary": "New regulator will require modelmakers to test and allow inspection, but not much more",
+    "isoDate": "2026-11-11T02:14:13Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5293744&width=800",
+    "pinned": false
+  },
+  {
     "id": "4a057042ea274c04bca33e9b6987e8c7642dfeeb",
     "title": "Anthropic tiptoes into MS Office territory",
     "link": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
@@ -1257,21 +1333,6 @@
     "pinned": false
   },
   {
-    "id": "f6ebb71f9d885e3dadaec49e4160b45cf28315b7",
-    "title": "Nvidia CEO Jensen Huang admits affair with possible Chinese asset",
-    "link": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-admits-affair-with-possible-chinese-asset/5308327",
-    "summary": "Admits to affair after company board opens probe into alleged contact with possible Chinese asset who bought GPUs in bulk",
-    "isoDate": "2026-11-09T00:04:47Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "legal"
-    ],
-    "image": "https://image.theregister.com/?imageId=249195&width=800",
-    "pinned": false
-  },
-  {
     "id": "bc771ed7e48b38dce6fcf32b43aff61abbd81a64",
     "title": "Tesla Explains Why the Cybertruck Was Canceled, Will Increase Production to Clear Backlog",
     "link": "https://www.notateslaapp.com/news/4967/tesla-to-add-extra-cybertruck-shift-to-clear-order-backlog",
@@ -1298,36 +1359,6 @@
     "pinned": false
   },
   {
-    "id": "119e6b3672526ed9ce79f71ce7988274274ec7d7",
-    "title": "Doom delivers five minutes of terminal violence on an IBM mainframe",
-    "link": "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092",
-    "summary": "Browser demo renders the classic shooter in ASCII, with no login required and considerable squinting encouraged",
-    "isoDate": "2026-11-08T11:19:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308119&width=800",
-    "pinned": false
-  },
-  {
-    "id": "3e95397a13cefab511736302a0b1d0d7f8915c62",
-    "title": "Internet governance about to get its quadrennial stress test at ITU meeting",
-    "link": "https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031",
-    "summary": "278 proposals on table, and some fear they might shift power to governments",
-    "isoDate": "2026-11-08T09:33:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "networks"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308036&width=800",
-    "pinned": false
-  },
-  {
     "id": "a5febcf92b897b78006d039206c6527771792410",
     "title": "EVgo Opens Its First Tesla Supercharger Site in Chicago",
     "link": "https://www.notateslaapp.com/news/4961/evgo-opens-its-first-tesla-supercharger-site-in-chicago",
@@ -1338,21 +1369,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/charging/evgo-tesla-supercharger-chicago.webp/1a6b3b9173726d476d990c7beacece45/evgo-tesla-supercharger-chicago.jpg",
-    "pinned": false
-  },
-  {
-    "id": "85e4d139c5e2b7eb55a9d45aaa94d265bc2c31c7",
-    "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
-    "summary": "The case for managed inference, or automatically routing queries to the right model for the right job",
-    "isoDate": "2026-11-07T15:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308281&width=800",
     "pinned": false
   },
   {
@@ -1604,21 +1620,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-1.webp/5eda2cf04bea6526acda329d6188bfc1/optimus-human-hands-1.jpg",
-    "pinned": false
-  },
-  {
-    "id": "fe8f1010cb002ba6c9e64786a20d5645b9ee7977",
-    "title": "Reporting from notorious Australian naturopath Barbara O’Neill’s seminar in Glasgow",
-    "link": "https://www.skeptic.org.uk/2026/11/reporting-from-notorious-australian-naturopath-barbara-oneills-seminar-in-glasgow/",
-    "summary": "<p>Banned from speaking in her home country of Australia, naturopath Barbara O'Neill recently toured the UK with a slightly  toned-down version of her quackery</p>\n<p>The post <a href=\"https://www.skeptic.org.uk/2026/11/reporting-from-notorious-australian-naturopath-barbara-oneills-seminar-in-glasgow/\">Reporting from notorious Australian naturopath Barbara O’Neill&#8217;s seminar in Glasgow</a> appeared first on <a href=\"https://www.skeptic.org.uk\">The Skeptic</a>.</p>",
-    "isoDate": "2026-11-04T10:00:00Z",
-    "source": "The Skeptic",
-    "category": "Tech",
-    "author": "Sean Slater",
-    "tags": [
-      "Alternative Medicine"
-    ],
-    "image": "",
     "pinned": false
   }
 ]
