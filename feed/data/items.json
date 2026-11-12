@@ -1,5 +1,80 @@
 [
   {
+    "id": "3d418711a11cfaf3d2d1e54321e6d5641d8eb4d9",
+    "title": "London hotel put admin login for booking website on whiteboard behind the front desk",
+    "link": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889",
+    "summary": "You could check out more than your room",
+    "isoDate": "2026-11-12T09:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308894&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9583c6c563100470b04a29a9f761bb938697a1bb",
+    "title": "Your AI agent is only as good as your endpoint data",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469",
+    "summary": "<span class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> Real-time endpoint data keeps AI-driven IT operations accurate, fast and under control",
+    "isoDate": "2026-11-12T09:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Tanium",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5308471&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c7471252f591f2d6986b0201fcd0ead8aff90966",
+    "title": "AWS distills its cloud into a local emulator that runs on your PC",
+    "link": "https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251",
+    "summary": "Hyperscale meets micro-computing by offering APIs to test your apps",
+    "isoDate": "2026-11-12T05:47:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5309256&width=800",
+    "pinned": false
+  },
+  {
+    "id": "d14bdfc62ea5799a21ac576c97398ac09ec2d50c",
+    "title": "Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates",
+    "link": "https://www.theregister.com/security/2026/11/12/disgraced-former-ca-emudhra-blames-buggy-script-for-hopelessly-weak-certificates/5309244",
+    "summary": "Couldn’t get the hardware it needed to generate certs, so tried to code a workaround",
+    "isoDate": "2026-11-12T04:22:18Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=229817&width=800",
+    "pinned": false
+  },
+  {
+    "id": "6c25034ee4bd8791a45b32fcf0a3d83849b71c65",
+    "title": "Russian cloud Yandex says drone attacks on its datacenters caused data loss",
+    "link": "https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234",
+    "summary": "Now enables backup by default and hints a little on-prem infra never hurt anyone",
+    "isoDate": "2026-11-12T01:10:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5309241&width=800",
+    "pinned": false
+  },
+  {
     "id": "73f976158f7efb5f8df9f31f9f40623dd2dd60f1",
     "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
     "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
@@ -1258,96 +1333,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5306530&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a040a0593182b369bc1ce034c090839c97cac305",
-    "title": "Insight about how 'nature makes no leaps' promises better robot predictions",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/09/insight-about-how-nature-makes-no-leaps-promises-better-robot-predictions/5308301",
-    "summary": "Leibniz lives!",
-    "isoDate": "2026-11-09T17:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308397&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0411c3f3b8adeea6fb8641c8a07b2b4e24240427",
-    "title": "Microsoft takes three decades to make Sticky Keys less sticky",
-    "link": "https://www.theregister.com/os-platforms/2026/11/09/microsoft-takes-three-decades-to-make-sticky-keys-less-sticky/5308491",
-    "summary": "Windows preview adds a 'don't ask again' option to accessibility prompts, sparing users a trip through Settings",
-    "isoDate": "2026-11-09T16:43:17Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=257647&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8bc760bffba41ef817152068d12763473e13d900",
-    "title": "NASA keeps its PROMISE to raid Mars testbeds for parts",
-    "link": "https://www.theregister.com/science/2026/11/09/nasa-keeps-its-promise-to-raid-mars-testbeds-for-parts/5308475",
-    "summary": "Cut-and-shut trundlebot with spiffy new paint job meant to be headed to the Moon in 2028",
-    "isoDate": "2026-11-09T15:45:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=1684260&width=800",
-    "pinned": false
-  },
-  {
-    "id": "fc813b911c0a9ac488e4a3b984bd258d0c16e04d",
-    "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
-    "link": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
-    "summary": "A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams",
-    "isoDate": "2026-11-09T15:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308444&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a18ce332976ade3aabb46d8997b0618a2e38d5aa",
-    "title": "Who Gives A Crap? Hackers, apparently, after toilet paper maker's customer data exposed",
-    "link": "https://www.theregister.com/security/2026/11/09/who-gives-a-crap-hackers-apparently-after-toilet-paper-makers-customer-data-exposed/5308419",
-    "summary": "UK shoppers caught up in third-party security mess, and nobody knows whether the data was flushed away",
-    "isoDate": "2026-11-09T14:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308423&width=800",
-    "pinned": false
-  },
-  {
-    "id": "e95faf8e67e5dfa13626163f3052652cc79ca3f7",
-    "title": "The AI bubble can wait, but your exit plan can't",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415",
-    "summary": "Infrastructure spending outruns measurable returns, with supplier finances key to judging when trouble arrives",
-    "isoDate": "2026-11-09T14:02:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5220460&width=800",
     "pinned": false
   },
   {
