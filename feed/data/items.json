@@ -1,5 +1,80 @@
 [
   {
+    "id": "c36e90f8a1e3f20e6b7f701221c4dab94b383475",
+    "title": "C++26 stumbles at finish line over Contracts dispute",
+    "link": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526",
+    "summary": "ISO working group faces a fight over runtime checks, complexity, and the language's release timetable",
+    "isoDate": "2026-11-13T07:31:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Joab Jackson",
+    "tags": [
+      "devops"
+    ],
+    "image": "https://image.theregister.com/?imageId=5309559&width=800",
+    "pinned": false
+  },
+  {
+    "id": "5ebbacd127cfb92bd9ac11946a2bf50599814cdd",
+    "title": "Microsoft's massive M365 outage stretches past 12 hours as its fixes keep failing",
+    "link": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-12-hours-as-its-fixes-keep-failing/5309609",
+    "summary": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+    "isoDate": "2026-11-13T06:40:06Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=5309614&width=800",
+    "pinned": false
+  },
+  {
+    "id": "301a6b515668d6054c20c96cc2dd80ef7f9c0063",
+    "title": "Developer cleverly shrank 2,600 lines of C into a six-line script but still ending up losing sleep",
+    "link": "https://www.theregister.com/software/2026/11/13/developer-cleverly-shrank-2600-lines-of-c-into-a-six-line-script-but-still-ending-up-losing-sleep/5309264",
+    "summary": "It wasn't the not-very-legal source code raid that caused it, but a colleague who punted a pager",
+    "isoDate": "2026-11-13T06:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=261471&width=800",
+    "pinned": false
+  },
+  {
+    "id": "1b23ff7c7bca3ff696c762a36f109b77725cb4b7",
+    "title": "Singapore says US authorities, and Supermicro, hardly helped investigation of Jensen Huang’s Chinese friend",
+    "link": "https://www.theregister.com/legal/2026/11/13/singapore-says-us-authorities-and-supermicro-hardly-helped-investigation-of-jensen-huangs-chinese-friend/5309579",
+    "summary": "Seized passport during probe of suspected paperwork fibs that hid server shipments to parts unknown",
+    "isoDate": "2026-11-13T03:41:24Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "legal"
+    ],
+    "image": "https://image.theregister.com/?imageId=236933&width=800",
+    "pinned": false
+  },
+  {
+    "id": "c96e3ca670b5be6fb31d0eccad11a568a05dd428",
+    "title": "Alibaba's Qwen3.8 re-educated with a more Western worldview",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555",
+    "summary": "Open weight model can now say things Chinese authorities don't like",
+    "isoDate": "2026-11-13T01:25:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5305565&width=800",
+    "pinned": false
+  },
+  {
     "id": "172024af97e549fd5bc8c4329f3869a658bfc936",
     "title": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
     "link": "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523",
@@ -31,7 +106,7 @@
   },
   {
     "id": "70b00f33cb1759990d61dcbc5ce5291be6ab816e",
-    "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+    "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
     "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
     "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
     "isoDate": "2026-11-12T22:59:51Z",
@@ -1226,21 +1301,6 @@
     "pinned": false
   },
   {
-    "id": "cd42927ef69a79ec8cd837b859d99564a2c5fead",
-    "title": "Ring robots ready to patrol paranoids’ pads",
-    "link": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
-    "summary": "Amazon calls its home security drone and business patrol bot 'proactive protection'",
-    "isoDate": "2026-11-10T21:45:45Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308936&width=800",
-    "pinned": false
-  },
-  {
     "id": "82906c67afc228d4020184ee2213bde06a76caed",
     "title": "Tesla App 4.62.5 Update Adds Ability to Remove Vehicle Keys and More",
     "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.5/release-notes",
@@ -1251,66 +1311,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-key.webp/cab8d34ef4be330aee5d2653eb0236a0/tesla-app-key.jpg",
-    "pinned": false
-  },
-  {
-    "id": "a8f6a426ee160aa091c1e7b1aab459234713044b",
-    "title": "To thwart reverse engineering by agents, dev proposes blinding them",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/10/to-thwart-reverse-engineering-by-agents-dev-proposes-blinding-them/5308897",
-    "summary": "A poke in the AI with a sharp stick",
-    "isoDate": "2026-11-10T20:35:11Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Thomas Claburn",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308929&width=800",
-    "pinned": false
-  },
-  {
-    "id": "12fdc093b1073eb3000de8e479e5dc8049d6d1e9",
-    "title": "Barracuda’s email security gateways bitten by make-me-root vulns",
-    "link": "https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883",
-    "summary": "Someone's fishing for exposed devices",
-    "isoDate": "2026-11-10T18:51:35Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=233273&width=800",
-    "pinned": false
-  },
-  {
-    "id": "914fb581f7a21a69470db2055bdb35c786877863",
-    "title": "14-year-old creates tool for AI agents to band together like a team",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841",
-    "summary": "Autark can act without constant prompting, but leaves users to enforce their own security boundaries",
-    "isoDate": "2026-11-10T18:31:53Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5245073&width=800",
-    "pinned": false
-  },
-  {
-    "id": "015477df274de980ec16c7c1074b0b37ac23528b",
-    "title": "Mozilla Thunderbird email service edges closer to launch with early access",
-    "link": "https://www.theregister.com/software/2026/11/10/mozilla-thunderbird-email-service-edges-closer-to-launch-with-early-access/5308826",
-    "summary": "Some waitlist members get a first look at Thundermail, a paid alternative to Gmail",
-    "isoDate": "2026-11-10T18:13:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=238201&width=800",
     "pinned": false
   },
   {
