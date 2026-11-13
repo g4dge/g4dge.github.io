@@ -1,5 +1,255 @@
 [
   {
+    "id": "d1bdb0722f55f2a3b587cad699d6914597430412",
+    "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+    "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+    "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+    "isoDate": "2026-11-13T21:59:01Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "cost",
+      "GLP-1"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "c479f2841d4a388ad055a1945b0a9a6291199f6a",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "isoDate": "2026-11-13T21:20:47Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "Features",
+      "AI tools",
+      "air traffic control",
+      "air traffic controllers",
+      "airlines",
+      "airports",
+      "airspace",
+      "FAA",
+      "Federal Aviation Administration",
+      "flight delays"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cddb1e41144b5d8f176cab14d0f3255d468d7a46",
+    "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891",
+    "summary": "Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models",
+    "isoDate": "2026-11-13T21:16:22Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5309895&width=800",
+    "pinned": false
+  },
+  {
+    "id": "84a61ebc7e7b89c69e30f260af51f03f1982d1ff",
+    "title": "Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO]",
+    "link": "https://www.notateslaapp.com/news/5011/researcher-creates-hack-to-steer-tesla-with-switch-2-video",
+    "summary": "Matthew KuKanich’s CAN Commander app lets a jailbroken Switch 2 steer, shift, honk, and signal his Tesla through its CAN bus <a href=\"https://www.notateslaapp.com/news/5011/researcher-creates-hack-to-steer-tesla-with-switch-2-video\">Read More</a>",
+    "isoDate": "2026-11-13T21:00:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/driving-tesla-with-switch-2-matthew-kukanich.png/fa82b6332e04d420dd6b91002dafd41d/driving-tesla-with-switch-2-matthew-kukanich.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cced99eaa1756ea0856d97be49b5b1d0bfe9f42a",
+    "title": "This year’s bug count just passed 100K",
+    "link": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882",
+    "summary": "‘We don’t have a security problem anymore. We have a data problem now’",
+    "isoDate": "2026-11-13T20:52:17Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=262189&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2f0e2613613795f89510316a24a5a10a475123b4",
+    "title": "Meatbags suck at spotting lying LLMs, so let AI narc on itself",
+    "link": "https://www.theregister.com/offbeat/2026/11/13/meatbags-suck-at-spotting-lying-llms-so-let-ai-narc-on-itself/5309876",
+    "summary": "What, you didn't actually want to fact-check it yourself, did you?",
+    "isoDate": "2026-11-13T20:27:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "offbeat"
+    ],
+    "image": "https://image.theregister.com/?imageId=227602&width=800",
+    "pinned": false
+  },
+  {
+    "id": "577455be57bd818ebfe64ec2e2a620c3adf0e877",
+    "title": "In elephants, the resilience of communities has its limits",
+    "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+    "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+    "isoDate": "2026-11-13T20:03:13Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacek Krywko",
+    "tags": [
+      "Science",
+      "conservation",
+      "Ecology",
+      "elephants",
+      "population dynamics"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "61497b9e7ad86e53b69002ca7ac52fa2de649c3f",
+    "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+    "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+    "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+    "isoDate": "2026-11-13T19:49:16Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "Donald Trump Jr.",
+      "Kalshi",
+      "polymarket"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "743e8b03b2d96bb717f137273c7a61eb8b974b16",
+    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+    "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+    "isoDate": "2026-11-13T17:25:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Doom",
+      "openai",
+      "sci-fi",
+      "takeover"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "897abc72dffcba23a4a6cf55353f9acee854d888",
+    "title": "Mozilla leaves Solo website owners to go it alone as hosting shuts down",
+    "link": "https://www.theregister.com/software/2026/11/13/mozilla-leaves-solo-website-owners-to-go-it-alone-as-hosting-shuts-down/5309632",
+    "summary": "If you have one of these AI-generated homepages, you'd better download and save it quick",
+    "isoDate": "2026-11-13T16:59:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Liam Proven",
+    "tags": [
+      "software"
+    ],
+    "image": "https://image.theregister.com/?imageId=260756&width=800",
+    "pinned": false
+  },
+  {
+    "id": "e2d18bb4bc20d7d23ac1c384f20fda45eced0917",
+    "title": "Unplugged Performance Offers to Build the Cybertruck for Tesla",
+    "link": "https://www.notateslaapp.com/news/5008/unplugged-performance-offers-to-build-the-cybertruck-for-tesla",
+    "summary": "Unplugged Performance has offered to take over Cybertruck production with investor funding, also pitching a CyberSUV and CyberCargo while Tesla scales Cybercab <a href=\"https://www.notateslaapp.com/news/5008/unplugged-performance-offers-to-build-the-cybertruck-for-tesla\">Read More</a>",
+    "isoDate": "2026-11-13T16:52:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/cybertruck-production-line.jpg/ef6000c153b67d55aeb729f62e493fe5/cybertruck-production-line.jpg",
+    "pinned": false
+  },
+  {
+    "id": "101483569b0085dfd10f1ceb651cca6c288c3fe7",
+    "title": "Email addresses used in European school bomb hoaxes spotted in old infostealer logs",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/13/email-addresses-used-in-european-school-bomb-hoaxes-spotted-in-old-infostealer-logs/5309765",
+    "summary": "Researchers say organizations should have detected and secured them sooner",
+    "isoDate": "2026-11-13T16:41:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5269514&width=800",
+    "pinned": false
+  },
+  {
+    "id": "fcdcf30ed87c56814f54a3198cbc3ea5c0025b14",
+    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+    "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+    "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+    "isoDate": "2026-11-13T16:26:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Dan Goodin",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "exploits",
+      "microsoft",
+      "vulnerabilities",
+      "Windows",
+      "zerodays"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-500x500-1783631088.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8460c5a4289c267bd71222a47c8c47685ea05544",
+    "title": "HPE debuts hybrid storage configs: Rising SSD costs hit supercomputing",
+    "link": "https://www.theregister.com/storage/2026/11/13/hpe-debuts-hybrid-storage-configs-rising-ssd-costs-hit-supercomputing/5309679",
+    "summary": "HPE aims for the market with faster, more cost-effective HPC storage to combat rising costs",
+    "isoDate": "2026-11-13T16:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "storage"
+    ],
+    "image": "https://image.theregister.com/?imageId=5309743&width=800",
+    "pinned": false
+  },
+  {
+    "id": "366d011100367fee03ebacccb8022afec67f6678",
+    "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
+    "link": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+    "summary": "Rivals offer sympathy for stranded admins – and a reminder that putting all your eggs in one basket has consequences",
+    "isoDate": "2026-11-13T15:59:20Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "saas"
+    ],
+    "image": "https://image.theregister.com/?imageId=259120&width=800",
+    "pinned": false
+  },
+  {
     "id": "9e86f995b80fad87d9c8a3a7b82ce32c0603f422",
     "title": "Another Linux kernel developer steps back from some duties due to overload",
     "link": "https://www.theregister.com/ai-and-ml/2026/11/13/another-linux-kernel-developer-steps-back-from-some-duties-due-to-overload/5309628",
@@ -321,9 +571,9 @@
     "pinned": false
   },
   {
-    "id": "9348b056f21d61017c0f9d63df642ebba2d2aaa3",
-    "title": "Microsoft's massive M365 outage stretches past 20 hours as its fixes keep failing",
-    "link": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-20-hours-as-its-fixes-keep-failing/5309609",
+    "id": "c2535c5b8772684ffe5b9217e7e5c984eef44ff2",
+    "title": "Microsoft's massive M365 outage stretches past 27 hours as its fixes keep failing",
+    "link": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-27-hours-as-its-fixes-keep-failing/5309609",
     "summary": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
     "isoDate": "2026-11-13T06:40:06Z",
     "source": "The Register",
@@ -427,30 +677,6 @@
       "psa"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "c95a2fac556e00d314d8cd2ab79204ed06b810ff",
-    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-    "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-    "isoDate": "2026-11-12T22:28:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "AI tools",
-      "air traffic control",
-      "air traffic controllers",
-      "airlines",
-      "airports",
-      "airspace",
-      "FAA",
-      "Federal Aviation Administration",
-      "flight delays"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-500x500.jpg",
     "pinned": false
   },
   {
@@ -707,26 +933,6 @@
     "pinned": false
   },
   {
-    "id": "06fff736d30137b83f7edb6f3046d4f9085b06be",
-    "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
-    "link": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
-    "summary": "Doctors warn that such life-threatening cases are becoming more common.",
-    "isoDate": "2026-11-12T18:17:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Beth Mole",
-    "tags": [
-      "Health",
-      "anabolic-androgenic steroids",
-      "case report",
-      "heart failure",
-      "hypogonadism",
-      "testosterone"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "b0ab29dcda10dff5aa5b6dd2a27fd69ab454708e",
     "title": "Software Samaritan revamps borked Indian certs to block smart TV ads",
     "link": "https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467",
@@ -752,24 +958,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/jensen-huang-elon-musk.webp/07ef7b64ac84ff1bbebc4286901c39c0/jensen-huang-elon-musk.jpg",
-    "pinned": false
-  },
-  {
-    "id": "4349f29ce179efd9a0ab23a4749cdfb5548c603a",
-    "title": "The amazing disappearing exoplanet",
-    "link": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
-    "summary": "An exoplanet seems to have stopped transiting in front of its host star.",
-    "isoDate": "2026-11-12T17:18:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "astronomy",
-      "exoplanets",
-      "orbital mechanics"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-500x500.jpeg",
     "pinned": false
   },
   {
@@ -831,28 +1019,6 @@
     "pinned": false
   },
   {
-    "id": "5f96a0ebfa7b0c58a6b3fe15a5e182cb30b53904",
-    "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-    "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-    "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-    "isoDate": "2026-11-12T14:50:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "android xr",
-      "Artificial Intelligence",
-      "gemini",
-      "google",
-      "Smartglasses",
-      "wearables"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "15f65b929781f6ada7c4874dfe0a642c97dc38af",
     "title": "Jensen Huang resigns as Nvidia chief executive",
     "link": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411",
@@ -865,39 +1031,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=5309407&width=800",
-    "pinned": false
-  },
-  {
-    "id": "73f976158f7efb5f8df9f31f9f40623dd2dd60f1",
-    "title": "Nvidia CEO Jensen Huang has resigned",
-    "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-    "summary": "Nvidia CEO also had an affair with a senior executive at the firm.",
-    "isoDate": "2026-11-12T14:05:17Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Demetri Sevastopulo, Financial Times",
-    "tags": [
-      "Tech",
-      "Jensen Huang",
-      "NVIDIA"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "786f478617ff1d0002577613a9ddd1d24dd1994a",
-    "title": "Hundreds of streaming services and nothing to watch",
-    "link": "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/",
-    "summary": "Most viewers wish there was a TV Guide for streaming.",
-    "isoDate": "2026-11-12T14:00:19Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "streaming"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-500x500.jpg",
     "pinned": false
   },
   {
@@ -1217,111 +1350,6 @@
     "pinned": false
   },
   {
-    "id": "b8ebc6c121506deb95bed589fecc5455074c5585",
-    "title": "Apple's touchscreen MacBook Pro does not like to be taken apart",
-    "link": "https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110",
-    "summary": "Easy lid swaps earn praise from iFixit, but panel removal ends in cracks and USB-C repairs require logic board surgery",
-    "isoDate": "2026-11-11T15:34:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=263314&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
-    "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
-    "link": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
-    "summary": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing",
-    "isoDate": "2026-11-11T14:55:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5309156&width=800",
-    "pinned": false
-  },
-  {
-    "id": "25e7b0dd399f7673d60802d46a9ce30dc7eb3c79",
-    "title": "NASA asks Earthlings to wave as Voyager 1 reaches a light-day away",
-    "link": "https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127",
-    "summary": "Flash VGR in Morse code on November 17 to salute the veteran probe – just don't expect it to see you",
-    "isoDate": "2026-11-11T14:13:20Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "offbeat"
-    ],
-    "image": "https://image.theregister.com/?imageId=249462&width=800",
-    "pinned": false
-  },
-  {
-    "id": "a7e4034cb155100cf724bb7c8848ac81f43945a5",
-    "title": "2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials",
-    "link": "https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065",
-    "summary": "YouHack thought protecting members' passwords with mostly unsalted MD5 hashes would do",
-    "isoDate": "2026-11-11T13:28:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=252194&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ee26ef95c097a791be5f3623f90c10bd1ba6906e",
-    "title": "Apple tells its Support Community to STFU",
-    "link": "https://www.theregister.com/personal-tech/2026/11/11/apple-tells-its-support-community-to-stfu/5309090",
-    "summary": "User-to-user forum goes read-only ahead of November 20 closure, with archive's fate unclear",
-    "isoDate": "2026-11-11T12:43:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "personal tech"
-    ],
-    "image": "https://image.theregister.com/?imageId=5242280&width=800",
-    "pinned": false
-  },
-  {
-    "id": "faa87692094434ec4aa5913e2dbb65b623875888",
-    "title": "Shipping giant Maersk probes 'IT security incident,' data theft",
-    "link": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096",
-    "summary": "Says it 'strongly' suspects attack limited to legacy system, and that nothing sensitive is at risk",
-    "isoDate": "2026-11-11T12:05:34Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5293966&width=800",
-    "pinned": false
-  },
-  {
-    "id": "8fc73a940f32685c8af34caab84a71efcb8b5ec0",
-    "title": "Google gooses Python AI performance by... removing Python",
-    "link": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
-    "summary": "Newly open sourced XSE handles six million queries a second across services including Search, Ads, and YouTube Shorts",
-    "isoDate": "2026-11-11T11:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joab Jackson",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682491&width=800",
-    "pinned": false
-  },
-  {
     "id": "a9ed801671a2d0a3ce9fcd9ad491830a8cf7a8bc",
     "title": "Decoding Ediacaran fossils",
     "link": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life",
@@ -1574,58 +1602,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-gigafactory-shanghai.webp/06b4e2b596aa5b658f49bdfc0039d386/model-y-l-gigafactory-shanghai.jpg",
-    "pinned": false
-  },
-  {
-    "id": "25100428623f9c19ab6825ad1f225688293df749",
-    "title": "Musk: Tesla Will Rent Optimus Robots Instead of Selling Them",
-    "link": "https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them",
-    "summary": "Musk says Optimus will likely be rented rather than sold, with costs starting near $30,000 and falling toward $20,000 over time <a href=\"https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them\">Read More</a>",
-    "isoDate": "2026-11-06T20:09:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-gen-3-eth-zurich.webp/104cfdf0eecac83331e34fe1cec7ea74/optimus-gen-3-eth-zurich.jpg",
-    "pinned": false
-  },
-  {
-    "id": "bd61480db15f888e54a2f930a715d6273c6fa73e",
-    "title": "Everything You Can Control With Grok in Your Tesla",
-    "link": "https://www.notateslaapp.com/news/4958/everything-you-can-control-with-grok-in-your-tesla",
-    "summary": "Here’s everything Grok can control in your Tesla, what still needs the mic button, and the features coming next, like texting and FSD commands <a href=\"https://www.notateslaapp.com/news/4958/everything-you-can-control-with-grok-in-your-tesla\">Read More</a>",
-    "isoDate": "2026-11-06T17:41:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "267ab90a40ff64c4ee1f6490ad6fea7ecf49bcd9",
-    "title": "NHTSA to Modernize Vehicle Recalls With a Focus on OTA Fixes",
-    "link": "https://www.notateslaapp.com/news/4957/nhtsa-to-modernize-vehicle-recalls-with-a-focus-on-ota-fixes",
-    "summary": "NHTSA says OTA recall fixes see higher completion rates, and it’s exploring flexible notifications and $1.5M in state grants to boost repairs <a href=\"https://www.notateslaapp.com/news/4957/nhtsa-to-modernize-vehicle-recalls-with-a-focus-on-ota-fixes\">Read More</a>",
-    "isoDate": "2026-11-06T17:07:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_57-1780929439.jpg/ac4878fdd1d6fb1f2a694caae7415d56/group_57-1780929439.jpg",
-    "pinned": false
-  },
-  {
-    "id": "28d86a82adbc036bc753ad0b5207a66dce2a64ff",
-    "title": "Tesla Raises Cybertruck Prices, Pauses Base Trim Orders",
-    "link": "https://www.notateslaapp.com/news/4955/tesla-raises-cybertruck-prices-pauses-base-trim-orders",
-    "summary": "All three trims have increased in price and the Dual Motor AWD can no longer be ordered, just as Tesla plans to end Cybertruck production <a href=\"https://www.notateslaapp.com/news/4955/tesla-raises-cybertruck-prices-pauses-base-trim-orders\">Read More</a>",
-    "isoDate": "2026-11-06T16:24:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-snow.jpeg/f9de7965e622ae382c3b4382ccce3965/cybertruck-snow.jpg",
     "pinned": false
   }
 ]
