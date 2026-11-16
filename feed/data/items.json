@@ -1,5 +1,50 @@
 [
   {
+    "id": "d342467137a5492d744c9338a839a90434c107b1",
+    "title": "Techie rigged off-spec fan near flammable liquid and an exposed motherboard, then left it to run for days",
+    "link": "https://www.theregister.com/on-prem/2026/11/16/techie-rigged-off-spec-fan-near-flammable-liquid-and-an-exposed-motherboard-then-left-it-to-run-for-days/5309601",
+    "summary": "Nobody died, money got made, and the maintenance crew didn’t care",
+    "isoDate": "2026-11-16T06:37:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5309606&width=800",
+    "pinned": false
+  },
+  {
+    "id": "b2dd2c7171f2aebc61ece9cfbab3be01c503d8dc",
+    "title": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads",
+    "link": "https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016",
+    "summary": "Version 4.0 of Redmond’s cloudy OS is free to use in its cloud. Repeat. Free to use",
+    "isoDate": "2026-11-16T06:04:02Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5310021&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ec0f2a5616775225fc3b3555b619f17fdb7a5c23",
+    "title": "Amazon loses first batch of broadband satellites launched on custom rocket",
+    "link": "https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000",
+    "summary": "United Launch Alliance’s Vulcan LEO didn’t reach orbit",
+    "isoDate": "2026-11-16T01:32:57Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "networks"
+    ],
+    "image": "https://image.theregister.com/?imageId=5310005&width=800",
+    "pinned": false
+  },
+  {
     "id": "1960f2aa7b4f78057a164983286cb84d4ad6075b",
     "title": "Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China",
     "link": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993",
@@ -1289,36 +1334,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=5308894&width=800",
-    "pinned": false
-  },
-  {
-    "id": "9583c6c563100470b04a29a9f761bb938697a1bb",
-    "title": "Your AI agent is only as good as your endpoint data",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469",
-    "summary": "<span class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> Real-time endpoint data keeps AI-driven IT operations accurate, fast and under control",
-    "isoDate": "2026-11-12T09:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tanium",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5308471&width=800",
-    "pinned": false
-  },
-  {
-    "id": "c7471252f591f2d6986b0201fcd0ead8aff90966",
-    "title": "AWS distills its cloud into a local emulator that runs on your PC",
-    "link": "https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251",
-    "summary": "Hyperscale meets micro-computing by offering APIs to test your apps",
-    "isoDate": "2026-11-12T05:47:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Simon Sharwood",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5309256&width=800",
     "pinned": false
   },
   {
