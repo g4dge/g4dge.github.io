@@ -1,5 +1,370 @@
 [
   {
+    "id": "7c553ab5a90215f2079649dbdcf52d27fe9fb81e",
+    "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+    "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+    "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+    "isoDate": "2026-11-18T20:41:12Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Nick Indge",
+    "tags": [
+      "Tech",
+      "DISA STIG",
+      "Microsoft Windows Server 2028 Public Preview",
+      "Windows Server 2028"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "3f7f6cbe32069b71a0940d74ab637cd654bcdaf4",
+    "title": "Tesla’s iPhone App Ditches Apple Maps for Google Maps",
+    "link": "https://www.notateslaapp.com/news/5033/teslas-iphone-app-ditches-apple-maps-for-google-maps",
+    "summary": "The Tesla iPhone app now uses Google Maps instead of Apple Maps, bringing a new look, new Summon satellite views, and smoother Site Maps <a href=\"https://www.notateslaapp.com/news/5033/teslas-iphone-app-ditches-apple-maps-for-google-maps\">Read More</a>",
+    "isoDate": "2026-11-18T20:36:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-google-maps.webp/edf2f9494dd8ab95ac9cc2d37f275c1f/tesla-app-google-maps.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b055d26f6ad3d4744439197fcbdb7ea66fd7fff7",
+    "title": "Tesla App Will Soon Let You Precondition Your Battery",
+    "link": "https://www.notateslaapp.com/news/5032/tesla-app-will-soon-let-you-precondition-your-battery",
+    "summary": "The Tesla app is getting a manual battery preconditioning button to warm the pack before DC fast charging, according to code found in the latest app release <a href=\"https://www.notateslaapp.com/news/5032/tesla-app-will-soon-let-you-precondition-your-battery\">Read More</a>",
+    "isoDate": "2026-11-18T19:43:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-precondition-battery-hero-render.png/eaac35ea06db04d38a3b42ad4025628f/tesla-app-precondition-battery-hero-render.jpg",
+    "pinned": false
+  },
+  {
+    "id": "bf45b68b22eb5d0c2bb998996dd7b2fae35c2112",
+    "title": "Best Buy sells Blu-rays online and in-store again",
+    "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+    "summary": "Popular titles like <em>The Odyssey</em> are being “sold &#038; shipped by Best Buy.\"",
+    "isoDate": "2026-11-18T19:31:17Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "best buy",
+      "Blu-ray",
+      "dvd"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "be28d25a0e42e5e388c745b56fe06ce7915a9478",
+    "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+    "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+    "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+    "isoDate": "2026-11-18T19:19:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ashley Belanger",
+    "tags": [
+      "AI",
+      "Policy",
+      "AI Agent",
+      "ai hallucinations",
+      "Artificial Intelligence",
+      "chat logs",
+      "meta",
+      "muse ai agent",
+      "online privacy"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-500x500-1795023220.jpg",
+    "pinned": false
+  },
+  {
+    "id": "313425cc9651e42aa68d146e36660e48f69edd8b",
+    "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+    "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
+    "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
+    "isoDate": "2026-11-18T18:46:08Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jon Brodkin",
+    "tags": [
+      "Policy",
+      "betting",
+      "Kalshi",
+      "trump administration"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-500x500-1795023877.jpg",
+    "pinned": false
+  },
+  {
+    "id": "81a31047b5cac73e796adb414adfbccf9da2d40c",
+    "title": "The \"shameful\" measles data that lost the US its elimination status",
+    "link": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
+    "summary": "Measles became endemic in the US months ago—and it's only accelerating.",
+    "isoDate": "2026-11-18T18:30:23Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Beth Mole",
+    "tags": [
+      "Health",
+      "endemic",
+      "measles",
+      "PAHO"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "cb39ce49d008d74a075bc881ae40aeaf9044a96c",
+    "title": "Will Wright's next simulation will use AI to mine content from your memories",
+    "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+    "summary": "With <em>MyMems</em>, Wright says he wants to \"turn the simulation inward.\"",
+    "isoDate": "2026-11-18T18:10:33Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Kyle Orland",
+    "tags": [
+      "AI",
+      "Gaming",
+      "mymems",
+      "Sims",
+      "simulation",
+      "Will Wright"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-500x500.png",
+    "pinned": false
+  },
+  {
+    "id": "0acf333306e0e0ba6aa8b105195d26dda8e503e8",
+    "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
+    "link": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
+    "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
+    "isoDate": "2026-11-18T17:53:59Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jacob May",
+    "tags": [
+      "Reviews",
+      "Tech",
+      "e-bikes",
+      "electric bikes",
+      "pedal assist bikes",
+      "Specialized"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "d5ac8eaeba7bb330c0105b72b1e30c3f979105b8",
+    "title": "California tells Waymo to take the next exit after freeway mishaps",
+    "link": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841",
+    "summary": "Robotaxi operator suspends driverless rides on high-speed roads nationwide after construction zone incursions and a run-in with patrol vehicles",
+    "isoDate": "2026-11-18T17:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=245405&width=800",
+    "pinned": false
+  },
+  {
+    "id": "55044eb187059b942f9c54eb44a4b5a2de4d659e",
+    "title": "Microsoft's official Python agent framework hijacked to distribute malware",
+    "link": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+    "summary": "In today's how-could-things-get-worse-for-Microsoft news, it seems someone's GitHub org admin creds have been compromised",
+    "isoDate": "2026-11-18T17:23:37Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Brandon Vigliarolo",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5309156&width=800",
+    "pinned": false
+  },
+  {
+    "id": "7b6da80b847e86b3f07d78c0bd8bdb20e3d81163",
+    "title": "MongoDB snaps up Firebolt to bring transactions and analytics under one roof",
+    "link": "https://www.theregister.com/databases/2026/11/18/mongodb-snaps-up-firebolt-to-bring-transactions-and-analytics-under-one-roof/5310809",
+    "summary": "Many have tried to marry analytics with transactions. The document DB posterchild takes another crack at it",
+    "isoDate": "2026-11-18T17:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [
+      "databases"
+    ],
+    "image": "https://image.theregister.com/?imageId=230446&width=800",
+    "pinned": false
+  },
+  {
+    "id": "db952f9133244b7f7a9823619a8636a2e39875ee",
+    "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+    "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+    "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+    "isoDate": "2026-11-18T16:58:32Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Eric Berger",
+    "tags": [
+      "Space",
+      "blue origin",
+      "space",
+      "united launch alliance",
+      "vulcan"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "df7476c00cb8e7d766c85fa318dc8b08b6a6b670",
+    "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
+    "link": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+    "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
+    "isoDate": "2026-11-18T16:24:34Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "waymo"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-500x500-1795017584.jpg",
+    "pinned": false
+  },
+  {
+    "id": "035ac261e57704ec4f7dc35dddcdf9355c18a924",
+    "title": "The wrong setting for AI cache can cost you a lot of cash",
+    "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
+    "summary": "Beware of the temptation to drop just a few more dollars to get the work done",
+    "isoDate": "2026-11-18T16:17:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "ai and ml"
+    ],
+    "image": "https://image.theregister.com/?imageId=5310849&width=800",
+    "pinned": false
+  },
+  {
+    "id": "bdb650441debacd9bb02d55b87e1424caa7aae86",
+    "title": "Cyber insurers now want proof you can actually recover",
+    "link": "https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325",
+    "summary": "<span class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> As carriers tighten underwriting, a backup job marked green is no longer enough. Here’s the evidence underwriters expect",
+    "isoDate": "2026-11-18T16:00:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "N-able",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5309330&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2ae2c501283c4257b41e60ef15943d34d6ef8501",
+    "title": "PowerShell 7 heading into Windows as 5.1 hits the end of the road",
+    "link": "https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791",
+    "summary": "Next OS release will bundle modern successor, giving admins a compatibility checklist to work through",
+    "isoDate": "2026-11-18T15:29:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=255389&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f0ab239b37cd5f9806510344af465dfa49472f40",
+    "title": "Space robot legend Voyager 1 is now more than 1 light-day away",
+    "link": "https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751",
+    "summary": "As the world is hit by IT snafu after IT snafu, Voyager sails on, almost half a century after launch",
+    "isoDate": "2026-11-18T14:57:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "science"
+    ],
+    "image": "https://image.theregister.com/?imageId=249462&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9009b24a2d928fc232066c645023d653777577f9",
+    "title": "StubHub International warns customer data may have left the venue",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/18/stubhub-international-warns-customer-data-may-have-left-the-venue/5310775",
+    "summary": "Names and contact details potentially exposed, ticket reseller finds no evidence passwords or payment information were accessed",
+    "isoDate": "2026-11-18T14:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=193147&width=800",
+    "pinned": false
+  },
+  {
+    "id": "198345eef087eeb8ca3781a95a8730161555fe03",
+    "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
+    "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
+    "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
+    "isoDate": "2026-11-18T14:01:45Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Aarian Marshall, wired.com",
+    "tags": [
+      "Cars",
+      "connected cars",
+      "cybercab",
+      "syndication",
+      "Tesla"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "8bd6c4a7b51964f18cf906ac36995e8c861cd668",
+    "title": "Business as usual, but Huang ain't coming back, says Nvidia",
+    "link": "https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772",
+    "summary": "GPU giant puts on a brave face for investors, while analysts say doubts remain over the company's future",
+    "isoDate": "2026-11-18T13:54:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Robinson",
+    "tags": [
+      "systems"
+    ],
+    "image": "https://image.theregister.com/?imageId=5310782&width=800",
+    "pinned": false
+  },
+  {
+    "id": "47089026ea1efb8da868eb9a32feb500e2ecd977",
+    "title": "Windows Server 2028 won't be compatible by default",
+    "link": "https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766",
+    "summary": "Testing times ahead for administrators: beefed-up security out of the box means some things might not 'just work'",
+    "isoDate": "2026-11-18T13:16:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=5234606&width=800",
+    "pinned": false
+  },
+  {
     "id": "772dbeeb3d6fdd3080ea62cf04c7a4194b6fe268",
     "title": "Police arrest 15 over £1.5M 'we'll recover your losses' scam targeting elderly",
     "link": "https://www.theregister.com/cyber-crime/2026/11/18/police-arrest-15-over-15m-well-recover-your-losses-scam-targeting-elderly/5310745",
@@ -154,7 +519,7 @@
     "tags": [
       "off-prem"
     ],
-    "image": "https://image.theregister.com/?imageId=5310591&width=800",
+    "image": "https://image.theregister.com/?imageId=5310826&width=800",
     "pinned": false
   },
   {
@@ -519,26 +884,6 @@
     "pinned": false
   },
   {
-    "id": "1cc34e861f35d556a7d57bab485576e71373fa01",
-    "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-    "link": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-    "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-    "isoDate": "2026-11-17T18:00:51Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Eric Berger",
-    "tags": [
-      "Features",
-      "Space",
-      "blue origin",
-      "space",
-      "united launch alliance",
-      "vulcan"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "73f7510f673e1f7e2d084ca9752e8a9d82e5817e",
     "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
     "link": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
@@ -563,7 +908,7 @@
     "category": "Tech",
     "author": "",
     "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/powercore.webp/b79338edb2fdc46e76dbef3ecbd4910e/powercore.jpg",
+    "image": "https://www.notateslaapp.com/img/containers/article_images/energy/powercore.webp/b79338edb2fdc46e76dbef3ecbd4910e/powercore.jpg",
     "pinned": false
   },
   {
@@ -610,26 +955,6 @@
     "pinned": false
   },
   {
-    "id": "a513c3b2bdeaedaa9733f486d46a6fb29273e255",
-    "title": "Google makes it easier to use Gemini without training AI on your data",
-    "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-    "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-    "isoDate": "2026-11-17T16:50:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Artificial Intelligence",
-      "gemini",
-      "google",
-      "privacy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fefdba50a8b539d6c7be8413432d52dbaa322901",
     "title": "Hackers smash 'n' grab AI vendor: Take  off with license data of Uber drivers",
     "link": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
@@ -645,25 +970,6 @@
     "pinned": false
   },
   {
-    "id": "88b9d79fac3cae3f8dfa0a538b773ed6a47b731b",
-    "title": "House Democrats promise a US return to global climate talks",
-    "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
-    "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
-    "isoDate": "2026-11-17T15:32:43Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Bob Berwyn, Inside Climate News",
-    "tags": [
-      "Policy",
-      "climate change",
-      "COP31",
-      "syndication",
-      "US Climate Policy"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1-500x500-1794929528.jpg",
-    "pinned": false
-  },
-  {
     "id": "63617dc37e283c3f9dc1e82657e061502987b56b",
     "title": "Windows 11 previews remote padlock only IT can open",
     "link": "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402",
@@ -676,38 +982,6 @@
       "os platforms"
     ],
     "image": "https://image.theregister.com/?imageId=5241973&width=800",
-    "pinned": false
-  },
-  {
-    "id": "75c7ee7437ec7c0d6c6d68c59e04bd6a262878c9",
-    "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-    "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-    "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-    "isoDate": "2026-11-17T15:28:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Tech",
-      "ai data centers",
-      "ars live",
-      "Ars Live Chat",
-      "Ars Live Conversations",
-      "data centers",
-      "donald trump iran war",
-      "Drone strikes",
-      "Iran",
-      "russia",
-      "Russia invasion of Ukraine",
-      "Russia war on Ukraine",
-      "Russian invasion of Ukraine",
-      "Russian war on Ukraine",
-      "Ukraine",
-      "Ukraine war",
-      "USA-Iran War"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-500x500.jpg",
     "pinned": false
   },
   {
@@ -738,26 +1012,6 @@
       "legal"
     ],
     "image": "https://image.theregister.com/?imageId=5310274&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0e789c02d67386aaea91374f1fc3ae0b026f69dd",
-    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-    "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-    "isoDate": "2026-11-17T14:00:29Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Dan Goodin",
-    "tags": [
-      "AI",
-      "Biz & IT",
-      "Security",
-      "check-ins",
-      "grok bot",
-      "prompts"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-500x500.jpg",
     "pinned": false
   },
   {
@@ -818,40 +1072,6 @@
       "on-prem"
     ],
     "image": "https://image.theregister.com/?imageId=261440&width=800",
-    "pinned": false
-  },
-  {
-    "id": "0feeb055e8204699fda89dada539d24eb7ecb0f8",
-    "title": "Artist brings old Space Shuttle tank back to life",
-    "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-    "summary": "\"It's definitely the largest art project I've ever worked on.\"",
-    "isoDate": "2026-11-17T12:15:54Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Robert Pearlman",
-    "tags": [
-      "Space",
-      "California Science Center",
-      "collectSPACE",
-      "Dennis Jenkins",
-      "Endeavour stack",
-      "ET-94",
-      "external tank",
-      "fine arts",
-      "foam insulation",
-      "Los Angeles",
-      "museum exhibit",
-      "Natalie Rosen",
-      "orange peel texture",
-      "Samuel Oschin Air and Space Center",
-      "sculpture",
-      "space artifacts",
-      "Space exploration",
-      "space history",
-      "space shuttle Endeavour",
-      "space shuttle stack"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111326aa-lg-500x500.jpg",
     "pinned": false
   },
   {
@@ -1057,52 +1277,6 @@
     "pinned": false
   },
   {
-    "id": "c9bdcaf265096e2275ac3b8d21f3d04cd8ebf5c4",
-    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-    "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-    "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-    "isoDate": "2026-11-16T22:58:27Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Donald Trump",
-      "Eric Trump",
-      "Foundation Future Industries",
-      "Israel-Hamas war",
-      "military robots",
-      "military tech",
-      "Military technology",
-      "Robotics",
-      "robots",
-      "Ukraine",
-      "Ukraine war"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "948b78f962378e67ca67789cd925b85c3bf17a99",
-    "title": "Three small failures combined to take down Microsoft 365",
-    "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-    "isoDate": "2026-11-16T21:56:39Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Nick Indge",
-    "tags": [
-      "Tech",
-      "Cloud Gateway",
-      "Exchange Online",
-      "microsoft",
-      "microsoft 365",
-      "Windows"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "59d64c7e0e97e0c87db17830836a42ba025f5665",
     "title": "Infoblox customer and staff data exposed in Sharepoint breach",
     "link": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280",
@@ -1115,41 +1289,6 @@
       "security"
     ],
     "image": "https://image.theregister.com/?imageId=256807&width=800",
-    "pinned": false
-  },
-  {
-    "id": "1a436479b568fcdcf6c527ab6ecb9ef6a4c654be",
-    "title": "Hyperscale data centers use 2% of US electricity",
-    "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-    "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-    "isoDate": "2026-11-16T20:52:10Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scott K. Johnson",
-    "tags": [
-      "Science",
-      "ai data center",
-      "greenhouse gas emissions"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-500x500.jpg",
-    "pinned": false
-  },
-  {
-    "id": "84f741940fbdaff2c7e22535cf974d962c641fe3",
-    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-    "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-    "isoDate": "2026-11-16T20:37:47Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Scharon Harding",
-    "tags": [
-      "Biz & IT",
-      "Policy",
-      "Intel",
-      "lawsuit"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-500x500.jpg",
     "pinned": false
   },
   {
@@ -1183,66 +1322,6 @@
     "pinned": false
   },
   {
-    "id": "1365ce44c412c161d2cc54d6f3417cb72973cd5e",
-    "title": "China’s grip on Top500 remains uncontested as US chases AI-HPC fusion",
-    "link": "https://www.theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205",
-    "summary": "In the age of AI, the top spot on the bi-annual ranking is whoever willing to run HPL instead of LLMs",
-    "isoDate": "2026-11-16T19:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Tobias Mann",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5309743&width=800",
-    "pinned": false
-  },
-  {
-    "id": "74efbb3ec88cfd29306f17882cc2f1c367acc32f",
-    "title": "‘123456’ has been the world’s most popular password for 7 out of the last 8 years",
-    "link": "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
-    "summary": "People never learn",
-    "isoDate": "2026-11-16T18:33:03Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5228156&width=800",
-    "pinned": false
-  },
-  {
-    "id": "37fc6c082fdbd9f0d698426a261acf9cff082a25",
-    "title": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making",
-    "link": "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144",
-    "summary": "Flaw can take down an entire host, even when the vulnerable service is running inside a container",
-    "isoDate": "2026-11-16T18:28:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5310154&width=800",
-    "pinned": false
-  },
-  {
-    "id": "ed987360cdcdcd1e33de0e8043f20d7c64f52037",
-    "title": "Ubuntu gets AI-generated security fixes for those feeling brave",
-    "link": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
-    "summary": "Opt-in Edge archive gives Pro subscribers early access before full testing, while normal updates remain human-validated",
-    "isoDate": "2026-11-16T18:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5244798&width=800",
-    "pinned": false
-  },
-  {
     "id": "aafaee132f2be9b3d706df147bafe41d203e8700",
     "title": "Tesla Nearly Doubles Miami Robotaxi Service Area, Expands Into Downtown",
     "link": "https://www.notateslaapp.com/news/5021/tesla-nearly-doubles-miami-robotaxi-service-area-expands-into-downtown",
@@ -1256,21 +1335,6 @@
     "pinned": false
   },
   {
-    "id": "187099f24a31363a3316b3ec6aeffa4d2c6190cf",
-    "title": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage",
-    "link": "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102",
-    "summary": "Another unscheduled patch for IT teams already having quite enough fun with Redmond",
-    "isoDate": "2026-11-16T17:27:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "software"
-    ],
-    "image": "https://image.theregister.com/?imageId=233068&width=800",
-    "pinned": false
-  },
-  {
     "id": "1fe24876cacd81bb2460ea28158cdc8eeff86c6b",
     "title": "Cybercab is Coming to Europe as Tesla Announces $3.3 Billion Giga Berlin Expansion",
     "link": "https://www.notateslaapp.com/news/5020/cybercab-is-coming-to-europe-as-tesla-announces-33-billion-giga-berlin-expansion",
@@ -1281,81 +1345,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/giga-berlin.webp/7750e38b73ac7f493476ffbb56b55a2a/giga-berlin.jpg",
-    "pinned": false
-  },
-  {
-    "id": "d3018d93b717898013a5ecf6162b76eb6694ed07",
-    "title": "Crook turns LearnWorlds' free trials into phishing factory, sends 13,000 fake YouTube copyright notices",
-    "link": "https://www.theregister.com/security/2026/11/16/crook-turns-learnworlds-free-trials-into-phishing-factory-sends-13000-fake-youtube-copyright-notices/5310122",
-    "summary": "570 bogus accounts, one rewritten welcome email, and a fake YouTube page, but CEO says no breach",
-    "isoDate": "2026-11-16T17:03:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=262937&width=800",
-    "pinned": false
-  },
-  {
-    "id": "380bb0f0275351ffce8f1ed570bac76f1026960a",
-    "title": "Has AI’s ‘Black October’ changed the way you secure your code?",
-    "link": "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775",
-    "summary": "<span class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> AI agents are making security vulnerabilities easier to find and exploit in your code. Software engineering and application security teams need new ways to find and fix them",
-    "isoDate": "2026-11-16T16:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Sahil M Bansal",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5309813&width=800",
-    "pinned": false
-  },
-  {
-    "id": "66bfa833c692e974faea34b0e38fb3ea57723627",
-    "title": "Criminals attack French postal operator subsidiary, grab contact details of 22M people",
-    "link": "https://www.theregister.com/cyber-crime/2026/11/16/criminals-attack-french-postal-operator-subsidiary-grab-contact-details-of-22m-people/5310070",
-    "summary": "France's data protection authority is looking into the intrusion after the postal service reported itself",
-    "isoDate": "2026-11-16T15:28:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=1682043&width=800",
-    "pinned": false
-  },
-  {
-    "id": "2035ef31cc0cf65eab97b814bd4f50ab81457e21",
-    "title": "Microsoft Outlook outage blamed after 15 injured in hotel pool chlorine incident",
-    "link": "https://www.theregister.com/saas/2026/11/16/microsoft-outlook-outage-blamed-after-15-injured-in-hotel-pool-chlorine-incident/5310087",
-    "summary": "A safety warning went missing, chemical levels soared, and five guests ended up in hospital",
-    "isoDate": "2026-11-16T14:42:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=5310091&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7666465cea4bbfe3477018bd5e144f1e804eb91a",
-    "title": "Google: AI agent turned a security patch into a working exploit with no human help",
-    "link": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
-    "summary": "Look ma, no human in the loop!",
-    "isoDate": "2026-11-16T14:00:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "research"
-    ],
-    "image": "https://image.theregister.com/?imageId=5298454&width=800",
     "pinned": false
   },
   {
@@ -1663,58 +1652,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-rc-cybertruck-and-optimus-2-5-figurine.webp/b4edcdad6c67558a7e5cfa5cd23612d0/tesla-rc-cybertruck-and-optimus-2-5-figurine.jpg",
-    "pinned": false
-  },
-  {
-    "id": "31702363d230f7939467da91e85c4be2bb429e53",
-    "title": "Tesla Giga Berlin May Build a New Vehicle. Will It Be a Model 2, Cybercab?",
-    "link": "https://www.notateslaapp.com/news/4989/tesla-to-still-build-the-model-2-giga-berlin-may-build-a-new-vehicle",
-    "summary": "Giga Berlin’s plant manager says an expansion wouldn’t add more Model Y capacity, hinting that the factory might start building a new vehicle <a href=\"https://www.notateslaapp.com/news/4989/tesla-to-still-build-the-model-2-giga-berlin-may-build-a-new-vehicle\">Read More</a>",
-    "isoDate": "2026-11-11T20:10:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-2-q-design-concept-june-20262.webp/6919164f6a3369ccd2c7c492fe7c9e18/model-2-q-design-concept-june-20262.jpg",
-    "pinned": false
-  },
-  {
-    "id": "67e7c3625264aefb80fe5ff892e935dc4d56b292",
-    "title": "Exclusive: Musk Cut Basic Autopilot From New Vehicles to Boost FSD Subscriptions",
-    "link": "https://www.notateslaapp.com/news/4988/exclusive-musk-cut-basic-autopilot-from-new-vehicles-to-boost-fsd-subscriptions",
-    "summary": "A source has told us Musk decided to remove Basic Autopilot from new Teslas to grow FSD subscriptions, a key milestone in his trillion-dollar pay package <a href=\"https://www.notateslaapp.com/news/4988/exclusive-musk-cut-basic-autopilot-from-new-vehicles-to-boost-fsd-subscriptions\">Read More</a>",
-    "isoDate": "2026-11-11T20:08:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-3.webp/32b160c783084075049a257c2e5f5cff/fsd-vis-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "82dca58486c7298edf6617265b1981f18105a4cf",
-    "title": "Tesla Is Extending Cybertruck Production After Backlash and Strong Demand",
-    "link": "https://www.notateslaapp.com/news/4987/tesla-is-extending-cybertruck-production-after-backlash-and-strong-demand",
-    "summary": "Musk says Cybertruck production will now continue through the end of summer 2027 as Tesla tackles its backlog. <a href=\"https://www.notateslaapp.com/news/4987/tesla-is-extending-cybertruck-production-after-backlash-and-strong-demand\">Read More</a>",
-    "isoDate": "2026-11-11T17:41:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/ct_saudi_3.jpg/1a0309b032b86dd7c006f37a2fc5ad48/ct_saudi_3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "515f8db67618d97fad519cfebf2a9fcb47efd71b",
-    "title": "Tesla FSD Approved in Finland, Rolling Out Soon",
-    "link": "https://www.notateslaapp.com/news/4986/tesla-fsd-approved-in-finland-rolling-out-soon",
-    "summary": "Finland’s Traficom recognized the Dutch approval for Tesla Assisted Driving so owners can get used to it before winter, bringing FSD to 19 countries worldwide <a href=\"https://www.notateslaapp.com/news/4986/tesla-fsd-approved-in-finland-rolling-out-soon\">Read More</a>",
-    "isoDate": "2026-11-11T16:10:00Z",
-    "source": "Not a Tesla App",
-    "category": "Tech",
-    "author": "",
-    "tags": [],
-    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-approval-finland-november-2026.png/4b4266c41a95b058e52792b8c0f9af9c/tesla-fsd-approval-finland-november-2026.jpg",
     "pinned": false
   }
 ]
