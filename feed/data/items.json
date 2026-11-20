@@ -1,5 +1,80 @@
 [
   {
+    "id": "1fe5c6c3b7969d24933f7d046688a6ba935006fd",
+    "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
+    "link": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+    "summary": "Critical Virtzilla bugs, plus a strange Digital Ocean reaction to a nested virtualization issue",
+    "isoDate": "2026-11-20T00:57:45Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=262623&width=800",
+    "pinned": false
+  },
+  {
+    "id": "9b9f66e814c29bdd06a36e3490c2be2083349707",
+    "title": "Germ Network infects Android, but in a good way",
+    "link": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
+    "summary": "Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number",
+    "isoDate": "2026-11-20T00:06:35Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Thomas Claburn",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5311190&width=800",
+    "pinned": false
+  },
+  {
+    "id": "ba40f19f791df7239dece1f09a9fe4e2fe2a8152",
+    "title": "Tesla Plans Model Y L With No Steering Wheel or Pedals",
+    "link": "https://www.notateslaapp.com/news/5046/tesla-plans-model-y-l-with-no-steering-wheel-or-pedals",
+    "summary": "Musk says Tesla plans an autonomous Model Y without a steering wheel or pedals for groups of six or seven, most likely the Model Y L <a href=\"https://www.notateslaapp.com/news/5046/tesla-plans-model-y-l-with-no-steering-wheel-or-pedals\">Read More</a>",
+    "isoDate": "2026-11-19T22:44:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-no-steering-wheel-hero.png/8f8749531b3f02629c3da35847f1e926/model-y-l-no-steering-wheel-hero.jpg",
+    "pinned": false
+  },
+  {
+    "id": "4ef64e926586f5c7a6f1c7e07ea3add15b6899ab",
+    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+    "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+    "summary": "Amazon now uses its shopping platform for political purposes.",
+    "isoDate": "2026-11-19T22:16:37Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scharon Harding",
+    "tags": [
+      "Policy",
+      "Tech",
+      "Amazon",
+      "amazon delivery",
+      "amazon delivery drivers"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "66d084091194909e19736b38c9c9db638bd8db31",
+    "title": "Tesla Cybercab Specs Revealed: Warranty, Range, Charging & More",
+    "link": "https://www.notateslaapp.com/news/5045/cybercab-specs-revealed-including-warranty-range-and-charging",
+    "summary": "As more Cybercab buyer invites go out, Tesla’s configurator lists 279 miles of range, a 4-year basic warranty, an 8-year battery warranty, and more for owners <a href=\"https://www.notateslaapp.com/news/5045/cybercab-specs-revealed-including-warranty-range-and-charging\">Read More</a>",
+    "isoDate": "2026-11-19T21:49:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab_72.webp/936aa5dc86d5dc6f91c9c21b913ae785/cybercab_72.jpg",
+    "pinned": false
+  },
+  {
     "id": "f7101bc1bc3dc1cd6582814bec8ecf736e659526",
     "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
     "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
@@ -15,6 +90,21 @@
       "Tony Lyons"
     ],
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-870760928-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "07547d58b9a1af12e16f067cbaafb344e2c2a20e",
+    "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
+    "link": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
+    "summary": "First service outages, then data breaches…what's next?!",
+    "isoDate": "2026-11-19T21:12:33Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Jessica Lyons",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5311179&width=800",
     "pinned": false
   },
   {
@@ -826,26 +916,6 @@
     "pinned": false
   },
   {
-    "id": "0acf333306e0e0ba6aa8b105195d26dda8e503e8",
-    "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
-    "link": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
-    "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
-    "isoDate": "2026-11-18T17:53:59Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Jacob May",
-    "tags": [
-      "Reviews",
-      "Tech",
-      "e-bikes",
-      "electric bikes",
-      "pedal assist bikes",
-      "Specialized"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "d5ac8eaeba7bb330c0105b72b1e30c3f979105b8",
     "title": "California tells Waymo to take the next exit after freeway mishaps",
     "link": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841",
@@ -1189,21 +1259,6 @@
     "pinned": false
   },
   {
-    "id": "0d1e62ec9801df7b496d8ce52eaff15d5ab7542b",
-    "title": "Jensen Huang thrilled to be spending time with family, but will retake leadership burden if Nvidia asks",
-    "link": "https://www.theregister.com/systems/2026/11/17/jensen-huang-thrilled-to-be-spending-time-with-family-but-will-retake-leadership-burden-if-nvidia-asks/5310585",
-    "summary": "But the new chairman shot that idea down on the company's earnings call",
-    "isoDate": "2026-11-17T21:15:42Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=222354&width=800",
-    "pinned": false
-  },
-  {
     "id": "6d6980d093431f505e59ed93cab7083871d20adf",
     "title": "Tesla Launches Its First FSD Ad in Times Square",
     "link": "https://www.notateslaapp.com/news/5030/tesla-launches-its-first-fsd-ad-in-times-square",
@@ -1217,21 +1272,6 @@
     "pinned": false
   },
   {
-    "id": "81b5720b2c467e4042354ddf5961a4383e06de2c",
-    "title": "Python parallel debugging comes to HPC thanks to TotalView upgrade",
-    "link": "https://www.theregister.com/devops/2026/11/17/python-parallel-debugging-comes-to-hpc-thanks-to-totalview-upgrade/5310564",
-    "summary": "TotalView has supported C/C++ and Fortran. With the latest quarterly release, it supports Python as well",
-    "isoDate": "2026-11-17T20:14:31Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Joab Jackson",
-    "tags": [
-      "devops"
-    ],
-    "image": "https://image.theregister.com/?imageId=5310582&width=800",
-    "pinned": false
-  },
-  {
     "id": "38919ba60c32b4242447275dbe5a1149ab2dcbc9",
     "title": "Tesla TAD in Europe to Require Attention During Maneuvers and Hands on Wheel Over 130 Km/h",
     "link": "https://www.notateslaapp.com/news/5029/tesla-tad-in-europe-to-require-hands-on-wheel-over-130-kmh-more",
@@ -1242,21 +1282,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-3.webp/32b160c783084075049a257c2e5f5cff/fsd-vis-3.jpg",
-    "pinned": false
-  },
-  {
-    "id": "22db59e8cc1cf6c44101791e9b6f49807ab86d36",
-    "title": "Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’",
-    "link": "https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
-    "summary": "If you design a test to find misalignment, you will find misalignment",
-    "isoDate": "2026-11-17T19:52:57Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=223243&width=800",
     "pinned": false
   },
   {
