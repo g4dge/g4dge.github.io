@@ -1,5 +1,229 @@
 [
   {
+    "id": "b6c5d6c2f9d7815e06e13f0d5cbdc0d59808745c",
+    "title": "Rackspace pulls plug on Spot cloud service after security breach",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352",
+    "summary": "Customers face frantic scramble to migrate workloads and rotate compromised credentials",
+    "isoDate": "2026-11-26T14:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "cyber-crime"
+    ],
+    "image": "https://image.theregister.com/?imageId=5242796&width=800",
+    "pinned": false
+  },
+  {
+    "id": "2512a65d290b11c25bfcaca26768ab4de75906d8",
+    "title": "Wyoming uranium operation shuts down after cyberattack",
+    "link": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323",
+    "summary": "Peninsula Energy says plant and wellfield control systems were affected, with no restart date yet",
+    "isoDate": "2026-11-26T14:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5312346&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f775165967876de038eb6b894c8d93ffc821c945",
+    "title": "SpaceX Will Match Musk's Gift, Giving Every U.S. Kid Two Shares",
+    "link": "https://www.notateslaapp.com/news/5088/spacex-will-match-musks-gift-giving-every-us-kid-two-shares",
+    "summary": "SpaceX and Musk will each give one share to every U.S. child with a Trump Account, worth about $18 billion combined. <a href=\"https://www.notateslaapp.com/news/5088/spacex-will-match-musks-gift-giving-every-us-kid-two-shares\">Read More</a>",
+    "isoDate": "2026-11-26T13:30:00Z",
+    "source": "Not a Tesla App",
+    "category": "Tech",
+    "author": "",
+    "tags": [],
+    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-falcon-9-launch-moon-hero-2.jpg/5add1d1e00edd99cfae52467b642502a/spacex-falcon-9-launch-moon-hero-2.jpg",
+    "pinned": false
+  },
+  {
+    "id": "14b3e60e10f9bd9572591bf49b883be5a383e3a1",
+    "title": "Company was religious about backups but sinned by leaving them exposed",
+    "link": "https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234",
+    "summary": "Never put the backup server in the same Windows domain as production",
+    "isoDate": "2026-11-26T13:22:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Avram Piltch",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5312239&width=800",
+    "pinned": false
+  },
+  {
+    "id": "93095fbd118b50a233eb3b7409f7587b7dd6b693",
+    "title": "Stale links on UK public sector websites direct visitors to gambling dens",
+    "link": "https://www.theregister.com/public-sector/2026/11/26/stale-links-on-uk-public-sector-websites-direct-visitors-to-gambling-dens/5312049",
+    "summary": "Consultancy finds 93 routes to casino promotions across 26 orgs, with defunct enterprise partnership domains repurposed",
+    "isoDate": "2026-11-26T13:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5296669&width=800",
+    "pinned": false
+  },
+  {
+    "id": "16bed08c62d165f09a7e0f38daeb96d971a29d8a",
+    "title": "Microsoft hotpatches hotpatch that could crash Windows Server 2025",
+    "link": "https://www.theregister.com/os-platforms/2026/11/26/microsoft-hotpatches-hotpatch-that-could-crash-windows-server-2025/5312301",
+    "summary": "Expiring IPv6 routes can bring affected systems down, though corrective update doesn't require a restart",
+    "isoDate": "2026-11-26T12:27:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Richard Speed",
+    "tags": [
+      "os platforms"
+    ],
+    "image": "https://image.theregister.com/?imageId=4093838&width=800",
+    "pinned": false
+  },
+  {
+    "id": "abca0f7100ad36c1b0d6f337e4c73bc27a577048",
+    "title": "Draining peatlands is responsible for a few percent of our global warming",
+    "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+    "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+    "isoDate": "2026-11-26T12:15:42Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Scott K. Johnson",
+    "tags": [
+      "Science",
+      "carbon cycle",
+      "greenhouse gas emissions",
+      "wetlands"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1296653735-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "400430a450f9504dc8f135d58c29fd2d328d6d9c",
+    "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+    "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+    "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
+    "isoDate": "2026-11-26T12:00:14Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Ars Staff",
+    "tags": [
+      "Features",
+      "Staff",
+      "home offices"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-office-collage-2026-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "b012433ec8340b01be94177129b269878c4f17d3",
+    "title": "UK government working 'around the clock' on Capita contingency plans",
+    "link": "https://www.theregister.com/public-sector/2026/11/26/uk-government-working-around-the-clock-on-capita-contingency-plans/5312298",
+    "summary": "Minister says outsourcer should be 'absolutely ashamed' of pensions failures after CEO exits and shares plunge",
+    "isoDate": "2026-11-26T11:45:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Lindsay Clark",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=230531&width=800",
+    "pinned": false
+  },
+  {
+    "id": "977230ccbf62a3c16276075d006790011b9ceb13",
+    "title": "Hackers help themselves to 1Password's source code and customer data",
+    "link": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317",
+    "summary": "An intruder planted malicious code in backend services, but the biz insists passwords are safe",
+    "isoDate": "2026-11-26T11:02:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Carly Page",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5306978&width=800",
+    "pinned": false
+  },
+  {
+    "id": "854de6bb1c4c3654cb9d1f4534bf6fe1c07e351d",
+    "title": "Lina Ghotmeh: archaeology of the future",
+    "link": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal",
+    "summary": "<p><img alt=\"Photo of a person looking up at a tall beige building from a narrow alley, framed by worn-out structures and a tree.\" src=\"https://images.aeonmedia.co/images/54815ddf-dc20-474d-82d9-757571536dd1/lina-ghotmeh-archaeology-of-the-future-landscape-1.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>In the work of the Lebanese architect Lina Ghotmeh, the scars of the past inform resilient buildings for the future</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal\">Watch on Aeon</a></p>",
+    "isoDate": "2026-11-26T11:01:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Aeon Video",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "f4e4840a9f083705c17de4fb9b851d67237336bd",
+    "title": "The pretendian wars",
+    "link": "https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft",
+    "summary": "<p><img alt=\"Black-and-white photo of a person in traditional American Indian attire with braided hair and a feather.\" src=\"https://images.aeonmedia.co/images/e68a91ac-5959-4ae2-9d6b-7320076b26c7/grey-owl-feather-essay.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>To falsely claim Indigenous identity is not a frivolous mistake. It’s a grave theft, and the stakes are getting higher</p><p><em>- by Dina Gilio-Whitaker</em></p><p><a href=\"https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft\">Read on Aeon</a></p>",
+    "isoDate": "2026-11-26T11:00:00Z",
+    "source": "Aeon",
+    "category": "Long Reads",
+    "author": "Dina Gilio-Whitaker",
+    "tags": [],
+    "image": "",
+    "pinned": false
+  },
+  {
+    "id": "051a20c09a830ecbeb0b9374c8e2bf7951b78257",
+    "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+    "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+    "summary": "In my mind and in my car, we can't rewind, we've gone too far",
+    "isoDate": "2026-11-26T10:15:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Dan Olds",
+    "tags": [
+      "hpc"
+    ],
+    "image": "https://image.theregister.com/?imageId=5311848&width=800",
+    "pinned": false
+  },
+  {
+    "id": "76edafc19f9cbb7b510fbb2c7d92c9834edae195",
+    "title": "UK Home Office waved through border system without a working fix for bad data",
+    "link": "https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162",
+    "summary": "ICO reprimand follows failings that risked wrongful detention, with a temporary correction process taking more than a year to arrive",
+    "isoDate": "2026-11-26T09:30:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Connor Jones",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=252762&width=800",
+    "pinned": false
+  },
+  {
+    "id": "f36576a4501b2218586b61ee0cffb6cbd6eb279e",
+    "title": "India’s government ponders cradle to grave AI oversight",
+    "link": "https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275",
+    "summary": "Machines of loving grace to turn social media grumps into services, finger painting into career advice",
+    "isoDate": "2026-11-26T03:42:56Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "public sector"
+    ],
+    "image": "https://image.theregister.com/?imageId=5312280&width=800",
+    "pinned": false
+  },
+  {
     "id": "73a1a236694ed1314b8e36dff002d06a74701e53",
     "title": "Tesla Adds 1,000+ Superchargers & More Ahead of Thanksgiving Rush",
     "link": "https://www.notateslaapp.com/news/5086/tesla-adds-1000-superchargers-more-ahead-of-thanksgiving-rush",
@@ -854,26 +1078,6 @@
     "pinned": false
   },
   {
-    "id": "ea6f6f7490b23d7d1c7a18941b7340a5c1a30569",
-    "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
-    "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
-    "summary": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
-    "isoDate": "2026-11-24T18:03:58Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ashley Belanger",
-    "tags": [
-      "Policy",
-      "Kalshi",
-      "online gambling",
-      "prediction market",
-      "sports betting",
-      "Utah"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1010796264-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fb54ba3de74d948e65d6e5d6a8b16c9ae4c75953",
     "title": "Arm strongarms site that hosts ad-free documentation and it may disappear",
     "link": "https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925",
@@ -886,24 +1090,6 @@
       "systems"
     ],
     "image": "https://image.theregister.com/?imageId=5305665&width=800",
-    "pinned": false
-  },
-  {
-    "id": "34b536284971b1a885ce5a1052aa2d167badf506",
-    "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-    "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-    "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-    "isoDate": "2026-11-24T17:34:34Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Artificial Intelligence",
-      "music streaming",
-      "tidal"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-500x500.jpg",
     "pinned": false
   },
   {
@@ -1201,36 +1387,6 @@
     "pinned": false
   },
   {
-    "id": "10648d7dbbc8269229e39afdd3a4926039808f5c",
-    "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
-    "summary": "Not the whole startup - just its tech and the brains behind it",
-    "isoDate": "2026-11-23T21:17:15Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=5222824&width=800",
-    "pinned": false
-  },
-  {
-    "id": "879adbc122737255761b6eeffb864ff72e0a4f2f",
-    "title": "Bluetooth brakes are broken as researchers find anyone can control them",
-    "link": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
-    "summary": "Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched",
-    "isoDate": "2026-11-23T19:29:59Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=229180&width=800",
-    "pinned": false
-  },
-  {
     "id": "f5415ea000ce38e6ec82ff954fb169ad946e61e9",
     "title": "Tesla FSD V15 Finally Removes the Disengagement Menu",
     "link": "https://www.notateslaapp.com/news/5069/tesla-fsd-v15-finally-removes-the-disengagement-menu",
@@ -1244,21 +1400,6 @@
     "pinned": false
   },
   {
-    "id": "3e0e8a60cada458e319efbd93caaddcca6aedcf9",
-    "title": "Critical Cisco remote code execution bug under attack",
-    "link": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
-    "summary": "CISA, F6 sound the alarm after PoC exploit made public",
-    "isoDate": "2026-11-23T17:56:56Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Jessica Lyons",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=5249134&width=800",
-    "pinned": false
-  },
-  {
     "id": "a9c53b8d6f22e1461954bc37150a4689f2df8b34",
     "title": "How Tesla's FSD V15 Reality View Actually Works [VIDEO]",
     "link": "https://www.notateslaapp.com/news/5068/how-teslas-fsd-v15-reality-view-actually-works-video",
@@ -1269,36 +1410,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-v15-reality-view-touchscreen-hero.webp/7d3e54106aa55179d4d2af054335ed31/tesla-fsd-v15-reality-view-touchscreen-hero.jpg",
-    "pinned": false
-  },
-  {
-    "id": "150147ab1470bb5d0a3578e3771239c4f5c09d9b",
-    "title": "Bulgaria evicts cyber snoops who lurked inside government networks for 5 years",
-    "link": "https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629",
-    "summary": "Minister says intruders downloaded more than 130 GB of data as political churn left security neglected",
-    "isoDate": "2026-11-23T17:01:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Connor Jones",
-    "tags": [
-      "security"
-    ],
-    "image": "https://image.theregister.com/?imageId=256287&width=800",
-    "pinned": false
-  },
-  {
-    "id": "7c524489815fadb099d57cd30e5134f7af4e1a2e",
-    "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
-    "link": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656",
-    "summary": "July bug overwhelmed newer servers, prompting promises of stronger safeguards and faster recovery",
-    "isoDate": "2026-11-23T16:16:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=5295388&width=800",
     "pinned": false
   },
   {
@@ -1325,81 +1436,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/ai4-chip-hardware.webp/05de79ca973273cf526f21e496776305/ai4-chip-hardware.jpg",
-    "pinned": false
-  },
-  {
-    "id": "2ad4ccf2a7d6415b882ea10d1fc4795458da93ca",
-    "title": "British retailer Next downplays data breach at tech supplier",
-    "link": "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684",
-    "summary": "Retailer insists customer details are safe and the data accessed is 'benign,' but won't say exactly what hackers got their hands on",
-    "isoDate": "2026-11-23T15:09:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5311688&width=800",
-    "pinned": false
-  },
-  {
-    "id": "37e15d6f009b37ea37db828ddc31fe6afe1eeac3",
-    "title": "Nvidia board puts Jensen Huang back as boss",
-    "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674",
-    "summary": "BoomerHuang CEO returns",
-    "isoDate": "2026-11-23T14:35:50Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "systems"
-    ],
-    "image": "https://image.theregister.com/?imageId=5311670&width=800",
-    "pinned": false
-  },
-  {
-    "id": "828536289363d134a54275a97759ed447416f6bc",
-    "title": "Everything going down at once wasn't evidence of a conspiracy – but the truth may be scarier",
-    "link": "https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458",
-    "summary": "Rogue AI or nation-state hackers would be preferable to the amount of technical debt the past week of wobbling services laid bare",
-    "isoDate": "2026-11-23T14:04:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Brandon Vigliarolo",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5309241&width=800",
-    "pinned": false
-  },
-  {
-    "id": "f073e6158871eccd29867f42776383dd52ebd5d9",
-    "title": "Trump says he won't allow US companies to build datacenters abroad",
-    "link": "https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640",
-    "summary": "President threatens 'tremendous tax' on overseas builds, but analysts question how restrictions would work",
-    "isoDate": "2026-11-23T13:40:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "off-prem"
-    ],
-    "image": "https://image.theregister.com/?imageId=5223935&width=800",
-    "pinned": false
-  },
-  {
-    "id": "283d2358d1996832598347c7dbd46e835f1c466b",
-    "title": "New Outlook's attachment issues sent users into the arms of its predecessor",
-    "link": "https://www.theregister.com/saas/2026/11/23/new-outlooks-attachment-issues-sent-users-into-the-arms-of-its-predecessor/5311576",
-    "summary": "Microsoft recommended Classic or the web client while two rounds of fixes restored normal service",
-    "isoDate": "2026-11-23T12:30:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "saas"
-    ],
-    "image": "https://image.theregister.com/?imageId=5237731&width=800",
     "pinned": false
   },
   {
@@ -1677,32 +1713,6 @@
     "author": "",
     "tags": [],
     "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-recharged-badges-desktop.jpeg/fb2d345a12194ce9b9e1eff994caa764/tesla-recharged-badges-desktop.jpg",
-    "pinned": false
-  },
-  {
-    "id": "6ac1cf5207144ace7f6fb30eda19e32b6a38f2bd",
-    "title": "Wunderkammer",
-    "link": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums",
-    "summary": "<p><img alt=\"Painting of men in a study with a globe, books and scientific instruments on a table; a monkey is by the window.\" src=\"https://images.aeonmedia.co/images/764cf5a9-204d-4dff-9e60-f1771f9262c0/wunderkammer-cover.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world</p><p><em>- by Aeon Video</em></p><p><a href=\"https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums\">Watch on Aeon</a></p>",
-    "isoDate": "2026-11-19T11:01:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Aeon Video",
-    "tags": [],
-    "image": "",
-    "pinned": false
-  },
-  {
-    "id": "ddf591d7912f78408c4af0a804710d6b9b8a8ba5",
-    "title": "At least it remembers",
-    "link": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
-    "summary": "<p><img alt=\"A child in a dark room looking at a smartphone, face partially visible due to dim lighting.\" src=\"https://images.aeonmedia.co/images/67889061-dbb5-4c47-87eb-21851f330133/essay-gettyimages-1950705233.jpg?width=1200&amp;quality=75&amp;format=auto\" /></p><p>Parents fear what AI will do to children. But for some, it’s the only steady presence they have – and that’s the real worry</p><p><em>- by Tom Wooldridge</em></p><p><a href=\"https://aeon.co/essays/what-would-parenting-by-ai-look-like\">Read on Aeon</a></p>",
-    "isoDate": "2026-11-19T11:00:00Z",
-    "source": "Aeon",
-    "category": "Long Reads",
-    "author": "Tom Wooldridge",
-    "tags": [],
-    "image": "",
     "pinned": false
   }
 ]
