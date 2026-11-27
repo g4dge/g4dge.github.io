@@ -1,5 +1,69 @@
 [
   {
+    "id": "34ceccd6df3c95c8235dd5726a36d43b554501d2",
+    "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+    "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+    "summary": "There’s just one thing we still don’t know: How much will they cost?",
+    "isoDate": "2026-11-27T08:00:53Z",
+    "source": "Ars Technica",
+    "category": "Tech",
+    "author": "Jonathan M. Gitlin",
+    "tags": [
+      "Cars",
+      "car review",
+      "First drive",
+      "Volvo XC60",
+      "Volvo XC90"
+    ],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/volvo-xc60-xc90-combo-500x500.jpg",
+    "pinned": false
+  },
+  {
+    "id": "e077013cf5c808fec373493317f1ee46943ce61a",
+    "title": "Support team put in an emergency order for vodka – lots of vodka – to bring PCs back online",
+    "link": "https://www.theregister.com/on-prem/2026/11/27/support-team-put-in-an-emergency-order-for-vodka-lots-of-vodka-to-bring-pcs-back-online/5312283",
+    "summary": "Some clean-up jobs need powerful stuff",
+    "isoDate": "2026-11-27T07:34:00Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "on-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5312288&width=800",
+    "pinned": false
+  },
+  {
+    "id": "662c37f88e4b5e04f3113895ad4a950033d6927e",
+    "title": "AWS adds virtual iPhones to its cloud",
+    "link": "https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457",
+    "summary": "Emulating Android, too, but offers just two handsets and one tablet",
+    "isoDate": "2026-11-27T05:13:32Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "off-prem"
+    ],
+    "image": "https://image.theregister.com/?imageId=5312462&width=800",
+    "pinned": false
+  },
+  {
+    "id": "24f736113b681609c62f22ebfc8fb226cf623fbb",
+    "title": "Free e-government platform that serves two billion people in ten countries has critical SQL injection bug",
+    "link": "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449",
+    "summary": "India’s Digital Infrastructure for Governance Impact and Transformation tool can leak data",
+    "isoDate": "2026-11-27T01:19:31Z",
+    "source": "The Register",
+    "category": "Tech",
+    "author": "Simon Sharwood",
+    "tags": [
+      "security"
+    ],
+    "image": "https://image.theregister.com/?imageId=5312454&width=800",
+    "pinned": false
+  },
+  {
     "id": "426be7819210272944f96919002b048679e61824",
     "title": "SpaceX to Build Rooftop Microcell Stations for Starlink Mobile",
     "link": "https://www.notateslaapp.com/news/5096/spacex-to-build-rooftop-microcell-stations-for-starlink-mobile",
@@ -1201,31 +1265,6 @@
     "pinned": false
   },
   {
-    "id": "6382aa733e8c6ae1d3cef00fe34774af1339da66",
-    "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-    "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-    "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-    "isoDate": "2026-11-24T18:30:36Z",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "author": "Stephen Clark",
-    "tags": [
-      "Space",
-      "Amazon",
-      "amazon leo",
-      "ariane 6",
-      "Arianespace",
-      "broadband",
-      "Commercial space",
-      "falcon 9",
-      "launch",
-      "megaconstellation",
-      "spacex"
-    ],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/HSH9kiAbUAAzHdZ-500x500.jpg",
-    "pinned": false
-  },
-  {
     "id": "fb54ba3de74d948e65d6e5d6a8b16c9ae4c75953",
     "title": "Arm strongarms site that hosts ad-free documentation and it may disappear",
     "link": "https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925",
@@ -1359,36 +1398,6 @@
     "pinned": false
   },
   {
-    "id": "b4a9690560183d3cc2803b53f0da7d19f19f831a",
-    "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
-    "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-    "summary": "EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly",
-    "isoDate": "2026-11-24T11:32:41Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Carly Page",
-    "tags": [
-      "cyber-crime"
-    ],
-    "image": "https://image.theregister.com/?imageId=5311112&width=800",
-    "pinned": false
-  },
-  {
-    "id": "01da5e9f45c562ddf566e5aa83b8bc82f3ad0d26",
-    "title": "BepiColombo takes the long way around Mercury after software glitch",
-    "link": "https://www.theregister.com/science/2026/11/24/bepicolombo-takes-the-long-way-around-mercury-after-software-glitch/5311825",
-    "summary": "Shortened burn leaves probe in a 75-hour orbit, but ESA says December separation remains on schedule",
-    "isoDate": "2026-11-24T11:06:52Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Richard Speed",
-    "tags": [
-      "science"
-    ],
-    "image": "https://image.theregister.com/?imageId=1685901&width=800",
-    "pinned": false
-  },
-  {
     "id": "7afaa8128bf8374e6a586d1a80ba99a59b9fd6f6",
     "title": "Is mental illness universal?",
     "link": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
@@ -1399,21 +1408,6 @@
     "author": "Alexander Pereira",
     "tags": [],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "48898795a78101fed3a2924fc5f6094634bee9bd",
-    "title": "InferNode gives Bell Labs' Inferno OS a 64-bit second wind",
-    "link": "https://www.theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704",
-    "summary": "Plan 9's successor finds a new role containing AI agents, though its developer says those features are optional",
-    "isoDate": "2026-11-24T10:09:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Liam Proven",
-    "tags": [
-      "os platforms"
-    ],
-    "image": "https://image.theregister.com/?imageId=5311734&width=800",
     "pinned": false
   },
   {
@@ -1429,21 +1423,6 @@
       "Archive"
     ],
     "image": "",
-    "pinned": false
-  },
-  {
-    "id": "2e70dd4f7f118d7129dee5afe32d4b5336018bd1",
-    "title": "UK gov invests in defense startup making virtual training ground for AI",
-    "link": "https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707",
-    "summary": "Britain wants sovereign capability to test whether military AI will work before it gets deployed for real",
-    "isoDate": "2026-11-24T09:16:00Z",
-    "source": "The Register",
-    "category": "Tech",
-    "author": "Dan Robinson",
-    "tags": [
-      "ai and ml"
-    ],
-    "image": "https://image.theregister.com/?imageId=260608&width=800",
     "pinned": false
   },
   {
